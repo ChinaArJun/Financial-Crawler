@@ -1,0 +1,13 @@
+.ropeproject
+*.pyc
+*config.py
+*.swp
+*log
+.DS_Store
+*.conf
+*settings.py
+_templates/*
+*.htm
+__pycache__/
+.cache
+.python-version
