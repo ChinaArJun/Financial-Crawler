@@ -109,7 +109,10 @@ def get_managers(manager_list):
 def parse_danjuan_fund(fund_code, json_text):
     d = json.loads(json_text)
     print("抓取状态:%s"%d)
-    if not d.has_key("manager_list") or d['result_code'] == 600001:
+    print(d.__contains__('manager_list'))
+    if not d.__contains__('manager_list') or not d.__contains__('data'):
+        return "", "", ""
+    if d['result_code'] == 600001:
         return "", "", ""
     data = d['data']
     manager_list = data['manager_list']
