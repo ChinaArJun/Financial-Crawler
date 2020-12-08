@@ -3,6 +3,14 @@
     "pid": -110,
     "category": 2,
     "stocks": [
+            {
+        "symbol": "F110022",
+        "name": "易方达",
+        "type": 23,
+        "remark": "",
+        "exchange": "F",
+        "created": 1583768233157
+      },
       {
         "symbol": "F163406",
         "name": "兴全合润",
