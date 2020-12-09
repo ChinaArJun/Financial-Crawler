@@ -83,7 +83,7 @@ Table = None
 
 def init_conn():
     global Connection, Table  # 全局使用
-    url = "mysql+pymysql://root:root@127.0.0.1:3306/testdb"  # 测试地址，改成你的本地 mysql 数据库地址
+    url = "mysql+pymysql://root:root@127.0.0.1:3306/python_fund"  # 测试地址，改成你的本地 mysql 数据库地址
     engine = db.create_engine(url)
     metadata = db.MetaData()
     Connection = engine.connect()
@@ -209,21 +209,21 @@ def get_danke_all_funds(type = 1):
     items = []
     codes = []  # [ (code, name) ]
 
-    with open("./all_funds_%s.json"%type) as f:
-        res = json.load(f)
-        if len(res) > 0:
-            for item in res:
-                fund_code = item["fd_code"]
-                fund_name = item['fd_name']
-                codes.append((fund_code, fund_name))
-                items.append(item)
-            currentItems = []
-            return codes
+    # with open("./all_funds_%s.json"%type) as f:
+    #     res = json.load(f)
+    #     if len(res) > 0:
+    #         for item in res:
+    #             fund_code = item["fd_code"]
+    #             fund_name = item['fd_name']
+    #             codes.append((fund_code, fund_name))
+    #             items.append(item)
+    #         currentItems = []
+    #         return codes
 
 
     while len(currentItems) != 0:
         resp = requests.get(
-            "https://danjuanfunds.com/djapi/v3/filter/fund?type=%s&order_by=1m&size=100&page=%s"%type,page,
+            "https://danjuanfunds.com/djapi/v3/filter/fund?type=%s&order_by=1m&size=100&page=%s"%(type,page),
             headers={
                 "Accept": "application/json; charset=utf-8",
                 "Accept-Language": "zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7",
@@ -248,7 +248,7 @@ def get_danke_all_funds(type = 1):
             items.append(item)
         currentItems = res['data']['items']
         page+=1
-    with open("all_funds_1.json", "w") as f:
+    with open("all_funds_%s.json"%type, "w") as f:
         json.dump(items, f, indent=2, ensure_ascii=False)
     return codes
 
@@ -306,7 +306,7 @@ def export_all_mysql_funds_stocks_to_excel():  # 横着
 
 def export_all_stock_funds():
     """导出每个股票被多少基金持有，比较容易看出哪些股票被抱团"""
-    query = db.select([Table]).order_by(db.desc(Table.columns.id)).limit(100)
+    query = db.select([Table]).order_by(db.desc(Table.columns.id)).limit(10000)
     rows = Connection.execute(query).fetchall()
     stock_funds = collections.defaultdict(list)
     for row in rows:
@@ -317,7 +317,8 @@ def export_all_stock_funds():
             stock_list = []
 
         for stock in stock_list:
-            name, code, percent = stock['name'], stock['code'], stock['percent']
+            name = stock['name'] if 'name' in stock else ""
+            code, percent = stock['code'], stock['percent']
             stock_name = u"{}({})".format(name, code)
             stock_funds[stock_name].append(row.fund_name)
 
@@ -329,12 +330,26 @@ def export_all_stock_funds():
 
 def main():
     # get_fund_json("007300", "汇添富中盘", True) # 单独抓取一个基金数据到文件
-    crawl_all_my_funds_to_mysql(1) # 抓取所有我关注的雪球上的基金到 mysql
-    crawl_all_my_funds_to_mysql(2) # 抓取所有我关注的雪球上的基金到 mysql
-    crawl_all_my_funds_to_mysql(3) # 抓取所有我关注的雪球上的基金到 mysql
-    crawl_all_my_funds_to_mysql(4) # 抓取所有我关注的雪球上的基金到 mysql
-    crawl_all_my_funds_to_mysql(5) # 抓取所有我关注的雪球上的基金到 mysql
-    crawl_all_my_funds_to_mysql(6) # 抓取所有我关注的雪球上的基金到 mysql
+    # crawl_all_my_funds_to_mysql(1) # 抓取所有我关注的雪球上的基金到 mysql
+    # crawl_all_my_funds_to_mysql(2) # 抓取所有我关注的雪球上的基金到 mysql
+    # crawl_all_my_funds_to_mysql(3) # 抓取所有我关注的雪球上的基金到 mysql
+    # crawl_all_my_funds_to_mysql(4) # 抓取所有我关注的雪球上的基金到 mysql
+    # crawl_all_my_funds_to_mysql(5) # 抓取所有我关注的雪球上的基金到 mysql
+    # crawl_all_my_funds_to_mysql(6) # 抓取所有我关注的雪球上的基金到 mysql
+
+    # crawl_all_my_funds_to_mysql(11) # 抓取所有我关注的雪球上的基金到 mysql
+    # crawl_all_my_funds_to_mysql(1001) # 抓取所有我关注的雪球上的基金到 mysql
+    # crawl_all_my_funds_to_mysql(1002) # 抓取所有我关注的雪球上的基金到 mysql
+    # crawl_all_my_funds_to_mysql(1003) # 抓取所有我关注的雪球上的基金到 mysql
+    # crawl_all_my_funds_to_mysql(1004) # 抓取所有我关注的雪球上的基金到 mysql
+    # crawl_all_my_funds_to_mysql(1005) # 抓取所有我关注的雪球上的基金到 mysql
+    #
+    # crawl_all_my_funds_to_mysql(2001) # 抓取所有我关注的雪球上的基金到 mysql
+    # crawl_all_my_funds_to_mysql(2002) # 抓取所有我关注的雪球上的基金到 mysql
+    # crawl_all_my_funds_to_mysql(2003) # 抓取所有我关注的雪球上的基金到 mysql
+    # crawl_all_my_funds_to_mysql(2004) # 抓取所有我关注的雪球上的基金到 mysql
+    #
+    # crawl_all_my_funds_to_mysql(2005) # 抓取所有我关注的雪球上的基金到 mysql
 
     export_all_mysql_funds_stocks_to_excel_vertical()  # 导出基金十大重仓股
     export_all_mysql_funds_stocks_to_excel()  # 导出横版基金十大重仓
