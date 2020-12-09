@@ -1,0 +1,409 @@
+{
+  "data": {
+    "fund_position": {
+      "stock_percent": 94.25,
+      "cash_percent": 5.65,
+      "other_percent": 0.1,
+      "asset_tot": 159182100.66,
+      "asset_val": 158714936.86,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "片仔癀",
+          "code": "600436",
+          "percent": 9.22,
+          "current_price": 227.97,
+          "change_percentage": 0.29,
+          "xq_symbol": "SH600436",
+          "xq_url": "https://xueqiu.com/S/SH600436",
+          "amarket": true
+        },
+        {
+          "name": "美的集团",
+          "code": "000333",
+          "percent": 8.83,
+          "current_price": 86.7,
+          "change_percentage": -1.54,
+          "xq_symbol": "SZ000333",
+          "xq_url": "https://xueqiu.com/S/SZ000333",
+          "amarket": true
+        },
+        {
+          "name": "招商银行",
+          "code": "600036",
+          "percent": 7.49,
+          "current_price": 44.26,
+          "change_percentage": -0.36,
+          "xq_symbol": "SH600036",
+          "xq_url": "https://xueqiu.com/S/SH600036",
+          "amarket": true
+        },
+        {
+          "name": "中国人寿",
+          "code": "601628",
+          "percent": 5.55,
+          "current_price": 41.81,
+          "change_percentage": -0.21,
+          "xq_symbol": "SH601628",
+          "xq_url": "https://xueqiu.com/S/SH601628",
+          "amarket": true
+        },
+        {
+          "name": "中信证券",
+          "code": "600030",
+          "percent": 5.31,
+          "current_price": 30.01,
+          "change_percentage": 0,
+          "xq_symbol": "SH600030",
+          "xq_url": "https://xueqiu.com/S/SH600030",
+          "amarket": true
+        },
+        {
+          "name": "宁波银行",
+          "code": "002142",
+          "percent": 4.93,
+          "current_price": 35.74,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ002142",
+          "xq_url": "https://xueqiu.com/S/SZ002142",
+          "amarket": true
+        },
+        {
+          "name": "三钢闽光",
+          "code": "002110",
+          "percent": 4.57,
+          "current_price": 6.93,
+          "change_percentage": -0.43,
+          "xq_symbol": "SZ002110",
+          "xq_url": "https://xueqiu.com/S/SZ002110",
+          "amarket": true
+        },
+        {
+          "name": "兴业银行",
+          "code": "601166",
+          "percent": 4.11,
+          "current_price": 20.26,
+          "change_percentage": -1.17,
+          "xq_symbol": "SH601166",
+          "xq_url": "https://xueqiu.com/S/SH601166",
+          "amarket": true
+        },
+        {
+          "name": "晨光文具",
+          "code": "603899",
+          "percent": 3.77,
+          "current_price": 79.4,
+          "change_percentage": -1.79,
+          "xq_symbol": "SH603899",
+          "xq_url": "https://xueqiu.com/S/SH603899",
+          "amarket": true
+        },
+        {
+          "name": "南京银行",
+          "code": "601009",
+          "percent": 3.67,
+          "current_price": 8.2,
+          "change_percentage": -1.2,
+          "xq_symbol": "SH601009",
+          "xq_url": "https://xueqiu.com/S/SH601009",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "004403",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<200万",
+          "value": "1.00"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "365天≤持有期限<730天",
+          "value": "0.250"
+        },
+        {
+          "name": "730天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "成钧",
+        "resume": "    成钧先生,上海交通大学博士,南京大学和上海证券交易所博士后,曾任职于上海证券交易所、国泰基金管理有限公司、嘉实基金管理有限公司、中国平安人寿保险股份有限公司。2017年2月加入平安基金管理有限公司,现任ETF指数中心指数投资总监。同时担任平安沪深300交易型开放式指数证券投资基金(2017-12-25至今)、平安中证500交易型开放式指数证券投资基金(2018-03-23至今)、平安沪深300交易型开放式指数证券投资基金联接基金(2018-04-04-至今)、平安MSCI中国A股国际交易型开放式指数证券投资基金(2018-06-15至今)、平安MSCI中国A股国际交易型开放式指数证券投资基金联接基金(2018-06-21至今)、平安中证500交易型开放式指数证券投资基金联接基金(2018-09-05至今)、平安创业板交易型开放式指数证券投资基金(2019-03-15至今)、平安中证5-10年期国债活跃券交易型开放式指数证券投资基金(2019-07-30至今)、平安中债-中高等级公司债利差因子交易型开放式指数证券投资基金(2019-07-30至今)、平安中证粤港澳大湾区发展主题交易型开放式指数证券投资基金(2019-09-23至今)、平安创业板交易型开放式指数证券投资基金联接基金(2020-03-25至今)、平安中债-0-5年广东省地方政府债交易型开放式指数证券投资基金(2020-04-29至今)、平安股息精选沪港深股票型证券投资基金(2020-06-24至今)基金经理。",
+        "college": "上海交通大学、南京大学",
+        "achievement_list": [
+          {
+            "fund_code": "004404",
+            "fundsname": "平安股息精选沪港深C",
+            "post_date": "2020-06-24",
+            "cp_rate": 31.5013
+          },
+          {
+            "fund_code": "004403",
+            "fundsname": "平安股息精选沪港深A",
+            "post_date": "2020-06-24",
+            "cp_rate": 31.9762
+          },
+          {
+            "fund_code": "159988",
+            "fundsname": "平安中债-0-5年广东地方政府债ETF",
+            "post_date": "2020-04-29",
+            "cp_rate": -0.17
+          },
+          {
+            "fund_code": "009013",
+            "fundsname": "平安创业板ETF联接C",
+            "post_date": "2020-03-25",
+            "cp_rate": 37.14
+          },
+          {
+            "fund_code": "009012",
+            "fundsname": "平安创业板ETF联接A",
+            "post_date": "2020-03-25",
+            "cp_rate": 37.52
+          },
+          {
+            "fund_code": "512970",
+            "fundsname": "粤港澳大湾区ETF",
+            "post_date": "2019-09-23",
+            "cp_rate": 52.3469
+          },
+          {
+            "fund_code": "511030",
+            "fundsname": "平安中债-中高等级公司债利差因子ETF",
+            "post_date": "2019-07-30",
+            "cp_rate": 3.8386
+          },
+          {
+            "fund_code": "511020",
+            "fundsname": "平安中证5-10年期国债活跃券ETF",
+            "post_date": "2019-07-30",
+            "cp_rate": 3.0306
+          },
+          {
+            "fund_code": "159964",
+            "fundsname": "平安创业板ETF",
+            "post_date": "2019-03-15",
+            "cp_rate": 64.54
+          },
+          {
+            "fund_code": "006215",
+            "fundsname": "平安中证500ETF联接C",
+            "post_date": "2018-09-05",
+            "cp_rate": 39.13
+          },
+          {
+            "fund_code": "006214",
+            "fundsname": "平安中证500ETF联接A",
+            "post_date": "2018-09-05",
+            "cp_rate": 39.45
+          },
+          {
+            "fund_code": "005868",
+            "fundsname": "平安MSCI中国A股国际ETF联接A",
+            "post_date": "2018-06-21",
+            "cp_rate": 60.71
+          },
+          {
+            "fund_code": "005869",
+            "fundsname": "平安MSCI中国A股国际ETF联接C",
+            "post_date": "2018-06-21",
+            "cp_rate": 60.15
+          },
+          {
+            "fund_code": "512360",
+            "fundsname": "平安MSCI中国A股国际交易ETF",
+            "post_date": "2018-06-15",
+            "cp_rate": 60.7604
+          },
+          {
+            "fund_code": "512390",
+            "fundsname": "平安MSCI中国A股低波动ETF",
+            "post_date": "2018-06-07",
+            "resi_date": "2019-09-12",
+            "cp_rate": 7.47
+          },
+          {
+            "fund_code": "005640",
+            "fundsname": "平安300ETF联接C",
+            "post_date": "2018-04-04",
+            "cp_rate": 35.96
+          },
+          {
+            "fund_code": "005639",
+            "fundsname": "平安300ETF联接A",
+            "post_date": "2018-04-04",
+            "cp_rate": 37.44
+          },
+          {
+            "fund_code": "510590",
+            "fundsname": "平安中证500ETF",
+            "post_date": "2018-03-23",
+            "cp_rate": 14.5
+          },
+          {
+            "fund_code": "510390",
+            "fundsname": "平安沪深300ETF",
+            "post_date": "2017-12-25",
+            "cp_rate": 29.65
+          }
+        ]
+      },
+      {
+        "name": "毛时超",
+        "resume": "    毛时超先生,中山大学硕士研究生。2016年7月加入平安基金管理有限公司,曾任衍生品投资中心衍生品研究员、基金经理助理。现担任平安安享灵活配置混合型证券投资基金(2020-05-09至今)、平安深证300指数增强型证券投资基金(2020-05-09至今)、平安沪深300指数量化增强证券投资基金(2020-05-09至今)、平安量化先锋混合型发起式证券投资基金(2020-06-01至今)、平安中证500指数增强型发起式证券投资基金(2020-06-01至今)、平安股息精选沪港深股票型证券投资基金(2020-06-24至今)、平安量化精选混合型发起式证券投资基金(2020-07-15至今)、平安估值优势灵活配置混合型证券投资基金(2020-08-17至今)基金经理。",
+        "college": "中山大学",
+        "achievement_list": [
+          {
+            "fund_code": "006458",
+            "fundsname": "平安估值优势混合C",
+            "post_date": "2020-08-17",
+            "cp_rate": 1.8249
+          },
+          {
+            "fund_code": "006457",
+            "fundsname": "平安估值优势混合A",
+            "post_date": "2020-08-17",
+            "cp_rate": 1.9195
+          },
+          {
+            "fund_code": "005487",
+            "fundsname": "平安量化精选混合C",
+            "post_date": "2020-07-15",
+            "cp_rate": -2.2082
+          },
+          {
+            "fund_code": "005486",
+            "fundsname": "平安量化精选混合A",
+            "post_date": "2020-07-15",
+            "cp_rate": -1.8995
+          },
+          {
+            "fund_code": "004404",
+            "fundsname": "平安股息精选沪港深C",
+            "post_date": "2020-06-24",
+            "cp_rate": 31.5013
+          },
+          {
+            "fund_code": "004403",
+            "fundsname": "平安股息精选沪港深A",
+            "post_date": "2020-06-24",
+            "cp_rate": 31.9762
+          },
+          {
+            "fund_code": "009337",
+            "fundsname": "平安中证500指数增强C",
+            "post_date": "2020-06-01",
+            "cp_rate": 19.6839
+          },
+          {
+            "fund_code": "009336",
+            "fundsname": "平安中证500指数增强A",
+            "post_date": "2020-06-01",
+            "cp_rate": 19.992
+          },
+          {
+            "fund_code": "005085",
+            "fundsname": "平安量化先锋C",
+            "post_date": "2020-06-01",
+            "resi_date": "2020-11-09",
+            "cp_rate": 16.8834
+          },
+          {
+            "fund_code": "005084",
+            "fundsname": "平安量化先锋A",
+            "post_date": "2020-06-01",
+            "resi_date": "2020-11-09",
+            "cp_rate": 17.2903
+          },
+          {
+            "fund_code": "007663",
+            "fundsname": "平安安享灵活配置混合C",
+            "post_date": "2020-05-09",
+            "cp_rate": 11.7157
+          },
+          {
+            "fund_code": "002282",
+            "fundsname": "平安安享灵活配置混合A",
+            "post_date": "2020-05-09",
+            "cp_rate": 11.7761
+          },
+          {
+            "fund_code": "005114",
+            "fundsname": "平安沪深300指数量化增强C",
+            "post_date": "2020-05-09",
+            "cp_rate": 34.726
+          },
+          {
+            "fund_code": "005113",
+            "fundsname": "平安沪深300指数量化增强A",
+            "post_date": "2020-05-09",
+            "cp_rate": 35.101
+          },
+          {
+            "fund_code": "700002",
+            "fundsname": "平安深证300指数增强",
+            "post_date": "2020-05-09",
+            "cp_rate": 35.1903
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "004403",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 4,
+      "all_buy_days": 2,
+      "all_sale_days": 5
+    }
+  },
+  "result_code": 0
+}

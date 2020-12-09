@@ -112,7 +112,7 @@ def parse_danjuan_fund(fund_code, json_text):
     print('manager_list' in d)
     if 'manager_list' in d == False or 'data' in d == False:
         return "", "", ""
-    if d['result_code'] == 600001:
+    if d['result_code'] == 600001 or 'manager_list' in d['data'] == False:
         return "", "", ""
     data = d['data']
     manager_list = data['manager_list']
@@ -137,6 +137,7 @@ CREATE TABLE `danjuan_fund` (
     `fund_code` varchar(16) NOT NULL DEFAULT '' COMMENT '基金代码',
     `managers` varchar(32) NOT NULL DEFAULT '' COMMENT '管理人',
     `enddate` varchar(32) NOT NULL DEFAULT '' COMMENT '季报日期',
+    `type` varchar(32) NOT NULL DEFAULT '' COMMENT '基金类型',
     `detail_json` text NOT NULL COMMENT '蛋卷基金详细信息 json',
     PRIMARY KEY (`id`),
     KEY `idx_code` (`fund_code`),
@@ -145,25 +146,26 @@ CREATE TABLE `danjuan_fund` (
 """
 
 
-def save_mysql(fund_code, fund_name, managers, enddate, detail_json):
+def save_mysql(fund_code, fund_name, managers, enddate, detail_json, type):
     query = db.insert(Table).values(
         fund_name=fund_name,
         fund_code=fund_code,
         managers=managers,
         enddate=enddate,
         detail_json=detail_json,
+        type=type,
     )
     Connection.execute(query)
 
 
-def request_and_save(fund_code, fund_name):
+def request_and_save(fund_code, fund_name, type):
     json_text = get_fund_json(fund_code, fund_name)
     fund_name, managers, enddate = parse_danjuan_fund(fund_code, json_text)
     if fund_code != '':
-        save_mysql(fund_code, fund_name, managers, enddate, json_text)
+        save_mysql(fund_code, fund_name, managers, enddate, json_text, type)
 
 
-def get_my_xueqiu_fund_codes():
+def get_my_xueqiu_fund_codes(type):
     codes = []  # [ (code, name) ]
     """ 从我的雪球获取我关注的所有基金代码。如果你有雪球账号并且有关注的基金，可以用这段代码自动化查询。
     https://stock.xueqiu.com/v5/stock/portfolio/stock/list.json?size=1000&pid=-110&category=2
@@ -199,15 +201,15 @@ def get_my_xueqiu_fund_codes():
     #         fund_name = stock['name']
     #         codes.append((fund_code, fund_name))
     # return codes
-    return get_danke_all_funds()
+    return get_danke_all_funds(type)
 
-def get_danke_all_funds():
+def get_danke_all_funds(type = 1):
     page =  1
     currentItems = [1]
     items = []
     codes = []  # [ (code, name) ]
 
-    with open("./all_funds.json") as f:
+    with open("./all_funds_%s.json"%type) as f:
         res = json.load(f)
         if len(res) > 0:
             for item in res:
@@ -221,7 +223,7 @@ def get_danke_all_funds():
 
     while len(currentItems) != 0:
         resp = requests.get(
-            "https://danjuanfunds.com/djapi/v3/filter/fund?type=1&order_by=1m&size=100&page=%s"%page,
+            "https://danjuanfunds.com/djapi/v3/filter/fund?type=%s&order_by=1m&size=100&page=%s"%type,page,
             headers={
                 "Accept": "application/json; charset=utf-8",
                 "Accept-Language": "zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7",
@@ -246,16 +248,16 @@ def get_danke_all_funds():
             items.append(item)
         currentItems = res['data']['items']
         page+=1
-    with open("./all_funds.json", "w") as f:
+    with open("all_funds_1.json", "w") as f:
         json.dump(items, f, indent=2, ensure_ascii=False)
     return codes
 
-def crawl_all_my_funds_to_mysql():
-    funds = get_my_xueqiu_fund_codes()
+def crawl_all_my_funds_to_mysql(type):
+    funds = get_my_xueqiu_fund_codes(type)
     __import__('pprint').pprint(funds)
 
     for fund_code, fund_name in funds:
-        request_and_save(fund_code, fund_name)
+        request_and_save(fund_code, fund_name, type)
         # time.sleep(random.randint(5, 10))  # 注意慢一点，随机 sleep 防止命中反作弊
 
 
@@ -327,7 +329,12 @@ def export_all_stock_funds():
 
 def main():
     # get_fund_json("007300", "汇添富中盘", True) # 单独抓取一个基金数据到文件
-    crawl_all_my_funds_to_mysql() # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(1) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(2) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(3) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(4) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(5) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(6) # 抓取所有我关注的雪球上的基金到 mysql
 
     export_all_mysql_funds_stocks_to_excel_vertical()  # 导出基金十大重仓股
     export_all_mysql_funds_stocks_to_excel()  # 导出横版基金十大重仓
@@ -338,3 +345,4 @@ def main():
 if __name__ == "__main__":
     init_conn()
     main()
+    print("success")

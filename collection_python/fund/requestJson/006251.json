@@ -1,0 +1,266 @@
+{
+  "data": {
+    "fund_company": "    银华基金成立于2001年5月,成立16年以来,凭借诚信、规范、稳健、务实的运作风格,银华基金致力于为广大投资者提供专业的资产管理服务,逐步发展为一个具有大资金管理能力的综合型资产管理公司。截至2016年中,银华基金资产管理规模超五千亿。\n    我们致力于提供有质量的资产管理和理财服务,帮助投资者打造高品质的财富生活。为实现这一目标,我们强调通过严格的制度和流程化管理提升公司的服务质量。2005年8月,银华基金获得企业年金基金投资管理人资格,成为国内9家首批获此资格的基金管理公司之一。2007年10月底,银华基金管理公司正式获得合格境内机构投资者(QDII)资格,获准开展境外证券投资管理业务。在接下来的2008年2月,银华基金管理公司获得特定客户资产管理业务资格。2010年12月,银华基金管理有限公司获得“社保基金境内委托投资管理人”资格。2012年10月,银华基金管理有限公司获得保险资金投资管理人资格。2016年12月,银华基金管理股份有限公司获选首批基本养老保险基金证券投资管理机构。至此,银华基金成为业内为数不多的同时拥有企业年金基金投资管理人资格、合格境内机构投资者业务资格、特定客户资产管理业务资格、社保基金境内委托投资管理人资格、保险资金投资管理人资格和养老保险基金证券投资管理人资格的全牌照基金管理公司。\n    作为一个资产管理者,为持有人提供长期稳健的回报是银华基金的核心价值所在。16年来,银华旗下管理的多只基金业绩排名同类产品前列,并获得多项业内大奖,多次赢得独立专业机构高度评价,为持有人带来了可持续的稳健投资回报。银华基金因为整体业绩表现突出,五度荣膺“金牛基金公司”。\n    时至今日,银华基金旗下管理着六十八只基金,建立了覆盖股票型、配置型、债券型、货币型、保本型和QDII基金的较为完善的产品线,为数百万不同风险收益特征和理财需求的客户提供专业的资产管理服务。\n    在稳健经营的基础上,我们致力于让风险收益特征各异的投资者在银华享受到全面的理财服务。未来,在继续完善产品线基础上,我们还将努力在企业年金管理、独立帐户资产管理、QDII等领域拓展自己的业务。继续为自己所追求的目标——投资改变生活而执著前行。\n    我们将继续秉承“诚信经营赢得客户、优质服务贴近客户、一流业绩回报客户”的质量管理方针,帮助更多的普通人实现他们的财富梦想。",
+    "fund_position": {
+      "stock_percent": 81.58,
+      "cash_percent": 18.14,
+      "other_percent": 0.28,
+      "asset_tot": 116764159.97,
+      "asset_val": 114962073.84,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "伊利股份",
+          "code": "600887",
+          "percent": 6.88,
+          "current_price": 40.68,
+          "change_percentage": 1.24,
+          "xq_symbol": "SH600887",
+          "xq_url": "https://xueqiu.com/S/SH600887",
+          "amarket": true
+        },
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 5.66,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "吉比特",
+          "code": "603444",
+          "percent": 5.3,
+          "current_price": 410.3,
+          "change_percentage": 2.32,
+          "xq_symbol": "SH603444",
+          "xq_url": "https://xueqiu.com/S/SH603444",
+          "amarket": true
+        },
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 4.59,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "分众传媒",
+          "code": "002027",
+          "percent": 4.54,
+          "current_price": 10.36,
+          "change_percentage": 0.58,
+          "xq_symbol": "SZ002027",
+          "xq_url": "https://xueqiu.com/S/SZ002027",
+          "amarket": true
+        },
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 4.25,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "宁德时代",
+          "code": "300750",
+          "percent": 4.11,
+          "current_price": 266.03,
+          "change_percentage": 1.75,
+          "xq_symbol": "SZ300750",
+          "xq_url": "https://xueqiu.com/S/SZ300750",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 3.96,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "天赐材料",
+          "code": "002709",
+          "percent": 3.84,
+          "current_price": 84.25,
+          "change_percentage": 10,
+          "xq_symbol": "SZ002709",
+          "xq_url": "https://xueqiu.com/S/SZ002709",
+          "amarket": true
+        },
+        {
+          "name": "爱旭股份",
+          "code": "600732",
+          "percent": 3.83,
+          "current_price": 16.44,
+          "change_percentage": 0.55,
+          "xq_symbol": "SH600732",
+          "xq_url": "https://xueqiu.com/S/SH600732",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "006251",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.00"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "365天≤持有期限<730天",
+          "value": "0.250"
+        },
+        {
+          "name": "730天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "薄官辉",
+        "resume": "    薄官辉先生,硕士学位。2004年7月至2006年5月任职于长江证券股份有限公司研究所,任研究员,从事农业、食品饮料行业研究。2006年6月至2009年5月,任职于中信证券股份有限公司研究部,任高级研究员,从事农业、食品饮料行业研究。2009年6月加入银华基金管理有限公司研究部,曾任消费组食品饮料行业研究员、大宗商品组研究主管、研究部总监助理、研究部副总监。自2015年4月29日起担任银华中国梦30股票型证券投资基金基金经理,自2016年11月7日起兼任银华高端制造业灵活配置混合型证券投资基金基金经理,自2018年6月15日至2019年12月26日兼任银华消费主题分级混合型证券投资基金基金经理,自2019年8月1日起兼任银华兴盛股票型证券投资基金基金经理,自2019年12月18日起兼任银华优势企业证券投资基金基金经理,自2019年12月27日起兼任银华消费主题混合型证券投资基金基金经理。",
+        "work_year": "15",
+        "achievement_list": [
+          {
+            "fund_code": "161818",
+            "fundsname": "银华消费主题混合",
+            "post_date": "2019-12-27",
+            "cp_rate": 74.4859
+          },
+          {
+            "fund_code": "180001",
+            "fundsname": "银华优势企业混合",
+            "post_date": "2019-12-18",
+            "cp_rate": 40.4223
+          },
+          {
+            "fund_code": "006251",
+            "fundsname": "银华兴盛股票",
+            "post_date": "2019-08-01",
+            "cp_rate": 71.42
+          },
+          {
+            "fund_code": "150047",
+            "fundsname": "银华消费分级混合A",
+            "post_date": "2018-06-15",
+            "resi_date": "2019-12-26",
+            "cp_rate": 8.0812
+          },
+          {
+            "fund_code": "150048",
+            "fundsname": "银华消费分级混合B",
+            "post_date": "2018-06-15",
+            "resi_date": "2019-12-26",
+            "cp_rate": 38.8303
+          },
+          {
+            "fund_code": "161818",
+            "fundsname": "银华消费分级混合",
+            "post_date": "2018-06-15",
+            "resi_date": "2019-12-26",
+            "cp_rate": 33.5124
+          },
+          {
+            "fund_code": "000823",
+            "fundsname": "银华高端制造业灵活配置混合",
+            "post_date": "2016-11-07",
+            "cp_rate": 75.2823
+          },
+          {
+            "fund_code": "001163",
+            "fundsname": "银华中国梦30股票",
+            "post_date": "2015-04-29",
+            "cp_rate": 122.8
+          }
+        ]
+      },
+      {
+        "name": "王浩",
+        "resume": "    王浩先生:硕士学位。2009年1月至今任职于银华基金管理有限公司,历任研究部助理研究员、研究员、专户投资经理助理,现任投资管理二部基金经理,自2015年11月18日起担任银华互联网主题灵活配置混合型证券投资基金基金经理。",
+        "work_year": "11",
+        "achievement_list": [
+          {
+            "fund_code": "006251",
+            "fundsname": "银华兴盛股票",
+            "post_date": "2020-04-21",
+            "cp_rate": 50.9112
+          },
+          {
+            "fund_code": "001808",
+            "fundsname": "银华互联网主题灵活配置混合",
+            "post_date": "2015-11-18",
+            "cp_rate": 71.6135
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "006251",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

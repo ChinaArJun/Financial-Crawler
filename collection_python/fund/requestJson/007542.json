@@ -1,0 +1,170 @@
+{
+  "data": {
+    "fund_company": "    2013年11月7日,永赢基金管理有限公司经国家工商行政管理总局注册成立,正式挂牌。永赢基金是由宁波银行和利安资金管理公司共同出资成立的中外合资基金公司,是一家高起点、高标准且充满活力的公司。公司的经营范围为基金募集、基金销售、特定客户资产管理、资产管理和中国证监会规定的其他业务。\n    公司始终秉承绝对收益理念,树立差异化投资风格,不追求“产品线齐全”,不推崇“规模至上”,而是坚持走“精品”路线,对每只产品精耕细作,力求为投资人赢得最大收益。同时,我们始终坚持以客户利益优先,以绝对收益为核心,稳定持续地为投资人、股东及公司盈利。公司通过不断加强客户需求识别能力、投资管理能力、风险控制能力及运营支持能力,不断进行产品创新,通过合理设计各类产品,满足投资人不同风险收益需求。",
+    "fund_position": {
+      "bond_percent": 98.38,
+      "cash_percent": 0.01,
+      "other_percent": 1.61,
+      "asset_tot": 582936331.35,
+      "asset_val": 517314060.32,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [],
+      "bond_list": [
+        {
+          "name": "16华虹集团MTN001",
+          "code": "101660038",
+          "percent": 7.8,
+          "xq_symbol": "101660038",
+          "xq_url": "https://xueqiu.com/S/101660038",
+          "amarket": false
+        },
+        {
+          "name": "16农发16",
+          "code": "160416",
+          "percent": 5.81,
+          "xq_symbol": "160416",
+          "xq_url": "https://xueqiu.com/S/160416",
+          "amarket": false
+        },
+        {
+          "name": "20闽冶金MTN001",
+          "code": "102000418",
+          "percent": 5.77,
+          "xq_symbol": "102000418",
+          "xq_url": "https://xueqiu.com/S/102000418",
+          "amarket": false
+        },
+        {
+          "name": "20建德国资MTN002",
+          "code": "102000878",
+          "percent": 5.76,
+          "xq_symbol": "102000878",
+          "xq_url": "https://xueqiu.com/S/102000878",
+          "amarket": false
+        },
+        {
+          "name": "20山东国惠MTN001",
+          "code": "102000466",
+          "percent": 5.75,
+          "xq_symbol": "102000466",
+          "xq_url": "https://xueqiu.com/S/102000466",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "007542",
+      "subscribe_rate": "0",
+      "declare_rate": "0.30",
+      "withdraw_rate": "1.500",
+      "discount": "1",
+      "subscribe_discount": "1",
+      "declare_discount": "1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "0.30"
+        },
+        {
+          "name": "50万≤买入金额<100万",
+          "value": "0.15"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "0.10"
+        },
+        {
+          "name": "200万≤买入金额",
+          "value": "500.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.100"
+        },
+        {
+          "name": "30天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.10"
+        },
+        {
+          "name": "基金管理费",
+          "value": "0.30"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "卢绮婷",
+        "resume": "    卢绮婷女士,上海交通大学金融学硕士,4年证券相关从业经验,曾任宁波银行金融市场部流动性管理岗,现任永赢基金管理有限公司固定收益投资部基金经理。",
+        "college": "上海交通大学",
+        "achievement_list": [
+          {
+            "fund_code": "009985",
+            "fundsname": "永赢迅利中高等级短债E",
+            "post_date": "2020-08-07",
+            "cp_rate": 0.4233
+          },
+          {
+            "fund_code": "008722",
+            "fundsname": "永赢欣益一年",
+            "post_date": "2020-08-06",
+            "cp_rate": 0.2
+          },
+          {
+            "fund_code": "007542",
+            "fundsname": "永赢开泰中高等级中短债A",
+            "post_date": "2019-09-02",
+            "cp_rate": 3.5982
+          },
+          {
+            "fund_code": "007543",
+            "fundsname": "永赢开泰中高等级中短债C",
+            "post_date": "2019-09-02",
+            "cp_rate": 3.3487
+          },
+          {
+            "fund_code": "006852",
+            "fundsname": "永赢迅利中高等级短债A",
+            "post_date": "2019-01-24",
+            "cp_rate": 5.5972
+          },
+          {
+            "fund_code": "000533",
+            "fundsname": "永赢货币",
+            "post_date": "2018-08-24",
+            "cp_rate": 6.0288
+          },
+          {
+            "fund_code": "004545",
+            "fundsname": "永赢天天利货币",
+            "post_date": "2018-08-24",
+            "cp_rate": 6.6134
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "007542",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

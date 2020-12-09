@@ -1,0 +1,147 @@
+{
+  "data": {
+    "fund_company": "    工银瑞信基金管理有限公司是由中国工商银行和瑞士信贷合资设立的基金管理公司,成立于2005年6月。目前,公司在北京、上海、深圳等地设有分公司,分别在香港和上海设有全资子公司——工银瑞信资产管理(国际)有限公司、工银瑞信投资管理有限公司。\n    自成立以来,公司坚持“以稳健的投资管理,为客户提供卓越的理财服务”为使命,依托强大的股东背景、稳健的经营理念、科学的投研体系、严密的风控机制和资深的管理团队,立足专业化、国际化、规范化,坚持“稳健投资、价值投资、长期投资”,致力于为广大投资者提供一流的投资管理服务。\n    公司秉持“以人为本”的理念,全方位引入国内外优秀人才,组建了一支风格稳健、诚信敬业、创新进取、团结协作的专业团队。目前,公司共有员工逾550人,平均年龄32岁,72%的员工拥有硕士以上学历。公司投研团队由资深基金经理和研究员组成,投研人员逾170人,投资人员平均拥有约10年的从业经验。\n    经过十多年的发展,工银瑞信已成为一家拥有公募基金、专户管理、企业年金、社保基金境内外委托投资、基本养老保险基金委托投资、保险资金委托投资、企业年金养老产品、QDII、QFII、RQFII等多项业务资格的全能型资产管理公司,公司为逾1600万境内外个人和机构投资者提供涵盖公募与私募、上市与非上市、境内与跨境业务的全方位财富管理服务。\n    公司成立以来以持续优秀的投资业绩、完善周到的客户服务,赢得了广大基金投资人、社保理事会、企业年金客户、专户客户等的认可和信赖。截至2016年12月31日,工银瑞信(含子公司)旗下管理近100只公募基金和多个年金、专户组合,资产管理规模逾11000亿元,其中公募基金管理规模逾4600亿元,公司已经发展成为国内业务资格全面、产品种类丰富、经营业绩优秀、资产管理规模领先、业务发展均衡的基金管理公司之一。",
+    "fund_position": {
+      "stock_percent": 81.66,
+      "bond_percent": 0.18,
+      "cash_percent": 18.1,
+      "other_percent": 0.06,
+      "asset_tot": 51818477.12,
+      "asset_val": 51463550.68,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2018-09-30",
+      "stock_list": [
+        {
+          "name": "航天信息",
+          "code": "600271",
+          "percent": 6.13,
+          "current_price": 13.87,
+          "change_percentage": -0.86,
+          "xq_symbol": "SH600271",
+          "xq_url": "https://xueqiu.com/S/SH600271",
+          "amarket": true
+        },
+        {
+          "name": "烽火通信",
+          "code": "600498",
+          "percent": 5.55,
+          "current_price": 24.38,
+          "change_percentage": 0.45,
+          "xq_symbol": "SH600498",
+          "xq_url": "https://xueqiu.com/S/SH600498",
+          "amarket": true
+        },
+        {
+          "name": "中航光电",
+          "code": "002179",
+          "percent": 4.85,
+          "current_price": 65.41,
+          "change_percentage": 0.97,
+          "xq_symbol": "SZ002179",
+          "xq_url": "https://xueqiu.com/S/SZ002179",
+          "amarket": true
+        },
+        {
+          "name": "万华化学",
+          "code": "600309",
+          "percent": 4.37,
+          "current_price": 82.99,
+          "change_percentage": -0.3,
+          "xq_symbol": "SH600309",
+          "xq_url": "https://xueqiu.com/S/SH600309",
+          "amarket": true
+        },
+        {
+          "name": "中国太保",
+          "code": "601601",
+          "percent": 3.35,
+          "current_price": 37.67,
+          "change_percentage": -0.37,
+          "xq_symbol": "SH601601",
+          "xq_url": "https://xueqiu.com/S/SH601601",
+          "amarket": true
+        },
+        {
+          "name": "新城控股",
+          "code": "601155",
+          "percent": 3.25,
+          "current_price": 35.19,
+          "change_percentage": -0.26,
+          "xq_symbol": "SH601155",
+          "xq_url": "https://xueqiu.com/S/SH601155",
+          "amarket": true
+        },
+        {
+          "name": "国睿科技",
+          "code": "600562",
+          "percent": 2.99,
+          "current_price": 16.76,
+          "change_percentage": -1.06,
+          "xq_symbol": "SH600562",
+          "xq_url": "https://xueqiu.com/S/SH600562",
+          "amarket": true
+        },
+        {
+          "name": "新奥股份",
+          "code": "600803",
+          "percent": 2.79,
+          "current_price": 14.16,
+          "change_percentage": -0.14,
+          "xq_symbol": "SH600803",
+          "xq_url": "https://xueqiu.com/S/SH600803",
+          "amarket": true
+        },
+        {
+          "name": "顺丰控股",
+          "code": "002352",
+          "percent": 2.77,
+          "current_price": 80.21,
+          "change_percentage": -1.88,
+          "xq_symbol": "SZ002352",
+          "xq_url": "https://xueqiu.com/S/SZ002352",
+          "amarket": true
+        },
+        {
+          "name": "航天电器",
+          "code": "002025",
+          "percent": 2.57,
+          "current_price": 53.01,
+          "change_percentage": 0.7,
+          "xq_symbol": "SZ002025",
+          "xq_url": "https://xueqiu.com/S/SZ002025",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "机电转债",
+          "code": "128045",
+          "percent": 0.18,
+          "xq_symbol": "128045",
+          "xq_url": "https://xueqiu.com/S/128045",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "002386",
+      "subscribe_rate": "0",
+      "declare_rate": "0",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1"
+    },
+    "manager_list": [],
+    "fund_date_conf": {
+      "fd_code": "002386",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 1,
+      "all_buy_days": 2,
+      "all_sale_days": 2
+    }
+  },
+  "result_code": 0
+}

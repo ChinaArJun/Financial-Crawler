@@ -1,0 +1,385 @@
+{
+  "data": {
+    "fund_company": "    光大保德信基金管理有限公司(以下简称“光大保德信”)成立于2004年4月,总部设在上海,在北京和广州设有分公司,注册资本1.6亿元人民币。光大证券和美国保德信国际投资管理公司分别占有55%和45%的股份。\n    依托中国光大集团强大的实力、对中国市场的深刻认知和广泛的网络;借力美国保德信金融集团丰富的国际经验、先进的技术、享誉全球的资产管理能力和品牌,光大保德信基金致力于以科学理性的投资管理,帮助客户实现资产的保值增值,成为投资者可信赖的财富管理专家。\n    2015年8月,公司全资子公司—光大保德信资产管理有限公司正式成立,成为开启公司新业务的重要平台。\n    截止2016年12月末,光大保德信基金旗下管理着30只风格各异的开放式基金。光大保德信基金具有专户管理业务、QDII业务资格。",
+    "fund_position": {
+      "stock_percent": 90.1,
+      "cash_percent": 9.61,
+      "other_percent": 0.29,
+      "asset_tot": 114058323.51,
+      "asset_val": 113079447.43,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "迈瑞医疗",
+          "code": "300760",
+          "percent": 4,
+          "current_price": 351.9,
+          "change_percentage": 1.82,
+          "xq_symbol": "SZ300760",
+          "xq_url": "https://xueqiu.com/S/SZ300760",
+          "amarket": true
+        },
+        {
+          "name": "东方财富",
+          "code": "300059",
+          "percent": 3.71,
+          "current_price": 28.05,
+          "change_percentage": 1.08,
+          "xq_symbol": "SZ300059",
+          "xq_url": "https://xueqiu.com/S/SZ300059",
+          "amarket": true
+        },
+        {
+          "name": "蓝思科技",
+          "code": "300433",
+          "percent": 3.35,
+          "current_price": 33.15,
+          "change_percentage": -0.93,
+          "xq_symbol": "SZ300433",
+          "xq_url": "https://xueqiu.com/S/SZ300433",
+          "amarket": true
+        },
+        {
+          "name": "汇川技术",
+          "code": "300124",
+          "percent": 2.57,
+          "current_price": 85.58,
+          "change_percentage": 1.04,
+          "xq_symbol": "SZ300124",
+          "xq_url": "https://xueqiu.com/S/SZ300124",
+          "amarket": true
+        },
+        {
+          "name": "沃森生物",
+          "code": "300142",
+          "percent": 2.35,
+          "current_price": 36.67,
+          "change_percentage": 0.38,
+          "xq_symbol": "SZ300142",
+          "xq_url": "https://xueqiu.com/S/SZ300142",
+          "amarket": true
+        },
+        {
+          "name": "宁德时代",
+          "code": "300750",
+          "percent": 2.3,
+          "current_price": 266.03,
+          "change_percentage": 1.75,
+          "xq_symbol": "SZ300750",
+          "xq_url": "https://xueqiu.com/S/SZ300750",
+          "amarket": true
+        },
+        {
+          "name": "圣邦股份",
+          "code": "300661",
+          "percent": 2.22,
+          "current_price": 291.81,
+          "change_percentage": -1.48,
+          "xq_symbol": "SZ300661",
+          "xq_url": "https://xueqiu.com/S/SZ300661",
+          "amarket": true
+        },
+        {
+          "name": "同花顺",
+          "code": "300033",
+          "percent": 2.01,
+          "current_price": 142.22,
+          "change_percentage": 0.25,
+          "xq_symbol": "SZ300033",
+          "xq_url": "https://xueqiu.com/S/SZ300033",
+          "amarket": true
+        },
+        {
+          "name": "华大基因",
+          "code": "300676",
+          "percent": 1.96,
+          "current_price": 131.83,
+          "change_percentage": 0.94,
+          "xq_symbol": "SZ300676",
+          "xq_url": "https://xueqiu.com/S/SZ300676",
+          "amarket": true
+        },
+        {
+          "name": "信维通信",
+          "code": "300136",
+          "percent": 1.93,
+          "current_price": 44.67,
+          "change_percentage": -1.33,
+          "xq_symbol": "SZ300136",
+          "xq_url": "https://xueqiu.com/S/SZ300136",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "003069",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<100万",
+          "value": "1.20"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.200"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "金昉毅",
+        "resume": "    金昉毅先生,2002年毕业于同济大学,2004年获得德国康斯坦茨大学国际企业经济学硕士学位,2008年获得德国康斯坦茨大学数量金融学博士学位。2008年8月至2010年12月在中央财经大学中国金融发展研究院任职助理教授;2011年1月至2018年3月在申万菱信基金管理有限公司历任量化高级研究员、专户投资经理、量化投资部负责人、基金经理;2018年4月加入光大保德信基金管理有限公司,历任量化投资部负责人,现任量化投资部总监,2019年5月至今担任光大保德信量化核心证券投资基金、光大保德信创业板量化优选股票型证券投资基金、光大保德信风格轮动混合型证券投资基金、光大保德信事件驱动灵活配置混合型证券投资基金的基金经理,2019年7月至今担任光大保德信红利混合型证券投资基金的基金经理,2019年8月至今担任光大保德信产业新动力灵活配置混合型证券投资基金的基金经理。",
+        "college": "同济大学",
+        "achievement_list": [
+          {
+            "fund_code": "007499",
+            "fundsname": "光大保德信风格轮动混合C",
+            "post_date": "2020-01-02",
+            "cp_rate": 39.3
+          },
+          {
+            "fund_code": "003070",
+            "fundsname": "光大保德信创业板量化优选股票C",
+            "post_date": "2020-01-02",
+            "cp_rate": 40.99
+          },
+          {
+            "fund_code": "002772",
+            "fundsname": "光大保德信产业新动力混合",
+            "post_date": "2019-08-10",
+            "cp_rate": 56.9453
+          },
+          {
+            "fund_code": "360005",
+            "fundsname": "光大保德信红利混合",
+            "post_date": "2019-07-17",
+            "resi_date": "2020-10-22",
+            "cp_rate": 59.3279
+          },
+          {
+            "fund_code": "003069",
+            "fundsname": "光大保德信创业板量化优选股票A",
+            "post_date": "2019-05-11",
+            "cp_rate": 77.1112
+          },
+          {
+            "fund_code": "003704",
+            "fundsname": "光大保德信事件驱动灵活配置混合",
+            "post_date": "2019-05-11",
+            "resi_date": "2020-07-18",
+            "cp_rate": 16.4814
+          },
+          {
+            "fund_code": "360001",
+            "fundsname": "光大保德信量化股票",
+            "post_date": "2019-05-11",
+            "cp_rate": 48.2573
+          },
+          {
+            "fund_code": "002305",
+            "fundsname": "光大保德信风格轮动混合A",
+            "post_date": "2019-05-11",
+            "cp_rate": 61.454
+          },
+          {
+            "fund_code": "005418",
+            "fundsname": "申万菱信量化驱动混合",
+            "post_date": "2018-02-22",
+            "resi_date": "2018-03-27",
+            "cp_rate": 0.23
+          },
+          {
+            "fund_code": "005370",
+            "fundsname": "申万菱信价值优选灵活配置混合",
+            "post_date": "2018-01-04",
+            "resi_date": "2018-03-27",
+            "cp_rate": -9.2681
+          },
+          {
+            "fund_code": "004951",
+            "fundsname": "申万菱信价值优利混合",
+            "post_date": "2017-09-21",
+            "resi_date": "2018-03-27",
+            "cp_rate": -0.15
+          },
+          {
+            "fund_code": "004768",
+            "fundsname": "申万菱信价值优享混合",
+            "post_date": "2017-08-08",
+            "resi_date": "2018-03-27",
+            "cp_rate": 8.5983
+          },
+          {
+            "fund_code": "004135",
+            "fundsname": "申万菱信量化成长混合",
+            "post_date": "2017-03-10",
+            "resi_date": "2018-03-27",
+            "cp_rate": -10.439
+          },
+          {
+            "fund_code": "163110",
+            "fundsname": "申万菱信量化小盘股票(LOF)",
+            "post_date": "2015-05-21",
+            "resi_date": "2018-03-27",
+            "cp_rate": 16.2933
+          },
+          {
+            "fund_code": "310398",
+            "fundsname": "申万沪深300价值指数",
+            "post_date": "2015-01-06",
+            "resi_date": "2016-06-24",
+            "cp_rate": -11.0491
+          },
+          {
+            "fund_code": "310318",
+            "fundsname": "申万菱信沪深300",
+            "post_date": "2014-10-17",
+            "resi_date": "2018-03-27",
+            "cp_rate": 103.6436
+          }
+        ]
+      },
+      {
+        "name": "翟云飞",
+        "resume": "    翟云飞先生,2005年毕业于中国科学技术大学自动化系,2010年获得中国科学技术大学统计与金融系博士学位。2010年6月至2014年3月在大成基金管理有限公司任职,其中2010年6月至2011年5月任职金融工程师(负责量化投资研究),2011年5月至2012年7月任职产品设计师,2012年7月至2014年3月任职量化投资研究员、行业投资研究员;2014年4月加入光大保德信基金管理有限公司,担任金融工程师(负责量化投资研究)、高级量化研究员,2016年2月至今担任光大保德信风格轮动混合型证券投资基金的基金经理,2016年12月至今担任光大保德信量化核心证券投资基金的基金经理,2017年1月至今担任光大保德信事件驱动灵活配置混合型证券投资基金的基金经理,2018年2月至今担任光大保德信创业板量化优选股票型证券投资基金的基金经理,2019年6月至今担任光大保德信诚鑫灵活配置混合型证券投资基金的基金经理,2019年7月至今担任光大保德信睿鑫灵活配置混合型证券投资基金的基金经理,2019年8月至今担任光大保德信永鑫灵活配置混合型证券投资基金的基金经理。",
+        "college": "中国科学技术大学",
+        "work_year": "10",
+        "achievement_list": [
+          {
+            "fund_code": "007499",
+            "fundsname": "光大保德信风格轮动混合C",
+            "post_date": "2020-01-02",
+            "cp_rate": 39.3
+          },
+          {
+            "fund_code": "003070",
+            "fundsname": "光大保德信创业板量化优选股票C",
+            "post_date": "2020-01-02",
+            "cp_rate": 40.99
+          },
+          {
+            "fund_code": "003106",
+            "fundsname": "光大保德信永鑫灵活配置混合C",
+            "post_date": "2019-08-01",
+            "resi_date": "2020-08-22",
+            "cp_rate": 14.3447
+          },
+          {
+            "fund_code": "003105",
+            "fundsname": "光大保德信永鑫灵活配置混合A",
+            "post_date": "2019-08-01",
+            "resi_date": "2020-08-22",
+            "cp_rate": 14.4892
+          },
+          {
+            "fund_code": "002075",
+            "fundsname": "光大保德信睿鑫灵活配置混合C",
+            "post_date": "2019-07-17",
+            "cp_rate": 20.3867
+          },
+          {
+            "fund_code": "001939",
+            "fundsname": "光大保德信睿鑫灵活配置混合A",
+            "post_date": "2019-07-17",
+            "cp_rate": 20.5496
+          },
+          {
+            "fund_code": "003116",
+            "fundsname": "光大保德信诚鑫灵活配置混合C",
+            "post_date": "2019-06-12",
+            "cp_rate": 27.1366
+          },
+          {
+            "fund_code": "003115",
+            "fundsname": "光大保德信诚鑫灵活配置混合A",
+            "post_date": "2019-06-12",
+            "cp_rate": 27.7256
+          },
+          {
+            "fund_code": "003069",
+            "fundsname": "光大保德信创业板量化优选股票A",
+            "post_date": "2018-02-13",
+            "cp_rate": 53.52
+          },
+          {
+            "fund_code": "003704",
+            "fundsname": "光大保德信事件驱动灵活配置混合",
+            "post_date": "2017-01-18",
+            "resi_date": "2020-07-18",
+            "cp_rate": 14.1986
+          },
+          {
+            "fund_code": "360001",
+            "fundsname": "光大保德信量化股票",
+            "post_date": "2016-12-09",
+            "cp_rate": 15.3045
+          },
+          {
+            "fund_code": "002305",
+            "fundsname": "光大保德信风格轮动混合A",
+            "post_date": "2016-02-04",
+            "cp_rate": 17.7
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "003069",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

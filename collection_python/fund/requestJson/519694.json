@@ -1,0 +1,312 @@
+{
+  "data": {
+    "fund_company": "    2005年,交银施罗德诞生前中国基金行业正经历过一轮洗礼,百废待兴,熊市将尽。这一年,也是公募基金高速发展的前夜,当年全行业资产总规模仅为4700亿元。而时至今日,公募基金产品以每年200只的速度增长,行业总资产规模早已突破2万亿元。\n    交银施罗德是中国第一批银行背景基金公司之一,也是众多中外合资基金公司中的佼佼者。由拥有百年历史的交通银行、二百年投资经验积累的施罗德投资管理有限公司、以及全球集装箱行业的佼佼者中国国际海运集装箱(集团)股份有限公司强强联合,共同发起设立。\n    [了解更多]成立至今,一直秉承“诚信百年、专业理财”的经营宗旨,以诚信和专业作为公司的立身之本,以“稳健源自前瞻”作为公司的核心价值主张,打造“专业、纪律、协作”的团队,营造“激情、包容、关爱”的企业文化,致力于在策略上远见,投资上前瞻,服务上领先,为投资人提供多元化的、全球视野的、专业独具的理财产品和投资服务。公司成立至今已获得包括“金牛奖”在内的众多荣誉,得到了普通投资者和各机构的广泛关注和认可。\n    目前,公司旗下共管理着包括股票型基金、混合型基金、债券型基金、QDII基金以及ETF基金等类型在内的超过20只公募基金产品。同时,作为国内专户理财业务的“先驱者”,公司在专户理财、投资咨询业务方面上也积极开拓业务,较为成功地管理着数只专户理财产品,有力地推动了公司业务的多元化发展。\n    站在巨人肩上,我们将秉承百年传承的诚信,兼收千锤百炼的专业方法,勤勉尽责,规范运作,力争成为业绩出众、服务一流、深受投资者青睐的基金管理公司。",
+    "fund_position": {
+      "stock_percent": 93.26,
+      "bond_percent": 5.81,
+      "cash_percent": 0.72,
+      "other_percent": 0.21,
+      "asset_tot": 3100807767.46,
+      "asset_val": 3087598591.35,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "三全食品",
+          "code": "002216",
+          "percent": 9.87,
+          "current_price": 27.79,
+          "change_percentage": 0.11,
+          "xq_symbol": "SZ002216",
+          "xq_url": "https://xueqiu.com/S/SZ002216",
+          "amarket": true
+        },
+        {
+          "name": "绝味食品",
+          "code": "603517",
+          "percent": 9.6,
+          "current_price": 75.39,
+          "change_percentage": -0.63,
+          "xq_symbol": "SH603517",
+          "xq_url": "https://xueqiu.com/S/SH603517",
+          "amarket": true
+        },
+        {
+          "name": "健友股份",
+          "code": "603707",
+          "percent": 8.5,
+          "current_price": 39.3,
+          "change_percentage": 1.34,
+          "xq_symbol": "SH603707",
+          "xq_url": "https://xueqiu.com/S/SH603707",
+          "amarket": true
+        },
+        {
+          "name": "中公教育",
+          "code": "002607",
+          "percent": 8.48,
+          "current_price": 37,
+          "change_percentage": -1.04,
+          "xq_symbol": "SZ002607",
+          "xq_url": "https://xueqiu.com/S/SZ002607",
+          "amarket": true
+        },
+        {
+          "name": "科大讯飞",
+          "code": "002230",
+          "percent": 8.13,
+          "current_price": 38.54,
+          "change_percentage": 0.21,
+          "xq_symbol": "SZ002230",
+          "xq_url": "https://xueqiu.com/S/SZ002230",
+          "amarket": true
+        },
+        {
+          "name": "紫光国微",
+          "code": "002049",
+          "percent": 8.03,
+          "current_price": 111.3,
+          "change_percentage": 0.45,
+          "xq_symbol": "SZ002049",
+          "xq_url": "https://xueqiu.com/S/SZ002049",
+          "amarket": true
+        },
+        {
+          "name": "隆平高科",
+          "code": "000998",
+          "percent": 5.8,
+          "current_price": 17.78,
+          "change_percentage": -1.93,
+          "xq_symbol": "SZ000998",
+          "xq_url": "https://xueqiu.com/S/SZ000998",
+          "amarket": true
+        },
+        {
+          "name": "海大集团",
+          "code": "002311",
+          "percent": 4.57,
+          "current_price": 61,
+          "change_percentage": 0,
+          "xq_symbol": "SZ002311",
+          "xq_url": "https://xueqiu.com/S/SZ002311",
+          "amarket": true
+        },
+        {
+          "name": "柏楚电子",
+          "code": "688188",
+          "percent": 4.28,
+          "current_price": 261.89,
+          "change_percentage": -0.11,
+          "xq_symbol": "SH688188",
+          "xq_url": "https://xueqiu.com/S/SH688188",
+          "amarket": true
+        },
+        {
+          "name": "桃李面包",
+          "code": "603866",
+          "percent": 4.27,
+          "current_price": 62.35,
+          "change_percentage": 1.95,
+          "xq_symbol": "SH603866",
+          "xq_url": "https://xueqiu.com/S/SH603866",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "20国开11",
+          "code": "200211",
+          "percent": 5.13,
+          "xq_symbol": "200211",
+          "xq_url": "https://xueqiu.com/S/200211",
+          "amarket": false
+        },
+        {
+          "name": "20贴现国开01",
+          "code": "207701",
+          "percent": 0.32,
+          "xq_symbol": "207701",
+          "xq_url": "https://xueqiu.com/S/207701",
+          "amarket": false
+        },
+        {
+          "name": "海大转债",
+          "code": "128102",
+          "percent": 0.27,
+          "xq_symbol": "128102",
+          "xq_url": "https://xueqiu.com/S/128102",
+          "amarket": false
+        },
+        {
+          "name": "健友转债",
+          "code": "113579",
+          "percent": 0.11,
+          "xq_symbol": "113579",
+          "xq_url": "https://xueqiu.com/S/113579",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "519694",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<100万",
+          "value": "1.20"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "0.80"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.50"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "6天<持有期限≤365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年<持有期限≤2年",
+          "value": "0.200"
+        },
+        {
+          "name": "2年<持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "王少成",
+        "resume": "    王少成先生,基金经理。复旦大学物理化学硕士,14年证券行业经验。历任上海融昌资产管理公司研究员,中原证券投资经理,信诚基金管理有限公司研究总监助理,东吴基金管理有限公司投资经理、基金经理、投资部副总经理。2010年9月至2012年10月担任东吴新创业股票型证券投资基金基金经理,2011年2月至2012年11月担任东吴中证新兴产业指数证券投资基金基金经理,2011年5月至2012年11月担任东吴价值成长双动力股票型证券投资基金基金经理。2012年加入交银施罗德基金管理有限公司,曾任权益部副总经理,现任权益投资总监。2013年3月21日至2015年8月14日担任交银施罗德先进制造混合型证券投资基金(原交银施罗德先进制造股票证券投资基金)基金经理,2013年5月29日至2015年8月14日担任交银施罗德先锋混合型证券投资基金(原交银施罗德先锋股票证券投资基金)基金经理。2015年11月7日至2018年5月15日担任交银施罗德荣和保本混合型证券投资基金基金经理,2015年11月7日至2018年6月7日担任交银施罗德策略回报灵活配置混合型证券投资基金基金经理。2013年7月2日起担任交银施罗德成长30混合型证券投资基金(原交银施罗德成长30股票型证券投资基金)基金经理至今,2015年3月24日起担任交银施罗德成长混合型证券投资基金(原交银施罗德成长股票证券投资基金)基金经理至今,2018年8月24日起担任交银施罗德恒益灵活配置混合型证券投资基金基金经理至今,2018年9月28日起担任交银施罗德蓝筹混合型证券投资基金基金经理至今。",
+        "college": "复旦大学",
+        "work_year": "16",
+        "achievement_list": [
+          {
+            "fund_code": "519694",
+            "fundsname": "交银施罗德蓝筹混合",
+            "post_date": "2018-09-28",
+            "cp_rate": 97.7785
+          },
+          {
+            "fund_code": "004975",
+            "fundsname": "交银施罗德恒益灵活配置混合",
+            "post_date": "2018-08-24",
+            "resi_date": "2019-08-29",
+            "cp_rate": 5.5237
+          },
+          {
+            "fund_code": "960016",
+            "fundsname": "交银施罗德成长混合H",
+            "post_date": "2016-03-07",
+            "cp_rate": 90.5816
+          },
+          {
+            "fund_code": "519710",
+            "fundsname": "交银施罗德策略回报灵活配置混合",
+            "post_date": "2015-11-07",
+            "resi_date": "2018-06-08",
+            "cp_rate": 51.057
+          },
+          {
+            "fund_code": "519753",
+            "fundsname": "交银荣和保本混合",
+            "post_date": "2015-11-07",
+            "resi_date": "2018-05-16",
+            "cp_rate": 5.6191
+          },
+          {
+            "fund_code": "519692",
+            "fundsname": "交银施罗德成长混合A",
+            "post_date": "2015-03-24",
+            "cp_rate": 68.2156
+          },
+          {
+            "fund_code": "519727",
+            "fundsname": "交银施罗德成长30混合",
+            "post_date": "2013-07-02",
+            "resi_date": "2019-06-18",
+            "cp_rate": 48.8335
+          },
+          {
+            "fund_code": "519698",
+            "fundsname": "交银施罗德先锋混合",
+            "post_date": "2013-05-29",
+            "resi_date": "2015-08-15",
+            "cp_rate": 51.5355
+          },
+          {
+            "fund_code": "519704",
+            "fundsname": "交银施罗德先进制造混合",
+            "post_date": "2013-03-21",
+            "resi_date": "2015-08-15",
+            "cp_rate": 128.8711
+          },
+          {
+            "fund_code": "580002",
+            "fundsname": "东吴双动力混合",
+            "post_date": "2011-05-14",
+            "resi_date": "2012-12-01",
+            "cp_rate": -19.6519
+          },
+          {
+            "fund_code": "585001",
+            "fundsname": "东吴中证新兴",
+            "post_date": "2011-02-01",
+            "resi_date": "2012-12-01",
+            "cp_rate": -43.1
+          },
+          {
+            "fund_code": "580007",
+            "fundsname": "东吴新创业混合",
+            "post_date": "2010-09-14",
+            "resi_date": "2012-10-27",
+            "cp_rate": -14.3099
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "519694",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

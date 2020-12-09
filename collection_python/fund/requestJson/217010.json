@@ -1,0 +1,280 @@
+{
+  "data": {
+    "fund_company": "    招商基金管理有限公司于2002年12月27日经中国证监会(2002)100号文批准设立,是中国第一家中外合资基金管理公司。公司的经营范围包括发起设立基金、基金管理业务和中国证监会批准的其它业务。\n    经招商基金管理有限公司(以下简称“本公司”)股东会审议通过,并经中国证券监督管理委员会证监许可[2013]1074号文批复同意。目前,本公司的股东股权结构为:招商银行股份有限公司持有公司全部股权的55%,招商证券股份有限公司持有公司全部股权的45%。公司注册资本金为2.1亿元人民币。目前,招商基金拥有两家全资子公司,分别为招商财富资产管理有限公司和招商资产管理(香港)有限公司。\n    招商基金以“为投资者创造更多价值”为使命,秉承诚信、理性、专业、协作、成长的核心价值观,努力成为中国资产管理行业具有差异化竞争优势、一流品牌的资产管理公司。",
+    "fund_position": {
+      "stock_percent": 89.26,
+      "bond_percent": 5.06,
+      "cash_percent": 2.92,
+      "other_percent": 2.76,
+      "asset_tot": 801615169.19,
+      "asset_val": 797741763.64,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "东方雨虹",
+          "code": "002271",
+          "percent": 7.58,
+          "current_price": 35.92,
+          "change_percentage": 0.25,
+          "xq_symbol": "SZ002271",
+          "xq_url": "https://xueqiu.com/S/SZ002271",
+          "amarket": true
+        },
+        {
+          "name": "健帆生物",
+          "code": "300529",
+          "percent": 6.87,
+          "current_price": 68.76,
+          "change_percentage": -0.28,
+          "xq_symbol": "SZ300529",
+          "xq_url": "https://xueqiu.com/S/SZ300529",
+          "amarket": true
+        },
+        {
+          "name": "宁德时代",
+          "code": "300750",
+          "percent": 5.16,
+          "current_price": 266.03,
+          "change_percentage": 1.75,
+          "xq_symbol": "SZ300750",
+          "xq_url": "https://xueqiu.com/S/SZ300750",
+          "amarket": true
+        },
+        {
+          "name": "浙江鼎力",
+          "code": "603338",
+          "percent": 4.17,
+          "current_price": 103.96,
+          "change_percentage": -2.04,
+          "xq_symbol": "SH603338",
+          "xq_url": "https://xueqiu.com/S/SH603338",
+          "amarket": true
+        },
+        {
+          "name": "石头科技",
+          "code": "688169",
+          "percent": 3.53,
+          "current_price": 921.36,
+          "change_percentage": 1.98,
+          "xq_symbol": "SH688169",
+          "xq_url": "https://xueqiu.com/S/SH688169",
+          "amarket": true
+        },
+        {
+          "name": "泰格医药",
+          "code": "300347",
+          "percent": 3.42,
+          "current_price": 135.45,
+          "change_percentage": 1.84,
+          "xq_symbol": "SZ300347",
+          "xq_url": "https://xueqiu.com/S/SZ300347",
+          "amarket": true
+        },
+        {
+          "name": "帝尔激光",
+          "code": "300776",
+          "percent": 3.3,
+          "current_price": 125.08,
+          "change_percentage": -0.54,
+          "xq_symbol": "SZ300776",
+          "xq_url": "https://xueqiu.com/S/SZ300776",
+          "amarket": true
+        },
+        {
+          "name": "玉禾田",
+          "code": "300815",
+          "percent": 3.22,
+          "current_price": 90.8,
+          "change_percentage": -2.51,
+          "xq_symbol": "SZ300815",
+          "xq_url": "https://xueqiu.com/S/SZ300815",
+          "amarket": true
+        },
+        {
+          "name": "中国巨石",
+          "code": "600176",
+          "percent": 2.94,
+          "current_price": 16.68,
+          "change_percentage": 0,
+          "xq_symbol": "SH600176",
+          "xq_url": "https://xueqiu.com/S/SH600176",
+          "amarket": true
+        },
+        {
+          "name": "赣锋锂业",
+          "code": "002460",
+          "percent": 2.86,
+          "current_price": 82.24,
+          "change_percentage": 3.06,
+          "xq_symbol": "SZ002460",
+          "xq_url": "https://xueqiu.com/S/SZ002460",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "20国债01",
+          "code": "019627",
+          "percent": 5,
+          "xq_symbol": "019627",
+          "xq_url": "https://xueqiu.com/S/019627",
+          "amarket": false
+        },
+        {
+          "name": "景20转债",
+          "code": "113602",
+          "percent": 0.08,
+          "xq_symbol": "113602",
+          "xq_url": "https://xueqiu.com/S/113602",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "217010",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "1.00"
+        },
+        {
+          "name": "500万≤买入金额<1000万",
+          "value": "0.30"
+        },
+        {
+          "name": "1000万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "365天≤持有期限<730天",
+          "value": "0.250"
+        },
+        {
+          "name": "730天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "郭锐",
+        "resume": "    郭锐,男,硕士。2007年7月起先后任职于易方达基金管理有限公司及华夏基金管理有限公司,任行业研究员,从事钢铁、有色金属、建筑建材等行业的研究工作。2011年加入招商基金管理有限公司,曾任首席行业研究员、助理基金经理,现任招商核心价值混合型证券投资基金基金经理(管理时间:2015年2月10日至今)、招商大盘蓝筹混合型证券投资基金基金经理(管理时间:2015年4月1日至今)、招商境远保本混合型证券投资基金基金经理(管理时间:2016年3月2日至今)及招商瑞庆灵活配置混合型证券投资基金基金经理(管理时间:2016年8月24日)。及招商境远灵活配置混合型证券投资基金基金经理(管理时间:2017年12月16日至今)。",
+        "work_year": "13",
+        "achievement_list": [
+          {
+            "fund_code": "009363",
+            "fundsname": "招商丰盈积极配置混合C",
+            "post_date": "2020-07-29",
+            "cp_rate": 3.42
+          },
+          {
+            "fund_code": "009362",
+            "fundsname": "招商丰盈积极配置混合A",
+            "post_date": "2020-07-29",
+            "cp_rate": 3.72
+          },
+          {
+            "fund_code": "009696",
+            "fundsname": "招商成长精选一年定期开放混合C",
+            "post_date": "2020-06-19",
+            "cp_rate": 11.61
+          },
+          {
+            "fund_code": "009695",
+            "fundsname": "招商成长精选一年定期开放混合A",
+            "post_date": "2020-06-19",
+            "cp_rate": 12.02
+          },
+          {
+            "fund_code": "002249",
+            "fundsname": "招商境远灵活配置混合",
+            "post_date": "2017-12-16",
+            "cp_rate": 120.8805
+          },
+          {
+            "fund_code": "002574",
+            "fundsname": "招商瑞庆灵活配置混合A",
+            "post_date": "2016-08-24",
+            "resi_date": "2018-09-14",
+            "cp_rate": 13.02
+          },
+          {
+            "fund_code": "002249",
+            "fundsname": "招商境远保本混合",
+            "post_date": "2016-03-02",
+            "resi_date": "2017-12-15",
+            "cp_rate": 3.9841
+          },
+          {
+            "fund_code": "001403",
+            "fundsname": "招商国企改革主题混合基金",
+            "post_date": "2015-06-29",
+            "resi_date": "2017-05-20",
+            "cp_rate": -13
+          },
+          {
+            "fund_code": "217010",
+            "fundsname": "招商大盘蓝筹混合",
+            "post_date": "2015-04-01",
+            "cp_rate": 84.4127
+          },
+          {
+            "fund_code": "217009",
+            "fundsname": "招商核心价值混合",
+            "post_date": "2015-02-10",
+            "cp_rate": 128.9029
+          },
+          {
+            "fund_code": "217021",
+            "fundsname": "招商优势企业混合",
+            "post_date": "2012-07-10",
+            "resi_date": "2016-03-02",
+            "cp_rate": 83.9468
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "217010",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

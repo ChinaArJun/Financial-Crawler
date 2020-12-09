@@ -1,0 +1,258 @@
+{
+  "data": {
+    "fund_company": "    广发基金管理有限公司经中国证监会证监基金字[2003]91号文批准,于2003年8月5日成立,是业内第30家成立的基金管理公司,总部设在广州,公司注册资本金12688万元人民币。公司及旗下子公司目前拥有公募基金管理、社保基金境内委托投资管理人、基本养老保险基金证券投资管理机构、特定客户资产管理、QDII、RQFII、QFII、受托管理保险资金投资管理人和保险保障基金委托资产管理投资管理人等业务资格,具备多种业务的综合资产管理能力与经验。\n    截至2016年12月31日,公司管理125只开放式基金,管理公募基金资产规模为3048亿元,长期位居行业前列。公司旗下产品覆盖主动权益、债券、货币、海外投资、被动投资、量化对冲、另类投资等不同类别,产品线齐全。公司曾获五届中国证券报“金牛基金管理公司”奖项、两届“固定收益投资金牛基金公司”奖项,连续两届获得“海外投资金牛基金公司”奖项,获七届证券时报“明星基金管理公司”奖项,是行业最全的QDII产品提供商,业内最全的行业ETF产品提供商,在业内首创公募基金大数据先河。同时,公司还管理着多个特定客户资产管理投资组合、社保基金投资组合、养老基金投资组合。\n    公司坚持“专业创造价值、客户利益至上”的经营理念,以完备的产品供给、策略供给、区域供给为基础,构建多元投资能力、顶层资产配置能力,致力成为优秀的全能型资产管理公司,为投资者谋求长期稳定的收益,为我国资本市场的繁荣与发展贡献一份力量。",
+    "fund_position": {
+      "stock_percent": 87.72,
+      "bond_percent": 0.32,
+      "cash_percent": 10.86,
+      "other_percent": 1.1,
+      "asset_tot": 364526628.26,
+      "asset_val": 360798514.7,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 8.93,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "京东方A",
+          "code": "000725",
+          "percent": 6.14,
+          "current_price": 5.25,
+          "change_percentage": -0.57,
+          "xq_symbol": "SZ000725",
+          "xq_url": "https://xueqiu.com/S/SZ000725",
+          "amarket": true
+        },
+        {
+          "name": "数据港",
+          "code": "603881",
+          "percent": 5.12,
+          "current_price": 69.05,
+          "change_percentage": -0.72,
+          "xq_symbol": "SH603881",
+          "xq_url": "https://xueqiu.com/S/SH603881",
+          "amarket": true
+        },
+        {
+          "name": "深信服",
+          "code": "300454",
+          "percent": 5.05,
+          "current_price": 217.55,
+          "change_percentage": 3.2,
+          "xq_symbol": "SZ300454",
+          "xq_url": "https://xueqiu.com/S/SZ300454",
+          "amarket": true
+        },
+        {
+          "name": "移远通信",
+          "code": "603236",
+          "percent": 4.08,
+          "current_price": 187.11,
+          "change_percentage": -1.26,
+          "xq_symbol": "SH603236",
+          "xq_url": "https://xueqiu.com/S/SH603236",
+          "amarket": true
+        },
+        {
+          "name": "金山办公",
+          "code": "688111",
+          "percent": 4.05,
+          "current_price": 349.5,
+          "change_percentage": -2.75,
+          "xq_symbol": "SH688111",
+          "xq_url": "https://xueqiu.com/S/SH688111",
+          "amarket": true
+        },
+        {
+          "name": "歌尔股份",
+          "code": "002241",
+          "percent": 3.89,
+          "current_price": 37.16,
+          "change_percentage": -2.24,
+          "xq_symbol": "SZ002241",
+          "xq_url": "https://xueqiu.com/S/SZ002241",
+          "amarket": true
+        },
+        {
+          "name": "新易盛",
+          "code": "300502",
+          "percent": 3.39,
+          "current_price": 58.26,
+          "change_percentage": 0.99,
+          "xq_symbol": "SZ300502",
+          "xq_url": "https://xueqiu.com/S/SZ300502",
+          "amarket": true
+        },
+        {
+          "name": "恒生电子",
+          "code": "600570",
+          "percent": 3.34,
+          "current_price": 98.15,
+          "change_percentage": 1.31,
+          "xq_symbol": "SH600570",
+          "xq_url": "https://xueqiu.com/S/SH600570",
+          "amarket": true
+        },
+        {
+          "name": "分众传媒",
+          "code": "002027",
+          "percent": 3.08,
+          "current_price": 10.36,
+          "change_percentage": 0.58,
+          "xq_symbol": "SZ002027",
+          "xq_url": "https://xueqiu.com/S/SZ002027",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "歌尔转2",
+          "code": "128112",
+          "percent": 0.24,
+          "xq_symbol": "128112",
+          "xq_url": "https://xueqiu.com/S/128112",
+          "amarket": false
+        },
+        {
+          "name": "特发转2",
+          "code": "127021",
+          "percent": 0.09,
+          "xq_symbol": "127021",
+          "xq_url": "https://xueqiu.com/S/127021",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "010236",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.500"
+        },
+        {
+          "name": "30天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.40"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "观富钦",
+        "resume": "    观富钦先生,管理学硕士,持有中国证券投资基金业从业证书。曾任广州证券股份有限公司研究所分析师,中投证券有限责任公司研究总部分析师,广发基金管理有限公司研究发展部研究员、研究发展部总经理助理。现任广发电子信息传媒产业精选股票型发起式证券投资基金基金经理(自2018年2月13日起任职)、广发稳健增长开放式证券投资基金基金经理助理(自2020年6月2日起任职)、广发稳健回报混合型证券投资基金基金经理助理(自2020年10月21日起任职)。",
+        "achievement_list": [
+          {
+            "fund_code": "010235",
+            "fundsname": "广发资源优选股票C",
+            "post_date": "2020-09-24",
+            "cp_rate": 8.2687
+          },
+          {
+            "fund_code": "010245",
+            "fundsname": "广发品牌消费股票C",
+            "post_date": "2020-09-24",
+            "cp_rate": 11.0563
+          },
+          {
+            "fund_code": "010236",
+            "fundsname": "广发电子信息传媒产业精选股票C",
+            "post_date": "2020-09-24",
+            "cp_rate": 3.5793
+          },
+          {
+            "fund_code": "004997",
+            "fundsname": "广发高端制造股票",
+            "post_date": "2019-09-11",
+            "resi_date": "2020-07-22",
+            "cp_rate": 100.7902
+          },
+          {
+            "fund_code": "005402",
+            "fundsname": "广发资源优选股票A",
+            "post_date": "2019-09-11",
+            "cp_rate": 82.5032
+          },
+          {
+            "fund_code": "004995",
+            "fundsname": "广发品牌消费股票A",
+            "post_date": "2019-09-11",
+            "cp_rate": 83.1473
+          },
+          {
+            "fund_code": "005310",
+            "fundsname": "广发电子信息传媒产业精选股票A",
+            "post_date": "2018-02-13",
+            "cp_rate": 85.1471
+          }
+        ]
+      },
+      {
+        "name": "冯骋",
+        "resume": "    冯骋先生,理学博士,5年证券和基金业从业经历,持有中国证券投资基金业从业证书。\n    持有中国证券投资基金业从业证书。曾任中国信息通信研究院工程师,招商证券股份有限公司研究发展中心分析师,广发基金管理有限公司研究发展部行业研究员、广发电子信息传媒产业精选股票型发起式证券投资基金基金经理(自2020年8月7日起任职)。",
+        "achievement_list": [
+          {
+            "fund_code": "010236",
+            "fundsname": "广发电子信息传媒产业精选股票C",
+            "post_date": "2020-09-24",
+            "cp_rate": 3.5793
+          },
+          {
+            "fund_code": "005310",
+            "fundsname": "广发电子信息传媒产业精选股票A",
+            "post_date": "2020-08-07",
+            "cp_rate": -4.567
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "010236",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

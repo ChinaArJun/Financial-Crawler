@@ -1,0 +1,230 @@
+{
+  "data": {
+    "fund_company": "    民生加银基金管理有限公司于2008年11月3日成立,由中国民生银行股份有限公司(China Minsheng Banking Corp., Ltd.) 、加拿大皇家银行(Royal Bank of Canada)和三峡财务有限责任公司共同发起设立,持股比例分别为60%、30%和10%。公司注册资本贰亿元人民币,注册地深圳。\n    作为一家具有银行背景的中外合资基金管理公司,同时站在中国基金业十年发展的基础上,民生加银将牢牢把握公司的先天优势资源,善用后发优势,以专业化、市场化的经营理念打造公司“专业化投研、流程化管理、理财规划式营销服务和稳定的核心团队”为目标的核心竞争力,努力建设成为一个国际先进、诚信、稳健、专业、创新、客户高度信赖、持有人利益最大化的专业资产管理公司。",
+    "fund_position": {
+      "stock_percent": 90.51,
+      "cash_percent": 9.18,
+      "other_percent": 0.31,
+      "asset_tot": 1150855933.68,
+      "asset_val": 1132697598.82,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "美团-W",
+          "code": "03690",
+          "percent": 9.5,
+          "xq_symbol": "03690",
+          "xq_url": "https://xueqiu.com/S/03690",
+          "amarket": false
+        },
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 9.02,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "恒瑞医药",
+          "code": "600276",
+          "percent": 7.24,
+          "current_price": 90.07,
+          "change_percentage": 0.21,
+          "xq_symbol": "SH600276",
+          "xq_url": "https://xueqiu.com/S/SH600276",
+          "amarket": true
+        },
+        {
+          "name": "美的集团",
+          "code": "000333",
+          "percent": 7.02,
+          "current_price": 86.7,
+          "change_percentage": -1.54,
+          "xq_symbol": "SZ000333",
+          "xq_url": "https://xueqiu.com/S/SZ000333",
+          "amarket": true
+        },
+        {
+          "name": "顺丰控股",
+          "code": "002352",
+          "percent": 6,
+          "current_price": 80.21,
+          "change_percentage": -1.88,
+          "xq_symbol": "SZ002352",
+          "xq_url": "https://xueqiu.com/S/SZ002352",
+          "amarket": true
+        },
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 5.48,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "晨光文具",
+          "code": "603899",
+          "percent": 4.53,
+          "current_price": 79.4,
+          "change_percentage": -1.79,
+          "xq_symbol": "SH603899",
+          "xq_url": "https://xueqiu.com/S/SH603899",
+          "amarket": true
+        },
+        {
+          "name": "腾讯控股",
+          "code": "00700",
+          "percent": 3.75,
+          "xq_symbol": "00700",
+          "xq_url": "https://xueqiu.com/S/00700",
+          "amarket": false
+        },
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 3.56,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "金山办公",
+          "code": "688111",
+          "percent": 3.42,
+          "current_price": 349.5,
+          "change_percentage": -2.75,
+          "xq_symbol": "SH688111",
+          "xq_url": "https://xueqiu.com/S/SH688111",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "008860",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.00"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "1天≤持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<90天",
+          "value": "0.500"
+        },
+        {
+          "name": "90天≤持有期限<180天",
+          "value": "0.500"
+        },
+        {
+          "name": "180天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "王亮",
+        "resume": "    王亮先生:清华大学硕士,13年证券从业经历。自2007年7月至2011年7月就职于长盛基金管理有限公司,担任研究员职务;自2011年8月至2017年8月,就职于泰康资产管理有限责任公司,历任行业研究组组长、投资经理职务。2017年9月加入民生加银基金管理有限公司,担任基金经理、权益资产条线投资决策委员会成员;自2017年11月至今担任民生加银红利回报灵活配置混合型证券投资基金基金经理;自2018年3月至今担任民生加银智造2025灵活配置混合型证券投资基金基金经理;自2018年11月至今担任民生加银景气行业混合型证券投资基金基金经理;自2019年8月至今担任民生加银稳健成长混合型证券投资基金基金经理;自2020年3月至今担任民生加银龙头优选股票型证券投资基金基金经理。",
+        "college": "清华大学",
+        "work_year": "13",
+        "achievement_list": [
+          {
+            "fund_code": "009720",
+            "fundsname": "民生加银景气行业混合C",
+            "post_date": "2020-09-10",
+            "cp_rate": 9.3736
+          },
+          {
+            "fund_code": "008860",
+            "fundsname": "民生加银龙头优选股票",
+            "post_date": "2020-03-10",
+            "cp_rate": 50.5
+          },
+          {
+            "fund_code": "690004",
+            "fundsname": "民生加银稳健成长混合",
+            "post_date": "2019-08-12",
+            "resi_date": "2020-09-25",
+            "cp_rate": 66.1538
+          },
+          {
+            "fund_code": "690007",
+            "fundsname": "民生加银景气行业混合A",
+            "post_date": "2018-11-01",
+            "cp_rate": 138.8566
+          },
+          {
+            "fund_code": "002649",
+            "fundsname": "民生加银智造2025灵活配置混合",
+            "post_date": "2018-03-07",
+            "cp_rate": 111.3019
+          },
+          {
+            "fund_code": "690009",
+            "fundsname": "民生加银红利回报混合",
+            "post_date": "2017-11-03",
+            "cp_rate": 70.4043
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "008860",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 4,
+      "all_buy_days": 2,
+      "all_sale_days": 5
+    }
+  },
+  "result_code": 0
+}

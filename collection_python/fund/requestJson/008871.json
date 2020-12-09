@@ -1,0 +1,228 @@
+{
+  "data": {
+    "fund_company": "    大成基金管理有限公司(以下简称“公司”)成立于1999年4月12日,注册资本金人民币2亿元,是中国首批获准成立的老十家基金管理公司之一。公司总部设在广东省深圳市,主要业务是公募基金的募集和管理,还具有全国社保基金投资管理业务资格、社保海外合格投资人资格、特定客户资产管理资格、QDII业务资格、保险资金管理人资格、保险保障基金管理人资格。\n    经过十多年的稳健发展,公司打造了一支具有良好职业素养和丰富经验的投资研究团队,各项业务迅猛发展,综合实力不断提升,旗下基金产品齐全、风格多样,构建了涵盖货币市场基金、债券型基金、混合型基金、股票型基金和指数型基金的完备产品线,为广大投资者带来了丰厚回报。截至2015年12月31日,公司旗下基金已累计向持有人分红超过330亿元人民币。\n    公司实行董事会领导下的总经理负责制,在“专业管理专业”的管理理念下,充分发挥各专业委员会的专业职能。公司组织架构完整稳定,职责明晰,并根据业务发展不断更新完善。公司先后成立了大成国际资产管理有限公司、大成创新资本管理有限公司,稳步推进国际业务,并积极开拓另类投资领域。\n    此外,公司始终保持高度的社会责任感,坚持在发展自身的同时回报社会,2009年4月出资设立了基金行业内第一家慈善基金会——广东省大成慈善基金会,致力公益慈善事业、积极履行企业社会责任。截至2015年12月底,大成慈善基金会累计捐赠金额超过1600万元,已完成捐赠项目36个,建成10余所大成基金小学和爱心食堂,在教育资助、灾害救助、医疗环保以及公益支持等方面尽企业一份绵薄之力。",
+    "fund_position": {
+      "stock_percent": 68.82,
+      "cash_percent": 31.15,
+      "other_percent": 0.03,
+      "asset_tot": 791626508.79,
+      "asset_val": 790069368.48,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "凌霄泵业",
+          "code": "002884",
+          "percent": 9.38,
+          "current_price": 25.73,
+          "change_percentage": 0,
+          "xq_symbol": "SZ002884",
+          "xq_url": "https://xueqiu.com/S/SZ002884",
+          "amarket": true
+        },
+        {
+          "name": "海尔智家",
+          "code": "600690",
+          "percent": 7.48,
+          "current_price": 26.97,
+          "change_percentage": -0.19,
+          "xq_symbol": "SH600690",
+          "xq_url": "https://xueqiu.com/S/SH600690",
+          "amarket": true
+        },
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 7.1,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "正泰电器",
+          "code": "601877",
+          "percent": 6.81,
+          "current_price": 32.64,
+          "change_percentage": -0.46,
+          "xq_symbol": "SH601877",
+          "xq_url": "https://xueqiu.com/S/SH601877",
+          "amarket": true
+        },
+        {
+          "name": "顺鑫农业",
+          "code": "000860",
+          "percent": 6.02,
+          "current_price": 64.72,
+          "change_percentage": 3.39,
+          "xq_symbol": "SZ000860",
+          "xq_url": "https://xueqiu.com/S/SZ000860",
+          "amarket": true
+        },
+        {
+          "name": "陕西煤业",
+          "code": "601225",
+          "percent": 5.25,
+          "current_price": 9.91,
+          "change_percentage": 0,
+          "xq_symbol": "SH601225",
+          "xq_url": "https://xueqiu.com/S/SH601225",
+          "amarket": true
+        },
+        {
+          "name": "海容冷链",
+          "code": "603187",
+          "percent": 4.69,
+          "current_price": 55.51,
+          "change_percentage": -0.59,
+          "xq_symbol": "SH603187",
+          "xq_url": "https://xueqiu.com/S/SH603187",
+          "amarket": true
+        },
+        {
+          "name": "万科A",
+          "code": "000002",
+          "percent": 4.23,
+          "current_price": 29.18,
+          "change_percentage": -0.78,
+          "xq_symbol": "SZ000002",
+          "xq_url": "https://xueqiu.com/S/SZ000002",
+          "amarket": true
+        },
+        {
+          "name": "人福医药",
+          "code": "600079",
+          "percent": 3.93,
+          "current_price": 33.6,
+          "change_percentage": -0.88,
+          "xq_symbol": "SH600079",
+          "xq_url": "https://xueqiu.com/S/SH600079",
+          "amarket": true
+        },
+        {
+          "name": "马应龙",
+          "code": "600993",
+          "percent": 2.55,
+          "current_price": 21.29,
+          "change_percentage": -1.48,
+          "xq_symbol": "SH600993",
+          "xq_url": "https://xueqiu.com/S/SH600993",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "008871",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "0.000",
+      "discount": "1",
+      "subscribe_discount": "1",
+      "declare_discount": "1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<200万",
+          "value": "1.00"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0 < 持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "刘旭",
+        "resume": "    刘旭:管理学硕士。证券从业年限9年。2009年至2010年在毕马威华振会计师事务所任审计师。2011年2月至2013年5月任广发证券研究所研究员。2013年5月加入大成基金管理有限公司,曾担任研究部研究员、基金经理助理,现任股票投资部副总监。2015年7月29日起任大成高新技术产业股票型证券投资基金基金经理。2016年8月20日起任大成创新成长混合型证券投资基金(LOF)基金经理。2019年12月24日起任大成优势企业混合型证券投资基金基金经理。2020年6月5日起任大成睿裕六个月持有期股票型证券投资基金基金经理。具有基金从业资格。国籍:中国",
+        "work_year": "9",
+        "achievement_list": [
+          {
+            "fund_code": "009069",
+            "fundsname": "大成睿鑫股票A",
+            "post_date": "2020-08-11",
+            "cp_rate": 5.37
+          },
+          {
+            "fund_code": "009070",
+            "fundsname": "大成睿鑫股票C",
+            "post_date": "2020-08-11",
+            "cp_rate": 5.24
+          },
+          {
+            "fund_code": "008871",
+            "fundsname": "大成睿裕六个月持有期股票A",
+            "post_date": "2020-06-05",
+            "cp_rate": 20.05
+          },
+          {
+            "fund_code": "008872",
+            "fundsname": "大成睿裕六个月持有期股票C",
+            "post_date": "2020-06-05",
+            "cp_rate": 19.68
+          },
+          {
+            "fund_code": "008271",
+            "fundsname": "大成优势企业混合A",
+            "post_date": "2019-12-24",
+            "cp_rate": 64.47
+          },
+          {
+            "fund_code": "008272",
+            "fundsname": "大成优势企业混合C",
+            "post_date": "2019-12-24",
+            "cp_rate": 63.22
+          },
+          {
+            "fund_code": "160910",
+            "fundsname": "大成创新成长混合(LOF)",
+            "post_date": "2016-08-20",
+            "cp_rate": 92.6621
+          },
+          {
+            "fund_code": "000628",
+            "fundsname": "大成高新技术产业股票型",
+            "post_date": "2015-07-29",
+            "cp_rate": 190.1701
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "008871",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

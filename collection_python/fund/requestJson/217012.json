@@ -1,0 +1,244 @@
+{
+  "data": {
+    "fund_company": "    招商基金管理有限公司于2002年12月27日经中国证监会(2002)100号文批准设立,是中国第一家中外合资基金管理公司。公司的经营范围包括发起设立基金、基金管理业务和中国证监会批准的其它业务。\n    经招商基金管理有限公司(以下简称“本公司”)股东会审议通过,并经中国证券监督管理委员会证监许可[2013]1074号文批复同意。目前,本公司的股东股权结构为:招商银行股份有限公司持有公司全部股权的55%,招商证券股份有限公司持有公司全部股权的45%。公司注册资本金为2.1亿元人民币。目前,招商基金拥有两家全资子公司,分别为招商财富资产管理有限公司和招商资产管理(香港)有限公司。\n    招商基金以“为投资者创造更多价值”为使命,秉承诚信、理性、专业、协作、成长的核心价值观,努力成为中国资产管理行业具有差异化竞争优势、一流品牌的资产管理公司。",
+    "fund_position": {
+      "stock_percent": 90.09,
+      "bond_percent": 4.82,
+      "cash_percent": 2.2,
+      "other_percent": 2.89,
+      "asset_tot": 403777784.94,
+      "asset_val": 398528498.06,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 8.16,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 8.04,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 8,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "海天味业",
+          "code": "603288",
+          "percent": 7.98,
+          "current_price": 183.5,
+          "change_percentage": 0.84,
+          "xq_symbol": "SH603288",
+          "xq_url": "https://xueqiu.com/S/SH603288",
+          "amarket": true
+        },
+        {
+          "name": "海大集团",
+          "code": "002311",
+          "percent": 7.35,
+          "current_price": 61,
+          "change_percentage": 0,
+          "xq_symbol": "SZ002311",
+          "xq_url": "https://xueqiu.com/S/SZ002311",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 6.06,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "健帆生物",
+          "code": "300529",
+          "percent": 5.98,
+          "current_price": 68.76,
+          "change_percentage": -0.28,
+          "xq_symbol": "SZ300529",
+          "xq_url": "https://xueqiu.com/S/SZ300529",
+          "amarket": true
+        },
+        {
+          "name": "迈瑞医疗",
+          "code": "300760",
+          "percent": 5.75,
+          "current_price": 351.9,
+          "change_percentage": 1.82,
+          "xq_symbol": "SZ300760",
+          "xq_url": "https://xueqiu.com/S/SZ300760",
+          "amarket": true
+        },
+        {
+          "name": "华兰生物",
+          "code": "002007",
+          "percent": 5.69,
+          "current_price": 43.73,
+          "change_percentage": -3.19,
+          "xq_symbol": "SZ002007",
+          "xq_url": "https://xueqiu.com/S/SZ002007",
+          "amarket": true
+        },
+        {
+          "name": "晶澳科技",
+          "code": "002459",
+          "percent": 5.53,
+          "current_price": 32.99,
+          "change_percentage": 0.49,
+          "xq_symbol": "SZ002459",
+          "xq_url": "https://xueqiu.com/S/SZ002459",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "20国债01",
+          "code": "019627",
+          "percent": 4.88,
+          "xq_symbol": "019627",
+          "xq_url": "https://xueqiu.com/S/019627",
+          "amarket": false
+        },
+        {
+          "name": "蓝帆转债",
+          "code": "128108",
+          "percent": 0,
+          "xq_symbol": "128108",
+          "xq_url": "https://xueqiu.com/S/128108",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "217012",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<200万",
+          "value": "1.20"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "1天≤持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "365天≤持有期限<730天",
+          "value": "0.250"
+        },
+        {
+          "name": "730天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "吴昊",
+        "resume": "    吴昊先生,工学硕士。2006年6月起任职于华泰联合证券有限责任公司研究所,任研究员,从事机械行业研究工作,2009年6月加入国泰君安证券股份有限公司,任研究所机械行业研究员。2010年加入招商基金管理有限公司,曾任高级行业研究员、助理基金经理,现任招商行业领先混合型证券投资基金基金经理(管理时间:2014年10月31日至今)及招商盛合灵活配置混合型证券投资基金基金经理(管理时间:2017年3月1日至今)。",
+        "work_year": "15",
+        "achievement_list": [
+          {
+            "fund_code": "004142",
+            "fundsname": "招商盛合灵活混合A",
+            "post_date": "2017-03-01",
+            "resi_date": "2018-09-04",
+            "cp_rate": -10.18
+          },
+          {
+            "fund_code": "004143",
+            "fundsname": "招商盛合灵活混合C",
+            "post_date": "2017-03-01",
+            "resi_date": "2018-09-04",
+            "cp_rate": -10.56
+          },
+          {
+            "fund_code": "217012",
+            "fundsname": "招商行业领先混合",
+            "post_date": "2014-10-31",
+            "cp_rate": 164.9743
+          },
+          {
+            "fund_code": "217024",
+            "fundsname": "招商安盈保本混合",
+            "post_date": "2012-08-20",
+            "resi_date": "2013-09-12",
+            "cp_rate": 4.8
+          },
+          {
+            "fund_code": "217013",
+            "fundsname": "招商中小盘精选混合",
+            "post_date": "2012-04-11",
+            "resi_date": "2015-05-08",
+            "cp_rate": 116.8057
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "217012",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

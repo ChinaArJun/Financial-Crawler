@@ -1,0 +1,214 @@
+{
+  "data": {
+    "fund_company": "    工银瑞信基金管理有限公司是由中国工商银行和瑞士信贷合资设立的基金管理公司,成立于2005年6月。目前,公司在北京、上海、深圳等地设有分公司,分别在香港和上海设有全资子公司——工银瑞信资产管理(国际)有限公司、工银瑞信投资管理有限公司。\n    自成立以来,公司坚持“以稳健的投资管理,为客户提供卓越的理财服务”为使命,依托强大的股东背景、稳健的经营理念、科学的投研体系、严密的风控机制和资深的管理团队,立足专业化、国际化、规范化,坚持“稳健投资、价值投资、长期投资”,致力于为广大投资者提供一流的投资管理服务。\n    公司秉持“以人为本”的理念,全方位引入国内外优秀人才,组建了一支风格稳健、诚信敬业、创新进取、团结协作的专业团队。目前,公司共有员工逾550人,平均年龄32岁,72%的员工拥有硕士以上学历。公司投研团队由资深基金经理和研究员组成,投研人员逾170人,投资人员平均拥有约10年的从业经验。\n    经过十多年的发展,工银瑞信已成为一家拥有公募基金、专户管理、企业年金、社保基金境内外委托投资、基本养老保险基金委托投资、保险资金委托投资、企业年金养老产品、QDII、QFII、RQFII等多项业务资格的全能型资产管理公司,公司为逾1600万境内外个人和机构投资者提供涵盖公募与私募、上市与非上市、境内与跨境业务的全方位财富管理服务。\n    公司成立以来以持续优秀的投资业绩、完善周到的客户服务,赢得了广大基金投资人、社保理事会、企业年金客户、专户客户等的认可和信赖。截至2016年12月31日,工银瑞信(含子公司)旗下管理近100只公募基金和多个年金、专户组合,资产管理规模逾11000亿元,其中公募基金管理规模逾4600亿元,公司已经发展成为国内业务资格全面、产品种类丰富、经营业绩优秀、资产管理规模领先、业务发展均衡的基金管理公司之一。",
+    "fund_position": {
+      "stock_percent": 94.38,
+      "cash_percent": 5.49,
+      "other_percent": 0.13,
+      "asset_tot": 133289293.16,
+      "asset_val": 132614289.55,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "海康威视",
+          "code": "002415",
+          "percent": 7.29,
+          "current_price": 44.28,
+          "change_percentage": -1.16,
+          "xq_symbol": "SZ002415",
+          "xq_url": "https://xueqiu.com/S/SZ002415",
+          "amarket": true
+        },
+        {
+          "name": "宁德时代",
+          "code": "300750",
+          "percent": 6.67,
+          "current_price": 266.03,
+          "change_percentage": 1.75,
+          "xq_symbol": "SZ300750",
+          "xq_url": "https://xueqiu.com/S/SZ300750",
+          "amarket": true
+        },
+        {
+          "name": "璞泰来",
+          "code": "603659",
+          "percent": 5.57,
+          "current_price": 111.38,
+          "change_percentage": 5.71,
+          "xq_symbol": "SH603659",
+          "xq_url": "https://xueqiu.com/S/SH603659",
+          "amarket": true
+        },
+        {
+          "name": "弘亚数控",
+          "code": "002833",
+          "percent": 5.19,
+          "current_price": 43.08,
+          "change_percentage": 2.74,
+          "xq_symbol": "SZ002833",
+          "xq_url": "https://xueqiu.com/S/SZ002833",
+          "amarket": true
+        },
+        {
+          "name": "金山办公",
+          "code": "688111",
+          "percent": 4.9,
+          "current_price": 349.5,
+          "change_percentage": -2.75,
+          "xq_symbol": "SH688111",
+          "xq_url": "https://xueqiu.com/S/SH688111",
+          "amarket": true
+        },
+        {
+          "name": "鹏鼎控股",
+          "code": "002938",
+          "percent": 4.77,
+          "current_price": 54.51,
+          "change_percentage": -2.14,
+          "xq_symbol": "SZ002938",
+          "xq_url": "https://xueqiu.com/S/SZ002938",
+          "amarket": true
+        },
+        {
+          "name": "长春高新",
+          "code": "000661",
+          "percent": 4.24,
+          "current_price": 388,
+          "change_percentage": 0.19,
+          "xq_symbol": "SZ000661",
+          "xq_url": "https://xueqiu.com/S/SZ000661",
+          "amarket": true
+        },
+        {
+          "name": "克来机电",
+          "code": "603960",
+          "percent": 4.19,
+          "current_price": 40.1,
+          "change_percentage": -0.25,
+          "xq_symbol": "SH603960",
+          "xq_url": "https://xueqiu.com/S/SH603960",
+          "amarket": true
+        },
+        {
+          "name": "吉比特",
+          "code": "603444",
+          "percent": 4.15,
+          "current_price": 410.3,
+          "change_percentage": 2.32,
+          "xq_symbol": "SH603444",
+          "xq_url": "https://xueqiu.com/S/SH603444",
+          "amarket": true
+        },
+        {
+          "name": "三花智控",
+          "code": "002050",
+          "percent": 3.99,
+          "current_price": 24.3,
+          "change_percentage": 2.84,
+          "xq_symbol": "SZ002050",
+          "xq_url": "https://xueqiu.com/S/SZ002050",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "002861",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<300万",
+          "value": "1.00"
+        },
+        {
+          "name": "300万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.300"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "农冰立",
+        "resume": "    农冰立先生,5 年证券从业经验。先后在泰达宏利基金担任 TMT 行业研究员,在天风证券担任电子行业首席分析师;2017 年加入工银瑞信基金管理有限公司,现任研究部电子、通信行业研究员、基金经理,2018 年 6 月 22 日至今,担任工银瑞信中小盘成长混合型证券投资基金基金经理;2018 年 6 月 22 日至今,担任工银瑞信智能制造股票型证券投资基金基金经理。",
+        "achievement_list": [
+          {
+            "fund_code": "001721",
+            "fundsname": "工银新增益混合",
+            "post_date": "2020-06-11",
+            "cp_rate": 12.058
+          },
+          {
+            "fund_code": "481010",
+            "fundsname": "工银中小盘混合",
+            "post_date": "2018-06-22",
+            "resi_date": "2019-08-14",
+            "cp_rate": 13.0508
+          },
+          {
+            "fund_code": "002861",
+            "fundsname": "工银瑞信智能制造股票",
+            "post_date": "2018-06-22",
+            "cp_rate": 102.7673
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "002861",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

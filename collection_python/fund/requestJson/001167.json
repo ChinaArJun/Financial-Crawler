@@ -1,0 +1,257 @@
+{
+  "data": {
+    "fund_company": "    2002年8月,金鹰基金管理有限公司获准筹建,是自律制度下中国证监会批准设立的首批基金管理公司之一。公司注册资本1亿元人民币,股东包括广州证券有限责任公司、四川南方希望有限公司、广州药业股份有限公司、广东美的集团股份有限公司,分别持有40%、20%、20%和20%的股份。2002年12月25日,金鹰基金管理有限公司获准正式开业。\n    金鹰公司按照高起点、市场化、科学化、规范化和国际化的要求管理运作,其竞争力在于:        股东优势--主要股东有成长迅速的专业券商、声誉良好的知名上市公司和富有创新活力的著名民营企业,共同给予金鹰长期战略支持,确立了长远发展的坚定信念,并形成了雄厚资本与丰富专业经验能力的有效融合,实现了专业和行业的优势互补。\n    完善的公司治理结构--金鹰致力于建设一个运作高效、完善合理的公司治理结构,为此建立了\"三层三纵\"的制度体系、严谨的业务执行系统和健全的监督系统。独立董事占董事人数的45%,包括享誉国际、精通业务的金融、法律和财务管理专家及知名经济学者。\n    人才优势--聚集海内外金融精英,19%为博士,72%以上具有硕士以上学历,且大部分毕业于北大、清华、复旦、交大等著名高校,还有海外留学人士加盟。\n    团队精神--金鹰坚持团队合作,努力打造一个团结一致,为共同目标不懈努力的精英团队。\n    崇尚创新--金鹰提倡不断进取,追求卓越,不断地超越自我,在市场创新中,保持领先地位。\n    国际合作--金鹰与法国CDC资产管理公司、美国Wellington资产管理公司和美国国际集团(AIG)等国际知名投资机构建立了良好的国际合作关系。金鹰在合作中积极引入国际先进基金管理经验和技术。",
+    "fund_position": {
+      "stock_percent": 84.49,
+      "bond_percent": 0.19,
+      "cash_percent": 15.24,
+      "other_percent": 0.08,
+      "asset_tot": 520552729.26,
+      "asset_val": 514733211.29,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "杭州银行",
+          "code": "600926",
+          "percent": 3.09,
+          "current_price": 14.32,
+          "change_percentage": 0.07,
+          "xq_symbol": "SH600926",
+          "xq_url": "https://xueqiu.com/S/SH600926",
+          "amarket": true
+        },
+        {
+          "name": "万科A",
+          "code": "000002",
+          "percent": 2.94,
+          "current_price": 29.18,
+          "change_percentage": -0.78,
+          "xq_symbol": "SZ000002",
+          "xq_url": "https://xueqiu.com/S/SZ000002",
+          "amarket": true
+        },
+        {
+          "name": "宁沪高速",
+          "code": "600377",
+          "percent": 2.77,
+          "current_price": 9.52,
+          "change_percentage": -0.42,
+          "xq_symbol": "SH600377",
+          "xq_url": "https://xueqiu.com/S/SH600377",
+          "amarket": true
+        },
+        {
+          "name": "新华保险",
+          "code": "601336",
+          "percent": 2.65,
+          "current_price": 62.1,
+          "change_percentage": 0.23,
+          "xq_symbol": "SH601336",
+          "xq_url": "https://xueqiu.com/S/SH601336",
+          "amarket": true
+        },
+        {
+          "name": "陕西煤业",
+          "code": "601225",
+          "percent": 2.53,
+          "current_price": 9.91,
+          "change_percentage": 0,
+          "xq_symbol": "SH601225",
+          "xq_url": "https://xueqiu.com/S/SH601225",
+          "amarket": true
+        },
+        {
+          "name": "国投电力",
+          "code": "600886",
+          "percent": 2.45,
+          "current_price": 9.19,
+          "change_percentage": 0.33,
+          "xq_symbol": "SH600886",
+          "xq_url": "https://xueqiu.com/S/SH600886",
+          "amarket": true
+        },
+        {
+          "name": "宁德时代",
+          "code": "300750",
+          "percent": 2.3,
+          "current_price": 266.03,
+          "change_percentage": 1.75,
+          "xq_symbol": "SZ300750",
+          "xq_url": "https://xueqiu.com/S/SZ300750",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 2.28,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 2.26,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "东方雨虹",
+          "code": "002271",
+          "percent": 2.09,
+          "current_price": 35.92,
+          "change_percentage": 0.25,
+          "xq_symbol": "SZ002271",
+          "xq_url": "https://xueqiu.com/S/SZ002271",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "20国债01",
+          "code": "019627",
+          "percent": 0.19,
+          "xq_symbol": "019627",
+          "xq_url": "https://xueqiu.com/S/019627",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "001167",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<300万",
+          "value": "1.00"
+        },
+        {
+          "name": "300万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<180天",
+          "value": "1.000"
+        },
+        {
+          "name": "6月≤持有期限<12月",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "乔春",
+        "resume": "    乔春先生,中南大学环境工程专业工学学士、南开大学金融学硕士,2010年进入长城基金管理有限公司,曾任研究部行业研究员,长城安心回报混合型证券投资基金基金经理助理,2014年9月16日至2017年7月担任久嘉证券投资基金基金经理。2015年4月至2017年8月任长城环保主题灵活配置混合型证券投资基金基金经理。2017年3月至2017年8月任长城双动力混合型证券投资基金基金经理。2017年7月至2017年8月担任长城久嘉创新成长灵活配置混合型证券投资基金基金经理。2017年9月加入金鹰基金管理有限公司,担任基金经理助理。2019年4月起任金鹰科技创新股票型证券投资基金基金经理。",
+        "college": "南开大学",
+        "work_year": "10",
+        "achievement_list": [
+          {
+            "fund_code": "150088",
+            "fundsname": "金鹰500A",
+            "post_date": "2020-04-28"
+          },
+          {
+            "fund_code": "150089",
+            "fundsname": "金鹰500B",
+            "post_date": "2020-04-28"
+          },
+          {
+            "fund_code": "162107",
+            "fundsname": "金鹰量化精选股票(LOF)",
+            "post_date": "2020-04-28",
+            "cp_rate": 22.9511
+          },
+          {
+            "fund_code": "001167",
+            "fundsname": "金鹰科技创新股票",
+            "post_date": "2019-04-17",
+            "cp_rate": 60.4839
+          },
+          {
+            "fund_code": "004666",
+            "fundsname": "长城久嘉创新成长混合",
+            "post_date": "2017-07-05",
+            "resi_date": "2017-08-18",
+            "cp_rate": -2.6279
+          },
+          {
+            "fund_code": "200010",
+            "fundsname": "长城双动力混合",
+            "post_date": "2017-03-16",
+            "resi_date": "2017-08-18",
+            "cp_rate": -7.5656
+          },
+          {
+            "fund_code": "000977",
+            "fundsname": "长城环保主题灵活配置混合",
+            "post_date": "2015-04-20",
+            "resi_date": "2017-08-18",
+            "cp_rate": -1.4014
+          },
+          {
+            "fund_code": "184722",
+            "fundsname": "长城久嘉封闭",
+            "post_date": "2014-09-16",
+            "resi_date": "2017-07-05",
+            "cp_rate": 35.9117
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "001167",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "fund_company": "    广发基金管理有限公司经中国证监会证监基金字[2003]91号文批准,于2003年8月5日成立,是业内第30家成立的基金管理公司,总部设在广州,公司注册资本金12688万元人民币。公司及旗下子公司目前拥有公募基金管理、社保基金境内委托投资管理人、基本养老保险基金证券投资管理机构、特定客户资产管理、QDII、RQFII、QFII、受托管理保险资金投资管理人和保险保障基金委托资产管理投资管理人等业务资格,具备多种业务的综合资产管理能力与经验。\n    截至2016年12月31日,公司管理125只开放式基金,管理公募基金资产规模为3048亿元,长期位居行业前列。公司旗下产品覆盖主动权益、债券、货币、海外投资、被动投资、量化对冲、另类投资等不同类别,产品线齐全。公司曾获五届中国证券报“金牛基金管理公司”奖项、两届“固定收益投资金牛基金公司”奖项,连续两届获得“海外投资金牛基金公司”奖项,获七届证券时报“明星基金管理公司”奖项,是行业最全的QDII产品提供商,业内最全的行业ETF产品提供商,在业内首创公募基金大数据先河。同时,公司还管理着多个特定客户资产管理投资组合、社保基金投资组合、养老基金投资组合。\n    公司坚持“专业创造价值、客户利益至上”的经营理念,以完备的产品供给、策略供给、区域供给为基础,构建多元投资能力、顶层资产配置能力,致力成为优秀的全能型资产管理公司,为投资者谋求长期稳定的收益,为我国资本市场的繁荣与发展贡献一份力量。",
+    "fund_position": {
+      "stock_percent": 84.89,
+      "bond_percent": 0.12,
+      "cash_percent": 9.05,
+      "other_percent": 5.94,
+      "asset_tot": 7309887665.77,
+      "asset_val": 7121912489.98,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 8.97,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "锦浪科技",
+          "code": "300763",
+          "percent": 8.32,
+          "current_price": 117.3,
+          "change_percentage": 10.91,
+          "xq_symbol": "SZ300763",
+          "xq_url": "https://xueqiu.com/S/SZ300763",
+          "amarket": true
+        },
+        {
+          "name": "通威股份",
+          "code": "600438",
+          "percent": 7.97,
+          "current_price": 29.2,
+          "change_percentage": -1.85,
+          "xq_symbol": "SH600438",
+          "xq_url": "https://xueqiu.com/S/SH600438",
+          "amarket": true
+        },
+        {
+          "name": "美的集团",
+          "code": "000333",
+          "percent": 5.64,
+          "current_price": 86.7,
+          "change_percentage": -1.54,
+          "xq_symbol": "SZ000333",
+          "xq_url": "https://xueqiu.com/S/SZ000333",
+          "amarket": true
+        },
+        {
+          "name": "阳光电源",
+          "code": "300274",
+          "percent": 5,
+          "current_price": 51.88,
+          "change_percentage": 6.31,
+          "xq_symbol": "SZ300274",
+          "xq_url": "https://xueqiu.com/S/SZ300274",
+          "amarket": true
+        },
+        {
+          "name": "万盛股份",
+          "code": "603010",
+          "percent": 4.7,
+          "current_price": 23.9,
+          "change_percentage": 0.42,
+          "xq_symbol": "SH603010",
+          "xq_url": "https://xueqiu.com/S/SH603010",
+          "amarket": true
+        },
+        {
+          "name": "北方华创",
+          "code": "002371",
+          "percent": 4.06,
+          "current_price": 172.8,
+          "change_percentage": -1.71,
+          "xq_symbol": "SZ002371",
+          "xq_url": "https://xueqiu.com/S/SZ002371",
+          "amarket": true
+        },
+        {
+          "name": "荣盛石化",
+          "code": "002493",
+          "percent": 3.77,
+          "current_price": 25.98,
+          "change_percentage": 1.48,
+          "xq_symbol": "SZ002493",
+          "xq_url": "https://xueqiu.com/S/SZ002493",
+          "amarket": true
+        },
+        {
+          "name": "桐昆股份",
+          "code": "601233",
+          "percent": 3.59,
+          "current_price": 19.27,
+          "change_percentage": -1.63,
+          "xq_symbol": "SH601233",
+          "xq_url": "https://xueqiu.com/S/SH601233",
+          "amarket": true
+        },
+        {
+          "name": "韦尔股份",
+          "code": "603501",
+          "percent": 3.47,
+          "current_price": 218,
+          "change_percentage": 0.53,
+          "xq_symbol": "SH603501",
+          "xq_url": "https://xueqiu.com/S/SH603501",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "隆20转债",
+          "code": "113038",
+          "percent": 0.13,
+          "xq_symbol": "113038",
+          "xq_url": "https://xueqiu.com/S/113038",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "010160",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "1天≤持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.500"
+        },
+        {
+          "name": "30天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.40"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "孙迪",
+        "resume": "    孙迪先生,金融学和工程学双硕士,持有中国证券投资基金业从业证书。曾任广发基金管理有限公司研究发展部研究员、部门总经理助理、副总经理。现任广发基金管理有限公司研究发展部总经理、广发资源优选股票型发起式证券投资基金基金经理(自2017年12月14日起任职)、广发品牌消费股票型发起式证券投资基金基金经理(自2017年12月14日起任职)、广发高端制造股票型发起式证券投资基金基金经理(自2019年4月11日起任职)、广发研究精选股票型证券投资基金基金经理(自2020年11月4日起任职)。",
+        "achievement_list": [
+          {
+            "fund_code": "010112",
+            "fundsname": "广发研究精选股票A",
+            "post_date": "2020-11-04",
+            "cp_rate": 0.53
+          },
+          {
+            "fund_code": "010113",
+            "fundsname": "广发研究精选股票C",
+            "post_date": "2020-11-04",
+            "cp_rate": 0.5
+          },
+          {
+            "fund_code": "010235",
+            "fundsname": "广发资源优选股票C",
+            "post_date": "2020-09-24",
+            "cp_rate": 8.2687
+          },
+          {
+            "fund_code": "010245",
+            "fundsname": "广发品牌消费股票C",
+            "post_date": "2020-09-24",
+            "cp_rate": 11.0563
+          },
+          {
+            "fund_code": "010160",
+            "fundsname": "广发高端制造股票C",
+            "post_date": "2020-09-16",
+            "cp_rate": 15.7919
+          },
+          {
+            "fund_code": "004997",
+            "fundsname": "广发高端制造股票A",
+            "post_date": "2019-04-11",
+            "cp_rate": 185.2339
+          },
+          {
+            "fund_code": "005402",
+            "fundsname": "广发资源优选股票A",
+            "post_date": "2017-12-14",
+            "cp_rate": 82.85
+          },
+          {
+            "fund_code": "004995",
+            "fundsname": "广发品牌消费股票A",
+            "post_date": "2017-12-14",
+            "cp_rate": 93.66
+          }
+        ]
+      },
+      {
+        "name": "郑澄然",
+        "resume": "    郑澄然先生,金融学硕士,持有中国证券投资基金业从业证书。曾先后任广发基金管理有限公司研究发展部研究员、成长投资部研究员。现任广发鑫享灵活配置混合型证券投资基金基金经理(自2020年5月20日起任职)、广发高端制造股票型发起式证券投资基金基金经理(自2020年7月23日起任职)。",
+        "achievement_list": [
+          {
+            "fund_code": "010160",
+            "fundsname": "广发高端制造股票C",
+            "post_date": "2020-09-16",
+            "cp_rate": 15.7919
+          },
+          {
+            "fund_code": "004997",
+            "fundsname": "广发高端制造股票A",
+            "post_date": "2020-07-23",
+            "cp_rate": 21.0009
+          },
+          {
+            "fund_code": "002132",
+            "fundsname": "广发鑫享灵活配置混合",
+            "post_date": "2020-05-20",
+            "cp_rate": 70.5004
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "010160",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

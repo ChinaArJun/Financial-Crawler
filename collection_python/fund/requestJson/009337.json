@@ -1,0 +1,277 @@
+{
+  "data": {
+    "fund_position": {
+      "stock_percent": 93.72,
+      "bond_percent": 0.01,
+      "cash_percent": 5.84,
+      "other_percent": 0.43,
+      "asset_tot": 38188470.69,
+      "asset_val": 37728377.85,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "宝信软件",
+          "code": "600845",
+          "percent": 1.13,
+          "current_price": 64.06,
+          "change_percentage": 0.13,
+          "xq_symbol": "SH600845",
+          "xq_url": "https://xueqiu.com/S/SH600845",
+          "amarket": true
+        },
+        {
+          "name": "凯莱英",
+          "code": "002821",
+          "percent": 1.12,
+          "current_price": 274,
+          "change_percentage": 1.64,
+          "xq_symbol": "SZ002821",
+          "xq_url": "https://xueqiu.com/S/SZ002821",
+          "amarket": true
+        },
+        {
+          "name": "亿帆医药",
+          "code": "002019",
+          "percent": 1.05,
+          "current_price": 22.52,
+          "change_percentage": 1.53,
+          "xq_symbol": "SZ002019",
+          "xq_url": "https://xueqiu.com/S/SZ002019",
+          "amarket": true
+        },
+        {
+          "name": "昆仑万维",
+          "code": "300418",
+          "percent": 1.02,
+          "current_price": 22.58,
+          "change_percentage": -0.22,
+          "xq_symbol": "SZ300418",
+          "xq_url": "https://xueqiu.com/S/SZ300418",
+          "amarket": true
+        },
+        {
+          "name": "光线传媒",
+          "code": "300251",
+          "percent": 1,
+          "current_price": 13.36,
+          "change_percentage": -0.3,
+          "xq_symbol": "SZ300251",
+          "xq_url": "https://xueqiu.com/S/SZ300251",
+          "amarket": true
+        },
+        {
+          "name": "晶澳科技",
+          "code": "002459",
+          "percent": 0.99,
+          "current_price": 32.99,
+          "change_percentage": 0.49,
+          "xq_symbol": "SZ002459",
+          "xq_url": "https://xueqiu.com/S/SZ002459",
+          "amarket": true
+        },
+        {
+          "name": "华西证券",
+          "code": "002926",
+          "percent": 0.97,
+          "current_price": 12.53,
+          "change_percentage": 0,
+          "xq_symbol": "SZ002926",
+          "xq_url": "https://xueqiu.com/S/SZ002926",
+          "amarket": true
+        },
+        {
+          "name": "国海证券",
+          "code": "000750",
+          "percent": 0.96,
+          "current_price": 5.62,
+          "change_percentage": -0.18,
+          "xq_symbol": "SZ000750",
+          "xq_url": "https://xueqiu.com/S/SZ000750",
+          "amarket": true
+        },
+        {
+          "name": "太平洋",
+          "code": "601099",
+          "percent": 0.95,
+          "current_price": 3.99,
+          "change_percentage": 0,
+          "xq_symbol": "SH601099",
+          "xq_url": "https://xueqiu.com/S/SH601099",
+          "amarket": true
+        },
+        {
+          "name": "人福医药",
+          "code": "600079",
+          "percent": 0.95,
+          "current_price": 33.6,
+          "change_percentage": -0.88,
+          "xq_symbol": "SH600079",
+          "xq_url": "https://xueqiu.com/S/SH600079",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "东缆转债",
+          "code": "113603",
+          "percent": 0.01,
+          "xq_symbol": "113603",
+          "xq_url": "https://xueqiu.com/S/113603",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "009337",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "1",
+      "subscribe_discount": "1",
+      "declare_discount": "1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.50"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.15"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.00"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "毛时超",
+        "resume": "    毛时超先生,中山大学硕士研究生。2016年7月加入平安基金管理有限公司,曾任衍生品投资中心衍生品研究员、基金经理助理。现担任平安安享灵活配置混合型证券投资基金(2020-05-09至今)、平安深证300指数增强型证券投资基金(2020-05-09至今)、平安沪深300指数量化增强证券投资基金(2020-05-09至今)、平安量化先锋混合型发起式证券投资基金(2020-06-01至今)、平安中证500指数增强型发起式证券投资基金(2020-06-01至今)、平安股息精选沪港深股票型证券投资基金(2020-06-24至今)、平安量化精选混合型发起式证券投资基金(2020-07-15至今)、平安估值优势灵活配置混合型证券投资基金(2020-08-17至今)基金经理。",
+        "college": "中山大学",
+        "achievement_list": [
+          {
+            "fund_code": "006458",
+            "fundsname": "平安估值优势混合C",
+            "post_date": "2020-08-17",
+            "cp_rate": 1.8249
+          },
+          {
+            "fund_code": "006457",
+            "fundsname": "平安估值优势混合A",
+            "post_date": "2020-08-17",
+            "cp_rate": 1.9195
+          },
+          {
+            "fund_code": "005487",
+            "fundsname": "平安量化精选混合C",
+            "post_date": "2020-07-15",
+            "cp_rate": -2.2082
+          },
+          {
+            "fund_code": "005486",
+            "fundsname": "平安量化精选混合A",
+            "post_date": "2020-07-15",
+            "cp_rate": -1.8995
+          },
+          {
+            "fund_code": "004404",
+            "fundsname": "平安股息精选沪港深C",
+            "post_date": "2020-06-24",
+            "cp_rate": 31.5013
+          },
+          {
+            "fund_code": "004403",
+            "fundsname": "平安股息精选沪港深A",
+            "post_date": "2020-06-24",
+            "cp_rate": 31.9762
+          },
+          {
+            "fund_code": "009337",
+            "fundsname": "平安中证500指数增强C",
+            "post_date": "2020-06-01",
+            "cp_rate": 19.6839
+          },
+          {
+            "fund_code": "009336",
+            "fundsname": "平安中证500指数增强A",
+            "post_date": "2020-06-01",
+            "cp_rate": 19.992
+          },
+          {
+            "fund_code": "005085",
+            "fundsname": "平安量化先锋C",
+            "post_date": "2020-06-01",
+            "resi_date": "2020-11-09",
+            "cp_rate": 16.8834
+          },
+          {
+            "fund_code": "005084",
+            "fundsname": "平安量化先锋A",
+            "post_date": "2020-06-01",
+            "resi_date": "2020-11-09",
+            "cp_rate": 17.2903
+          },
+          {
+            "fund_code": "007663",
+            "fundsname": "平安安享灵活配置混合C",
+            "post_date": "2020-05-09",
+            "cp_rate": 11.7157
+          },
+          {
+            "fund_code": "002282",
+            "fundsname": "平安安享灵活配置混合A",
+            "post_date": "2020-05-09",
+            "cp_rate": 11.7761
+          },
+          {
+            "fund_code": "005114",
+            "fundsname": "平安沪深300指数量化增强C",
+            "post_date": "2020-05-09",
+            "cp_rate": 34.726
+          },
+          {
+            "fund_code": "005113",
+            "fundsname": "平安沪深300指数量化增强A",
+            "post_date": "2020-05-09",
+            "cp_rate": 35.101
+          },
+          {
+            "fund_code": "700002",
+            "fundsname": "平安深证300指数增强",
+            "post_date": "2020-05-09",
+            "cp_rate": 35.1903
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "009337",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "fund_company": "    诺安基金管理有限公司成立于2003年12月,历经13年牛熊市磨砺与成长,积累了丰富的资产管理经验。11个分支机构业务遍布境内外,截至2016年9月底,公司旗下管理着近52只开放式基金,管理公募基金规模超过1000亿元,拥有客户数量超过600万,累计分红超过150亿元。\n    诺安基金总部设在深圳,注册资本金为1.5亿元人民币。股东结构为:中国对外经济贸易信托有限公司(40%);深圳市捷隆投资有限公司(40%);大恒新纪元科技股份有限公司(20%)。目前,公司在北京、上海、广州、成都、南京、沈阳等地设有分公司,在北京和香港设有子公司——诺安资产管理有限公司(北京子公司)和诺安基金(香港)有限公司。\n    诺安基金秉承“领先、创新、责任、卓越”的理念,以诚信为本,取信于社会,取信于市场,取信于每一位基金投资人。走稳健之道,在有效控制风险的前提下,为基金投资人创造良好的投资回报。",
+    "fund_position": {
+      "stock_percent": 83.86,
+      "cash_percent": 15.51,
+      "other_percent": 0.63,
+      "asset_tot": 1406061038.13,
+      "asset_val": 1391810180.99,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "安车检测",
+          "code": "300572",
+          "percent": 2.71,
+          "current_price": 44.07,
+          "change_percentage": 0.07,
+          "xq_symbol": "SZ300572",
+          "xq_url": "https://xueqiu.com/S/SZ300572",
+          "amarket": true
+        },
+        {
+          "name": "欣旺达",
+          "code": "300207",
+          "percent": 2.59,
+          "current_price": 29.45,
+          "change_percentage": 7.05,
+          "xq_symbol": "SZ300207",
+          "xq_url": "https://xueqiu.com/S/SZ300207",
+          "amarket": true
+        },
+        {
+          "name": "中国巨石",
+          "code": "600176",
+          "percent": 2.55,
+          "current_price": 16.68,
+          "change_percentage": 0,
+          "xq_symbol": "SH600176",
+          "xq_url": "https://xueqiu.com/S/SH600176",
+          "amarket": true
+        },
+        {
+          "name": "亿华通",
+          "code": "688339",
+          "percent": 2.35,
+          "current_price": 238,
+          "change_percentage": -0.62,
+          "xq_symbol": "SH688339",
+          "xq_url": "https://xueqiu.com/S/SH688339",
+          "amarket": true
+        },
+        {
+          "name": "博汇纸业",
+          "code": "600966",
+          "percent": 2.16,
+          "current_price": 13.91,
+          "change_percentage": 0.36,
+          "xq_symbol": "SH600966",
+          "xq_url": "https://xueqiu.com/S/SH600966",
+          "amarket": true
+        },
+        {
+          "name": "顾家家居",
+          "code": "603816",
+          "percent": 1.93,
+          "current_price": 75.45,
+          "change_percentage": -2.29,
+          "xq_symbol": "SH603816",
+          "xq_url": "https://xueqiu.com/S/SH603816",
+          "amarket": true
+        },
+        {
+          "name": "晨光文具",
+          "code": "603899",
+          "percent": 1.74,
+          "current_price": 79.4,
+          "change_percentage": -1.79,
+          "xq_symbol": "SH603899",
+          "xq_url": "https://xueqiu.com/S/SH603899",
+          "amarket": true
+        },
+        {
+          "name": "亿嘉和",
+          "code": "603666",
+          "percent": 1.71,
+          "current_price": 87,
+          "change_percentage": 0.18,
+          "xq_symbol": "SH603666",
+          "xq_url": "https://xueqiu.com/S/SH603666",
+          "amarket": true
+        },
+        {
+          "name": "京东方A",
+          "code": "000725",
+          "percent": 1.7,
+          "current_price": 5.25,
+          "change_percentage": -0.57,
+          "xq_symbol": "SZ000725",
+          "xq_url": "https://xueqiu.com/S/SZ000725",
+          "amarket": true
+        },
+        {
+          "name": "裕同科技",
+          "code": "002831",
+          "percent": 1.63,
+          "current_price": 28.05,
+          "change_percentage": -1.58,
+          "xq_symbol": "SZ002831",
+          "xq_url": "https://xueqiu.com/S/SZ002831",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "320022",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.00"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "王创练",
+        "resume": "    王创练先生,博士。曾先后就职于特区证券研究所、南方证券研究所、长城基金管理有限公司。2008年3月加入诺安基金管理有限公司,历任诺安基金管理有限公司研究部副总监、研究部总监,首席策略师(总助级)。2017年3月至2018年6月任诺安平衡证券投资基金基金经理。2015年3月起任诺安研究精选股票型证券投资基金基金经理,2018年3月起任诺安安鑫灵活配置混合型证券投资基金基金经理,2018年6月起任诺安成长混合型证券投资基金基金经理,2019年1月起任诺安价值增长混合型证券投资基金基金经理。",
+        "work_year": "23",
+        "achievement_list": [
+          {
+            "fund_code": "008185",
+            "fundsname": "诺安研究优选混合",
+            "post_date": "2020-05-09",
+            "cp_rate": 17.4117
+          },
+          {
+            "fund_code": "320005",
+            "fundsname": "诺安价值增长混合",
+            "post_date": "2019-01-22",
+            "cp_rate": 81.4217
+          },
+          {
+            "fund_code": "320007",
+            "fundsname": "诺安成长混合",
+            "post_date": "2018-06-13",
+            "resi_date": "2020-05-14",
+            "cp_rate": 97.8828
+          },
+          {
+            "fund_code": "002291",
+            "fundsname": "诺安安鑫灵活配置混合",
+            "post_date": "2018-03-13",
+            "cp_rate": 93.1487
+          },
+          {
+            "fund_code": "320001",
+            "fundsname": "诺安平衡混合",
+            "post_date": "2017-03-15",
+            "resi_date": "2018-06-27",
+            "cp_rate": 7.1351
+          },
+          {
+            "fund_code": "320022",
+            "fundsname": "诺安研究精选股票",
+            "post_date": "2015-03-30",
+            "cp_rate": 119
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "320022",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

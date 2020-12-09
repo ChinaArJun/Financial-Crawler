@@ -1,0 +1,265 @@
+{
+  "data": {
+    "fund_company": "    易方达基金管理有限公司(简称“易方达”或“公司”)成立于2001年4月17日,总部设在广州,在北京、上海、香港等地设有办公室。\n    十六年来,历经多轮市场周期的考验,公司始终坚持以“诚信”和“专业”立足,致力于为投资者创造价值,较好把握了中国资本市场发展的机遇,各项业务稳健快速增长。目前已经形成了覆盖主动权益、固定收益、指数量化、海外投资、非标投资、多资产投资等六大投资板块全方位发展的业务格局,在管理规模、市场地位、投资能力、风控和运营水平等多方面形成了比较突出的优势。截至2016年12月31日,公司旗下管理的各类资产总规模10491亿元,其中公募基金规模4283亿元,公募基金规模排名连续12年保持在行业前五名,服务客户超过5000万户,公司净资产66亿元,在国内资产管理行业具有领先的市场地位和综合实力。2016 年,公司确立了“以资产管理业务为核心的世界级金融企业”的新战略愿景,引领全体员工继续开拓奋进。",
+    "fund_position": {
+      "stock_percent": 89.91,
+      "cash_percent": 10.04,
+      "other_percent": 0.05,
+      "asset_tot": 8576960968.69,
+      "asset_val": 8518405028.47,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "美团-W",
+          "code": "03690",
+          "percent": 9.37,
+          "xq_symbol": "03690",
+          "xq_url": "https://xueqiu.com/S/03690",
+          "amarket": false
+        },
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 9.22,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 8.65,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "申洲国际",
+          "code": "02313",
+          "percent": 6.95,
+          "xq_symbol": "02313",
+          "xq_url": "https://xueqiu.com/S/02313",
+          "amarket": false
+        },
+        {
+          "name": "美的集团",
+          "code": "000333",
+          "percent": 6.65,
+          "current_price": 86.7,
+          "change_percentage": -1.54,
+          "xq_symbol": "SZ000333",
+          "xq_url": "https://xueqiu.com/S/SZ000333",
+          "amarket": true
+        },
+        {
+          "name": "古井贡酒",
+          "code": "000596",
+          "percent": 6.42,
+          "current_price": 229.01,
+          "change_percentage": 0.04,
+          "xq_symbol": "SZ000596",
+          "xq_url": "https://xueqiu.com/S/SZ000596",
+          "amarket": true
+        },
+        {
+          "name": "腾讯控股",
+          "code": "00700",
+          "percent": 6.15,
+          "xq_symbol": "00700",
+          "xq_url": "https://xueqiu.com/S/00700",
+          "amarket": false
+        },
+        {
+          "name": "华润啤酒",
+          "code": "00291",
+          "percent": 5.87,
+          "xq_symbol": "00291",
+          "xq_url": "https://xueqiu.com/S/00291",
+          "amarket": false
+        },
+        {
+          "name": "青岛啤酒股份",
+          "code": "00168",
+          "percent": 5.18,
+          "xq_symbol": "00168",
+          "xq_url": "https://xueqiu.com/S/00168",
+          "amarket": false
+        },
+        {
+          "name": "东阿阿胶",
+          "code": "000423",
+          "percent": 5.13,
+          "current_price": 43.97,
+          "change_percentage": -0.68,
+          "xq_symbol": "SZ000423",
+          "xq_url": "https://xueqiu.com/S/SZ000423",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "009265",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.20"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<90天",
+          "value": "0.500"
+        },
+        {
+          "name": "90天≤持有期限<180天",
+          "value": "0.500"
+        },
+        {
+          "name": "180天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "365天≤持有期限<730天",
+          "value": "0.250"
+        },
+        {
+          "name": "730天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "萧楠",
+        "resume": "    萧楠先生,经济学硕士。曾任易方达基金管理有限公司行业研究员、基金经理助理、投资经理、易方达裕如灵活配置混合型证券投资基金基金经理(自2015年3月24日至2016年8月5日)、易方达新享灵活配置混合型证券投资基金基金经理(自2015年5月29日至2016年8月5日)、易方达瑞和灵活配置混合型证券投资基金基金经理(自2018年2月2日至2019年3月22日)、易方达现代服务业灵活配置混合型证券投资基金基金经理(自2017年11月22日至2020年6月5日)、易方达价值成长混合型证券投资基金基金经理助理。现任易方达基金管理有限公司投资三部总经理、研究部副总经理、易方达消费行业股票型证券投资基金基金经理(自2012年9月28日起任职)、易方达大健康主题灵活配置混合型证券投资基金基金经理(自2017年9月27日起任职)、易方达瑞恒灵活配置混合型证券投资基金基金经理(自2018年1月10日起任职)、易方达科顺定期开放灵活配置混合型证券投资基金基金经理(自2018年10月26日起任职)、易方达消费精选股票型证券投资基金基金经理(自2020年4月13日起任职)、易方达高质量严选三年持有期混合型证券投资基金基金经理(自2020年11月12日起任职)。",
+        "work_year": "14",
+        "achievement_list": [
+          {
+            "fund_code": "010340",
+            "fundsname": "易方达高质量严选三年持有期混合",
+            "post_date": "2020-11-12",
+            "cp_rate": 0.08
+          },
+          {
+            "fund_code": "009265",
+            "fundsname": "易方达消费精选股票",
+            "post_date": "2020-04-13",
+            "cp_rate": 27.66
+          },
+          {
+            "fund_code": "161132",
+            "fundsname": "易方达科顺定期开放混合",
+            "post_date": "2018-10-26",
+            "cp_rate": 106.36
+          },
+          {
+            "fund_code": "001562",
+            "fundsname": "易方达瑞和灵活配置混合",
+            "post_date": "2018-02-02",
+            "resi_date": "2019-03-23",
+            "cp_rate": 11
+          },
+          {
+            "fund_code": "001832",
+            "fundsname": "易方达瑞恒灵活配置混合",
+            "post_date": "2018-01-10",
+            "cp_rate": 130.9
+          },
+          {
+            "fund_code": "001857",
+            "fundsname": "易方达现代服务业灵活配置混合",
+            "post_date": "2017-11-22",
+            "resi_date": "2020-06-06",
+            "cp_rate": 41.7
+          },
+          {
+            "fund_code": "001898",
+            "fundsname": "易方达大健康主题灵活配置混合",
+            "post_date": "2017-09-27",
+            "cp_rate": 114.9
+          },
+          {
+            "fund_code": "001343",
+            "fundsname": "易方达新享灵活配置混合C",
+            "post_date": "2015-05-29",
+            "resi_date": "2016-08-06",
+            "cp_rate": 3
+          },
+          {
+            "fund_code": "001342",
+            "fundsname": "易方达新享灵活配置混合A",
+            "post_date": "2015-05-29",
+            "resi_date": "2016-08-06",
+            "cp_rate": 40.6
+          },
+          {
+            "fund_code": "001136",
+            "fundsname": "易方达裕如灵活配置",
+            "post_date": "2015-03-24",
+            "resi_date": "2016-08-06",
+            "cp_rate": 10.5
+          },
+          {
+            "fund_code": "110022",
+            "fundsname": "易方达消费行业股票",
+            "post_date": "2012-09-28",
+            "cp_rate": 458.4029
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "009265",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 4,
+      "all_buy_days": 2,
+      "all_sale_days": 5
+    }
+  },
+  "result_code": 0
+}

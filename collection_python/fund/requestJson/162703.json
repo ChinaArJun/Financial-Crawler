@@ -1,0 +1,315 @@
+{
+  "data": {
+    "fund_company": "    广发基金管理有限公司经中国证监会证监基金字[2003]91号文批准,于2003年8月5日成立,是业内第30家成立的基金管理公司,总部设在广州,公司注册资本金12688万元人民币。公司及旗下子公司目前拥有公募基金管理、社保基金境内委托投资管理人、基本养老保险基金证券投资管理机构、特定客户资产管理、QDII、RQFII、QFII、受托管理保险资金投资管理人和保险保障基金委托资产管理投资管理人等业务资格,具备多种业务的综合资产管理能力与经验。\n    截至2016年12月31日,公司管理125只开放式基金,管理公募基金资产规模为3048亿元,长期位居行业前列。公司旗下产品覆盖主动权益、债券、货币、海外投资、被动投资、量化对冲、另类投资等不同类别,产品线齐全。公司曾获五届中国证券报“金牛基金管理公司”奖项、两届“固定收益投资金牛基金公司”奖项,连续两届获得“海外投资金牛基金公司”奖项,获七届证券时报“明星基金管理公司”奖项,是行业最全的QDII产品提供商,业内最全的行业ETF产品提供商,在业内首创公募基金大数据先河。同时,公司还管理着多个特定客户资产管理投资组合、社保基金投资组合、养老基金投资组合。\n    公司坚持“专业创造价值、客户利益至上”的经营理念,以完备的产品供给、策略供给、区域供给为基础,构建多元投资能力、顶层资产配置能力,致力成为优秀的全能型资产管理公司,为投资者谋求长期稳定的收益,为我国资本市场的繁荣与发展贡献一份力量。",
+    "fund_position": {
+      "stock_percent": 92.79,
+      "bond_percent": 0.13,
+      "cash_percent": 6.92,
+      "other_percent": 0.16,
+      "asset_tot": 16185294867.74,
+      "asset_val": 16078766153.41,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 10.1,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "通威股份",
+          "code": "600438",
+          "percent": 9.07,
+          "current_price": 29.2,
+          "change_percentage": -1.85,
+          "xq_symbol": "SH600438",
+          "xq_url": "https://xueqiu.com/S/SH600438",
+          "amarket": true
+        },
+        {
+          "name": "康泰生物",
+          "code": "300601",
+          "percent": 8.27,
+          "current_price": 158.41,
+          "change_percentage": -1.36,
+          "xq_symbol": "SZ300601",
+          "xq_url": "https://xueqiu.com/S/SZ300601",
+          "amarket": true
+        },
+        {
+          "name": "亿纬锂能",
+          "code": "300014",
+          "percent": 6.49,
+          "current_price": 63.71,
+          "change_percentage": 4.17,
+          "xq_symbol": "SZ300014",
+          "xq_url": "https://xueqiu.com/S/SZ300014",
+          "amarket": true
+        },
+        {
+          "name": "三安光电",
+          "code": "600703",
+          "percent": 5.7,
+          "current_price": 28.58,
+          "change_percentage": 0,
+          "xq_symbol": "SH600703",
+          "xq_url": "https://xueqiu.com/S/SH600703",
+          "amarket": true
+        },
+        {
+          "name": "圣邦股份",
+          "code": "300661",
+          "percent": 5.58,
+          "current_price": 291.81,
+          "change_percentage": -1.48,
+          "xq_symbol": "SZ300661",
+          "xq_url": "https://xueqiu.com/S/SZ300661",
+          "amarket": true
+        },
+        {
+          "name": "兆易创新",
+          "code": "603986",
+          "percent": 4.22,
+          "current_price": 213.5,
+          "change_percentage": -0.23,
+          "xq_symbol": "SH603986",
+          "xq_url": "https://xueqiu.com/S/SH603986",
+          "amarket": true
+        },
+        {
+          "name": "健帆生物",
+          "code": "300529",
+          "percent": 4.17,
+          "current_price": 68.76,
+          "change_percentage": -0.28,
+          "xq_symbol": "SZ300529",
+          "xq_url": "https://xueqiu.com/S/SZ300529",
+          "amarket": true
+        },
+        {
+          "name": "高德红外",
+          "code": "002414",
+          "percent": 3.66,
+          "current_price": 38.54,
+          "change_percentage": 2.64,
+          "xq_symbol": "SZ002414",
+          "xq_url": "https://xueqiu.com/S/SZ002414",
+          "amarket": true
+        },
+        {
+          "name": "吉宏股份",
+          "code": "002803",
+          "percent": 3.53,
+          "current_price": 33.27,
+          "change_percentage": -0.69,
+          "xq_symbol": "SZ002803",
+          "xq_url": "https://xueqiu.com/S/SZ002803",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "隆20转债",
+          "code": "113038",
+          "percent": 0.13,
+          "xq_symbol": "113038",
+          "xq_url": "https://xueqiu.com/S/113038",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "162703",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "0.70"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限",
+          "value": "0.500"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "刘格菘",
+        "resume": "    刘格菘先生,经济学博士,持有中国证券投资基金业从业证书。曾任中邮创业基金管理有限公司研究员、基金经理,融通基金管理有限公司权益投资部总经理、基金经理,广发基金管理有限公司权益投资一部研究员、权益投资一部副总经理、北京权益投资部总经理、广发行业领先混合型证券投资基金基金经理(自2017年6月19日至2019年5月31日)、广发集嘉债券型证券投资基金基金经理(自2018年12月25日至2020年7月23日)。现任广发基金管理有限公司成长投资部总经理、广发小盘成长混合型证券投资基金(LOF)基金经理(自2017年6月19日起任职)、广发创新升级灵活配置混合型证券投资基金基金经理(自2017年7月5日起任职)、广发鑫享灵活配置混合型证券投资基金基金经理(自2017年11月9日起任职)、广发双擎升级混合型证券投资基金基金经理(自2018年11月2日起任职)、广发多元新兴股票型证券投资基金基金经理(自2018年11月5日起任职)、广发科技创新混合型证券投资基金基金经理(自2019年12月25日起任职)、广发科技先锋混合型证券投资基金基金经理(自2020年1月22日起任职)。",
+        "college": "中国人民银行研究生部",
+        "work_year": "10",
+        "achievement_list": [
+          {
+            "fund_code": "009314",
+            "fundsname": "广发双擎升级混合C",
+            "post_date": "2020-06-17",
+            "cp_rate": 17.3984
+          },
+          {
+            "fund_code": "009132",
+            "fundsname": "广发小盘成长混合C",
+            "post_date": "2020-03-18",
+            "cp_rate": 36.2388
+          },
+          {
+            "fund_code": "008903",
+            "fundsname": "广发科技先锋混合",
+            "post_date": "2020-01-22",
+            "cp_rate": 37.76
+          },
+          {
+            "fund_code": "008638",
+            "fundsname": "广发科技创新混合",
+            "post_date": "2019-12-25",
+            "cp_rate": 31.35
+          },
+          {
+            "fund_code": "006141",
+            "fundsname": "广发集嘉债券C",
+            "post_date": "2018-12-25",
+            "resi_date": "2020-07-23",
+            "cp_rate": 18.04
+          },
+          {
+            "fund_code": "006140",
+            "fundsname": "广发集嘉债券A",
+            "post_date": "2018-12-25",
+            "resi_date": "2020-07-23",
+            "cp_rate": 18.38
+          },
+          {
+            "fund_code": "003745",
+            "fundsname": "广发多元新兴股票",
+            "post_date": "2018-11-05",
+            "cp_rate": 188.3953
+          },
+          {
+            "fund_code": "005911",
+            "fundsname": "广发双擎升级混合A",
+            "post_date": "2018-11-02",
+            "cp_rate": 230.5969
+          },
+          {
+            "fund_code": "002132",
+            "fundsname": "广发鑫享灵活配置混合",
+            "post_date": "2017-11-09",
+            "cp_rate": 109.0659
+          },
+          {
+            "fund_code": "002939",
+            "fundsname": "广发创新升级灵活配置混合",
+            "post_date": "2017-07-05",
+            "cp_rate": 175.0111
+          },
+          {
+            "fund_code": "960001",
+            "fundsname": "广发行业领先混合H",
+            "post_date": "2017-06-19",
+            "resi_date": "2019-05-31",
+            "cp_rate": -18.9222
+          },
+          {
+            "fund_code": "270025",
+            "fundsname": "广发行业领先混合A",
+            "post_date": "2017-06-19",
+            "resi_date": "2019-05-31",
+            "cp_rate": -17.2049
+          },
+          {
+            "fund_code": "162703",
+            "fundsname": "广发小盘成长混合A(LOF)",
+            "post_date": "2017-06-19",
+            "cp_rate": 159.9376
+          },
+          {
+            "fund_code": "002252",
+            "fundsname": "融通成长30灵活配置混合",
+            "post_date": "2015-12-11",
+            "resi_date": "2017-02-18",
+            "cp_rate": -3.8
+          },
+          {
+            "fund_code": "001471",
+            "fundsname": "融通新能源灵活配置混合",
+            "post_date": "2015-06-29",
+            "resi_date": "2016-08-24",
+            "cp_rate": 6.3
+          },
+          {
+            "fund_code": "001152",
+            "fundsname": "融通新区域新经济灵活配置混合",
+            "post_date": "2015-05-20",
+            "resi_date": "2017-02-18",
+            "cp_rate": -49.5
+          },
+          {
+            "fund_code": "001150",
+            "fundsname": "融通互联网传媒灵活配置混合",
+            "post_date": "2015-04-16",
+            "resi_date": "2017-02-18",
+            "cp_rate": -43.4434
+          },
+          {
+            "fund_code": "161610",
+            "fundsname": "融通领先成长混合(LOF)A/B",
+            "post_date": "2014-12-24",
+            "resi_date": "2017-02-18",
+            "cp_rate": 19.0238
+          },
+          {
+            "fund_code": "590002",
+            "fundsname": "中邮核心成长混合",
+            "post_date": "2013-08-23",
+            "resi_date": "2014-09-01",
+            "cp_rate": 19.1291
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "162703",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

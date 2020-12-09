@@ -1,0 +1,249 @@
+{
+  "data": {
+    "fund_company": "    中金基金管理有限公司(简称“中金基金”)成立于2014年2月,由中国国际金融股份有限公司(简称“中金公司”)作为全资股东,是证监会批准设立的第90家公募基金公司,也是首家通过发起设立方式由单一股东100%持股的基金公司。\n    中金公司作为中国第一家中外合资投资银行,致力于为国内外机构及个人客户提供高品质的金融服务。公募基金管理业务是公司长期以来努力拓展的重要领域,中金基金的成立,是中金公司根据资本市场发展趋势,和自身发展需要所作出的重要战略选择。同时,中金基金将充分发挥母公司品牌及资源优势,增强公司整体竞争实力。",
+    "fund_position": {
+      "stock_percent": 13.48,
+      "bond_percent": 79.08,
+      "cash_percent": 6.27,
+      "other_percent": 1.17,
+      "asset_tot": 44072282.22,
+      "asset_val": 43566462.62,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 0.57,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "汇川技术",
+          "code": "300124",
+          "percent": 0.53,
+          "current_price": 85.58,
+          "change_percentage": 1.04,
+          "xq_symbol": "SZ300124",
+          "xq_url": "https://xueqiu.com/S/SZ300124",
+          "amarket": true
+        },
+        {
+          "name": "新华保险",
+          "code": "601336",
+          "percent": 0.47,
+          "current_price": 62.1,
+          "change_percentage": 0.23,
+          "xq_symbol": "SH601336",
+          "xq_url": "https://xueqiu.com/S/SH601336",
+          "amarket": true
+        },
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 0.46,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "中国人寿",
+          "code": "601628",
+          "percent": 0.44,
+          "current_price": 41.81,
+          "change_percentage": -0.21,
+          "xq_symbol": "SH601628",
+          "xq_url": "https://xueqiu.com/S/SH601628",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 0.42,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 0.38,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "分众传媒",
+          "code": "002027",
+          "percent": 0.37,
+          "current_price": 10.36,
+          "change_percentage": 0.58,
+          "xq_symbol": "SZ002027",
+          "xq_url": "https://xueqiu.com/S/SZ002027",
+          "amarket": true
+        },
+        {
+          "name": "山西汾酒",
+          "code": "600809",
+          "percent": 0.36,
+          "current_price": 265.1,
+          "change_percentage": 1.54,
+          "xq_symbol": "SH600809",
+          "xq_url": "https://xueqiu.com/S/SH600809",
+          "amarket": true
+        },
+        {
+          "name": "歌尔股份",
+          "code": "002241",
+          "percent": 0.35,
+          "current_price": 37.16,
+          "change_percentage": -2.24,
+          "xq_symbol": "SZ002241",
+          "xq_url": "https://xueqiu.com/S/SZ002241",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "20附息国债01",
+          "code": "200001",
+          "percent": 45.87,
+          "xq_symbol": "200001",
+          "xq_url": "https://xueqiu.com/S/200001",
+          "amarket": false
+        },
+        {
+          "name": "20国开10",
+          "code": "200210",
+          "percent": 21.79,
+          "xq_symbol": "200210",
+          "xq_url": "https://xueqiu.com/S/200210",
+          "amarket": false
+        },
+        {
+          "name": "20国债01",
+          "code": "019627",
+          "percent": 12.34,
+          "xq_symbol": "019627",
+          "xq_url": "https://xueqiu.com/S/019627",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "007698",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "1",
+      "subscribe_discount": "1",
+      "declare_discount": "1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.050"
+        },
+        {
+          "name": "30天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.40"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.20"
+        },
+        {
+          "name": "基金管理费",
+          "value": "0.65"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "陈诗昆",
+        "resume": "    陈诗昆女士,金融学硕士,历任嘉实基金管理有限公司财富管理部职员;鹏扬基金管理有限公司交易员、固定收益部研究员、投资经理。2018 年 10 月加入中金基金管理有限公司,现任组合投资部基金经理。管理的公募基金包括:2018年 12 月 21 日至今担任中金衡优灵活配置混合型证券投资基金基金经理,2019年 6 月 21 日至 2020 年 9 月 15 日担任中金衡盈混合型证券投资基金基金经理,2019 年 9 月 18 日至今担任中金衡益增强债券型证券投资基金基金经理,2020年 6 月 3 日至今担任中金衡利 1 年定期开放债券型证券投资基金基金经理。",
+        "achievement_list": [
+          {
+            "fund_code": "009158",
+            "fundsname": "中金衡利1年",
+            "post_date": "2020-06-03",
+            "cp_rate": -2.12
+          },
+          {
+            "fund_code": "007697",
+            "fundsname": "中金衡益A",
+            "post_date": "2019-09-18",
+            "cp_rate": 7.18
+          },
+          {
+            "fund_code": "007698",
+            "fundsname": "中金衡益C",
+            "post_date": "2019-09-18",
+            "cp_rate": 6.66
+          },
+          {
+            "fund_code": "007421",
+            "fundsname": "中金衡盈混合A",
+            "post_date": "2019-06-21",
+            "resi_date": "2020-09-15",
+            "cp_rate": 9.0891
+          },
+          {
+            "fund_code": "007422",
+            "fundsname": "中金衡盈混合C",
+            "post_date": "2019-06-21",
+            "resi_date": "2020-09-15",
+            "cp_rate": 8.4092
+          },
+          {
+            "fund_code": "005489",
+            "fundsname": "中金衡优灵活配置混合A",
+            "post_date": "2018-12-21",
+            "cp_rate": 33.2479
+          },
+          {
+            "fund_code": "005490",
+            "fundsname": "中金衡优灵活配置混合C",
+            "post_date": "2018-12-21",
+            "cp_rate": 32.128
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "007698",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

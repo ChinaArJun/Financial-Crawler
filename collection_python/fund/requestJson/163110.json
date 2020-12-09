@@ -1,0 +1,441 @@
+{
+  "data": {
+    "fund_company": "    申万菱信基金管理有限公司(SWS MU Fund Management Co., Ltd)成立于2004年1月15日,注册地位于中国上海,注册资本为1.5亿元人民币。现有股东申万宏源证券有限公司(Shenwan Hongyuan Securities Co.,Ltd.)持有67%的股权,三菱UFJ信托银行株式会社(Mitsubishi UFJ Trust and Banking Corporation)持有33%的股权。\n    申万菱信立足于\"以客为先,创新求变,专业管理,业绩至上\"的经营理念,以负责的态度、高效的管理、专业的服务,全力为投资者提供丰厚的投资回报。公司成立以来,业务增长迅速,在北京、广州先后建立了分公司,目前旗下管理24只开放式基金,资产管理规模超过379亿元,客户数超过571万户(截止到2016年6月30日,数据来源:申万菱信)。\n    公司经过努力,逐渐形成了规范、诚信、专业、稳健的运作风格。展望未来,申万菱信将继续依靠强大的股东背景,不断丰富和完善产品线,借助完善高效的客户服务体系,通过海内外资深专业人士组成的精英团队为投资者提供优质的理财服务!依托丰富的全球和本土运作经验,采用成熟的投资及风险管理技术,实现客户资产的保值增值,努力打造国内领先、国际知名的财富管理中心!",
+    "fund_position": {
+      "stock_percent": 90.06,
+      "bond_percent": 0.8,
+      "cash_percent": 8.4,
+      "other_percent": 0.74,
+      "asset_tot": 609535808.62,
+      "asset_val": 602927557.01,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "天顺风能",
+          "code": "002531",
+          "percent": 1.95,
+          "current_price": 7.58,
+          "change_percentage": -0.39,
+          "xq_symbol": "SZ002531",
+          "xq_url": "https://xueqiu.com/S/SZ002531",
+          "amarket": true
+        },
+        {
+          "name": "日月股份",
+          "code": "603218",
+          "percent": 1.86,
+          "current_price": 26.4,
+          "change_percentage": -0.94,
+          "xq_symbol": "SH603218",
+          "xq_url": "https://xueqiu.com/S/SH603218",
+          "amarket": true
+        },
+        {
+          "name": "东吴证券",
+          "code": "601555",
+          "percent": 1.58,
+          "current_price": 10.09,
+          "change_percentage": 0,
+          "xq_symbol": "SH601555",
+          "xq_url": "https://xueqiu.com/S/SH601555",
+          "amarket": true
+        },
+        {
+          "name": "金科股份",
+          "code": "000656",
+          "percent": 1.55,
+          "current_price": 7.43,
+          "change_percentage": -2.49,
+          "xq_symbol": "SZ000656",
+          "xq_url": "https://xueqiu.com/S/SZ000656",
+          "amarket": true
+        },
+        {
+          "name": "兴业证券",
+          "code": "601377",
+          "percent": 1.47,
+          "current_price": 8.73,
+          "change_percentage": 0.11,
+          "xq_symbol": "SH601377",
+          "xq_url": "https://xueqiu.com/S/SH601377",
+          "amarket": true
+        },
+        {
+          "name": "中南建设",
+          "code": "000961",
+          "percent": 1.45,
+          "current_price": 9.52,
+          "change_percentage": -0.94,
+          "xq_symbol": "SZ000961",
+          "xq_url": "https://xueqiu.com/S/SZ000961",
+          "amarket": true
+        },
+        {
+          "name": "无锡银行",
+          "code": "600908",
+          "percent": 1.44,
+          "current_price": 5.9,
+          "change_percentage": -0.17,
+          "xq_symbol": "SH600908",
+          "xq_url": "https://xueqiu.com/S/SH600908",
+          "amarket": true
+        },
+        {
+          "name": "恒逸石化",
+          "code": "000703",
+          "percent": 1.42,
+          "current_price": 12.59,
+          "change_percentage": -1.18,
+          "xq_symbol": "SZ000703",
+          "xq_url": "https://xueqiu.com/S/SZ000703",
+          "amarket": true
+        },
+        {
+          "name": "中信建投",
+          "code": "601066",
+          "percent": 1.39,
+          "current_price": 42.79,
+          "change_percentage": -1.5,
+          "xq_symbol": "SH601066",
+          "xq_url": "https://xueqiu.com/S/SH601066",
+          "amarket": true
+        },
+        {
+          "name": "环旭电子",
+          "code": "601231",
+          "percent": 1.38,
+          "current_price": 21.62,
+          "change_percentage": -0.46,
+          "xq_symbol": "SH601231",
+          "xq_url": "https://xueqiu.com/S/SH601231",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "龙蟠转债",
+          "code": "113581",
+          "percent": 0.79,
+          "xq_symbol": "113581",
+          "xq_url": "https://xueqiu.com/S/113581",
+          "amarket": false
+        },
+        {
+          "name": "隆20转债",
+          "code": "113038",
+          "percent": 0.02,
+          "xq_symbol": "113038",
+          "xq_url": "https://xueqiu.com/S/113038",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "163110",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "1.00"
+        },
+        {
+          "name": "500万≤买入金额<1000万",
+          "value": "0.50"
+        },
+        {
+          "name": "1000万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "俞诚",
+        "resume": "    俞诚先生,经济学学士。2009年起从事金融相关工作,2009年08月加入申万菱信基金管理有限公司,曾任产品与金融工程总部金融工程师、数量研究员,申万菱信中证申万电子行业投资指数分级证券投资基金、申万菱信中证申万传媒行业投资指数分级证券投资基金、申万菱信中证申万医药生物指数分级证券投资基金、申万菱信沪深300价值指数证券投资基金、申万菱信深证成指分级证券投资基金、申万菱信中证申万证券行业指数分级证券投资基金、申万菱信中证环保产业指数分级证券投资基金、申万菱信中证军工指数分级证券投资基金、申万菱信价值优享混合型证券投资基金、申万菱信中小板指数证券投资基金(LOF)基金经理,现任申万菱信中证500指数增强型证券投资基金、申万菱信量化驱动混合型证券投资基金、申万菱信量化小盘股票型证券投资基金(LOF)、申万菱信价值优利混合型证券投资基金基金经理。",
+        "work_year": "11",
+        "achievement_list": [
+          {
+            "fund_code": "010505",
+            "fundsname": "申万菱信创业板量化精选股票C",
+            "post_date": "2020-10-29",
+            "cp_rate": -1.12
+          },
+          {
+            "fund_code": "009557",
+            "fundsname": "申万菱信创业板量化精选股票A",
+            "post_date": "2020-06-29",
+            "cp_rate": 3.91
+          },
+          {
+            "fund_code": "004951",
+            "fundsname": "申万菱信价值优利混合",
+            "post_date": "2020-04-15",
+            "cp_rate": 42.3732
+          },
+          {
+            "fund_code": "163110",
+            "fundsname": "申万菱信量化小盘股票(LOF)",
+            "post_date": "2020-04-15",
+            "cp_rate": 29.1628
+          },
+          {
+            "fund_code": "005418",
+            "fundsname": "申万菱信量化驱动混合",
+            "post_date": "2019-09-28",
+            "cp_rate": 67.5164
+          },
+          {
+            "fund_code": "007795",
+            "fundsname": "申万菱信中证500指数增强C",
+            "post_date": "2019-08-08",
+            "cp_rate": 69.68
+          },
+          {
+            "fund_code": "007799",
+            "fundsname": "申万中小板(LOF)C",
+            "post_date": "2019-08-08",
+            "resi_date": "2019-09-28",
+            "cp_rate": 9.25
+          },
+          {
+            "fund_code": "004768",
+            "fundsname": "申万菱信价值优享混合",
+            "post_date": "2017-07-12",
+            "resi_date": "2018-09-03",
+            "cp_rate": -0.79
+          },
+          {
+            "fund_code": "002510",
+            "fundsname": "申万菱信中证500指数增强A",
+            "post_date": "2016-04-21",
+            "cp_rate": 58.45
+          },
+          {
+            "fund_code": "150284",
+            "fundsname": "申万医药B",
+            "post_date": "2015-12-03",
+            "resi_date": "2017-06-05",
+            "cp_rate": -28.8798
+          },
+          {
+            "fund_code": "150283",
+            "fundsname": "申万医药A",
+            "post_date": "2015-12-03",
+            "resi_date": "2017-06-05",
+            "cp_rate": 7.1875
+          },
+          {
+            "fund_code": "163118",
+            "fundsname": "申万医药生物指数分级",
+            "post_date": "2015-12-03",
+            "resi_date": "2017-06-05",
+            "cp_rate": -10.3888
+          },
+          {
+            "fund_code": "150234",
+            "fundsname": "申万菱信B",
+            "post_date": "2015-12-03",
+            "resi_date": "2017-06-05",
+            "cp_rate": -76.029
+          },
+          {
+            "fund_code": "150233",
+            "fundsname": "申万菱信A",
+            "post_date": "2015-12-03",
+            "resi_date": "2017-06-05",
+            "cp_rate": 7.2729
+          },
+          {
+            "fund_code": "163117",
+            "fundsname": "中证申万传媒分级",
+            "post_date": "2015-12-03",
+            "resi_date": "2017-06-05",
+            "cp_rate": -40.4069
+          },
+          {
+            "fund_code": "150232",
+            "fundsname": "中证申万电子分级B",
+            "post_date": "2015-12-03",
+            "resi_date": "2017-06-05",
+            "cp_rate": -45.3782
+          },
+          {
+            "fund_code": "150231",
+            "fundsname": "中证申万电子分级A",
+            "post_date": "2015-12-03",
+            "resi_date": "2017-06-05",
+            "cp_rate": 7.3642
+          },
+          {
+            "fund_code": "163116",
+            "fundsname": "中证申万电子分级",
+            "post_date": "2015-12-03",
+            "resi_date": "2017-06-05",
+            "cp_rate": -10.2183
+          },
+          {
+            "fund_code": "163109",
+            "fundsname": "申万菱信深证成指分级",
+            "post_date": "2015-12-03",
+            "resi_date": "2017-12-27",
+            "cp_rate": -10.9721
+          },
+          {
+            "fund_code": "150022",
+            "fundsname": "申万菱信申万收益",
+            "post_date": "2015-12-03",
+            "resi_date": "2017-12-27",
+            "cp_rate": 9.559
+          },
+          {
+            "fund_code": "150023",
+            "fundsname": "申万菱信申万进取",
+            "post_date": "2015-12-03",
+            "resi_date": "2017-12-27",
+            "cp_rate": -57.8499
+          },
+          {
+            "fund_code": "163111",
+            "fundsname": "申万中小板(LOF)A",
+            "post_date": "2015-12-03",
+            "resi_date": "2019-09-28",
+            "cp_rate": -23.5381
+          },
+          {
+            "fund_code": "150085",
+            "fundsname": "中小板A",
+            "post_date": "2015-12-03",
+            "resi_date": "2019-09-28",
+            "cp_rate": 7.7732
+          },
+          {
+            "fund_code": "150086",
+            "fundsname": "中小板B",
+            "post_date": "2015-12-03",
+            "resi_date": "2019-09-28",
+            "cp_rate": -40.2725
+          },
+          {
+            "fund_code": "163113",
+            "fundsname": "申万证券",
+            "post_date": "2015-12-03",
+            "resi_date": "2017-12-27",
+            "cp_rate": -26.2283
+          },
+          {
+            "fund_code": "150171",
+            "fundsname": "申万证券A",
+            "post_date": "2015-12-03",
+            "resi_date": "2017-12-27",
+            "cp_rate": 9.7397
+          },
+          {
+            "fund_code": "150172",
+            "fundsname": "申万证券B",
+            "post_date": "2015-12-03",
+            "resi_date": "2017-12-27",
+            "cp_rate": -47.2922
+          },
+          {
+            "fund_code": "163114",
+            "fundsname": "申万菱信中证环保产业指数分级",
+            "post_date": "2015-12-03",
+            "resi_date": "2017-12-27",
+            "cp_rate": -14.7366
+          },
+          {
+            "fund_code": "150184",
+            "fundsname": "申万环保A",
+            "post_date": "2015-12-03",
+            "resi_date": "2017-12-27",
+            "cp_rate": 9.9496
+          },
+          {
+            "fund_code": "150185",
+            "fundsname": "申万环保B",
+            "post_date": "2015-12-03",
+            "resi_date": "2017-12-27",
+            "cp_rate": -34.6082
+          },
+          {
+            "fund_code": "163115",
+            "fundsname": "申万菱信中证军工指数分级",
+            "post_date": "2015-12-03",
+            "resi_date": "2017-12-27",
+            "cp_rate": -35.6683
+          },
+          {
+            "fund_code": "150186",
+            "fundsname": "申万菱信中证军工指数A",
+            "post_date": "2015-12-03",
+            "resi_date": "2017-12-27",
+            "cp_rate": 9.8768
+          },
+          {
+            "fund_code": "150187",
+            "fundsname": "申万菱信中证军工指数B",
+            "post_date": "2015-12-03",
+            "resi_date": "2017-12-27",
+            "cp_rate": -67.6953
+          },
+          {
+            "fund_code": "310398",
+            "fundsname": "申万沪深300价值指数",
+            "post_date": "2015-12-03",
+            "resi_date": "2017-09-30",
+            "cp_rate": 21.9187
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "163110",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

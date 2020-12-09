@@ -1,0 +1,228 @@
+{
+  "data": {
+    "fund_company": "    长城基金管理有限公司成立于2001年12月27日,由长城证券有限责任公司、东方证券股份有限公司、北方国际信托股份有限公司、中原信托有限公司共同出资设立。公司的经营范围为基金募集、基金销售、资产管理和中国证监会许可的其他业务。\n    长城基金管理有限公司一直秉承“诚信、规范、专业、创新”的经营理念,坚持基金持有人利益至上的经营原则,凭借完善的公司治理结构、严格的风险控制、规范的业务流程、高效专业的员工团队、开放与学习的文化氛围,努力打造一流的基金管理公司品牌,竭诚为客户提供优质的投资理财产品和服务。\n    产品线介绍\n    截至2016年8月,长城基金管理有限公司一共管理基金38只。基金产品类别涵盖货币型、债券型、混合型以及指数型基金,形成覆盖低、中、高各类风险收益特征的较为完善的产品线。",
+    "fund_position": {
+      "stock_percent": 84.61,
+      "cash_percent": 15.2,
+      "other_percent": 0.19,
+      "asset_tot": 946525393.63,
+      "asset_val": 911671433.81,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "大参林",
+          "code": "603233",
+          "percent": 5.58,
+          "current_price": 87.64,
+          "change_percentage": 0.62,
+          "xq_symbol": "SH603233",
+          "xq_url": "https://xueqiu.com/S/SH603233",
+          "amarket": true
+        },
+        {
+          "name": "智飞生物",
+          "code": "300122",
+          "percent": 5.14,
+          "current_price": 139.38,
+          "change_percentage": -0.39,
+          "xq_symbol": "SZ300122",
+          "xq_url": "https://xueqiu.com/S/SZ300122",
+          "amarket": true
+        },
+        {
+          "name": "康泰生物",
+          "code": "300601",
+          "percent": 4.85,
+          "current_price": 158.41,
+          "change_percentage": -1.36,
+          "xq_symbol": "SZ300601",
+          "xq_url": "https://xueqiu.com/S/SZ300601",
+          "amarket": true
+        },
+        {
+          "name": "九洲药业",
+          "code": "603456",
+          "percent": 3.94,
+          "current_price": 32.24,
+          "change_percentage": 1.9,
+          "xq_symbol": "SH603456",
+          "xq_url": "https://xueqiu.com/S/SH603456",
+          "amarket": true
+        },
+        {
+          "name": "恒瑞医药",
+          "code": "600276",
+          "percent": 3.83,
+          "current_price": 90.07,
+          "change_percentage": 0.21,
+          "xq_symbol": "SH600276",
+          "xq_url": "https://xueqiu.com/S/SH600276",
+          "amarket": true
+        },
+        {
+          "name": "通策医疗",
+          "code": "600763",
+          "percent": 3.68,
+          "current_price": 233.45,
+          "change_percentage": 0.45,
+          "xq_symbol": "SH600763",
+          "xq_url": "https://xueqiu.com/S/SH600763",
+          "amarket": true
+        },
+        {
+          "name": "万泰生物",
+          "code": "603392",
+          "percent": 3.37,
+          "current_price": 182.4,
+          "change_percentage": -3.08,
+          "xq_symbol": "SH603392",
+          "xq_url": "https://xueqiu.com/S/SH603392",
+          "amarket": true
+        },
+        {
+          "name": "一心堂",
+          "code": "002727",
+          "percent": 3.04,
+          "current_price": 44.25,
+          "change_percentage": 3.22,
+          "xq_symbol": "SZ002727",
+          "xq_url": "https://xueqiu.com/S/SZ002727",
+          "amarket": true
+        },
+        {
+          "name": "老百姓",
+          "code": "603883",
+          "percent": 2.93,
+          "current_price": 73.2,
+          "change_percentage": 0.95,
+          "xq_symbol": "SH603883",
+          "xq_url": "https://xueqiu.com/S/SH603883",
+          "amarket": true
+        },
+        {
+          "name": "沃森生物",
+          "code": "300142",
+          "percent": 2.82,
+          "current_price": 36.67,
+          "change_percentage": 0.38,
+          "xq_symbol": "SZ300142",
+          "xq_url": "https://xueqiu.com/S/SZ300142",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "000339",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<300万",
+          "value": "1.00"
+        },
+        {
+          "name": "300万≤买入金额<500万",
+          "value": "0.50"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "1天≤持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<185天",
+          "value": "0.500"
+        },
+        {
+          "name": "185天≤持有期限<366天",
+          "value": "0.250"
+        },
+        {
+          "name": "366天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "谭小兵",
+        "resume": "    谭小兵女士,四川理工大学工学学士、暨南大学管理学硕士。曾就职于联邦制药(成都)有限公司、东莞证券有限责任公司、信达澳银基金管理有限公司。2014年进入长城基金管理有限公司,曾任行业研究员、“长城安心回报混合型证券投资基金”基金经理助理。自2017年3月至2020年1月任“长城中国智造灵活配置混合型证券投资基金”基金经理,自2016年2月至今任“长城医疗保健混合型证券投资基金”基金经理,自2020年6月至今任“长城创新驱动混合型证券投资基金”基金经理,自2020年8月至今任“长城健康生活灵活配置混合型证券投资基金”基金经理。",
+        "college": "暨南大学",
+        "work_year": "12",
+        "achievement_list": [
+          {
+            "fund_code": "008786",
+            "fundsname": "长城健康生活灵活配置混合",
+            "post_date": "2020-08-14",
+            "cp_rate": 0.6899
+          },
+          {
+            "fund_code": "009623",
+            "fundsname": "长城创新驱动混合",
+            "post_date": "2020-06-23",
+            "cp_rate": 1.6
+          },
+          {
+            "fund_code": "200001",
+            "fundsname": "长城久恒灵活配置混合",
+            "post_date": "2018-05-29",
+            "cp_rate": 56.9451
+          },
+          {
+            "fund_code": "001880",
+            "fundsname": "长城中国智造灵活配置混合",
+            "post_date": "2017-03-22",
+            "resi_date": "2020-01-20",
+            "cp_rate": 35.3646
+          },
+          {
+            "fund_code": "000339",
+            "fundsname": "长城医疗保健混合",
+            "post_date": "2016-02-03",
+            "cp_rate": 201.6931
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "000339",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

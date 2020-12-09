@@ -1,0 +1,243 @@
+{
+  "data": {
+    "fund_company": "    华宝基金管理有限公司于2003年2月12日获准开业,是国内首批中外合资基金管理公司,也是国内首家由信托公司和外方资产管理公司发起设立的中外合资基金管理公司。华宝信托是世界500强企业——中国宝武钢铁集团旗下金融板块成员公司,注册资本37.44亿元,投资业绩优异,资产质量在国内同业中名列前茅。美国华平投资集团是全球领先的私募股权投资集团,拥有超过50年的私募股权投资经验。公司凭借其独树一帜的投资模式、傲视群雄的全球优势和经验丰富的投资团队,在40个国家的800多家企业中投资了600多亿美元;目前旗下管理超过440亿美元的资产,投资于140多家企业,成为私募股权投资行业的领导者。华平投资于1994年设立香港办公室,是在华投资最早的国际私募股权投资机构,目前在华累计投资超过80亿美元,涉及近百家企业。中国宝武钢铁集团和美国华平投资集团致力于开拓中国金融市场,双方志存高远、砥砺前行,在新的征程、新的起点精诚合作,戮力同心,力争打造一个锐意进取、不断创新的多元化、国际化资产管理公司。",
+    "fund_position": {
+      "stock_percent": 91.21,
+      "bond_percent": 0,
+      "cash_percent": 8.7,
+      "other_percent": 0.09,
+      "asset_tot": 171156078.02,
+      "asset_val": 169061849.66,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "凯莱英",
+          "code": "002821",
+          "percent": 9.24,
+          "current_price": 274,
+          "change_percentage": 1.64,
+          "xq_symbol": "SZ002821",
+          "xq_url": "https://xueqiu.com/S/SZ002821",
+          "amarket": true
+        },
+        {
+          "name": "山西汾酒",
+          "code": "600809",
+          "percent": 5.76,
+          "current_price": 265.1,
+          "change_percentage": 1.54,
+          "xq_symbol": "SH600809",
+          "xq_url": "https://xueqiu.com/S/SH600809",
+          "amarket": true
+        },
+        {
+          "name": "中国中免",
+          "code": "601888",
+          "percent": 5.34,
+          "current_price": 208.03,
+          "change_percentage": 0.13,
+          "xq_symbol": "SH601888",
+          "xq_url": "https://xueqiu.com/S/SH601888",
+          "amarket": true
+        },
+        {
+          "name": "三七互娱",
+          "code": "002555",
+          "percent": 5.14,
+          "current_price": 29.38,
+          "change_percentage": 4,
+          "xq_symbol": "SZ002555",
+          "xq_url": "https://xueqiu.com/S/SZ002555",
+          "amarket": true
+        },
+        {
+          "name": "中国平安",
+          "code": "601318",
+          "percent": 4.59,
+          "current_price": 88.05,
+          "change_percentage": -2.58,
+          "xq_symbol": "SH601318",
+          "xq_url": "https://xueqiu.com/S/SH601318",
+          "amarket": true
+        },
+        {
+          "name": "司太立",
+          "code": "603520",
+          "percent": 4.57,
+          "current_price": 71.37,
+          "change_percentage": 1.45,
+          "xq_symbol": "SH603520",
+          "xq_url": "https://xueqiu.com/S/SH603520",
+          "amarket": true
+        },
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 4.44,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "爱尔眼科",
+          "code": "300015",
+          "percent": 3.89,
+          "current_price": 66.63,
+          "change_percentage": -0.25,
+          "xq_symbol": "SZ300015",
+          "xq_url": "https://xueqiu.com/S/SZ300015",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 3.79,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "重庆啤酒",
+          "code": "600132",
+          "percent": 3.56,
+          "current_price": 117.03,
+          "change_percentage": 0.2,
+          "xq_symbol": "SH600132",
+          "xq_url": "https://xueqiu.com/S/SH600132",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "000867",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<100万",
+          "value": "1.20"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.00"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.50"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "光磊",
+        "resume": "    光磊,硕士。曾在汇添富基金管理有限公司任投资研究部高级行业分析师。2012年10月加入华宝基金管理有限公司担任基金经理助理,现任投资副总监、国内投资部副总经理。\n    2015年4月起任华宝品质生活股票型证券投资基金基金经理,2016年9月起任华宝医药生物优选混合型证券投资基金基金经理,2018年8月起任华宝新优选一年定期开放灵活配置混合型证券投资基金基金经理,2019年3月起任华宝大健康混合型证券投资基金基金经理,2019年6月起任华宝消费升级混合型证券投资基金基金经理,2019年12月起任华宝万物互联灵活配置混合型证券投资基金基金经理,2020年5月起任华宝成长策略混合型证券投资基金基金经理",
+        "achievement_list": [
+          {
+            "fund_code": "009189",
+            "fundsname": "华宝成长策略混合",
+            "post_date": "2020-05-09",
+            "cp_rate": 24.091
+          },
+          {
+            "fund_code": "001534",
+            "fundsname": "华宝万物互联混合",
+            "post_date": "2019-12-06",
+            "cp_rate": 59.011
+          },
+          {
+            "fund_code": "007308",
+            "fundsname": "华宝消费升级混合",
+            "post_date": "2019-06-19",
+            "resi_date": "2020-07-30",
+            "cp_rate": 56.47
+          },
+          {
+            "fund_code": "006881",
+            "fundsname": "华宝大健康混合",
+            "post_date": "2019-03-29",
+            "cp_rate": 94.79
+          },
+          {
+            "fund_code": "004284",
+            "fundsname": "华宝新优选混合",
+            "post_date": "2018-08-24",
+            "cp_rate": 20.5432
+          },
+          {
+            "fund_code": "240020",
+            "fundsname": "华宝医药生物混合",
+            "post_date": "2016-09-07",
+            "cp_rate": 142.5356
+          },
+          {
+            "fund_code": "000867",
+            "fundsname": "华宝品质生活股票",
+            "post_date": "2015-04-09",
+            "cp_rate": 66.214
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "000867",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

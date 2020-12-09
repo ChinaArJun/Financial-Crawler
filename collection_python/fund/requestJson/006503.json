@@ -1,0 +1,255 @@
+{
+  "data": {
+    "fund_company": "    财通基金管理有限公司由财通证券股份有限公司、杭州市实业投资集团有限公司和浙江升华拜克生物股份有限公司共同发起设立,注册资本2亿元人民币,注册地上海。\n    自2011年6月成立以来,公司陆续发行了混合、债券、指数等不同类型的公募产品,成功发行业内最大的公募定增基金。持续荣获40余个业内权威大奖,包揽“三大报”权威奖项(金牛奖+金基金奖+明星基金奖),荣获“21世纪经济报道·最佳定增投资机构”、 “投中集团·中国最佳定增投资机构” 、“华夏时报·年度定增王”等定增领域权威大奖。\n    在逐步完善产品线的同时,财通基金坚持走差异化、特色型路线,截至2016年12月31日,成功发行1700余只产品,财通基金系管理的总资产规模近1800亿元。\n    除了在公募领域持续收获业绩口碑,财通基金更在专户业务中勇于突破,定增业务、期货资管业务、新三板业务领跑行业。2015年,创新设立投行部和新三板投资部,前瞻布局股权投资领域。2013年6月,财通基金子公司“上海财通资产管理有限公司”正式成立,截至2016年12月末,财通资产资管总规模539亿元。\n    财通基金始终秉承“正直、勤奋、乐观、合作、感恩”的公司精神,力争满足客户多元化全方位的理财需求,致力于成为一家特色鲜明、拒绝平庸、专注专业、值得信赖,充满希望的公募基金公司。",
+    "fund_position": {
+      "stock_percent": 83.35,
+      "cash_percent": 12.67,
+      "other_percent": 3.98,
+      "asset_tot": 365680069.06,
+      "asset_val": 364388617.07,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "鹏鼎控股",
+          "code": "002938",
+          "percent": 10.71,
+          "current_price": 54.51,
+          "change_percentage": -2.14,
+          "xq_symbol": "SZ002938",
+          "xq_url": "https://xueqiu.com/S/SZ002938",
+          "amarket": true
+        },
+        {
+          "name": "新易盛",
+          "code": "300502",
+          "percent": 8.65,
+          "current_price": 58.26,
+          "change_percentage": 0.99,
+          "xq_symbol": "SZ300502",
+          "xq_url": "https://xueqiu.com/S/SZ300502",
+          "amarket": true
+        },
+        {
+          "name": "三花智控",
+          "code": "002050",
+          "percent": 8.39,
+          "current_price": 24.3,
+          "change_percentage": 2.84,
+          "xq_symbol": "SZ002050",
+          "xq_url": "https://xueqiu.com/S/SZ002050",
+          "amarket": true
+        },
+        {
+          "name": "蓝思科技",
+          "code": "300433",
+          "percent": 8.05,
+          "current_price": 33.15,
+          "change_percentage": -0.93,
+          "xq_symbol": "SZ300433",
+          "xq_url": "https://xueqiu.com/S/SZ300433",
+          "amarket": true
+        },
+        {
+          "name": "东山精密",
+          "code": "002384",
+          "percent": 7.36,
+          "current_price": 29.41,
+          "change_percentage": -0.37,
+          "xq_symbol": "SZ002384",
+          "xq_url": "https://xueqiu.com/S/SZ002384",
+          "amarket": true
+        },
+        {
+          "name": "天孚通信",
+          "code": "300394",
+          "percent": 7.19,
+          "current_price": 56.98,
+          "change_percentage": 0,
+          "xq_symbol": "SZ300394",
+          "xq_url": "https://xueqiu.com/S/SZ300394",
+          "amarket": true
+        },
+        {
+          "name": "九洲药业",
+          "code": "603456",
+          "percent": 6.58,
+          "current_price": 32.24,
+          "change_percentage": 1.9,
+          "xq_symbol": "SH603456",
+          "xq_url": "https://xueqiu.com/S/SH603456",
+          "amarket": true
+        },
+        {
+          "name": "司太立",
+          "code": "603520",
+          "percent": 6.51,
+          "current_price": 71.37,
+          "change_percentage": 1.45,
+          "xq_symbol": "SH603520",
+          "xq_url": "https://xueqiu.com/S/SH603520",
+          "amarket": true
+        },
+        {
+          "name": "博腾股份",
+          "code": "300363",
+          "percent": 4.2,
+          "current_price": 34.7,
+          "change_percentage": -0.14,
+          "xq_symbol": "SZ300363",
+          "xq_url": "https://xueqiu.com/S/SZ300363",
+          "amarket": true
+        },
+        {
+          "name": "华正新材",
+          "code": "603186",
+          "percent": 4.08,
+          "current_price": 38,
+          "change_percentage": -2.31,
+          "xq_symbol": "SH603186",
+          "xq_url": "https://xueqiu.com/S/SH603186",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "006503",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.500"
+        },
+        {
+          "name": "30天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.80"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "金梓才",
+        "resume": "    上海交通大学工学硕士。历任华泰资产管理有限公司投资经理助理,信诚基金管理有限公司TMT行业高级研究员。2014年8月加入财通基金管理有限公司,现任基金投资部副总监(主持工作)、基金经理。",
+        "college": "上海交通大学",
+        "work_year": "10",
+        "achievement_list": [
+          {
+            "fund_code": "008984",
+            "fundsname": "财通科技创新混合C",
+            "post_date": "2020-07-07",
+            "cp_rate": -1.96
+          },
+          {
+            "fund_code": "008983",
+            "fundsname": "财通科技创新混合A",
+            "post_date": "2020-07-07",
+            "cp_rate": -1.63
+          },
+          {
+            "fund_code": "009063",
+            "fundsname": "财通智慧成长混合C",
+            "post_date": "2020-04-03",
+            "cp_rate": 16.26
+          },
+          {
+            "fund_code": "009062",
+            "fundsname": "财通智慧成长混合A",
+            "post_date": "2020-04-03",
+            "cp_rate": 16.89
+          },
+          {
+            "fund_code": "501085",
+            "fundsname": "财通科创主题3年封闭运作灵活配置混合",
+            "post_date": "2019-07-11",
+            "cp_rate": 47.08
+          },
+          {
+            "fund_code": "006503",
+            "fundsname": "财通集成电路产业股票C",
+            "post_date": "2018-11-29",
+            "cp_rate": 86.38
+          },
+          {
+            "fund_code": "006502",
+            "fundsname": "财通集成电路产业股票A",
+            "post_date": "2018-11-29",
+            "cp_rate": 89.41
+          },
+          {
+            "fund_code": "501046",
+            "fundsname": "财通多策略福鑫定期开放混合",
+            "post_date": "2018-05-21",
+            "cp_rate": 122.1861
+          },
+          {
+            "fund_code": "501001",
+            "fundsname": "财通多策略精选混合(LOF)",
+            "post_date": "2016-12-31",
+            "resi_date": "2018-03-07",
+            "cp_rate": 15.1072
+          },
+          {
+            "fund_code": "000017",
+            "fundsname": "财通可持续混合",
+            "post_date": "2015-07-13",
+            "resi_date": "2018-03-07",
+            "cp_rate": 6.1168
+          },
+          {
+            "fund_code": "001480",
+            "fundsname": "财通成长优选混合",
+            "post_date": "2015-06-29",
+            "cp_rate": 80.8
+          },
+          {
+            "fund_code": "720001",
+            "fundsname": "财通价值动量混合",
+            "post_date": "2014-11-19",
+            "cp_rate": 246.8266
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "006503",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 2,
+      "all_buy_days": 2,
+      "all_sale_days": 3
+    }
+  },
+  "result_code": 0
+}

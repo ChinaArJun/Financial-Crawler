@@ -1,0 +1,251 @@
+{
+  "data": {
+    "fund_company": "    博时基金管理有限公司成立于1998年7月13日,是中国内地首批成立的五家基金管理公司之一,致力为海内外各类机构和个人投资者提供专业、全面的资产管理服务。博时总部设在深圳,在北京、上海等地设有分公司,同时拥有博时基金(国际)有限公司和博时资本管理有限公司两家全资子公司。博时基金公司经营范围包括基金募集、基金销售、资产管理和中国证监会许可的其他业务。“为国民创造财富”是博时的使命。“做投资价值的发现者”是博时始终坚持的投资理念。\n    博时基金是目前我国资产管理规模最大的基金公司之一。截至2016年12月31日,博时基金公司共管理164只开放式基金,并受全国社会保障基金理事会委托管理部分社保基金,以及多个企业年金账户,管理资产总规模约为6250.22亿元人民币,其中公募基金规模约3760.13亿元人民币,累计分红约781.21亿元人民币。博时是首批全国社保基金投资管理人、首批企业年金基金投资管理人、首批基本养老保险基金证券投资管理人,博时养老金资产管理规模在同业中名列前茅。\n    博时遵循资本市场的价值规律,依托精心打造的专业系统,深入研究投资对象价值,努力为客户实现财富增值。我们的股票投资强调以内部研究为基础的基本面分析,持续挖掘业绩稳定增长、有核心竞争力、有成长潜力的上市公司。我们坚信股票的二级市场价格终将反映企业的内在价值,坚守对企业的深入把握这一获取收益、规避风险的根本方法。十八年来,博时所管理的各类资产均取得良好投资收益增长,产品策略全力满足各类客户的资产配置需求,以实现各类客户长期财富管理的收益目标。\n    作为首批成立的五家基金公司之一,博时基金不但在中国基金业内率先倡导价值投资理念,而且最早开始细分投资风格小组,进而形成了“权益投资强调于低风险基础上获取稳健收益,固定收益投资满足客户多元需求”的稳健型投资风格。博时基金拥有业内居前的投研团队和完善的投研管理体系。并于2016年7月,成立多元资产管理部,发力公募FOF。经过18年稳健发展,博时基金建立了制度、技术、执行三重保障的内部控制体系,设立了以董事会风险管理委员会、公司风险管理委员会为中心的风险管理组织架构。同时博时基金吸引并培养了大批优秀的IT人才,搭建起实力雄厚的IT信息系统。",
+    "fund_position": {
+      "stock_percent": 84.41,
+      "bond_percent": 0.29,
+      "cash_percent": 14.65,
+      "other_percent": 0.65,
+      "asset_tot": 706710178.38,
+      "asset_val": 701837500.66,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "中国平安",
+          "code": "601318",
+          "percent": 2.38,
+          "current_price": 88.05,
+          "change_percentage": -2.58,
+          "xq_symbol": "SH601318",
+          "xq_url": "https://xueqiu.com/S/SH601318",
+          "amarket": true
+        },
+        {
+          "name": "平安银行",
+          "code": "000001",
+          "percent": 2.19,
+          "current_price": 18.71,
+          "change_percentage": -1.06,
+          "xq_symbol": "SZ000001",
+          "xq_url": "https://xueqiu.com/S/SZ000001",
+          "amarket": true
+        },
+        {
+          "name": "中国建筑",
+          "code": "601668",
+          "percent": 1.95,
+          "current_price": 5.17,
+          "change_percentage": -0.77,
+          "xq_symbol": "SH601668",
+          "xq_url": "https://xueqiu.com/S/SH601668",
+          "amarket": true
+        },
+        {
+          "name": "中国中铁",
+          "code": "601390",
+          "percent": 1.86,
+          "current_price": 5.52,
+          "change_percentage": -0.72,
+          "xq_symbol": "SH601390",
+          "xq_url": "https://xueqiu.com/S/SH601390",
+          "amarket": true
+        },
+        {
+          "name": "中信证券",
+          "code": "600030",
+          "percent": 1.38,
+          "current_price": 30.01,
+          "change_percentage": 0,
+          "xq_symbol": "SH600030",
+          "xq_url": "https://xueqiu.com/S/SH600030",
+          "amarket": true
+        },
+        {
+          "name": "中国太保",
+          "code": "601601",
+          "percent": 1.32,
+          "current_price": 37.67,
+          "change_percentage": -0.37,
+          "xq_symbol": "SH601601",
+          "xq_url": "https://xueqiu.com/S/SH601601",
+          "amarket": true
+        },
+        {
+          "name": "保利地产",
+          "code": "600048",
+          "percent": 1.28,
+          "current_price": 16.46,
+          "change_percentage": -0.48,
+          "xq_symbol": "SH600048",
+          "xq_url": "https://xueqiu.com/S/SH600048",
+          "amarket": true
+        },
+        {
+          "name": "中国中冶",
+          "code": "601618",
+          "percent": 1.03,
+          "current_price": 2.68,
+          "change_percentage": -0.37,
+          "xq_symbol": "SH601618",
+          "xq_url": "https://xueqiu.com/S/SH601618",
+          "amarket": true
+        },
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 0.95,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "中航光电",
+          "code": "002179",
+          "percent": 0.92,
+          "current_price": 65.41,
+          "change_percentage": 0.97,
+          "xq_symbol": "SZ002179",
+          "xq_url": "https://xueqiu.com/S/SZ002179",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "19新钢EB",
+          "code": "132017",
+          "percent": 0.29,
+          "xq_symbol": "132017",
+          "xq_url": "https://xueqiu.com/S/132017",
+          "amarket": false
+        },
+        {
+          "name": "交建转债",
+          "code": "128132",
+          "percent": 0.01,
+          "xq_symbol": "128132",
+          "xq_url": "https://xueqiu.com/S/128132",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "001277",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "1.00"
+        },
+        {
+          "name": "500万≤买入金额<1000万",
+          "value": "0.60"
+        },
+        {
+          "name": "1000万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<730天",
+          "value": "0.500"
+        },
+        {
+          "name": "2年≤持有期限<3年",
+          "value": "0.250"
+        },
+        {
+          "name": "3年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "林景艺",
+        "resume": "    林景艺女士,硕士。2010年从北京大学硕士研究生毕业后加入博时基金管理有限公司。历任量化分析师、高级研究员兼基金经理助理,现任博时国企改革股票基金(2015.5.20-至今)兼博时量化平衡混合基金(2017.5.4-至今)、博时量化多策略股票基金(2018.4.3-至今)、博时量化价值股票型证券投资基金(2018年6月26日—至今)的基金经理。",
+        "college": "北京大学",
+        "work_year": "10",
+        "achievement_list": [
+          {
+            "fund_code": "005960",
+            "fundsname": "博时量化价值股票A",
+            "post_date": "2018-06-26",
+            "cp_rate": 38.77
+          },
+          {
+            "fund_code": "005961",
+            "fundsname": "博时量化价值股票C",
+            "post_date": "2018-06-26",
+            "cp_rate": 36.07
+          },
+          {
+            "fund_code": "005635",
+            "fundsname": "博时量化多策略股票A",
+            "post_date": "2018-04-03",
+            "cp_rate": 43.03
+          },
+          {
+            "fund_code": "005636",
+            "fundsname": "博时量化多策略股票C",
+            "post_date": "2018-04-03",
+            "cp_rate": 39.99
+          },
+          {
+            "fund_code": "004495",
+            "fundsname": "博时量化平衡混合",
+            "post_date": "2017-05-04",
+            "cp_rate": 34.84
+          },
+          {
+            "fund_code": "001277",
+            "fundsname": "博时国企改革主题股票",
+            "post_date": "2015-05-20",
+            "cp_rate": -4.1502
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "001277",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

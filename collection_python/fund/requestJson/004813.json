@@ -1,0 +1,193 @@
+{
+  "data": {
+    "fund_company": "    中欧基金成立于2006年7月19日,是经中国证监会批准的公募基金管理公司,注册资本1.88亿元人民币。\n    中欧基金为第一家实现员工持股的基金公司,致力为客户提供超越市场的长期回报,打造\"多策略投资精品店\"。\n    截至2015年5月底,中欧基金共管理逾1000亿元公募资产,荣获2014年度金牛基金管理公司(中国证券报,2015年3月)。高速发展的中欧基金正成为公募基金行业的一类现象。\n    中欧基金致力于为投资人提供超越市场的长期收益,打造聚焦大中华区的\"多策略投资精品店\"。",
+    "fund_position": {
+      "stock_percent": 87.27,
+      "cash_percent": 9.68,
+      "other_percent": 3.05,
+      "asset_tot": 286014391.9,
+      "asset_val": 278397227.08,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 8.99,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "宁德时代",
+          "code": "300750",
+          "percent": 8.5,
+          "current_price": 266.03,
+          "change_percentage": 1.75,
+          "xq_symbol": "SZ300750",
+          "xq_url": "https://xueqiu.com/S/SZ300750",
+          "amarket": true
+        },
+        {
+          "name": "通威股份",
+          "code": "600438",
+          "percent": 7.09,
+          "current_price": 29.2,
+          "change_percentage": -1.85,
+          "xq_symbol": "SH600438",
+          "xq_url": "https://xueqiu.com/S/SH600438",
+          "amarket": true
+        },
+        {
+          "name": "璞泰来",
+          "code": "603659",
+          "percent": 4.8,
+          "current_price": 111.38,
+          "change_percentage": 5.71,
+          "xq_symbol": "SH603659",
+          "xq_url": "https://xueqiu.com/S/SH603659",
+          "amarket": true
+        },
+        {
+          "name": "福斯特",
+          "code": "603806",
+          "percent": 4.49,
+          "current_price": 73.08,
+          "change_percentage": 2.21,
+          "xq_symbol": "SH603806",
+          "xq_url": "https://xueqiu.com/S/SH603806",
+          "amarket": true
+        },
+        {
+          "name": "迈为股份",
+          "code": "300751",
+          "percent": 4.33,
+          "current_price": 529,
+          "change_percentage": 0.03,
+          "xq_symbol": "SZ300751",
+          "xq_url": "https://xueqiu.com/S/SZ300751",
+          "amarket": true
+        },
+        {
+          "name": "福莱特",
+          "code": "601865",
+          "percent": 4.31,
+          "current_price": 32.18,
+          "change_percentage": 2.13,
+          "xq_symbol": "SH601865",
+          "xq_url": "https://xueqiu.com/S/SH601865",
+          "amarket": true
+        },
+        {
+          "name": "比亚迪",
+          "code": "002594",
+          "percent": 4.25,
+          "current_price": 177.97,
+          "change_percentage": 1.53,
+          "xq_symbol": "SZ002594",
+          "xq_url": "https://xueqiu.com/S/SZ002594",
+          "amarket": true
+        },
+        {
+          "name": "恩捷股份",
+          "code": "002812",
+          "percent": 3.88,
+          "current_price": 108,
+          "change_percentage": 0.88,
+          "xq_symbol": "SZ002812",
+          "xq_url": "https://xueqiu.com/S/SZ002812",
+          "amarket": true
+        },
+        {
+          "name": "长城汽车",
+          "code": "601633",
+          "percent": 3.7,
+          "current_price": 25.89,
+          "change_percentage": 3.39,
+          "xq_symbol": "SH601633",
+          "xq_url": "https://xueqiu.com/S/SH601633",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "004813",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "1.000"
+        },
+        {
+          "name": "30天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.80"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "卢纯青",
+        "resume": "    卢纯青女士,中欧基金管理有限公司分管投资副总经理, 兼任中欧基金管理有限公司研究总监、事业部负责人,中国籍。加拿大圣玛丽大学金融学硕士,11年以上基金从业经验。历任北京毕马威华振会计师事务所审计,中信基金管理有限责任公司研究员,银华基金管理有限公司研究员、行业主管、研究总监助理、研究副总监。",
+        "college": "加拿大圣玛丽大学",
+        "work_year": "15",
+        "achievement_list": [
+          {
+            "fund_code": "004812",
+            "fundsname": "中欧先进制造股票A",
+            "post_date": "2020-06-24",
+            "cp_rate": 47.2101
+          },
+          {
+            "fund_code": "004813",
+            "fundsname": "中欧先进制造股票C",
+            "post_date": "2020-06-24",
+            "cp_rate": 46.6843
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "004813",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 2,
+      "all_buy_days": 2,
+      "all_sale_days": 3
+    }
+  },
+  "result_code": 0
+}

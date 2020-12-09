@@ -1,0 +1,270 @@
+{
+  "data": {
+    "fund_company": "    华商基金管理有限公司是一家经中国证监会批准设立、为客户提供专业理财服务的资产管理机构。华商基金以“诚为本,智慧创造财富”为公司发展理念,以“优化资源配置,助力企业成长,为投资者创造财富”为使命,坚持奉行“诚信、专业、合作、进取、责任”的核心价值观,致力于成为值得信赖、受人尊敬的资产管理公司,努力把华商基金打造成为广大投资者信赖的基金品牌。\n    华商基金旗下管理的产品覆盖了多种基金类型,均取得了较好的投资业绩。公司资产管理规模大幅增长,市场影响力迅速提升,综合实力快速提高,在投资研究、市场开拓、客户服务等方面表现出良好的发展势头,得到了越来越广泛的关注和认同。",
+    "fund_position": {
+      "stock_percent": 93.05,
+      "cash_percent": 6.68,
+      "other_percent": 0.27,
+      "asset_tot": 385145118.72,
+      "asset_val": 381891280.28,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 8.38,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "京东方A",
+          "code": "000725",
+          "percent": 5.14,
+          "current_price": 5.25,
+          "change_percentage": -0.57,
+          "xq_symbol": "SZ000725",
+          "xq_url": "https://xueqiu.com/S/SZ000725",
+          "amarket": true
+        },
+        {
+          "name": "歌尔股份",
+          "code": "002241",
+          "percent": 5.05,
+          "current_price": 37.16,
+          "change_percentage": -2.24,
+          "xq_symbol": "SZ002241",
+          "xq_url": "https://xueqiu.com/S/SZ002241",
+          "amarket": true
+        },
+        {
+          "name": "TCL科技",
+          "code": "000100",
+          "percent": 3.7,
+          "current_price": 7.16,
+          "change_percentage": 1.42,
+          "xq_symbol": "SZ000100",
+          "xq_url": "https://xueqiu.com/S/SZ000100",
+          "amarket": true
+        },
+        {
+          "name": "海康威视",
+          "code": "002415",
+          "percent": 3.29,
+          "current_price": 44.28,
+          "change_percentage": -1.16,
+          "xq_symbol": "SZ002415",
+          "xq_url": "https://xueqiu.com/S/SZ002415",
+          "amarket": true
+        },
+        {
+          "name": "北方华创",
+          "code": "002371",
+          "percent": 3.17,
+          "current_price": 172.8,
+          "change_percentage": -1.71,
+          "xq_symbol": "SZ002371",
+          "xq_url": "https://xueqiu.com/S/SZ002371",
+          "amarket": true
+        },
+        {
+          "name": "韦尔股份",
+          "code": "603501",
+          "percent": 3.07,
+          "current_price": 218,
+          "change_percentage": 0.53,
+          "xq_symbol": "SH603501",
+          "xq_url": "https://xueqiu.com/S/SH603501",
+          "amarket": true
+        },
+        {
+          "name": "三安光电",
+          "code": "600703",
+          "percent": 3.01,
+          "current_price": 28.58,
+          "change_percentage": 0,
+          "xq_symbol": "SH600703",
+          "xq_url": "https://xueqiu.com/S/SH600703",
+          "amarket": true
+        },
+        {
+          "name": "紫光国微",
+          "code": "002049",
+          "percent": 2.79,
+          "current_price": 111.3,
+          "change_percentage": 0.45,
+          "xq_symbol": "SZ002049",
+          "xq_url": "https://xueqiu.com/S/SZ002049",
+          "amarket": true
+        },
+        {
+          "name": "大华股份",
+          "code": "002236",
+          "percent": 2.58,
+          "current_price": 20.86,
+          "change_percentage": -0.48,
+          "xq_symbol": "SZ002236",
+          "xq_url": "https://xueqiu.com/S/SZ002236",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "007685",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<200万",
+          "value": "1.20"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.20"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.20"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "邓默",
+        "resume": "    邓默,男,中国籍,数学博士,具有基金从业资格。2011 年 6 月加入华商基金管理有限公司,从事金融工程与产品设计工作;2015 年 1 月 6 日至 2015 年6 月 30 日担任公司量化投资部总经理助理;2015 年 7 月 1 日至 2017 年 3 月 10日担任产品创新部副总经理;2015 年 9 月 9 日至 2017 年 4 月 26 日担任华商大盘量化精选灵活配置混合型证券投资基金基金经理;2015 年 9 月 9 日起至今担任华商新量化灵活配置混合型证券投资基金基金经理;2015 年 9 月 9 日起至今担任华商量化进取灵活配置混合型证券投资基金基金经理;2018 年 2 月 23 日起至今担任华商动态阿尔法灵活配置混合型证券投资基金基金经理;2019 年 3 月 8日起至今担任华商红利优选灵活配置混合型证券投资基金基金经理;2019 年 9月 17 日起至今担任华商电子行业量化股票型发起式证券投资基金基金经理;2019 年 10 月 30 日起至今担任华商计算机行业量化股票型发起式证券投资基金基金经理;现任量化投资部总经理、公司投资决策委员会委员、公司公募业务权益投资决策委员会委员。",
+        "work_year": "9",
+        "achievement_list": [
+          {
+            "fund_code": "010293",
+            "fundsname": "华商量化优质精选混合",
+            "post_date": "2020-10-28",
+            "cp_rate": -1.02
+          },
+          {
+            "fund_code": "007853",
+            "fundsname": "华商计算机行业量化股票",
+            "post_date": "2019-10-30",
+            "cp_rate": 27.5
+          },
+          {
+            "fund_code": "007685",
+            "fundsname": "华商电子行业量化股票",
+            "post_date": "2019-09-17",
+            "cp_rate": 64.68
+          },
+          {
+            "fund_code": "000279",
+            "fundsname": "华商红利优选灵活配置",
+            "post_date": "2019-03-08",
+            "cp_rate": 69.2544
+          },
+          {
+            "fund_code": "630005",
+            "fundsname": "华商动态阿尔法混合",
+            "post_date": "2018-02-23",
+            "cp_rate": 59.5316
+          },
+          {
+            "fund_code": "630015",
+            "fundsname": "华商大盘量化精选混合",
+            "post_date": "2015-09-09",
+            "resi_date": "2017-04-26",
+            "cp_rate": 11.6424
+          },
+          {
+            "fund_code": "000609",
+            "fundsname": "华商新量化灵活配置混合",
+            "post_date": "2015-09-09",
+            "cp_rate": 138.1529
+          },
+          {
+            "fund_code": "001143",
+            "fundsname": "华商量化进取灵活配置混合",
+            "post_date": "2015-09-09",
+            "cp_rate": 104.4643
+          }
+        ]
+      },
+      {
+        "name": "艾定飞",
+        "resume": "   艾定飞:男,中国籍,应用物理博士,具有基金从业资格。2014年7月至2017年6月,就职于高盛集团金融部,任副总裁;2017年7月加入华商基金管理有限公司,曾任量化研究员;2017年9月13日起至今担任华商量化进取灵活配置混合型证券投资基金基金经理助理;2018年11月26日起至今担任华商动态阿尔法灵活配置混合型证券投资基金基金经理。",
+        "achievement_list": [
+          {
+            "fund_code": "007853",
+            "fundsname": "华商计算机行业量化股票",
+            "post_date": "2019-10-30",
+            "cp_rate": 27.5
+          },
+          {
+            "fund_code": "007685",
+            "fundsname": "华商电子行业量化股票",
+            "post_date": "2019-09-17",
+            "cp_rate": 64.68
+          },
+          {
+            "fund_code": "630005",
+            "fundsname": "华商动态阿尔法混合",
+            "post_date": "2018-11-26",
+            "resi_date": "2019-12-18",
+            "cp_rate": 18.6068
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "007685",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

@@ -1,0 +1,405 @@
+{
+  "data": {
+    "fund_company": "    银华基金成立于2001年5月,成立16年以来,凭借诚信、规范、稳健、务实的运作风格,银华基金致力于为广大投资者提供专业的资产管理服务,逐步发展为一个具有大资金管理能力的综合型资产管理公司。截至2016年中,银华基金资产管理规模超五千亿。\n    我们致力于提供有质量的资产管理和理财服务,帮助投资者打造高品质的财富生活。为实现这一目标,我们强调通过严格的制度和流程化管理提升公司的服务质量。2005年8月,银华基金获得企业年金基金投资管理人资格,成为国内9家首批获此资格的基金管理公司之一。2007年10月底,银华基金管理公司正式获得合格境内机构投资者(QDII)资格,获准开展境外证券投资管理业务。在接下来的2008年2月,银华基金管理公司获得特定客户资产管理业务资格。2010年12月,银华基金管理有限公司获得“社保基金境内委托投资管理人”资格。2012年10月,银华基金管理有限公司获得保险资金投资管理人资格。2016年12月,银华基金管理股份有限公司获选首批基本养老保险基金证券投资管理机构。至此,银华基金成为业内为数不多的同时拥有企业年金基金投资管理人资格、合格境内机构投资者业务资格、特定客户资产管理业务资格、社保基金境内委托投资管理人资格、保险资金投资管理人资格和养老保险基金证券投资管理人资格的全牌照基金管理公司。\n    作为一个资产管理者,为持有人提供长期稳健的回报是银华基金的核心价值所在。16年来,银华旗下管理的多只基金业绩排名同类产品前列,并获得多项业内大奖,多次赢得独立专业机构高度评价,为持有人带来了可持续的稳健投资回报。银华基金因为整体业绩表现突出,五度荣膺“金牛基金公司”。\n    时至今日,银华基金旗下管理着六十八只基金,建立了覆盖股票型、配置型、债券型、货币型、保本型和QDII基金的较为完善的产品线,为数百万不同风险收益特征和理财需求的客户提供专业的资产管理服务。\n    在稳健经营的基础上,我们致力于让风险收益特征各异的投资者在银华享受到全面的理财服务。未来,在继续完善产品线基础上,我们还将努力在企业年金管理、独立帐户资产管理、QDII等领域拓展自己的业务。继续为自己所追求的目标——投资改变生活而执著前行。\n    我们将继续秉承“诚信经营赢得客户、优质服务贴近客户、一流业绩回报客户”的质量管理方针,帮助更多的普通人实现他们的财富梦想。",
+    "fund_position": {
+      "stock_percent": 92.64,
+      "cash_percent": 7.28,
+      "other_percent": 0.08,
+      "asset_tot": 207779103.19,
+      "asset_val": 206402962.16,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "福莱特玻璃",
+          "code": "06865",
+          "percent": 6.88,
+          "xq_symbol": "06865",
+          "xq_url": "https://xueqiu.com/S/06865",
+          "amarket": false
+        },
+        {
+          "name": "贝达药业",
+          "code": "300558",
+          "percent": 5.54,
+          "current_price": 97.9,
+          "change_percentage": -2.37,
+          "xq_symbol": "SZ300558",
+          "xq_url": "https://xueqiu.com/S/SZ300558",
+          "amarket": true
+        },
+        {
+          "name": "腾讯控股",
+          "code": "00700",
+          "percent": 4.4,
+          "xq_symbol": "00700",
+          "xq_url": "https://xueqiu.com/S/00700",
+          "amarket": false
+        },
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 4.28,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "九阳股份",
+          "code": "002242",
+          "percent": 4.2,
+          "current_price": 33.12,
+          "change_percentage": -2.85,
+          "xq_symbol": "SZ002242",
+          "xq_url": "https://xueqiu.com/S/SZ002242",
+          "amarket": true
+        },
+        {
+          "name": "敏华控股",
+          "code": "01999",
+          "percent": 4.02,
+          "xq_symbol": "01999",
+          "xq_url": "https://xueqiu.com/S/01999",
+          "amarket": false
+        },
+        {
+          "name": "重庆啤酒",
+          "code": "600132",
+          "percent": 3.85,
+          "current_price": 117.03,
+          "change_percentage": 0.2,
+          "xq_symbol": "SH600132",
+          "xq_url": "https://xueqiu.com/S/SH600132",
+          "amarket": true
+        },
+        {
+          "name": "迈瑞医疗",
+          "code": "300760",
+          "percent": 3.56,
+          "current_price": 351.9,
+          "change_percentage": 1.82,
+          "xq_symbol": "SZ300760",
+          "xq_url": "https://xueqiu.com/S/SZ300760",
+          "amarket": true
+        },
+        {
+          "name": "赤峰黄金",
+          "code": "600988",
+          "percent": 3.31,
+          "current_price": 18.03,
+          "change_percentage": 4.4,
+          "xq_symbol": "SH600988",
+          "xq_url": "https://xueqiu.com/S/SH600988",
+          "amarket": true
+        },
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 3.31,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "001703",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<100万",
+          "value": "1.20"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.00"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "365天≤持有期限<730天",
+          "value": "0.250"
+        },
+        {
+          "name": "730天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "周大鹏",
+        "resume": "    周大鹏先生,硕士学位;毕业于中国人民大学;2008年7月加盟银华基金管理股份有限公司,曾担任银华基金管理有限公司量化投资部研究员及基金经理助理等职。自2011年9月26日起至2014年1月6日期间担任银华沪深300指数证券投资基金(LOF)基金经理,自2012年8月23日起兼任银华上证50等权ETF基金经理,自2012年8月29日起兼任银华上证50等权重交易型开放式指数证券投资基金联接基金基金经理,自2013年5月22日至2016年4月25日兼任银华中证成长股债恒定组合30/70指数证券投资基金基金经理,自2014年1月7日至2018年3月7日兼任银华沪深300指数分级证券投资基金(由银华沪深300指数证券投资基金(LOF)转型)基金经理,自2016年1月14日至2018年3月7日起兼任银华恒生中国企业指数分级证券投资基金基金经理。自2017年9月15日起兼任银华新能源新材料量化优选股票型发起式证券投资基金、银华信息科技量化优选股票型发起式证券投资基金基金经理,自2017年11月9日起兼任银华文体娱乐量化优选股票型发起式证券投资基金基金经理,自2018年1月18日起兼任银华沪港深增长股票型证券投资基金基金经理,自2018年10月22日起兼任银华中证央企结构调整交易型开放式指数证券投资基金基金经理,自2018年11月15日起兼任银华中证央企结构调整交易型开放式指数证券投资基金联接基金基金经理,自2019年3月19日起兼任银华MSCI中国A股交易型开放式指数证券投资基金基金经理。自2019年6月5日起兼任银华MSCI中国A股交易型开放式指数证券投资基金发起式联接基金基金经理。",
+        "college": "中国人民大学",
+        "work_year": "12",
+        "achievement_list": [
+          {
+            "fund_code": "008201",
+            "fundsname": "银华MSCI中国A股ETF发起式联接C",
+            "post_date": "2019-11-07",
+            "cp_rate": 35.3777
+          },
+          {
+            "fund_code": "006339",
+            "fundsname": "银华MSCI中国A股ETF发起式联接A",
+            "post_date": "2019-06-05",
+            "cp_rate": 44.17
+          },
+          {
+            "fund_code": "512380",
+            "fundsname": "银华MSCI中国A股ETF",
+            "post_date": "2019-03-19",
+            "cp_rate": 39.95
+          },
+          {
+            "fund_code": "006119",
+            "fundsname": "银华中证央企结构调整ETF联接",
+            "post_date": "2018-11-15",
+            "cp_rate": 9.2
+          },
+          {
+            "fund_code": "159959",
+            "fundsname": "银华中证央企ETF",
+            "post_date": "2018-10-22",
+            "cp_rate": 17.5
+          },
+          {
+            "fund_code": "001703",
+            "fundsname": "银华沪港深增长股票",
+            "post_date": "2018-01-18",
+            "cp_rate": 62.359
+          },
+          {
+            "fund_code": "005240",
+            "fundsname": "银华文体娱乐量化股票发起式C",
+            "post_date": "2017-11-09",
+            "resi_date": "2018-12-26",
+            "cp_rate": -31.85
+          },
+          {
+            "fund_code": "005239",
+            "fundsname": "银华文体娱乐量化股票发起式A",
+            "post_date": "2017-11-09",
+            "resi_date": "2018-12-26",
+            "cp_rate": -32.05
+          },
+          {
+            "fund_code": "005036",
+            "fundsname": "银华信息科技量化优选股票C",
+            "post_date": "2017-09-15",
+            "resi_date": "2018-12-26",
+            "cp_rate": -37.64
+          },
+          {
+            "fund_code": "005035",
+            "fundsname": "银华信息科技量化优选股票A",
+            "post_date": "2017-09-15",
+            "resi_date": "2018-12-26",
+            "cp_rate": -37.86
+          },
+          {
+            "fund_code": "005038",
+            "fundsname": "银华新能源新材料量化优选股票C",
+            "post_date": "2017-09-15",
+            "resi_date": "2018-12-26",
+            "cp_rate": -33.3067
+          },
+          {
+            "fund_code": "005037",
+            "fundsname": "银华新能源新材料量化优选股票A",
+            "post_date": "2017-09-15",
+            "resi_date": "2018-12-26",
+            "cp_rate": -32.9167
+          },
+          {
+            "fund_code": "150176",
+            "fundsname": "银华H股B(QDII)",
+            "post_date": "2016-01-14",
+            "resi_date": "2018-03-07",
+            "cp_rate": 88.6004
+          },
+          {
+            "fund_code": "150175",
+            "fundsname": "银华H股A(QDII)",
+            "post_date": "2016-01-14",
+            "resi_date": "2018-03-07",
+            "cp_rate": 11.0393
+          },
+          {
+            "fund_code": "161831",
+            "fundsname": "银华恒生国企指数分级(QDII)",
+            "post_date": "2016-01-14",
+            "resi_date": "2018-03-07",
+            "cp_rate": 38.4023
+          },
+          {
+            "fund_code": "161811",
+            "fundsname": "银华沪深300指数分级",
+            "post_date": "2014-01-07",
+            "resi_date": "2018-03-07",
+            "cp_rate": 67.7157
+          },
+          {
+            "fund_code": "150167",
+            "fundsname": "银华300A",
+            "post_date": "2014-01-07",
+            "resi_date": "2018-03-07",
+            "cp_rate": 25.4545
+          },
+          {
+            "fund_code": "150168",
+            "fundsname": "银华300B",
+            "post_date": "2014-01-07",
+            "resi_date": "2018-03-07",
+            "cp_rate": 98.8338
+          },
+          {
+            "fund_code": "000062",
+            "fundsname": "银华量化智慧动力灵活配置混合",
+            "post_date": "2013-05-22",
+            "resi_date": "2016-04-24",
+            "cp_rate": 27
+          },
+          {
+            "fund_code": "180033",
+            "fundsname": "银华上证50等权ETF联接",
+            "post_date": "2012-08-29",
+            "resi_date": "2020-09-23",
+            "cp_rate": 46.4
+          },
+          {
+            "fund_code": "510430",
+            "fundsname": "银华上证50等权ETF",
+            "post_date": "2012-08-23",
+            "resi_date": "2020-09-23",
+            "cp_rate": 74.6
+          },
+          {
+            "fund_code": "161811",
+            "fundsname": "银华沪深300指数(LOF)",
+            "post_date": "2011-09-26",
+            "resi_date": "2014-01-06",
+            "cp_rate": -13.3001
+          }
+        ]
+      },
+      {
+        "name": "周晶",
+        "resume": "    中山大学金融学硕士,曾就职于银华基金管理有限公司、中欧基金管理有限公司。2018年8月再次加入银华基金,现任投资管理一部拟任基金经理。自2018年11月12日起担任银华-道琼\n斯88精选证券投资基金基金经理,自2018年12月27日起兼任银华沪港深增长股票型证券投资\n基金基金经理。",
+        "college": "中山大学",
+        "work_year": "14",
+        "achievement_list": [
+          {
+            "fund_code": "001703",
+            "fundsname": "银华沪港深增长股票",
+            "post_date": "2018-12-27",
+            "cp_rate": 115.4923
+          },
+          {
+            "fund_code": "180003",
+            "fundsname": "银华道琼斯88A",
+            "post_date": "2018-11-12",
+            "cp_rate": 80.5342
+          },
+          {
+            "fund_code": "001000",
+            "fundsname": "中欧明睿新起点混合",
+            "post_date": "2016-12-01",
+            "resi_date": "2018-07-13",
+            "cp_rate": 0.8205
+          },
+          {
+            "fund_code": "001615",
+            "fundsname": "中欧睿尚定期开放混合A",
+            "post_date": "2016-12-01",
+            "resi_date": "2018-07-13",
+            "cp_rate": 1.3308
+          },
+          {
+            "fund_code": "002621",
+            "fundsname": "中欧消费主题股票A",
+            "post_date": "2016-07-22",
+            "resi_date": "2018-07-13",
+            "cp_rate": 32.1
+          },
+          {
+            "fund_code": "002697",
+            "fundsname": "中欧消费主题股票C",
+            "post_date": "2016-07-22",
+            "resi_date": "2018-07-13",
+            "cp_rate": 33.3
+          },
+          {
+            "fund_code": "000894",
+            "fundsname": "中欧睿达定期开放混合",
+            "post_date": "2015-10-15",
+            "resi_date": "2018-07-13",
+            "cp_rate": 11.9205
+          },
+          {
+            "fund_code": "180018",
+            "fundsname": "银华和谐主题混合",
+            "post_date": "2013-02-25",
+            "resi_date": "2015-05-06",
+            "cp_rate": 113.3788
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "001703",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 4,
+      "all_buy_days": 2,
+      "all_sale_days": 5
+    }
+  },
+  "result_code": 0
+}

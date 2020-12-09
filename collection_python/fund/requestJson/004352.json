@@ -1,0 +1,224 @@
+{
+  "data": {
+    "fund_company": "    北信瑞丰基金管理有限公司(Beixin Ruifeng Fund Management Co.,Ltd.)成立于2014年3月初,是经中国证监会证监许可[2014]265号文批准,由北京国际信托有限公司与莱州瑞海投资有限公司两家股东共同发起设立的基金公司。公司注册资本17,000万人民币,总部设在北京,是一家从事基金募集、基金销售、资产管理以及中国证监会许可的其他业务的专业资产管理公司。\n    公司成立初期注册资本暂定为17,000万人民币;成立后三年内增资至20,000万人民币。\n    北信瑞丰设立时,由北京国际信托有限公司与莱州瑞海投资有限公司分别以货币形式足额缴纳注册资本10,200万人民币与6,800万人民币。\n    股东介绍\n    北京国际信托有限公司是一家专业从事金融信托业务的大型非银行金融机构,是中国改革开放之初首批成立的信托公司之一,是新中国金融信托业从起步到规范发展的重要历史见证人和实践者。北京信托在金融领域不断创新,已成为一家资产质量高、流动性良好、抗风险能力强,以追求并实现投资人、受益人利益最大化为目标的金融机构。北京信托的营业收入和净利润稳步增长,净资产收益率、产品创新能力处于行业领先水平。北京信托荣获2012第三届中国金牌理财TOP10总评榜“金貔貅奖”信托榜单中的“年度金牌财富管理信托公司”;2013年金融界举办的第一届 “领航中国”金融行业年度评选的“最佳信托公司奖”。\n    莱州瑞海投资有限公司熟悉矿业领域资本运作,善于矿业项目的产业链整合,为国家商业性探矿权开发方面作出巨大贡献。莱州瑞海投资有限公司成立4年来,资产规模与盈利能力均实现跨越式发展,充分体现了公司“厚德载物、锐意进取、分享成功”的经营理念与核心价值观。\n    公司战略\n    北信瑞丰基金着力打造具有高水平的投研团队,公司高管和主要投资管理人员的金融相关从业年限均在10年以上,拥有丰富的管理和证券投资实战经验。公司秉承价值投资理念和勤勉尽责的职业道德,严守风险控制底线,遵循份额持有人利益优先、最大化原则,制定了严格的投资管理流程和制度。公司将注重开发权益类、固定收益类和资产配置类等特定资产管理产品,着眼于塑造“诚信、专业、稳健、创新”的行业品牌形象,力争为投资人创造持续良好的投资回报。\n    发展宗旨\n    北信瑞丰追求北京信托所恪守的“受人之托、代人理财”承诺,推崇“简洁、快速、有效”的经营管理理念,倡导“勤奋、坚韧”的企业文化,秉承投资人价值最大化的经营宗旨,坚持以专业的态度服务于投资者,为把公司打造成“投资者值得信任的投资平台、投资者丰盈财富的资管机构”而努力奋斗!",
+    "fund_position": {
+      "stock_percent": 91.88,
+      "cash_percent": 7.26,
+      "other_percent": 0.86,
+      "asset_tot": 46288714.55,
+      "asset_val": 45352221.91,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "中材科技",
+          "code": "002080",
+          "percent": 2.66,
+          "current_price": 19.29,
+          "change_percentage": 0,
+          "xq_symbol": "SZ002080",
+          "xq_url": "https://xueqiu.com/S/SZ002080",
+          "amarket": true
+        },
+        {
+          "name": "中信证券",
+          "code": "600030",
+          "percent": 2.65,
+          "current_price": 30.01,
+          "change_percentage": 0,
+          "xq_symbol": "SH600030",
+          "xq_url": "https://xueqiu.com/S/SH600030",
+          "amarket": true
+        },
+        {
+          "name": "比亚迪",
+          "code": "002594",
+          "percent": 2.13,
+          "current_price": 177.97,
+          "change_percentage": 1.53,
+          "xq_symbol": "SZ002594",
+          "xq_url": "https://xueqiu.com/S/SZ002594",
+          "amarket": true
+        },
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 1.98,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "宁德时代",
+          "code": "300750",
+          "percent": 1.94,
+          "current_price": 266.03,
+          "change_percentage": 1.75,
+          "xq_symbol": "SZ300750",
+          "xq_url": "https://xueqiu.com/S/SZ300750",
+          "amarket": true
+        },
+        {
+          "name": "赣锋锂业",
+          "code": "002460",
+          "percent": 1.79,
+          "current_price": 82.24,
+          "change_percentage": 3.06,
+          "xq_symbol": "SZ002460",
+          "xq_url": "https://xueqiu.com/S/SZ002460",
+          "amarket": true
+        },
+        {
+          "name": "天赐材料",
+          "code": "002709",
+          "percent": 1.71,
+          "current_price": 84.25,
+          "change_percentage": 10,
+          "xq_symbol": "SZ002709",
+          "xq_url": "https://xueqiu.com/S/SZ002709",
+          "amarket": true
+        },
+        {
+          "name": "建设机械",
+          "code": "600984",
+          "percent": 1.64,
+          "current_price": 14.92,
+          "change_percentage": 0.27,
+          "xq_symbol": "SH600984",
+          "xq_url": "https://xueqiu.com/S/SH600984",
+          "amarket": true
+        },
+        {
+          "name": "宏发股份",
+          "code": "600885",
+          "percent": 1.51,
+          "current_price": 50.51,
+          "change_percentage": 0.3,
+          "xq_symbol": "SH600885",
+          "xq_url": "https://xueqiu.com/S/SH600885",
+          "amarket": true
+        },
+        {
+          "name": "正邦科技",
+          "code": "002157",
+          "percent": 1.48,
+          "current_price": 18.58,
+          "change_percentage": -3.38,
+          "xq_symbol": "SZ002157",
+          "xq_url": "https://xueqiu.com/S/SZ002157",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "004352",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "1.00"
+        },
+        {
+          "name": "500万≤买入金额<1000万",
+          "value": "0.60"
+        },
+        {
+          "name": "1000万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<90天",
+          "value": "0.500"
+        },
+        {
+          "name": "90天≤持有期限<180天",
+          "value": "0.500"
+        },
+        {
+          "name": "180天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "程敏",
+        "resume": "    程敏先生,清华大学数学学士、概率统计专业硕士,十年证券基金行业从业经历。历任中航证券资产管理分公司量化研究员、投资主办,方正证券资产管理分公司投资主办、量化团队负责人。现任北信瑞丰基金管理有限公司权益投资部基金经理。",
+        "college": "清华大学",
+        "work_year": "9",
+        "achievement_list": [
+          {
+            "fund_code": "004352",
+            "fundsname": "北信瑞丰研究精选股票",
+            "post_date": "2020-06-01",
+            "cp_rate": 23.0702
+          },
+          {
+            "fund_code": "007808",
+            "fundsname": "北信瑞丰量化优选灵活配置",
+            "post_date": "2019-09-18",
+            "cp_rate": 52.45
+          },
+          {
+            "fund_code": "002123",
+            "fundsname": "北信瑞丰外延增长",
+            "post_date": "2018-03-26",
+            "resi_date": "2020-06-01",
+            "cp_rate": 19.7368
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "004352",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

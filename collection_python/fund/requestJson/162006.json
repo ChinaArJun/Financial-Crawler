@@ -1,0 +1,264 @@
+{
+  "data": {
+    "fund_company": "    长城基金管理有限公司成立于2001年12月27日,由长城证券有限责任公司、东方证券股份有限公司、北方国际信托股份有限公司、中原信托有限公司共同出资设立。公司的经营范围为基金募集、基金销售、资产管理和中国证监会许可的其他业务。\n    长城基金管理有限公司一直秉承“诚信、规范、专业、创新”的经营理念,坚持基金持有人利益至上的经营原则,凭借完善的公司治理结构、严格的风险控制、规范的业务流程、高效专业的员工团队、开放与学习的文化氛围,努力打造一流的基金管理公司品牌,竭诚为客户提供优质的投资理财产品和服务。\n    产品线介绍\n    截至2016年8月,长城基金管理有限公司一共管理基金38只。基金产品类别涵盖货币型、债券型、混合型以及指数型基金,形成覆盖低、中、高各类风险收益特征的较为完善的产品线。",
+    "fund_position": {
+      "stock_percent": 81.31,
+      "bond_percent": 5.06,
+      "cash_percent": 13.39,
+      "other_percent": 0.24,
+      "asset_tot": 1280257835.54,
+      "asset_val": 1269786701.15,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "中材科技",
+          "code": "002080",
+          "percent": 9.28,
+          "current_price": 19.29,
+          "change_percentage": 0,
+          "xq_symbol": "SZ002080",
+          "xq_url": "https://xueqiu.com/S/SZ002080",
+          "amarket": true
+        },
+        {
+          "name": "联得装备",
+          "code": "300545",
+          "percent": 9.06,
+          "current_price": 30.21,
+          "change_percentage": 0.03,
+          "xq_symbol": "SZ300545",
+          "xq_url": "https://xueqiu.com/S/SZ300545",
+          "amarket": true
+        },
+        {
+          "name": "伯特利",
+          "code": "603596",
+          "percent": 8.65,
+          "current_price": 38.48,
+          "change_percentage": 2.34,
+          "xq_symbol": "SH603596",
+          "xq_url": "https://xueqiu.com/S/SH603596",
+          "amarket": true
+        },
+        {
+          "name": "建设机械",
+          "code": "600984",
+          "percent": 6.71,
+          "current_price": 14.92,
+          "change_percentage": 0.27,
+          "xq_symbol": "SH600984",
+          "xq_url": "https://xueqiu.com/S/SH600984",
+          "amarket": true
+        },
+        {
+          "name": "鸿路钢构",
+          "code": "002541",
+          "percent": 6.46,
+          "current_price": 38.19,
+          "change_percentage": 1.84,
+          "xq_symbol": "SZ002541",
+          "xq_url": "https://xueqiu.com/S/SZ002541",
+          "amarket": true
+        },
+        {
+          "name": "亚厦股份",
+          "code": "002375",
+          "percent": 4.34,
+          "current_price": 8.53,
+          "change_percentage": -0.23,
+          "xq_symbol": "SZ002375",
+          "xq_url": "https://xueqiu.com/S/SZ002375",
+          "amarket": true
+        },
+        {
+          "name": "华测导航",
+          "code": "300627",
+          "percent": 3.94,
+          "current_price": 22.72,
+          "change_percentage": -0.26,
+          "xq_symbol": "SZ300627",
+          "xq_url": "https://xueqiu.com/S/SZ300627",
+          "amarket": true
+        },
+        {
+          "name": "坚朗五金",
+          "code": "002791",
+          "percent": 3.85,
+          "current_price": 135.48,
+          "change_percentage": 0.73,
+          "xq_symbol": "SZ002791",
+          "xq_url": "https://xueqiu.com/S/SZ002791",
+          "amarket": true
+        },
+        {
+          "name": "安车检测",
+          "code": "300572",
+          "percent": 3.53,
+          "current_price": 44.07,
+          "change_percentage": 0.07,
+          "xq_symbol": "SZ300572",
+          "xq_url": "https://xueqiu.com/S/SZ300572",
+          "amarket": true
+        },
+        {
+          "name": "江山欧派",
+          "code": "603208",
+          "percent": 2.67,
+          "current_price": 104.11,
+          "change_percentage": -0.67,
+          "xq_symbol": "SH603208",
+          "xq_url": "https://xueqiu.com/S/SH603208",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "20国债10",
+          "code": "019640",
+          "percent": 5.1,
+          "xq_symbol": "019640",
+          "xq_url": "https://xueqiu.com/S/019640",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "162006",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<200万",
+          "value": "1.00"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.50"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "1天≤持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "365天≤持有期限<730天",
+          "value": "0.250"
+        },
+        {
+          "name": "730天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "陈良栋",
+        "resume": "    陈良栋先生, 清华大学工学与经济学双学士、清华大学工学硕士。2011年进入长城基金管理有限公司,曾任行业研究员、“长城消费增值股票型证券投资基金”基金经理助理。自2015年11月至2018年9月任“长城保本混合型证券投资基金”基金经理,自2015年11月至2018年11月任“长城久祥保本混合型证券投资基金”基金经理,自2016年5月至2018年11月任“长城久益保本混合型证券投资基金”基金经理,自2016年3月至2019年1月任“长城久安保本混合型证券投资基金”基金经理,自2016年8月至2019年7月任“长城久鼎保本混合型证券投资基金”基金经理。自2017年3月至今任“长城新兴产业灵活配置混合型证券投资基金”基金经理,自2018年11月至今任“长城久祥灵活配置混合型证券投资基金”基金经理,自2018年12月至今任“长城久富核心成长混合型证券投资基金(LOF)”基金经理。",
+        "college": "清华大学",
+        "work_year": "9",
+        "achievement_list": [
+          {
+            "fund_code": "162006",
+            "fundsname": "长城久富核心成长混合(LOF)",
+            "post_date": "2018-12-28",
+            "cp_rate": 113.4583
+          },
+          {
+            "fund_code": "001613",
+            "fundsname": "长城久祥混合",
+            "post_date": "2018-11-15",
+            "resi_date": "2020-06-17",
+            "cp_rate": 39.719
+          },
+          {
+            "fund_code": "000976",
+            "fundsname": "长城新兴产业灵活配置混合",
+            "post_date": "2017-03-16",
+            "cp_rate": 91.2845
+          },
+          {
+            "fund_code": "002542",
+            "fundsname": "长城久鼎保本混合",
+            "post_date": "2016-08-25",
+            "resi_date": "2019-07-25",
+            "cp_rate": 6.4935
+          },
+          {
+            "fund_code": "002543",
+            "fundsname": "长城久益保本混合A",
+            "post_date": "2016-05-12",
+            "resi_date": "2018-11-01",
+            "cp_rate": 5.86
+          },
+          {
+            "fund_code": "002544",
+            "fundsname": "长城久益保本混合C",
+            "post_date": "2016-05-12",
+            "resi_date": "2018-11-01",
+            "cp_rate": 4.4845
+          },
+          {
+            "fund_code": "002296",
+            "fundsname": "长城久安保本混合",
+            "post_date": "2016-03-30",
+            "resi_date": "2019-01-17",
+            "cp_rate": 6.3095
+          },
+          {
+            "fund_code": "200016",
+            "fundsname": "长城保本混合",
+            "post_date": "2015-11-27",
+            "resi_date": "2018-09-05",
+            "cp_rate": 7.9684
+          },
+          {
+            "fund_code": "001613",
+            "fundsname": "长城久祥保本混合",
+            "post_date": "2015-11-27",
+            "resi_date": "2018-11-14",
+            "cp_rate": 5.6369
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "162006",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

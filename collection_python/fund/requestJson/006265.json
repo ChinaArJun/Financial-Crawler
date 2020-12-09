@@ -1,0 +1,217 @@
+{
+  "data": {
+    "fund_company": "    红土创新基金管理有限公司于2014年6月5日获证监会证监许可(2014)562号文批准设立,2014年6月18日在深圳市市场监督管理局注册成立,注册地位于深圳,且于2014年6月23日取得中国证券监督委员会核发的A093号《基金管理资格证书》。红土创新基金由深圳市创新投资集团有限公司100%出资,注册资本1亿元人民币。同时拥有公募基金管理资格和特定客户资产管理业务资格。现任董事长为邵钢。\n    红土创新基金管理有限公司团队成员80%来自于公募基金行业,20%骨干力量来自于股东单位。团队成员拥有优秀的学识背景、深厚的实践功底,投资、研究、管理团队平均具有10年以上从业经验。\n    红土创新基金在公募基金业务的优良传承基础上,借力股东对创业投资行业的深入理解,外加国内独创的博士后工作站研究支持,充分利用一级市场优势向二级市场延伸,将红土创新基金打造成为以权益类投资为特色的创新型资产管理机构。",
+    "fund_position": {
+      "stock_percent": 87.69,
+      "cash_percent": 9.5,
+      "other_percent": 2.81,
+      "asset_tot": 92705648.14,
+      "asset_val": 89037048.61,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 6.2,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "风华高科",
+          "code": "000636",
+          "percent": 5.64,
+          "current_price": 35.43,
+          "change_percentage": -0.81,
+          "xq_symbol": "SZ000636",
+          "xq_url": "https://xueqiu.com/S/SZ000636",
+          "amarket": true
+        },
+        {
+          "name": "固德威",
+          "code": "688390",
+          "percent": 5.16,
+          "current_price": 172.17,
+          "change_percentage": 3.39,
+          "xq_symbol": "SH688390",
+          "xq_url": "https://xueqiu.com/S/SH688390",
+          "amarket": true
+        },
+        {
+          "name": "传音控股",
+          "code": "688036",
+          "percent": 4.32,
+          "current_price": 142.88,
+          "change_percentage": 4.51,
+          "xq_symbol": "SH688036",
+          "xq_url": "https://xueqiu.com/S/SH688036",
+          "amarket": true
+        },
+        {
+          "name": "亿纬锂能",
+          "code": "300014",
+          "percent": 4.23,
+          "current_price": 63.71,
+          "change_percentage": 4.17,
+          "xq_symbol": "SZ300014",
+          "xq_url": "https://xueqiu.com/S/SZ300014",
+          "amarket": true
+        },
+        {
+          "name": "通威股份",
+          "code": "600438",
+          "percent": 3.97,
+          "current_price": 29.2,
+          "change_percentage": -1.85,
+          "xq_symbol": "SH600438",
+          "xq_url": "https://xueqiu.com/S/SH600438",
+          "amarket": true
+        },
+        {
+          "name": "晶澳科技",
+          "code": "002459",
+          "percent": 3.96,
+          "current_price": 32.99,
+          "change_percentage": 0.49,
+          "xq_symbol": "SZ002459",
+          "xq_url": "https://xueqiu.com/S/SZ002459",
+          "amarket": true
+        },
+        {
+          "name": "胜宏科技",
+          "code": "300476",
+          "percent": 3.93,
+          "current_price": 23.85,
+          "change_percentage": -2.57,
+          "xq_symbol": "SZ300476",
+          "xq_url": "https://xueqiu.com/S/SZ300476",
+          "amarket": true
+        },
+        {
+          "name": "宁德时代",
+          "code": "300750",
+          "percent": 3.57,
+          "current_price": 266.03,
+          "change_percentage": 1.75,
+          "xq_symbol": "SZ300750",
+          "xq_url": "https://xueqiu.com/S/SZ300750",
+          "amarket": true
+        },
+        {
+          "name": "阳光电源",
+          "code": "300274",
+          "percent": 3.52,
+          "current_price": 51.88,
+          "change_percentage": 6.31,
+          "xq_symbol": "SZ300274",
+          "xq_url": "https://xueqiu.com/S/SZ300274",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "006265",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<100万",
+          "value": "1.00"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<180天",
+          "value": "0.500"
+        },
+        {
+          "name": "180天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "朱然",
+        "resume": "    朱然,北京大学硕士,3年科技实业经历,曾在英特尔,甲骨文等高科技公司任职;4年证券投资行业从业经历,历任广发证券(香港)海外市场分析师,红土创新基金TMT行业(包括电子,通信和传媒等)高级研究员;现任红土创新定增灵活配置混合型证券投资基金基金",
+        "work_year": "7",
+        "achievement_list": [
+          {
+            "fund_code": "501201",
+            "fundsname": "红土科技创新3年封闭混合",
+            "post_date": "2020-07-23",
+            "cp_rate": 22.55
+          },
+          {
+            "fund_code": "168401",
+            "fundsname": "红土精选混合",
+            "post_date": "2019-01-03",
+            "cp_rate": 100.9963
+          },
+          {
+            "fund_code": "006265",
+            "fundsname": "红土创新新科技股票",
+            "post_date": "2018-09-14",
+            "cp_rate": 175.77
+          },
+          {
+            "fund_code": "168401",
+            "fundsname": "红土创新定增灵活配置混合",
+            "post_date": "2017-11-07",
+            "resi_date": "2019-01-02",
+            "cp_rate": -3.823
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "006265",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

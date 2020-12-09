@@ -1,0 +1,263 @@
+{
+  "data": {
+    "fund_company": "    招商基金管理有限公司于2002年12月27日经中国证监会(2002)100号文批准设立,是中国第一家中外合资基金管理公司。公司的经营范围包括发起设立基金、基金管理业务和中国证监会批准的其它业务。\n    经招商基金管理有限公司(以下简称“本公司”)股东会审议通过,并经中国证券监督管理委员会证监许可[2013]1074号文批复同意。目前,本公司的股东股权结构为:招商银行股份有限公司持有公司全部股权的55%,招商证券股份有限公司持有公司全部股权的45%。公司注册资本金为2.1亿元人民币。目前,招商基金拥有两家全资子公司,分别为招商财富资产管理有限公司和招商资产管理(香港)有限公司。\n    招商基金以“为投资者创造更多价值”为使命,秉承诚信、理性、专业、协作、成长的核心价值观,努力成为中国资产管理行业具有差异化竞争优势、一流品牌的资产管理公司。",
+    "fund_position": {
+      "stock_percent": 65.02,
+      "bond_percent": 21.59,
+      "cash_percent": 11.6,
+      "other_percent": 1.79,
+      "asset_tot": 543920770.18,
+      "asset_val": 534162480.06,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "安井食品",
+          "code": "603345",
+          "percent": 5.53,
+          "current_price": 178.99,
+          "change_percentage": -1.12,
+          "xq_symbol": "SH603345",
+          "xq_url": "https://xueqiu.com/S/SH603345",
+          "amarket": true
+        },
+        {
+          "name": "分众传媒",
+          "code": "002027",
+          "percent": 4.53,
+          "current_price": 10.36,
+          "change_percentage": 0.58,
+          "xq_symbol": "SZ002027",
+          "xq_url": "https://xueqiu.com/S/SZ002027",
+          "amarket": true
+        },
+        {
+          "name": "安车检测",
+          "code": "300572",
+          "percent": 4.48,
+          "current_price": 44.07,
+          "change_percentage": 0.07,
+          "xq_symbol": "SZ300572",
+          "xq_url": "https://xueqiu.com/S/SZ300572",
+          "amarket": true
+        },
+        {
+          "name": "绝味食品",
+          "code": "603517",
+          "percent": 4.41,
+          "current_price": 75.39,
+          "change_percentage": -0.63,
+          "xq_symbol": "SH603517",
+          "xq_url": "https://xueqiu.com/S/SH603517",
+          "amarket": true
+        },
+        {
+          "name": "亿纬锂能",
+          "code": "300014",
+          "percent": 4.19,
+          "current_price": 63.71,
+          "change_percentage": 4.17,
+          "xq_symbol": "SZ300014",
+          "xq_url": "https://xueqiu.com/S/SZ300014",
+          "amarket": true
+        },
+        {
+          "name": "恩捷股份",
+          "code": "002812",
+          "percent": 3.7,
+          "current_price": 108,
+          "change_percentage": 0.88,
+          "xq_symbol": "SZ002812",
+          "xq_url": "https://xueqiu.com/S/SZ002812",
+          "amarket": true
+        },
+        {
+          "name": "亚厦股份",
+          "code": "002375",
+          "percent": 3.63,
+          "current_price": 8.53,
+          "change_percentage": -0.23,
+          "xq_symbol": "SZ002375",
+          "xq_url": "https://xueqiu.com/S/SZ002375",
+          "amarket": true
+        },
+        {
+          "name": "海容冷链",
+          "code": "603187",
+          "percent": 3.17,
+          "current_price": 55.51,
+          "change_percentage": -0.59,
+          "xq_symbol": "SH603187",
+          "xq_url": "https://xueqiu.com/S/SH603187",
+          "amarket": true
+        },
+        {
+          "name": "华海药业",
+          "code": "600521",
+          "percent": 3.13,
+          "current_price": 35.36,
+          "change_percentage": 2.26,
+          "xq_symbol": "SH600521",
+          "xq_url": "https://xueqiu.com/S/SH600521",
+          "amarket": true
+        },
+        {
+          "name": "华兰生物",
+          "code": "002007",
+          "percent": 3.03,
+          "current_price": 43.73,
+          "change_percentage": -3.19,
+          "xq_symbol": "SZ002007",
+          "xq_url": "https://xueqiu.com/S/SZ002007",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "21国债⑺",
+          "code": "010107",
+          "percent": 8.1,
+          "xq_symbol": "010107",
+          "xq_url": "https://xueqiu.com/S/010107",
+          "amarket": false
+        },
+        {
+          "name": "16附息国债23",
+          "code": "160023",
+          "percent": 5.48,
+          "xq_symbol": "160023",
+          "xq_url": "https://xueqiu.com/S/160023",
+          "amarket": false
+        },
+        {
+          "name": "19附息国债06",
+          "code": "190006",
+          "percent": 3.77,
+          "xq_symbol": "190006",
+          "xq_url": "https://xueqiu.com/S/190006",
+          "amarket": false
+        },
+        {
+          "name": "20国债01",
+          "code": "019627",
+          "percent": 2.59,
+          "xq_symbol": "019627",
+          "xq_url": "https://xueqiu.com/S/019627",
+          "amarket": false
+        },
+        {
+          "name": "20附息国债01",
+          "code": "200001",
+          "percent": 1.87,
+          "xq_symbol": "200001",
+          "xq_url": "https://xueqiu.com/S/200001",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "217001",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<200万",
+          "value": "1.20"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "500.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<366天",
+          "value": "0.100"
+        },
+        {
+          "name": "366天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "潘明曦",
+        "resume": "    潘明曦先生,研究生硕士。2010年7月加入国泰基金管理有限公司,曾任行业研究员、基金经理助理;2015年加入招商基金管理有限公司,现任招商安泰偏股混合型证券投资基金基金经理(管理时间:2015年10月9日至今)、招商丰美灵活配置混合型证券投资基金基金经理(管理时间:2016年11月10日至今)及招商移动互联网产业股票型证券投资基金(管理时间:2017年6月29日至今)。",
+        "work_year": "10",
+        "achievement_list": [
+          {
+            "fund_code": "217021",
+            "fundsname": "招商优势企业混合",
+            "post_date": "2019-06-14",
+            "cp_rate": 63.5606
+          },
+          {
+            "fund_code": "001404",
+            "fundsname": "招商移动互联网产业股票",
+            "post_date": "2017-06-29",
+            "resi_date": "2019-06-14",
+            "cp_rate": -5.2486
+          },
+          {
+            "fund_code": "002819",
+            "fundsname": "招商丰美混合A",
+            "post_date": "2016-11-10",
+            "resi_date": "2018-08-04",
+            "cp_rate": 10.41
+          },
+          {
+            "fund_code": "002820",
+            "fundsname": "招商丰美混合C",
+            "post_date": "2016-11-10",
+            "resi_date": "2018-08-04",
+            "cp_rate": 10.11
+          },
+          {
+            "fund_code": "217001",
+            "fundsname": "招商安泰偏股混合",
+            "post_date": "2015-10-09",
+            "cp_rate": 88.6375
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "217001",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

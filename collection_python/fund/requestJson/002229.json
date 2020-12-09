@@ -1,0 +1,249 @@
+{
+  "data": {
+    "fund_company": "    华夏基金管理有限公司成立于1998年4月9日,是经中国证监会批准成立的首批全国性基金管理公司之一。公司总部设在北京,在北京、上海、深圳、成都、南京、杭州、广州和青岛设有分公司,在香港、深圳、上海设有子公司。\n    华夏基金定位于综合性、全能化的资产管理公司,服务范围覆盖多个资产类别、行业和地区,构建了以公募基金和机构业务为核心,涵盖华夏香港、华夏资本、华夏财富的多元化资产管理平台。\n    华夏基金规范运作、稳健经营,以雄厚的综合实力持续保持了行业的领先地位。公司拥有18年投资管理经验,是管理基金规模最大的基金管理公司之一。截至2016年12月31日,公司服务机构客户超过4万户,服务公众持有人超过4500万户。华夏基金秉承“为信任奉献回报”的企业宗旨,注重将投资收益及时转化为红利,为投资人创造了丰厚的回报,累计为持有人分红超过1282亿元。\n    华夏基金在业内最早提出了“研究创造价值”的投资理念,以卓越的主动投资管理为核心,建立了业内最大的投研团队之一,通过宏观趋势判断、策略研究以及实地调研,审视每一个投资标的基本面及投资潜力,力求为投资者提供长期而稳定的投资收益。\n    华夏基金拥有卓越的平台、雄厚的实力以及良好的声誉,汇聚了大批优秀的研究员及基金经理,选拔了海内外知名高校的优秀人才,构建了精英荟萃的投研平台,逐步形成了业内规模最大的投资团队之一,并形成了稳定而长远的投资管理模式。\n    在公募基金方面,华夏基金建立了完善的基金产品线,旗下公募基金超过100只,可以满足不同投资者的各类投资需求。主动管理的基金囊括了货币型、理财型、债券型、混合型以及股票型等5大类不同风险收益特征的品种;在被动管理方面,公司构建了覆盖综合指数、权重股指数、中小盘指数、行业指数以及海外市场指数的完善的产品线。\n    华夏基金机构业务包括全国社保、企业年金、基本养老金、职业年金、专户理财业务、机构客户公募基金组合管理业务及海外机构业务。围绕机构客户的多元化投资需求,华夏基金构建了以投资、产品、风控为核心,全面覆盖机构股票投资、机构债券投资、数量投资、现金管理以及海外投资在内的专属投资管理和服务平台。\n    18年来,华夏基金凭借规范的经营管理及良好的品牌声誉,获得了业界的广泛认可,多次荣获境内外各大权威奖项。华夏基金八次获得《中国证券报》评选的“金牛基金管理公司奖”,八次获得《上海证券报》评选的 “金基金top公司大奖”,五次获得《证券时报》评选的“明星基金公司奖”,并多次获得《亚洲投资者》、《亚洲资产管理》以及《财资》等境外权威机构评选的“中国最佳基金管理公司奖”。",
+    "fund_position": {
+      "stock_percent": 84.4,
+      "bond_percent": 0.22,
+      "cash_percent": 15.19,
+      "other_percent": 0.19,
+      "asset_tot": 2385605074.32,
+      "asset_val": 2372131680.82,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "七一二",
+          "code": "603712",
+          "percent": 5.23,
+          "current_price": 37.75,
+          "change_percentage": 0.51,
+          "xq_symbol": "SH603712",
+          "xq_url": "https://xueqiu.com/S/SH603712",
+          "amarket": true
+        },
+        {
+          "name": "新宝股份",
+          "code": "002705",
+          "percent": 5.11,
+          "current_price": 41.98,
+          "change_percentage": 0.19,
+          "xq_symbol": "SZ002705",
+          "xq_url": "https://xueqiu.com/S/SZ002705",
+          "amarket": true
+        },
+        {
+          "name": "中航高科",
+          "code": "600862",
+          "percent": 4.82,
+          "current_price": 25.12,
+          "change_percentage": -1.49,
+          "xq_symbol": "SH600862",
+          "xq_url": "https://xueqiu.com/S/SH600862",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 4.59,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "宁德时代",
+          "code": "300750",
+          "percent": 3.86,
+          "current_price": 266.03,
+          "change_percentage": 1.75,
+          "xq_symbol": "SZ300750",
+          "xq_url": "https://xueqiu.com/S/SZ300750",
+          "amarket": true
+        },
+        {
+          "name": "TCL科技",
+          "code": "000100",
+          "percent": 3.73,
+          "current_price": 7.16,
+          "change_percentage": 1.42,
+          "xq_symbol": "SZ000100",
+          "xq_url": "https://xueqiu.com/S/SZ000100",
+          "amarket": true
+        },
+        {
+          "name": "吉比特",
+          "code": "603444",
+          "percent": 3.67,
+          "current_price": 410.3,
+          "change_percentage": 2.32,
+          "xq_symbol": "SH603444",
+          "xq_url": "https://xueqiu.com/S/SH603444",
+          "amarket": true
+        },
+        {
+          "name": "三花智控",
+          "code": "002050",
+          "percent": 3.53,
+          "current_price": 24.3,
+          "change_percentage": 2.84,
+          "xq_symbol": "SZ002050",
+          "xq_url": "https://xueqiu.com/S/SZ002050",
+          "amarket": true
+        },
+        {
+          "name": "广联达",
+          "code": "002410",
+          "percent": 3.09,
+          "current_price": 70.77,
+          "change_percentage": 2.08,
+          "xq_symbol": "SZ002410",
+          "xq_url": "https://xueqiu.com/S/SZ002410",
+          "amarket": true
+        },
+        {
+          "name": "京东方A",
+          "code": "000725",
+          "percent": 2.94,
+          "current_price": 5.25,
+          "change_percentage": -0.57,
+          "xq_symbol": "SZ000725",
+          "xq_url": "https://xueqiu.com/S/SZ000725",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "赣锋转2",
+          "code": "128126",
+          "percent": 0.1,
+          "xq_symbol": "128126",
+          "xq_url": "https://xueqiu.com/S/128126",
+          "amarket": false
+        },
+        {
+          "name": "歌尔转2",
+          "code": "128112",
+          "percent": 0.1,
+          "xq_symbol": "128112",
+          "xq_url": "https://xueqiu.com/S/128112",
+          "amarket": false
+        },
+        {
+          "name": "璞泰转债",
+          "code": "113562",
+          "percent": 0.03,
+          "xq_symbol": "113562",
+          "xq_url": "https://xueqiu.com/S/113562",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "002229",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<200万",
+          "value": "1.20"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "365天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "张帆",
+        "resume": "    张帆先生,北京大学理学硕士。曾任华创证券研究部TMT行业分析师,中信证券研究部高级副总裁、电子行业首席分析师等。 2015年11月加入华夏基金管理有限公司,曾任股票投资部基金经理助理等,现任股票投资部总监,华夏经济转型股票型证券投资基金基金经理(2017年1月6日起任职)、华夏科技成长股票型证券投资基金基金经理(2019年3月5日起任职)、华夏科技创新混合型证券投资基金基金经理(2019年5月6日起任职)。",
+        "college": "北京大学",
+        "work_year": "10",
+        "achievement_list": [
+          {
+            "fund_code": "010305",
+            "fundsname": "华夏创新驱动混合A",
+            "post_date": "2020-10-27",
+            "cp_rate": -0.71
+          },
+          {
+            "fund_code": "010306",
+            "fundsname": "华夏创新驱动混合C",
+            "post_date": "2020-10-27",
+            "cp_rate": -0.78
+          },
+          {
+            "fund_code": "007349",
+            "fundsname": "华夏科技创新混合A",
+            "post_date": "2019-05-06",
+            "cp_rate": 113.31
+          },
+          {
+            "fund_code": "006868",
+            "fundsname": "华夏科技成长股票",
+            "post_date": "2019-03-05",
+            "cp_rate": 80.73
+          },
+          {
+            "fund_code": "002229",
+            "fundsname": "华夏经济转型股票",
+            "post_date": "2017-01-06",
+            "cp_rate": 130.5696
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "002229",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

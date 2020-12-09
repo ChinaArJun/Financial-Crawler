@@ -1,0 +1,232 @@
+{
+  "data": {
+    "fund_company": "    华夏基金管理有限公司成立于1998年4月9日,是经中国证监会批准成立的首批全国性基金管理公司之一。公司总部设在北京,在北京、上海、深圳、成都、南京、杭州、广州和青岛设有分公司,在香港、深圳、上海设有子公司。\n    华夏基金定位于综合性、全能化的资产管理公司,服务范围覆盖多个资产类别、行业和地区,构建了以公募基金和机构业务为核心,涵盖华夏香港、华夏资本、华夏财富的多元化资产管理平台。\n    华夏基金规范运作、稳健经营,以雄厚的综合实力持续保持了行业的领先地位。公司拥有18年投资管理经验,是管理基金规模最大的基金管理公司之一。截至2016年12月31日,公司服务机构客户超过4万户,服务公众持有人超过4500万户。华夏基金秉承“为信任奉献回报”的企业宗旨,注重将投资收益及时转化为红利,为投资人创造了丰厚的回报,累计为持有人分红超过1282亿元。\n    华夏基金在业内最早提出了“研究创造价值”的投资理念,以卓越的主动投资管理为核心,建立了业内最大的投研团队之一,通过宏观趋势判断、策略研究以及实地调研,审视每一个投资标的基本面及投资潜力,力求为投资者提供长期而稳定的投资收益。\n    华夏基金拥有卓越的平台、雄厚的实力以及良好的声誉,汇聚了大批优秀的研究员及基金经理,选拔了海内外知名高校的优秀人才,构建了精英荟萃的投研平台,逐步形成了业内规模最大的投资团队之一,并形成了稳定而长远的投资管理模式。\n    在公募基金方面,华夏基金建立了完善的基金产品线,旗下公募基金超过100只,可以满足不同投资者的各类投资需求。主动管理的基金囊括了货币型、理财型、债券型、混合型以及股票型等5大类不同风险收益特征的品种;在被动管理方面,公司构建了覆盖综合指数、权重股指数、中小盘指数、行业指数以及海外市场指数的完善的产品线。\n    华夏基金机构业务包括全国社保、企业年金、基本养老金、职业年金、专户理财业务、机构客户公募基金组合管理业务及海外机构业务。围绕机构客户的多元化投资需求,华夏基金构建了以投资、产品、风控为核心,全面覆盖机构股票投资、机构债券投资、数量投资、现金管理以及海外投资在内的专属投资管理和服务平台。\n    18年来,华夏基金凭借规范的经营管理及良好的品牌声誉,获得了业界的广泛认可,多次荣获境内外各大权威奖项。华夏基金八次获得《中国证券报》评选的“金牛基金管理公司奖”,八次获得《上海证券报》评选的 “金基金top公司大奖”,五次获得《证券时报》评选的“明星基金公司奖”,并多次获得《亚洲投资者》、《亚洲资产管理》以及《财资》等境外权威机构评选的“中国最佳基金管理公司奖”。",
+    "fund_position": {
+      "stock_percent": 91.24,
+      "cash_percent": 7.11,
+      "other_percent": 1.65,
+      "asset_tot": 171601543.06,
+      "asset_val": 166662044.51,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 6.43,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "中国中免",
+          "code": "601888",
+          "percent": 5.57,
+          "current_price": 208.03,
+          "change_percentage": 0.13,
+          "xq_symbol": "SH601888",
+          "xq_url": "https://xueqiu.com/S/SH601888",
+          "amarket": true
+        },
+        {
+          "name": "美团-W",
+          "code": "03690",
+          "percent": 5.44,
+          "xq_symbol": "03690",
+          "xq_url": "https://xueqiu.com/S/03690",
+          "amarket": false
+        },
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 4.89,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "泸州老窖",
+          "code": "000568",
+          "percent": 4.77,
+          "current_price": 191.85,
+          "change_percentage": 0.56,
+          "xq_symbol": "SZ000568",
+          "xq_url": "https://xueqiu.com/S/SZ000568",
+          "amarket": true
+        },
+        {
+          "name": "宁德时代",
+          "code": "300750",
+          "percent": 4.49,
+          "current_price": 266.03,
+          "change_percentage": 1.75,
+          "xq_symbol": "SZ300750",
+          "xq_url": "https://xueqiu.com/S/SZ300750",
+          "amarket": true
+        },
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 4.4,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "通策医疗",
+          "code": "600763",
+          "percent": 3.44,
+          "current_price": 233.45,
+          "change_percentage": 0.45,
+          "xq_symbol": "SH600763",
+          "xq_url": "https://xueqiu.com/S/SH600763",
+          "amarket": true
+        },
+        {
+          "name": "海底捞",
+          "code": "06862",
+          "percent": 3.17,
+          "xq_symbol": "06862",
+          "xq_url": "https://xueqiu.com/S/06862",
+          "amarket": false
+        },
+        {
+          "name": "信义光能",
+          "code": "00968",
+          "percent": 2.87,
+          "xq_symbol": "00968",
+          "xq_url": "https://xueqiu.com/S/00968",
+          "amarket": false
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "005894",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<200万",
+          "value": "1.20"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "365天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "李湘杰",
+        "resume": "    李湘杰先生,国立台湾大学商学硕士。曾任台湾ING投信基金经理、台湾元大投信基金经理、华润元大基金投资管理部总经理、华润元大安鑫灵活配置混合型证券投资基金基金经理(2013年9月11日至2014年9月18日期间)、华润元大医疗保健量化混合型证券投资基金基金经理(2014年8月18日至2015年9月23日期间)等。2015年9月加入华夏基金管理有限公司,现任国际投资部董事总经理,华夏全球精选股票型证券投资基金基金经理(2016年5月25日起任职)、华夏港股通精选股票型发起式证券投资基金(LOF)基金经理(2016年11月11日起任职)、华夏全球科技先锋混合型证券投资基金(QDII)基金经理(2018年4月17日起任职)、华夏优势精选股票型证券投资基金基金经理(2018年8月7日起任职)。",
+        "college": "国立台湾大学",
+        "work_year": "18",
+        "achievement_list": [
+          {
+            "fund_code": "005894",
+            "fundsname": "华夏优势精选股票",
+            "post_date": "2018-08-07",
+            "cp_rate": 72.7
+          },
+          {
+            "fund_code": "005698",
+            "fundsname": "华夏全球科技先锋混合(QDII)",
+            "post_date": "2018-04-17",
+            "cp_rate": 37.62
+          },
+          {
+            "fund_code": "160322",
+            "fundsname": "华夏港股通精选股票(LOF)",
+            "post_date": "2016-11-11",
+            "cp_rate": 52.0548
+          },
+          {
+            "fund_code": "000041",
+            "fundsname": "华夏全球股票(QDII)",
+            "post_date": "2016-05-25",
+            "cp_rate": 88.4344
+          },
+          {
+            "fund_code": "000273",
+            "fundsname": "华润元大安鑫灵活配置混合",
+            "post_date": "2014-09-11",
+            "resi_date": "2014-09-18",
+            "cp_rate": -0.1951
+          },
+          {
+            "fund_code": "000646",
+            "fundsname": "华润元大医疗保健量化混合",
+            "post_date": "2014-08-18",
+            "resi_date": "2015-09-23",
+            "cp_rate": 18.5
+          },
+          {
+            "fund_code": "000273",
+            "fundsname": "华润元大保本混合",
+            "post_date": "2013-09-11",
+            "resi_date": "2014-09-10",
+            "cp_rate": 2.5
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "005894",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

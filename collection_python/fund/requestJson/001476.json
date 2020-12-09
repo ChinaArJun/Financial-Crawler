@@ -1,0 +1,287 @@
+{
+  "data": {
+    "fund_company": "    中银基金管理有限公司是由中国银行股份有限公司(以下简称中国银行)和贝莱德投资管理有限公司(以下简称贝莱德)两大全球著名领先金融品牌强强联合组建的中外合资基金管理公司,致力于长期参与中国基金业的发展,努力成为国内领先的基金管理公司。\n    中银基金管理有限公司前身为中银国际基金管理有限公司,于2004年7月29日正式开业,是由中银国际和美林投资管理合资组建(2006年9月29日美林投资管理有限公司与贝莱德投资管理有限公司合并,合并后新公司名称为“贝莱德投资管理有限公司”)。2007年12月25日,经中国证监会批准,中国银行直接控股中银基金。2008年1月16日,公司正式更名为中银基金管理有限公司。\n    中银基金管理有限公司汇集海内外具有丰富经验和良好职业道德,具备团队精神和创新意识的资深投资管理人才,组成了国际化与本土化相结合的中西合璧的专业化团队,致力于以诚信服务大众,用智慧创造财富,为投资者提供丰富的投资产品和国际标准的投资管理服务。公司将充分发挥中外股东的全球经验和资源优势,引入外方股东在全球资产管理市场的成功经验、技术和智慧,与中国本土经验相结合,为广大投资者提供专业化的投资理财服务。",
+    "fund_position": {
+      "stock_percent": 85.61,
+      "bond_percent": 9.07,
+      "cash_percent": 3.63,
+      "other_percent": 1.69,
+      "asset_tot": 1247481981.79,
+      "asset_val": 1238520085.8,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 9.45,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "通威股份",
+          "code": "600438",
+          "percent": 9.16,
+          "current_price": 29.2,
+          "change_percentage": -1.85,
+          "xq_symbol": "SH600438",
+          "xq_url": "https://xueqiu.com/S/SH600438",
+          "amarket": true
+        },
+        {
+          "name": "锦浪科技",
+          "code": "300763",
+          "percent": 8.73,
+          "current_price": 117.3,
+          "change_percentage": 10.91,
+          "xq_symbol": "SZ300763",
+          "xq_url": "https://xueqiu.com/S/SZ300763",
+          "amarket": true
+        },
+        {
+          "name": "亿纬锂能",
+          "code": "300014",
+          "percent": 8.09,
+          "current_price": 63.71,
+          "change_percentage": 4.17,
+          "xq_symbol": "SZ300014",
+          "xq_url": "https://xueqiu.com/S/SZ300014",
+          "amarket": true
+        },
+        {
+          "name": "歌尔股份",
+          "code": "002241",
+          "percent": 5.33,
+          "current_price": 37.16,
+          "change_percentage": -2.24,
+          "xq_symbol": "SZ002241",
+          "xq_url": "https://xueqiu.com/S/SZ002241",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 5.32,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "宁德时代",
+          "code": "300750",
+          "percent": 5.09,
+          "current_price": 266.03,
+          "change_percentage": 1.75,
+          "xq_symbol": "SZ300750",
+          "xq_url": "https://xueqiu.com/S/SZ300750",
+          "amarket": true
+        },
+        {
+          "name": "拓普集团",
+          "code": "601689",
+          "percent": 5.08,
+          "current_price": 38.54,
+          "change_percentage": 3.66,
+          "xq_symbol": "SH601689",
+          "xq_url": "https://xueqiu.com/S/SH601689",
+          "amarket": true
+        },
+        {
+          "name": "福莱特",
+          "code": "601865",
+          "percent": 4.1,
+          "current_price": 32.18,
+          "change_percentage": 2.13,
+          "xq_symbol": "SH601865",
+          "xq_url": "https://xueqiu.com/S/SH601865",
+          "amarket": true
+        },
+        {
+          "name": "三一重工",
+          "code": "600031",
+          "percent": 3.99,
+          "current_price": 31.48,
+          "change_percentage": -1.41,
+          "xq_symbol": "SH600031",
+          "xq_url": "https://xueqiu.com/S/SH600031",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "20进出04",
+          "code": "200304",
+          "percent": 3.22,
+          "xq_symbol": "200304",
+          "xq_url": "https://xueqiu.com/S/200304",
+          "amarket": false
+        },
+        {
+          "name": "20国开11",
+          "code": "200211",
+          "percent": 1.6,
+          "xq_symbol": "200211",
+          "xq_url": "https://xueqiu.com/S/200211",
+          "amarket": false
+        },
+        {
+          "name": "国开2004",
+          "code": "018013",
+          "percent": 1.45,
+          "xq_symbol": "018013",
+          "xq_url": "https://xueqiu.com/S/018013",
+          "amarket": false
+        },
+        {
+          "name": "20国债01",
+          "code": "019627",
+          "percent": 0.69,
+          "xq_symbol": "019627",
+          "xq_url": "https://xueqiu.com/S/019627",
+          "amarket": false
+        },
+        {
+          "name": "歌尔转2",
+          "code": "128112",
+          "percent": 0.51,
+          "xq_symbol": "128112",
+          "xq_url": "https://xueqiu.com/S/128112",
+          "amarket": false
+        },
+        {
+          "name": "浦发转债",
+          "code": "110059",
+          "percent": 0.33,
+          "xq_symbol": "110059",
+          "xq_url": "https://xueqiu.com/S/110059",
+          "amarket": false
+        },
+        {
+          "name": "先导转债",
+          "code": "123036",
+          "percent": 0.29,
+          "xq_symbol": "123036",
+          "xq_url": "https://xueqiu.com/S/123036",
+          "amarket": false
+        },
+        {
+          "name": "恩捷转债",
+          "code": "128095",
+          "percent": 0.04,
+          "xq_symbol": "128095",
+          "xq_url": "https://xueqiu.com/S/128095",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "001476",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.20"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "王伟",
+        "resume": "    王伟(WANGWei)先生,中银基金管理有限公司助理副总裁(AVP),工学硕士。2010年加入中银基金管理有限公司,曾任研究员、基金经理助理。2015年2月至今任中银美丽中国基金基金经理,2015年3月至今任中银中小盘基金基金经理,2015年5月至今任中银优选基金基金经理,2015年6月至今任中银智能制造基金基金经理。具有9年证券从业年限。具备基金从业资格。",
+        "work_year": "10",
+        "achievement_list": [
+          {
+            "fund_code": "001476",
+            "fundsname": "中银智能制造股票",
+            "post_date": "2015-06-19",
+            "cp_rate": 41.6
+          },
+          {
+            "fund_code": "163807",
+            "fundsname": "中银优选混合",
+            "post_date": "2015-05-28",
+            "cp_rate": 55.3987
+          },
+          {
+            "fund_code": "163818",
+            "fundsname": "中银中小盘成长混合",
+            "post_date": "2015-03-23",
+            "cp_rate": 45.6395
+          },
+          {
+            "fund_code": "000120",
+            "fundsname": "中银美丽中国混合",
+            "post_date": "2015-02-11",
+            "resi_date": "2019-10-21",
+            "cp_rate": 14.8714
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "001476",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 2,
+      "all_buy_days": 2,
+      "all_sale_days": 3
+    }
+  },
+  "result_code": 0
+}

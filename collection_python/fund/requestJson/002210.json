@@ -1,0 +1,334 @@
+{
+  "data": {
+    "fund_company": "    创金合信基金管理有限公司由第一创业证券股份有限公司(占70%)、深圳市金合信投资合伙企业(有限合伙)(占30%)共同发起设立。注册资本:1.7亿元人民币。注册地:深圳。创金合信基金倡导合伙文化,实施合伙制,并在投研体系着力打造吸引并留住优秀人才的平台:事业部制和工作室。\n    第一创业证券股份有限公司是经中国证监会批准,由华熙昕宇、首创集团等多家实力雄厚的股东投资设立的全国性综合类证券公司。公司注册地在深圳市,注册资本金为人民币21.89亿元人民币,,总部设在深圳,员工总数超过1900人。2016年5月11日,公司首次公开发行股票并在深圳证券交易所上市交易,证券简称 “第一创业”,证券代码“002797”。深圳金合信投资合伙企业(有限合伙)由创金合信基金经营管理层及多名核心员工投资设立,仅用于持有创金合信基金股权。\n    创金合信基金成立于2014年7月,员工基于第一创业证券创金资产团队。创金资产团队于2010年初组建,曾屡次获得权威奖项。创金资产团队2012年、2013年连续两次获《上海证券报》中国券商理财金榜评选“综合管理实力大奖”;创金资产团队2013年获《中国证券报》金牛理财网“金牛券商集合资产管理人奖”;创金资产品牌2013年、2014年连续两次获《证券时报》中国最佳财富管理机构评选“中国最佳财富管理品牌”。",
+    "fund_position": {
+      "stock_percent": 85.79,
+      "cash_percent": 12.8,
+      "other_percent": 1.41,
+      "asset_tot": 297400272.5,
+      "asset_val": 295999110.3,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "坚朗五金",
+          "code": "002791",
+          "percent": 0.99,
+          "current_price": 135.48,
+          "change_percentage": 0.73,
+          "xq_symbol": "SZ002791",
+          "xq_url": "https://xueqiu.com/S/SZ002791",
+          "amarket": true
+        },
+        {
+          "name": "迈克生物",
+          "code": "300463",
+          "percent": 0.99,
+          "current_price": 47.43,
+          "change_percentage": 2.46,
+          "xq_symbol": "SZ300463",
+          "xq_url": "https://xueqiu.com/S/SZ300463",
+          "amarket": true
+        },
+        {
+          "name": "光威复材",
+          "code": "300699",
+          "percent": 0.91,
+          "current_price": 79.25,
+          "change_percentage": -1.02,
+          "xq_symbol": "SZ300699",
+          "xq_url": "https://xueqiu.com/S/SZ300699",
+          "amarket": true
+        },
+        {
+          "name": "精测电子",
+          "code": "300567",
+          "percent": 0.82,
+          "current_price": 50.89,
+          "change_percentage": -0.37,
+          "xq_symbol": "SZ300567",
+          "xq_url": "https://xueqiu.com/S/SZ300567",
+          "amarket": true
+        },
+        {
+          "name": "新易盛",
+          "code": "300502",
+          "percent": 0.82,
+          "current_price": 58.26,
+          "change_percentage": 0.99,
+          "xq_symbol": "SZ300502",
+          "xq_url": "https://xueqiu.com/S/SZ300502",
+          "amarket": true
+        },
+        {
+          "name": "天孚通信",
+          "code": "300394",
+          "percent": 0.8,
+          "current_price": 56.98,
+          "change_percentage": 0,
+          "xq_symbol": "SZ300394",
+          "xq_url": "https://xueqiu.com/S/SZ300394",
+          "amarket": true
+        },
+        {
+          "name": "药石科技",
+          "code": "300725",
+          "percent": 0.79,
+          "current_price": 122.8,
+          "change_percentage": 0.62,
+          "xq_symbol": "SZ300725",
+          "xq_url": "https://xueqiu.com/S/SZ300725",
+          "amarket": true
+        },
+        {
+          "name": "拓斯达",
+          "code": "300607",
+          "percent": 0.79,
+          "current_price": 35.79,
+          "change_percentage": 1.22,
+          "xq_symbol": "SZ300607",
+          "xq_url": "https://xueqiu.com/S/SZ300607",
+          "amarket": true
+        },
+        {
+          "name": "兴齐眼药",
+          "code": "300573",
+          "percent": 0.79,
+          "current_price": 118,
+          "change_percentage": -0.93,
+          "xq_symbol": "SZ300573",
+          "xq_url": "https://xueqiu.com/S/SZ300573",
+          "amarket": true
+        },
+        {
+          "name": "华大基因",
+          "code": "300676",
+          "percent": 0.78,
+          "current_price": 131.83,
+          "change_percentage": 0.94,
+          "xq_symbol": "SZ300676",
+          "xq_url": "https://xueqiu.com/S/SZ300676",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "002210",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "0.80"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.30"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限≤7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<180天",
+          "value": "0.500"
+        },
+        {
+          "name": "180天≤持有期限<365天",
+          "value": "0.250"
+        },
+        {
+          "name": "365天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "董梁",
+        "resume": "    董梁先生,中国香港,美国密歇根大学材料科学博士,2005年3月加入美国巴克莱环球投资者(Barclays Global Investors)任高级研究员、基金经理,负责美股量化模型开发及投资工作。2009年8月加入瑞士信贷(Credit-Suisse)任自营交易员,负责港股量化模型开发和投资,以及环球股指期货期权的量化投资。2011年1月加入信达国际任执行董事、基金经理,进行港股投资。2012年8月加入华安基金管理有限公司,任系统化投资部量化投资总监、基金经理。2015年加入香港启智资产管理有限公司(Zentific Investment Management)任投资部基金经理。2017年9月加入创金合信基金管理有限公司。现任首席量化投资官、量化指数与国际部总监、创金合信沪深300指数增强型发起式证券投资基金基金经理(2018年11月19日起任职),创金合信春来回报一年期定期开放混合型发起式证券投资基金基金经理(2019年6月13日起任职),创金合信量化多因子股票型证券投资基金基金经理(2019年7月5日起任职),创金合信中证500指数增强型发起式证券投资基金基金经理(2019年7月5日起任职),创金合信中证1000指数增强型发起式证券投资基金基金经理(2019年7月5日起任职),创金合信量化发现灵活配置混合型证券投资基金基金经理(2019年7月5日起任职),创金合信量化核心混合型证券投资基金基金经理(2019年7月5日起任职),创金合信价值红利灵活配置混合型证券投资基金基金经理(2019年9月25日起任职),创金合信上证超大盘量化精选股票型发起式证券投资基金基金经理(2019年12月27日起任职)。",
+        "college": "美国密歇根大学",
+        "achievement_list": [
+          {
+            "fund_code": "009514",
+            "fundsname": "创金合信同顺创业板精选股票C",
+            "post_date": "2020-08-26",
+            "cp_rate": -1.5984
+          },
+          {
+            "fund_code": "009513",
+            "fundsname": "创金合信同顺创业板精选股票A",
+            "post_date": "2020-08-26",
+            "cp_rate": -1.461
+          },
+          {
+            "fund_code": "008769",
+            "fundsname": "创金合信上证超大盘量化C",
+            "post_date": "2019-12-27",
+            "cp_rate": 16.12
+          },
+          {
+            "fund_code": "008768",
+            "fundsname": "创金合信上证超大盘量化A",
+            "post_date": "2019-12-27",
+            "cp_rate": 16.67
+          },
+          {
+            "fund_code": "002463",
+            "fundsname": "创金合信价值红利混合A",
+            "post_date": "2019-09-25",
+            "resi_date": "2020-10-21",
+            "cp_rate": 25.7484
+          },
+          {
+            "fund_code": "005404",
+            "fundsname": "创金合信价值红利混合C",
+            "post_date": "2019-09-25",
+            "resi_date": "2020-10-21",
+            "cp_rate": 24.6907
+          },
+          {
+            "fund_code": "003647",
+            "fundsname": "创金合信中证1000指数增强C",
+            "post_date": "2019-07-05",
+            "cp_rate": 45.3228
+          },
+          {
+            "fund_code": "003646",
+            "fundsname": "创金合信中证1000指数增强A",
+            "post_date": "2019-07-05",
+            "cp_rate": 45.8768
+          },
+          {
+            "fund_code": "004360",
+            "fundsname": "创金合信量化核心混合C",
+            "post_date": "2019-07-05",
+            "cp_rate": 52.3814
+          },
+          {
+            "fund_code": "004359",
+            "fundsname": "创金合信量化核心混合A",
+            "post_date": "2019-07-05",
+            "cp_rate": 54.1381
+          },
+          {
+            "fund_code": "003865",
+            "fundsname": "创金合信量化多因子股票C",
+            "post_date": "2019-07-05",
+            "cp_rate": 46.9323
+          },
+          {
+            "fund_code": "003242",
+            "fundsname": "创金合信量化发现灵活配置混合C",
+            "post_date": "2019-07-05",
+            "cp_rate": 55.4843
+          },
+          {
+            "fund_code": "003241",
+            "fundsname": "创金合信量化发现灵活配置混合A",
+            "post_date": "2019-07-05",
+            "cp_rate": 57.2804
+          },
+          {
+            "fund_code": "002210",
+            "fundsname": "创金合信量化多因子股票A",
+            "post_date": "2019-07-05",
+            "cp_rate": 48.4352
+          },
+          {
+            "fund_code": "002316",
+            "fundsname": "创金合信中证500指数增强型C",
+            "post_date": "2019-07-05",
+            "cp_rate": 44.012
+          },
+          {
+            "fund_code": "002311",
+            "fundsname": "创金合信中证500指数增强型A",
+            "post_date": "2019-07-05",
+            "cp_rate": 44.3133
+          },
+          {
+            "fund_code": "005799",
+            "fundsname": "创金合信春来回报一年期定期开放A",
+            "post_date": "2019-06-13",
+            "resi_date": "2020-06-22",
+            "cp_rate": -0.1098
+          },
+          {
+            "fund_code": "005800",
+            "fundsname": "创金合信春来回报一年期定期开放C",
+            "post_date": "2019-06-13",
+            "resi_date": "2020-06-22",
+            "cp_rate": -0.1333
+          },
+          {
+            "fund_code": "002315",
+            "fundsname": "创金合信沪深300指数增强型C",
+            "post_date": "2018-11-19",
+            "cp_rate": 77.2481
+          },
+          {
+            "fund_code": "002310",
+            "fundsname": "创金合信沪深300指数增强型A",
+            "post_date": "2018-11-19",
+            "cp_rate": 77.1681
+          },
+          {
+            "fund_code": "000313",
+            "fundsname": "华安沪深300增强C",
+            "post_date": "2013-09-27",
+            "resi_date": "2014-12-31",
+            "cp_rate": 39.5
+          },
+          {
+            "fund_code": "000312",
+            "fundsname": "华安沪深300增强A",
+            "post_date": "2013-09-27",
+            "resi_date": "2014-12-31",
+            "cp_rate": 40.7
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "002210",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 2,
+      "all_buy_days": 2,
+      "all_sale_days": 3
+    }
+  },
+  "result_code": 0
+}

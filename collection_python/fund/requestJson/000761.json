@@ -1,0 +1,207 @@
+{
+  "data": {
+    "fund_company": "    国海富兰克林基金管理有限公司成立于2004年11月,由国海证券股份有限公司和富兰克林邓普顿投资集团全资子公司邓普顿国际股份有限公司共同出资组 建,目前公司注册资本2.2亿元人民币,国海证券股份有限公司持有51%的股份, 邓普顿国际股份有限公司持有49%的股份。富兰克林邓普顿投资集团是世界知名基金管理公司,在全球市场上有超过60年的投资管理经验。国海富兰克林基金管 理有限公司引进富兰克林邓普顿投资集团享誉全球的投资机制、研究平台和风险控制体系,力争成为国内一流的基金管理公司。\n    公司经营理念:诚信、稳健、前瞻、一流。\n    公司使命: 成为中国一流的资产管理机构,以我们的核心价值与独特视野为指导,为客户提供高质量的投资方案和出色的服务,并吸引、激励和保留优秀人才。",
+    "fund_position": {
+      "stock_percent": 92.67,
+      "cash_percent": 7.32,
+      "other_percent": 0.01,
+      "asset_tot": 629193501.76,
+      "asset_val": 627654865.41,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 3.99,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "宁波银行",
+          "code": "002142",
+          "percent": 3.51,
+          "current_price": 35.74,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ002142",
+          "xq_url": "https://xueqiu.com/S/SZ002142",
+          "amarket": true
+        },
+        {
+          "name": "招商银行",
+          "code": "600036",
+          "percent": 3.15,
+          "current_price": 44.26,
+          "change_percentage": -0.36,
+          "xq_symbol": "SH600036",
+          "xq_url": "https://xueqiu.com/S/SH600036",
+          "amarket": true
+        },
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 3.1,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "欧派家居",
+          "code": "603833",
+          "percent": 3.09,
+          "current_price": 131,
+          "change_percentage": -0.56,
+          "xq_symbol": "SH603833",
+          "xq_url": "https://xueqiu.com/S/SH603833",
+          "amarket": true
+        },
+        {
+          "name": "伊利股份",
+          "code": "600887",
+          "percent": 3.07,
+          "current_price": 40.68,
+          "change_percentage": 1.24,
+          "xq_symbol": "SH600887",
+          "xq_url": "https://xueqiu.com/S/SH600887",
+          "amarket": true
+        },
+        {
+          "name": "双林生物",
+          "code": "000403",
+          "percent": 3.03,
+          "current_price": 39.75,
+          "change_percentage": -1.8,
+          "xq_symbol": "SZ000403",
+          "xq_url": "https://xueqiu.com/S/SZ000403",
+          "amarket": true
+        },
+        {
+          "name": "中信证券",
+          "code": "600030",
+          "percent": 2.87,
+          "current_price": 30.01,
+          "change_percentage": 0,
+          "xq_symbol": "SH600030",
+          "xq_url": "https://xueqiu.com/S/SH600030",
+          "amarket": true
+        },
+        {
+          "name": "腾讯控股",
+          "code": "00700",
+          "percent": 2.86,
+          "xq_symbol": "00700",
+          "xq_url": "https://xueqiu.com/S/00700",
+          "amarket": false
+        },
+        {
+          "name": "比亚迪",
+          "code": "002594",
+          "percent": 2.78,
+          "current_price": 177.97,
+          "change_percentage": 1.53,
+          "xq_symbol": "SZ002594",
+          "xq_url": "https://xueqiu.com/S/SZ002594",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "000761",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.00"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.200"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.20"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.00"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "王晓宁",
+        "resume": "    王晓宁先生,中央财经大学学士学位。历任万家基金管理有限公司研究员、研究总监助理、基金经理助理,国海富兰克林基金管理有限公司行业研究主管,国富潜力组合股票基金、国富成长动力股票基金和国富策略回报混合基金的基金经理助理。截至本报告期末任国海富兰克林基金管理有限公司研究分析部副总经理,国富策略回报混合基金及国富健康优质生活股票基金的基金经理。",
+        "college": "中央财经大学",
+        "work_year": "16",
+        "achievement_list": [
+          {
+            "fund_code": "000761",
+            "fundsname": "国富健康优质生活股票",
+            "post_date": "2014-09-23",
+            "cp_rate": 87.65
+          },
+          {
+            "fund_code": "450010",
+            "fundsname": "国富策略回报混合",
+            "post_date": "2013-07-30",
+            "cp_rate": 149.7034
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "000761",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

@@ -1,0 +1,314 @@
+{
+  "data": {
+    "fund_company": "    中海基金管理有限公司(以下简称“中海基金”)成立于2004年3月18日,前身为国联基金管理有限公司。2006年7月,中国海洋石油总公司旗下中海信托股份有限公司入主成为中海基金第一大股东,公司相应更名为“中海基金管理有限公司”。公司现注册资本为1.47亿元人民币,各方股东持股比例为:中海信托股份有限公司41.591%、国联证券股份有限公司33.409%、法国爱德蒙得洛希尔银行股份有限公司25.000%。公司总部位于上海浦东陆家嘴金融圈,在北京设有分公司,并于2013年7月成立子公司——中海恒信资产管理(上海)有限公司。\n    中海基金旗下目前拥有包括不同类型、不同风格的数十只公募基金以及多款专户产品(“一对一”与“一对多”)在内的较为完善的产品线,涵盖了主动管理与被动管理、权益投资与固定收益投资等不同领域,在以能源及新能源为视角的主题投资、债券投资和量化投资方面已形成独有特色。公司先后服务机构与个人投资者300多万人(家),并获得投资者广泛好评。公司现有包括公募基金经理、专户投资经理及分析师在内的近40人的投资研究团队,通过扎实研究,努力为客户创造价值。\n    依托“世界500强”中国海洋石油总公司的产业资本支撑,以及洛希尔银行在资产管理方面的丰富经验,中海基金始终遵循诚实信用、勤勉尽责的原则来管理基金资产,经营稳健、运作规范。公司成立十余年来,从公司治理、风险控制、投资研究等多个方面得到快速提升,熔铸起了稳健的根基,成长为具有强大央企背景及丰富外资先进管理经验的基金管理公司,正在朝“受人尊敬的一流资产管理公司”的目标稳步迈进。",
+    "fund_position": {
+      "stock_percent": 87.68,
+      "bond_percent": 3.08,
+      "cash_percent": 9.02,
+      "other_percent": 0.22,
+      "asset_tot": 1301375304.6,
+      "asset_val": 1290396370.86,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "通策医疗",
+          "code": "600763",
+          "percent": 8.95,
+          "current_price": 233.45,
+          "change_percentage": 0.45,
+          "xq_symbol": "SH600763",
+          "xq_url": "https://xueqiu.com/S/SH600763",
+          "amarket": true
+        },
+        {
+          "name": "药明康德",
+          "code": "603259",
+          "percent": 6.9,
+          "current_price": 110.9,
+          "change_percentage": -0.12,
+          "xq_symbol": "SH603259",
+          "xq_url": "https://xueqiu.com/S/SH603259",
+          "amarket": true
+        },
+        {
+          "name": "迈瑞医疗",
+          "code": "300760",
+          "percent": 5.9,
+          "current_price": 351.9,
+          "change_percentage": 1.82,
+          "xq_symbol": "SZ300760",
+          "xq_url": "https://xueqiu.com/S/SZ300760",
+          "amarket": true
+        },
+        {
+          "name": "恒瑞医药",
+          "code": "600276",
+          "percent": 5.72,
+          "current_price": 90.07,
+          "change_percentage": 0.21,
+          "xq_symbol": "SH600276",
+          "xq_url": "https://xueqiu.com/S/SH600276",
+          "amarket": true
+        },
+        {
+          "name": "人福医药",
+          "code": "600079",
+          "percent": 4.99,
+          "current_price": 33.6,
+          "change_percentage": -0.88,
+          "xq_symbol": "SH600079",
+          "xq_url": "https://xueqiu.com/S/SH600079",
+          "amarket": true
+        },
+        {
+          "name": "长春高新",
+          "code": "000661",
+          "percent": 4.97,
+          "current_price": 388,
+          "change_percentage": 0.19,
+          "xq_symbol": "SZ000661",
+          "xq_url": "https://xueqiu.com/S/SZ000661",
+          "amarket": true
+        },
+        {
+          "name": "爱尔眼科",
+          "code": "300015",
+          "percent": 4.02,
+          "current_price": 66.63,
+          "change_percentage": -0.25,
+          "xq_symbol": "SZ300015",
+          "xq_url": "https://xueqiu.com/S/SZ300015",
+          "amarket": true
+        },
+        {
+          "name": "海尔生物",
+          "code": "688139",
+          "percent": 3.81,
+          "current_price": 71.34,
+          "change_percentage": -2.9,
+          "xq_symbol": "SH688139",
+          "xq_url": "https://xueqiu.com/S/SH688139",
+          "amarket": true
+        },
+        {
+          "name": "康泰生物",
+          "code": "300601",
+          "percent": 3.61,
+          "current_price": 158.41,
+          "change_percentage": -1.36,
+          "xq_symbol": "SZ300601",
+          "xq_url": "https://xueqiu.com/S/SZ300601",
+          "amarket": true
+        },
+        {
+          "name": "凯莱英",
+          "code": "002821",
+          "percent": 3.61,
+          "current_price": 274,
+          "change_percentage": 1.64,
+          "xq_symbol": "SZ002821",
+          "xq_url": "https://xueqiu.com/S/SZ002821",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "20国债01",
+          "code": "019627",
+          "percent": 2.36,
+          "xq_symbol": "019627",
+          "xq_url": "https://xueqiu.com/S/019627",
+          "amarket": false
+        },
+        {
+          "name": "20国债10",
+          "code": "019640",
+          "percent": 0.74,
+          "xq_symbol": "019640",
+          "xq_url": "https://xueqiu.com/S/019640",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "399011",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<300万",
+          "value": "1.00"
+        },
+        {
+          "name": "300万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<90天",
+          "value": "0.500"
+        },
+        {
+          "name": "3月≤持有期限<6月",
+          "value": "0.500"
+        },
+        {
+          "name": "6月≤持有期限<12月",
+          "value": "0.500"
+        },
+        {
+          "name": "12月≤持有期限<24月",
+          "value": "0.250"
+        },
+        {
+          "name": "24月≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "刘俊",
+        "resume": "    刘俊先生,复旦大学金融学专业博士。历任上海申银万国证券研究所有限公司策略研究部策略分析师、海通证券股份有限公司战略合作与并购部高级项目经理。2007年3月进入中海基金管理有限公司 工作,曾任产品开发总监,现任权益投资部权益投资副总监。2010年3月至2015年8月任中海稳健收益债券型证券投资基金基金经理,2015年4月至2017年6月任中海安鑫宝1号保本混合型证券投资基金基金经理,2012年6月至2019年4月任中海优势精选灵活配置混合型证券投资基金基金经理,2013年7月至今任中海信息产业精选混合型证券投资基金基金经理,2014年5月至今任中海积极收益灵活配置混合型证券投资基金基金经理,2015年12月至今任中海顺鑫灵活配置混合型证券投资基金基金经理,2017年4月至今任中海添顺定期开放混合型证券投资基金基金经理,2018年1月至今任中海添瑞定期开放混合型证券投资基金基金经理,2018年6月至今任中海环保新能源主题灵活配置混合型证券投资基金基金经理,2020年5月至今任中海医疗保健主题股票型证券投资基金基金经理。",
+        "college": "复旦大学",
+        "work_year": "13",
+        "achievement_list": [
+          {
+            "fund_code": "399011",
+            "fundsname": "中海医疗保健主题股票",
+            "post_date": "2020-05-30",
+            "cp_rate": 21.6098
+          },
+          {
+            "fund_code": "000166",
+            "fundsname": "中海信息产业精选混合",
+            "post_date": "2019-05-15",
+            "cp_rate": 61.2207
+          },
+          {
+            "fund_code": "398051",
+            "fundsname": "中海环保新能源混合",
+            "post_date": "2018-06-02",
+            "cp_rate": 98.6652
+          },
+          {
+            "fund_code": "005252",
+            "fundsname": "中海添瑞定期开放混合",
+            "post_date": "2018-01-19",
+            "cp_rate": 6.5193
+          },
+          {
+            "fund_code": "002213",
+            "fundsname": "中海顺鑫灵活配置混合",
+            "post_date": "2018-01-12",
+            "cp_rate": 82.8511
+          },
+          {
+            "fund_code": "000166",
+            "fundsname": "中海策略精选混合",
+            "post_date": "2017-09-16",
+            "resi_date": "2019-05-14",
+            "cp_rate": 2.3982
+          },
+          {
+            "fund_code": "004219",
+            "fundsname": "中海添顺定期开放混合",
+            "post_date": "2017-04-27",
+            "cp_rate": 8.11
+          },
+          {
+            "fund_code": "002213",
+            "fundsname": "中海顺鑫保本混合",
+            "post_date": "2015-12-30",
+            "resi_date": "2018-01-11",
+            "cp_rate": 3.2
+          },
+          {
+            "fund_code": "393001",
+            "fundsname": "中海优势精选灵活配置混合",
+            "post_date": "2015-07-01",
+            "resi_date": "2019-04-27",
+            "cp_rate": -19.4915
+          },
+          {
+            "fund_code": "001155",
+            "fundsname": "中海安鑫宝1号保本混合",
+            "post_date": "2015-04-03",
+            "resi_date": "2017-04-05",
+            "cp_rate": 2.6
+          },
+          {
+            "fund_code": "000597",
+            "fundsname": "中海积极收益灵活配置混合",
+            "post_date": "2014-05-26",
+            "cp_rate": 67.93
+          },
+          {
+            "fund_code": "000166",
+            "fundsname": "中海安鑫保本混合",
+            "post_date": "2013-07-31",
+            "resi_date": "2017-09-15",
+            "cp_rate": 42.14
+          },
+          {
+            "fund_code": "393001",
+            "fundsname": "中海保本混合",
+            "post_date": "2012-06-20",
+            "resi_date": "2015-06-30",
+            "cp_rate": 48.89
+          },
+          {
+            "fund_code": "395001",
+            "fundsname": "中海稳健收益债券",
+            "post_date": "2010-03-03",
+            "resi_date": "2015-08-21",
+            "cp_rate": 42.0978
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "399011",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 2,
+      "all_buy_days": 2,
+      "all_sale_days": 3
+    }
+  },
+  "result_code": 0
+}

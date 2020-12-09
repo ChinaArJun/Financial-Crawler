@@ -1,0 +1,244 @@
+{
+  "data": {
+    "fund_company": "    长城基金管理有限公司成立于2001年12月27日,由长城证券有限责任公司、东方证券股份有限公司、北方国际信托股份有限公司、中原信托有限公司共同出资设立。公司的经营范围为基金募集、基金销售、资产管理和中国证监会许可的其他业务。\n    长城基金管理有限公司一直秉承“诚信、规范、专业、创新”的经营理念,坚持基金持有人利益至上的经营原则,凭借完善的公司治理结构、严格的风险控制、规范的业务流程、高效专业的员工团队、开放与学习的文化氛围,努力打造一流的基金管理公司品牌,竭诚为客户提供优质的投资理财产品和服务。\n    产品线介绍\n    截至2016年8月,长城基金管理有限公司一共管理基金38只。基金产品类别涵盖货币型、债券型、混合型以及指数型基金,形成覆盖低、中、高各类风险收益特征的较为完善的产品线。",
+    "fund_position": {
+      "stock_percent": 86.56,
+      "cash_percent": 13.32,
+      "other_percent": 0.12,
+      "asset_tot": 1032671581.39,
+      "asset_val": 1026299652.1,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 3.47,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 3.3,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 3.13,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "良信股份",
+          "code": "002706",
+          "percent": 2.96,
+          "current_price": 25.8,
+          "change_percentage": 0.74,
+          "xq_symbol": "SZ002706",
+          "xq_url": "https://xueqiu.com/S/SZ002706",
+          "amarket": true
+        },
+        {
+          "name": "汇川技术",
+          "code": "300124",
+          "percent": 2.76,
+          "current_price": 85.58,
+          "change_percentage": 1.04,
+          "xq_symbol": "SZ300124",
+          "xq_url": "https://xueqiu.com/S/SZ300124",
+          "amarket": true
+        },
+        {
+          "name": "三角防务",
+          "code": "300775",
+          "percent": 2.75,
+          "current_price": 34.39,
+          "change_percentage": 4.21,
+          "xq_symbol": "SZ300775",
+          "xq_url": "https://xueqiu.com/S/SZ300775",
+          "amarket": true
+        },
+        {
+          "name": "福斯特",
+          "code": "603806",
+          "percent": 2.75,
+          "current_price": 73.08,
+          "change_percentage": 2.21,
+          "xq_symbol": "SH603806",
+          "xq_url": "https://xueqiu.com/S/SH603806",
+          "amarket": true
+        },
+        {
+          "name": "迈瑞医疗",
+          "code": "300760",
+          "percent": 2.59,
+          "current_price": 351.9,
+          "change_percentage": 1.82,
+          "xq_symbol": "SZ300760",
+          "xq_url": "https://xueqiu.com/S/SZ300760",
+          "amarket": true
+        },
+        {
+          "name": "恒立液压",
+          "code": "601100",
+          "percent": 2.55,
+          "current_price": 96.79,
+          "change_percentage": -1.59,
+          "xq_symbol": "SH601100",
+          "xq_url": "https://xueqiu.com/S/SH601100",
+          "amarket": true
+        },
+        {
+          "name": "分众传媒",
+          "code": "002027",
+          "percent": 2.52,
+          "current_price": 10.36,
+          "change_percentage": 0.58,
+          "xq_symbol": "SZ002027",
+          "xq_url": "https://xueqiu.com/S/SZ002027",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "200012",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<200万",
+          "value": "1.00"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.50"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "1天≤持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "365天≤持有期限<730天",
+          "value": "0.250"
+        },
+        {
+          "name": "730天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "何以广",
+        "resume": "    何以广先生,清华大学核工程与核技术学士、清华大学核科学与技术连读博士,特许金融分析师(CFA)。2011年进入长城基金管理有限公司,曾任行业研究员、“长城消费增值股票型证券投资基金”基金经理助理,现任研究部总经理。自2015年5月至2016年7月任“长城优化升级混合型证券投资基金”基金经理,自2016年9月至2018年12月任“长城久富核心成长混合型证券投资基金(LOF)”基金经理,自2017年8月至2018年12月任“长城环保主题灵活配置混合型证券投资基金”基金经理。自2015年6月至今任“长城中小盘成长混合型证券投资基金”基金经理,自2017年3月至今任“长城安心回报混合型证券投资基金”基金经理,自2018年6月至今任“长城智能产业灵活配置混合型证券投资基金”基金经理,自2019年8月至今任“长城研究精选混合型证券投资基金”基金经理。",
+        "college": "清华大学",
+        "work_year": "9",
+        "achievement_list": [
+          {
+            "fund_code": "010602",
+            "fundsname": "长城均衡优选混合",
+            "post_date": "2020-12-01",
+            "cp_rate": 0.06
+          },
+          {
+            "fund_code": "006769",
+            "fundsname": "长城研究精选混合",
+            "post_date": "2019-08-14",
+            "cp_rate": 77.76
+          },
+          {
+            "fund_code": "005738",
+            "fundsname": "长城智能产业混合",
+            "post_date": "2018-06-08",
+            "cp_rate": 123.38
+          },
+          {
+            "fund_code": "000977",
+            "fundsname": "长城环保主题灵活配置混合",
+            "post_date": "2017-08-18",
+            "resi_date": "2018-12-07",
+            "cp_rate": -18.0203
+          },
+          {
+            "fund_code": "200007",
+            "fundsname": "长城安心回报",
+            "post_date": "2017-03-16",
+            "cp_rate": 86.4016
+          },
+          {
+            "fund_code": "162006",
+            "fundsname": "长城久富核心成长混合(LOF)",
+            "post_date": "2016-09-06",
+            "resi_date": "2018-12-28",
+            "cp_rate": -7.5735
+          },
+          {
+            "fund_code": "200012",
+            "fundsname": "长城中小盘成长混合",
+            "post_date": "2015-06-04",
+            "cp_rate": 85.9175
+          },
+          {
+            "fund_code": "200015",
+            "fundsname": "长城优化升级混合",
+            "post_date": "2015-05-26",
+            "resi_date": "2016-07-27",
+            "cp_rate": -16.0735
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "200012",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "fund_company": "    华泰柏瑞基金2004年11月18日成立于上海,是一家中外合资基金管理公司,公司股东为华泰证券股份有限公司、柏瑞投资有限责任公司、苏州新区高新技术产业股份有限公司。\n    华泰证券:华泰证券股份有限公司是一家中国领先的综合性证券集团,具有庞大的客户基础、领先的互联网平台和敏捷协同的全业务链体系。\n    华泰证券于1991年5月成立。2010年2月26日,公司A股在上海证券交易所挂牌上市交易,股票代码601688。2015年6月1日,公司H股在香港联合交易所有限公司挂牌上市交易,股票代码6886。 在20多年的发展历程中,公司抓住了中国资本市场及证券业变革创新的历史机遇,实现了快速成长,主要财务指标和业务指标均位居国内证券行业前列。\n    柏瑞投资:2009年9月5日,美国国际集团(AIG)为出售部分投资顾问及资产管理业务予Bridge Partners,L.P.签订协议。AIG友邦投资更名为柏瑞投资(PineBridge Investments),成为一独立经营的资产管理公司。柏瑞柏瑞长期扎根于纽约金融中心Pine Street,传承历史经验与丰富资产,迈向独立经营的新里程。\n    苏州高新:苏州新区高新技术产业股份有限公司(股票简称:苏州高新;证券代码:600736)成立于1994年6月,1996年7月在上海证券交易所挂牌上市,2009年6月公司进入上交所\"上证180指数\"。公司主营业务为房地产开发,同时还从事高新技术产品的投资、开发和生产;能源、交通、通讯等基础产业的市政基础设施的投资、工程设计、施工、科技咨询服务等。经过二十多年的不懈努力、开拓发展,目前,公司拥有10家控股企业、10家参股企业。\n    公司拥丰富的公募基金产品,多只专户和QFII投顾账户产品线已覆盖ETF、主动量化、主动股票、混合、QDII、债券、货币等类型,能满足投资者的不同需求截至2016年12月31日,华泰柏瑞旗下管理着52只投资风格鲜明的公募基金,产品线覆盖ETF、主动股票型基金、混合型基金、债券型基金、货币市场基金和QDII基金,并拥有多只专户产品,是超过两百万客户的共同选择。",
+    "fund_position": {
+      "stock_percent": 81.03,
+      "cash_percent": 18.22,
+      "other_percent": 0.75,
+      "asset_tot": 268781512.02,
+      "asset_val": 261561781.92,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "宝信软件",
+          "code": "600845",
+          "percent": 7.93,
+          "current_price": 64.06,
+          "change_percentage": 0.13,
+          "xq_symbol": "SH600845",
+          "xq_url": "https://xueqiu.com/S/SH600845",
+          "amarket": true
+        },
+        {
+          "name": "恒生电子",
+          "code": "600570",
+          "percent": 7.49,
+          "current_price": 98.15,
+          "change_percentage": 1.31,
+          "xq_symbol": "SH600570",
+          "xq_url": "https://xueqiu.com/S/SH600570",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 5.86,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "广联达",
+          "code": "002410",
+          "percent": 5.58,
+          "current_price": 70.77,
+          "change_percentage": 2.08,
+          "xq_symbol": "SZ002410",
+          "xq_url": "https://xueqiu.com/S/SZ002410",
+          "amarket": true
+        },
+        {
+          "name": "福斯特",
+          "code": "603806",
+          "percent": 5.31,
+          "current_price": 73.08,
+          "change_percentage": 2.21,
+          "xq_symbol": "SH603806",
+          "xq_url": "https://xueqiu.com/S/SH603806",
+          "amarket": true
+        },
+        {
+          "name": "移远通信",
+          "code": "603236",
+          "percent": 4.95,
+          "current_price": 187.11,
+          "change_percentage": -1.26,
+          "xq_symbol": "SH603236",
+          "xq_url": "https://xueqiu.com/S/SH603236",
+          "amarket": true
+        },
+        {
+          "name": "中科创达",
+          "code": "300496",
+          "percent": 4.75,
+          "current_price": 98.5,
+          "change_percentage": 0.92,
+          "xq_symbol": "SZ300496",
+          "xq_url": "https://xueqiu.com/S/SZ300496",
+          "amarket": true
+        },
+        {
+          "name": "用友网络",
+          "code": "600588",
+          "percent": 4.01,
+          "current_price": 46.29,
+          "change_percentage": 0.67,
+          "xq_symbol": "SH600588",
+          "xq_url": "https://xueqiu.com/S/SH600588",
+          "amarket": true
+        },
+        {
+          "name": "海康威视",
+          "code": "002415",
+          "percent": 3.95,
+          "current_price": 44.28,
+          "change_percentage": -1.16,
+          "xq_symbol": "SZ002415",
+          "xq_url": "https://xueqiu.com/S/SZ002415",
+          "amarket": true
+        },
+        {
+          "name": "深信服",
+          "code": "300454",
+          "percent": 3.93,
+          "current_price": 217.55,
+          "change_percentage": 3.2,
+          "xq_symbol": "SZ300454",
+          "xq_url": "https://xueqiu.com/S/SZ300454",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "001097",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<300万",
+          "value": "1.00"
+        },
+        {
+          "name": "300万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "365天≤持有期限<730天",
+          "value": "0.250"
+        },
+        {
+          "name": "730天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "杜聪",
+        "resume": "    曾任大成基金管理有限公司研究员。 2016 年 7 月加入华泰柏瑞基金管理有限公司,历任投资研究部研究员、高级研究员、高级研究员兼基金经理助理。 2020 年 8 月起任华泰柏瑞积极优选股票型证券投资基金的基金经理。",
+        "achievement_list": [
+          {
+            "fund_code": "001097",
+            "fundsname": "华泰柏瑞积极优选股票",
+            "post_date": "2020-08-26",
+            "cp_rate": 0.8314
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "001097",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

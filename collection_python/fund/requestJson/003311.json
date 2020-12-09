@@ -1,0 +1,155 @@
+{
+  "data": {
+    "fund_company": "    摩根士丹利华鑫基金管理有限公司于2008年6月12日完成工商注册变更登记,是一家中外合资基金管理公司(公司前身为2003年3月14日成立的巨田基金管理有限公司),公司注册资本2.275亿元人民币,注册地为深圳市。公司总部现处深圳,另在北京、上海设有分公司。\n    “聚环球睿智,成人生梦想”。作为一家合资基金公司,摩根士丹利华鑫基金既受益于外方股东摩根士丹利的国际化视野,又吸收了中方股东华鑫证券的本土投资智慧。在中外股东的共同支持下,摩根士丹利华鑫基金致力于成为国内一流的资产管理公司,立足于中国市场的现实,借助国际化的优势,努力塑造“和谐、规范、透明、进取”的企业文化,以良好的投资业绩及专业的服务和投资人一起成就梦想。\n    目前,公司已成功为投资者提供包括主动投资、被动投资、量化投资、固定收益投资、特定资产管理等在内的多元资产管理服务,力求全面满足投资人的财富管理需求。",
+    "fund_position": {
+      "stock_percent": 92.91,
+      "bond_percent": 0.1,
+      "cash_percent": 6.83,
+      "other_percent": 0.16,
+      "asset_tot": 37261177.12,
+      "asset_val": 36633551.37,
+      "source_mark": "第一季度报",
+      "source": "1",
+      "enddate": "2018-03-31",
+      "stock_list": [
+        {
+          "name": "中国平安",
+          "code": "601318",
+          "percent": 5.53,
+          "current_price": 88.05,
+          "change_percentage": -2.58,
+          "xq_symbol": "SH601318",
+          "xq_url": "https://xueqiu.com/S/SH601318",
+          "amarket": true
+        },
+        {
+          "name": "招商银行",
+          "code": "600036",
+          "percent": 3.45,
+          "current_price": 44.26,
+          "change_percentage": -0.36,
+          "xq_symbol": "SH600036",
+          "xq_url": "https://xueqiu.com/S/SH600036",
+          "amarket": true
+        },
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 3.36,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "美的集团",
+          "code": "000333",
+          "percent": 2.32,
+          "current_price": 86.7,
+          "change_percentage": -1.54,
+          "xq_symbol": "SZ000333",
+          "xq_url": "https://xueqiu.com/S/SZ000333",
+          "amarket": true
+        },
+        {
+          "name": "农业银行",
+          "code": "601288",
+          "percent": 2.22,
+          "current_price": 3.22,
+          "change_percentage": -0.62,
+          "xq_symbol": "SH601288",
+          "xq_url": "https://xueqiu.com/S/SH601288",
+          "amarket": true
+        },
+        {
+          "name": "北京银行",
+          "code": "601169",
+          "percent": 2.04,
+          "current_price": 4.94,
+          "change_percentage": -0.4,
+          "xq_symbol": "SH601169",
+          "xq_url": "https://xueqiu.com/S/SH601169",
+          "amarket": true
+        },
+        {
+          "name": "双汇发展",
+          "code": "000895",
+          "percent": 2.02,
+          "current_price": 48.4,
+          "change_percentage": 1.4,
+          "xq_symbol": "SZ000895",
+          "xq_url": "https://xueqiu.com/S/SZ000895",
+          "amarket": true
+        },
+        {
+          "name": "中国银行",
+          "code": "601988",
+          "percent": 1.94,
+          "current_price": 3.24,
+          "change_percentage": -0.31,
+          "xq_symbol": "SH601988",
+          "xq_url": "https://xueqiu.com/S/SH601988",
+          "amarket": true
+        },
+        {
+          "name": "中信银行",
+          "code": "601998",
+          "percent": 1.72,
+          "current_price": 5.13,
+          "change_percentage": -0.39,
+          "xq_symbol": "SH601998",
+          "xq_url": "https://xueqiu.com/S/SH601998",
+          "amarket": true
+        },
+        {
+          "name": "贵阳银行",
+          "code": "601997",
+          "percent": 1.68,
+          "current_price": 8.07,
+          "change_percentage": -1.1,
+          "xq_symbol": "SH601997",
+          "xq_url": "https://xueqiu.com/S/SH601997",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "宁行转债",
+          "code": "128024",
+          "percent": 0.07,
+          "xq_symbol": "128024",
+          "xq_url": "https://xueqiu.com/S/128024",
+          "amarket": false
+        },
+        {
+          "name": "小康转债",
+          "code": "113016",
+          "percent": 0.02,
+          "xq_symbol": "113016",
+          "xq_url": "https://xueqiu.com/S/113016",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "003311",
+      "subscribe_rate": "0",
+      "declare_rate": "0",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1"
+    },
+    "manager_list": [],
+    "fund_date_conf": {
+      "fd_code": "003311",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

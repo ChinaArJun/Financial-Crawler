@@ -1,0 +1,255 @@
+{
+  "data": {
+    "fund_company": "    长盛基金管理有限公司(以下简称“长盛基金”或“公司”)成立于1999年3月26日,是国内最早成立的十家基金管理公司之一,也是首批获得全国社保基金管理资格的基金管理公司。公司注册资本为人民币1.89亿元,总部位于北京,在北京、上海、成都设有分公司,在深圳设有营销中心,并拥有长盛基金(香港)有限公司、长盛创富资产管理有限公司两家全资子公司。公司的股东为国元证券股份有限公司、新加坡星展银行有限公司、安徽省信用担保集团有限公司、安徽省投资集团控股有限公司。公司的经营范围包括基金募集、基金销售、资产管理及中国证监会许可的其他业务,是一家为客户提供专业投资理财服务的资产管理机构。\n    长盛基金大股东国元证券股份有限公司植根安徽,面向全国,拥有深厚的徽商文化底蕴,是一家业务资质全面、资产质量优良、综合实力较强的上市证券服务商。外资股东星展银行的加入,有利于提升公司管理水平,增强公司海外视野及业务优势。\n    经过多年布局,公司已经建立起齐全的产品线,业务涉及公募基金、社保基金、专户理财、国际业务(QDII、QFII)等领域,产品涵盖股票、股票混合、债券、指数、货币、QDII、保本等各种类型和风险属性,形成多元化、互补的业务结构。\n    作为一家致力于为客户提供专业投资理财服务的资产管理机构,长盛基金以“专业理财 造福百姓”为企业使命,始终坚持以基金持有人利益的最大化为最高追求目标,结合公募基金及受托管理社保基金委托组合的丰富经验,注重投资研究,强化风险控制,专注于以优秀的投资管理能力和创新能力为投资者创造投资回报,为客户创造持续稳健的收益,自成立以来累计分红近二百五十亿元。\n    成立17年来,长盛基金载誉无数。在2015年的基金业三大权威评选中,长盛基金包揽了全部奖项的顶级公司大奖——十大金牛基金管理公司奖、2014年度明星基金公司奖和金基金·TOP公司大奖;2015年蝉联“金牛基金公司”大奖,连续两年问鼎金牛基金公司大奖。根据海通证券发布的《2016年第2季度基金公司权益及固定收益类资产业绩排行榜》,长盛基金最近三年的长期投资业绩非常优异,近三年以113.55%的净值增长率,在69家可比基金公司中位居第5名,基金管理的“长跑者”形象不断提升,市场美誉度和品牌影响力进一步扩大。\n    经过多年的发展与沉淀,公司企业文化建设得到不断加强,团结友爱、积极向上、独具特色的长盛“家”文化业已形成。此外,公司还认真践行社会责任,组织开展了多项公益行活动,积极投身社会公益事业,用实际行动回报社会,奉献爱心。",
+    "fund_position": {
+      "stock_percent": 62.44,
+      "cash_percent": 7.82,
+      "other_percent": 29.74,
+      "asset_tot": 1135786755.27,
+      "asset_val": 1132875494.03,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "智飞生物",
+          "code": "300122",
+          "percent": 2.52,
+          "current_price": 139.38,
+          "change_percentage": -0.39,
+          "xq_symbol": "SZ300122",
+          "xq_url": "https://xueqiu.com/S/SZ300122",
+          "amarket": true
+        },
+        {
+          "name": "康泰生物",
+          "code": "300601",
+          "percent": 2.45,
+          "current_price": 158.41,
+          "change_percentage": -1.36,
+          "xq_symbol": "SZ300601",
+          "xq_url": "https://xueqiu.com/S/SZ300601",
+          "amarket": true
+        },
+        {
+          "name": "绝味食品",
+          "code": "603517",
+          "percent": 2.15,
+          "current_price": 75.39,
+          "change_percentage": -0.63,
+          "xq_symbol": "SH603517",
+          "xq_url": "https://xueqiu.com/S/SH603517",
+          "amarket": true
+        },
+        {
+          "name": "金山办公",
+          "code": "688111",
+          "percent": 2.05,
+          "current_price": 349.5,
+          "change_percentage": -2.75,
+          "xq_symbol": "SH688111",
+          "xq_url": "https://xueqiu.com/S/SH688111",
+          "amarket": true
+        },
+        {
+          "name": "新宝股份",
+          "code": "002705",
+          "percent": 2.01,
+          "current_price": 41.98,
+          "change_percentage": 0.19,
+          "xq_symbol": "SZ002705",
+          "xq_url": "https://xueqiu.com/S/SZ002705",
+          "amarket": true
+        },
+        {
+          "name": "沃森生物",
+          "code": "300142",
+          "percent": 2,
+          "current_price": 36.67,
+          "change_percentage": 0.38,
+          "xq_symbol": "SZ300142",
+          "xq_url": "https://xueqiu.com/S/SZ300142",
+          "amarket": true
+        },
+        {
+          "name": "小熊电器",
+          "code": "002959",
+          "percent": 1.99,
+          "current_price": 109.12,
+          "change_percentage": 0.05,
+          "xq_symbol": "SZ002959",
+          "xq_url": "https://xueqiu.com/S/SZ002959",
+          "amarket": true
+        },
+        {
+          "name": "通策医疗",
+          "code": "600763",
+          "percent": 1.96,
+          "current_price": 233.45,
+          "change_percentage": 0.45,
+          "xq_symbol": "SH600763",
+          "xq_url": "https://xueqiu.com/S/SH600763",
+          "amarket": true
+        },
+        {
+          "name": "长春高新",
+          "code": "000661",
+          "percent": 1.91,
+          "current_price": 388,
+          "change_percentage": 0.19,
+          "xq_symbol": "SZ000661",
+          "xq_url": "https://xueqiu.com/S/SZ000661",
+          "amarket": true
+        },
+        {
+          "name": "华兰生物",
+          "code": "002007",
+          "percent": 1.86,
+          "current_price": 43.73,
+          "change_percentage": -3.19,
+          "xq_symbol": "SZ002007",
+          "xq_url": "https://xueqiu.com/S/SZ002007",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "008412",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.00"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.50"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "周思聪",
+        "resume": "    周思聪女士:硕士学位。2008年7月加入银华基金管理有限公司,历任行业研究员、行业研究组长及基金经理助理职务。自2014年1月13日起担任银华消费主题分级混合型证券投资基金基金经理,自2016年11月17日起兼任银华体育文化灵活配置混合型证券投资基金基金经理,自2017年9月28日起兼任银华智荟内在价值灵活配置混合型发起式证券投资基金基金经理。2018年10月加入长盛基金管理有限公司,自2019年3月22日起任长盛养老健康产业灵活配置混合型证券投资基金基金经理,自2019年5月22日起兼任长盛医疗行业量化配置股票型证券投资基金基金经理。",
+        "work_year": "12",
+        "achievement_list": [
+          {
+            "fund_code": "008412",
+            "fundsname": "长盛竞争优势股票A",
+            "post_date": "2020-07-23",
+            "cp_rate": -0.45
+          },
+          {
+            "fund_code": "008413",
+            "fundsname": "长盛竞争优势股票C",
+            "post_date": "2020-07-23",
+            "cp_rate": -0.75
+          },
+          {
+            "fund_code": "002300",
+            "fundsname": "长盛医疗行业量化配置股票",
+            "post_date": "2019-05-22",
+            "cp_rate": 111.3101
+          },
+          {
+            "fund_code": "000684",
+            "fundsname": "长盛养老健康产业灵活配置混合",
+            "post_date": "2019-03-22",
+            "cp_rate": 72.8493
+          },
+          {
+            "fund_code": "005119",
+            "fundsname": "银华智荟内在价值灵活配置混合发起式",
+            "post_date": "2017-09-28",
+            "resi_date": "2018-10-23",
+            "cp_rate": -33.61
+          },
+          {
+            "fund_code": "003397",
+            "fundsname": "银华体育文化灵活配置混合",
+            "post_date": "2016-11-17",
+            "resi_date": "2018-10-23",
+            "cp_rate": -14
+          },
+          {
+            "fund_code": "161818",
+            "fundsname": "银华消费分级混合",
+            "post_date": "2014-01-13",
+            "resi_date": "2018-10-23",
+            "cp_rate": -28.967
+          },
+          {
+            "fund_code": "150047",
+            "fundsname": "银华消费分级混合A",
+            "post_date": "2014-01-13",
+            "resi_date": "2018-10-23",
+            "cp_rate": 32.4449
+          },
+          {
+            "fund_code": "150048",
+            "fundsname": "银华消费分级混合B",
+            "post_date": "2014-01-13",
+            "resi_date": "2018-10-23",
+            "cp_rate": -39.4488
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "008412",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

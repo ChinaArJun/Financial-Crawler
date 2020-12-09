@@ -1,0 +1,221 @@
+{
+  "data": {
+    "fund_company": "    嘉实基金管理有限公司成立于1999年3月,是国内最早成立的十家基金管理公司之一。十七年来,嘉实基金坚持合规经营,秉承“远见者稳进”理念,至今已发展形成涵盖公募基金、机构投资、养老金业务、海外投资、私募股权投资、财富管理等“全牌照”业务,联动一、二级市场投资的金融服务全产业链。截至2016年末,嘉实基金实现各类资产管理规模超9500亿元人民币,连续十年位居行业前列,为逾五千万投资者提供专业、高效的理财服务。\n    发展中的嘉实基金以“助力产业腾飞,服务财富增长”为核心使命,以普惠金融为理念,创造一流的产品和服务,力争实现客户、员工和公司长期共赢发展,致力于使嘉实成为中国领先、具有国际竞争力的资产管理集团。\n    以资产管理为核心的嘉实基金,业内首创“全天候、多策略”的投研模式,已建立超过20个投资策略组,构建丰富的产品线,为投资者创造优秀稳定的回报,屡获行业殊荣。十余年来,嘉实不断获得社保追加的委托管理资产,被包括数十家中央企业在内的300余家企业选定为企业年金投资管理人,为超过800万职工提供企业年金服务。\n    嘉实坚持国际化战略,自2009年建立香港子公司至今连续数年保持了在港中资资产管理机构的领先地位。2012年起嘉实推出海外ETF 业务,已经先后完成国内的指数在香港市场、纽约和伦敦挂牌上市。2015年,嘉实分别在伦敦与纽约注册成立分公司,进一步拓展国际市场。\n    2014年嘉实推进集团化发展,在二级市场投资中所建立的主动管理投资能力,逐步向更广泛的投资领域拓展,投资涵盖VC、PE、PIPE、新三板投资、并购投资等,并围绕优质标的积极进行产业的上下游布局,构建完整金融产业链。\n    嘉实基金始终以“创造财富增值,服务未来生活”为使命,以普惠金融为理念,创造优质产品和服务,力争实现客户、员工和公司长期共赢发展,从而使嘉实成为具有国际竞争力的综合金融集团。",
+    "fund_position": {
+      "stock_percent": 91.18,
+      "cash_percent": 7.78,
+      "other_percent": 1.04,
+      "asset_tot": 2727768668.15,
+      "asset_val": 2706865850.3,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 9.47,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 7.54,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "泸州老窖",
+          "code": "000568",
+          "percent": 6.1,
+          "current_price": 191.85,
+          "change_percentage": 0.56,
+          "xq_symbol": "SZ000568",
+          "xq_url": "https://xueqiu.com/S/SZ000568",
+          "amarket": true
+        },
+        {
+          "name": "腾讯控股",
+          "code": "00700",
+          "percent": 5.98,
+          "xq_symbol": "00700",
+          "xq_url": "https://xueqiu.com/S/00700",
+          "amarket": false
+        },
+        {
+          "name": "盈趣科技",
+          "code": "002925",
+          "percent": 5.38,
+          "current_price": 63.82,
+          "change_percentage": 0.22,
+          "xq_symbol": "SZ002925",
+          "xq_url": "https://xueqiu.com/S/SZ002925",
+          "amarket": true
+        },
+        {
+          "name": "紫金矿业",
+          "code": "02899",
+          "percent": 5.04,
+          "xq_symbol": "02899",
+          "xq_url": "https://xueqiu.com/S/02899",
+          "amarket": false
+        },
+        {
+          "name": "万洲国际",
+          "code": "00288",
+          "percent": 4.03,
+          "xq_symbol": "00288",
+          "xq_url": "https://xueqiu.com/S/00288",
+          "amarket": false
+        },
+        {
+          "name": "比亚迪电子",
+          "code": "00285",
+          "percent": 3.79,
+          "xq_symbol": "00285",
+          "xq_url": "https://xueqiu.com/S/00285",
+          "amarket": false
+        },
+        {
+          "name": "舜宇光学科技",
+          "code": "02382",
+          "percent": 3.75,
+          "xq_symbol": "02382",
+          "xq_url": "https://xueqiu.com/S/02382",
+          "amarket": false
+        },
+        {
+          "name": "长城汽车",
+          "code": "02333",
+          "percent": 3.19,
+          "xq_symbol": "02333",
+          "xq_url": "https://xueqiu.com/S/02333",
+          "amarket": false
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "001878",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.00"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "365天≤持有期限<730天",
+          "value": "0.250"
+        },
+        {
+          "name": "730天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "张金涛",
+        "resume": "    张金涛先生,硕士研究生,17年证券从业经历,具有基金从业资格。曾任中金公司研究部能源组组长。润晖投资高级副总裁,负责能源和原材料等行业的研究和投资。2012年10月加入嘉实基金,现任海外研究组组长,负责海外投资策略以及能源原材料行业研究。2017年1月12日至2019年4月12日任嘉实稳盛债券型证券投资基金基金经理。2016年5月27日至今任嘉实沪港深精选股票型证券投资基金基金经理、2017年3月29日至今任嘉实沪港深回报混合型证券投资基金基金经理、2018年8月3日至今任嘉实瑞享定期开放灵活配置混合型证券投资基金基金经理。",
+        "work_year": "16",
+        "achievement_list": [
+          {
+            "fund_code": "009138",
+            "fundsname": "嘉实瑞成两年持有期混合A",
+            "post_date": "2020-05-14",
+            "cp_rate": 34.97
+          },
+          {
+            "fund_code": "009139",
+            "fundsname": "嘉实瑞成两年持有期混合C",
+            "post_date": "2020-05-14",
+            "cp_rate": 34.67
+          },
+          {
+            "fund_code": "160726",
+            "fundsname": "嘉实瑞享定期开放灵活配置混合",
+            "post_date": "2018-08-03",
+            "cp_rate": 98.26
+          },
+          {
+            "fund_code": "004477",
+            "fundsname": "嘉实沪港深回报混合",
+            "post_date": "2017-03-29",
+            "cp_rate": 103.23
+          },
+          {
+            "fund_code": "002749",
+            "fundsname": "嘉实稳盛债券",
+            "post_date": "2017-01-12",
+            "resi_date": "2019-04-12",
+            "cp_rate": 10.1747
+          },
+          {
+            "fund_code": "001878",
+            "fundsname": "嘉实沪港深精选股票",
+            "post_date": "2016-05-27",
+            "cp_rate": 120.9
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "001878",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

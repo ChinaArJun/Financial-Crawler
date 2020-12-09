@@ -1,0 +1,137 @@
+{
+  "data": {
+    "fund_company": "    摩根士丹利华鑫基金管理有限公司于2008年6月12日完成工商注册变更登记,是一家中外合资基金管理公司(公司前身为2003年3月14日成立的巨田基金管理有限公司),公司注册资本2.275亿元人民币,注册地为深圳市。公司总部现处深圳,另在北京、上海设有分公司。\n    “聚环球睿智,成人生梦想”。作为一家合资基金公司,摩根士丹利华鑫基金既受益于外方股东摩根士丹利的国际化视野,又吸收了中方股东华鑫证券的本土投资智慧。在中外股东的共同支持下,摩根士丹利华鑫基金致力于成为国内一流的资产管理公司,立足于中国市场的现实,借助国际化的优势,努力塑造“和谐、规范、透明、进取”的企业文化,以良好的投资业绩及专业的服务和投资人一起成就梦想。\n    目前,公司已成功为投资者提供包括主动投资、被动投资、量化投资、固定收益投资、特定资产管理等在内的多元资产管理服务,力求全面满足投资人的财富管理需求。",
+    "fund_position": {
+      "stock_percent": 93.06,
+      "cash_percent": 6.87,
+      "other_percent": 0.07,
+      "asset_tot": 27725332.21,
+      "asset_val": 27299995.41,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "凯莱英",
+          "code": "002821",
+          "percent": 2.41,
+          "current_price": 274,
+          "change_percentage": 1.64,
+          "xq_symbol": "SZ002821",
+          "xq_url": "https://xueqiu.com/S/SZ002821",
+          "amarket": true
+        },
+        {
+          "name": "宝信软件",
+          "code": "600845",
+          "percent": 2.07,
+          "current_price": 64.06,
+          "change_percentage": 0.13,
+          "xq_symbol": "SH600845",
+          "xq_url": "https://xueqiu.com/S/SH600845",
+          "amarket": true
+        },
+        {
+          "name": "吉比特",
+          "code": "603444",
+          "percent": 2.05,
+          "current_price": 410.3,
+          "change_percentage": 2.32,
+          "xq_symbol": "SH603444",
+          "xq_url": "https://xueqiu.com/S/SH603444",
+          "amarket": true
+        },
+        {
+          "name": "天赐材料",
+          "code": "002709",
+          "percent": 1.61,
+          "current_price": 84.25,
+          "change_percentage": 10,
+          "xq_symbol": "SZ002709",
+          "xq_url": "https://xueqiu.com/S/SZ002709",
+          "amarket": true
+        },
+        {
+          "name": "宁德时代",
+          "code": "300750",
+          "percent": 1.46,
+          "current_price": 266.03,
+          "change_percentage": 1.75,
+          "xq_symbol": "SZ300750",
+          "xq_url": "https://xueqiu.com/S/SZ300750",
+          "amarket": true
+        },
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 1.43,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "华海药业",
+          "code": "600521",
+          "percent": 1.41,
+          "current_price": 35.36,
+          "change_percentage": 2.26,
+          "xq_symbol": "SH600521",
+          "xq_url": "https://xueqiu.com/S/SH600521",
+          "amarket": true
+        },
+        {
+          "name": "中航高科",
+          "code": "600862",
+          "percent": 1.41,
+          "current_price": 25.12,
+          "change_percentage": -1.49,
+          "xq_symbol": "SH600862",
+          "xq_url": "https://xueqiu.com/S/SH600862",
+          "amarket": true
+        },
+        {
+          "name": "福莱特",
+          "code": "601865",
+          "percent": 1.38,
+          "current_price": 32.18,
+          "change_percentage": 2.13,
+          "xq_symbol": "SH601865",
+          "xq_url": "https://xueqiu.com/S/SH601865",
+          "amarket": true
+        },
+        {
+          "name": "三棵树",
+          "code": "603737",
+          "percent": 1.35,
+          "current_price": 142.39,
+          "change_percentage": -2.11,
+          "xq_symbol": "SH603737",
+          "xq_url": "https://xueqiu.com/S/SH603737",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "003312",
+      "subscribe_rate": "0",
+      "declare_rate": "0",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1"
+    },
+    "manager_list": [],
+    "fund_date_conf": {
+      "fd_code": "003312",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

@@ -1,0 +1,137 @@
+{
+  "data": {
+    "fund_rates": {
+      "fd_code": "008197",
+      "subscribe_rate": "0",
+      "declare_rate": "0",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1"
+    },
+    "manager_list": [
+      {
+        "name": "张玮",
+        "resume": "    张玮女士,中国社科院硕士。2007 年 7 月至 2011 年 1 月任合众人寿保险股份有限公司信息管理中心软件工程师,2011 年 1 月至 2012 年 10 月任合众资产管理股份有限公司交易员,2012 年 10 月至 2014 年 10 月任英大基金管理有限公司交易管理部债券交易员,2014 年 10 月至 2016 年 1 月任英大基金管理有限公司交易管理部副总经理,2016 年 1 月至 2017 年 3 月任英大基金管理有限公司固定收益部基金经理。2016 年 1 月至 2017 年 3 月担任英大纯债债券型证券投资基金基金经理。2016 年 3 月至 2017 年 3 月任英大策略优选混合型证券投资基金基金经理。自 2017 年 3 月起,加入中国人保资产管理有限公司公募基金事业部,自 2017 年 9 月 12 日起任人保货币市场基金基金经理,自 2018 年 3月 23 日起任人保纯债一年定期开放债券型证券投资基金基金经理,自 2018 年8 月 30 日起任人保鑫瑞中短债债券型证券投资基金基金经理,自 2018 年 12 月12 日起任人保福泽纯债一年定期开放债券型证券投资基金基金经理,自 2019 年8 月 14 日起任人保中高等级信用债债券型证券投资基金基金经理,自 2019 年 9月 11 日起任人保鑫享短债债券型证券投资基金基金经理。",
+        "college": "中国社会科学院",
+        "work_year": "9",
+        "achievement_list": [
+          {
+            "fund_code": "007634",
+            "fundsname": "人保鑫享短债C",
+            "post_date": "2019-09-11",
+            "resi_date": "2020-09-22",
+            "cp_rate": -0.17
+          },
+          {
+            "fund_code": "007633",
+            "fundsname": "人保鑫享短债A",
+            "post_date": "2019-09-11",
+            "resi_date": "2020-09-22",
+            "cp_rate": 0.06
+          },
+          {
+            "fund_code": "007265",
+            "fundsname": "人保中高等级信用债C",
+            "post_date": "2019-08-14",
+            "resi_date": "2020-10-09",
+            "cp_rate": -2.02
+          },
+          {
+            "fund_code": "007264",
+            "fundsname": "人保中高等级信用债A",
+            "post_date": "2019-08-14",
+            "resi_date": "2020-10-09",
+            "cp_rate": -1.54
+          },
+          {
+            "fund_code": "006461",
+            "fundsname": "人保福泽一年定期开放债券",
+            "post_date": "2018-12-12",
+            "resi_date": "2020-07-08",
+            "cp_rate": 3.11
+          },
+          {
+            "fund_code": "006074",
+            "fundsname": "人保鑫瑞中短债债券C",
+            "post_date": "2018-08-30",
+            "resi_date": "2020-07-08",
+            "cp_rate": 6.61
+          },
+          {
+            "fund_code": "006073",
+            "fundsname": "人保鑫瑞中短债债券A",
+            "post_date": "2018-08-30",
+            "resi_date": "2020-07-08",
+            "cp_rate": 7.06
+          },
+          {
+            "fund_code": "005716",
+            "fundsname": "人保纯债一年定开C",
+            "post_date": "2018-03-23",
+            "resi_date": "2020-07-08",
+            "cp_rate": 5.61
+          },
+          {
+            "fund_code": "005715",
+            "fundsname": "人保纯债一年定开A",
+            "post_date": "2018-03-23",
+            "resi_date": "2020-07-08",
+            "cp_rate": 6.58
+          },
+          {
+            "fund_code": "004904",
+            "fundsname": "人保货币B",
+            "post_date": "2017-09-12",
+            "resi_date": "2020-07-08",
+            "cp_rate": 8.6606
+          },
+          {
+            "fund_code": "004903",
+            "fundsname": "人保货币A",
+            "post_date": "2017-09-12",
+            "resi_date": "2020-07-08",
+            "cp_rate": 7.9801
+          },
+          {
+            "fund_code": "001608",
+            "fundsname": "英大策略优选混合C",
+            "post_date": "2016-03-17",
+            "resi_date": "2017-03-28",
+            "cp_rate": -2.5896
+          },
+          {
+            "fund_code": "001607",
+            "fundsname": "英大策略优选混合A",
+            "post_date": "2016-03-17",
+            "resi_date": "2017-03-28",
+            "cp_rate": 10.9833
+          },
+          {
+            "fund_code": "650002",
+            "fundsname": "英大纯债债券C",
+            "post_date": "2016-01-08",
+            "resi_date": "2017-03-28",
+            "cp_rate": 3.9638
+          },
+          {
+            "fund_code": "650001",
+            "fundsname": "英大纯债债券A",
+            "post_date": "2016-01-08",
+            "resi_date": "2017-03-28",
+            "cp_rate": 6.3432
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "008197",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

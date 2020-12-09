@@ -1,0 +1,227 @@
+{
+  "data": {
+    "fund_company": "    嘉实基金管理有限公司成立于1999年3月,是国内最早成立的十家基金管理公司之一。十七年来,嘉实基金坚持合规经营,秉承“远见者稳进”理念,至今已发展形成涵盖公募基金、机构投资、养老金业务、海外投资、私募股权投资、财富管理等“全牌照”业务,联动一、二级市场投资的金融服务全产业链。截至2016年末,嘉实基金实现各类资产管理规模超9500亿元人民币,连续十年位居行业前列,为逾五千万投资者提供专业、高效的理财服务。\n    发展中的嘉实基金以“助力产业腾飞,服务财富增长”为核心使命,以普惠金融为理念,创造一流的产品和服务,力争实现客户、员工和公司长期共赢发展,致力于使嘉实成为中国领先、具有国际竞争力的资产管理集团。\n    以资产管理为核心的嘉实基金,业内首创“全天候、多策略”的投研模式,已建立超过20个投资策略组,构建丰富的产品线,为投资者创造优秀稳定的回报,屡获行业殊荣。十余年来,嘉实不断获得社保追加的委托管理资产,被包括数十家中央企业在内的300余家企业选定为企业年金投资管理人,为超过800万职工提供企业年金服务。\n    嘉实坚持国际化战略,自2009年建立香港子公司至今连续数年保持了在港中资资产管理机构的领先地位。2012年起嘉实推出海外ETF 业务,已经先后完成国内的指数在香港市场、纽约和伦敦挂牌上市。2015年,嘉实分别在伦敦与纽约注册成立分公司,进一步拓展国际市场。\n    2014年嘉实推进集团化发展,在二级市场投资中所建立的主动管理投资能力,逐步向更广泛的投资领域拓展,投资涵盖VC、PE、PIPE、新三板投资、并购投资等,并围绕优质标的积极进行产业的上下游布局,构建完整金融产业链。\n    嘉实基金始终以“创造财富增值,服务未来生活”为使命,以普惠金融为理念,创造优质产品和服务,力争实现客户、员工和公司长期共赢发展,从而使嘉实成为具有国际竞争力的综合金融集团。",
+    "fund_position": {
+      "stock_percent": 89.77,
+      "bond_percent": 0.73,
+      "cash_percent": 6.94,
+      "other_percent": 2.56,
+      "asset_tot": 1337353994.11,
+      "asset_val": 1332306311.48,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "星宇股份",
+          "code": "601799",
+          "percent": 5.9,
+          "current_price": 186.12,
+          "change_percentage": -2.43,
+          "xq_symbol": "SH601799",
+          "xq_url": "https://xueqiu.com/S/SH601799",
+          "amarket": true
+        },
+        {
+          "name": "杭氧股份",
+          "code": "002430",
+          "percent": 4.79,
+          "current_price": 27.38,
+          "change_percentage": 1.71,
+          "xq_symbol": "SZ002430",
+          "xq_url": "https://xueqiu.com/S/SZ002430",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 4.08,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "绿盟科技",
+          "code": "300369",
+          "percent": 4.01,
+          "current_price": 16.66,
+          "change_percentage": -0.48,
+          "xq_symbol": "SZ300369",
+          "xq_url": "https://xueqiu.com/S/SZ300369",
+          "amarket": true
+        },
+        {
+          "name": "华测检测",
+          "code": "300012",
+          "percent": 3.99,
+          "current_price": 25.3,
+          "change_percentage": 1.61,
+          "xq_symbol": "SZ300012",
+          "xq_url": "https://xueqiu.com/S/SZ300012",
+          "amarket": true
+        },
+        {
+          "name": "晶丰明源",
+          "code": "688368",
+          "percent": 3.84,
+          "current_price": 196.46,
+          "change_percentage": -2.26,
+          "xq_symbol": "SH688368",
+          "xq_url": "https://xueqiu.com/S/SH688368",
+          "amarket": true
+        },
+        {
+          "name": "福耀玻璃",
+          "code": "600660",
+          "percent": 3.77,
+          "current_price": 38.74,
+          "change_percentage": 0,
+          "xq_symbol": "SH600660",
+          "xq_url": "https://xueqiu.com/S/SH600660",
+          "amarket": true
+        },
+        {
+          "name": "中科创达",
+          "code": "300496",
+          "percent": 3.54,
+          "current_price": 98.5,
+          "change_percentage": 0.92,
+          "xq_symbol": "SZ300496",
+          "xq_url": "https://xueqiu.com/S/SZ300496",
+          "amarket": true
+        },
+        {
+          "name": "新泉股份",
+          "code": "603179",
+          "percent": 3.42,
+          "current_price": 29.58,
+          "change_percentage": -0.74,
+          "xq_symbol": "SH603179",
+          "xq_url": "https://xueqiu.com/S/SH603179",
+          "amarket": true
+        },
+        {
+          "name": "宁德时代",
+          "code": "300750",
+          "percent": 3.35,
+          "current_price": 266.03,
+          "change_percentage": 1.75,
+          "xq_symbol": "SZ300750",
+          "xq_url": "https://xueqiu.com/S/SZ300750",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "林洋转债",
+          "code": "113014",
+          "percent": 0.49,
+          "xq_symbol": "113014",
+          "xq_url": "https://xueqiu.com/S/113014",
+          "amarket": false
+        },
+        {
+          "name": "太极转债",
+          "code": "128078",
+          "percent": 0.24,
+          "xq_symbol": "128078",
+          "xq_url": "https://xueqiu.com/S/128078",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "001039",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.00"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "365天≤持有期限<730天",
+          "value": "0.250"
+        },
+        {
+          "name": "730天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "张淼",
+        "resume": "    张淼女士,硕士研究生,12年证券从业经历。曾就职于东方基金管理有限公司研究部。2007年9月加入嘉实基金管理有限公司,先后担任研究员、研究部副总监和基金经理助理职务,具有基金从业资格。2015年2月17日至今任嘉实稳健混合基金经理,2015年4月24日至今担任嘉实先进制造股票型证券投资基金基金经理。",
+        "work_year": "15",
+        "achievement_list": [
+          {
+            "fund_code": "001039",
+            "fundsname": "嘉实先进制造股票",
+            "post_date": "2015-04-24",
+            "cp_rate": 72.1
+          },
+          {
+            "fund_code": "070003",
+            "fundsname": "嘉实稳健混合",
+            "post_date": "2015-02-17",
+            "resi_date": "2020-08-08",
+            "cp_rate": 56.996
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "001039",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

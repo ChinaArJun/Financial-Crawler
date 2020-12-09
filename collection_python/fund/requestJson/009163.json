@@ -1,0 +1,244 @@
+{
+  "data": {
+    "fund_company": "    广发基金管理有限公司经中国证监会证监基金字[2003]91号文批准,于2003年8月5日成立,是业内第30家成立的基金管理公司,总部设在广州,公司注册资本金12688万元人民币。公司及旗下子公司目前拥有公募基金管理、社保基金境内委托投资管理人、基本养老保险基金证券投资管理机构、特定客户资产管理、QDII、RQFII、QFII、受托管理保险资金投资管理人和保险保障基金委托资产管理投资管理人等业务资格,具备多种业务的综合资产管理能力与经验。\n    截至2016年12月31日,公司管理125只开放式基金,管理公募基金资产规模为3048亿元,长期位居行业前列。公司旗下产品覆盖主动权益、债券、货币、海外投资、被动投资、量化对冲、另类投资等不同类别,产品线齐全。公司曾获五届中国证券报“金牛基金管理公司”奖项、两届“固定收益投资金牛基金公司”奖项,连续两届获得“海外投资金牛基金公司”奖项,获七届证券时报“明星基金管理公司”奖项,是行业最全的QDII产品提供商,业内最全的行业ETF产品提供商,在业内首创公募基金大数据先河。同时,公司还管理着多个特定客户资产管理投资组合、社保基金投资组合、养老基金投资组合。\n    公司坚持“专业创造价值、客户利益至上”的经营理念,以完备的产品供给、策略供给、区域供给为基础,构建多元投资能力、顶层资产配置能力,致力成为优秀的全能型资产管理公司,为投资者谋求长期稳定的收益,为我国资本市场的繁荣与发展贡献一份力量。",
+    "fund_position": {
+      "stock_percent": 92.77,
+      "cash_percent": 7,
+      "other_percent": 0.23,
+      "asset_tot": 13420697214.37,
+      "asset_val": 13290547027.44,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "恒瑞医药",
+          "code": "600276",
+          "percent": 5.42,
+          "current_price": 90.07,
+          "change_percentage": 0.21,
+          "xq_symbol": "SH600276",
+          "xq_url": "https://xueqiu.com/S/SH600276",
+          "amarket": true
+        },
+        {
+          "name": "爱尔眼科",
+          "code": "300015",
+          "percent": 5.35,
+          "current_price": 66.63,
+          "change_percentage": -0.25,
+          "xq_symbol": "SZ300015",
+          "xq_url": "https://xueqiu.com/S/SZ300015",
+          "amarket": true
+        },
+        {
+          "name": "泰格医药",
+          "code": "300347",
+          "percent": 4.3,
+          "current_price": 135.45,
+          "change_percentage": 1.84,
+          "xq_symbol": "SZ300347",
+          "xq_url": "https://xueqiu.com/S/SZ300347",
+          "amarket": true
+        },
+        {
+          "name": "长春高新",
+          "code": "000661",
+          "percent": 4.09,
+          "current_price": 388,
+          "change_percentage": 0.19,
+          "xq_symbol": "SZ000661",
+          "xq_url": "https://xueqiu.com/S/SZ000661",
+          "amarket": true
+        },
+        {
+          "name": "迈瑞医疗",
+          "code": "300760",
+          "percent": 4.05,
+          "current_price": 351.9,
+          "change_percentage": 1.82,
+          "xq_symbol": "SZ300760",
+          "xq_url": "https://xueqiu.com/S/SZ300760",
+          "amarket": true
+        },
+        {
+          "name": "通策医疗",
+          "code": "600763",
+          "percent": 3.86,
+          "current_price": 233.45,
+          "change_percentage": 0.45,
+          "xq_symbol": "SH600763",
+          "xq_url": "https://xueqiu.com/S/SH600763",
+          "amarket": true
+        },
+        {
+          "name": "凯莱英",
+          "code": "002821",
+          "percent": 3.73,
+          "current_price": 274,
+          "change_percentage": 1.64,
+          "xq_symbol": "SZ002821",
+          "xq_url": "https://xueqiu.com/S/SZ002821",
+          "amarket": true
+        },
+        {
+          "name": "康泰生物",
+          "code": "300601",
+          "percent": 3.64,
+          "current_price": 158.41,
+          "change_percentage": -1.36,
+          "xq_symbol": "SZ300601",
+          "xq_url": "https://xueqiu.com/S/SZ300601",
+          "amarket": true
+        },
+        {
+          "name": "药明康德",
+          "code": "603259",
+          "percent": 3.57,
+          "current_price": 110.9,
+          "change_percentage": -0.12,
+          "xq_symbol": "SH603259",
+          "xq_url": "https://xueqiu.com/S/SH603259",
+          "amarket": true
+        },
+        {
+          "name": "我武生物",
+          "code": "300357",
+          "percent": 3.42,
+          "current_price": 66.06,
+          "change_percentage": -1.11,
+          "xq_symbol": "SZ300357",
+          "xq_url": "https://xueqiu.com/S/SZ300357",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "009163",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.500"
+        },
+        {
+          "name": "30天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.40"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "吴兴武",
+        "resume": "    吴兴武先生,理学硕士,持有中国证券投资基金业从业证书。曾任摩根士丹利华鑫基金管理有限公司研究员,广发基金管理有限公司研究发展部、权益投资一部研究员、广发多元新兴股票型证券投资基金基金经理(自2017年4月25日至2019年4月16日)、广发核心精选混合型证券投资基金基金经理(自2015年2月17日至2020年2月10日)、广发鑫瑞混合型证券投资基金(LOF)基金经理(自2019年4月16日至2020年7月29日)、广发再融资主题灵活配置混合型证券投资基金(LOF)基金经理(自2019年4月16日至2020年7月31日)。现任广发轮动配置混合型证券投资基金基金经理(自2015年2月12日起任职)、广发医疗保健股票型证券投资基金基金经理(自2018年10月16日起任职)、广发主题领先灵活配置混合型证券投资基金基金经理(自2020年1月7日起任职)、广发医药健康混合型证券投资基金基金经理(自2020年10月21日起任职)。",
+        "work_year": "11",
+        "achievement_list": [
+          {
+            "fund_code": "010111",
+            "fundsname": "广发医药健康混合C",
+            "post_date": "2020-10-21",
+            "cp_rate": -0.28
+          },
+          {
+            "fund_code": "010110",
+            "fundsname": "广发医药健康混合A",
+            "post_date": "2020-10-21",
+            "cp_rate": -0.23
+          },
+          {
+            "fund_code": "009163",
+            "fundsname": "广发医疗保健股票C",
+            "post_date": "2020-03-18",
+            "cp_rate": 66.7333
+          },
+          {
+            "fund_code": "000477",
+            "fundsname": "广发主题领先混合",
+            "post_date": "2020-01-07",
+            "cp_rate": 60.8641
+          },
+          {
+            "fund_code": "162718",
+            "fundsname": "广发鑫瑞混合(LOF)",
+            "post_date": "2019-04-16",
+            "resi_date": "2020-04-28",
+            "cp_rate": 1.2819
+          },
+          {
+            "fund_code": "162717",
+            "fundsname": "广发再融资主题混合(LOF)",
+            "post_date": "2019-04-16",
+            "resi_date": "2020-07-31",
+            "cp_rate": 37.6042
+          },
+          {
+            "fund_code": "004851",
+            "fundsname": "广发医疗保健股票A",
+            "post_date": "2018-10-16",
+            "cp_rate": 221.4946
+          },
+          {
+            "fund_code": "003745",
+            "fundsname": "广发多元新兴股票",
+            "post_date": "2017-04-25",
+            "resi_date": "2019-04-16",
+            "cp_rate": -1.4
+          },
+          {
+            "fund_code": "270008",
+            "fundsname": "广发核心精选混合",
+            "post_date": "2015-02-17",
+            "resi_date": "2020-02-10",
+            "cp_rate": 41.6459
+          },
+          {
+            "fund_code": "000117",
+            "fundsname": "广发轮动配置混合",
+            "post_date": "2015-02-12",
+            "cp_rate": 175.827
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "009163",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

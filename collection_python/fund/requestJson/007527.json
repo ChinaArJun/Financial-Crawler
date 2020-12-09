@@ -1,0 +1,335 @@
+{
+  "data": {
+    "fund_company": "    融通基金管理有限公司经中国证监会监基字[2001]8号文批准,于2001年5月22日在深圳正式成立,是中国第二批基金管理公司之一,注册资本1.25亿元人民币。\n    公司总部设在深圳,在北京、上海、西南设有分支机构。公司拥有证券投资基金设立与管理业务资格、基金管理公司特定客户资产管理业务资格、境内合格机构管理人资格和保险资产受托管理资格,控股深圳市融通资本财富管理有限公司和融通国际资产管理有限公司。\n    截至2016年12月末,公司公募规模为892亿元、专户业务规模786亿元。公司产品线齐全,公募基金产品62只(包括募集中的产品)。产品类型涵盖混合型、债券型、保本型、货币型、指数型、QDII、分级产品等。\n    2015年下半年,公司在业内首创协同事业部制,积极打造投资梦工坊,已形成了一只在业内有影响力的、尊重个性、业绩突出、多元化的新锐投资团队,为持有人创造了更好的回报。\n    自成立以来,公司及旗下基金屡获殊荣。公司荣获“金牛基金管理公司”(中国证券报)、“市场营销明星基金公司”(证券时报)、“最佳营销服务公司”(上海证券报)、“投资者教育明星基金公司”(证券时报)等荣誉;融通通乾封闭两夺“封闭式金牛基金” (中国证券报)、融通医疗保健行业基金获“股票型金牛基金”(中国证券报)、融通新蓝筹获“TOP10钻石基金”奖(晨星中国)、融通行业景气基金获“股票型基金明星奖”(证券时报)。\n    “落其实者思其树,饮其流者怀其源。”投资者需求所在,即是融通基金努力所向。 在大资管时代,公司矢志于为各类投资者提供充分满足个性需求的产品,并以良好的投资回报和全面、及时、优质的服务回报投资者的信任,成为国内一流的资产管理机构。",
+    "fund_position": {
+      "stock_percent": 81.17,
+      "cash_percent": 18.76,
+      "other_percent": 0.07,
+      "asset_tot": 342682743.36,
+      "asset_val": 297795461.95,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 7.6,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "歌尔股份",
+          "code": "002241",
+          "percent": 5.53,
+          "current_price": 37.16,
+          "change_percentage": -2.24,
+          "xq_symbol": "SZ002241",
+          "xq_url": "https://xueqiu.com/S/SZ002241",
+          "amarket": true
+        },
+        {
+          "name": "长春高新",
+          "code": "000661",
+          "percent": 5.49,
+          "current_price": 388,
+          "change_percentage": 0.19,
+          "xq_symbol": "SZ000661",
+          "xq_url": "https://xueqiu.com/S/SZ000661",
+          "amarket": true
+        },
+        {
+          "name": "恒立液压",
+          "code": "601100",
+          "percent": 5.04,
+          "current_price": 96.79,
+          "change_percentage": -1.59,
+          "xq_symbol": "SH601100",
+          "xq_url": "https://xueqiu.com/S/SH601100",
+          "amarket": true
+        },
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 4.53,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "药石科技",
+          "code": "300725",
+          "percent": 4.13,
+          "current_price": 122.8,
+          "change_percentage": 0.62,
+          "xq_symbol": "SZ300725",
+          "xq_url": "https://xueqiu.com/S/SZ300725",
+          "amarket": true
+        },
+        {
+          "name": "宁德时代",
+          "code": "300750",
+          "percent": 4.07,
+          "current_price": 266.03,
+          "change_percentage": 1.75,
+          "xq_symbol": "SZ300750",
+          "xq_url": "https://xueqiu.com/S/SZ300750",
+          "amarket": true
+        },
+        {
+          "name": "凯莱英",
+          "code": "002821",
+          "percent": 4.07,
+          "current_price": 274,
+          "change_percentage": 1.64,
+          "xq_symbol": "SZ002821",
+          "xq_url": "https://xueqiu.com/S/SZ002821",
+          "amarket": true
+        },
+        {
+          "name": "拓普集团",
+          "code": "601689",
+          "percent": 4.06,
+          "current_price": 38.54,
+          "change_percentage": 3.66,
+          "xq_symbol": "SH601689",
+          "xq_url": "https://xueqiu.com/S/SH601689",
+          "amarket": true
+        },
+        {
+          "name": "华新水泥",
+          "code": "600801",
+          "percent": 3.99,
+          "current_price": 23.77,
+          "change_percentage": -1.45,
+          "xq_symbol": "SH600801",
+          "xq_url": "https://xueqiu.com/S/SH600801",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "007527",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "1",
+      "subscribe_discount": "1",
+      "declare_discount": "1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<300万",
+          "value": "1.00"
+        },
+        {
+          "name": "300万≤买入金额<500万",
+          "value": "0.50"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "蔡志伟",
+        "resume": "    蔡志伟先生,计算机应用技术硕士,金融风险管理师(FRM),9年证券、基金行业从业经历,具有基金从业资格。2006年 7月至 2008年 8月就职于汇丰软件开发(广东)有限公司任高级软件工程师。2011年 6月加入融通基金管理有限公司,历任风险管理专员、金融工程研究员,现任融通巨潮 100指数证券投资基金(LOF)基金经理(2015年 2月 11日起至今)、融通深证成份指数证券投资基金基金经理(2016年 11月 19日起至今)、融通创业板指数增强型证券投资基金基金经理(2016年 11月 19日起至今)、融通量化多策略灵活配置混合型证券投资基金基金经理(2019年 8月 21日起至今)。",
+        "college": "华南师范大学",
+        "work_year": "9",
+        "achievement_list": [
+          {
+            "fund_code": "159808",
+            "fundsname": "融通创业板ETF",
+            "post_date": "2020-08-12",
+            "cp_rate": 2.0894
+          },
+          {
+            "fund_code": "007527",
+            "fundsname": "融通量化多策略灵活配置混合A",
+            "post_date": "2019-08-21",
+            "cp_rate": 72.02
+          },
+          {
+            "fund_code": "007528",
+            "fundsname": "融通量化多策略灵活配置混合C",
+            "post_date": "2019-08-21",
+            "cp_rate": 70.9
+          },
+          {
+            "fund_code": "004874",
+            "fundsname": "融通巨潮100指数C",
+            "post_date": "2017-07-05",
+            "cp_rate": 67.0899
+          },
+          {
+            "fund_code": "004875",
+            "fundsname": "融通深证成分指数C",
+            "post_date": "2017-07-05",
+            "cp_rate": 44.3931
+          },
+          {
+            "fund_code": "004870",
+            "fundsname": "融通创业板指数C",
+            "post_date": "2017-07-05",
+            "cp_rate": 44.7928
+          },
+          {
+            "fund_code": "161612",
+            "fundsname": "融通深证成分指数A/B",
+            "post_date": "2016-11-19",
+            "cp_rate": 46.037
+          },
+          {
+            "fund_code": "161613",
+            "fundsname": "融通创业板指数A/B",
+            "post_date": "2016-11-19",
+            "cp_rate": 22.9319
+          },
+          {
+            "fund_code": "161607",
+            "fundsname": "融通巨潮100指数A/B",
+            "post_date": "2015-02-11",
+            "cp_rate": 80.4418
+          }
+        ]
+      },
+      {
+        "name": "彭炜",
+        "resume": "    彭炜先生,上海交通大学管理科学与工程硕士,8年证券、基金行业从业经历,具有基金从业资格。2012年4月加入融通基金管理有限公司,历任建筑建材行业研究员、房地产行业研究员、钢铁煤炭行业研究员、周期行业研究组组长、融通国企改革新机遇灵活配置混合型证券投资基金基金经理(2017年12月5日至2019年5月16日)、融通新区域新经济灵活配置混合型证券投资基金基金经理(2018年1月2日至2019年4月12日)、融通通慧混合型证券投资基金基金经理(2019年5月16日起至2019年12月28日),现任研究部总经理、融通中国风1号灵活配置混合型证券投资基金基金经理(2017年8月5日起至今)、融通消费升级混合型证券投资基金基金经理(2019年7月18日起至今)、融通量化多策略灵活配置混合型证券投资基金基金经理(2019年8月22日起至今)、融通新能源灵活配置混合型证券投资基金基金经理(2020年1月11日起至今)、融通产业趋势先锋股票型证券投资基金基金经理(2020年6月1日起至今)。",
+        "college": "上海交通大学",
+        "work_year": "8",
+        "achievement_list": [
+          {
+            "fund_code": "009891",
+            "fundsname": "融通产业趋势臻选股票",
+            "post_date": "2020-08-17",
+            "cp_rate": -1.13
+          },
+          {
+            "fund_code": "008445",
+            "fundsname": "融通产业趋势先锋股票",
+            "post_date": "2020-06-01",
+            "cp_rate": 14.13
+          },
+          {
+            "fund_code": "009273",
+            "fundsname": "融通中国风1号灵活配置混合C",
+            "post_date": "2020-04-13",
+            "cp_rate": 36.461
+          },
+          {
+            "fund_code": "001471",
+            "fundsname": "融通新能源灵活配置混合",
+            "post_date": "2020-01-11",
+            "cp_rate": 40.8283
+          },
+          {
+            "fund_code": "007528",
+            "fundsname": "融通量化多策略灵活配置混合C",
+            "post_date": "2019-08-22",
+            "cp_rate": 70.9513
+          },
+          {
+            "fund_code": "007527",
+            "fundsname": "融通量化多策略灵活配置混合A",
+            "post_date": "2019-08-22",
+            "cp_rate": 72.0544
+          },
+          {
+            "fund_code": "007261",
+            "fundsname": "融通消费升级混合",
+            "post_date": "2019-07-18",
+            "cp_rate": 80.3039
+          },
+          {
+            "fund_code": "007387",
+            "fundsname": "融通通慧混合C",
+            "post_date": "2019-05-16",
+            "resi_date": "2019-12-28",
+            "cp_rate": 6.0533
+          },
+          {
+            "fund_code": "002612",
+            "fundsname": "融通通慧混合A/B",
+            "post_date": "2019-05-16",
+            "resi_date": "2019-12-28",
+            "cp_rate": 6.2446
+          },
+          {
+            "fund_code": "001152",
+            "fundsname": "融通新区域新经济灵活配置混合",
+            "post_date": "2018-01-02",
+            "resi_date": "2019-04-12",
+            "cp_rate": -1.476
+          },
+          {
+            "fund_code": "002612",
+            "fundsname": "融通国企改革新机遇灵活配置混合",
+            "post_date": "2017-12-05",
+            "resi_date": "2019-05-15",
+            "cp_rate": 11.7761
+          },
+          {
+            "fund_code": "001852",
+            "fundsname": "融通中国风1号灵活配置混合A",
+            "post_date": "2017-08-05",
+            "cp_rate": 119.8233
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "007527",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

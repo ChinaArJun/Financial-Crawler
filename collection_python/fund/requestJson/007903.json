@@ -1,0 +1,381 @@
+{
+  "data": {
+    "fund_company": "    长城基金管理有限公司成立于2001年12月27日,由长城证券有限责任公司、东方证券股份有限公司、北方国际信托股份有限公司、中原信托有限公司共同出资设立。公司的经营范围为基金募集、基金销售、资产管理和中国证监会许可的其他业务。\n    长城基金管理有限公司一直秉承“诚信、规范、专业、创新”的经营理念,坚持基金持有人利益至上的经营原则,凭借完善的公司治理结构、严格的风险控制、规范的业务流程、高效专业的员工团队、开放与学习的文化氛围,努力打造一流的基金管理公司品牌,竭诚为客户提供优质的投资理财产品和服务。\n    产品线介绍\n    截至2016年8月,长城基金管理有限公司一共管理基金38只。基金产品类别涵盖货币型、债券型、混合型以及指数型基金,形成覆盖低、中、高各类风险收益特征的较为完善的产品线。",
+    "fund_position": {
+      "stock_percent": 82.1,
+      "cash_percent": 12.34,
+      "other_percent": 5.56,
+      "asset_tot": 456790203.87,
+      "asset_val": 436918325.1,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "永安行",
+          "code": "603776",
+          "percent": 3.77,
+          "current_price": 19.59,
+          "change_percentage": -0.31,
+          "xq_symbol": "SH603776",
+          "xq_url": "https://xueqiu.com/S/SH603776",
+          "amarket": true
+        },
+        {
+          "name": "天赐材料",
+          "code": "002709",
+          "percent": 3.74,
+          "current_price": 84.25,
+          "change_percentage": 10,
+          "xq_symbol": "SZ002709",
+          "xq_url": "https://xueqiu.com/S/SZ002709",
+          "amarket": true
+        },
+        {
+          "name": "建设机械",
+          "code": "600984",
+          "percent": 3.73,
+          "current_price": 14.92,
+          "change_percentage": 0.27,
+          "xq_symbol": "SH600984",
+          "xq_url": "https://xueqiu.com/S/SH600984",
+          "amarket": true
+        },
+        {
+          "name": "中油工程",
+          "code": "600339",
+          "percent": 3.55,
+          "current_price": 3.01,
+          "change_percentage": -0.66,
+          "xq_symbol": "SH600339",
+          "xq_url": "https://xueqiu.com/S/SH600339",
+          "amarket": true
+        },
+        {
+          "name": "利尔化学",
+          "code": "002258",
+          "percent": 3.4,
+          "current_price": 22.32,
+          "change_percentage": -0.84,
+          "xq_symbol": "SZ002258",
+          "xq_url": "https://xueqiu.com/S/SZ002258",
+          "amarket": true
+        },
+        {
+          "name": "太平鸟",
+          "code": "603877",
+          "percent": 3.1,
+          "current_price": 34,
+          "change_percentage": -3.74,
+          "xq_symbol": "SH603877",
+          "xq_url": "https://xueqiu.com/S/SH603877",
+          "amarket": true
+        },
+        {
+          "name": "裕同科技",
+          "code": "002831",
+          "percent": 3.04,
+          "current_price": 28.05,
+          "change_percentage": -1.58,
+          "xq_symbol": "SZ002831",
+          "xq_url": "https://xueqiu.com/S/SZ002831",
+          "amarket": true
+        },
+        {
+          "name": "丽珠集团",
+          "code": "000513",
+          "percent": 2.8,
+          "current_price": 43.66,
+          "change_percentage": -0.98,
+          "xq_symbol": "SZ000513",
+          "xq_url": "https://xueqiu.com/S/SZ000513",
+          "amarket": true
+        },
+        {
+          "name": "中牧股份",
+          "code": "600195",
+          "percent": 2.69,
+          "current_price": 13.53,
+          "change_percentage": 0.07,
+          "xq_symbol": "SH600195",
+          "xq_url": "https://xueqiu.com/S/SH600195",
+          "amarket": true
+        },
+        {
+          "name": "宝信软件",
+          "code": "600845",
+          "percent": 2.62,
+          "current_price": 64.06,
+          "change_percentage": 0.13,
+          "xq_symbol": "SH600845",
+          "xq_url": "https://xueqiu.com/S/SH600845",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "007903",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<300万",
+          "value": "1.00"
+        },
+        {
+          "name": "300万≤买入金额<500万",
+          "value": "0.50"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "1天≤持有期限<6天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<29天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<184天",
+          "value": "0.500"
+        },
+        {
+          "name": "185天≤持有期限<365天",
+          "value": "0.250"
+        },
+        {
+          "name": "366天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "雷俊",
+        "resume": "    雷俊先生,北京大学信息与计算科学学士、信号与信息处理硕士。2017年11月进入长城基金管理有限公司,现任量化与指数投资部基金经理兼部门总经理。自2018年11月至今任“长城久泰沪深300指数证券投资基金”基金经理,自2018年11月至今任“长城中证500指数增强型证券投资基金”基金经理。自2019年1月至今任“长城创业板指数增强型发起式证券投资基金”基金经理,自2019年5月至今任“长城核心优选灵活配置混合型证券投资基金”基金经理,自2019年5月至今任“长城量化精选股票型证券投资基金”基金经理,自2020年1月至今任“长城量化小盘股票型证券投资基金”基金经理,自2020年1月至今任“长城中国智造灵活配置混合型证券投资基金”基金经理。",
+        "college": "北京大学",
+        "achievement_list": [
+          {
+            "fund_code": "010000",
+            "fundsname": "长城中国智造灵活配置混合C",
+            "post_date": "2020-09-07",
+            "cp_rate": 8.0506
+          },
+          {
+            "fund_code": "001880",
+            "fundsname": "长城中国智造灵活配置混合A",
+            "post_date": "2020-01-20",
+            "cp_rate": 55.2472
+          },
+          {
+            "fund_code": "007903",
+            "fundsname": "长城量化小盘股票",
+            "post_date": "2020-01-10",
+            "cp_rate": 19.0081
+          },
+          {
+            "fund_code": "006926",
+            "fundsname": "长城量化精选股票",
+            "post_date": "2019-05-29",
+            "cp_rate": 34.72
+          },
+          {
+            "fund_code": "000030",
+            "fundsname": "长城核心优选混合",
+            "post_date": "2019-05-24",
+            "cp_rate": 50.1984
+          },
+          {
+            "fund_code": "007413",
+            "fundsname": "长城中证500指数增强C",
+            "post_date": "2019-05-09",
+            "cp_rate": 46.5136
+          },
+          {
+            "fund_code": "001879",
+            "fundsname": "长城创业板指数增强发起式A",
+            "post_date": "2019-01-29",
+            "cp_rate": 143.6558
+          },
+          {
+            "fund_code": "006928",
+            "fundsname": "长城创业板指数增强发起式C",
+            "post_date": "2019-01-29",
+            "cp_rate": 140.964
+          },
+          {
+            "fund_code": "006912",
+            "fundsname": "长城久泰沪深300指数C",
+            "post_date": "2019-01-18",
+            "cp_rate": 68.8574
+          },
+          {
+            "fund_code": "006048",
+            "fundsname": "长城中证500指数增强A",
+            "post_date": "2018-11-30",
+            "cp_rate": 66.2491
+          },
+          {
+            "fund_code": "200002",
+            "fundsname": "长城久泰沪深300指数A",
+            "post_date": "2018-11-30",
+            "cp_rate": 70.8585
+          },
+          {
+            "fund_code": "001771",
+            "fundsname": "南方量化灵活配置混合",
+            "post_date": "2017-08-24",
+            "resi_date": "2017-11-09",
+            "cp_rate": 1.3
+          },
+          {
+            "fund_code": "004344",
+            "fundsname": "南方大数据100指数C",
+            "post_date": "2017-02-23",
+            "resi_date": "2017-11-09",
+            "cp_rate": -1.0777
+          },
+          {
+            "fund_code": "512330",
+            "fundsname": "中证500信息技术指数ETF",
+            "post_date": "2015-06-29",
+            "resi_date": "2016-07-29",
+            "cp_rate": -15.2054
+          },
+          {
+            "fund_code": "001421",
+            "fundsname": "南方量化成长",
+            "post_date": "2015-06-29",
+            "resi_date": "2017-11-09",
+            "cp_rate": 21.8
+          },
+          {
+            "fund_code": "001426",
+            "fundsname": "南方大数据300指数C",
+            "post_date": "2015-06-24",
+            "resi_date": "2017-11-09",
+            "cp_rate": 18.97
+          },
+          {
+            "fund_code": "001420",
+            "fundsname": "南方大数据300指数A",
+            "post_date": "2015-06-24",
+            "resi_date": "2017-11-09",
+            "cp_rate": 19.84
+          },
+          {
+            "fund_code": "202019",
+            "fundsname": "南方策略",
+            "post_date": "2015-06-16",
+            "resi_date": "2017-11-09",
+            "cp_rate": -12.092
+          },
+          {
+            "fund_code": "150294",
+            "fundsname": "南方中证高铁产业指数分级B",
+            "post_date": "2015-06-10",
+            "resi_date": "2016-07-29",
+            "cp_rate": -89.5248
+          },
+          {
+            "fund_code": "150293",
+            "fundsname": "南方中证高铁产业指数分级A",
+            "post_date": "2015-06-10",
+            "resi_date": "2016-07-29",
+            "cp_rate": 7.1464
+          },
+          {
+            "fund_code": "160135",
+            "fundsname": "南方中证高铁产业指数分级",
+            "post_date": "2015-06-10",
+            "resi_date": "2016-07-29",
+            "cp_rate": -45.82
+          },
+          {
+            "fund_code": "160136",
+            "fundsname": "南方中证国有企业改革指数分级",
+            "post_date": "2015-06-03",
+            "resi_date": "2016-07-29",
+            "cp_rate": -42.1
+          },
+          {
+            "fund_code": "150295",
+            "fundsname": "南方中证国有企业改革指数分级A",
+            "post_date": "2015-06-03",
+            "resi_date": "2016-07-29",
+            "cp_rate": 6.6467
+          },
+          {
+            "fund_code": "150296",
+            "fundsname": "南方中证国有企业改革指数分级B",
+            "post_date": "2015-06-03",
+            "resi_date": "2016-07-29",
+            "cp_rate": -77.7689
+          },
+          {
+            "fund_code": "001113",
+            "fundsname": "南方大数据100指数A",
+            "post_date": "2015-04-24",
+            "resi_date": "2017-11-09",
+            "cp_rate": -10.79
+          },
+          {
+            "fund_code": "512340",
+            "fundsname": "中证500原材料指数ETF",
+            "post_date": "2015-04-16",
+            "resi_date": "2016-04-21",
+            "cp_rate": -28.5314
+          },
+          {
+            "fund_code": "512310",
+            "fundsname": "中证500工业指数ETF",
+            "post_date": "2015-04-08",
+            "resi_date": "2016-04-21",
+            "cp_rate": -37.9686
+          },
+          {
+            "fund_code": "513600",
+            "fundsname": "南方恒生交易型开放式指数",
+            "post_date": "2014-12-23",
+            "resi_date": "2016-04-21",
+            "cp_rate": -4.63
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "007903",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

@@ -1,0 +1,315 @@
+{
+  "data": {
+    "fund_company": "    中融基金管理有限公司原名道富基金管理有限公司,于2013年5月16日获证监会批准设立,2013年5月31日在国家工商行政管理总局办理完成工商注册登记并取得营业执照,可从事基金募集、基金销售、特定客户资产管理、资产管理和中国证监会许可的其他业务。注册资本7.5亿元人民币。\n    公司股权结构为:中融国际信托有限公司出资比例 51%;上海融晟投资有限公司出资比例49%。中融基金将依托股东单位的雄厚实力,秉承稳健的经营风格,以完善的风控体系为前提,以客户需求为导向,顺应基金行业发展规律,在不同业务方向上建立支点,打造亮点,为投资者提供长期稳定的回报。",
+    "fund_position": {
+      "stock_percent": 92.24,
+      "bond_percent": 5.77,
+      "cash_percent": 1.08,
+      "other_percent": 0.91,
+      "asset_tot": 97739615.94,
+      "asset_val": 96601670.72,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "鸿路钢构",
+          "code": "002541",
+          "percent": 6.07,
+          "current_price": 38.19,
+          "change_percentage": 1.84,
+          "xq_symbol": "SZ002541",
+          "xq_url": "https://xueqiu.com/S/SZ002541",
+          "amarket": true
+        },
+        {
+          "name": "再升科技",
+          "code": "603601",
+          "percent": 5.94,
+          "current_price": 15.48,
+          "change_percentage": 1.98,
+          "xq_symbol": "SH603601",
+          "xq_url": "https://xueqiu.com/S/SH603601",
+          "amarket": true
+        },
+        {
+          "name": "九强生物",
+          "code": "300406",
+          "percent": 5.62,
+          "current_price": 22.66,
+          "change_percentage": 3.23,
+          "xq_symbol": "SZ300406",
+          "xq_url": "https://xueqiu.com/S/SZ300406",
+          "amarket": true
+        },
+        {
+          "name": "中国巨石",
+          "code": "600176",
+          "percent": 5.44,
+          "current_price": 16.68,
+          "change_percentage": 0,
+          "xq_symbol": "SH600176",
+          "xq_url": "https://xueqiu.com/S/SH600176",
+          "amarket": true
+        },
+        {
+          "name": "智飞生物",
+          "code": "300122",
+          "percent": 4.96,
+          "current_price": 139.38,
+          "change_percentage": -0.39,
+          "xq_symbol": "SZ300122",
+          "xq_url": "https://xueqiu.com/S/SZ300122",
+          "amarket": true
+        },
+        {
+          "name": "雅克科技",
+          "code": "002409",
+          "percent": 4.86,
+          "current_price": 62.88,
+          "change_percentage": 1.01,
+          "xq_symbol": "SZ002409",
+          "xq_url": "https://xueqiu.com/S/SZ002409",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 4.08,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "新华保险",
+          "code": "601336",
+          "percent": 3.94,
+          "current_price": 62.1,
+          "change_percentage": 0.23,
+          "xq_symbol": "SH601336",
+          "xq_url": "https://xueqiu.com/S/SH601336",
+          "amarket": true
+        },
+        {
+          "name": "火炬电子",
+          "code": "603678",
+          "percent": 3.34,
+          "current_price": 55.23,
+          "change_percentage": -0.22,
+          "xq_symbol": "SH603678",
+          "xq_url": "https://xueqiu.com/S/SH603678",
+          "amarket": true
+        },
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 3.27,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "20国债01",
+          "code": "019627",
+          "percent": 5.84,
+          "xq_symbol": "019627",
+          "xq_url": "https://xueqiu.com/S/019627",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "003145",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<300万",
+          "value": "1.00"
+        },
+        {
+          "name": "300万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "柯海东",
+        "resume": "    柯海东先生,中国国籍,毕业于中山大学财务与投资管理专业,硕士研究生学历,取得基金业从业人员资格。2010年7月至2013年2月曾任职于中国中投证券研究总部分析师;2013年2月至2015年8月曾任职于国泰君安证券研究所分析师;2015年9月至2018年8月曾任职于前海开源基金管理有限公司投资部副总监。2018年9月加入中融基金管理有限公司,现任权益投资部副总经理。现任中融高股息精选混合型证券投资基金(2019年9月起至今)、中融竞争优势股票型证券投资基金(2019年1月起至今)、中融策略优选混合型证券投资基金(2019年5月起至今)、中融品牌优选混合型证券投资基金(2020年5月起至今)、中融价值成长6个月持有期混合型证券投资基金(2020年8月起至今)的基金经理。",
+        "college": "中山大学",
+        "work_year": "9",
+        "achievement_list": [
+          {
+            "fund_code": "009348",
+            "fundsname": "中融价值成长6个月持有混合C",
+            "post_date": "2020-08-05",
+            "cp_rate": -4.07
+          },
+          {
+            "fund_code": "009347",
+            "fundsname": "中融价值成长6个月持有混合A",
+            "post_date": "2020-08-05",
+            "cp_rate": -3.81
+          },
+          {
+            "fund_code": "008425",
+            "fundsname": "中融品牌优选混合C",
+            "post_date": "2020-05-14",
+            "cp_rate": 12.8
+          },
+          {
+            "fund_code": "008424",
+            "fundsname": "中融品牌优选混合A",
+            "post_date": "2020-05-14",
+            "cp_rate": 13.64
+          },
+          {
+            "fund_code": "006124",
+            "fundsname": "中融高股息混合C",
+            "post_date": "2019-09-26",
+            "cp_rate": 43.92
+          },
+          {
+            "fund_code": "006123",
+            "fundsname": "中融高股息混合A",
+            "post_date": "2019-09-26",
+            "cp_rate": 46.48
+          },
+          {
+            "fund_code": "006315",
+            "fundsname": "中融策略优选混合C",
+            "post_date": "2019-05-14",
+            "cp_rate": 119.9539
+          },
+          {
+            "fund_code": "006314",
+            "fundsname": "中融策略优选混合A",
+            "post_date": "2019-05-14",
+            "cp_rate": 122.9653
+          },
+          {
+            "fund_code": "003145",
+            "fundsname": "中融竞争优势股票",
+            "post_date": "2019-01-25",
+            "cp_rate": 148.5036
+          },
+          {
+            "fund_code": "001638",
+            "fundsname": "前海开源优势蓝筹股票C",
+            "post_date": "2017-08-10",
+            "resi_date": "2018-08-17",
+            "cp_rate": -5.7451
+          },
+          {
+            "fund_code": "001162",
+            "fundsname": "前海开源优势蓝筹股票A",
+            "post_date": "2017-08-10",
+            "resi_date": "2018-08-17",
+            "cp_rate": -5.8128
+          },
+          {
+            "fund_code": "004099",
+            "fundsname": "前海开源沪港深景气行业精选混合",
+            "post_date": "2017-05-08",
+            "resi_date": "2018-07-31",
+            "cp_rate": 11.14
+          },
+          {
+            "fund_code": "150254",
+            "fundsname": "前海开源大农业B",
+            "post_date": "2016-07-20",
+            "resi_date": "2018-06-06"
+          },
+          {
+            "fund_code": "150253",
+            "fundsname": "前海开源大农业A",
+            "post_date": "2016-07-20",
+            "resi_date": "2018-06-06"
+          },
+          {
+            "fund_code": "164403",
+            "fundsname": "前海开源农业精选混合(LOF)",
+            "post_date": "2016-07-20",
+            "resi_date": "2018-06-06",
+            "cp_rate": 12.0285
+          },
+          {
+            "fund_code": "002199",
+            "fundsname": "前海开源中证军工指数C",
+            "post_date": "2015-12-11",
+            "resi_date": "2017-02-21",
+            "cp_rate": -14.3444
+          },
+          {
+            "fund_code": "000596",
+            "fundsname": "前海开源中证军工指数A",
+            "post_date": "2015-12-11",
+            "resi_date": "2017-02-21",
+            "cp_rate": -14.1111
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "003145",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "fund_company": "    富国基金管理有限公司成立于1999年,是经中国证监会批准设立的首批十家基金管理公司之一。2003年,加拿大历史最悠久的银行——加拿大蒙特利尔银行(BMO)参股富国基金,富国基金管理有限公司又成为国内首批成立的十家基金公司中第一家外资参股的基金管理公司。\n    富国基金管理有限公司不仅在中国股市的巨变中积累了丰富的投资管理经验,而且享有外方股东输入的先进理念和管理技术。经过九年的发展,公司共管理运作十一只基金,包括汉盛、汉兴、汉鼎三只封闭式证券投资基金和富国天源、富国天博、富国天利债券、富国天益价值、富国天瑞强势地区精选、富国天惠精选成长、富国天时货币市场基金和富国天合稳健优选基金八只开放式证券投资基金,截至2007年四季度末,管理资产规模超过600亿元。",
+    "fund_position": {
+      "stock_percent": 87.99,
+      "bond_percent": 0,
+      "cash_percent": 11.33,
+      "other_percent": 0.68,
+      "asset_tot": 849915484.99,
+      "asset_val": 838158610.9,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "迈瑞医疗",
+          "code": "300760",
+          "percent": 8.07,
+          "current_price": 351.9,
+          "change_percentage": 1.82,
+          "xq_symbol": "SZ300760",
+          "xq_url": "https://xueqiu.com/S/SZ300760",
+          "amarket": true
+        },
+        {
+          "name": "爱尔眼科",
+          "code": "300015",
+          "percent": 7.92,
+          "current_price": 66.63,
+          "change_percentage": -0.25,
+          "xq_symbol": "SZ300015",
+          "xq_url": "https://xueqiu.com/S/SZ300015",
+          "amarket": true
+        },
+        {
+          "name": "智飞生物",
+          "code": "300122",
+          "percent": 6.83,
+          "current_price": 139.38,
+          "change_percentage": -0.39,
+          "xq_symbol": "SZ300122",
+          "xq_url": "https://xueqiu.com/S/SZ300122",
+          "amarket": true
+        },
+        {
+          "name": "凯莱英",
+          "code": "002821",
+          "percent": 5.91,
+          "current_price": 274,
+          "change_percentage": 1.64,
+          "xq_symbol": "SZ002821",
+          "xq_url": "https://xueqiu.com/S/SZ002821",
+          "amarket": true
+        },
+        {
+          "name": "华海药业",
+          "code": "600521",
+          "percent": 5.85,
+          "current_price": 35.36,
+          "change_percentage": 2.26,
+          "xq_symbol": "SH600521",
+          "xq_url": "https://xueqiu.com/S/SH600521",
+          "amarket": true
+        },
+        {
+          "name": "恒瑞医药",
+          "code": "600276",
+          "percent": 5.63,
+          "current_price": 90.07,
+          "change_percentage": 0.21,
+          "xq_symbol": "SH600276",
+          "xq_url": "https://xueqiu.com/S/SH600276",
+          "amarket": true
+        },
+        {
+          "name": "长春高新",
+          "code": "000661",
+          "percent": 4.57,
+          "current_price": 388,
+          "change_percentage": 0.19,
+          "xq_symbol": "SZ000661",
+          "xq_url": "https://xueqiu.com/S/SZ000661",
+          "amarket": true
+        },
+        {
+          "name": "心脉医疗",
+          "code": "688016",
+          "percent": 3.93,
+          "current_price": 239.89,
+          "change_percentage": 0.43,
+          "xq_symbol": "SH688016",
+          "xq_url": "https://xueqiu.com/S/SH688016",
+          "amarket": true
+        },
+        {
+          "name": "康龙化成",
+          "code": "300759",
+          "percent": 3.84,
+          "current_price": 103.13,
+          "change_percentage": -0.27,
+          "xq_symbol": "SZ300759",
+          "xq_url": "https://xueqiu.com/S/SZ300759",
+          "amarket": true
+        },
+        {
+          "name": "健帆生物",
+          "code": "300529",
+          "percent": 3.17,
+          "current_price": 68.76,
+          "change_percentage": -0.28,
+          "xq_symbol": "SZ300529",
+          "xq_url": "https://xueqiu.com/S/SZ300529",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "009162",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "1.20"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "365天≤持有期限<730天",
+          "value": "0.250"
+        },
+        {
+          "name": "730天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "孙笑悦",
+        "resume": "    孙笑悦,硕士,自2015年03月至2018年08月任国金证券股份有限公司上海投资咨询分公司医药资深分析师;2018年08月加入富国基金管理有限公司,自2020年4月起任富国医药成长30股票型证券投资基金、富国医疗保健行业混合型证券投资基金基金经理,2020年5月起任富国精准医疗灵活配置混合型证券投资基金基金经理。具有基金从业资格。",
+        "achievement_list": [
+          {
+            "fund_code": "005176",
+            "fundsname": "富国精准医疗灵活配置混合",
+            "post_date": "2020-05-26",
+            "cp_rate": 21.4442
+          },
+          {
+            "fund_code": "000220",
+            "fundsname": "富国医疗保健行业混合",
+            "post_date": "2020-04-13",
+            "cp_rate": 32.3677
+          },
+          {
+            "fund_code": "009162",
+            "fundsname": "富国医药成长30股票",
+            "post_date": "2020-04-09",
+            "cp_rate": 9.9
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "009162",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "fund_company": "    长信基金管理有限责任公司由长江证券股份有限公司、上海海欣(集团)股份有限公司、武汉钢铁股份有限公司共同发起设立,于2003年4月28日经中国证券监督管理委员会批准,并于2003年5月9日成立。注册资本金1.65亿元人民币,公司的经营范围包括发起设立基金、基金管理业务和中国证监会批准的其它业务。\n    股东会是公司的最高权力机构,下设董事会和监事会。公司组织管理实行董事会领导下的总经理负责制,总经理、副总经理、督察长组成公司的经营管理层。在经营管理层下设内部控制委员会、投资决策委员会两个非常设委员会,以及金融工程部、国际业务部、专户理财部、投资管理部、研究发展部、固定收益部、交易管理部、基金事务部、市场开发部、信息技术部、监察稽核部、综合行政部、产品开发部等十三个职能部门,并根据公司发展需要设北京分公司、深圳分公司和武汉办事处。",
+    "fund_position": {
+      "stock_percent": 93.82,
+      "bond_percent": 5.03,
+      "cash_percent": 0.84,
+      "other_percent": 0.31,
+      "asset_tot": 60982592.47,
+      "asset_val": 60449135.76,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "广联达",
+          "code": "002410",
+          "percent": 8.17,
+          "current_price": 70.77,
+          "change_percentage": 2.08,
+          "xq_symbol": "SZ002410",
+          "xq_url": "https://xueqiu.com/S/SZ002410",
+          "amarket": true
+        },
+        {
+          "name": "昂利康",
+          "code": "002940",
+          "percent": 8.15,
+          "current_price": 45.44,
+          "change_percentage": -0.85,
+          "xq_symbol": "SZ002940",
+          "xq_url": "https://xueqiu.com/S/SZ002940",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 7.26,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "歌尔股份",
+          "code": "002241",
+          "percent": 7.16,
+          "current_price": 37.16,
+          "change_percentage": -2.24,
+          "xq_symbol": "SZ002241",
+          "xq_url": "https://xueqiu.com/S/SZ002241",
+          "amarket": true
+        },
+        {
+          "name": "深信服",
+          "code": "300454",
+          "percent": 5.85,
+          "current_price": 217.55,
+          "change_percentage": 3.2,
+          "xq_symbol": "SZ300454",
+          "xq_url": "https://xueqiu.com/S/SZ300454",
+          "amarket": true
+        },
+        {
+          "name": "汇川技术",
+          "code": "300124",
+          "percent": 4.33,
+          "current_price": 85.58,
+          "change_percentage": 1.04,
+          "xq_symbol": "SZ300124",
+          "xq_url": "https://xueqiu.com/S/SZ300124",
+          "amarket": true
+        },
+        {
+          "name": "恒生电子",
+          "code": "600570",
+          "percent": 4.29,
+          "current_price": 98.15,
+          "change_percentage": 1.31,
+          "xq_symbol": "SH600570",
+          "xq_url": "https://xueqiu.com/S/SH600570",
+          "amarket": true
+        },
+        {
+          "name": "东方财富",
+          "code": "300059",
+          "percent": 4.02,
+          "current_price": 28.05,
+          "change_percentage": 1.08,
+          "xq_symbol": "SZ300059",
+          "xq_url": "https://xueqiu.com/S/SZ300059",
+          "amarket": true
+        },
+        {
+          "name": "卫宁健康",
+          "code": "300253",
+          "percent": 3.89,
+          "current_price": 17.31,
+          "change_percentage": 1.82,
+          "xq_symbol": "SZ300253",
+          "xq_url": "https://xueqiu.com/S/SZ300253",
+          "amarket": true
+        },
+        {
+          "name": "用友网络",
+          "code": "600588",
+          "percent": 3.82,
+          "current_price": 46.29,
+          "change_percentage": 0.67,
+          "xq_symbol": "SH600588",
+          "xq_url": "https://xueqiu.com/S/SH600588",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "20国债01",
+          "code": "019627",
+          "percent": 5.07,
+          "xq_symbol": "019627",
+          "xq_url": "https://xueqiu.com/S/019627",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "519935",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "1.00"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "沈佳",
+        "resume": "    沈佳 基金经理 自2019年12月12日起至今 复旦大学经济学硕士,具有基金从业资格。曾任职于国家开发银行上海市分行,2014年11月加入长信基金管理有限责任公司,历任行业研究员、基金经理助理,现任长信创新驱动股票型证券投资基金的基金经理。",
+        "college": "复旦大学",
+        "achievement_list": [
+          {
+            "fund_code": "519935",
+            "fundsname": "长信创新驱动股票",
+            "post_date": "2019-12-12",
+            "cp_rate": 40.5622
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "519935",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

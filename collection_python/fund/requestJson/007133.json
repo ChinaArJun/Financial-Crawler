@@ -1,0 +1,235 @@
+{
+  "data": {
+    "fund_company": "    嘉实基金管理有限公司成立于1999年3月,是国内最早成立的十家基金管理公司之一。十七年来,嘉实基金坚持合规经营,秉承“远见者稳进”理念,至今已发展形成涵盖公募基金、机构投资、养老金业务、海外投资、私募股权投资、财富管理等“全牌照”业务,联动一、二级市场投资的金融服务全产业链。截至2016年末,嘉实基金实现各类资产管理规模超9500亿元人民币,连续十年位居行业前列,为逾五千万投资者提供专业、高效的理财服务。\n    发展中的嘉实基金以“助力产业腾飞,服务财富增长”为核心使命,以普惠金融为理念,创造一流的产品和服务,力争实现客户、员工和公司长期共赢发展,致力于使嘉实成为中国领先、具有国际竞争力的资产管理集团。\n    以资产管理为核心的嘉实基金,业内首创“全天候、多策略”的投研模式,已建立超过20个投资策略组,构建丰富的产品线,为投资者创造优秀稳定的回报,屡获行业殊荣。十余年来,嘉实不断获得社保追加的委托管理资产,被包括数十家中央企业在内的300余家企业选定为企业年金投资管理人,为超过800万职工提供企业年金服务。\n    嘉实坚持国际化战略,自2009年建立香港子公司至今连续数年保持了在港中资资产管理机构的领先地位。2012年起嘉实推出海外ETF 业务,已经先后完成国内的指数在香港市场、纽约和伦敦挂牌上市。2015年,嘉实分别在伦敦与纽约注册成立分公司,进一步拓展国际市场。\n    2014年嘉实推进集团化发展,在二级市场投资中所建立的主动管理投资能力,逐步向更广泛的投资领域拓展,投资涵盖VC、PE、PIPE、新三板投资、并购投资等,并围绕优质标的积极进行产业的上下游布局,构建完整金融产业链。\n    嘉实基金始终以“创造财富增值,服务未来生活”为使命,以普惠金融为理念,创造优质产品和服务,力争实现客户、员工和公司长期共赢发展,从而使嘉实成为具有国际竞争力的综合金融集团。",
+    "fund_position": {
+      "stock_percent": 90.26,
+      "cash_percent": 9.63,
+      "other_percent": 0.11,
+      "asset_tot": 61369917.03,
+      "asset_val": 61030536.94,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "玲珑轮胎",
+          "code": "601966",
+          "percent": 2.39,
+          "current_price": 33.4,
+          "change_percentage": -2.34,
+          "xq_symbol": "SH601966",
+          "xq_url": "https://xueqiu.com/S/SH601966",
+          "amarket": true
+        },
+        {
+          "name": "三一重工",
+          "code": "600031",
+          "percent": 2.2,
+          "current_price": 31.48,
+          "change_percentage": -1.41,
+          "xq_symbol": "SH600031",
+          "xq_url": "https://xueqiu.com/S/SH600031",
+          "amarket": true
+        },
+        {
+          "name": "招商证券",
+          "code": "600999",
+          "percent": 2.13,
+          "current_price": 23.1,
+          "change_percentage": 0.79,
+          "xq_symbol": "SH600999",
+          "xq_url": "https://xueqiu.com/S/SH600999",
+          "amarket": true
+        },
+        {
+          "name": "中航机电",
+          "code": "002013",
+          "percent": 2.11,
+          "current_price": 11.2,
+          "change_percentage": 6.16,
+          "xq_symbol": "SZ002013",
+          "xq_url": "https://xueqiu.com/S/SZ002013",
+          "amarket": true
+        },
+        {
+          "name": "新城控股",
+          "code": "601155",
+          "percent": 1.95,
+          "current_price": 35.19,
+          "change_percentage": -0.26,
+          "xq_symbol": "SH601155",
+          "xq_url": "https://xueqiu.com/S/SH601155",
+          "amarket": true
+        },
+        {
+          "name": "工商银行",
+          "code": "601398",
+          "percent": 1.93,
+          "current_price": 5.12,
+          "change_percentage": -1.35,
+          "xq_symbol": "SH601398",
+          "xq_url": "https://xueqiu.com/S/SH601398",
+          "amarket": true
+        },
+        {
+          "name": "海康威视",
+          "code": "002415",
+          "percent": 1.9,
+          "current_price": 44.28,
+          "change_percentage": -1.16,
+          "xq_symbol": "SZ002415",
+          "xq_url": "https://xueqiu.com/S/SZ002415",
+          "amarket": true
+        },
+        {
+          "name": "莱克电气",
+          "code": "603355",
+          "percent": 1.89,
+          "current_price": 32.31,
+          "change_percentage": 0.06,
+          "xq_symbol": "SH603355",
+          "xq_url": "https://xueqiu.com/S/SH603355",
+          "amarket": true
+        },
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 1.89,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "中直股份",
+          "code": "600038",
+          "percent": 1.86,
+          "current_price": 53.77,
+          "change_percentage": -0.43,
+          "xq_symbol": "SH600038",
+          "xq_url": "https://xueqiu.com/S/SH600038",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "007133",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.00"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<180天",
+          "value": "0.500"
+        },
+        {
+          "name": "180天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "龙昌伦",
+        "resume": "    龙昌伦先生,硕士研究生,6年证券从业经历,具有基金从业资格。曾任职于建信基金管理有限责任公司投资管理部,从事量化研究工作。2015年4月加入嘉实基金管理有限公司,现任职于股票投资部。2017年6月22日至2020年5月14日任嘉实对冲套利定期开放混合型发起式证券投资基金基金经理。2017年6月22日至今任嘉实腾讯自选股大数据策略股票型证券投资基金基金经理、2018年9月12日至今任嘉实沪深300指数研究增强型证券投资基金基金经理、2019年5月6日至今任嘉实长青竞争优势股票型证券投资基金基金经理、2020年1月20日至今任嘉实中证500指数增强型证券投资基金基金经理。",
+        "work_year": "7",
+        "achievement_list": [
+          {
+            "fund_code": "008778",
+            "fundsname": "嘉实中证500指数增强A",
+            "post_date": "2020-01-20",
+            "cp_rate": 26.5805
+          },
+          {
+            "fund_code": "008779",
+            "fundsname": "嘉实中证500指数增强C",
+            "post_date": "2020-01-20",
+            "cp_rate": 26.1361
+          },
+          {
+            "fund_code": "007133",
+            "fundsname": "嘉实长青竞争优势股票A",
+            "post_date": "2019-05-06",
+            "cp_rate": 44.84
+          },
+          {
+            "fund_code": "007134",
+            "fundsname": "嘉实长青竞争优势股票C",
+            "post_date": "2019-05-06",
+            "cp_rate": 43.39
+          },
+          {
+            "fund_code": "000176",
+            "fundsname": "嘉实沪深300指数研究增强",
+            "post_date": "2018-09-12",
+            "cp_rate": 69.0316
+          },
+          {
+            "fund_code": "000585",
+            "fundsname": "嘉实对冲套利定期混合",
+            "post_date": "2017-06-22",
+            "resi_date": "2020-05-14",
+            "cp_rate": 8.4826
+          },
+          {
+            "fund_code": "001637",
+            "fundsname": "嘉实腾讯自选股大数据策略股票",
+            "post_date": "2017-06-22",
+            "cp_rate": 51.3672
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "007133",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

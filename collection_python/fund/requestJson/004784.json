@@ -1,0 +1,239 @@
+{
+  "data": {
+    "fund_company": "    招商基金管理有限公司于2002年12月27日经中国证监会(2002)100号文批准设立,是中国第一家中外合资基金管理公司。公司的经营范围包括发起设立基金、基金管理业务和中国证监会批准的其它业务。\n    经招商基金管理有限公司(以下简称“本公司”)股东会审议通过,并经中国证券监督管理委员会证监许可[2013]1074号文批复同意。目前,本公司的股东股权结构为:招商银行股份有限公司持有公司全部股权的55%,招商证券股份有限公司持有公司全部股权的45%。公司注册资本金为2.1亿元人民币。目前,招商基金拥有两家全资子公司,分别为招商财富资产管理有限公司和招商资产管理(香港)有限公司。\n    招商基金以“为投资者创造更多价值”为使命,秉承诚信、理性、专业、协作、成长的核心价值观,努力成为中国资产管理行业具有差异化竞争优势、一流品牌的资产管理公司。",
+    "fund_position": {
+      "stock_percent": 90.31,
+      "bond_percent": 4.11,
+      "cash_percent": 5.36,
+      "other_percent": 0.22,
+      "asset_tot": 72341910.37,
+      "asset_val": 71901912.11,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "智飞生物",
+          "code": "300122",
+          "percent": 9.22,
+          "current_price": 139.38,
+          "change_percentage": -0.39,
+          "xq_symbol": "SZ300122",
+          "xq_url": "https://xueqiu.com/S/SZ300122",
+          "amarket": true
+        },
+        {
+          "name": "分众传媒",
+          "code": "002027",
+          "percent": 7.4,
+          "current_price": 10.36,
+          "change_percentage": 0.58,
+          "xq_symbol": "SZ002027",
+          "xq_url": "https://xueqiu.com/S/SZ002027",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 7.03,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "恩捷股份",
+          "code": "002812",
+          "percent": 6.76,
+          "current_price": 108,
+          "change_percentage": 0.88,
+          "xq_symbol": "SZ002812",
+          "xq_url": "https://xueqiu.com/S/SZ002812",
+          "amarket": true
+        },
+        {
+          "name": "歌尔股份",
+          "code": "002241",
+          "percent": 5.74,
+          "current_price": 37.16,
+          "change_percentage": -2.24,
+          "xq_symbol": "SZ002241",
+          "xq_url": "https://xueqiu.com/S/SZ002241",
+          "amarket": true
+        },
+        {
+          "name": "宁德时代",
+          "code": "300750",
+          "percent": 5.73,
+          "current_price": 266.03,
+          "change_percentage": 1.75,
+          "xq_symbol": "SZ300750",
+          "xq_url": "https://xueqiu.com/S/SZ300750",
+          "amarket": true
+        },
+        {
+          "name": "璞泰来",
+          "code": "603659",
+          "percent": 5.54,
+          "current_price": 111.38,
+          "change_percentage": 5.71,
+          "xq_symbol": "SH603659",
+          "xq_url": "https://xueqiu.com/S/SH603659",
+          "amarket": true
+        },
+        {
+          "name": "康泰生物",
+          "code": "300601",
+          "percent": 5.37,
+          "current_price": 158.41,
+          "change_percentage": -1.36,
+          "xq_symbol": "SZ300601",
+          "xq_url": "https://xueqiu.com/S/SZ300601",
+          "amarket": true
+        },
+        {
+          "name": "华海药业",
+          "code": "600521",
+          "percent": 4.52,
+          "current_price": 35.36,
+          "change_percentage": 2.26,
+          "xq_symbol": "SH600521",
+          "xq_url": "https://xueqiu.com/S/SH600521",
+          "amarket": true
+        },
+        {
+          "name": "普洛药业",
+          "code": "000739",
+          "percent": 2.99,
+          "current_price": 23.2,
+          "change_percentage": 0,
+          "xq_symbol": "SZ000739",
+          "xq_url": "https://xueqiu.com/S/SZ000739",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "国开1805",
+          "code": "108604",
+          "percent": 4.13,
+          "xq_symbol": "108604",
+          "xq_url": "https://xueqiu.com/S/108604",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "004784",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.00"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "钟贇",
+        "resume": "    钟贇先生,硕士。2011年7月加入国泰基金管理有限公司,任研究部行业研究员,先后从事电力设备新能源、通信设备等行业的证券研究工作;2015年9月加入招商基金管理有限公司研究部,曾任高级研究员兼中游制造组组长,现任招商安润灵活配置混合型证券投资基金基金经理(管理时间:2019年5月14日至今)、招商稳健优选股票型证券投资基金基金经理(管理时间:2020年1月4日至今)。",
+        "work_year": "8",
+        "achievement_list": [
+          {
+            "fund_code": "004784",
+            "fundsname": "招商稳健优选股票",
+            "post_date": "2020-01-04",
+            "cp_rate": 63.9943
+          },
+          {
+            "fund_code": "000126",
+            "fundsname": "招商安润灵活配置混合",
+            "post_date": "2019-05-14",
+            "cp_rate": 134.2133
+          },
+          {
+            "fund_code": "000126",
+            "fundsname": "招商安润保本混合",
+            "post_date": "2017-12-06",
+            "resi_date": "2019-05-13",
+            "cp_rate": 2.1571
+          },
+          {
+            "fund_code": "217021",
+            "fundsname": "招商优势企业混合",
+            "post_date": "2017-02-22",
+            "resi_date": "2019-03-23",
+            "cp_rate": 5.0049
+          },
+          {
+            "fund_code": "001404",
+            "fundsname": "招商移动互联网产业股票",
+            "post_date": "2017-02-22",
+            "resi_date": "2019-03-23",
+            "cp_rate": -1.581
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "004784",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

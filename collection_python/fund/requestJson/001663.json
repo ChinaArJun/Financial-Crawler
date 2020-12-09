@@ -1,0 +1,241 @@
+{
+  "data": {
+    "fund_company": "    中银基金管理有限公司是由中国银行股份有限公司(以下简称中国银行)和贝莱德投资管理有限公司(以下简称贝莱德)两大全球著名领先金融品牌强强联合组建的中外合资基金管理公司,致力于长期参与中国基金业的发展,努力成为国内领先的基金管理公司。\n    中银基金管理有限公司前身为中银国际基金管理有限公司,于2004年7月29日正式开业,是由中银国际和美林投资管理合资组建(2006年9月29日美林投资管理有限公司与贝莱德投资管理有限公司合并,合并后新公司名称为“贝莱德投资管理有限公司”)。2007年12月25日,经中国证监会批准,中国银行直接控股中银基金。2008年1月16日,公司正式更名为中银基金管理有限公司。\n    中银基金管理有限公司汇集海内外具有丰富经验和良好职业道德,具备团队精神和创新意识的资深投资管理人才,组成了国际化与本土化相结合的中西合璧的专业化团队,致力于以诚信服务大众,用智慧创造财富,为投资者提供丰富的投资产品和国际标准的投资管理服务。公司将充分发挥中外股东的全球经验和资源优势,引入外方股东在全球资产管理市场的成功经验、技术和智慧,与中国本土经验相结合,为广大投资者提供专业化的投资理财服务。",
+    "fund_position": {
+      "stock_percent": 89.38,
+      "bond_percent": 6.72,
+      "cash_percent": 3.64,
+      "other_percent": 0.26,
+      "asset_tot": 63708932.96,
+      "asset_val": 63349482.83,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "恒生电子",
+          "code": "600570",
+          "percent": 6.71,
+          "current_price": 98.15,
+          "change_percentage": 1.31,
+          "xq_symbol": "SH600570",
+          "xq_url": "https://xueqiu.com/S/SH600570",
+          "amarket": true
+        },
+        {
+          "name": "吉比特",
+          "code": "603444",
+          "percent": 5.41,
+          "current_price": 410.3,
+          "change_percentage": 2.32,
+          "xq_symbol": "SH603444",
+          "xq_url": "https://xueqiu.com/S/SH603444",
+          "amarket": true
+        },
+        {
+          "name": "歌尔股份",
+          "code": "002241",
+          "percent": 5.15,
+          "current_price": 37.16,
+          "change_percentage": -2.24,
+          "xq_symbol": "SZ002241",
+          "xq_url": "https://xueqiu.com/S/SZ002241",
+          "amarket": true
+        },
+        {
+          "name": "京东方A",
+          "code": "000725",
+          "percent": 5.14,
+          "current_price": 5.25,
+          "change_percentage": -0.57,
+          "xq_symbol": "SZ000725",
+          "xq_url": "https://xueqiu.com/S/SZ000725",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 4.75,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "深信服",
+          "code": "300454",
+          "percent": 4.61,
+          "current_price": 217.55,
+          "change_percentage": 3.2,
+          "xq_symbol": "SZ300454",
+          "xq_url": "https://xueqiu.com/S/SZ300454",
+          "amarket": true
+        },
+        {
+          "name": "天下秀",
+          "code": "600556",
+          "percent": 4.37,
+          "current_price": 13.9,
+          "change_percentage": 0.51,
+          "xq_symbol": "SH600556",
+          "xq_url": "https://xueqiu.com/S/SH600556",
+          "amarket": true
+        },
+        {
+          "name": "北方华创",
+          "code": "002371",
+          "percent": 4.34,
+          "current_price": 172.8,
+          "change_percentage": -1.71,
+          "xq_symbol": "SZ002371",
+          "xq_url": "https://xueqiu.com/S/SZ002371",
+          "amarket": true
+        },
+        {
+          "name": "完美世界",
+          "code": "002624",
+          "percent": 4.21,
+          "current_price": 28.49,
+          "change_percentage": 0.49,
+          "xq_symbol": "SZ002624",
+          "xq_url": "https://xueqiu.com/S/SZ002624",
+          "amarket": true
+        },
+        {
+          "name": "奇安信",
+          "code": "688561",
+          "percent": 4.06,
+          "current_price": 110.62,
+          "change_percentage": -1.47,
+          "xq_symbol": "SH688561",
+          "xq_url": "https://xueqiu.com/S/SH688561",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "国开2004",
+          "code": "018013",
+          "percent": 3.44,
+          "xq_symbol": "018013",
+          "xq_url": "https://xueqiu.com/S/018013",
+          "amarket": false
+        },
+        {
+          "name": "农发1802",
+          "code": "108902",
+          "percent": 2.78,
+          "xq_symbol": "108902",
+          "xq_url": "https://xueqiu.com/S/108902",
+          "amarket": false
+        },
+        {
+          "name": "歌尔转2",
+          "code": "128112",
+          "percent": 0.54,
+          "xq_symbol": "128112",
+          "xq_url": "https://xueqiu.com/S/128112",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "001663",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.20"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "欧阳力君",
+        "resume": "    欧阳力君(OU Yanglijun)先生,工商管理硕士。曾任中银国际证券助理研究员,北京高华证券助理研究员。2012 年加入中银基金管理有限公司,曾任研究员。2018 年3 月至今任中银优秀企业基金基金经理,2018 年3 月至2019 年6 月任中银移动互联基金基金经理,2019 年9 月至今任中银互联网+基金基金经理。具有11 年证券从业年限。具备基金、证券从业资格。",
+        "work_year": "12",
+        "achievement_list": [
+          {
+            "fund_code": "001663",
+            "fundsname": "中银互联网+股票",
+            "post_date": "2019-09-18",
+            "cp_rate": 25.0758
+          },
+          {
+            "fund_code": "000432",
+            "fundsname": "中银优秀企业混合",
+            "post_date": "2018-03-02",
+            "cp_rate": 42.9408
+          },
+          {
+            "fund_code": "002180",
+            "fundsname": "中银移动互联混合",
+            "post_date": "2018-03-02",
+            "resi_date": "2019-06-03",
+            "cp_rate": -14.4503
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "001663",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 2,
+      "all_buy_days": 2,
+      "all_sale_days": 3
+    }
+  },
+  "result_code": 0
+}

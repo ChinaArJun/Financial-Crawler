@@ -1,0 +1,306 @@
+{
+  "data": {
+    "fund_company": "    华安基金管理有限公司成立于1998年6月4日,是中国证监会批准成立的首批基金管理公司之一,主营业务包括基金发起设立、基金管理和中国证监会批准的其他业务,注册资本1.5亿元人民币,上海电气(集团)总公司、上海国际信托有限公司、上海工业投资(集团)有限公司、上海锦江国际投资管理有限公司、上海沸点投资发展有限公司分别持有华安基金管理有限公司20%的股权。目前华安旗下共管理了2只封闭式证券投资基金和8只开放式基金、1只ETF和1只外币基金,它们分别是:基金安信、基金安顺、华安创新证券投资基金、华安MSCI中国A股指数增强型证券投资基金、华安现金富利投资基金、华安宝利配置证券投资基金、华安宏利股票证券投资基金、华安中小盘成长股票型基金、华安策略优选股票型基金、华安稳定收益债券型证券投资基金、上证180交易型开放式指数证券投资基金、华安国际配置基金。",
+    "fund_position": {
+      "bond_percent": 68.04,
+      "cash_percent": 5.45,
+      "other_percent": 26.51,
+      "asset_tot": 132889625.82,
+      "asset_val": 132571343.78,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [],
+      "bond_list": [
+        {
+          "name": "18苏州文保MTN001",
+          "code": "101800827",
+          "percent": 7.71,
+          "xq_symbol": "101800827",
+          "xq_url": "https://xueqiu.com/S/101800827",
+          "amarket": false
+        },
+        {
+          "name": "16甬保投MTN001",
+          "code": "101662034",
+          "percent": 7.63,
+          "xq_symbol": "101662034",
+          "xq_url": "https://xueqiu.com/S/101662034",
+          "amarket": false
+        },
+        {
+          "name": "16绿水01",
+          "code": "136689",
+          "percent": 7.58,
+          "xq_symbol": "136689",
+          "xq_url": "https://xueqiu.com/S/136689",
+          "amarket": false
+        },
+        {
+          "name": "20凯盛科技SCP004",
+          "code": "012001096",
+          "percent": 7.56,
+          "xq_symbol": "012001096",
+          "xq_url": "https://xueqiu.com/S/012001096",
+          "amarket": false
+        },
+        {
+          "name": "16武金02",
+          "code": "136393",
+          "percent": 7.56,
+          "xq_symbol": "136393",
+          "xq_url": "https://xueqiu.com/S/136393",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "007624",
+      "subscribe_rate": "0",
+      "declare_rate": "0.60",
+      "withdraw_rate": "1.500",
+      "discount": "1",
+      "subscribe_discount": "1",
+      "declare_discount": "1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "0.60"
+        },
+        {
+          "name": "100万≤买入金额<300万",
+          "value": "0.40"
+        },
+        {
+          "name": "300万≤买入金额<500万",
+          "value": "0.20"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.16"
+        },
+        {
+          "name": "基金管理费",
+          "value": "0.60"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "朱才敏",
+        "resume": "    朱才敏女士,金融工程硕士,具有基金从业资格证书,10年基金行业从业经历。2007年7月应届生毕业进入华安基金,历任金融工程部风险管理员、产品经理、固定收益部研究员、基金经理助理等职务。2014年11月至2017年7月,同时担任华安月月鑫短期理财债券型证券投资基金、华安季季鑫短期理财债券型证券投资基金、华安月安鑫短期理财债券型证券投资基金的基金经理。2014年11月起,同时担任华安汇财通货币市场基金、华安双债添利债券型证券投资基金的基金经理。2015年5月起同时担任华安新回报灵活配置混合型证券投资基金的基金经理。2016年4月起,同时担任华安安禧保本混合型证券投资基金的基金经理。2016年9月起,同时担任华安新财富灵活配置混合型证券投资基金的基金经理。2016年11月起,同时担任华安新希望灵活配置混合型证券投资基金的基金经理;2016年12月起,同时担任华安新泰利灵活配置混合型证券投资基金的基金经理。2017年3月起,同时担任华安睿安定期开放混合型证券投资基金的基金经理。2019年5月起,同时担任华安鼎信3个月定期开放债券型发起式证券投资基金的基金经理。2019年7月起,同时担任华安日日鑫货币市场基金的基金经理。",
+        "work_year": "13",
+        "achievement_list": [
+          {
+            "fund_code": "007625",
+            "fundsname": "华安年年丰定开债C",
+            "post_date": "2019-08-21",
+            "cp_rate": 1.82
+          },
+          {
+            "fund_code": "007624",
+            "fundsname": "华安年年丰定开债A",
+            "post_date": "2019-08-21",
+            "cp_rate": 2.34
+          },
+          {
+            "fund_code": "511600",
+            "fundsname": "华安日日鑫货币H",
+            "post_date": "2019-07-01",
+            "cp_rate": 2.9595
+          },
+          {
+            "fund_code": "040039",
+            "fundsname": "华安日日鑫货币B",
+            "post_date": "2019-07-01",
+            "cp_rate": 3.4586
+          },
+          {
+            "fund_code": "040038",
+            "fundsname": "华安日日鑫货币A",
+            "post_date": "2019-07-01",
+            "cp_rate": 3.1028
+          },
+          {
+            "fund_code": "007420",
+            "fundsname": "华安鼎信3个月定开债",
+            "post_date": "2019-05-15",
+            "cp_rate": 5.66
+          },
+          {
+            "fund_code": "002398",
+            "fundsname": "华安安禧灵活配置混合A",
+            "post_date": "2018-10-23",
+            "cp_rate": 14.3684
+          },
+          {
+            "fund_code": "002399",
+            "fundsname": "华安安禧灵活配置混合C",
+            "post_date": "2018-10-23",
+            "cp_rate": 12.984
+          },
+          {
+            "fund_code": "003509",
+            "fundsname": "华安睿安定开混合C",
+            "post_date": "2017-03-15",
+            "resi_date": "2020-11-04",
+            "cp_rate": 20.34
+          },
+          {
+            "fund_code": "003508",
+            "fundsname": "华安睿安定开混合A",
+            "post_date": "2017-03-15",
+            "resi_date": "2020-11-04",
+            "cp_rate": 22.57
+          },
+          {
+            "fund_code": "003800",
+            "fundsname": "华安新泰利混合C",
+            "post_date": "2016-12-09",
+            "cp_rate": 24.3176
+          },
+          {
+            "fund_code": "003799",
+            "fundsname": "华安新泰利混合A",
+            "post_date": "2016-12-09",
+            "cp_rate": 26.2774
+          },
+          {
+            "fund_code": "002038",
+            "fundsname": "华安新希望灵活配置混合C",
+            "post_date": "2016-11-18",
+            "resi_date": "2017-12-25",
+            "cp_rate": 280.3
+          },
+          {
+            "fund_code": "002037",
+            "fundsname": "华安新希望灵活配置混合A",
+            "post_date": "2016-11-18",
+            "resi_date": "2017-12-25",
+            "cp_rate": 6.9
+          },
+          {
+            "fund_code": "002034",
+            "fundsname": "华安新财富灵活配置混合C",
+            "post_date": "2016-09-22",
+            "resi_date": "2018-01-24",
+            "cp_rate": 1.6
+          },
+          {
+            "fund_code": "002033",
+            "fundsname": "华安新财富灵活配置混合A",
+            "post_date": "2016-09-22",
+            "resi_date": "2018-01-24",
+            "cp_rate": 3
+          },
+          {
+            "fund_code": "002399",
+            "fundsname": "华安安禧保本混合C",
+            "post_date": "2016-04-13",
+            "resi_date": "2018-10-22",
+            "cp_rate": 7.41
+          },
+          {
+            "fund_code": "002398",
+            "fundsname": "华安安禧保本混合A",
+            "post_date": "2016-04-13",
+            "resi_date": "2018-10-22",
+            "cp_rate": 8.82
+          },
+          {
+            "fund_code": "001311",
+            "fundsname": "华安新回报灵活配置混合",
+            "post_date": "2015-05-19",
+            "cp_rate": 39.2607
+          },
+          {
+            "fund_code": "040029",
+            "fundsname": "华安月月鑫短期理财债券B",
+            "post_date": "2014-11-20",
+            "resi_date": "2017-07-31",
+            "cp_rate": 8.7431
+          },
+          {
+            "fund_code": "040030",
+            "fundsname": "华安季季鑫短期理财债券A",
+            "post_date": "2014-11-20",
+            "resi_date": "2017-07-31",
+            "cp_rate": 5.9963
+          },
+          {
+            "fund_code": "040031",
+            "fundsname": "华安季季鑫短期理财债券B",
+            "post_date": "2014-11-20",
+            "resi_date": "2017-07-31",
+            "cp_rate": 5.3758
+          },
+          {
+            "fund_code": "040033",
+            "fundsname": "华安月安鑫短期理财债券A",
+            "post_date": "2014-11-20",
+            "resi_date": "2017-07-31",
+            "cp_rate": 6.0216
+          },
+          {
+            "fund_code": "040034",
+            "fundsname": "华安月安鑫短期理财债券B",
+            "post_date": "2014-11-20",
+            "resi_date": "2017-07-31",
+            "cp_rate": 3.6539
+          },
+          {
+            "fund_code": "000149",
+            "fundsname": "华安双债添利债券A",
+            "post_date": "2014-11-20",
+            "cp_rate": 44.6967
+          },
+          {
+            "fund_code": "000150",
+            "fundsname": "华安双债添利债券C",
+            "post_date": "2014-11-20",
+            "cp_rate": 42.1043
+          },
+          {
+            "fund_code": "000709",
+            "fundsname": "华安汇财通货币",
+            "post_date": "2014-11-20",
+            "cp_rate": 18.8987
+          },
+          {
+            "fund_code": "040028",
+            "fundsname": "华安月月鑫短期理财债券A",
+            "post_date": "2014-11-20",
+            "resi_date": "2017-07-31",
+            "cp_rate": 8.0985
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "007624",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

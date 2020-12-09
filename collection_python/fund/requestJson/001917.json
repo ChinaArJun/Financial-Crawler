@@ -1,0 +1,446 @@
+{
+  "data": {
+    "fund_company": "    招商基金管理有限公司于2002年12月27日经中国证监会(2002)100号文批准设立,是中国第一家中外合资基金管理公司。公司的经营范围包括发起设立基金、基金管理业务和中国证监会批准的其它业务。\n    经招商基金管理有限公司(以下简称“本公司”)股东会审议通过,并经中国证券监督管理委员会证监许可[2013]1074号文批复同意。目前,本公司的股东股权结构为:招商银行股份有限公司持有公司全部股权的55%,招商证券股份有限公司持有公司全部股权的45%。公司注册资本金为2.1亿元人民币。目前,招商基金拥有两家全资子公司,分别为招商财富资产管理有限公司和招商资产管理(香港)有限公司。\n    招商基金以“为投资者创造更多价值”为使命,秉承诚信、理性、专业、协作、成长的核心价值观,努力成为中国资产管理行业具有差异化竞争优势、一流品牌的资产管理公司。",
+    "fund_position": {
+      "stock_percent": 93.89,
+      "bond_percent": 0.13,
+      "cash_percent": 5.76,
+      "other_percent": 0.22,
+      "asset_tot": 135018923.89,
+      "asset_val": 134033478.77,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "安徽合力",
+          "code": "600761",
+          "percent": 2.44,
+          "current_price": 15.96,
+          "change_percentage": -1.54,
+          "xq_symbol": "SH600761",
+          "xq_url": "https://xueqiu.com/S/SH600761",
+          "amarket": true
+        },
+        {
+          "name": "金发科技",
+          "code": "600143",
+          "percent": 2.17,
+          "current_price": 17,
+          "change_percentage": -1.73,
+          "xq_symbol": "SH600143",
+          "xq_url": "https://xueqiu.com/S/SH600143",
+          "amarket": true
+        },
+        {
+          "name": "一汽富维",
+          "code": "600742",
+          "percent": 1.96,
+          "current_price": 10.93,
+          "change_percentage": 1.2,
+          "xq_symbol": "SH600742",
+          "xq_url": "https://xueqiu.com/S/SH600742",
+          "amarket": true
+        },
+        {
+          "name": "广东骏亚",
+          "code": "603386",
+          "percent": 1.81,
+          "current_price": 17.27,
+          "change_percentage": 2.19,
+          "xq_symbol": "SH603386",
+          "xq_url": "https://xueqiu.com/S/SH603386",
+          "amarket": true
+        },
+        {
+          "name": "上海机电",
+          "code": "600835",
+          "percent": 1.6,
+          "current_price": 19.38,
+          "change_percentage": -1.07,
+          "xq_symbol": "SH600835",
+          "xq_url": "https://xueqiu.com/S/SH600835",
+          "amarket": true
+        },
+        {
+          "name": "川仪股份",
+          "code": "603100",
+          "percent": 1.57,
+          "current_price": 12.08,
+          "change_percentage": 0.42,
+          "xq_symbol": "SH603100",
+          "xq_url": "https://xueqiu.com/S/SH603100",
+          "amarket": true
+        },
+        {
+          "name": "春秋电子",
+          "code": "603890",
+          "percent": 1.5,
+          "current_price": 12.36,
+          "change_percentage": 0.49,
+          "xq_symbol": "SH603890",
+          "xq_url": "https://xueqiu.com/S/SH603890",
+          "amarket": true
+        },
+        {
+          "name": "贵州轮胎",
+          "code": "000589",
+          "percent": 1.43,
+          "current_price": 6.5,
+          "change_percentage": 0,
+          "xq_symbol": "SZ000589",
+          "xq_url": "https://xueqiu.com/S/SZ000589",
+          "amarket": true
+        },
+        {
+          "name": "东风科技",
+          "code": "600081",
+          "percent": 1.42,
+          "current_price": 12.72,
+          "change_percentage": -3.12,
+          "xq_symbol": "SH600081",
+          "xq_url": "https://xueqiu.com/S/SH600081",
+          "amarket": true
+        },
+        {
+          "name": "四方股份",
+          "code": "601126",
+          "percent": 1.39,
+          "current_price": 7.41,
+          "change_percentage": 0.14,
+          "xq_symbol": "SH601126",
+          "xq_url": "https://xueqiu.com/S/SH601126",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "国开2004",
+          "code": "018013",
+          "percent": 0.13,
+          "xq_symbol": "018013",
+          "xq_url": "https://xueqiu.com/S/018013",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "001917",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.00"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "王平",
+        "resume": "    王平先生,管理学硕士,FRM。2006年加入招商基金管理有限公司,曾任投资风险管理部助理数量分析师、风险管理部数量分析师、高级风控经理,主要负责公司投资风险管理、金融工程研究等工作,现任量化投资部副总监兼招商量化精选股票型发起式证券投资基金基金经理(管理时间:2016年3月15日至今)、招商稳荣定期开放灵活配置混合型证券投资基金基金经理(管理时间:2016年10月27日至今)、招商沪深300指数增强型证券投资基金基金经理(管理时间:2017年2月10日至今)、招商中证1000指数增强型证券投资基金基金经理(管理时间:2017年3月3日至今)、招商盛合灵活配置混合型证券投资基金基金经理(管理时间:2017年4月29日至今)、招商中证500指数增强型证券投资基金基金经理(管理时间:2017年5月17日至今)、招商中证红利交易型开放式指数证券投资基金基金经理(管理时间:2019年11月28日至今)。",
+        "college": "中南大学",
+        "work_year": "14",
+        "achievement_list": [
+          {
+            "fund_code": "515080",
+            "fundsname": "招商中证红利ETF",
+            "post_date": "2019-11-28",
+            "cp_rate": 34.33
+          },
+          {
+            "fund_code": "007952",
+            "fundsname": "招商财经大数据股票C",
+            "post_date": "2019-09-11",
+            "resi_date": "2020-08-01",
+            "cp_rate": 33.7768
+          },
+          {
+            "fund_code": "007950",
+            "fundsname": "招商量化精选股票C",
+            "post_date": "2019-09-11",
+            "cp_rate": 61.5564
+          },
+          {
+            "fund_code": "004193",
+            "fundsname": "招商中证500指数C",
+            "post_date": "2017-05-17",
+            "cp_rate": 29.79
+          },
+          {
+            "fund_code": "004192",
+            "fundsname": "招商中证500指数A",
+            "post_date": "2017-05-17",
+            "cp_rate": 30.55
+          },
+          {
+            "fund_code": "004142",
+            "fundsname": "招商盛合灵活混合A",
+            "post_date": "2017-04-29",
+            "cp_rate": 52.9291
+          },
+          {
+            "fund_code": "004143",
+            "fundsname": "招商盛合灵活混合C",
+            "post_date": "2017-04-29",
+            "cp_rate": 50.0973
+          },
+          {
+            "fund_code": "004195",
+            "fundsname": "招商中证1000指数C",
+            "post_date": "2017-03-03",
+            "cp_rate": 31.06
+          },
+          {
+            "fund_code": "004194",
+            "fundsname": "招商中证1000指数A",
+            "post_date": "2017-03-03",
+            "cp_rate": 31.57
+          },
+          {
+            "fund_code": "004190",
+            "fundsname": "招商沪深300指数A",
+            "post_date": "2017-02-10",
+            "cp_rate": 77.66
+          },
+          {
+            "fund_code": "004191",
+            "fundsname": "招商沪深300指数C",
+            "post_date": "2017-02-10",
+            "cp_rate": 75.45
+          },
+          {
+            "fund_code": "003416",
+            "fundsname": "招商财经大数据股票A",
+            "post_date": "2016-11-02",
+            "resi_date": "2020-08-01",
+            "cp_rate": 8.69
+          },
+          {
+            "fund_code": "003352",
+            "fundsname": "招商稳荣定开灵活混合C",
+            "post_date": "2016-10-27",
+            "cp_rate": 15.1588
+          },
+          {
+            "fund_code": "003351",
+            "fundsname": "招商稳荣定开灵活混合A",
+            "post_date": "2016-10-27",
+            "cp_rate": 17.5634
+          },
+          {
+            "fund_code": "001917",
+            "fundsname": "招商量化精选股票A",
+            "post_date": "2016-03-15",
+            "cp_rate": 70.5095
+          },
+          {
+            "fund_code": "150272",
+            "fundsname": "招商国证生物医药B",
+            "post_date": "2015-05-27",
+            "resi_date": "2016-12-03",
+            "cp_rate": -70.6687
+          },
+          {
+            "fund_code": "150271",
+            "fundsname": "招商国证生物医药A",
+            "post_date": "2015-05-27",
+            "resi_date": "2016-12-03",
+            "cp_rate": 7.46
+          },
+          {
+            "fund_code": "161726",
+            "fundsname": "招商国证生物医药指数分级",
+            "post_date": "2015-05-27",
+            "resi_date": "2016-12-03",
+            "cp_rate": -30.8691
+          },
+          {
+            "fund_code": "150270",
+            "fundsname": "招商中证白酒B",
+            "post_date": "2015-05-27",
+            "resi_date": "2016-12-03",
+            "cp_rate": -3.8384
+          },
+          {
+            "fund_code": "150269",
+            "fundsname": "招商中证白酒A",
+            "post_date": "2015-05-27",
+            "resi_date": "2016-12-03",
+            "cp_rate": 7.45
+          },
+          {
+            "fund_code": "161725",
+            "fundsname": "招商中证白酒指数分级",
+            "post_date": "2015-05-27",
+            "resi_date": "2016-12-03",
+            "cp_rate": 2.1106
+          },
+          {
+            "fund_code": "150252",
+            "fundsname": "招商中证煤炭B",
+            "post_date": "2015-05-20",
+            "resi_date": "2016-12-03",
+            "cp_rate": -57.6331
+          },
+          {
+            "fund_code": "150251",
+            "fundsname": "招商中证煤炭A",
+            "post_date": "2015-05-20",
+            "resi_date": "2016-12-03",
+            "cp_rate": 7.57
+          },
+          {
+            "fund_code": "161724",
+            "fundsname": "招商中证煤炭等权指数分级",
+            "post_date": "2015-05-20",
+            "resi_date": "2016-12-03",
+            "cp_rate": -20.7349
+          },
+          {
+            "fund_code": "150250",
+            "fundsname": "招商中证银行B",
+            "post_date": "2015-05-20",
+            "resi_date": "2016-12-03",
+            "cp_rate": -19.5652
+          },
+          {
+            "fund_code": "150249",
+            "fundsname": "招商中证银行A",
+            "post_date": "2015-05-20",
+            "resi_date": "2016-12-03",
+            "cp_rate": 7.55
+          },
+          {
+            "fund_code": "161723",
+            "fundsname": "招商中证银行指数分级",
+            "post_date": "2015-05-20",
+            "resi_date": "2016-12-03",
+            "cp_rate": -6.0338
+          },
+          {
+            "fund_code": "217027",
+            "fundsname": "招商央视财经50指数A",
+            "post_date": "2013-02-05",
+            "resi_date": "2016-12-03",
+            "cp_rate": 53.6
+          },
+          {
+            "fund_code": "150097",
+            "fundsname": "招商中证商品B",
+            "post_date": "2012-06-28",
+            "resi_date": "2016-12-03",
+            "cp_rate": 7.1856
+          },
+          {
+            "fund_code": "150096",
+            "fundsname": "招商中证商品A",
+            "post_date": "2012-06-28",
+            "resi_date": "2016-12-03",
+            "cp_rate": 22.44
+          },
+          {
+            "fund_code": "161715",
+            "fundsname": "招商中证商品指数基金(LOF)",
+            "post_date": "2012-06-28",
+            "resi_date": "2016-12-03",
+            "cp_rate": 16.2737
+          },
+          {
+            "fund_code": "217019",
+            "fundsname": "招商深证TMT50ETF联接A",
+            "post_date": "2011-06-27",
+            "resi_date": "2017-01-13",
+            "cp_rate": 34.3
+          },
+          {
+            "fund_code": "159909",
+            "fundsname": "深证TMT50ETF",
+            "post_date": "2011-06-27",
+            "resi_date": "2017-01-13",
+            "cp_rate": 39.493
+          },
+          {
+            "fund_code": "217017",
+            "fundsname": "招商上证消费80ETF联接A",
+            "post_date": "2010-12-08",
+            "resi_date": "2017-01-13",
+            "cp_rate": 23.7
+          },
+          {
+            "fund_code": "510150",
+            "fundsname": "招商上证消费80ETF",
+            "post_date": "2010-12-08",
+            "resi_date": "2017-01-13",
+            "cp_rate": 27.41
+          },
+          {
+            "fund_code": "217016",
+            "fundsname": "招商深证100指数A",
+            "post_date": "2010-06-22",
+            "resi_date": "2016-12-03",
+            "cp_rate": 18.3
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "001917",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

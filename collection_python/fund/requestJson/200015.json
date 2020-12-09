@@ -1,0 +1,212 @@
+{
+  "data": {
+    "fund_company": "    长城基金管理有限公司成立于2001年12月27日,由长城证券有限责任公司、东方证券股份有限公司、北方国际信托股份有限公司、中原信托有限公司共同出资设立。公司的经营范围为基金募集、基金销售、资产管理和中国证监会许可的其他业务。\n    长城基金管理有限公司一直秉承“诚信、规范、专业、创新”的经营理念,坚持基金持有人利益至上的经营原则,凭借完善的公司治理结构、严格的风险控制、规范的业务流程、高效专业的员工团队、开放与学习的文化氛围,努力打造一流的基金管理公司品牌,竭诚为客户提供优质的投资理财产品和服务。\n    产品线介绍\n    截至2016年8月,长城基金管理有限公司一共管理基金38只。基金产品类别涵盖货币型、债券型、混合型以及指数型基金,形成覆盖低、中、高各类风险收益特征的较为完善的产品线。",
+    "fund_position": {
+      "stock_percent": 85.51,
+      "cash_percent": 14.19,
+      "other_percent": 0.3,
+      "asset_tot": 87977007.76,
+      "asset_val": 86752685.41,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "爱乐达",
+          "code": "300696",
+          "percent": 4.27,
+          "current_price": 52.03,
+          "change_percentage": -0.17,
+          "xq_symbol": "SZ300696",
+          "xq_url": "https://xueqiu.com/S/SZ300696",
+          "amarket": true
+        },
+        {
+          "name": "鸿路钢构",
+          "code": "002541",
+          "percent": 3.83,
+          "current_price": 38.19,
+          "change_percentage": 1.84,
+          "xq_symbol": "SZ002541",
+          "xq_url": "https://xueqiu.com/S/SZ002541",
+          "amarket": true
+        },
+        {
+          "name": "中国中免",
+          "code": "601888",
+          "percent": 3.44,
+          "current_price": 208.03,
+          "change_percentage": 0.13,
+          "xq_symbol": "SH601888",
+          "xq_url": "https://xueqiu.com/S/SH601888",
+          "amarket": true
+        },
+        {
+          "name": "顺鑫农业",
+          "code": "000860",
+          "percent": 3.29,
+          "current_price": 64.72,
+          "change_percentage": 3.39,
+          "xq_symbol": "SZ000860",
+          "xq_url": "https://xueqiu.com/S/SZ000860",
+          "amarket": true
+        },
+        {
+          "name": "三一重工",
+          "code": "600031",
+          "percent": 2.98,
+          "current_price": 31.48,
+          "change_percentage": -1.41,
+          "xq_symbol": "SH600031",
+          "xq_url": "https://xueqiu.com/S/SH600031",
+          "amarket": true
+        },
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 2.51,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 2.09,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "光明乳业",
+          "code": "600597",
+          "percent": 2.02,
+          "current_price": 15.6,
+          "change_percentage": 0.19,
+          "xq_symbol": "SH600597",
+          "xq_url": "https://xueqiu.com/S/SH600597",
+          "amarket": true
+        },
+        {
+          "name": "良信股份",
+          "code": "002706",
+          "percent": 1.98,
+          "current_price": 25.8,
+          "change_percentage": 0.74,
+          "xq_symbol": "SZ002706",
+          "xq_url": "https://xueqiu.com/S/SZ002706",
+          "amarket": true
+        },
+        {
+          "name": "捷佳伟创",
+          "code": "300724",
+          "percent": 1.94,
+          "current_price": 124.78,
+          "change_percentage": 0.58,
+          "xq_symbol": "SZ300724",
+          "xq_url": "https://xueqiu.com/S/SZ300724",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "200015",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<200万",
+          "value": "1.00"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.50"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "张捷",
+        "resume": "    张捷先生,英国中央兰开夏大学工学学士、英国伦敦帝国理工大学理学硕士。曾就职于平安集团、柏坊资产管理有限公司、信达澳银基金管理有限公司。2014年进入长城基金管理有限公司,曾任行业研究员、“长城安心回报混合型证券投资基金”基金经理助理。\n    自2018年3月至2019年1月任“长城创新动力灵活配置混合型证券投资基金”基金经理。\n    自2018年8月至今任“长城优化升级混合型证券投资基金”基金经理,自2018年9月至今任 “长城稳健成长灵活配置混合型证券投资基金”基金经理。",
+        "college": "英国伦敦帝国理工大学",
+        "work_year": "6",
+        "achievement_list": [
+          {
+            "fund_code": "200016",
+            "fundsname": "长城稳健成长灵活配置混合",
+            "post_date": "2018-09-06",
+            "cp_rate": 76.2062
+          },
+          {
+            "fund_code": "200015",
+            "fundsname": "长城优化升级混合",
+            "post_date": "2018-08-03",
+            "cp_rate": 93.3344
+          },
+          {
+            "fund_code": "001879",
+            "fundsname": "长城创新动力灵活配置混合",
+            "post_date": "2018-03-08",
+            "resi_date": "2019-01-28",
+            "cp_rate": -13.5323
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "200015",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

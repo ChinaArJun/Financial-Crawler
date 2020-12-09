@@ -1,0 +1,253 @@
+{
+  "data": {
+    "fund_company": "    华安基金管理有限公司成立于1998年6月4日,是中国证监会批准成立的首批基金管理公司之一,主营业务包括基金发起设立、基金管理和中国证监会批准的其他业务,注册资本1.5亿元人民币,上海电气(集团)总公司、上海国际信托有限公司、上海工业投资(集团)有限公司、上海锦江国际投资管理有限公司、上海沸点投资发展有限公司分别持有华安基金管理有限公司20%的股权。目前华安旗下共管理了2只封闭式证券投资基金和8只开放式基金、1只ETF和1只外币基金,它们分别是:基金安信、基金安顺、华安创新证券投资基金、华安MSCI中国A股指数增强型证券投资基金、华安现金富利投资基金、华安宝利配置证券投资基金、华安宏利股票证券投资基金、华安中小盘成长股票型基金、华安策略优选股票型基金、华安稳定收益债券型证券投资基金、上证180交易型开放式指数证券投资基金、华安国际配置基金。",
+    "fund_position": {
+      "stock_percent": 87.34,
+      "bond_percent": 0.07,
+      "cash_percent": 12.46,
+      "other_percent": 0.13,
+      "asset_tot": 701425564.82,
+      "asset_val": 697623853.44,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "歌尔股份",
+          "code": "002241",
+          "percent": 4.66,
+          "current_price": 37.16,
+          "change_percentage": -2.24,
+          "xq_symbol": "SZ002241",
+          "xq_url": "https://xueqiu.com/S/SZ002241",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 4.32,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "华润微",
+          "code": "688396",
+          "percent": 3.66,
+          "current_price": 69.39,
+          "change_percentage": 0.59,
+          "xq_symbol": "SH688396",
+          "xq_url": "https://xueqiu.com/S/SH688396",
+          "amarket": true
+        },
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 3.5,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "大华股份",
+          "code": "002236",
+          "percent": 3.21,
+          "current_price": 20.86,
+          "change_percentage": -0.48,
+          "xq_symbol": "SZ002236",
+          "xq_url": "https://xueqiu.com/S/SZ002236",
+          "amarket": true
+        },
+        {
+          "name": "景嘉微",
+          "code": "300474",
+          "percent": 2.89,
+          "current_price": 62.78,
+          "change_percentage": -0.55,
+          "xq_symbol": "SZ300474",
+          "xq_url": "https://xueqiu.com/S/SZ300474",
+          "amarket": true
+        },
+        {
+          "name": "晶盛机电",
+          "code": "300316",
+          "percent": 2.69,
+          "current_price": 29.1,
+          "change_percentage": -2.51,
+          "xq_symbol": "SZ300316",
+          "xq_url": "https://xueqiu.com/S/SZ300316",
+          "amarket": true
+        },
+        {
+          "name": "浪潮信息",
+          "code": "000977",
+          "percent": 2.65,
+          "current_price": 28.3,
+          "change_percentage": -0.95,
+          "xq_symbol": "SZ000977",
+          "xq_url": "https://xueqiu.com/S/SZ000977",
+          "amarket": true
+        },
+        {
+          "name": "上能电气",
+          "code": "300827",
+          "percent": 2.64,
+          "current_price": 58.79,
+          "change_percentage": 3.03,
+          "xq_symbol": "SZ300827",
+          "xq_url": "https://xueqiu.com/S/SZ300827",
+          "amarket": true
+        },
+        {
+          "name": "晶澳科技",
+          "code": "002459",
+          "percent": 2.64,
+          "current_price": 32.99,
+          "change_percentage": 0.49,
+          "xq_symbol": "SZ002459",
+          "xq_url": "https://xueqiu.com/S/SZ002459",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "精达转债",
+          "code": "110074",
+          "percent": 0.06,
+          "xq_symbol": "110074",
+          "xq_url": "https://xueqiu.com/S/110074",
+          "amarket": false
+        },
+        {
+          "name": "隆20转债",
+          "code": "113038",
+          "percent": 0.01,
+          "xq_symbol": "113038",
+          "xq_url": "https://xueqiu.com/S/113038",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "001072",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<300万",
+          "value": "1.20"
+        },
+        {
+          "name": "300万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<30天",
+          "value": "1.500"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.750"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.500"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "李欣",
+        "resume": "    李欣先生,曾在台达电子工业股份有限公司任产品研发工程师,华泰联合证券有限责任公司任研究员。2012年5月加入华安基金管理有限公司,历任投资研究部研究员,基金投资部基金经理助理。2015年7月起任华安智能装备主题股票型证券投资基金基金经理。2017年7月至2019年11月任华安文体健康主题灵活配置混合型证券投资基金基金经理。2018年6月起任华安中小盘成长股票型证券投资基金基金经理。2019年3月起任华安低碳生活混合型证券投资基金基金经理。2019年6月起任华安科创主题3年封闭运作灵活配置混合型证券投资基金基金经理。2019年11月起任华安科技动力混合型证券投资基金基金经理。",
+        "work_year": "10",
+        "achievement_list": [
+          {
+            "fund_code": "008635",
+            "fundsname": "华安科技创新混合",
+            "post_date": "2020-03-06",
+            "cp_rate": 18.91
+          },
+          {
+            "fund_code": "040025",
+            "fundsname": "华安科技动力混合",
+            "post_date": "2019-11-08",
+            "cp_rate": 46.4142
+          },
+          {
+            "fund_code": "501073",
+            "fundsname": "华安科创主题混合",
+            "post_date": "2019-06-11",
+            "cp_rate": 11.9
+          },
+          {
+            "fund_code": "006122",
+            "fundsname": "华安低碳生活混合",
+            "post_date": "2019-03-12",
+            "cp_rate": 114.31
+          },
+          {
+            "fund_code": "040007",
+            "fundsname": "华安中小盘成长混合",
+            "post_date": "2018-06-11",
+            "cp_rate": 74.6941
+          },
+          {
+            "fund_code": "001532",
+            "fundsname": "华安文体健康混合",
+            "post_date": "2017-07-17",
+            "resi_date": "2019-11-08",
+            "cp_rate": 31.0415
+          },
+          {
+            "fund_code": "001072",
+            "fundsname": "华安智能装备主题股票",
+            "post_date": "2015-07-09",
+            "cp_rate": 175.8436
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "001072",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

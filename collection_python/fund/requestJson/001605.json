@@ -1,0 +1,259 @@
+{
+  "data": {
+    "fund_company": "    国海富兰克林基金管理有限公司成立于2004年11月,由国海证券股份有限公司和富兰克林邓普顿投资集团全资子公司邓普顿国际股份有限公司共同出资组 建,目前公司注册资本2.2亿元人民币,国海证券股份有限公司持有51%的股份, 邓普顿国际股份有限公司持有49%的股份。富兰克林邓普顿投资集团是世界知名基金管理公司,在全球市场上有超过60年的投资管理经验。国海富兰克林基金管 理有限公司引进富兰克林邓普顿投资集团享誉全球的投资机制、研究平台和风险控制体系,力争成为国内一流的基金管理公司。\n    公司经营理念:诚信、稳健、前瞻、一流。\n    公司使命: 成为中国一流的资产管理机构,以我们的核心价值与独特视野为指导,为客户提供高质量的投资方案和出色的服务,并吸引、激励和保留优秀人才。",
+    "fund_position": {
+      "stock_percent": 78.98,
+      "bond_percent": 1.73,
+      "cash_percent": 12.2,
+      "other_percent": 7.09,
+      "asset_tot": 3581611309.3,
+      "asset_val": 3280938828.24,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "金山软件",
+          "code": "03888",
+          "percent": 3.64,
+          "xq_symbol": "03888",
+          "xq_url": "https://xueqiu.com/S/03888",
+          "amarket": false
+        },
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 3.4,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "卫星石化",
+          "code": "002648",
+          "percent": 2.98,
+          "current_price": 25.3,
+          "change_percentage": -0.67,
+          "xq_symbol": "SZ002648",
+          "xq_url": "https://xueqiu.com/S/SZ002648",
+          "amarket": true
+        },
+        {
+          "name": "腾讯控股",
+          "code": "00700",
+          "percent": 2.76,
+          "xq_symbol": "00700",
+          "xq_url": "https://xueqiu.com/S/00700",
+          "amarket": false
+        },
+        {
+          "name": "中国平安",
+          "code": "02318",
+          "percent": 2.68,
+          "xq_symbol": "02318",
+          "xq_url": "https://xueqiu.com/S/02318",
+          "amarket": false
+        },
+        {
+          "name": "福莱特玻璃",
+          "code": "06865",
+          "percent": 2.67,
+          "xq_symbol": "06865",
+          "xq_url": "https://xueqiu.com/S/06865",
+          "amarket": false
+        },
+        {
+          "name": "美团-W",
+          "code": "03690",
+          "percent": 2.59,
+          "xq_symbol": "03690",
+          "xq_url": "https://xueqiu.com/S/03690",
+          "amarket": false
+        },
+        {
+          "name": "宁德时代",
+          "code": "300750",
+          "percent": 2.55,
+          "current_price": 266.03,
+          "change_percentage": 1.75,
+          "xq_symbol": "SZ300750",
+          "xq_url": "https://xueqiu.com/S/SZ300750",
+          "amarket": true
+        },
+        {
+          "name": "龙蟒佰利",
+          "code": "002601",
+          "percent": 2.51,
+          "current_price": 31.77,
+          "change_percentage": 2.22,
+          "xq_symbol": "SZ002601",
+          "xq_url": "https://xueqiu.com/S/SZ002601",
+          "amarket": true
+        },
+        {
+          "name": "比亚迪股份",
+          "code": "01211",
+          "percent": 2.47,
+          "xq_symbol": "01211",
+          "xq_url": "https://xueqiu.com/S/01211",
+          "amarket": false
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "20国债10",
+          "code": "019640",
+          "percent": 1.82,
+          "xq_symbol": "019640",
+          "xq_url": "https://xueqiu.com/S/019640",
+          "amarket": false
+        },
+        {
+          "name": "隆20转债",
+          "code": "113038",
+          "percent": 0.07,
+          "xq_symbol": "113038",
+          "xq_url": "https://xueqiu.com/S/113038",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "001605",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.200"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "徐成",
+        "resume": "    徐成先生,CFA,朴茨茅斯大学(英国)金融决策分析硕士。历任永丰金证券(亚洲)有限公司上海办事处研究员,新加坡东京海上国际资产管理有限公司上海办事处研究员、高级研究员、首席代表。现任国海富兰克林基金管理有限公司QDII投资副总监,国富亚洲机会股票(QDII)基金、国富大中华精选混合(QDII)基金、国富美元债定期债券(QDII)基金、国富沪港深成长精选股票基金、国富估值优势混合基金及国富全球科技互联混合(QDII)基金的基金经理。",
+        "college": "朴茨茅斯大学",
+        "work_year": "14",
+        "achievement_list": [
+          {
+            "fund_code": "009846",
+            "fundsname": "富兰克林国海港股通远见价值混合",
+            "post_date": "2020-08-18",
+            "cp_rate": 0.69
+          },
+          {
+            "fund_code": "006370",
+            "fundsname": "富兰克林国海大中华精选混合美元",
+            "post_date": "2019-04-15",
+            "cp_rate": 79.2208
+          },
+          {
+            "fund_code": "006374",
+            "fundsname": "国富全球科技互联混合(QDII)美元现汇",
+            "post_date": "2018-11-20",
+            "cp_rate": 122.4867
+          },
+          {
+            "fund_code": "006373",
+            "fundsname": "国富全球科技互联混合(QDII)人民币",
+            "post_date": "2018-11-20",
+            "cp_rate": 111.0289
+          },
+          {
+            "fund_code": "006039",
+            "fundsname": "富兰克林国海估值优势混合",
+            "post_date": "2018-08-22",
+            "cp_rate": 120.56
+          },
+          {
+            "fund_code": "001605",
+            "fundsname": "国富沪港深成长精选股票",
+            "post_date": "2017-07-08",
+            "cp_rate": 159.3164
+          },
+          {
+            "fund_code": "003973",
+            "fundsname": "国富美元债定期债券(QDII)美元现汇",
+            "post_date": "2017-01-25",
+            "cp_rate": 12.2085
+          },
+          {
+            "fund_code": "003972",
+            "fundsname": "国富美元债定期债券(QDII)人民币",
+            "post_date": "2017-01-25",
+            "cp_rate": 7.16
+          },
+          {
+            "fund_code": "000934",
+            "fundsname": "富兰克林国海大中华精选混合",
+            "post_date": "2015-12-24",
+            "cp_rate": 175.8192
+          },
+          {
+            "fund_code": "457001",
+            "fundsname": "国富亚洲机会股票(QDII)",
+            "post_date": "2015-12-24",
+            "cp_rate": 109.8558
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "001605",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

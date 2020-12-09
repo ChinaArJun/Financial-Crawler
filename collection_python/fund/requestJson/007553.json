@@ -1,0 +1,234 @@
+{
+  "data": {
+    "fund_company": "    中信建投基金管理有限公司(以下简称“公司”)于2013年9月9日在北京注册成立,主要经营基金募集、基金销售、特定客户资产管理、资产管理和中国证监会许可的其他业务。公司全资子公司元达信资本管理(北京)有限公司于2015年6月8日成立,主要经营特定客户资产管理业务和中国证监会许可的其他业务。\n    公司股东背景强大,中信建投证券股份有限公司、航天科技财务有限责任公司、江苏广传广播传媒有限公司均在各自行业领域内位于领先地位并拥有较强的品牌影响力。\n    公司成立三年,业务成长迅速,公司及子公司资产管理规模快速增长,根据中国证券投资基金业协会数据,截至2016年6月末,公司专户管理规模排名第12名。投资能力优秀,公司秉承“忠于信,健于投”的经营理念,追求以稳健的投资及良好的收益,回馈客户的信任;公司投资业绩稳步上升,以良好的投资回报实现了投资人资产的保值增值;根据Wind数据,截至2016年6月末,公司旗下公募基金累计单位净值全部实现正收益,为已发行公募基金的108家基金公司中的7家公司之一。机构客户资源丰富,客户类别多,涵盖商业银行、证券公司、信托公司、财务公司、私募基金等客户资源;深度开展各类客户的拓展维护,与大型的商业银行及农村商业银行均开展不同程度的合作。产品及业务模式多样,公募基金产品覆盖混合型、债券型、货币型等多种基金类型;专户产品在定向增发、结构化债券投资、结构化股票投资、资产证券化等多个领域开展了业务。公司各项业务有序开展,为进一步发展奠定了良好的基础。",
+    "fund_position": {
+      "stock_percent": 92.8,
+      "bond_percent": 1.87,
+      "cash_percent": 4.5,
+      "other_percent": 0.83,
+      "asset_tot": 709069488.22,
+      "asset_val": 693328318.07,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "欧普康视",
+          "code": "300595",
+          "percent": 9.6,
+          "current_price": 73.1,
+          "change_percentage": -0.41,
+          "xq_symbol": "SZ300595",
+          "xq_url": "https://xueqiu.com/S/SZ300595",
+          "amarket": true
+        },
+        {
+          "name": "九洲药业",
+          "code": "603456",
+          "percent": 8.54,
+          "current_price": 32.24,
+          "change_percentage": 1.9,
+          "xq_symbol": "SH603456",
+          "xq_url": "https://xueqiu.com/S/SH603456",
+          "amarket": true
+        },
+        {
+          "name": "长春高新",
+          "code": "000661",
+          "percent": 7.36,
+          "current_price": 388,
+          "change_percentage": 0.19,
+          "xq_symbol": "SZ000661",
+          "xq_url": "https://xueqiu.com/S/SZ000661",
+          "amarket": true
+        },
+        {
+          "name": "康泰生物",
+          "code": "300601",
+          "percent": 6.23,
+          "current_price": 158.41,
+          "change_percentage": -1.36,
+          "xq_symbol": "SZ300601",
+          "xq_url": "https://xueqiu.com/S/SZ300601",
+          "amarket": true
+        },
+        {
+          "name": "智飞生物",
+          "code": "300122",
+          "percent": 6.15,
+          "current_price": 139.38,
+          "change_percentage": -0.39,
+          "xq_symbol": "SZ300122",
+          "xq_url": "https://xueqiu.com/S/SZ300122",
+          "amarket": true
+        },
+        {
+          "name": "迈瑞医疗",
+          "code": "300760",
+          "percent": 5.37,
+          "current_price": 351.9,
+          "change_percentage": 1.82,
+          "xq_symbol": "SZ300760",
+          "xq_url": "https://xueqiu.com/S/SZ300760",
+          "amarket": true
+        },
+        {
+          "name": "凯莱英",
+          "code": "002821",
+          "percent": 5.27,
+          "current_price": 274,
+          "change_percentage": 1.64,
+          "xq_symbol": "SZ002821",
+          "xq_url": "https://xueqiu.com/S/SZ002821",
+          "amarket": true
+        },
+        {
+          "name": "新产业",
+          "code": "300832",
+          "percent": 5.21,
+          "current_price": 154.6,
+          "change_percentage": 0.79,
+          "xq_symbol": "SZ300832",
+          "xq_url": "https://xueqiu.com/S/SZ300832",
+          "amarket": true
+        },
+        {
+          "name": "药明康德",
+          "code": "603259",
+          "percent": 5.07,
+          "current_price": 110.9,
+          "change_percentage": -0.12,
+          "xq_symbol": "SH603259",
+          "xq_url": "https://xueqiu.com/S/SH603259",
+          "amarket": true
+        },
+        {
+          "name": "心脉医疗",
+          "code": "688016",
+          "percent": 4.64,
+          "current_price": 239.89,
+          "change_percentage": 0.43,
+          "xq_symbol": "SH688016",
+          "xq_url": "https://xueqiu.com/S/SH688016",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "20国债01",
+          "code": "019627",
+          "percent": 1.44,
+          "xq_symbol": "019627",
+          "xq_url": "https://xueqiu.com/S/019627",
+          "amarket": false
+        },
+        {
+          "name": "20国债10",
+          "code": "019640",
+          "percent": 0.47,
+          "xq_symbol": "019640",
+          "xq_url": "https://xueqiu.com/S/019640",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "007553",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "1",
+      "subscribe_discount": "1",
+      "declare_discount": "1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.500"
+        },
+        {
+          "name": "30天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.40"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.20"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.00"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "谢玮",
+        "resume": "    谢玮,中国社会科学院研究生院经济学博士。曾任中证金融研究院博士后、中信建投基金管理有限公司投资研究部研究员,现任中信建投基金管理有限公司投资部-股票投资部基金经理。",
+        "college": "中国社会科学院",
+        "achievement_list": [
+          {
+            "fund_code": "010090",
+            "fundsname": "中信建投医药健康A",
+            "post_date": "2020-09-24",
+            "cp_rate": 0.14
+          },
+          {
+            "fund_code": "010091",
+            "fundsname": "中信建投医药健康C",
+            "post_date": "2020-09-24",
+            "cp_rate": -0.02
+          },
+          {
+            "fund_code": "007553",
+            "fundsname": "中信建投医改灵活配置混合C",
+            "post_date": "2019-06-18",
+            "cp_rate": 91.1256
+          },
+          {
+            "fund_code": "002408",
+            "fundsname": "中信建投医改灵活配置混合A",
+            "post_date": "2019-04-11",
+            "cp_rate": 126.2934
+          },
+          {
+            "fund_code": "006845",
+            "fundsname": "中信建投聚利混合C",
+            "post_date": "2019-01-04",
+            "cp_rate": 20.352
+          },
+          {
+            "fund_code": "001914",
+            "fundsname": "中信建投聚利混合A",
+            "post_date": "2018-06-05",
+            "cp_rate": 7.4583
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "007553",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

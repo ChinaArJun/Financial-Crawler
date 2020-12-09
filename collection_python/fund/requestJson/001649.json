@@ -1,0 +1,137 @@
+{
+  "data": {
+    "fund_company": "    工银瑞信基金管理有限公司是由中国工商银行和瑞士信贷合资设立的基金管理公司,成立于2005年6月。目前,公司在北京、上海、深圳等地设有分公司,分别在香港和上海设有全资子公司——工银瑞信资产管理(国际)有限公司、工银瑞信投资管理有限公司。\n    自成立以来,公司坚持“以稳健的投资管理,为客户提供卓越的理财服务”为使命,依托强大的股东背景、稳健的经营理念、科学的投研体系、严密的风控机制和资深的管理团队,立足专业化、国际化、规范化,坚持“稳健投资、价值投资、长期投资”,致力于为广大投资者提供一流的投资管理服务。\n    公司秉持“以人为本”的理念,全方位引入国内外优秀人才,组建了一支风格稳健、诚信敬业、创新进取、团结协作的专业团队。目前,公司共有员工逾550人,平均年龄32岁,72%的员工拥有硕士以上学历。公司投研团队由资深基金经理和研究员组成,投研人员逾170人,投资人员平均拥有约10年的从业经验。\n    经过十多年的发展,工银瑞信已成为一家拥有公募基金、专户管理、企业年金、社保基金境内外委托投资、基本养老保险基金委托投资、保险资金委托投资、企业年金养老产品、QDII、QFII、RQFII等多项业务资格的全能型资产管理公司,公司为逾1600万境内外个人和机构投资者提供涵盖公募与私募、上市与非上市、境内与跨境业务的全方位财富管理服务。\n    公司成立以来以持续优秀的投资业绩、完善周到的客户服务,赢得了广大基金投资人、社保理事会、企业年金客户、专户客户等的认可和信赖。截至2016年12月31日,工银瑞信(含子公司)旗下管理近100只公募基金和多个年金、专户组合,资产管理规模逾11000亿元,其中公募基金管理规模逾4600亿元,公司已经发展成为国内业务资格全面、产品种类丰富、经营业绩优秀、资产管理规模领先、业务发展均衡的基金管理公司之一。",
+    "fund_position": {
+      "stock_percent": 93.44,
+      "cash_percent": 6.54,
+      "other_percent": 0.02,
+      "asset_tot": 44904344.39,
+      "asset_val": 44687886.92,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2018-09-30",
+      "stock_list": [
+        {
+          "name": "航天信息",
+          "code": "600271",
+          "percent": 6.48,
+          "current_price": 13.87,
+          "change_percentage": -0.86,
+          "xq_symbol": "SH600271",
+          "xq_url": "https://xueqiu.com/S/SH600271",
+          "amarket": true
+        },
+        {
+          "name": "克来机电",
+          "code": "603960",
+          "percent": 5.91,
+          "current_price": 40.1,
+          "change_percentage": -0.25,
+          "xq_symbol": "SH603960",
+          "xq_url": "https://xueqiu.com/S/SH603960",
+          "amarket": true
+        },
+        {
+          "name": "万华化学",
+          "code": "600309",
+          "percent": 5.86,
+          "current_price": 82.99,
+          "change_percentage": -0.3,
+          "xq_symbol": "SH600309",
+          "xq_url": "https://xueqiu.com/S/SH600309",
+          "amarket": true
+        },
+        {
+          "name": "烽火通信",
+          "code": "600498",
+          "percent": 4.13,
+          "current_price": 24.38,
+          "change_percentage": 0.45,
+          "xq_symbol": "SH600498",
+          "xq_url": "https://xueqiu.com/S/SH600498",
+          "amarket": true
+        },
+        {
+          "name": "美亚光电",
+          "code": "002690",
+          "percent": 3.95,
+          "current_price": 48.14,
+          "change_percentage": 0.88,
+          "xq_symbol": "SZ002690",
+          "xq_url": "https://xueqiu.com/S/SZ002690",
+          "amarket": true
+        },
+        {
+          "name": "顺丰控股",
+          "code": "002352",
+          "percent": 3.58,
+          "current_price": 80.21,
+          "change_percentage": -1.88,
+          "xq_symbol": "SZ002352",
+          "xq_url": "https://xueqiu.com/S/SZ002352",
+          "amarket": true
+        },
+        {
+          "name": "宁波银行",
+          "code": "002142",
+          "percent": 3.45,
+          "current_price": 35.74,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ002142",
+          "xq_url": "https://xueqiu.com/S/SZ002142",
+          "amarket": true
+        },
+        {
+          "name": "火炬电子",
+          "code": "603678",
+          "percent": 3.22,
+          "current_price": 55.23,
+          "change_percentage": -0.22,
+          "xq_symbol": "SH603678",
+          "xq_url": "https://xueqiu.com/S/SH603678",
+          "amarket": true
+        },
+        {
+          "name": "中国石化",
+          "code": "600028",
+          "percent": 2.77,
+          "current_price": 4.1,
+          "change_percentage": -0.24,
+          "xq_symbol": "SH600028",
+          "xq_url": "https://xueqiu.com/S/SH600028",
+          "amarket": true
+        },
+        {
+          "name": "金风科技",
+          "code": "002202",
+          "percent": 2.73,
+          "current_price": 12.51,
+          "change_percentage": 0.89,
+          "xq_symbol": "SZ002202",
+          "xq_url": "https://xueqiu.com/S/SZ002202",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "001649",
+      "subscribe_rate": "0",
+      "declare_rate": "0",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1"
+    },
+    "manager_list": [],
+    "fund_date_conf": {
+      "fd_code": "001649",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

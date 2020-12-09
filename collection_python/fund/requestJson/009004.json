@@ -1,0 +1,471 @@
+{
+  "data": {
+    "fund_company": "    海富通基金管理有限公司成立于2003年4月,是中国首批获准成立的中外合资基金管理公司。\n    从2003年8月开始,海富通先后募集成立了43只公募基金。截至2016年12月31日,海富通管理的公募基金资产规模为442.56亿元人民币。\n    作为国家人力资源和社会保障部首批企业年金基金投资管理人,截至2016年12月31日,海富通为77家企业超过370.18亿元的企业年金基金担任了投资管理人。作为首批特定客户资产管理业务资格的基金管理公司,截至2016年12月31日,海富通旗下专项管理业务总管理金额超过830.56亿元人民币。2010年12月,海富通基金管理有限公司被全国社会保障基金理事会选聘为境内委托投资管理人。2012 年9 月,中国保监会公告确认海富通基金为首批保险资金投资管理人之一。\n    2004年末开始,海富通为QFII(合格境外机构投资者)及其他多个海内外投资组合担任投资咨询顾问,截至2016年12月31日, 投资咨询及海外业务规模近62.19亿元人民币。2011年12月,海富通全资子公司——海富通资产管理(香港)有限公司获得证监会核准批复RQFII(人民币合格境外机构投资者)业务资格,能够在香港筹集人民币资金投资境内证券市场。2012年2月,海富通资产管理(香港)有限公司已募集发行了首只RQFII产品。2014年8月,上海富诚海富通资产管理有限公司成立。\n    2012年3月,国内权威财经媒体《中国证券报》等授予海富通基金管理有限公司“中国基金业金牛基金管理公司”大奖,《证券时报》授予海富通精选混合基金“2011年中国基金业明星奖—五年持续回报平衡混合型明星基金”荣誉。2013年4月,《上海证券报》授予海富通精选混合基金2012年“金基金”奖——分红基金奖。2016年3月,《中国证券报》等授予海富通基金管理有限公司“固定收益投资金牛基金公司”大奖。 2016年9月,招商银行授予海富通基金管理有限公司“2015年金眼睛企业年金投资优胜奖”。2016年11月,《每日经济新闻》授予富诚海富通2016年“金鼎奖”——“最具竞争力子公司”奖、“最佳特色产品(含“一对一”)”奖。\n    海富通同时还在不断践行其社会责任。公司自2008年启动“绿色与希望-橄榄枝公益环保计划”,针对汶川震区受灾学校、上海民工小学、安徽老区小学进行了物资捐赠,向内蒙古库伦旗捐建了环保公益林。几年来,海富通的公益行动进一步升级,持续为上海民工小学学生捐献生活物资,并向安徽农村小学捐献图书室。此外,海富通还积极推进投资者教育工作,推出了以“幸福投资”为主题和特色的投资者教育活动,向投资者传播长期投资、理性投资的理念。",
+    "fund_position": {
+      "stock_percent": 86.13,
+      "cash_percent": 12.91,
+      "other_percent": 0.96,
+      "asset_tot": 23594871.01,
+      "asset_val": 23376222,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "晶盛机电",
+          "code": "300316",
+          "percent": 3.93,
+          "current_price": 29.1,
+          "change_percentage": -2.51,
+          "xq_symbol": "SZ300316",
+          "xq_url": "https://xueqiu.com/S/SZ300316",
+          "amarket": true
+        },
+        {
+          "name": "华海药业",
+          "code": "600521",
+          "percent": 3.57,
+          "current_price": 35.36,
+          "change_percentage": 2.26,
+          "xq_symbol": "SH600521",
+          "xq_url": "https://xueqiu.com/S/SH600521",
+          "amarket": true
+        },
+        {
+          "name": "玲珑轮胎",
+          "code": "601966",
+          "percent": 3.25,
+          "current_price": 33.4,
+          "change_percentage": -2.34,
+          "xq_symbol": "SH601966",
+          "xq_url": "https://xueqiu.com/S/SH601966",
+          "amarket": true
+        },
+        {
+          "name": "吉比特",
+          "code": "603444",
+          "percent": 3.2,
+          "current_price": 410.3,
+          "change_percentage": 2.32,
+          "xq_symbol": "SH603444",
+          "xq_url": "https://xueqiu.com/S/SH603444",
+          "amarket": true
+        },
+        {
+          "name": "扬农化工",
+          "code": "600486",
+          "percent": 3,
+          "current_price": 120.75,
+          "change_percentage": 0.02,
+          "xq_symbol": "SH600486",
+          "xq_url": "https://xueqiu.com/S/SH600486",
+          "amarket": true
+        },
+        {
+          "name": "星宇股份",
+          "code": "601799",
+          "percent": 2.56,
+          "current_price": 186.12,
+          "change_percentage": -2.43,
+          "xq_symbol": "SH601799",
+          "xq_url": "https://xueqiu.com/S/SH601799",
+          "amarket": true
+        },
+        {
+          "name": "思源电气",
+          "code": "002028",
+          "percent": 2.55,
+          "current_price": 22.66,
+          "change_percentage": 0.31,
+          "xq_symbol": "SZ002028",
+          "xq_url": "https://xueqiu.com/S/SZ002028",
+          "amarket": true
+        },
+        {
+          "name": "塔牌集团",
+          "code": "002233",
+          "percent": 2.37,
+          "current_price": 13.35,
+          "change_percentage": 0.23,
+          "xq_symbol": "SZ002233",
+          "xq_url": "https://xueqiu.com/S/SZ002233",
+          "amarket": true
+        },
+        {
+          "name": "索菲亚",
+          "code": "002572",
+          "percent": 2.26,
+          "current_price": 27.83,
+          "change_percentage": -0.25,
+          "xq_symbol": "SZ002572",
+          "xq_url": "https://xueqiu.com/S/SZ002572",
+          "amarket": true
+        },
+        {
+          "name": "丽珠集团",
+          "code": "000513",
+          "percent": 2.13,
+          "current_price": 43.66,
+          "change_percentage": -0.98,
+          "xq_symbol": "SZ000513",
+          "xq_url": "https://xueqiu.com/S/SZ000513",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "009004",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "1",
+      "subscribe_discount": "1",
+      "declare_discount": "1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.500"
+        },
+        {
+          "name": "30天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.20"
+        },
+        {
+          "name": "基金管理费",
+          "value": "0.80"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "杜晓海",
+        "resume": "    杜晓海先生,硕士。历任Man-DrapeauResearch金融工程师,AmericanBoursesCorporation中国区总经理,海富通基金管理有限公司定量分析师、高级定量分析师、定量及风险管理负责人、定量及风险管理总监、多资产策略投资部总监,现任海富通基金管理有限公司量化投资部总监。2016年6月起兼任海富通新内需混合和海富通安颐收益混合(原海富通养老收益混合)基金经理。2016年9月起兼任海富通欣荣混合基金经理。2017年4月至2018年1月任海富通欣盛定开混合基金经理。2017年5月起兼任海富通富睿混合基金经理。2018年3月起兼任海富通富祥混合基金经理。2018年4月起兼任海富通阿尔法对冲混合、海富通创业板增强、海富通东财大数据混合、海富通量化前锋股票、海富通稳固收益债券、海富通欣享混合、海富通欣益混合、海富通量化多因子混合的基金经理。",
+        "work_year": "19",
+        "achievement_list": [
+          {
+            "fund_code": "009157",
+            "fundsname": "海富通富泽混合C",
+            "post_date": "2020-06-22",
+            "cp_rate": 3.13
+          },
+          {
+            "fund_code": "009156",
+            "fundsname": "海富通富泽混合A",
+            "post_date": "2020-06-22",
+            "cp_rate": 3.32
+          },
+          {
+            "fund_code": "009155",
+            "fundsname": "海富通富盈混合C",
+            "post_date": "2020-05-20",
+            "cp_rate": 3.78
+          },
+          {
+            "fund_code": "009154",
+            "fundsname": "海富通富盈混合A",
+            "post_date": "2020-05-20",
+            "cp_rate": 4.01
+          },
+          {
+            "fund_code": "008610",
+            "fundsname": "海富通添鑫收益债券C",
+            "post_date": "2020-04-23",
+            "cp_rate": 1.82
+          },
+          {
+            "fund_code": "008611",
+            "fundsname": "海富通添鑫收益债券A",
+            "post_date": "2020-04-23",
+            "cp_rate": 2.07
+          },
+          {
+            "fund_code": "009004",
+            "fundsname": "海富通中证500指数增强C",
+            "post_date": "2020-03-05",
+            "cp_rate": 20.9048
+          },
+          {
+            "fund_code": "519034",
+            "fundsname": "海富通中证500指数增强A",
+            "post_date": "2020-03-05",
+            "cp_rate": 21.1284
+          },
+          {
+            "fund_code": "008831",
+            "fundsname": "海富通安益对冲混合A",
+            "post_date": "2020-01-22",
+            "cp_rate": 2.33
+          },
+          {
+            "fund_code": "008830",
+            "fundsname": "海富通安益对冲混合C",
+            "post_date": "2020-01-22",
+            "cp_rate": 1.95
+          },
+          {
+            "fund_code": "008795",
+            "fundsname": "海富通阿尔法对冲混合C",
+            "post_date": "2020-01-22",
+            "cp_rate": 1.6964
+          },
+          {
+            "fund_code": "004512",
+            "fundsname": "海富通沪深300指数增强C",
+            "post_date": "2019-10-09",
+            "resi_date": "2019-10-15",
+            "cp_rate": 0.1383
+          },
+          {
+            "fund_code": "004513",
+            "fundsname": "海富通沪深300指数增强A",
+            "post_date": "2019-10-09",
+            "resi_date": "2019-10-15",
+            "cp_rate": 0.1274
+          },
+          {
+            "fund_code": "006556",
+            "fundsname": "海富通研究精选混合C",
+            "post_date": "2019-06-25",
+            "resi_date": "2020-10-23",
+            "cp_rate": 37.2465
+          },
+          {
+            "fund_code": "006557",
+            "fundsname": "海富通研究精选混合A",
+            "post_date": "2019-06-25",
+            "resi_date": "2020-10-23",
+            "cp_rate": 38.7763
+          },
+          {
+            "fund_code": "005080",
+            "fundsname": "海富通量化多因子混合C",
+            "post_date": "2018-04-23",
+            "resi_date": "2019-10-15",
+            "cp_rate": 11.9
+          },
+          {
+            "fund_code": "005081",
+            "fundsname": "海富通量化多因子混合A",
+            "post_date": "2018-04-23",
+            "resi_date": "2019-10-15",
+            "cp_rate": 10.49
+          },
+          {
+            "fund_code": "005287",
+            "fundsname": "海富通创业板增强C",
+            "post_date": "2018-04-09",
+            "cp_rate": 68.3805
+          },
+          {
+            "fund_code": "005288",
+            "fundsname": "海富通创业板增强A",
+            "post_date": "2018-04-09",
+            "cp_rate": 70.021
+          },
+          {
+            "fund_code": "005188",
+            "fundsname": "海富通量化前锋股票C",
+            "post_date": "2018-04-09",
+            "resi_date": "2020-10-23",
+            "cp_rate": 56.1047
+          },
+          {
+            "fund_code": "005189",
+            "fundsname": "海富通量化前锋股票A",
+            "post_date": "2018-04-09",
+            "resi_date": "2020-10-23",
+            "cp_rate": 54.3891
+          },
+          {
+            "fund_code": "519228",
+            "fundsname": "海富通欣享混合C",
+            "post_date": "2018-04-09",
+            "resi_date": "2020-10-23",
+            "cp_rate": 29.5519
+          },
+          {
+            "fund_code": "519229",
+            "fundsname": "海富通欣享混合A",
+            "post_date": "2018-04-09",
+            "resi_date": "2020-10-23",
+            "cp_rate": 27.3873
+          },
+          {
+            "fund_code": "519221",
+            "fundsname": "海富通欣益灵活配置混合C",
+            "post_date": "2018-04-09",
+            "resi_date": "2019-10-15",
+            "cp_rate": 35.1407
+          },
+          {
+            "fund_code": "519222",
+            "fundsname": "海富通欣益灵活配置混合A",
+            "post_date": "2018-04-09",
+            "resi_date": "2019-10-15",
+            "cp_rate": 13.4268
+          },
+          {
+            "fund_code": "519062",
+            "fundsname": "海富通阿尔法对冲混合A",
+            "post_date": "2018-04-09",
+            "cp_rate": 18.2498
+          },
+          {
+            "fund_code": "519132",
+            "fundsname": "海富通东财大数据混合",
+            "post_date": "2018-04-09",
+            "resi_date": "2018-05-10",
+            "cp_rate": -1.7708
+          },
+          {
+            "fund_code": "519030",
+            "fundsname": "海富通稳固收益债券",
+            "post_date": "2018-04-09",
+            "resi_date": "2020-10-23",
+            "cp_rate": 19.3399
+          },
+          {
+            "fund_code": "519134",
+            "fundsname": "海富通富祥混合",
+            "post_date": "2018-03-16",
+            "resi_date": "2019-10-15",
+            "cp_rate": 13.5524
+          },
+          {
+            "fund_code": "004512",
+            "fundsname": "海富通富睿混合C",
+            "post_date": "2017-05-22",
+            "resi_date": "2019-10-08",
+            "cp_rate": 16.1239
+          },
+          {
+            "fund_code": "004513",
+            "fundsname": "海富通富睿混合A",
+            "post_date": "2017-05-22",
+            "resi_date": "2019-10-08",
+            "cp_rate": 10.0699
+          },
+          {
+            "fund_code": "519227",
+            "fundsname": "海富通欣盛定开混合",
+            "post_date": "2017-04-27",
+            "resi_date": "2017-11-05",
+            "cp_rate": 5.2894
+          },
+          {
+            "fund_code": "519223",
+            "fundsname": "海富通欣荣混合C",
+            "post_date": "2016-09-28",
+            "cp_rate": 82.6769
+          },
+          {
+            "fund_code": "519224",
+            "fundsname": "海富通欣荣混合A",
+            "post_date": "2016-09-28",
+            "cp_rate": 82.6669
+          },
+          {
+            "fund_code": "002172",
+            "fundsname": "海富通新内需灵活配置混合C",
+            "post_date": "2016-06-22",
+            "resi_date": "2020-10-23",
+            "cp_rate": 32.9282
+          },
+          {
+            "fund_code": "519130",
+            "fundsname": "海富通新内需灵活配置混合A",
+            "post_date": "2016-06-22",
+            "resi_date": "2020-10-23",
+            "cp_rate": 30.7481
+          },
+          {
+            "fund_code": "002339",
+            "fundsname": "海富通安颐收益混合C",
+            "post_date": "2016-06-22",
+            "cp_rate": 40.823
+          },
+          {
+            "fund_code": "519050",
+            "fundsname": "海富通安颐收益混合A",
+            "post_date": "2016-06-22",
+            "cp_rate": 38.9956
+          }
+        ]
+      },
+      {
+        "name": "纪君凯",
+        "resume": "    上海财经大学统计学硕士, 历任天风证券上海自营分公司衍生品部投资研究、期权交易职位。 2017年 7月加入海富通基金管理有限公司,历任投资经理、量化投资部基金经理助理。",
+        "college": "上海财经大学",
+        "achievement_list": [
+          {
+            "fund_code": "005189",
+            "fundsname": "海富通量化前锋股票A",
+            "post_date": "2020-07-03",
+            "cp_rate": 14.2907
+          },
+          {
+            "fund_code": "005188",
+            "fundsname": "海富通量化前锋股票C",
+            "post_date": "2020-07-03",
+            "cp_rate": 14.0898
+          },
+          {
+            "fund_code": "519034",
+            "fundsname": "海富通中证500指数增强A",
+            "post_date": "2020-07-03",
+            "cp_rate": 11.589
+          },
+          {
+            "fund_code": "009004",
+            "fundsname": "海富通中证500指数增强C",
+            "post_date": "2020-07-03",
+            "cp_rate": 11.4641
+          },
+          {
+            "fund_code": "510120",
+            "fundsname": "海富通上证非周期ETF",
+            "post_date": "2020-06-05",
+            "cp_rate": 26.3839
+          },
+          {
+            "fund_code": "510110",
+            "fundsname": "海富通上证周期ETF",
+            "post_date": "2020-06-05",
+            "cp_rate": 20.4779
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "009004",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

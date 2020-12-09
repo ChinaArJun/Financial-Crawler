@@ -1,0 +1,235 @@
+{
+  "data": {
+    "fund_company": "    恒生前海基金管理有限公司(以下简称“恒生前海基金”)成立于2016年7月1日,是经中国证监会(证监许可[2016]1297号)核准设立的首家外资控股公募基金管理公司。恒生前海基金注册资本金2亿元人民币,经营范围包括基金募集、基金销售、特定客户资产管理、资产管理和中国证监会许可的其他业务。\n    恒生前海基金的股东结构为:恒生银行有限公司(以下简称“恒生银行”,持股比例70%)、深圳市前海金融控股有限公司(以下简称“前海金控”,持股比例30%)。\n    恒生银行创立于1933年,是香港联交所上市公司(代码:0011.HK),恒生银行为汇丰集团主要成员之一,该集团是全球最大金融服务机构之一,持有恒生银行62.14%的股权。恒生银行主要业务包括零售银行、财富管理、商业银行、环球银行与资本市场及私人银行服务,同时亦提供全面人民币服务。\n    前海金控于2013年设立,并于2015年11月增加注册资本至人民币60亿元。前海金控作为前海管理局唯一的战略引导型金融控股平台,肩负着“政策输出、产业引导、金融创新”的重要使命。\n    作为一家注册在前海深港现代服务业合作区的公募基金管理公司,恒生前海基金将充分利用股东双方的经验和资源,并发挥前海的区位和政策优势,通过专业团队建立投资研究和业务发展等方面的核心能力,提供符合客户需求的优质投资基金和资产管理服务,为股东创造价值,并为深港金融合作和中国金融市场发展作出贡献。",
+    "fund_position": {
+      "stock_percent": 93.87,
+      "cash_percent": 5.88,
+      "other_percent": 0.25,
+      "asset_tot": 166695931.28,
+      "asset_val": 165487860.49,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "中国平安",
+          "code": "02318",
+          "percent": 9.77,
+          "xq_symbol": "02318",
+          "xq_url": "https://xueqiu.com/S/02318",
+          "amarket": false
+        },
+        {
+          "name": "腾讯控股",
+          "code": "00700",
+          "percent": 9.56,
+          "xq_symbol": "00700",
+          "xq_url": "https://xueqiu.com/S/00700",
+          "amarket": false
+        },
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 8.17,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "建设银行",
+          "code": "00939",
+          "percent": 5.02,
+          "xq_symbol": "00939",
+          "xq_url": "https://xueqiu.com/S/00939",
+          "amarket": false
+        },
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 3.75,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "工商银行",
+          "code": "01398",
+          "percent": 3.51,
+          "xq_symbol": "01398",
+          "xq_url": "https://xueqiu.com/S/01398",
+          "amarket": false
+        },
+        {
+          "name": "美的集团",
+          "code": "000333",
+          "percent": 3.47,
+          "current_price": 86.7,
+          "change_percentage": -1.54,
+          "xq_symbol": "SZ000333",
+          "xq_url": "https://xueqiu.com/S/SZ000333",
+          "amarket": true
+        },
+        {
+          "name": "恒瑞医药",
+          "code": "600276",
+          "percent": 3.02,
+          "current_price": 90.07,
+          "change_percentage": 0.21,
+          "xq_symbol": "SH600276",
+          "xq_url": "https://xueqiu.com/S/SH600276",
+          "amarket": true
+        },
+        {
+          "name": "小米集团-W",
+          "code": "01810",
+          "percent": 2.75,
+          "xq_symbol": "01810",
+          "xq_url": "https://xueqiu.com/S/01810",
+          "amarket": false
+        },
+        {
+          "name": "中信证券",
+          "code": "06030",
+          "percent": 2.6,
+          "xq_symbol": "06030",
+          "xq_url": "https://xueqiu.com/S/06030",
+          "amarket": false
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "008407",
+      "subscribe_rate": "0",
+      "declare_rate": "1.20",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.20"
+        },
+        {
+          "name": "100万≤买入金额<300万",
+          "value": "0.80"
+        },
+        {
+          "name": "300万≤买入金额<500万",
+          "value": "0.40"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.100"
+        },
+        {
+          "name": "30天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.15"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.00"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "杨伟",
+        "resume": "    杨伟先生,金融工程博士。曾任兴业证券股份有限公司风险管理部风险管理专员,平安信托有限责任公司产品研发部金融工程及量化投资研究员,华润元大富时中国A50指数型证券投资基金、华润元大信息传媒科技混合型证券投资基金、华润元大中创100交易型开放式指数证券投资基金、华润元大中创100交易型开放式指数证券投资基金联接基金基金经理。现任恒生前海基金管理有限公司指数及量化投资部总经理、恒生前海港股通高股息低波动指数证券投资基金基金经理。拟任恒生前海中证质量成长低波动指数证券投资基金基金经理。",
+        "college": "厦门大学",
+        "work_year": "11",
+        "achievement_list": [
+          {
+            "fund_code": "008407",
+            "fundsname": "恒生前海恒生沪深港通细分指数A",
+            "post_date": "2020-05-22",
+            "cp_rate": 18.21
+          },
+          {
+            "fund_code": "008408",
+            "fundsname": "恒生前海恒生沪深港通细分指数C",
+            "post_date": "2020-05-22",
+            "cp_rate": 17.94
+          },
+          {
+            "fund_code": "006143",
+            "fundsname": "恒生前海中证质量成长A",
+            "post_date": "2019-06-05",
+            "cp_rate": 38.5
+          },
+          {
+            "fund_code": "006144",
+            "fundsname": "恒生前海中证质量成长C",
+            "post_date": "2019-06-05",
+            "cp_rate": 37.72
+          },
+          {
+            "fund_code": "005702",
+            "fundsname": "恒生前海港股通高股息低波动指数",
+            "post_date": "2018-04-26",
+            "cp_rate": -14.07
+          },
+          {
+            "fund_code": "001713",
+            "fundsname": "华润元大中创100ETF联接",
+            "post_date": "2015-12-23",
+            "resi_date": "2016-08-12",
+            "cp_rate": 2.7
+          },
+          {
+            "fund_code": "159942",
+            "fundsname": "华润元大中创100ETF",
+            "post_date": "2015-05-25",
+            "resi_date": "2016-08-12",
+            "cp_rate": -40.77
+          },
+          {
+            "fund_code": "000522",
+            "fundsname": "华润元大信息传媒科技混合",
+            "post_date": "2015-05-08",
+            "resi_date": "2016-08-12",
+            "cp_rate": -30.9249
+          },
+          {
+            "fund_code": "000835",
+            "fundsname": "华润元大富时中国A50指数",
+            "post_date": "2014-11-20",
+            "resi_date": "2016-08-12",
+            "cp_rate": 26.8
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "008407",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 4,
+      "all_buy_days": 2,
+      "all_sale_days": 5
+    }
+  },
+  "result_code": 0
+}

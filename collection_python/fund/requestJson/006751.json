@@ -1,0 +1,212 @@
+{
+  "data": {
+    "fund_company": "    富国基金管理有限公司成立于1999年,是经中国证监会批准设立的首批十家基金管理公司之一。2003年,加拿大历史最悠久的银行——加拿大蒙特利尔银行(BMO)参股富国基金,富国基金管理有限公司又成为国内首批成立的十家基金公司中第一家外资参股的基金管理公司。\n    富国基金管理有限公司不仅在中国股市的巨变中积累了丰富的投资管理经验,而且享有外方股东输入的先进理念和管理技术。经过九年的发展,公司共管理运作十一只基金,包括汉盛、汉兴、汉鼎三只封闭式证券投资基金和富国天源、富国天博、富国天利债券、富国天益价值、富国天瑞强势地区精选、富国天惠精选成长、富国天时货币市场基金和富国天合稳健优选基金八只开放式证券投资基金,截至2007年四季度末,管理资产规模超过600亿元。",
+    "fund_position": {
+      "stock_percent": 91.98,
+      "bond_percent": 0,
+      "cash_percent": 7.98,
+      "other_percent": 0.04,
+      "asset_tot": 6677673287.61,
+      "asset_val": 6614344379.6,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 8.96,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "美团-W",
+          "code": "03690",
+          "percent": 5.36,
+          "xq_symbol": "03690",
+          "xq_url": "https://xueqiu.com/S/03690",
+          "amarket": false
+        },
+        {
+          "name": "宁德时代",
+          "code": "300750",
+          "percent": 5.13,
+          "current_price": 266.03,
+          "change_percentage": 1.75,
+          "xq_symbol": "SZ300750",
+          "xq_url": "https://xueqiu.com/S/SZ300750",
+          "amarket": true
+        },
+        {
+          "name": "腾讯控股",
+          "code": "00700",
+          "percent": 5.12,
+          "xq_symbol": "00700",
+          "xq_url": "https://xueqiu.com/S/00700",
+          "amarket": false
+        },
+        {
+          "name": "宝信软件",
+          "code": "600845",
+          "percent": 4.96,
+          "current_price": 64.06,
+          "change_percentage": 0.13,
+          "xq_symbol": "SH600845",
+          "xq_url": "https://xueqiu.com/S/SH600845",
+          "amarket": true
+        },
+        {
+          "name": "亿联网络",
+          "code": "300628",
+          "percent": 4.89,
+          "current_price": 76.78,
+          "change_percentage": 1.04,
+          "xq_symbol": "SZ300628",
+          "xq_url": "https://xueqiu.com/S/SZ300628",
+          "amarket": true
+        },
+        {
+          "name": "歌尔股份",
+          "code": "002241",
+          "percent": 4.21,
+          "current_price": 37.16,
+          "change_percentage": -2.24,
+          "xq_symbol": "SZ002241",
+          "xq_url": "https://xueqiu.com/S/SZ002241",
+          "amarket": true
+        },
+        {
+          "name": "金山办公",
+          "code": "688111",
+          "percent": 4.04,
+          "current_price": 349.5,
+          "change_percentage": -2.75,
+          "xq_symbol": "SH688111",
+          "xq_url": "https://xueqiu.com/S/SH688111",
+          "amarket": true
+        },
+        {
+          "name": "韦尔股份",
+          "code": "603501",
+          "percent": 3.89,
+          "current_price": 218,
+          "change_percentage": 0.53,
+          "xq_symbol": "SH603501",
+          "xq_url": "https://xueqiu.com/S/SH603501",
+          "amarket": true
+        },
+        {
+          "name": "芒果超媒",
+          "code": "300413",
+          "percent": 3.16,
+          "current_price": 65.95,
+          "change_percentage": -1.54,
+          "xq_symbol": "SZ300413",
+          "xq_url": "https://xueqiu.com/S/SZ300413",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "006751",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.00"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.50"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "365天≤持有期限<730天",
+          "value": "0.250"
+        },
+        {
+          "name": "730天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "许炎",
+        "resume": "    许炎,硕士,曾任兴业证券研究员;2015年6月加入富国基金管理有限公司,历任行业研究员,2016年8月起任富国天益价值混合型证券投资基金(原富国天益价值证券投资基金)基金经理。具有基金从业资格。",
+        "work_year": "7",
+        "achievement_list": [
+          {
+            "fund_code": "009892",
+            "fundsname": "富国成长策略混合",
+            "post_date": "2020-08-11",
+            "cp_rate": 1.1
+          },
+          {
+            "fund_code": "006751",
+            "fundsname": "富国互联科技股票",
+            "post_date": "2019-03-26",
+            "cp_rate": 144.61
+          },
+          {
+            "fund_code": "100020",
+            "fundsname": "富国天益价值混合",
+            "post_date": "2016-08-24",
+            "resi_date": "2019-08-12",
+            "cp_rate": 40.3737
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "006751",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

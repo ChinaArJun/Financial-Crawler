@@ -1,0 +1,292 @@
+{
+  "data": {
+    "fund_company": "    中欧基金成立于2006年7月19日,是经中国证监会批准的公募基金管理公司,注册资本1.88亿元人民币。\n    中欧基金为第一家实现员工持股的基金公司,致力为客户提供超越市场的长期回报,打造\"多策略投资精品店\"。\n    截至2015年5月底,中欧基金共管理逾1000亿元公募资产,荣获2014年度金牛基金管理公司(中国证券报,2015年3月)。高速发展的中欧基金正成为公募基金行业的一类现象。\n    中欧基金致力于为投资人提供超越市场的长期收益,打造聚焦大中华区的\"多策略投资精品店\"。",
+    "fund_position": {
+      "stock_percent": 87.28,
+      "bond_percent": 0.22,
+      "cash_percent": 9.35,
+      "other_percent": 3.15,
+      "asset_tot": 16976124911.16,
+      "asset_val": 16242433268.04,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "赣锋锂业",
+          "code": "002460",
+          "percent": 7.1,
+          "current_price": 82.24,
+          "change_percentage": 3.06,
+          "xq_symbol": "SZ002460",
+          "xq_url": "https://xueqiu.com/S/SZ002460",
+          "amarket": true
+        },
+        {
+          "name": "深信服",
+          "code": "300454",
+          "percent": 6.99,
+          "current_price": 217.55,
+          "change_percentage": 3.2,
+          "xq_symbol": "SZ300454",
+          "xq_url": "https://xueqiu.com/S/SZ300454",
+          "amarket": true
+        },
+        {
+          "name": "顺丰控股",
+          "code": "002352",
+          "percent": 5.49,
+          "current_price": 80.21,
+          "change_percentage": -1.88,
+          "xq_symbol": "SZ002352",
+          "xq_url": "https://xueqiu.com/S/SZ002352",
+          "amarket": true
+        },
+        {
+          "name": "宁德时代",
+          "code": "300750",
+          "percent": 4.92,
+          "current_price": 266.03,
+          "change_percentage": 1.75,
+          "xq_symbol": "SZ300750",
+          "xq_url": "https://xueqiu.com/S/SZ300750",
+          "amarket": true
+        },
+        {
+          "name": "海大集团",
+          "code": "002311",
+          "percent": 4.59,
+          "current_price": 61,
+          "change_percentage": 0,
+          "xq_symbol": "SZ002311",
+          "xq_url": "https://xueqiu.com/S/SZ002311",
+          "amarket": true
+        },
+        {
+          "name": "万华化学",
+          "code": "600309",
+          "percent": 3.91,
+          "current_price": 82.99,
+          "change_percentage": -0.3,
+          "xq_symbol": "SH600309",
+          "xq_url": "https://xueqiu.com/S/SH600309",
+          "amarket": true
+        },
+        {
+          "name": "歌尔股份",
+          "code": "002241",
+          "percent": 3.48,
+          "current_price": 37.16,
+          "change_percentage": -2.24,
+          "xq_symbol": "SZ002241",
+          "xq_url": "https://xueqiu.com/S/SZ002241",
+          "amarket": true
+        },
+        {
+          "name": "汇川技术",
+          "code": "300124",
+          "percent": 3.45,
+          "current_price": 85.58,
+          "change_percentage": 1.04,
+          "xq_symbol": "SZ300124",
+          "xq_url": "https://xueqiu.com/S/SZ300124",
+          "amarket": true
+        },
+        {
+          "name": "海尔智家",
+          "code": "600690",
+          "percent": 3.1,
+          "current_price": 26.97,
+          "change_percentage": -0.19,
+          "xq_symbol": "SH600690",
+          "xq_url": "https://xueqiu.com/S/SH600690",
+          "amarket": true
+        },
+        {
+          "name": "福耀玻璃",
+          "code": "600660",
+          "percent": 3.01,
+          "current_price": 38.74,
+          "change_percentage": 0,
+          "xq_symbol": "SH600660",
+          "xq_url": "https://xueqiu.com/S/SH600660",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "隆20转债",
+          "code": "113038",
+          "percent": 0.12,
+          "xq_symbol": "113038",
+          "xq_url": "https://xueqiu.com/S/113038",
+          "amarket": false
+        },
+        {
+          "name": "海大转债",
+          "code": "128102",
+          "percent": 0.11,
+          "xq_symbol": "128102",
+          "xq_url": "https://xueqiu.com/S/128102",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "001938",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "1.00"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "365天≤持有期限<730天",
+          "value": "0.250"
+        },
+        {
+          "name": "730天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "周应波",
+        "resume": "    周应波先生,中欧时代智慧混合型证券投资基金拟任投资经理。中国籍,7年证券从业经验。历任平安证券有限责任公司研究员,华夏基金管理有限公司研究员。2014年 10月加入中欧基金管理有限公司,曾任研究员、投资经理助理、投资经理,现任中欧时代先锋股票型发起式证券投资基金基金经理(自 2015年11月 3日起至今)、中欧明睿新常态混合型证券投资基金基金经理(自 2016年12月 1日起至今) 。欧时代智慧混合型证券投资基金( 2018年01月25日 )",
+        "college": "北京大学",
+        "work_year": "9",
+        "achievement_list": [
+          {
+            "fund_code": "010682",
+            "fundsname": "中欧创新未来18个月封闭运作混合B",
+            "post_date": "2020-11-23",
+            "cp_rate": -1.1196
+          },
+          {
+            "fund_code": "010214",
+            "fundsname": "中欧互联网先锋混合C",
+            "post_date": "2020-10-12",
+            "cp_rate": 1.42
+          },
+          {
+            "fund_code": "010213",
+            "fundsname": "中欧互联网先锋混合A",
+            "post_date": "2020-10-12",
+            "cp_rate": 1.5
+          },
+          {
+            "fund_code": "010316",
+            "fundsname": "中欧创新未来18个月封闭运作混合C",
+            "post_date": "2020-10-09",
+            "cp_rate": 2.45
+          },
+          {
+            "fund_code": "501081",
+            "fundsname": "中欧科创主题3年封闭运作灵活配置混合",
+            "post_date": "2019-06-28",
+            "resi_date": "2020-08-12",
+            "cp_rate": 47.19
+          },
+          {
+            "fund_code": "007101",
+            "fundsname": "中欧远见两年定期开放混合C",
+            "post_date": "2019-04-24",
+            "cp_rate": 72.18
+          },
+          {
+            "fund_code": "166025",
+            "fundsname": "中欧远见两年定期开放混合A",
+            "post_date": "2019-04-24",
+            "cp_rate": 73.86
+          },
+          {
+            "fund_code": "005765",
+            "fundsname": "中欧明睿新常态混合C",
+            "post_date": "2018-03-14",
+            "cp_rate": 96.4889
+          },
+          {
+            "fund_code": "005242",
+            "fundsname": "中欧时代智慧混合C",
+            "post_date": "2018-01-25",
+            "resi_date": "2020-08-12",
+            "cp_rate": 82.2635
+          },
+          {
+            "fund_code": "005241",
+            "fundsname": "中欧时代智慧混合A",
+            "post_date": "2018-01-25",
+            "resi_date": "2020-08-12",
+            "cp_rate": 86.3027
+          },
+          {
+            "fund_code": "004241",
+            "fundsname": "中欧时代先锋股票C",
+            "post_date": "2017-01-19",
+            "cp_rate": 168.3543
+          },
+          {
+            "fund_code": "001811",
+            "fundsname": "中欧明睿新常态混合A",
+            "post_date": "2016-12-01",
+            "cp_rate": 170.1971
+          },
+          {
+            "fund_code": "001938",
+            "fundsname": "中欧时代先锋股票A",
+            "post_date": "2015-11-03",
+            "cp_rate": 264.05
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "001938",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 2,
+      "all_buy_days": 2,
+      "all_sale_days": 3
+    }
+  },
+  "result_code": 0
+}

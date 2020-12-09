@@ -1,0 +1,238 @@
+{
+  "data": {
+    "fund_company": "    海富通基金管理有限公司成立于2003年4月,是中国首批获准成立的中外合资基金管理公司。\n    从2003年8月开始,海富通先后募集成立了43只公募基金。截至2016年12月31日,海富通管理的公募基金资产规模为442.56亿元人民币。\n    作为国家人力资源和社会保障部首批企业年金基金投资管理人,截至2016年12月31日,海富通为77家企业超过370.18亿元的企业年金基金担任了投资管理人。作为首批特定客户资产管理业务资格的基金管理公司,截至2016年12月31日,海富通旗下专项管理业务总管理金额超过830.56亿元人民币。2010年12月,海富通基金管理有限公司被全国社会保障基金理事会选聘为境内委托投资管理人。2012 年9 月,中国保监会公告确认海富通基金为首批保险资金投资管理人之一。\n    2004年末开始,海富通为QFII(合格境外机构投资者)及其他多个海内外投资组合担任投资咨询顾问,截至2016年12月31日, 投资咨询及海外业务规模近62.19亿元人民币。2011年12月,海富通全资子公司——海富通资产管理(香港)有限公司获得证监会核准批复RQFII(人民币合格境外机构投资者)业务资格,能够在香港筹集人民币资金投资境内证券市场。2012年2月,海富通资产管理(香港)有限公司已募集发行了首只RQFII产品。2014年8月,上海富诚海富通资产管理有限公司成立。\n    2012年3月,国内权威财经媒体《中国证券报》等授予海富通基金管理有限公司“中国基金业金牛基金管理公司”大奖,《证券时报》授予海富通精选混合基金“2011年中国基金业明星奖—五年持续回报平衡混合型明星基金”荣誉。2013年4月,《上海证券报》授予海富通精选混合基金2012年“金基金”奖——分红基金奖。2016年3月,《中国证券报》等授予海富通基金管理有限公司“固定收益投资金牛基金公司”大奖。 2016年9月,招商银行授予海富通基金管理有限公司“2015年金眼睛企业年金投资优胜奖”。2016年11月,《每日经济新闻》授予富诚海富通2016年“金鼎奖”——“最具竞争力子公司”奖、“最佳特色产品(含“一对一”)”奖。\n    海富通同时还在不断践行其社会责任。公司自2008年启动“绿色与希望-橄榄枝公益环保计划”,针对汶川震区受灾学校、上海民工小学、安徽老区小学进行了物资捐赠,向内蒙古库伦旗捐建了环保公益林。几年来,海富通的公益行动进一步升级,持续为上海民工小学学生捐献生活物资,并向安徽农村小学捐献图书室。此外,海富通还积极推进投资者教育工作,推出了以“幸福投资”为主题和特色的投资者教育活动,向投资者传播长期投资、理性投资的理念。",
+    "fund_position": {
+      "stock_percent": 88.57,
+      "bond_percent": 0,
+      "cash_percent": 9.33,
+      "other_percent": 2.1,
+      "asset_tot": 281707220.85,
+      "asset_val": 279968031.6,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "华海药业",
+          "code": "600521",
+          "percent": 1.83,
+          "current_price": 35.36,
+          "change_percentage": 2.26,
+          "xq_symbol": "SH600521",
+          "xq_url": "https://xueqiu.com/S/SH600521",
+          "amarket": true
+        },
+        {
+          "name": "吉比特",
+          "code": "603444",
+          "percent": 1.78,
+          "current_price": 410.3,
+          "change_percentage": 2.32,
+          "xq_symbol": "SH603444",
+          "xq_url": "https://xueqiu.com/S/SH603444",
+          "amarket": true
+        },
+        {
+          "name": "安琪酵母",
+          "code": "600298",
+          "percent": 1.76,
+          "current_price": 50.15,
+          "change_percentage": -0.89,
+          "xq_symbol": "SH600298",
+          "xq_url": "https://xueqiu.com/S/SH600298",
+          "amarket": true
+        },
+        {
+          "name": "恒力石化",
+          "code": "600346",
+          "percent": 1.72,
+          "current_price": 25.16,
+          "change_percentage": -2.1,
+          "xq_symbol": "SH600346",
+          "xq_url": "https://xueqiu.com/S/SH600346",
+          "amarket": true
+        },
+        {
+          "name": "长春高新",
+          "code": "000661",
+          "percent": 1.72,
+          "current_price": 388,
+          "change_percentage": 0.19,
+          "xq_symbol": "SZ000661",
+          "xq_url": "https://xueqiu.com/S/SZ000661",
+          "amarket": true
+        },
+        {
+          "name": "日月股份",
+          "code": "603218",
+          "percent": 1.69,
+          "current_price": 26.4,
+          "change_percentage": -0.94,
+          "xq_symbol": "SH603218",
+          "xq_url": "https://xueqiu.com/S/SH603218",
+          "amarket": true
+        },
+        {
+          "name": "鹏鼎控股",
+          "code": "002938",
+          "percent": 1.66,
+          "current_price": 54.51,
+          "change_percentage": -2.14,
+          "xq_symbol": "SZ002938",
+          "xq_url": "https://xueqiu.com/S/SZ002938",
+          "amarket": true
+        },
+        {
+          "name": "大参林",
+          "code": "603233",
+          "percent": 1.66,
+          "current_price": 87.64,
+          "change_percentage": 0.62,
+          "xq_symbol": "SH603233",
+          "xq_url": "https://xueqiu.com/S/SH603233",
+          "amarket": true
+        },
+        {
+          "name": "洽洽食品",
+          "code": "002557",
+          "percent": 1.66,
+          "current_price": 58.61,
+          "change_percentage": -0.26,
+          "xq_symbol": "SZ002557",
+          "xq_url": "https://xueqiu.com/S/SZ002557",
+          "amarket": true
+        },
+        {
+          "name": "晶盛机电",
+          "code": "300316",
+          "percent": 1.65,
+          "current_price": 29.1,
+          "change_percentage": -2.51,
+          "xq_symbol": "SZ300316",
+          "xq_url": "https://xueqiu.com/S/SZ300316",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "海大转债",
+          "code": "128102",
+          "percent": 0,
+          "xq_symbol": "128102",
+          "xq_url": "https://xueqiu.com/S/128102",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "005189",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "1.0",
+      "subscribe_discount": "1.0",
+      "declare_discount": "1.0",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.20"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<180天",
+          "value": "0.500"
+        },
+        {
+          "name": "180天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "纪君凯",
+        "resume": "    上海财经大学统计学硕士, 历任天风证券上海自营分公司衍生品部投资研究、期权交易职位。 2017年 7月加入海富通基金管理有限公司,历任投资经理、量化投资部基金经理助理。",
+        "college": "上海财经大学",
+        "achievement_list": [
+          {
+            "fund_code": "005189",
+            "fundsname": "海富通量化前锋股票A",
+            "post_date": "2020-07-03",
+            "cp_rate": 14.2907
+          },
+          {
+            "fund_code": "005188",
+            "fundsname": "海富通量化前锋股票C",
+            "post_date": "2020-07-03",
+            "cp_rate": 14.0898
+          },
+          {
+            "fund_code": "519034",
+            "fundsname": "海富通中证500指数增强A",
+            "post_date": "2020-07-03",
+            "cp_rate": 11.589
+          },
+          {
+            "fund_code": "009004",
+            "fundsname": "海富通中证500指数增强C",
+            "post_date": "2020-07-03",
+            "cp_rate": 11.4641
+          },
+          {
+            "fund_code": "510120",
+            "fundsname": "海富通上证非周期ETF",
+            "post_date": "2020-06-05",
+            "cp_rate": 26.3839
+          },
+          {
+            "fund_code": "510110",
+            "fundsname": "海富通上证周期ETF",
+            "post_date": "2020-06-05",
+            "cp_rate": 20.4779
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "005189",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

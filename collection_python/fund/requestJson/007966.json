@@ -1,0 +1,238 @@
+{
+  "data": {
+    "fund_company": "    民生加银基金管理有限公司于2008年11月3日成立,由中国民生银行股份有限公司(China Minsheng Banking Corp., Ltd.) 、加拿大皇家银行(Royal Bank of Canada)和三峡财务有限责任公司共同发起设立,持股比例分别为60%、30%和10%。公司注册资本贰亿元人民币,注册地深圳。\n    作为一家具有银行背景的中外合资基金管理公司,同时站在中国基金业十年发展的基础上,民生加银将牢牢把握公司的先天优势资源,善用后发优势,以专业化、市场化的经营理念打造公司“专业化投研、流程化管理、理财规划式营销服务和稳定的核心团队”为目标的核心竞争力,努力建设成为一个国际先进、诚信、稳健、专业、创新、客户高度信赖、持有人利益最大化的专业资产管理公司。",
+    "fund_position": {
+      "stock_percent": 90.25,
+      "cash_percent": 6.97,
+      "other_percent": 2.78,
+      "asset_tot": 87544582.85,
+      "asset_val": 85765715.89,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "美的集团",
+          "code": "000333",
+          "percent": 7.29,
+          "current_price": 86.7,
+          "change_percentage": -1.54,
+          "xq_symbol": "SZ000333",
+          "xq_url": "https://xueqiu.com/S/SZ000333",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 6.73,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "亿纬锂能",
+          "code": "300014",
+          "percent": 5.9,
+          "current_price": 63.71,
+          "change_percentage": 4.17,
+          "xq_symbol": "SZ300014",
+          "xq_url": "https://xueqiu.com/S/SZ300014",
+          "amarket": true
+        },
+        {
+          "name": "海尔智家",
+          "code": "600690",
+          "percent": 5.05,
+          "current_price": 26.97,
+          "change_percentage": -0.19,
+          "xq_symbol": "SH600690",
+          "xq_url": "https://xueqiu.com/S/SH600690",
+          "amarket": true
+        },
+        {
+          "name": "康泰生物",
+          "code": "300601",
+          "percent": 4.67,
+          "current_price": 158.41,
+          "change_percentage": -1.36,
+          "xq_symbol": "SZ300601",
+          "xq_url": "https://xueqiu.com/S/SZ300601",
+          "amarket": true
+        },
+        {
+          "name": "长春高新",
+          "code": "000661",
+          "percent": 4.18,
+          "current_price": 388,
+          "change_percentage": 0.19,
+          "xq_symbol": "SZ000661",
+          "xq_url": "https://xueqiu.com/S/SZ000661",
+          "amarket": true
+        },
+        {
+          "name": "歌尔股份",
+          "code": "002241",
+          "percent": 3.58,
+          "current_price": 37.16,
+          "change_percentage": -2.24,
+          "xq_symbol": "SZ002241",
+          "xq_url": "https://xueqiu.com/S/SZ002241",
+          "amarket": true
+        },
+        {
+          "name": "智飞生物",
+          "code": "300122",
+          "percent": 3.51,
+          "current_price": 139.38,
+          "change_percentage": -0.39,
+          "xq_symbol": "SZ300122",
+          "xq_url": "https://xueqiu.com/S/SZ300122",
+          "amarket": true
+        },
+        {
+          "name": "欧派家居",
+          "code": "603833",
+          "percent": 3.29,
+          "current_price": 131,
+          "change_percentage": -0.56,
+          "xq_symbol": "SH603833",
+          "xq_url": "https://xueqiu.com/S/SH603833",
+          "amarket": true
+        },
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 2.86,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "007966",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "1",
+      "subscribe_discount": "1",
+      "declare_discount": "1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "1天≤持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.500"
+        },
+        {
+          "name": "30天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.40"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "高松",
+        "resume": "    高松先生:北京大学医学部博士,加拿大多伦多大学医学院博士后,10年证券从业经历,曾于国金通用基金公司(筹)研究部担任研究员;于方正富邦基金管理有限公司研究部、投资部先后担任研究员、基金经理、权益资产条线投资决策委员会成员。2016年7月加入民生加银基金管理有限公司,担任基金经理一职。自2016年12月至今担任民生加银养老服务灵活配置混合型证券投资基金基金经理;自2017年3月至今担任民生加银品牌蓝筹灵活配置混合型证券投资基金基金经理;自2019年8月至今担任民生加银优选股票型证券投资基金基金经理;自2020年4月至今担任民生加银品质消费股票型证券投资基金基金经理;自2019年3月至2020年5月担任民生加银信用双利债券型证券投资基金基金经理。",
+        "college": "多伦多大学",
+        "work_year": "10",
+        "achievement_list": [
+          {
+            "fund_code": "009898",
+            "fundsname": "民生加银医药健康股票",
+            "post_date": "2020-08-28",
+            "cp_rate": 0
+          },
+          {
+            "fund_code": "007965",
+            "fundsname": "民生加银品质消费股票A",
+            "post_date": "2020-04-23",
+            "cp_rate": 37.28
+          },
+          {
+            "fund_code": "007966",
+            "fundsname": "民生加银品质消费股票C",
+            "post_date": "2020-04-23",
+            "cp_rate": 36.94
+          },
+          {
+            "fund_code": "000884",
+            "fundsname": "民生加银优选股票",
+            "post_date": "2019-08-12",
+            "cp_rate": 92.963
+          },
+          {
+            "fund_code": "690006",
+            "fundsname": "民生加银信用双利债券A",
+            "post_date": "2019-03-27",
+            "resi_date": "2020-05-20",
+            "cp_rate": -1.1908
+          },
+          {
+            "fund_code": "690206",
+            "fundsname": "民生加银信用双利债券C",
+            "post_date": "2019-03-27",
+            "resi_date": "2020-05-20",
+            "cp_rate": -1.6064
+          },
+          {
+            "fund_code": "690001",
+            "fundsname": "民生加银品牌蓝筹混合",
+            "post_date": "2017-03-31",
+            "cp_rate": 104.4201
+          },
+          {
+            "fund_code": "002547",
+            "fundsname": "民生养老服务",
+            "post_date": "2016-12-05",
+            "cp_rate": 137.2763
+          },
+          {
+            "fund_code": "730002",
+            "fundsname": "方正富邦红利精选混合A",
+            "post_date": "2015-01-16",
+            "resi_date": "2016-07-01",
+            "cp_rate": 0.8368
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "007966",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

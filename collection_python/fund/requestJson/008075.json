@@ -1,0 +1,317 @@
+{
+  "data": {
+    "fund_company": "    招商基金管理有限公司于2002年12月27日经中国证监会(2002)100号文批准设立,是中国第一家中外合资基金管理公司。公司的经营范围包括发起设立基金、基金管理业务和中国证监会批准的其它业务。\n    经招商基金管理有限公司(以下简称“本公司”)股东会审议通过,并经中国证券监督管理委员会证监许可[2013]1074号文批复同意。目前,本公司的股东股权结构为:招商银行股份有限公司持有公司全部股权的55%,招商证券股份有限公司持有公司全部股权的45%。公司注册资本金为2.1亿元人民币。目前,招商基金拥有两家全资子公司,分别为招商财富资产管理有限公司和招商资产管理(香港)有限公司。\n    招商基金以“为投资者创造更多价值”为使命,秉承诚信、理性、专业、协作、成长的核心价值观,努力成为中国资产管理行业具有差异化竞争优势、一流品牌的资产管理公司。",
+    "fund_position": {
+      "stock_percent": 87.23,
+      "bond_percent": 6.6,
+      "cash_percent": 5.6,
+      "other_percent": 0.57,
+      "asset_tot": 1554164698.74,
+      "asset_val": 1539461641.84,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "牧原股份",
+          "code": "002714",
+          "percent": 8.48,
+          "current_price": 78.22,
+          "change_percentage": -0.7,
+          "xq_symbol": "SZ002714",
+          "xq_url": "https://xueqiu.com/S/SZ002714",
+          "amarket": true
+        },
+        {
+          "name": "美团-W",
+          "code": "03690",
+          "percent": 7.17,
+          "xq_symbol": "03690",
+          "xq_url": "https://xueqiu.com/S/03690",
+          "amarket": false
+        },
+        {
+          "name": "海大集团",
+          "code": "002311",
+          "percent": 7.03,
+          "current_price": 61,
+          "change_percentage": 0,
+          "xq_symbol": "SZ002311",
+          "xq_url": "https://xueqiu.com/S/SZ002311",
+          "amarket": true
+        },
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 6.08,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "山西汾酒",
+          "code": "600809",
+          "percent": 5.39,
+          "current_price": 265.1,
+          "change_percentage": 1.54,
+          "xq_symbol": "SH600809",
+          "xq_url": "https://xueqiu.com/S/SH600809",
+          "amarket": true
+        },
+        {
+          "name": "华海药业",
+          "code": "600521",
+          "percent": 5.32,
+          "current_price": 35.36,
+          "change_percentage": 2.26,
+          "xq_symbol": "SH600521",
+          "xq_url": "https://xueqiu.com/S/SH600521",
+          "amarket": true
+        },
+        {
+          "name": "迈瑞医疗",
+          "code": "300760",
+          "percent": 4.3,
+          "current_price": 351.9,
+          "change_percentage": 1.82,
+          "xq_symbol": "SZ300760",
+          "xq_url": "https://xueqiu.com/S/SZ300760",
+          "amarket": true
+        },
+        {
+          "name": "艾迪精密",
+          "code": "603638",
+          "percent": 4.13,
+          "current_price": 59.02,
+          "change_percentage": 0.05,
+          "xq_symbol": "SH603638",
+          "xq_url": "https://xueqiu.com/S/SH603638",
+          "amarket": true
+        },
+        {
+          "name": "益丰药房",
+          "code": "603939",
+          "percent": 3.35,
+          "current_price": 101.02,
+          "change_percentage": -1.4,
+          "xq_symbol": "SH603939",
+          "xq_url": "https://xueqiu.com/S/SH603939",
+          "amarket": true
+        },
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 3.19,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "19进出07",
+          "code": "190307",
+          "percent": 6.5,
+          "xq_symbol": "190307",
+          "xq_url": "https://xueqiu.com/S/190307",
+          "amarket": false
+        },
+        {
+          "name": "隆20转债",
+          "code": "113038",
+          "percent": 0.17,
+          "xq_symbol": "113038",
+          "xq_url": "https://xueqiu.com/S/113038",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "008075",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<300万",
+          "value": "1.00"
+        },
+        {
+          "name": "300万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<180天",
+          "value": "0.500"
+        },
+        {
+          "name": "6月≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "付斌",
+        "resume": "    付斌先生,理学硕士。2008年1月加入中欧基金管理有限公司任研究员,2009年8月加入银河基金管理有限公司任研究员,2014年3月加入招商基金管理有限公司,现任投资管理四部总监助理兼招商先锋证券投资基金基金经理(管理时间:2015年1月14日至今)、招商丰韵混合型证券投资基金基金经理(管理时间:2019年3月19日至今)、招商丰益灵活配置混合型证券投资基金基金经理(管理时间:2019年6月21日至今)、招商丰凯灵活配置混合型证券投资基金基金经理(管理时间:2019年6月21日至今)、招商核心优选股票型证券投资基金基金经理(管理时间:2019年12月17日至今)、招商科技创新混合型证券投资基金基金经理(管理时间:2020年2月12日至今)。",
+        "achievement_list": [
+          {
+            "fund_code": "009865",
+            "fundsname": "招商景气优选股票C",
+            "post_date": "2020-11-18",
+            "cp_rate": 0.07
+          },
+          {
+            "fund_code": "009864",
+            "fundsname": "招商景气优选股票A",
+            "post_date": "2020-11-18",
+            "cp_rate": 0.1
+          },
+          {
+            "fund_code": "008656",
+            "fundsname": "招商科技创新混合C",
+            "post_date": "2020-02-12",
+            "cp_rate": 14.44
+          },
+          {
+            "fund_code": "008655",
+            "fundsname": "招商科技创新混合A",
+            "post_date": "2020-02-12",
+            "cp_rate": 15.2
+          },
+          {
+            "fund_code": "008076",
+            "fundsname": "招商核心优选C",
+            "post_date": "2019-12-17",
+            "cp_rate": 36.5
+          },
+          {
+            "fund_code": "008075",
+            "fundsname": "招商核心优选A",
+            "post_date": "2019-12-17",
+            "cp_rate": 37.57
+          },
+          {
+            "fund_code": "002582",
+            "fundsname": "招商丰凯灵活配置混合C",
+            "post_date": "2019-06-21",
+            "resi_date": "2020-07-21",
+            "cp_rate": 19.7452
+          },
+          {
+            "fund_code": "002581",
+            "fundsname": "招商丰凯灵活配置混合A",
+            "post_date": "2019-06-21",
+            "resi_date": "2020-07-21",
+            "cp_rate": 20.0338
+          },
+          {
+            "fund_code": "002515",
+            "fundsname": "招商丰益灵活配置混合C",
+            "post_date": "2019-06-21",
+            "resi_date": "2020-07-21",
+            "cp_rate": 26.7615
+          },
+          {
+            "fund_code": "002514",
+            "fundsname": "招商丰益灵活配置混合A",
+            "post_date": "2019-06-21",
+            "resi_date": "2020-07-21",
+            "cp_rate": 27.0693
+          },
+          {
+            "fund_code": "006365",
+            "fundsname": "招商丰韵混合C",
+            "post_date": "2019-03-19",
+            "cp_rate": 100.77
+          },
+          {
+            "fund_code": "006364",
+            "fundsname": "招商丰韵混合A",
+            "post_date": "2019-03-19",
+            "cp_rate": 103.52
+          },
+          {
+            "fund_code": "004784",
+            "fundsname": "招商稳健优选股票",
+            "post_date": "2017-09-20",
+            "resi_date": "2020-01-04",
+            "cp_rate": 18.11
+          },
+          {
+            "fund_code": "161706",
+            "fundsname": "招商优质成长混合(LOF)",
+            "post_date": "2017-06-01",
+            "resi_date": "2019-04-13",
+            "cp_rate": 27.6441
+          },
+          {
+            "fund_code": "217024",
+            "fundsname": "招商安盈保本混合",
+            "post_date": "2015-03-31",
+            "resi_date": "2016-07-22",
+            "cp_rate": -2.5191
+          },
+          {
+            "fund_code": "217020",
+            "fundsname": "招商安达保本混合",
+            "post_date": "2015-03-31",
+            "resi_date": "2016-07-22",
+            "cp_rate": -1.7526
+          },
+          {
+            "fund_code": "217005",
+            "fundsname": "招商先锋混合",
+            "post_date": "2015-01-14",
+            "cp_rate": 155.518
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "008075",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

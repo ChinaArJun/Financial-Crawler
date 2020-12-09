@@ -1,0 +1,237 @@
+{
+  "data": {
+    "fund_company": "    广发基金管理有限公司经中国证监会证监基金字[2003]91号文批准,于2003年8月5日成立,是业内第30家成立的基金管理公司,总部设在广州,公司注册资本金12688万元人民币。公司及旗下子公司目前拥有公募基金管理、社保基金境内委托投资管理人、基本养老保险基金证券投资管理机构、特定客户资产管理、QDII、RQFII、QFII、受托管理保险资金投资管理人和保险保障基金委托资产管理投资管理人等业务资格,具备多种业务的综合资产管理能力与经验。\n    截至2016年12月31日,公司管理125只开放式基金,管理公募基金资产规模为3048亿元,长期位居行业前列。公司旗下产品覆盖主动权益、债券、货币、海外投资、被动投资、量化对冲、另类投资等不同类别,产品线齐全。公司曾获五届中国证券报“金牛基金管理公司”奖项、两届“固定收益投资金牛基金公司”奖项,连续两届获得“海外投资金牛基金公司”奖项,获七届证券时报“明星基金管理公司”奖项,是行业最全的QDII产品提供商,业内最全的行业ETF产品提供商,在业内首创公募基金大数据先河。同时,公司还管理着多个特定客户资产管理投资组合、社保基金投资组合、养老基金投资组合。\n    公司坚持“专业创造价值、客户利益至上”的经营理念,以完备的产品供给、策略供给、区域供给为基础,构建多元投资能力、顶层资产配置能力,致力成为优秀的全能型资产管理公司,为投资者谋求长期稳定的收益,为我国资本市场的繁荣与发展贡献一份力量。",
+    "fund_position": {
+      "stock_percent": 90.72,
+      "bond_percent": 4.65,
+      "cash_percent": 4.26,
+      "other_percent": 0.37,
+      "asset_tot": 348378783.51,
+      "asset_val": 346814741.98,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "福莱特玻璃",
+          "code": "06865",
+          "percent": 11.88,
+          "xq_symbol": "06865",
+          "xq_url": "https://xueqiu.com/S/06865",
+          "amarket": false
+        },
+        {
+          "name": "腾讯控股",
+          "code": "00700",
+          "percent": 7.81,
+          "xq_symbol": "00700",
+          "xq_url": "https://xueqiu.com/S/00700",
+          "amarket": false
+        },
+        {
+          "name": "碧桂园服务",
+          "code": "06098",
+          "percent": 6.4,
+          "xq_symbol": "06098",
+          "xq_url": "https://xueqiu.com/S/06098",
+          "amarket": false
+        },
+        {
+          "name": "颐海国际",
+          "code": "01579",
+          "percent": 3.89,
+          "xq_symbol": "01579",
+          "xq_url": "https://xueqiu.com/S/01579",
+          "amarket": false
+        },
+        {
+          "name": "金蝶国际",
+          "code": "00268",
+          "percent": 3.48,
+          "xq_symbol": "00268",
+          "xq_url": "https://xueqiu.com/S/00268",
+          "amarket": false
+        },
+        {
+          "name": "美团-W",
+          "code": "03690",
+          "percent": 3.31,
+          "xq_symbol": "03690",
+          "xq_url": "https://xueqiu.com/S/03690",
+          "amarket": false
+        },
+        {
+          "name": "信义玻璃",
+          "code": "00868",
+          "percent": 3.18,
+          "xq_symbol": "00868",
+          "xq_url": "https://xueqiu.com/S/00868",
+          "amarket": false
+        },
+        {
+          "name": "金山软件",
+          "code": "03888",
+          "percent": 3.15,
+          "xq_symbol": "03888",
+          "xq_url": "https://xueqiu.com/S/03888",
+          "amarket": false
+        },
+        {
+          "name": "维亚生物",
+          "code": "01873",
+          "percent": 3.14,
+          "xq_symbol": "01873",
+          "xq_url": "https://xueqiu.com/S/01873",
+          "amarket": false
+        },
+        {
+          "name": "思摩尔国际",
+          "code": "06969",
+          "percent": 3.06,
+          "xq_symbol": "06969",
+          "xq_url": "https://xueqiu.com/S/06969",
+          "amarket": false
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "20国债01",
+          "code": "019627",
+          "percent": 4.67,
+          "xq_symbol": "019627",
+          "xq_url": "https://xueqiu.com/S/019627",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "001764",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.00"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.30"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "365天≤持有期限<730天",
+          "value": "0.250"
+        },
+        {
+          "name": "730天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "余昊",
+        "resume": "    余昊先生,理学硕士,持有中国证券投资基金业从业证书。曾任广发基金管理有限公司研究发展部研究员、国际业务部研究员、基金经理助理、投资经理、广发道琼斯美国石油开发与生产指数证券投资基金(QDII-LOF)基金经理(自2017年2月28日至2018年4月18日)、广发中小盘精选混合型证券投资基金基金经理(自2018年5月4日至2019年9月10日)。现任广发国际资产管理有限公司权益投资总监、广发沪港深新机遇股票型证券投资基金基金经理(自2016年6月7日起任职)、广发全球精选股票型证券投资基金基金经理(自2016年10月27日起任职)、广发沪港深行业龙头混合型证券投资基金基金经理(自2018年3月21日起任职)、广发港股通优质增长混合型证券投资基金基金经理(自2020年8月10日起任职)。",
+        "work_year": "10",
+        "achievement_list": [
+          {
+            "fund_code": "006595",
+            "fundsname": "广发港股通优质增长混合",
+            "post_date": "2020-08-10",
+            "cp_rate": -0.7601
+          },
+          {
+            "fund_code": "005598",
+            "fundsname": "广发中小盘精选混合",
+            "post_date": "2018-05-04",
+            "resi_date": "2019-09-10",
+            "cp_rate": -3.52
+          },
+          {
+            "fund_code": "005644",
+            "fundsname": "广发沪港深龙头混合",
+            "post_date": "2018-03-21",
+            "cp_rate": 11.88
+          },
+          {
+            "fund_code": "162719",
+            "fundsname": "广发道琼斯石油指数A人民币(QDII-LOF)",
+            "post_date": "2017-02-28",
+            "resi_date": "2018-04-18",
+            "cp_rate": 5.92
+          },
+          {
+            "fund_code": "004243",
+            "fundsname": "广发道琼斯石油指数C人民币(QDII)",
+            "post_date": "2017-02-28",
+            "resi_date": "2018-04-18",
+            "cp_rate": 5.72
+          },
+          {
+            "fund_code": "270023",
+            "fundsname": "广发全球精选股票(QDII)",
+            "post_date": "2016-10-27",
+            "cp_rate": 135.4898
+          },
+          {
+            "fund_code": "000906",
+            "fundsname": "广发全球精选股票(美元现汇)",
+            "post_date": "2016-10-27",
+            "cp_rate": 143.5583
+          },
+          {
+            "fund_code": "001764",
+            "fundsname": "广发沪港深新机遇股票",
+            "post_date": "2016-06-07",
+            "cp_rate": 73.31
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "001764",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 4,
+      "all_buy_days": 2,
+      "all_sale_days": 5
+    }
+  },
+  "result_code": 0
+}

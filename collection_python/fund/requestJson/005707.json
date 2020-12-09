@@ -1,0 +1,321 @@
+{
+  "data": {
+    "fund_company": "    富国基金管理有限公司成立于1999年,是经中国证监会批准设立的首批十家基金管理公司之一。2003年,加拿大历史最悠久的银行——加拿大蒙特利尔银行(BMO)参股富国基金,富国基金管理有限公司又成为国内首批成立的十家基金公司中第一家外资参股的基金管理公司。\n    富国基金管理有限公司不仅在中国股市的巨变中积累了丰富的投资管理经验,而且享有外方股东输入的先进理念和管理技术。经过九年的发展,公司共管理运作十一只基金,包括汉盛、汉兴、汉鼎三只封闭式证券投资基金和富国天源、富国天博、富国天利债券、富国天益价值、富国天瑞强势地区精选、富国天惠精选成长、富国天时货币市场基金和富国天合稳健优选基金八只开放式证券投资基金,截至2007年四季度末,管理资产规模超过600亿元。",
+    "fund_position": {
+      "stock_percent": 89.99,
+      "bond_percent": 0,
+      "cash_percent": 9.83,
+      "other_percent": 0.18,
+      "asset_tot": 22935424.88,
+      "asset_val": 22718190.24,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "腾讯控股",
+          "code": "00700",
+          "percent": 9.1,
+          "xq_symbol": "00700",
+          "xq_url": "https://xueqiu.com/S/00700",
+          "amarket": false
+        },
+        {
+          "name": "美团-W",
+          "code": "03690",
+          "percent": 7.11,
+          "xq_symbol": "03690",
+          "xq_url": "https://xueqiu.com/S/03690",
+          "amarket": false
+        },
+        {
+          "name": "友邦保险",
+          "code": "01299",
+          "percent": 4.4,
+          "xq_symbol": "01299",
+          "xq_url": "https://xueqiu.com/S/01299",
+          "amarket": false
+        },
+        {
+          "name": "建设银行",
+          "code": "00939",
+          "percent": 4.02,
+          "xq_symbol": "00939",
+          "xq_url": "https://xueqiu.com/S/00939",
+          "amarket": false
+        },
+        {
+          "name": "香港交易所",
+          "code": "00388",
+          "percent": 3.5,
+          "xq_symbol": "00388",
+          "xq_url": "https://xueqiu.com/S/00388",
+          "amarket": false
+        },
+        {
+          "name": "小米集团-W",
+          "code": "01810",
+          "percent": 3.31,
+          "xq_symbol": "01810",
+          "xq_url": "https://xueqiu.com/S/01810",
+          "amarket": false
+        },
+        {
+          "name": "中国人寿",
+          "code": "02628",
+          "percent": 3.09,
+          "xq_symbol": "02628",
+          "xq_url": "https://xueqiu.com/S/02628",
+          "amarket": false
+        },
+        {
+          "name": "碧桂园服务",
+          "code": "06098",
+          "percent": 2.89,
+          "xq_symbol": "06098",
+          "xq_url": "https://xueqiu.com/S/06098",
+          "amarket": false
+        },
+        {
+          "name": "中国移动",
+          "code": "00941",
+          "percent": 2.3,
+          "xq_symbol": "00941",
+          "xq_url": "https://xueqiu.com/S/00941",
+          "amarket": false
+        },
+        {
+          "name": "中国平安",
+          "code": "02318",
+          "percent": 2,
+          "xq_symbol": "02318",
+          "xq_url": "https://xueqiu.com/S/02318",
+          "amarket": false
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "005707",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "1.20"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<180天",
+          "value": "0.500"
+        },
+        {
+          "name": "180天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "徐幼华",
+        "resume": "    徐幼华,硕士,曾任上海京华创业投资有限公司投资经理助理;2006年7月至2008年12月任富国基金管理有限公司金融工程部数量研究员,2009年1月至2011年5月任富国基金管理有限公司另类投资部数量研究员、基金经理助理,2011年5月起任富国中证红利指数增强型证券投资基金基金经理,2011年10月起任富国中证500指数增强型证券投资基金(LOF)基金经理,2015年6月至2017年12月任富国中证工业4.0指数分级证券投资基金基金经理,2016年11月起任富国中证医药主题指数增强型证券投资基金(LOF)基金经理,2015年6月至2017年11月任富国中证煤炭指数分级证券投资基金、富国中证体育产业指数分级证券投资基金基金经理,2017年3月起任富国中证娱乐主题指数增强型证券投资基金(LOF)基金经理,2017年4月起任富国中证高端制造指数增强型证券投资基金(LOF)基金经理,2018年5月起任富国港股通量化精选股票型证券投资基金、富国中证1000指数增强型证券投资基金(LOF)基金经理,2018年7月起任富国大盘价值量化精选混合型证券投资基金基金经理,2018 年 12 月起任富国MSCI 中国 A 股国际通指数增强型证券投资基金基金经理;兼任量化投资部副总经理。具有基金从业资格。",
+        "college": "复旦大学",
+        "work_year": "16",
+        "achievement_list": [
+          {
+            "fund_code": "008682",
+            "fundsname": "富国中证红利指数增强C",
+            "post_date": "2020-03-10",
+            "cp_rate": 14.3564
+          },
+          {
+            "fund_code": "006034",
+            "fundsname": "富国MSCI中国A股国际通指数增强",
+            "post_date": "2018-12-25",
+            "cp_rate": 81.63
+          },
+          {
+            "fund_code": "006022",
+            "fundsname": "富国大盘价值量化精选混合",
+            "post_date": "2018-07-19",
+            "cp_rate": 70.89
+          },
+          {
+            "fund_code": "161039",
+            "fundsname": "富国中证1000指数增强(LOF)",
+            "post_date": "2018-05-31",
+            "cp_rate": 68.13
+          },
+          {
+            "fund_code": "005707",
+            "fundsname": "富国港股通量化精选股票型",
+            "post_date": "2018-05-30",
+            "cp_rate": 4.67
+          },
+          {
+            "fund_code": "161037",
+            "fundsname": "富国中证高端制造指数增强型(LOF)",
+            "post_date": "2017-04-27",
+            "resi_date": "2020-01-10",
+            "cp_rate": 32.42
+          },
+          {
+            "fund_code": "161036",
+            "fundsname": "富国中证娱乐主题指数增强型(LOF)",
+            "post_date": "2017-03-13",
+            "resi_date": "2020-01-10",
+            "cp_rate": -23.73
+          },
+          {
+            "fund_code": "161035",
+            "fundsname": "富国中证医药主题指数增强(LOF)",
+            "post_date": "2016-11-11",
+            "resi_date": "2020-01-10",
+            "cp_rate": 29.5
+          },
+          {
+            "fund_code": "150308",
+            "fundsname": "富国体育B份额",
+            "post_date": "2015-06-25",
+            "resi_date": "2017-11-29",
+            "cp_rate": -83.68
+          },
+          {
+            "fund_code": "150307",
+            "fundsname": "富国体育A份额",
+            "post_date": "2015-06-25",
+            "resi_date": "2017-11-29",
+            "cp_rate": 11.63
+          },
+          {
+            "fund_code": "161030",
+            "fundsname": "富国中证体育产业指数分级",
+            "post_date": "2015-06-25",
+            "resi_date": "2017-11-29",
+            "cp_rate": -42.21
+          },
+          {
+            "fund_code": "150322",
+            "fundsname": "富国煤炭B",
+            "post_date": "2015-06-19",
+            "resi_date": "2017-11-29",
+            "cp_rate": -75.9
+          },
+          {
+            "fund_code": "150321",
+            "fundsname": "富国煤炭A",
+            "post_date": "2015-06-19",
+            "resi_date": "2017-11-29",
+            "cp_rate": 17.09
+          },
+          {
+            "fund_code": "161032",
+            "fundsname": "富国中证煤炭指数分级",
+            "post_date": "2015-06-19",
+            "resi_date": "2017-11-29",
+            "cp_rate": -23.65
+          },
+          {
+            "fund_code": "150316",
+            "fundsname": "富国工业4.0B",
+            "post_date": "2015-06-15",
+            "resi_date": "2017-12-01",
+            "cp_rate": -87.92
+          },
+          {
+            "fund_code": "150315",
+            "fundsname": "富国工业4.0A",
+            "post_date": "2015-06-15",
+            "resi_date": "2017-12-01",
+            "cp_rate": 11.84
+          },
+          {
+            "fund_code": "161031",
+            "fundsname": "富国中证工业4.0指数分级",
+            "post_date": "2015-06-15",
+            "resi_date": "2017-12-01",
+            "cp_rate": -44.71
+          },
+          {
+            "fund_code": "161017",
+            "fundsname": "富国中证500指数增强(LOF)",
+            "post_date": "2011-10-12",
+            "cp_rate": 167.62
+          },
+          {
+            "fund_code": "100032",
+            "fundsname": "富国中证红利指数增强A",
+            "post_date": "2011-05-13",
+            "cp_rate": 118.2701
+          }
+        ]
+      },
+      {
+        "name": "蔡卡尔",
+        "resume": "    蔡卡尔,硕士,自2013年8月加入富国基金管理有限公司,历任助理定量研究员、定量研究员;自2017年1月起任富国中证医药主题指数增强型证券投资基金(LOF)基金经理;2017年5月起任富国中证高端制造指数增强型证券投资基金(LOF)基金经理;2018年5月起任富国港股通量化精选股票型证券投资基金基金经理,兼任量化投资部量化投资总监助理。具有基金从业资格。",
+        "work_year": "7",
+        "achievement_list": [
+          {
+            "fund_code": "005707",
+            "fundsname": "富国港股通量化精选股票型",
+            "post_date": "2018-05-30",
+            "cp_rate": 4.67
+          },
+          {
+            "fund_code": "161037",
+            "fundsname": "富国中证高端制造指数增强型(LOF)",
+            "post_date": "2017-05-31",
+            "cp_rate": 93.7322
+          },
+          {
+            "fund_code": "161035",
+            "fundsname": "富国中证医药主题指数增强(LOF)",
+            "post_date": "2017-01-06",
+            "cp_rate": 105.4198
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "005707",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 4,
+      "all_buy_days": 2,
+      "all_sale_days": 5
+    }
+  },
+  "result_code": 0
+}

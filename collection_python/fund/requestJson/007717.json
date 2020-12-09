@@ -1,0 +1,240 @@
+{
+  "data": {
+    "fund_company": "    工银瑞信基金管理有限公司是由中国工商银行和瑞士信贷合资设立的基金管理公司,成立于2005年6月。目前,公司在北京、上海、深圳等地设有分公司,分别在香港和上海设有全资子公司——工银瑞信资产管理(国际)有限公司、工银瑞信投资管理有限公司。\n    自成立以来,公司坚持“以稳健的投资管理,为客户提供卓越的理财服务”为使命,依托强大的股东背景、稳健的经营理念、科学的投研体系、严密的风控机制和资深的管理团队,立足专业化、国际化、规范化,坚持“稳健投资、价值投资、长期投资”,致力于为广大投资者提供一流的投资管理服务。\n    公司秉持“以人为本”的理念,全方位引入国内外优秀人才,组建了一支风格稳健、诚信敬业、创新进取、团结协作的专业团队。目前,公司共有员工逾550人,平均年龄32岁,72%的员工拥有硕士以上学历。公司投研团队由资深基金经理和研究员组成,投研人员逾170人,投资人员平均拥有约10年的从业经验。\n    经过十多年的发展,工银瑞信已成为一家拥有公募基金、专户管理、企业年金、社保基金境内外委托投资、基本养老保险基金委托投资、保险资金委托投资、企业年金养老产品、QDII、QFII、RQFII等多项业务资格的全能型资产管理公司,公司为逾1600万境内外个人和机构投资者提供涵盖公募与私募、上市与非上市、境内与跨境业务的全方位财富管理服务。\n    公司成立以来以持续优秀的投资业绩、完善周到的客户服务,赢得了广大基金投资人、社保理事会、企业年金客户、专户客户等的认可和信赖。截至2016年12月31日,工银瑞信(含子公司)旗下管理近100只公募基金和多个年金、专户组合,资产管理规模逾11000亿元,其中公募基金管理规模逾4600亿元,公司已经发展成为国内业务资格全面、产品种类丰富、经营业绩优秀、资产管理规模领先、业务发展均衡的基金管理公司之一。",
+    "fund_position": {
+      "bond_percent": 84.04,
+      "cash_percent": 1.55,
+      "other_percent": 14.41,
+      "asset_tot": 424016301.73,
+      "asset_val": 327244254.7,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [],
+      "bond_list": [
+        {
+          "name": "18鲁宏桥MTN006",
+          "code": "101800651",
+          "percent": 6.04,
+          "xq_symbol": "101800651",
+          "xq_url": "https://xueqiu.com/S/101800651",
+          "amarket": false
+        },
+        {
+          "name": "19义纾01",
+          "code": "155447",
+          "percent": 3.13,
+          "xq_symbol": "155447",
+          "xq_url": "https://xueqiu.com/S/155447",
+          "amarket": false
+        },
+        {
+          "name": "17碧水源MTN003",
+          "code": "101759070",
+          "percent": 3.12,
+          "xq_symbol": "101759070",
+          "xq_url": "https://xueqiu.com/S/101759070",
+          "amarket": false
+        },
+        {
+          "name": "19锡藕01",
+          "code": "152205",
+          "percent": 3.1,
+          "xq_symbol": "152205",
+          "xq_url": "https://xueqiu.com/S/152205",
+          "amarket": false
+        },
+        {
+          "name": "17三友化工MTN001",
+          "code": "101780012",
+          "percent": 3.1,
+          "xq_symbol": "101780012",
+          "xq_url": "https://xueqiu.com/S/101780012",
+          "amarket": false
+        },
+        {
+          "name": "惠盈08A",
+          "code": "169367",
+          "percent": 3.06,
+          "xq_symbol": "169367",
+          "xq_url": "https://xueqiu.com/S/169367",
+          "amarket": false
+        },
+        {
+          "name": "兴诚1A",
+          "code": "138056",
+          "percent": 1.54,
+          "xq_symbol": "138056",
+          "xq_url": "https://xueqiu.com/S/138056",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "007717",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "1",
+      "subscribe_discount": "1",
+      "declare_discount": "1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.500"
+        },
+        {
+          "name": "30天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.10"
+        },
+        {
+          "name": "基金管理费",
+          "value": "0.30"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "王朔",
+        "resume": "    王朔先生,10年证券从业经验;2010年加入工银瑞信,现任固定收益部副总监。2013年11月11日至今,担任工银货币市场基金基金经理;2014年1月27日至今,担任工银薪金货币市场基金基金经理;2015年7月10日至今,担任工银瑞信添益快线货币市场基金基金经理;2015年7月10日至今,担任工银瑞信现金快线货币市场基金基金经理;2016年12月23日至今,担任工银瑞信如意货币市场基金基金经理;2019年2月26日至今,担任工银瑞信尊享短债债券型证券投资基金基金经理。2019年4月30日至今,担任工银瑞信尊利中短债债券型证券投资基金基金经理。",
+        "work_year": "10",
+        "achievement_list": [
+          {
+            "fund_code": "009443",
+            "fundsname": "工银泰和39个月定开债券C",
+            "post_date": "2020-07-08",
+            "cp_rate": 0.9099
+          },
+          {
+            "fund_code": "008027",
+            "fundsname": "工银泰和39个月定开债券A",
+            "post_date": "2020-07-08",
+            "cp_rate": 1.12
+          },
+          {
+            "fund_code": "009257",
+            "fundsname": "工银尊利中短债债券F",
+            "post_date": "2020-04-07",
+            "cp_rate": -1.5
+          },
+          {
+            "fund_code": "007717",
+            "fundsname": "工银尊享短债债券F",
+            "post_date": "2019-08-05",
+            "cp_rate": 3.84
+          },
+          {
+            "fund_code": "006741",
+            "fundsname": "工银尊利中短债债券C",
+            "post_date": "2019-04-30",
+            "cp_rate": 3.52
+          },
+          {
+            "fund_code": "006740",
+            "fundsname": "工银尊利中短债债券A",
+            "post_date": "2019-04-30",
+            "cp_rate": 4.18
+          },
+          {
+            "fund_code": "006835",
+            "fundsname": "工银尊享短债债券C",
+            "post_date": "2019-02-26",
+            "cp_rate": 4.8495
+          },
+          {
+            "fund_code": "006834",
+            "fundsname": "工银尊享短债债券A",
+            "post_date": "2019-02-26",
+            "cp_rate": 5.6777
+          },
+          {
+            "fund_code": "003753",
+            "fundsname": "工银如意货币B",
+            "post_date": "2016-12-23",
+            "cp_rate": 14.2276
+          },
+          {
+            "fund_code": "003752",
+            "fundsname": "工银如意货币A",
+            "post_date": "2016-12-23",
+            "cp_rate": 13.1572
+          },
+          {
+            "fund_code": "000848",
+            "fundsname": "工银瑞信添益快线货币",
+            "post_date": "2015-07-06",
+            "cp_rate": 16.3972
+          },
+          {
+            "fund_code": "000677",
+            "fundsname": "工银瑞信现金快线货币",
+            "post_date": "2015-07-06",
+            "cp_rate": 16.5203
+          },
+          {
+            "fund_code": "000716",
+            "fundsname": "工银薪金货币B",
+            "post_date": "2014-07-03",
+            "cp_rate": 22.0085
+          },
+          {
+            "fund_code": "000528",
+            "fundsname": "工银薪金货币A",
+            "post_date": "2014-01-27",
+            "cp_rate": 21.7779
+          },
+          {
+            "fund_code": "485018",
+            "fundsname": "工银7天理财债券B",
+            "post_date": "2013-12-13",
+            "resi_date": "2014-06-04",
+            "cp_rate": 2.641
+          },
+          {
+            "fund_code": "485118",
+            "fundsname": "工银7天理财债券A",
+            "post_date": "2013-12-13",
+            "resi_date": "2014-06-04",
+            "cp_rate": 2.5029
+          },
+          {
+            "fund_code": "482002",
+            "fundsname": "工银货币",
+            "post_date": "2013-11-11",
+            "cp_rate": 26.9976
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "007717",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

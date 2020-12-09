@@ -1,0 +1,417 @@
+{
+  "data": {
+    "fund_company": "    1998年3月6日,经中国证监会批准,南方基金管理有限公司作为国内首批规范的基金管理公司正式成立,成为我国“新基金时代”的起始标志。\n    南方基金总部设在深圳,注册资本3亿元人民币。股东结构为:华泰证券股份有限公司(45%);深圳市投资控股有限公司(30%);厦门国际信托有限公司(15%);兴业证券股份有限公司(10%)。目前,公司在北京、上海、合肥、成都、深圳等地设有分公司,在香港和深圳前海设有子公司——南方东英资产管理有限公司(香港子公司)和南方资本管理有限公司(深圳子公司)。其中,南方东英是境内基金公司获批成立的第一家境外分支机构。\n    公司拥有一支高素质、经验丰富的专业化团队。现有员工545人,超过68%的员工具有硕士以上学历,近55%的员工具有5年以上的证券从业经历,其中投研人员的平均证券从业年限为6年,39%的投研人员具有海外学习或工作经验。\n    公司经历了中国证券市场多次牛熊交替的长期考验,以持续优秀的投资业绩、完善周到的客户服务,赢得了广大基金投资人、社保理事会、企业年金客户、专户客户的认可和信赖。截至2016年三季度末,公司管理资产规模6355亿元,位居行业前列。旗下管理公募基金共107只,产品涵盖股票型、混合型、指数型、保本型、债券型、货币型、QDII等。公募基金资产管理规模3898亿元,排名行业第五,累计向基金持有人分红超过782亿元,拥有客户数量近2400万人。私募业务管理规模2457亿元,在行业中持续保持领先地位。南方基金已经发展成为国内产品种类最丰富、业务领域最全面、经营业绩优秀、资产管理规模最大的基金管理公司之一。",
+    "fund_position": {
+      "stock_percent": 91.01,
+      "bond_percent": 0.67,
+      "cash_percent": 6.23,
+      "other_percent": 2.09,
+      "asset_tot": 976182843.42,
+      "source_mark": "上市公告书",
+      "source": "8",
+      "enddate": "2020-11-23",
+      "stock_list": [
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 10.24,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "泸州老窖",
+          "code": "000568",
+          "percent": 8.75,
+          "current_price": 191.85,
+          "change_percentage": 0.56,
+          "xq_symbol": "SZ000568",
+          "xq_url": "https://xueqiu.com/S/SZ000568",
+          "amarket": true
+        },
+        {
+          "name": "星宇股份",
+          "code": "601799",
+          "percent": 8.24,
+          "current_price": 186.12,
+          "change_percentage": -2.43,
+          "xq_symbol": "SH601799",
+          "xq_url": "https://xueqiu.com/S/SH601799",
+          "amarket": true
+        },
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 7.54,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "美的集团",
+          "code": "000333",
+          "percent": 5.27,
+          "current_price": 86.7,
+          "change_percentage": -1.54,
+          "xq_symbol": "SZ000333",
+          "xq_url": "https://xueqiu.com/S/SZ000333",
+          "amarket": true
+        },
+        {
+          "name": "盐津铺子",
+          "code": "002847",
+          "percent": 5.08,
+          "current_price": 121.88,
+          "change_percentage": -0.91,
+          "xq_symbol": "SZ002847",
+          "xq_url": "https://xueqiu.com/S/SZ002847",
+          "amarket": true
+        },
+        {
+          "name": "爱美客",
+          "code": "300896",
+          "percent": 4.55,
+          "current_price": 595.8,
+          "change_percentage": 0,
+          "xq_symbol": "SZ300896",
+          "xq_url": "https://xueqiu.com/S/SZ300896",
+          "amarket": true
+        },
+        {
+          "name": "美团-W",
+          "code": "03690",
+          "percent": 3.9,
+          "xq_symbol": "03690",
+          "xq_url": "https://xueqiu.com/S/03690",
+          "amarket": false
+        },
+        {
+          "name": "迈瑞医疗",
+          "code": "300760",
+          "percent": 2.92,
+          "current_price": 351.9,
+          "change_percentage": 1.82,
+          "xq_symbol": "SZ300760",
+          "xq_url": "https://xueqiu.com/S/SZ300760",
+          "amarket": true
+        },
+        {
+          "name": "中公教育",
+          "code": "002607",
+          "percent": 2.81,
+          "current_price": 37,
+          "change_percentage": -1.04,
+          "xq_symbol": "SZ002607",
+          "xq_url": "https://xueqiu.com/S/SZ002607",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "星宇转债",
+          "code": "113040",
+          "percent": 0.31,
+          "xq_symbol": "113040",
+          "xq_url": "https://xueqiu.com/S/113040",
+          "amarket": false
+        },
+        {
+          "name": "大参转债",
+          "code": "113605",
+          "percent": 0.13,
+          "xq_symbol": "113605",
+          "xq_url": "https://xueqiu.com/S/113605",
+          "amarket": false
+        },
+        {
+          "name": "洽洽转债",
+          "code": "128135",
+          "percent": 0.13,
+          "xq_symbol": "128135",
+          "xq_url": "https://xueqiu.com/S/128135",
+          "amarket": false
+        },
+        {
+          "name": "安20转债",
+          "code": "113592",
+          "percent": 0.05,
+          "xq_symbol": "113592",
+          "xq_url": "https://xueqiu.com/S/113592",
+          "amarket": false
+        },
+        {
+          "name": "立讯转债",
+          "code": "128136",
+          "percent": 0.03,
+          "xq_symbol": "128136",
+          "xq_url": "https://xueqiu.com/S/128136",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "160127",
+      "subscribe_rate": "0",
+      "declare_rate": "1.5",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.5"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "0.9"
+        },
+        {
+          "name": "500万≤买入金额<1000万",
+          "value": "0.3"
+        },
+        {
+          "name": "1000万≤买入金额",
+          "value": "1000"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "茅炜",
+        "resume": "    上海财经大学保险学学士,具有基金从业资格。曾任职于东方人寿保险公司及生命人寿保险公司,担任保险精算员,在国金证券研究所任职期间,担任保险及金融行业研究员。2009年加入南方基金,历任研究部保险及金融行业研究员、研究部总监助理、副总监、执行总监、总监,现任权益研究部总经理、境内权益投资决策委员会委员;2012年10月12日至2016年1月26日,兼任专户投资管理部投资经理;2018年2月2日至2020年2月7日,任南方教育股票基金经理;2018年6月8日至2020年4月10日,任南方医保基金经理;2016年2月3日至2020年5月15日,任南方君选基金经理;2018年5月30日至今,任南方君信混合基金经理;2019年3月29日至今,任南方军工混合基金经理;2019年5月6日至今,任南方科技创新混合基金经理;2019年6月19日至今,任南方信息创新混合基金经理;2019年12月6日至今,任南方消费基金经理;2019年12月20日至今,任南方配售基金经理;2020年2月7日至今,任南方高端装备基金经理;2020年6月12日至今,任南方成长先锋混合基金经理。",
+        "college": "上海财经大学",
+        "work_year": "12",
+        "achievement_list": [
+          {
+            "fund_code": "160144",
+            "fundsname": "南方新兴消费增长股票(LOF)C",
+            "post_date": "2020-11-17",
+            "cp_rate": 2.4649
+          },
+          {
+            "fund_code": "160127",
+            "fundsname": "南方新兴消费增长股票(LOF)A",
+            "post_date": "2020-11-17",
+            "cp_rate": -0.9222
+          },
+          {
+            "fund_code": "010150",
+            "fundsname": "南方君信混合C",
+            "post_date": "2020-09-07",
+            "cp_rate": 12.9873
+          },
+          {
+            "fund_code": "009705",
+            "fundsname": "南方景气驱动混合C",
+            "post_date": "2020-08-04",
+            "cp_rate": 4.2
+          },
+          {
+            "fund_code": "009704",
+            "fundsname": "南方景气驱动混合A",
+            "post_date": "2020-08-04",
+            "cp_rate": 4.41
+          },
+          {
+            "fund_code": "506000",
+            "fundsname": "南方科创板3年定期开放混合",
+            "post_date": "2020-07-28",
+            "cp_rate": -2.61
+          },
+          {
+            "fund_code": "009319",
+            "fundsname": "南方成长先锋混合C",
+            "post_date": "2020-06-12",
+            "cp_rate": 5.8394
+          },
+          {
+            "fund_code": "009318",
+            "fundsname": "南方成长先锋混合A",
+            "post_date": "2020-06-12",
+            "cp_rate": 6.1494
+          },
+          {
+            "fund_code": "005207",
+            "fundsname": "南方高端装备灵活配置混合C",
+            "post_date": "2020-02-07",
+            "cp_rate": 45.0254
+          },
+          {
+            "fund_code": "202027",
+            "fundsname": "南方高端装备灵活配置混合A",
+            "post_date": "2020-02-07",
+            "cp_rate": 46.0112
+          },
+          {
+            "fund_code": "160142",
+            "fundsname": "南方3年封闭运作战略配售(LOF)",
+            "post_date": "2019-12-20",
+            "cp_rate": 3.9466
+          },
+          {
+            "fund_code": "160127",
+            "fundsname": "南方新兴消费增长分级股票",
+            "post_date": "2019-12-06",
+            "resi_date": "2020-11-16",
+            "cp_rate": 70.8272
+          },
+          {
+            "fund_code": "150050",
+            "fundsname": "南方消费进取",
+            "post_date": "2019-12-06",
+            "resi_date": "2020-11-16",
+            "cp_rate": 138.6048
+          },
+          {
+            "fund_code": "150049",
+            "fundsname": "南方消费收益",
+            "post_date": "2019-12-06",
+            "resi_date": "2020-11-16",
+            "cp_rate": 4.2999
+          },
+          {
+            "fund_code": "007491",
+            "fundsname": "南方信息创新混合C",
+            "post_date": "2019-06-19",
+            "cp_rate": 114.59
+          },
+          {
+            "fund_code": "007490",
+            "fundsname": "南方信息创新混合A",
+            "post_date": "2019-06-19",
+            "cp_rate": 117.09
+          },
+          {
+            "fund_code": "007340",
+            "fundsname": "南方科技创新混合A",
+            "post_date": "2019-05-06",
+            "cp_rate": 137.27
+          },
+          {
+            "fund_code": "007341",
+            "fundsname": "南方科技创新混合C",
+            "post_date": "2019-05-06",
+            "cp_rate": 134.27
+          },
+          {
+            "fund_code": "004224",
+            "fundsname": "南方军工混合",
+            "post_date": "2019-03-29",
+            "resi_date": "2020-11-20",
+            "cp_rate": 62.1355
+          },
+          {
+            "fund_code": "000452",
+            "fundsname": "南方医保",
+            "post_date": "2018-06-08",
+            "resi_date": "2020-04-10",
+            "cp_rate": 44.3562
+          },
+          {
+            "fund_code": "005741",
+            "fundsname": "南方君信混合A",
+            "post_date": "2018-05-30",
+            "cp_rate": 94.66
+          },
+          {
+            "fund_code": "003956",
+            "fundsname": "南方教育股票",
+            "post_date": "2018-02-02",
+            "resi_date": "2020-02-07",
+            "cp_rate": 84.8795
+          },
+          {
+            "fund_code": "001536",
+            "fundsname": "南方君选灵活配置混合",
+            "post_date": "2016-02-03",
+            "resi_date": "2020-05-15",
+            "cp_rate": 37.6
+          }
+        ]
+      },
+      {
+        "name": "郑诗韵",
+        "resume": "    女,麻省理工学院经济学硕士,特许金融分析师(CFA),具有基金从业资格。 2015年7月 加入南方基金,任权益研究部行业研究员,现任消费研究组组长。 2018年9月至2019年12月,任南方隆元、南方文旅混合、南方 天元、南方配售基金经理助理;2019年12月 至今,任南方消费基金经理。",
+        "college": "麻省理工学院",
+        "achievement_list": [
+          {
+            "fund_code": "160127",
+            "fundsname": "南方新兴消费增长股票(LOF)A",
+            "post_date": "2020-11-17",
+            "cp_rate": -0.9222
+          },
+          {
+            "fund_code": "160144",
+            "fundsname": "南方新兴消费增长股票(LOF)C",
+            "post_date": "2020-11-17",
+            "cp_rate": 2.4649
+          },
+          {
+            "fund_code": "150049",
+            "fundsname": "南方消费收益",
+            "post_date": "2019-12-06",
+            "resi_date": "2020-11-16",
+            "cp_rate": 4.2999
+          },
+          {
+            "fund_code": "150050",
+            "fundsname": "南方消费进取",
+            "post_date": "2019-12-06",
+            "resi_date": "2020-11-16",
+            "cp_rate": 138.6048
+          },
+          {
+            "fund_code": "160127",
+            "fundsname": "南方新兴消费增长分级股票",
+            "post_date": "2019-12-06",
+            "resi_date": "2020-11-16",
+            "cp_rate": 70.8272
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "160127",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

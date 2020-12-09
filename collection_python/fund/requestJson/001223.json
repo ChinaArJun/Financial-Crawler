@@ -1,0 +1,197 @@
+{
+  "data": {
+    "fund_company": "    鹏华基金管理有限公司成立于1998年12月22日,注册资本15,000万元人民币,总部设在深圳,在北京、上海、广州、武汉设有分公司,2013年1月,在深圳前海设立控股子公司鹏华资产管理有限公司。目前的股东由国信证券股份有限公司、意大利欧利盛资本资产管理股份公司(Eurizon Capital SGR S.p.A.)、深圳市北融信投资发展有限公司组成,三家股东的出资比例分别为50%、49%、1%,业务范围包括基金募集、基金销售、资产管理及中国证监会许可的其他业务。截至2016年12月31日,公司管理资产总规模达到4,551亿元,管理129只基金和10只全国社保投资组合。",
+    "fund_position": {
+      "stock_percent": 82.53,
+      "cash_percent": 17.12,
+      "other_percent": 0.35,
+      "asset_tot": 171829930.77,
+      "asset_val": 169398151.13,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "分众传媒",
+          "code": "002027",
+          "percent": 10.19,
+          "current_price": 10.36,
+          "change_percentage": 0.58,
+          "xq_symbol": "SZ002027",
+          "xq_url": "https://xueqiu.com/S/SZ002027",
+          "amarket": true
+        },
+        {
+          "name": "三七互娱",
+          "code": "002555",
+          "percent": 7.75,
+          "current_price": 29.38,
+          "change_percentage": 4,
+          "xq_symbol": "SZ002555",
+          "xq_url": "https://xueqiu.com/S/SZ002555",
+          "amarket": true
+        },
+        {
+          "name": "吉比特",
+          "code": "603444",
+          "percent": 6.36,
+          "current_price": 410.3,
+          "change_percentage": 2.32,
+          "xq_symbol": "SH603444",
+          "xq_url": "https://xueqiu.com/S/SH603444",
+          "amarket": true
+        },
+        {
+          "name": "完美世界",
+          "code": "002624",
+          "percent": 6.25,
+          "current_price": 28.49,
+          "change_percentage": 0.49,
+          "xq_symbol": "SZ002624",
+          "xq_url": "https://xueqiu.com/S/SZ002624",
+          "amarket": true
+        },
+        {
+          "name": "芒果超媒",
+          "code": "300413",
+          "percent": 5.28,
+          "current_price": 65.95,
+          "change_percentage": -1.54,
+          "xq_symbol": "SZ300413",
+          "xq_url": "https://xueqiu.com/S/SZ300413",
+          "amarket": true
+        },
+        {
+          "name": "中国中免",
+          "code": "601888",
+          "percent": 4.55,
+          "current_price": 208.03,
+          "change_percentage": 0.13,
+          "xq_symbol": "SH601888",
+          "xq_url": "https://xueqiu.com/S/SH601888",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 3.19,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "鹏鼎控股",
+          "code": "002938",
+          "percent": 2.93,
+          "current_price": 54.51,
+          "change_percentage": -2.14,
+          "xq_symbol": "SZ002938",
+          "xq_url": "https://xueqiu.com/S/SZ002938",
+          "amarket": true
+        },
+        {
+          "name": "光线传媒",
+          "code": "300251",
+          "percent": 2.78,
+          "current_price": 13.36,
+          "change_percentage": -0.3,
+          "xq_symbol": "SZ300251",
+          "xq_url": "https://xueqiu.com/S/SZ300251",
+          "amarket": true
+        },
+        {
+          "name": "宋城演艺",
+          "code": "300144",
+          "percent": 2.59,
+          "current_price": 18.3,
+          "change_percentage": -1.19,
+          "xq_symbol": "SZ300144",
+          "xq_url": "https://xueqiu.com/S/SZ300144",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "001223",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "1.00"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "贺宁",
+        "resume": "    贺宁先生,国籍中国,金融学硕士,5年证券基金从业经验。曾任上海文化广播影视集团有限公司战略投资部投资助理、中国中投证券有限责任公司研究总部助理研究员、中金基金管理有限公司研究部研究员,2016年7月加盟鹏华基金管理有限公司,从事研究分析工作,现担任研究部研究员。 贺宁具备基金从业资格。",
+        "achievement_list": [
+          {
+            "fund_code": "001223",
+            "fundsname": "鹏华文化传媒娱乐股票",
+            "post_date": "2019-05-22",
+            "cp_rate": 42.886
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "001223",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

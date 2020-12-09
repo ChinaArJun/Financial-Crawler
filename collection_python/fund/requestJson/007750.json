@@ -1,0 +1,250 @@
+{
+  "data": {
+    "fund_company": "    广发基金管理有限公司经中国证监会证监基金字[2003]91号文批准,于2003年8月5日成立,是业内第30家成立的基金管理公司,总部设在广州,公司注册资本金12688万元人民币。公司及旗下子公司目前拥有公募基金管理、社保基金境内委托投资管理人、基本养老保险基金证券投资管理机构、特定客户资产管理、QDII、RQFII、QFII、受托管理保险资金投资管理人和保险保障基金委托资产管理投资管理人等业务资格,具备多种业务的综合资产管理能力与经验。\n    截至2016年12月31日,公司管理125只开放式基金,管理公募基金资产规模为3048亿元,长期位居行业前列。公司旗下产品覆盖主动权益、债券、货币、海外投资、被动投资、量化对冲、另类投资等不同类别,产品线齐全。公司曾获五届中国证券报“金牛基金管理公司”奖项、两届“固定收益投资金牛基金公司”奖项,连续两届获得“海外投资金牛基金公司”奖项,获七届证券时报“明星基金管理公司”奖项,是行业最全的QDII产品提供商,业内最全的行业ETF产品提供商,在业内首创公募基金大数据先河。同时,公司还管理着多个特定客户资产管理投资组合、社保基金投资组合、养老基金投资组合。\n    公司坚持“专业创造价值、客户利益至上”的经营理念,以完备的产品供给、策略供给、区域供给为基础,构建多元投资能力、顶层资产配置能力,致力成为优秀的全能型资产管理公司,为投资者谋求长期稳定的收益,为我国资本市场的繁荣与发展贡献一份力量。",
+    "fund_position": {
+      "stock_percent": 93.98,
+      "cash_percent": 5.98,
+      "other_percent": 0.04,
+      "asset_tot": 913115413.58,
+      "asset_val": 910384838.52,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "金域医学",
+          "code": "603882",
+          "percent": 7.86,
+          "current_price": 99,
+          "change_percentage": 2.27,
+          "xq_symbol": "SH603882",
+          "xq_url": "https://xueqiu.com/S/SH603882",
+          "amarket": true
+        },
+        {
+          "name": "人福医药",
+          "code": "600079",
+          "percent": 7.08,
+          "current_price": 33.6,
+          "change_percentage": -0.88,
+          "xq_symbol": "SH600079",
+          "xq_url": "https://xueqiu.com/S/SH600079",
+          "amarket": true
+        },
+        {
+          "name": "博腾股份",
+          "code": "300363",
+          "percent": 7.01,
+          "current_price": 34.7,
+          "change_percentage": -0.14,
+          "xq_symbol": "SZ300363",
+          "xq_url": "https://xueqiu.com/S/SZ300363",
+          "amarket": true
+        },
+        {
+          "name": "深信服",
+          "code": "300454",
+          "percent": 6.98,
+          "current_price": 217.55,
+          "change_percentage": 3.2,
+          "xq_symbol": "SZ300454",
+          "xq_url": "https://xueqiu.com/S/SZ300454",
+          "amarket": true
+        },
+        {
+          "name": "华测检测",
+          "code": "300012",
+          "percent": 4.56,
+          "current_price": 25.3,
+          "change_percentage": 1.61,
+          "xq_symbol": "SZ300012",
+          "xq_url": "https://xueqiu.com/S/SZ300012",
+          "amarket": true
+        },
+        {
+          "name": "天味食品",
+          "code": "603317",
+          "percent": 4.32,
+          "current_price": 68,
+          "change_percentage": -0.15,
+          "xq_symbol": "SH603317",
+          "xq_url": "https://xueqiu.com/S/SH603317",
+          "amarket": true
+        },
+        {
+          "name": "七一二",
+          "code": "603712",
+          "percent": 3.94,
+          "current_price": 37.75,
+          "change_percentage": 0.51,
+          "xq_symbol": "SH603712",
+          "xq_url": "https://xueqiu.com/S/SH603712",
+          "amarket": true
+        },
+        {
+          "name": "道通科技",
+          "code": "688208",
+          "percent": 3.68,
+          "current_price": 77.09,
+          "change_percentage": 1.31,
+          "xq_symbol": "SH688208",
+          "xq_url": "https://xueqiu.com/S/SH688208",
+          "amarket": true
+        },
+        {
+          "name": "龙马环卫",
+          "code": "603686",
+          "percent": 3.68,
+          "current_price": 18.01,
+          "change_percentage": -1.42,
+          "xq_symbol": "SH603686",
+          "xq_url": "https://xueqiu.com/S/SH603686",
+          "amarket": true
+        },
+        {
+          "name": "埃斯顿",
+          "code": "002747",
+          "percent": 3.44,
+          "current_price": 25.71,
+          "change_percentage": 3.38,
+          "xq_symbol": "SZ002747",
+          "xq_url": "https://xueqiu.com/S/SZ002747",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "007750",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<300万",
+          "value": "1.00"
+        },
+        {
+          "name": "300万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "365天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "邱璟旻",
+        "resume": "    邱璟旻先生,理学硕士,持有中国证券投资基金业从业证书。曾任远策投资管理有限公司研究部研究员,建信基金管理有限责任公司研究发展部研究员,广发基金管理有限公司研究发展部和权益投资一部研究员、广发行业领先混合型证券投资基金基金经理(自2017年3月29日至2018年8月6日)、广发多策略灵活配置混合型证券投资基金基金经理(自2016年4月20日至2018年8月6日)、广发医疗保健股票型证券投资基金基金经理(自2017年8月10日至2018年11月5日)。现任广发新经济混合型发起式证券投资基金基金经理(自2017年3月1日起任职)、广发聚丰混合型证券投资基金基金经理(自2018年2月2日起任职)、广发优势增长股票型证券投资基金基金经理(自2019年12月25日起任职)。",
+        "work_year": "11",
+        "achievement_list": [
+          {
+            "fund_code": "010025",
+            "fundsname": "广发聚丰混合C",
+            "post_date": "2020-09-25",
+            "cp_rate": 2.1436
+          },
+          {
+            "fund_code": "010134",
+            "fundsname": "广发新经济混合C",
+            "post_date": "2020-09-22",
+            "cp_rate": 3.7013
+          },
+          {
+            "fund_code": "007750",
+            "fundsname": "广发优势增长股票",
+            "post_date": "2019-12-25",
+            "cp_rate": 54.01
+          },
+          {
+            "fund_code": "270005",
+            "fundsname": "广发聚丰混合A",
+            "post_date": "2018-02-02",
+            "cp_rate": 47.1979
+          },
+          {
+            "fund_code": "004851",
+            "fundsname": "广发医疗保健股票A",
+            "post_date": "2017-08-10",
+            "resi_date": "2018-11-05",
+            "cp_rate": 2.43
+          },
+          {
+            "fund_code": "270025",
+            "fundsname": "广发行业领先混合A",
+            "post_date": "2017-03-29",
+            "resi_date": "2018-08-06",
+            "cp_rate": -10.5034
+          },
+          {
+            "fund_code": "960001",
+            "fundsname": "广发行业领先混合H",
+            "post_date": "2017-03-29",
+            "resi_date": "2018-08-06",
+            "cp_rate": -10.5534
+          },
+          {
+            "fund_code": "270050",
+            "fundsname": "广发新经济混合A",
+            "post_date": "2017-03-01",
+            "cp_rate": 153.4031
+          },
+          {
+            "fund_code": "001763",
+            "fundsname": "广发多策略灵活配置混合",
+            "post_date": "2016-04-20",
+            "resi_date": "2018-08-06",
+            "cp_rate": -7.7495
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "007750",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

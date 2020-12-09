@@ -1,0 +1,286 @@
+{
+  "data": {
+    "fund_company": "    前海开源基金管理有限公司经中国证监会(证监许可[2012]1751 号文)批准,于 2013 年 1 月 23 日注册成立。公司经营范围:基金募集、基金销售、特定客户资产管理、资产管理和中国证监会许可的其他业务。\n    前海开源基金立足国家金融创新合作区——深圳前海,依托深港紧密合作和融合发展,利用前海“特区中的特区”的区位优势和金融创新先行先试的政策优势,抓住人民币国际化的战略机遇,凭借完善的管理体制和创新的运营机制,吸纳海内外高端人才,全力打造专业化、创新型的现代财富管理机构,积极参与前海大开发和中国资产管理行业二次腾飞的潮流中。",
+    "fund_position": {
+      "stock_percent": 93.61,
+      "bond_percent": 3.79,
+      "cash_percent": 2.34,
+      "other_percent": 0.26,
+      "asset_tot": 18639762.24,
+      "asset_val": 18416065.77,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "世联行",
+          "code": "002285",
+          "percent": 1.42,
+          "current_price": 5.21,
+          "change_percentage": 0.77,
+          "xq_symbol": "SZ002285",
+          "xq_url": "https://xueqiu.com/S/SZ002285",
+          "amarket": true
+        },
+        {
+          "name": "泸州老窖",
+          "code": "000568",
+          "percent": 1.33,
+          "current_price": 191.85,
+          "change_percentage": 0.56,
+          "xq_symbol": "SZ000568",
+          "xq_url": "https://xueqiu.com/S/SZ000568",
+          "amarket": true
+        },
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 1.3,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 1.2,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "欧派家居",
+          "code": "603833",
+          "percent": 1.19,
+          "current_price": 131,
+          "change_percentage": -0.56,
+          "xq_symbol": "SH603833",
+          "xq_url": "https://xueqiu.com/S/SH603833",
+          "amarket": true
+        },
+        {
+          "name": "山西汾酒",
+          "code": "600809",
+          "percent": 1.18,
+          "current_price": 265.1,
+          "change_percentage": 1.54,
+          "xq_symbol": "SH600809",
+          "xq_url": "https://xueqiu.com/S/SH600809",
+          "amarket": true
+        },
+        {
+          "name": "玲珑轮胎",
+          "code": "601966",
+          "percent": 1.17,
+          "current_price": 33.4,
+          "change_percentage": -2.34,
+          "xq_symbol": "SH601966",
+          "xq_url": "https://xueqiu.com/S/SH601966",
+          "amarket": true
+        },
+        {
+          "name": "比亚迪",
+          "code": "002594",
+          "percent": 1.14,
+          "current_price": 177.97,
+          "change_percentage": 1.53,
+          "xq_symbol": "SZ002594",
+          "xq_url": "https://xueqiu.com/S/SZ002594",
+          "amarket": true
+        },
+        {
+          "name": "浙商证券",
+          "code": "601878",
+          "percent": 1.12,
+          "current_price": 16.22,
+          "change_percentage": 0.12,
+          "xq_symbol": "SH601878",
+          "xq_url": "https://xueqiu.com/S/SH601878",
+          "amarket": true
+        },
+        {
+          "name": "索菲亚",
+          "code": "002572",
+          "percent": 1.12,
+          "current_price": 27.83,
+          "change_percentage": -0.25,
+          "xq_symbol": "SZ002572",
+          "xq_url": "https://xueqiu.com/S/SZ002572",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "20国债01",
+          "code": "019627",
+          "percent": 3.84,
+          "xq_symbol": "019627",
+          "xq_url": "https://xueqiu.com/S/019627",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "001849",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<300万",
+          "value": "1.00"
+        },
+        {
+          "name": "300万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<366天",
+          "value": "0.500"
+        },
+        {
+          "name": "366天≤持有期限<731天",
+          "value": "0.250"
+        },
+        {
+          "name": "731天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "谢屹",
+        "resume": "    谢屹先生,慕尼黑工业大学金融与经济数学、工程物理学硕士。历任汇丰银行(德国)股票研究所及投资银行分析师、高级分析师、副总裁。现任前海开源基金管理有限公司执行投资总监、前海开源金银珠宝主题精选灵活配置混合型证券投资基金基金经理、前海开源强势共识 100 强等权重股票型证券投资基金基金经理、前海开源沪港深汇鑫灵活配置混合型证券投资基金基金经理、前海开源周期优选灵活配置混合型证券投资基金基金经理、前海开源大安全核心精选灵活配置混合型证券投资基金基金经理、前海开源高端装备制造灵活配置混合型证券投资基金基金经理、前海开源黄金交易型开放式证券投资基金基金经理、前海开源黄金交易型开放式证券投资基金联接基金基金经理。谢屹先生具备基金从业资格。",
+        "college": "慕尼黑工业大学",
+        "achievement_list": [
+          {
+            "fund_code": "009198",
+            "fundsname": "前海开源黄金ETF联接",
+            "post_date": "2020-05-14",
+            "cp_rate": -3.18
+          },
+          {
+            "fund_code": "159812",
+            "fundsname": "前海开源黄金ETF",
+            "post_date": "2020-04-29",
+            "cp_rate": -2.04
+          },
+          {
+            "fund_code": "000969",
+            "fundsname": "前海开源大安全混合",
+            "post_date": "2018-05-07",
+            "cp_rate": 75.2129
+          },
+          {
+            "fund_code": "001060",
+            "fundsname": "前海开源高端装备制造混合",
+            "post_date": "2018-05-07",
+            "cp_rate": 46.4425
+          },
+          {
+            "fund_code": "003858",
+            "fundsname": "前海开源周期优选混合C",
+            "post_date": "2017-01-25",
+            "cp_rate": 88.96
+          },
+          {
+            "fund_code": "003857",
+            "fundsname": "前海开源周期优选混合A",
+            "post_date": "2017-01-25",
+            "cp_rate": 90.53
+          },
+          {
+            "fund_code": "002972",
+            "fundsname": "前海开源鼎安债券C",
+            "post_date": "2016-07-19",
+            "resi_date": "2019-08-09",
+            "cp_rate": 8.1
+          },
+          {
+            "fund_code": "002971",
+            "fundsname": "前海开源鼎安债券A",
+            "post_date": "2016-07-19",
+            "resi_date": "2019-08-09",
+            "cp_rate": 8.7
+          },
+          {
+            "fund_code": "001943",
+            "fundsname": "前海开源沪港深汇鑫混合C",
+            "post_date": "2016-05-19",
+            "cp_rate": 82.88
+          },
+          {
+            "fund_code": "001942",
+            "fundsname": "前海开源沪港深汇鑫混合A",
+            "post_date": "2016-05-19",
+            "cp_rate": 85.28
+          },
+          {
+            "fund_code": "001849",
+            "fundsname": "前海开源强势共识100强股票",
+            "post_date": "2015-12-10",
+            "cp_rate": 67.2
+          },
+          {
+            "fund_code": "002207",
+            "fundsname": "前海开源金银珠宝混合C",
+            "post_date": "2015-12-02",
+            "cp_rate": 21.9342
+          },
+          {
+            "fund_code": "001302",
+            "fundsname": "前海开源金银珠宝混合A",
+            "post_date": "2015-07-09",
+            "cp_rate": 24.5
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "001849",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

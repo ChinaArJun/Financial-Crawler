@@ -1,0 +1,264 @@
+{
+  "data": {
+    "fund_company": "    嘉实基金管理有限公司成立于1999年3月,是国内最早成立的十家基金管理公司之一。十七年来,嘉实基金坚持合规经营,秉承“远见者稳进”理念,至今已发展形成涵盖公募基金、机构投资、养老金业务、海外投资、私募股权投资、财富管理等“全牌照”业务,联动一、二级市场投资的金融服务全产业链。截至2016年末,嘉实基金实现各类资产管理规模超9500亿元人民币,连续十年位居行业前列,为逾五千万投资者提供专业、高效的理财服务。\n    发展中的嘉实基金以“助力产业腾飞,服务财富增长”为核心使命,以普惠金融为理念,创造一流的产品和服务,力争实现客户、员工和公司长期共赢发展,致力于使嘉实成为中国领先、具有国际竞争力的资产管理集团。\n    以资产管理为核心的嘉实基金,业内首创“全天候、多策略”的投研模式,已建立超过20个投资策略组,构建丰富的产品线,为投资者创造优秀稳定的回报,屡获行业殊荣。十余年来,嘉实不断获得社保追加的委托管理资产,被包括数十家中央企业在内的300余家企业选定为企业年金投资管理人,为超过800万职工提供企业年金服务。\n    嘉实坚持国际化战略,自2009年建立香港子公司至今连续数年保持了在港中资资产管理机构的领先地位。2012年起嘉实推出海外ETF 业务,已经先后完成国内的指数在香港市场、纽约和伦敦挂牌上市。2015年,嘉实分别在伦敦与纽约注册成立分公司,进一步拓展国际市场。\n    2014年嘉实推进集团化发展,在二级市场投资中所建立的主动管理投资能力,逐步向更广泛的投资领域拓展,投资涵盖VC、PE、PIPE、新三板投资、并购投资等,并围绕优质标的积极进行产业的上下游布局,构建完整金融产业链。\n    嘉实基金始终以“创造财富增值,服务未来生活”为使命,以普惠金融为理念,创造优质产品和服务,力争实现客户、员工和公司长期共赢发展,从而使嘉实成为具有国际竞争力的综合金融集团。",
+    "fund_position": {
+      "stock_percent": 90.2,
+      "bond_percent": 0.25,
+      "cash_percent": 9.23,
+      "other_percent": 0.32,
+      "asset_tot": 1799368809.68,
+      "asset_val": 1788762938.68,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 9.54,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "宁德时代",
+          "code": "300750",
+          "percent": 7.07,
+          "current_price": 266.03,
+          "change_percentage": 1.75,
+          "xq_symbol": "SZ300750",
+          "xq_url": "https://xueqiu.com/S/SZ300750",
+          "amarket": true
+        },
+        {
+          "name": "通威股份",
+          "code": "600438",
+          "percent": 5.88,
+          "current_price": 29.2,
+          "change_percentage": -1.85,
+          "xq_symbol": "SH600438",
+          "xq_url": "https://xueqiu.com/S/SH600438",
+          "amarket": true
+        },
+        {
+          "name": "天赐材料",
+          "code": "002709",
+          "percent": 4.68,
+          "current_price": 84.25,
+          "change_percentage": 10,
+          "xq_symbol": "SZ002709",
+          "xq_url": "https://xueqiu.com/S/SZ002709",
+          "amarket": true
+        },
+        {
+          "name": "德赛电池",
+          "code": "000049",
+          "percent": 3.99,
+          "current_price": 52.69,
+          "change_percentage": 1.04,
+          "xq_symbol": "SZ000049",
+          "xq_url": "https://xueqiu.com/S/SZ000049",
+          "amarket": true
+        },
+        {
+          "name": "璞泰来",
+          "code": "603659",
+          "percent": 3.9,
+          "current_price": 111.38,
+          "change_percentage": 5.71,
+          "xq_symbol": "SH603659",
+          "xq_url": "https://xueqiu.com/S/SH603659",
+          "amarket": true
+        },
+        {
+          "name": "均胜电子",
+          "code": "600699",
+          "percent": 3.52,
+          "current_price": 24.53,
+          "change_percentage": -0.89,
+          "xq_symbol": "SH600699",
+          "xq_url": "https://xueqiu.com/S/SH600699",
+          "amarket": true
+        },
+        {
+          "name": "新宙邦",
+          "code": "300037",
+          "percent": 3.46,
+          "current_price": 99.89,
+          "change_percentage": 12.22,
+          "xq_symbol": "SZ300037",
+          "xq_url": "https://xueqiu.com/S/SZ300037",
+          "amarket": true
+        },
+        {
+          "name": "科达利",
+          "code": "002850",
+          "percent": 3.39,
+          "current_price": 72.98,
+          "change_percentage": 3.36,
+          "xq_symbol": "SZ002850",
+          "xq_url": "https://xueqiu.com/S/SZ002850",
+          "amarket": true
+        },
+        {
+          "name": "新泉股份",
+          "code": "603179",
+          "percent": 3.21,
+          "current_price": 29.58,
+          "change_percentage": -0.74,
+          "xq_symbol": "SH603179",
+          "xq_url": "https://xueqiu.com/S/SH603179",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "隆20转债",
+          "code": "113038",
+          "percent": 0.26,
+          "xq_symbol": "113038",
+          "xq_url": "https://xueqiu.com/S/113038",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "003984",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.00"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<180天",
+          "value": "0.500"
+        },
+        {
+          "name": "180天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "姚志鹏",
+        "resume": "    姚志鹏先生,硕士研究生,6年证券从业经历,具有基金从业资格。2011年加入嘉实基金管理有限公司,曾任股票研究部研究员一职。2016年12月28日至今任嘉实新收益混合基金经理。2017年3月16日至今任嘉实新能源新材料股票基金经理。2016年4月30日至今任嘉实智能汽车股票型证券投资基金基金经理。2016年12月28日至今任嘉实新收益灵活配置混合型证券投资基金基金经理、2017年3月16日至今任嘉实新能源新材料股票型证券投资基金基金经理、2018年3月21日至今任嘉实环保低碳股票型证券投资基金基金经理",
+        "work_year": "9",
+        "achievement_list": [
+          {
+            "fund_code": "009910",
+            "fundsname": "嘉实动力先锋混合C",
+            "post_date": "2020-11-23",
+            "cp_rate": -0.16
+          },
+          {
+            "fund_code": "009909",
+            "fundsname": "嘉实动力先锋混合A",
+            "post_date": "2020-11-23",
+            "cp_rate": -0.13
+          },
+          {
+            "fund_code": "009870",
+            "fundsname": "嘉实产业先锋混合C",
+            "post_date": "2020-07-21",
+            "cp_rate": 6.43
+          },
+          {
+            "fund_code": "009869",
+            "fundsname": "嘉实产业先锋混合A",
+            "post_date": "2020-07-21",
+            "cp_rate": 6.75
+          },
+          {
+            "fund_code": "001616",
+            "fundsname": "嘉实环保低碳股票",
+            "post_date": "2018-03-21",
+            "cp_rate": 95.9211
+          },
+          {
+            "fund_code": "003985",
+            "fundsname": "嘉实新能源新材料股票C",
+            "post_date": "2017-03-16",
+            "cp_rate": 140.72
+          },
+          {
+            "fund_code": "003984",
+            "fundsname": "嘉实新能源新材料股票A",
+            "post_date": "2017-03-16",
+            "cp_rate": 143.66
+          },
+          {
+            "fund_code": "000870",
+            "fundsname": "嘉实新收益灵活配置混合",
+            "post_date": "2016-12-28",
+            "resi_date": "2020-07-22",
+            "cp_rate": 70.0906
+          },
+          {
+            "fund_code": "070019",
+            "fundsname": "嘉实价值优势混合",
+            "post_date": "2016-05-03",
+            "resi_date": "2016-11-23",
+            "cp_rate": 3.7582
+          },
+          {
+            "fund_code": "002168",
+            "fundsname": "嘉实智能汽车股票",
+            "post_date": "2016-04-30",
+            "cp_rate": 171.875
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "003984",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

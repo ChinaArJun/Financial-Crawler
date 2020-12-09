@@ -1,0 +1,201 @@
+{
+  "data": {
+    "fund_company": "    1998年3月6日,经中国证监会批准,南方基金管理有限公司作为国内首批规范的基金管理公司正式成立,成为我国“新基金时代”的起始标志。\n    南方基金总部设在深圳,注册资本3亿元人民币。股东结构为:华泰证券股份有限公司(45%);深圳市投资控股有限公司(30%);厦门国际信托有限公司(15%);兴业证券股份有限公司(10%)。目前,公司在北京、上海、合肥、成都、深圳等地设有分公司,在香港和深圳前海设有子公司——南方东英资产管理有限公司(香港子公司)和南方资本管理有限公司(深圳子公司)。其中,南方东英是境内基金公司获批成立的第一家境外分支机构。\n    公司拥有一支高素质、经验丰富的专业化团队。现有员工545人,超过68%的员工具有硕士以上学历,近55%的员工具有5年以上的证券从业经历,其中投研人员的平均证券从业年限为6年,39%的投研人员具有海外学习或工作经验。\n    公司经历了中国证券市场多次牛熊交替的长期考验,以持续优秀的投资业绩、完善周到的客户服务,赢得了广大基金投资人、社保理事会、企业年金客户、专户客户的认可和信赖。截至2016年三季度末,公司管理资产规模6355亿元,位居行业前列。旗下管理公募基金共107只,产品涵盖股票型、混合型、指数型、保本型、债券型、货币型、QDII等。公募基金资产管理规模3898亿元,排名行业第五,累计向基金持有人分红超过782亿元,拥有客户数量近2400万人。私募业务管理规模2457亿元,在行业中持续保持领先地位。南方基金已经发展成为国内产品种类最丰富、业务领域最全面、经营业绩优秀、资产管理规模最大的基金管理公司之一。",
+    "fund_position": {
+      "stock_percent": 89.25,
+      "cash_percent": 9.86,
+      "other_percent": 0.89,
+      "asset_tot": 1454676274.33,
+      "asset_val": 1402480140.54,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "金山办公",
+          "code": "688111",
+          "percent": 5.24,
+          "current_price": 349.5,
+          "change_percentage": -2.75,
+          "xq_symbol": "SH688111",
+          "xq_url": "https://xueqiu.com/S/SH688111",
+          "amarket": true
+        },
+        {
+          "name": "中公教育",
+          "code": "002607",
+          "percent": 5.15,
+          "current_price": 37,
+          "change_percentage": -1.04,
+          "xq_symbol": "SZ002607",
+          "xq_url": "https://xueqiu.com/S/SZ002607",
+          "amarket": true
+        },
+        {
+          "name": "歌尔股份",
+          "code": "002241",
+          "percent": 4.93,
+          "current_price": 37.16,
+          "change_percentage": -2.24,
+          "xq_symbol": "SZ002241",
+          "xq_url": "https://xueqiu.com/S/SZ002241",
+          "amarket": true
+        },
+        {
+          "name": "西部超导",
+          "code": "688122",
+          "percent": 4.81,
+          "current_price": 63.09,
+          "change_percentage": 3.09,
+          "xq_symbol": "SH688122",
+          "xq_url": "https://xueqiu.com/S/SH688122",
+          "amarket": true
+        },
+        {
+          "name": "三角防务",
+          "code": "300775",
+          "percent": 4.68,
+          "current_price": 34.39,
+          "change_percentage": 4.21,
+          "xq_symbol": "SZ300775",
+          "xq_url": "https://xueqiu.com/S/SZ300775",
+          "amarket": true
+        },
+        {
+          "name": "鸿远电子",
+          "code": "603267",
+          "percent": 4.34,
+          "current_price": 109.5,
+          "change_percentage": 1.01,
+          "xq_symbol": "SH603267",
+          "xq_url": "https://xueqiu.com/S/SH603267",
+          "amarket": true
+        },
+        {
+          "name": "爱美客",
+          "code": "300896",
+          "percent": 4.29,
+          "current_price": 595.8,
+          "change_percentage": 0,
+          "xq_symbol": "SZ300896",
+          "xq_url": "https://xueqiu.com/S/SZ300896",
+          "amarket": true
+        },
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 4.23,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "捷捷微电",
+          "code": "300623",
+          "percent": 4.06,
+          "current_price": 50.85,
+          "change_percentage": 0.59,
+          "xq_symbol": "SZ300623",
+          "xq_url": "https://xueqiu.com/S/SZ300623",
+          "amarket": true
+        },
+        {
+          "name": "亿纬锂能",
+          "code": "300014",
+          "percent": 4.06,
+          "current_price": 63.71,
+          "change_percentage": 4.17,
+          "xq_symbol": "SZ300014",
+          "xq_url": "https://xueqiu.com/S/SZ300014",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "003956",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "0.90"
+        },
+        {
+          "name": "500万≤买入金额<1000万",
+          "value": "0.30"
+        },
+        {
+          "name": "1000万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.300"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "萧嘉倩",
+        "resume": "    山大学经济学硕士,具有基金从业资格。曾就职于国信证券投资银行部、广发基金金融工程部,历任项目经理、产品经理。2015年6月加入南方基金,任权益研究部行业研究员。2018年9月至2019年5月,任南方教育股票基金经理助理;2019年5月至今,任南方教育股票基金经理。",
+        "achievement_list": [
+          {
+            "fund_code": "003956",
+            "fundsname": "南方教育股票",
+            "post_date": "2019-05-09",
+            "cp_rate": 116.5304
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "003956",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "fund_company": "    鹏华基金管理有限公司成立于1998年12月22日,注册资本15,000万元人民币,总部设在深圳,在北京、上海、广州、武汉设有分公司,2013年1月,在深圳前海设立控股子公司鹏华资产管理有限公司。目前的股东由国信证券股份有限公司、意大利欧利盛资本资产管理股份公司(Eurizon Capital SGR S.p.A.)、深圳市北融信投资发展有限公司组成,三家股东的出资比例分别为50%、49%、1%,业务范围包括基金募集、基金销售、资产管理及中国证监会许可的其他业务。截至2016年12月31日,公司管理资产总规模达到4,551亿元,管理129只基金和10只全国社保投资组合。",
+    "fund_position": {
+      "stock_percent": 92.09,
+      "cash_percent": 5.35,
+      "other_percent": 2.56,
+      "asset_tot": 511827047.3,
+      "asset_val": 509560654.89,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "龙马环卫",
+          "code": "603686",
+          "percent": 6.22,
+          "current_price": 18.01,
+          "change_percentage": -1.42,
+          "xq_symbol": "SH603686",
+          "xq_url": "https://xueqiu.com/S/SH603686",
+          "amarket": true
+        },
+        {
+          "name": "宁德时代",
+          "code": "300750",
+          "percent": 5.47,
+          "current_price": 266.03,
+          "change_percentage": 1.75,
+          "xq_symbol": "SZ300750",
+          "xq_url": "https://xueqiu.com/S/SZ300750",
+          "amarket": true
+        },
+        {
+          "name": "汇川技术",
+          "code": "300124",
+          "percent": 4.98,
+          "current_price": 85.58,
+          "change_percentage": 1.04,
+          "xq_symbol": "SZ300124",
+          "xq_url": "https://xueqiu.com/S/SZ300124",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 4.9,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "亿纬锂能",
+          "code": "300014",
+          "percent": 4.35,
+          "current_price": 63.71,
+          "change_percentage": 4.17,
+          "xq_symbol": "SZ300014",
+          "xq_url": "https://xueqiu.com/S/SZ300014",
+          "amarket": true
+        },
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 4.1,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "通威股份",
+          "code": "600438",
+          "percent": 3.46,
+          "current_price": 29.2,
+          "change_percentage": -1.85,
+          "xq_symbol": "SH600438",
+          "xq_url": "https://xueqiu.com/S/SH600438",
+          "amarket": true
+        },
+        {
+          "name": "比亚迪",
+          "code": "002594",
+          "percent": 3.45,
+          "current_price": 177.97,
+          "change_percentage": 1.53,
+          "xq_symbol": "SZ002594",
+          "xq_url": "https://xueqiu.com/S/SZ002594",
+          "amarket": true
+        },
+        {
+          "name": "瀚蓝环境",
+          "code": "600323",
+          "percent": 2.7,
+          "current_price": 24.04,
+          "change_percentage": -1.52,
+          "xq_symbol": "SH600323",
+          "xq_url": "https://xueqiu.com/S/SH600323",
+          "amarket": true
+        },
+        {
+          "name": "三花智控",
+          "code": "002050",
+          "percent": 2.45,
+          "current_price": 24.3,
+          "change_percentage": 2.84,
+          "xq_symbol": "SZ002050",
+          "xq_url": "https://xueqiu.com/S/SZ002050",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "000409",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "1.00"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "孟昊",
+        "resume": "    孟昊先生,国籍中国,理学硕士,5年证券基金从业经验。2014年7月加盟鹏华基金管理有限公司,曾任研究部高级研究员,现拟任权益投资二部基金经理。2018年02月担任鹏华新科技传媒灵活配置混合型证券投资基金基金经理,2018年11月担任鹏华消费领先灵活配置混合型证券投资基金基金经理,孟昊具备基金从业资格。",
+        "work_year": "6",
+        "achievement_list": [
+          {
+            "fund_code": "006526",
+            "fundsname": "鹏华优选回报混合",
+            "post_date": "2020-02-29",
+            "cp_rate": 37.908
+          },
+          {
+            "fund_code": "000409",
+            "fundsname": "鹏华环保产业股票",
+            "post_date": "2019-07-24",
+            "cp_rate": 127.8545
+          },
+          {
+            "fund_code": "160624",
+            "fundsname": "鹏华消费领先混合",
+            "post_date": "2018-11-17",
+            "cp_rate": 157.1691
+          },
+          {
+            "fund_code": "004514",
+            "fundsname": "鹏华新科技传媒混合",
+            "post_date": "2018-02-10",
+            "resi_date": "2019-09-04",
+            "cp_rate": 4.2926
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "000409",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

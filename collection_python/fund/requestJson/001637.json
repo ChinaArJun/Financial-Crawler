@@ -1,0 +1,346 @@
+{
+  "data": {
+    "fund_company": "    嘉实基金管理有限公司成立于1999年3月,是国内最早成立的十家基金管理公司之一。十七年来,嘉实基金坚持合规经营,秉承“远见者稳进”理念,至今已发展形成涵盖公募基金、机构投资、养老金业务、海外投资、私募股权投资、财富管理等“全牌照”业务,联动一、二级市场投资的金融服务全产业链。截至2016年末,嘉实基金实现各类资产管理规模超9500亿元人民币,连续十年位居行业前列,为逾五千万投资者提供专业、高效的理财服务。\n    发展中的嘉实基金以“助力产业腾飞,服务财富增长”为核心使命,以普惠金融为理念,创造一流的产品和服务,力争实现客户、员工和公司长期共赢发展,致力于使嘉实成为中国领先、具有国际竞争力的资产管理集团。\n    以资产管理为核心的嘉实基金,业内首创“全天候、多策略”的投研模式,已建立超过20个投资策略组,构建丰富的产品线,为投资者创造优秀稳定的回报,屡获行业殊荣。十余年来,嘉实不断获得社保追加的委托管理资产,被包括数十家中央企业在内的300余家企业选定为企业年金投资管理人,为超过800万职工提供企业年金服务。\n    嘉实坚持国际化战略,自2009年建立香港子公司至今连续数年保持了在港中资资产管理机构的领先地位。2012年起嘉实推出海外ETF 业务,已经先后完成国内的指数在香港市场、纽约和伦敦挂牌上市。2015年,嘉实分别在伦敦与纽约注册成立分公司,进一步拓展国际市场。\n    2014年嘉实推进集团化发展,在二级市场投资中所建立的主动管理投资能力,逐步向更广泛的投资领域拓展,投资涵盖VC、PE、PIPE、新三板投资、并购投资等,并围绕优质标的积极进行产业的上下游布局,构建完整金融产业链。\n    嘉实基金始终以“创造财富增值,服务未来生活”为使命,以普惠金融为理念,创造优质产品和服务,力争实现客户、员工和公司长期共赢发展,从而使嘉实成为具有国际竞争力的综合金融集团。",
+    "fund_position": {
+      "stock_percent": 87.06,
+      "bond_percent": 0.84,
+      "cash_percent": 11.12,
+      "other_percent": 0.98,
+      "asset_tot": 221653924.53,
+      "asset_val": 220560790.49,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "鱼跃医疗",
+          "code": "002223",
+          "percent": 1.67,
+          "current_price": 28.15,
+          "change_percentage": -0.85,
+          "xq_symbol": "SZ002223",
+          "xq_url": "https://xueqiu.com/S/SZ002223",
+          "amarket": true
+        },
+        {
+          "name": "安琪酵母",
+          "code": "600298",
+          "percent": 1.58,
+          "current_price": 50.15,
+          "change_percentage": -0.89,
+          "xq_symbol": "SH600298",
+          "xq_url": "https://xueqiu.com/S/SH600298",
+          "amarket": true
+        },
+        {
+          "name": "万孚生物",
+          "code": "300482",
+          "percent": 1.54,
+          "current_price": 73.65,
+          "change_percentage": 3.43,
+          "xq_symbol": "SZ300482",
+          "xq_url": "https://xueqiu.com/S/SZ300482",
+          "amarket": true
+        },
+        {
+          "name": "新钢股份",
+          "code": "600782",
+          "percent": 1.4,
+          "current_price": 4.5,
+          "change_percentage": -3.23,
+          "xq_symbol": "SH600782",
+          "xq_url": "https://xueqiu.com/S/SH600782",
+          "amarket": true
+        },
+        {
+          "name": "汇川技术",
+          "code": "300124",
+          "percent": 1.38,
+          "current_price": 85.58,
+          "change_percentage": 1.04,
+          "xq_symbol": "SZ300124",
+          "xq_url": "https://xueqiu.com/S/SZ300124",
+          "amarket": true
+        },
+        {
+          "name": "华菱钢铁",
+          "code": "000932",
+          "percent": 1.38,
+          "current_price": 5.12,
+          "change_percentage": -0.78,
+          "xq_symbol": "SZ000932",
+          "xq_url": "https://xueqiu.com/S/SZ000932",
+          "amarket": true
+        },
+        {
+          "name": "国睿科技",
+          "code": "600562",
+          "percent": 1.36,
+          "current_price": 16.76,
+          "change_percentage": -1.06,
+          "xq_symbol": "SH600562",
+          "xq_url": "https://xueqiu.com/S/SH600562",
+          "amarket": true
+        },
+        {
+          "name": "滨江集团",
+          "code": "002244",
+          "percent": 1.35,
+          "current_price": 5.04,
+          "change_percentage": -0.98,
+          "xq_symbol": "SZ002244",
+          "xq_url": "https://xueqiu.com/S/SZ002244",
+          "amarket": true
+        },
+        {
+          "name": "三七互娱",
+          "code": "002555",
+          "percent": 1.34,
+          "current_price": 29.38,
+          "change_percentage": 4,
+          "xq_symbol": "SZ002555",
+          "xq_url": "https://xueqiu.com/S/SZ002555",
+          "amarket": true
+        },
+        {
+          "name": "天康生物",
+          "code": "002100",
+          "percent": 1.33,
+          "current_price": 13.47,
+          "change_percentage": -1.68,
+          "xq_symbol": "SZ002100",
+          "xq_url": "https://xueqiu.com/S/SZ002100",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "20国债01",
+          "code": "019627",
+          "percent": 0.79,
+          "xq_symbol": "019627",
+          "xq_url": "https://xueqiu.com/S/019627",
+          "amarket": false
+        },
+        {
+          "name": "崇达转2",
+          "code": "128131",
+          "percent": 0.05,
+          "xq_symbol": "128131",
+          "xq_url": "https://xueqiu.com/S/128131",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "001637",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.00"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "365天≤持有期限<730天",
+          "value": "0.250"
+        },
+        {
+          "name": "730天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "刘斌",
+        "resume": "    刘斌先生,博士,14年证券从业经历,具有基金从业资格。曾任长盛基金管理有限公司金融工程研究员、高级金融工程研究员、基金经理、金融工程与量化投资部总监等职务。\n    2009年11月25日至2013年11月4日长盛量化红利策略混合型证券投资基金基金经理,2010年8月4日至2011年12月20日任长盛沪深300指数证券投资基金(LOF)基金经理,2012年7月20日至2013年11月4日任长盛成长价值证券投资基金基金经理,2012年9月13日至2013年11月4日任长盛同辉深证100等权重指数证券投资基金(LOF)基金经理。2013年12月加入嘉实基金管理有限公司股票投资部,从事投资、研究工作。2014年5月15日至2020年5月14日任嘉实绝对收益策略定期开放混合型发起式证券投资基金基金经理、2014年5月15日至2016年7月27日任嘉实研究阿尔法股票型证券投资基金基金经理、2016年7月22日至2020年5月14日任嘉实对冲套利定期开放混合型发起式证券投资基金基金经理。2015年12月7日至今任嘉实腾讯自选股大数据策略股票型证券投资基金基金经理、2018年1月19日至今任嘉实润泽量化一年定期开放混合型证券投资基金基金经理、2018年2月9日至今任嘉实润和量化6个月定期开放混合型证券投资基金基金经理。",
+        "college": "中国科学院",
+        "work_year": "14",
+        "achievement_list": [
+          {
+            "fund_code": "005166",
+            "fundsname": "嘉实润和量化6个月定期开放混合",
+            "post_date": "2018-02-09",
+            "cp_rate": 14.85
+          },
+          {
+            "fund_code": "005167",
+            "fundsname": "嘉实润泽量化一年定期开放混合",
+            "post_date": "2018-01-19",
+            "cp_rate": 16.33
+          },
+          {
+            "fund_code": "000585",
+            "fundsname": "嘉实对冲套利定期混合",
+            "post_date": "2016-07-22",
+            "resi_date": "2020-05-14",
+            "cp_rate": 8.6874
+          },
+          {
+            "fund_code": "001637",
+            "fundsname": "嘉实腾讯自选股大数据策略股票",
+            "post_date": "2015-12-07",
+            "cp_rate": 55
+          },
+          {
+            "fund_code": "000414",
+            "fundsname": "嘉实绝对收益策略定期混合",
+            "post_date": "2014-05-15",
+            "resi_date": "2020-05-14",
+            "cp_rate": 22.0138
+          },
+          {
+            "fund_code": "000082",
+            "fundsname": "嘉实研究阿尔法股票",
+            "post_date": "2014-05-15",
+            "resi_date": "2016-07-27",
+            "cp_rate": 75.8775
+          },
+          {
+            "fund_code": "150109",
+            "fundsname": "长盛同辉深100等权重B",
+            "post_date": "2012-09-13",
+            "resi_date": "2013-11-04",
+            "cp_rate": 5
+          },
+          {
+            "fund_code": "150108",
+            "fundsname": "长盛同辉深100等权重A",
+            "post_date": "2012-09-13",
+            "resi_date": "2013-11-04",
+            "cp_rate": 8.07
+          },
+          {
+            "fund_code": "160809",
+            "fundsname": "长盛同辉深证100(LOF)",
+            "post_date": "2012-09-13",
+            "resi_date": "2013-11-04",
+            "cp_rate": 6.36
+          },
+          {
+            "fund_code": "080001",
+            "fundsname": "长盛成长价值混合",
+            "post_date": "2012-07-20",
+            "resi_date": "2013-11-04",
+            "cp_rate": 9.0003
+          },
+          {
+            "fund_code": "160807",
+            "fundsname": "长盛沪深300指数(LOF)",
+            "post_date": "2010-08-04",
+            "resi_date": "2011-12-20",
+            "cp_rate": -17.51
+          },
+          {
+            "fund_code": "080005",
+            "fundsname": "长盛量化红利混合",
+            "post_date": "2009-11-25",
+            "resi_date": "2013-11-04",
+            "cp_rate": -9.79
+          }
+        ]
+      },
+      {
+        "name": "龙昌伦",
+        "resume": "    龙昌伦先生,硕士研究生,6年证券从业经历,具有基金从业资格。曾任职于建信基金管理有限责任公司投资管理部,从事量化研究工作。2015年4月加入嘉实基金管理有限公司,现任职于股票投资部。2017年6月22日至2020年5月14日任嘉实对冲套利定期开放混合型发起式证券投资基金基金经理。2017年6月22日至今任嘉实腾讯自选股大数据策略股票型证券投资基金基金经理、2018年9月12日至今任嘉实沪深300指数研究增强型证券投资基金基金经理、2019年5月6日至今任嘉实长青竞争优势股票型证券投资基金基金经理、2020年1月20日至今任嘉实中证500指数增强型证券投资基金基金经理。",
+        "work_year": "7",
+        "achievement_list": [
+          {
+            "fund_code": "008778",
+            "fundsname": "嘉实中证500指数增强A",
+            "post_date": "2020-01-20",
+            "cp_rate": 26.5805
+          },
+          {
+            "fund_code": "008779",
+            "fundsname": "嘉实中证500指数增强C",
+            "post_date": "2020-01-20",
+            "cp_rate": 26.1361
+          },
+          {
+            "fund_code": "007133",
+            "fundsname": "嘉实长青竞争优势股票A",
+            "post_date": "2019-05-06",
+            "cp_rate": 44.84
+          },
+          {
+            "fund_code": "007134",
+            "fundsname": "嘉实长青竞争优势股票C",
+            "post_date": "2019-05-06",
+            "cp_rate": 43.39
+          },
+          {
+            "fund_code": "000176",
+            "fundsname": "嘉实沪深300指数研究增强",
+            "post_date": "2018-09-12",
+            "cp_rate": 69.0316
+          },
+          {
+            "fund_code": "000585",
+            "fundsname": "嘉实对冲套利定期混合",
+            "post_date": "2017-06-22",
+            "resi_date": "2020-05-14",
+            "cp_rate": 8.4826
+          },
+          {
+            "fund_code": "001637",
+            "fundsname": "嘉实腾讯自选股大数据策略股票",
+            "post_date": "2017-06-22",
+            "cp_rate": 51.3672
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "001637",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "fund_company": "    中欧基金成立于2006年7月19日,是经中国证监会批准的公募基金管理公司,注册资本1.88亿元人民币。\n    中欧基金为第一家实现员工持股的基金公司,致力为客户提供超越市场的长期回报,打造\"多策略投资精品店\"。\n    截至2015年5月底,中欧基金共管理逾1000亿元公募资产,荣获2014年度金牛基金管理公司(中国证券报,2015年3月)。高速发展的中欧基金正成为公募基金行业的一类现象。\n    中欧基金致力于为投资人提供超越市场的长期收益,打造聚焦大中华区的\"多策略投资精品店\"。",
+    "fund_position": {
+      "stock_percent": 89.96,
+      "cash_percent": 9.4,
+      "other_percent": 0.64,
+      "asset_tot": 707593369.36,
+      "asset_val": 691742323.48,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "美亚柏科",
+          "code": "300188",
+          "percent": 9.91,
+          "current_price": 23.33,
+          "change_percentage": 1.97,
+          "xq_symbol": "SZ300188",
+          "xq_url": "https://xueqiu.com/S/SZ300188",
+          "amarket": true
+        },
+        {
+          "name": "深信服",
+          "code": "300454",
+          "percent": 7.61,
+          "current_price": 217.55,
+          "change_percentage": 3.2,
+          "xq_symbol": "SZ300454",
+          "xq_url": "https://xueqiu.com/S/SZ300454",
+          "amarket": true
+        },
+        {
+          "name": "金蝶国际",
+          "code": "00268",
+          "percent": 6.46,
+          "xq_symbol": "00268",
+          "xq_url": "https://xueqiu.com/S/00268",
+          "amarket": false
+        },
+        {
+          "name": "三环集团",
+          "code": "300408",
+          "percent": 4.61,
+          "current_price": 34.98,
+          "change_percentage": 1.75,
+          "xq_symbol": "SZ300408",
+          "xq_url": "https://xueqiu.com/S/SZ300408",
+          "amarket": true
+        },
+        {
+          "name": "金山软件",
+          "code": "03888",
+          "percent": 3.81,
+          "xq_symbol": "03888",
+          "xq_url": "https://xueqiu.com/S/03888",
+          "amarket": false
+        },
+        {
+          "name": "思创医惠",
+          "code": "300078",
+          "percent": 3.53,
+          "current_price": 9.83,
+          "change_percentage": -0.71,
+          "xq_symbol": "SZ300078",
+          "xq_url": "https://xueqiu.com/S/SZ300078",
+          "amarket": true
+        },
+        {
+          "name": "腾讯控股",
+          "code": "00700",
+          "percent": 3.52,
+          "xq_symbol": "00700",
+          "xq_url": "https://xueqiu.com/S/00700",
+          "amarket": false
+        },
+        {
+          "name": "华润微",
+          "code": "688396",
+          "percent": 3.43,
+          "current_price": 69.39,
+          "change_percentage": 0.59,
+          "xq_symbol": "SH688396",
+          "xq_url": "https://xueqiu.com/S/SH688396",
+          "amarket": true
+        },
+        {
+          "name": "歌尔股份",
+          "code": "002241",
+          "percent": 3.29,
+          "current_price": 37.16,
+          "change_percentage": -2.24,
+          "xq_symbol": "SZ002241",
+          "xq_url": "https://xueqiu.com/S/SZ002241",
+          "amarket": true
+        },
+        {
+          "name": "光环新网",
+          "code": "300383",
+          "percent": 3.19,
+          "current_price": 18.86,
+          "change_percentage": -0.58,
+          "xq_symbol": "SZ300383",
+          "xq_url": "https://xueqiu.com/S/SZ300383",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "005763",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "1.000"
+        },
+        {
+          "name": "30天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.80"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "许文星",
+        "resume": "    上海交通大学计算机科学与技术,2014年 3月至 2016年 3月任光大保德信基金管理有限公司研究部行业研究员,2016年 4月至 2018年 1月任光大保德信基金管理有限公司投资经理。2018年 2月起加入中欧基金管理有限公司,拟任基金经理。2018年04月16日任中欧瑾和灵活配置混合型证券投资基金、中欧养老产业混合型证券投资基金、中欧嘉泽灵活配置混合型证券投资基金、中欧新动力混合型证券投资基金(LOF)的基金经理。",
+        "college": "上海交通大学",
+        "work_year": "6",
+        "achievement_list": [
+          {
+            "fund_code": "010429",
+            "fundsname": "中欧睿见混合",
+            "post_date": "2020-11-06",
+            "cp_rate": 0.4
+          },
+          {
+            "fund_code": "009791",
+            "fundsname": "中欧创业板两年定期开放混合C",
+            "post_date": "2020-07-16",
+            "cp_rate": 5.35
+          },
+          {
+            "fund_code": "166027",
+            "fundsname": "中欧创业板两年定期开放混合A",
+            "post_date": "2020-07-16",
+            "cp_rate": 5.59
+          },
+          {
+            "fund_code": "004616",
+            "fundsname": "中欧电子信息产业沪港深股票A",
+            "post_date": "2020-05-18",
+            "cp_rate": 23.9596
+          },
+          {
+            "fund_code": "005763",
+            "fundsname": "中欧电子信息产业沪港深股票C",
+            "post_date": "2020-05-18",
+            "cp_rate": 23.4121
+          },
+          {
+            "fund_code": "005421",
+            "fundsname": "中欧嘉泽灵活配置混合",
+            "post_date": "2018-04-16",
+            "cp_rate": 127.6256
+          },
+          {
+            "fund_code": "001174",
+            "fundsname": "中欧瑾和灵活配置混合C",
+            "post_date": "2018-04-16",
+            "resi_date": "2020-11-27",
+            "cp_rate": 25.9908
+          },
+          {
+            "fund_code": "001173",
+            "fundsname": "中欧瑾和灵活配置混合A",
+            "post_date": "2018-04-16",
+            "resi_date": "2020-11-27",
+            "cp_rate": 27.2398
+          },
+          {
+            "fund_code": "001955",
+            "fundsname": "中欧养老产业混合",
+            "post_date": "2018-04-16",
+            "cp_rate": 109.1667
+          },
+          {
+            "fund_code": "166009",
+            "fundsname": "中欧新动力混合A(LOF)",
+            "post_date": "2018-04-16",
+            "cp_rate": 110.8581
+          },
+          {
+            "fund_code": "004236",
+            "fundsname": "中欧新动力混合C",
+            "post_date": "2018-04-16",
+            "cp_rate": 108.5502
+          },
+          {
+            "fund_code": "001883",
+            "fundsname": "中欧新动力混合E",
+            "post_date": "2018-04-16",
+            "cp_rate": 110.7304
+          }
+        ]
+      },
+      {
+        "name": "刘金辉",
+        "resume": "    历任兴业全球基金管理有限公司金融工程与专题部研究员(2014.07-2015.03)。\n    2015年3月起加入中欧基金管理有限公司,历任研究员、基金经理助理,现任基金经理。",
+        "achievement_list": [
+          {
+            "fund_code": "010682",
+            "fundsname": "中欧创新未来18个月封闭运作混合B",
+            "post_date": "2020-11-23",
+            "cp_rate": -1.1196
+          },
+          {
+            "fund_code": "010316",
+            "fundsname": "中欧创新未来18个月封闭运作混合C",
+            "post_date": "2020-10-09",
+            "cp_rate": 2.45
+          },
+          {
+            "fund_code": "005763",
+            "fundsname": "中欧电子信息产业沪港深股票C",
+            "post_date": "2020-08-14",
+            "cp_rate": 3.047
+          },
+          {
+            "fund_code": "004616",
+            "fundsname": "中欧电子信息产业沪港深股票A",
+            "post_date": "2020-08-14",
+            "cp_rate": 3.3087
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "005763",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 2,
+      "all_buy_days": 2,
+      "all_sale_days": 3
+    }
+  },
+  "result_code": 0
+}

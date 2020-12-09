@@ -1,0 +1,292 @@
+{
+  "data": {
+    "fund_company": "    1998年3月6日,经中国证监会批准,南方基金管理有限公司作为国内首批规范的基金管理公司正式成立,成为我国“新基金时代”的起始标志。\n    南方基金总部设在深圳,注册资本3亿元人民币。股东结构为:华泰证券股份有限公司(45%);深圳市投资控股有限公司(30%);厦门国际信托有限公司(15%);兴业证券股份有限公司(10%)。目前,公司在北京、上海、合肥、成都、深圳等地设有分公司,在香港和深圳前海设有子公司——南方东英资产管理有限公司(香港子公司)和南方资本管理有限公司(深圳子公司)。其中,南方东英是境内基金公司获批成立的第一家境外分支机构。\n    公司拥有一支高素质、经验丰富的专业化团队。现有员工545人,超过68%的员工具有硕士以上学历,近55%的员工具有5年以上的证券从业经历,其中投研人员的平均证券从业年限为6年,39%的投研人员具有海外学习或工作经验。\n    公司经历了中国证券市场多次牛熊交替的长期考验,以持续优秀的投资业绩、完善周到的客户服务,赢得了广大基金投资人、社保理事会、企业年金客户、专户客户的认可和信赖。截至2016年三季度末,公司管理资产规模6355亿元,位居行业前列。旗下管理公募基金共107只,产品涵盖股票型、混合型、指数型、保本型、债券型、货币型、QDII等。公募基金资产管理规模3898亿元,排名行业第五,累计向基金持有人分红超过782亿元,拥有客户数量近2400万人。私募业务管理规模2457亿元,在行业中持续保持领先地位。南方基金已经发展成为国内产品种类最丰富、业务领域最全面、经营业绩优秀、资产管理规模最大的基金管理公司之一。",
+    "fund_position": {
+      "stock_percent": 1.11,
+      "cash_percent": 6.5,
+      "other_percent": 92.39,
+      "asset_tot": 36026611.65,
+      "asset_val": 35531771.56,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "中国平安",
+          "code": "601318",
+          "percent": 0.13,
+          "current_price": 88.05,
+          "change_percentage": -2.58,
+          "xq_symbol": "SH601318",
+          "xq_url": "https://xueqiu.com/S/SH601318",
+          "amarket": true
+        },
+        {
+          "name": "美的集团",
+          "code": "000333",
+          "percent": 0.08,
+          "current_price": 86.7,
+          "change_percentage": -1.54,
+          "xq_symbol": "SZ000333",
+          "xq_url": "https://xueqiu.com/S/SZ000333",
+          "amarket": true
+        },
+        {
+          "name": "格力电器",
+          "code": "000651",
+          "percent": 0.08,
+          "current_price": 65.66,
+          "change_percentage": -3.44,
+          "xq_symbol": "SZ000651",
+          "xq_url": "https://xueqiu.com/S/SZ000651",
+          "amarket": true
+        },
+        {
+          "name": "中信证券",
+          "code": "600030",
+          "percent": 0.07,
+          "current_price": 30.01,
+          "change_percentage": 0,
+          "xq_symbol": "SH600030",
+          "xq_url": "https://xueqiu.com/S/SH600030",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 0.06,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "万科A",
+          "code": "000002",
+          "percent": 0.06,
+          "current_price": 29.18,
+          "change_percentage": -0.78,
+          "xq_symbol": "SZ000002",
+          "xq_url": "https://xueqiu.com/S/SZ000002",
+          "amarket": true
+        },
+        {
+          "name": "海天味业",
+          "code": "603288",
+          "percent": 0.05,
+          "current_price": 183.5,
+          "change_percentage": 0.84,
+          "xq_symbol": "SH603288",
+          "xq_url": "https://xueqiu.com/S/SH603288",
+          "amarket": true
+        },
+        {
+          "name": "比亚迪",
+          "code": "002594",
+          "percent": 0.03,
+          "current_price": 177.97,
+          "change_percentage": 1.53,
+          "xq_symbol": "SZ002594",
+          "xq_url": "https://xueqiu.com/S/SZ002594",
+          "amarket": true
+        },
+        {
+          "name": "亿纬锂能",
+          "code": "300014",
+          "percent": 0.03,
+          "current_price": 63.71,
+          "change_percentage": 4.17,
+          "xq_symbol": "SZ300014",
+          "xq_url": "https://xueqiu.com/S/SZ300014",
+          "amarket": true
+        },
+        {
+          "name": "顺丰控股",
+          "code": "002352",
+          "percent": 0.02,
+          "current_price": 80.21,
+          "change_percentage": -1.88,
+          "xq_symbol": "SZ002352",
+          "xq_url": "https://xueqiu.com/S/SZ002352",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "009079",
+      "subscribe_rate": "0",
+      "declare_rate": "1.20",
+      "withdraw_rate": "1.500",
+      "discount": "1",
+      "subscribe_discount": "1",
+      "declare_discount": "1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.20"
+        },
+        {
+          "name": "100万≤买入金额<300万",
+          "value": "0.80"
+        },
+        {
+          "name": "300万≤买入金额<500万",
+          "value": "0.40"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.10"
+        },
+        {
+          "name": "基金管理费",
+          "value": "0.30"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "崔蕾",
+        "resume": "    崔蕾女士,康奈尔大学金融工程硕士,金融风险管理师(FRM),特许金融分析师(CFA),具有基金从业资格。2015年2月加入南方基金,历任数量化投资部助理研究员、研究员,指数投资部研究员;2018年11月8日至今,任南方中证500增强基金经理;2019年6月12日至今,任南方顶峰TOPIXETF(QDII)基金经理;2019年6月28日至今,任大数据300基金经理;2019年7月12日至今,任有色金属、南方有色金属联接、1000ETF、南方小康ETF、南方小康ETF联接基金经理;2019年11月29日至今,任南方粤港澳大湾区ETF基金经理;2020年1月17日至南方粤港澳大湾区创新100交易型开放式指数证券投资基金发起式联接基金招募说明书今,任红利50基金经理;2020年1月21日至今,任南方大盘红利50基金经理;2020 年 3 月 26 日至今,任南方粤港澳大湾区联接基金经理。",
+        "college": "康奈尔大学",
+        "achievement_list": [
+          {
+            "fund_code": "009080",
+            "fundsname": "南方粤港澳大湾区联接C",
+            "post_date": "2020-03-26",
+            "cp_rate": 34.14
+          },
+          {
+            "fund_code": "009079",
+            "fundsname": "南方粤港澳大湾区联接A",
+            "post_date": "2020-03-26",
+            "cp_rate": 34.23
+          },
+          {
+            "fund_code": "008164",
+            "fundsname": "南方大盘红利50C",
+            "post_date": "2020-01-21",
+            "cp_rate": 10.06
+          },
+          {
+            "fund_code": "008163",
+            "fundsname": "南方大盘红利50A",
+            "post_date": "2020-01-21",
+            "cp_rate": 10.45
+          },
+          {
+            "fund_code": "515450",
+            "fundsname": "南方标普中国A股大盘红利低波50ETF",
+            "post_date": "2020-01-17",
+            "cp_rate": 10.9567
+          },
+          {
+            "fund_code": "159984",
+            "fundsname": "南方粤港澳大湾区ETF",
+            "post_date": "2019-11-29",
+            "cp_rate": 33.72
+          },
+          {
+            "fund_code": "004346",
+            "fundsname": "南方小康ETF联接C",
+            "post_date": "2019-07-12",
+            "cp_rate": 23.7798
+          },
+          {
+            "fund_code": "004433",
+            "fundsname": "南方有色金属联接C",
+            "post_date": "2019-07-12",
+            "cp_rate": 43.2049
+          },
+          {
+            "fund_code": "004432",
+            "fundsname": "南方有色金属联接A",
+            "post_date": "2019-07-12",
+            "cp_rate": 44.0043
+          },
+          {
+            "fund_code": "512400",
+            "fundsname": "南方中证申万有色金属ETF",
+            "post_date": "2019-07-12",
+            "cp_rate": 48.0326
+          },
+          {
+            "fund_code": "512100",
+            "fundsname": "南方中证1000ETF",
+            "post_date": "2019-07-12",
+            "cp_rate": 49.2836
+          },
+          {
+            "fund_code": "202021",
+            "fundsname": "南方小康ETF联接A",
+            "post_date": "2019-07-12",
+            "cp_rate": 24.49
+          },
+          {
+            "fund_code": "510160",
+            "fundsname": "南方小康ETF",
+            "post_date": "2019-07-12",
+            "cp_rate": 25.5552
+          },
+          {
+            "fund_code": "001426",
+            "fundsname": "南方大数据300指数C",
+            "post_date": "2019-06-28",
+            "cp_rate": 45.1073
+          },
+          {
+            "fund_code": "001420",
+            "fundsname": "南方大数据300指数A",
+            "post_date": "2019-06-28",
+            "cp_rate": 45.9332
+          },
+          {
+            "fund_code": "513800",
+            "fundsname": "南方顶峰TOPIXETF",
+            "post_date": "2019-06-12",
+            "cp_rate": 13.86
+          },
+          {
+            "fund_code": "002907",
+            "fundsname": "南方中证500增强C",
+            "post_date": "2018-11-08",
+            "cp_rate": 62.356
+          },
+          {
+            "fund_code": "002906",
+            "fundsname": "南方中证500增强A",
+            "post_date": "2018-11-08",
+            "cp_rate": 63.6015
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "009079",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

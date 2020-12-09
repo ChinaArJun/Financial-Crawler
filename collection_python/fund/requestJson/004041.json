@@ -1,0 +1,224 @@
+{
+  "data": {
+    "fund_company": "    2002年8月,金鹰基金管理有限公司获准筹建,是自律制度下中国证监会批准设立的首批基金管理公司之一。公司注册资本1亿元人民币,股东包括广州证券有限责任公司、四川南方希望有限公司、广州药业股份有限公司、广东美的集团股份有限公司,分别持有40%、20%、20%和20%的股份。2002年12月25日,金鹰基金管理有限公司获准正式开业。\n    金鹰公司按照高起点、市场化、科学化、规范化和国际化的要求管理运作,其竞争力在于:        股东优势--主要股东有成长迅速的专业券商、声誉良好的知名上市公司和富有创新活力的著名民营企业,共同给予金鹰长期战略支持,确立了长远发展的坚定信念,并形成了雄厚资本与丰富专业经验能力的有效融合,实现了专业和行业的优势互补。\n    完善的公司治理结构--金鹰致力于建设一个运作高效、完善合理的公司治理结构,为此建立了\"三层三纵\"的制度体系、严谨的业务执行系统和健全的监督系统。独立董事占董事人数的45%,包括享誉国际、精通业务的金融、法律和财务管理专家及知名经济学者。\n    人才优势--聚集海内外金融精英,19%为博士,72%以上具有硕士以上学历,且大部分毕业于北大、清华、复旦、交大等著名高校,还有海外留学人士加盟。\n    团队精神--金鹰坚持团队合作,努力打造一个团结一致,为共同目标不懈努力的精英团队。\n    崇尚创新--金鹰提倡不断进取,追求卓越,不断地超越自我,在市场创新中,保持领先地位。\n    国际合作--金鹰与法国CDC资产管理公司、美国Wellington资产管理公司和美国国际集团(AIG)等国际知名投资机构建立了良好的国际合作关系。金鹰在合作中积极引入国际先进基金管理经验和技术。",
+    "fund_position": {
+      "stock_percent": 90.85,
+      "cash_percent": 5.64,
+      "other_percent": 3.51,
+      "asset_tot": 144808497.71,
+      "asset_val": 139177520.73,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "康泰生物",
+          "code": "300601",
+          "percent": 8.76,
+          "current_price": 158.41,
+          "change_percentage": -1.36,
+          "xq_symbol": "SZ300601",
+          "xq_url": "https://xueqiu.com/S/SZ300601",
+          "amarket": true
+        },
+        {
+          "name": "爱尔眼科",
+          "code": "300015",
+          "percent": 8.6,
+          "current_price": 66.63,
+          "change_percentage": -0.25,
+          "xq_symbol": "SZ300015",
+          "xq_url": "https://xueqiu.com/S/SZ300015",
+          "amarket": true
+        },
+        {
+          "name": "九洲药业",
+          "code": "603456",
+          "percent": 7.82,
+          "current_price": 32.24,
+          "change_percentage": 1.9,
+          "xq_symbol": "SH603456",
+          "xq_url": "https://xueqiu.com/S/SH603456",
+          "amarket": true
+        },
+        {
+          "name": "长春高新",
+          "code": "000661",
+          "percent": 7.6,
+          "current_price": 388,
+          "change_percentage": 0.19,
+          "xq_symbol": "SZ000661",
+          "xq_url": "https://xueqiu.com/S/SZ000661",
+          "amarket": true
+        },
+        {
+          "name": "智飞生物",
+          "code": "300122",
+          "percent": 6.79,
+          "current_price": 139.38,
+          "change_percentage": -0.39,
+          "xq_symbol": "SZ300122",
+          "xq_url": "https://xueqiu.com/S/SZ300122",
+          "amarket": true
+        },
+        {
+          "name": "欧普康视",
+          "code": "300595",
+          "percent": 6.73,
+          "current_price": 73.1,
+          "change_percentage": -0.41,
+          "xq_symbol": "SZ300595",
+          "xq_url": "https://xueqiu.com/S/SZ300595",
+          "amarket": true
+        },
+        {
+          "name": "健帆生物",
+          "code": "300529",
+          "percent": 6.64,
+          "current_price": 68.76,
+          "change_percentage": -0.28,
+          "xq_symbol": "SZ300529",
+          "xq_url": "https://xueqiu.com/S/SZ300529",
+          "amarket": true
+        },
+        {
+          "name": "贝达药业",
+          "code": "300558",
+          "percent": 6.25,
+          "current_price": 97.9,
+          "change_percentage": -2.37,
+          "xq_symbol": "SZ300558",
+          "xq_url": "https://xueqiu.com/S/SZ300558",
+          "amarket": true
+        },
+        {
+          "name": "英科医疗",
+          "code": "300677",
+          "percent": 5.36,
+          "current_price": 141,
+          "change_percentage": 1.49,
+          "xq_symbol": "SZ300677",
+          "xq_url": "https://xueqiu.com/S/SZ300677",
+          "amarket": true
+        },
+        {
+          "name": "司太立",
+          "code": "603520",
+          "percent": 5.35,
+          "current_price": 71.37,
+          "change_percentage": 1.45,
+          "xq_symbol": "SH603520",
+          "xq_url": "https://xueqiu.com/S/SH603520",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "004041",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.500"
+        },
+        {
+          "name": "30天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.40"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.20"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "韩广哲",
+        "resume": "    韩广哲,研究生、博士。曾在华夏基金管理有限公司博士后工作站任博士后研究员,并曾就职于华夏基金管理有限公司,曾担任组合经理职务,负责A股市场投资策略研究工作。2011年3月加盟银华基金管理有限公司。2012年11月至2013年12月担任银华消费主题分级混合型证券投资基金基金经理。2019年6月加入金鹰基金管理有限公司,2019年7月起担任金鹰改革红利灵活配置混合型证券投资基金基金经理。",
+        "achievement_list": [
+          {
+            "fund_code": "210008",
+            "fundsname": "金鹰策略配置混合",
+            "post_date": "2019-10-30",
+            "cp_rate": 79.3853
+          },
+          {
+            "fund_code": "004040",
+            "fundsname": "金鹰医疗健康产业股票A",
+            "post_date": "2019-10-30",
+            "cp_rate": 54.0346
+          },
+          {
+            "fund_code": "004041",
+            "fundsname": "金鹰医疗健康产业股票C",
+            "post_date": "2019-10-30",
+            "cp_rate": 53.3585
+          },
+          {
+            "fund_code": "001951",
+            "fundsname": "金鹰改革红利灵活配置混合",
+            "post_date": "2019-07-17",
+            "cp_rate": 76.567
+          },
+          {
+            "fund_code": "161818",
+            "fundsname": "银华消费分级混合",
+            "post_date": "2012-11-20",
+            "resi_date": "2013-12-17",
+            "cp_rate": 29.4582
+          },
+          {
+            "fund_code": "150047",
+            "fundsname": "银华消费分级混合A",
+            "post_date": "2012-11-20",
+            "resi_date": "2013-12-17",
+            "cp_rate": 7.5953
+          },
+          {
+            "fund_code": "150048",
+            "fundsname": "银华消费分级混合B",
+            "post_date": "2012-11-20",
+            "resi_date": "2013-12-17",
+            "cp_rate": 35.9952
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "004041",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

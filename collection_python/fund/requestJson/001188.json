@@ -1,0 +1,323 @@
+{
+  "data": {
+    "fund_company": "    鹏华基金管理有限公司成立于1998年12月22日,注册资本15,000万元人民币,总部设在深圳,在北京、上海、广州、武汉设有分公司,2013年1月,在深圳前海设立控股子公司鹏华资产管理有限公司。目前的股东由国信证券股份有限公司、意大利欧利盛资本资产管理股份公司(Eurizon Capital SGR S.p.A.)、深圳市北融信投资发展有限公司组成,三家股东的出资比例分别为50%、49%、1%,业务范围包括基金募集、基金销售、资产管理及中国证监会许可的其他业务。截至2016年12月31日,公司管理资产总规模达到4,551亿元,管理129只基金和10只全国社保投资组合。",
+    "fund_position": {
+      "stock_percent": 89.27,
+      "cash_percent": 10.55,
+      "other_percent": 0.18,
+      "asset_tot": 602810453.9,
+      "asset_val": 593223200.18,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 9.89,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "宁德时代",
+          "code": "300750",
+          "percent": 5.28,
+          "current_price": 266.03,
+          "change_percentage": 1.75,
+          "xq_symbol": "SZ300750",
+          "xq_url": "https://xueqiu.com/S/SZ300750",
+          "amarket": true
+        },
+        {
+          "name": "宝信软件",
+          "code": "600845",
+          "percent": 4.88,
+          "current_price": 64.06,
+          "change_percentage": 0.13,
+          "xq_symbol": "SH600845",
+          "xq_url": "https://xueqiu.com/S/SH600845",
+          "amarket": true
+        },
+        {
+          "name": "迈瑞医疗",
+          "code": "300760",
+          "percent": 4.49,
+          "current_price": 351.9,
+          "change_percentage": 1.82,
+          "xq_symbol": "SZ300760",
+          "xq_url": "https://xueqiu.com/S/SZ300760",
+          "amarket": true
+        },
+        {
+          "name": "长春高新",
+          "code": "000661",
+          "percent": 4.41,
+          "current_price": 388,
+          "change_percentage": 0.19,
+          "xq_symbol": "SZ000661",
+          "xq_url": "https://xueqiu.com/S/SZ000661",
+          "amarket": true
+        },
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 4.1,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "药明康德",
+          "code": "603259",
+          "percent": 3.88,
+          "current_price": 110.9,
+          "change_percentage": -0.12,
+          "xq_symbol": "SH603259",
+          "xq_url": "https://xueqiu.com/S/SH603259",
+          "amarket": true
+        },
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 3.85,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 3.75,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "澜起科技",
+          "code": "688008",
+          "percent": 3.23,
+          "current_price": 83.08,
+          "change_percentage": 1.56,
+          "xq_symbol": "SH688008",
+          "xq_url": "https://xueqiu.com/S/SH688008",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "001188",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "1.00"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "袁航",
+        "resume": "    袁航先生,国籍中国,经济学硕士,11年证券基金从业经验。2009年6月加盟鹏华基金管理有限公司,从事行业研究及投资助理相关工作,担任研究部资深研究员、投资经理助理,现任权益投资一部副总经理、基金经理。2014年11月担任鹏华先进制造股票基金基金经理,2015年02月至2017年02月担任鹏华弘盛混合基金基金经理,2015年04月至2017年02月担任鹏华弘泽混合基金基金经理,2015年05月至2017年02月担任鹏华弘实混合基金基金经理,2015年05月至2017年02月担任鹏华弘信混合基金基金经理,2015年06月至2017年09月担任鹏华弘锐混合基金基金经理,2015年08月担任鹏华策略优选混合基金基金经理,2018年05月至2019年12月担任鹏华产业精选基金基金经理,2019年12月担任鹏华改革红利股票基金基金经理。袁航先生具备基金从业资格。",
+        "work_year": "10",
+        "achievement_list": [
+          {
+            "fund_code": "009234",
+            "fundsname": "鹏华优质企业混合",
+            "post_date": "2020-06-11",
+            "cp_rate": 28.81
+          },
+          {
+            "fund_code": "001188",
+            "fundsname": "鹏华改革红利股票",
+            "post_date": "2019-12-31",
+            "cp_rate": 24.2728
+          },
+          {
+            "fund_code": "206002",
+            "fundsname": "鹏华精选成长混合",
+            "post_date": "2018-08-07",
+            "cp_rate": 116.1471
+          },
+          {
+            "fund_code": "160607",
+            "fundsname": "鹏华价值优势混合(LOF)",
+            "post_date": "2018-08-07",
+            "cp_rate": 89.5084
+          },
+          {
+            "fund_code": "005812",
+            "fundsname": "鹏华产业精选",
+            "post_date": "2018-05-09",
+            "resi_date": "2019-12-31",
+            "cp_rate": 27.79
+          },
+          {
+            "fund_code": "160627",
+            "fundsname": "鹏华策略优选灵活配置混合",
+            "post_date": "2015-08-13",
+            "cp_rate": 98.014
+          },
+          {
+            "fund_code": "001493",
+            "fundsname": "鹏华弘锐混合C",
+            "post_date": "2015-06-24",
+            "resi_date": "2017-09-06",
+            "cp_rate": 86.7
+          },
+          {
+            "fund_code": "001492",
+            "fundsname": "鹏华弘锐混合A",
+            "post_date": "2015-06-24",
+            "resi_date": "2017-09-06",
+            "cp_rate": 9.13
+          },
+          {
+            "fund_code": "001381",
+            "fundsname": "鹏华弘泽混合C",
+            "post_date": "2015-05-25",
+            "resi_date": "2017-02-04",
+            "cp_rate": 6.84
+          },
+          {
+            "fund_code": "001330",
+            "fundsname": "鹏华弘实混合C",
+            "post_date": "2015-05-25",
+            "resi_date": "2017-02-04",
+            "cp_rate": 13.9182
+          },
+          {
+            "fund_code": "001329",
+            "fundsname": "鹏华弘实混合A",
+            "post_date": "2015-05-25",
+            "resi_date": "2017-02-04",
+            "cp_rate": 6.7099
+          },
+          {
+            "fund_code": "001332",
+            "fundsname": "鹏华弘信混合C",
+            "post_date": "2015-05-25",
+            "resi_date": "2017-02-04",
+            "cp_rate": 4.0977
+          },
+          {
+            "fund_code": "001331",
+            "fundsname": "鹏华弘信混合A",
+            "post_date": "2015-05-25",
+            "resi_date": "2017-02-04",
+            "cp_rate": 15.2742
+          },
+          {
+            "fund_code": "001380",
+            "fundsname": "鹏华弘盛混合C",
+            "post_date": "2015-05-25",
+            "resi_date": "2017-02-04",
+            "cp_rate": 50.9182
+          },
+          {
+            "fund_code": "001172",
+            "fundsname": "鹏华弘泽混合A",
+            "post_date": "2015-04-14",
+            "resi_date": "2017-02-04",
+            "cp_rate": 8.46
+          },
+          {
+            "fund_code": "001067",
+            "fundsname": "鹏华弘盛混合A",
+            "post_date": "2015-02-25",
+            "resi_date": "2017-02-04",
+            "cp_rate": 11.14
+          },
+          {
+            "fund_code": "000778",
+            "fundsname": "鹏华先进制造股票",
+            "post_date": "2014-11-04",
+            "cp_rate": 221.9219
+          }
+        ]
+      },
+      {
+        "name": "郭盈",
+        "resume": "    郭盈先生,国籍中国,理学博士,4年证券基金从业经验。2016年07月加盟鹏华基金管理有限公司,历任研究部助理研究员,研究员,从事电子行业研究分析工作,现任职于权益投资二部,从事投资研究相关工作。2020年06月担任鹏华改革红利股票基金基金经理,2020年08月担任鹏华策略回报混合基金基金经理。郭盈先生具备基金从业资格。",
+        "achievement_list": [
+          {
+            "fund_code": "004986",
+            "fundsname": "鹏华策略回报混合",
+            "post_date": "2020-08-11",
+            "cp_rate": 12.7315
+          },
+          {
+            "fund_code": "001188",
+            "fundsname": "鹏华改革红利股票",
+            "post_date": "2020-06-23",
+            "cp_rate": 19.9419
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "001188",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

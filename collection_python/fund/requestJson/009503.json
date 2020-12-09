@@ -1,0 +1,49 @@
+{
+  "data": {
+    "fund_company": "    国寿安保基金管理有限公司是经中国证券监督管理委员会批准,由中国人寿资产管理有限公司和安保资本投资有限公司(澳大利亚)共同出资设立的专业理财机构,是中国保险业成立的首家基金管理公司。公司于2013年10月29日在国家工商总局注册,2013年11月6日揭牌营业,注册资本金5.88亿人民币。",
+    "fund_rates": {
+      "fd_code": "009503",
+      "subscribe_rate": "0.00",
+      "declare_rate": "0",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "subscribe_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "刘志军",
+        "resume": "    2012年3月加入华夏基金管理有限公司,任研究员。2016年9月加入国寿安保基金管理有限公司,任研究员。",
+        "achievement_list": [
+          {
+            "fund_code": "005043",
+            "fundsname": "国寿安保健康科学混合A",
+            "post_date": "2018-04-16",
+            "cp_rate": 62.4865
+          },
+          {
+            "fund_code": "005044",
+            "fundsname": "国寿安保健康科学混合C",
+            "post_date": "2018-04-16",
+            "cp_rate": 61.05
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "009503",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

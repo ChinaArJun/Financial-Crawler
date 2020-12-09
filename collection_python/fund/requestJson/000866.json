@@ -1,0 +1,221 @@
+{
+  "data": {
+    "fund_company": "    华宝基金管理有限公司于2003年2月12日获准开业,是国内首批中外合资基金管理公司,也是国内首家由信托公司和外方资产管理公司发起设立的中外合资基金管理公司。华宝信托是世界500强企业——中国宝武钢铁集团旗下金融板块成员公司,注册资本37.44亿元,投资业绩优异,资产质量在国内同业中名列前茅。美国华平投资集团是全球领先的私募股权投资集团,拥有超过50年的私募股权投资经验。公司凭借其独树一帜的投资模式、傲视群雄的全球优势和经验丰富的投资团队,在40个国家的800多家企业中投资了600多亿美元;目前旗下管理超过440亿美元的资产,投资于140多家企业,成为私募股权投资行业的领导者。华平投资于1994年设立香港办公室,是在华投资最早的国际私募股权投资机构,目前在华累计投资超过80亿美元,涉及近百家企业。中国宝武钢铁集团和美国华平投资集团致力于开拓中国金融市场,双方志存高远、砥砺前行,在新的征程、新的起点精诚合作,戮力同心,力争打造一个锐意进取、不断创新的多元化、国际化资产管理公司。",
+    "fund_position": {
+      "stock_percent": 86.16,
+      "bond_percent": 0.24,
+      "cash_percent": 11.87,
+      "other_percent": 1.73,
+      "asset_tot": 327478953.52,
+      "asset_val": 322466978.41,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "比亚迪",
+          "code": "002594",
+          "percent": 6.29,
+          "current_price": 177.97,
+          "change_percentage": 1.53,
+          "xq_symbol": "SZ002594",
+          "xq_url": "https://xueqiu.com/S/SZ002594",
+          "amarket": true
+        },
+        {
+          "name": "司太立",
+          "code": "603520",
+          "percent": 4.47,
+          "current_price": 71.37,
+          "change_percentage": 1.45,
+          "xq_symbol": "SH603520",
+          "xq_url": "https://xueqiu.com/S/SH603520",
+          "amarket": true
+        },
+        {
+          "name": "万科A",
+          "code": "000002",
+          "percent": 4.43,
+          "current_price": 29.18,
+          "change_percentage": -0.78,
+          "xq_symbol": "SZ000002",
+          "xq_url": "https://xueqiu.com/S/SZ000002",
+          "amarket": true
+        },
+        {
+          "name": "中国巨石",
+          "code": "600176",
+          "percent": 4.35,
+          "current_price": 16.68,
+          "change_percentage": 0,
+          "xq_symbol": "SH600176",
+          "xq_url": "https://xueqiu.com/S/SH600176",
+          "amarket": true
+        },
+        {
+          "name": "中材科技",
+          "code": "002080",
+          "percent": 4.18,
+          "current_price": 19.29,
+          "change_percentage": 0,
+          "xq_symbol": "SZ002080",
+          "xq_url": "https://xueqiu.com/S/SZ002080",
+          "amarket": true
+        },
+        {
+          "name": "保利地产",
+          "code": "600048",
+          "percent": 4.16,
+          "current_price": 16.46,
+          "change_percentage": -0.48,
+          "xq_symbol": "SH600048",
+          "xq_url": "https://xueqiu.com/S/SH600048",
+          "amarket": true
+        },
+        {
+          "name": "金地集团",
+          "code": "600383",
+          "percent": 3.76,
+          "current_price": 14.17,
+          "change_percentage": -0.56,
+          "xq_symbol": "SH600383",
+          "xq_url": "https://xueqiu.com/S/SH600383",
+          "amarket": true
+        },
+        {
+          "name": "中兴通讯",
+          "code": "000063",
+          "percent": 3.67,
+          "current_price": 33.8,
+          "change_percentage": -0.03,
+          "xq_symbol": "SZ000063",
+          "xq_url": "https://xueqiu.com/S/SZ000063",
+          "amarket": true
+        },
+        {
+          "name": "龙马环卫",
+          "code": "603686",
+          "percent": 3.22,
+          "current_price": 18.01,
+          "change_percentage": -1.42,
+          "xq_symbol": "SH603686",
+          "xq_url": "https://xueqiu.com/S/SH603686",
+          "amarket": true
+        },
+        {
+          "name": "盈峰环境",
+          "code": "000967",
+          "percent": 3.11,
+          "current_price": 9.02,
+          "change_percentage": -3.74,
+          "xq_symbol": "SZ000967",
+          "xq_url": "https://xueqiu.com/S/SZ000967",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "广汇转债",
+          "code": "110072",
+          "percent": 0.24,
+          "xq_symbol": "110072",
+          "xq_url": "https://xueqiu.com/S/110072",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "000866",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<100万",
+          "value": "1.20"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.00"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.50"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "贺喆",
+        "resume": "    贺喆,本科。曾在上海从容投资管理有限公司从事投资管理工作。2013 年 10 月加入华宝基金管理有限公司,先后任高级分析师、基金经理助理等职务。2018 年 7 月起任华宝转型升级灵活配置混合型证券投资基金基金经理,2018 年 8 月起任华宝高端制造股票型证券投资基金基金经理。",
+        "achievement_list": [
+          {
+            "fund_code": "000866",
+            "fundsname": "华宝高端制造股票",
+            "post_date": "2018-08-24",
+            "cp_rate": 99.2233
+          },
+          {
+            "fund_code": "001967",
+            "fundsname": "华宝转型升级灵活配置混合",
+            "post_date": "2018-07-02",
+            "cp_rate": 31.8046
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "000866",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

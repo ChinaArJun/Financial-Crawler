@@ -1,0 +1,222 @@
+{
+  "data": {
+    "fund_company": "    博时基金管理有限公司成立于1998年7月13日,是中国内地首批成立的五家基金管理公司之一,致力为海内外各类机构和个人投资者提供专业、全面的资产管理服务。博时总部设在深圳,在北京、上海等地设有分公司,同时拥有博时基金(国际)有限公司和博时资本管理有限公司两家全资子公司。博时基金公司经营范围包括基金募集、基金销售、资产管理和中国证监会许可的其他业务。“为国民创造财富”是博时的使命。“做投资价值的发现者”是博时始终坚持的投资理念。\n    博时基金是目前我国资产管理规模最大的基金公司之一。截至2016年12月31日,博时基金公司共管理164只开放式基金,并受全国社会保障基金理事会委托管理部分社保基金,以及多个企业年金账户,管理资产总规模约为6250.22亿元人民币,其中公募基金规模约3760.13亿元人民币,累计分红约781.21亿元人民币。博时是首批全国社保基金投资管理人、首批企业年金基金投资管理人、首批基本养老保险基金证券投资管理人,博时养老金资产管理规模在同业中名列前茅。\n    博时遵循资本市场的价值规律,依托精心打造的专业系统,深入研究投资对象价值,努力为客户实现财富增值。我们的股票投资强调以内部研究为基础的基本面分析,持续挖掘业绩稳定增长、有核心竞争力、有成长潜力的上市公司。我们坚信股票的二级市场价格终将反映企业的内在价值,坚守对企业的深入把握这一获取收益、规避风险的根本方法。十八年来,博时所管理的各类资产均取得良好投资收益增长,产品策略全力满足各类客户的资产配置需求,以实现各类客户长期财富管理的收益目标。\n    作为首批成立的五家基金公司之一,博时基金不但在中国基金业内率先倡导价值投资理念,而且最早开始细分投资风格小组,进而形成了“权益投资强调于低风险基础上获取稳健收益,固定收益投资满足客户多元需求”的稳健型投资风格。博时基金拥有业内居前的投研团队和完善的投研管理体系。并于2016年7月,成立多元资产管理部,发力公募FOF。经过18年稳健发展,博时基金建立了制度、技术、执行三重保障的内部控制体系,设立了以董事会风险管理委员会、公司风险管理委员会为中心的风险管理组织架构。同时博时基金吸引并培养了大批优秀的IT人才,搭建起实力雄厚的IT信息系统。",
+    "fund_position": {
+      "stock_percent": 84.5,
+      "cash_percent": 14.99,
+      "other_percent": 0.51,
+      "asset_tot": 635328070.91,
+      "asset_val": 626083199.91,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "中信特钢",
+          "code": "000708",
+          "percent": 7.53,
+          "current_price": 20.41,
+          "change_percentage": -1.73,
+          "xq_symbol": "SZ000708",
+          "xq_url": "https://xueqiu.com/S/SZ000708",
+          "amarket": true
+        },
+        {
+          "name": "迈瑞医疗",
+          "code": "300760",
+          "percent": 6.66,
+          "current_price": 351.9,
+          "change_percentage": 1.82,
+          "xq_symbol": "SZ300760",
+          "xq_url": "https://xueqiu.com/S/SZ300760",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 6.36,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "紫金矿业",
+          "code": "601899",
+          "percent": 5.55,
+          "current_price": 8.91,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601899",
+          "xq_url": "https://xueqiu.com/S/SH601899",
+          "amarket": true
+        },
+        {
+          "name": "新宙邦",
+          "code": "300037",
+          "percent": 3.72,
+          "current_price": 99.89,
+          "change_percentage": 12.22,
+          "xq_symbol": "SZ300037",
+          "xq_url": "https://xueqiu.com/S/SZ300037",
+          "amarket": true
+        },
+        {
+          "name": "赤峰黄金",
+          "code": "600988",
+          "percent": 3.28,
+          "current_price": 18.03,
+          "change_percentage": 4.4,
+          "xq_symbol": "SH600988",
+          "xq_url": "https://xueqiu.com/S/SH600988",
+          "amarket": true
+        },
+        {
+          "name": "比亚迪",
+          "code": "002594",
+          "percent": 3.27,
+          "current_price": 177.97,
+          "change_percentage": 1.53,
+          "xq_symbol": "SZ002594",
+          "xq_url": "https://xueqiu.com/S/SZ002594",
+          "amarket": true
+        },
+        {
+          "name": "金山办公",
+          "code": "688111",
+          "percent": 3.1,
+          "current_price": 349.5,
+          "change_percentage": -2.75,
+          "xq_symbol": "SH688111",
+          "xq_url": "https://xueqiu.com/S/SH688111",
+          "amarket": true
+        },
+        {
+          "name": "卓胜微",
+          "code": "300782",
+          "percent": 3.07,
+          "current_price": 544.82,
+          "change_percentage": 2.06,
+          "xq_symbol": "SZ300782",
+          "xq_url": "https://xueqiu.com/S/SZ300782",
+          "amarket": true
+        },
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 3.04,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "001236",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<100万",
+          "value": "1.00"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<730天",
+          "value": "0.500"
+        },
+        {
+          "name": "2年≤持有期限<3年",
+          "value": "0.250"
+        },
+        {
+          "name": "3年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "沙炜",
+        "resume": "    沙炜先生,硕士。2008年从中国科学院硕士研究生毕业后加入博时基金管理有限公司。历任研究员、资深研究员、基金经理助理、研究部副总经理。现任博时丝路主题股票基金(2015年5月22日至今)、博时招财一号保本基金的基金经理(2015年8月4日至今)、博时招财二号保本基金(2016年8月9日至今)的基金经理。",
+        "work_year": "12",
+        "achievement_list": [
+          {
+            "fund_code": "003055",
+            "fundsname": "博时招财二号大数据保本混合",
+            "post_date": "2016-08-09",
+            "resi_date": "2018-08-09",
+            "cp_rate": 3.1
+          },
+          {
+            "fund_code": "002556",
+            "fundsname": "博时丝路主题股票C",
+            "post_date": "2016-03-22",
+            "cp_rate": 148.2337
+          },
+          {
+            "fund_code": "001238",
+            "fundsname": "博时招财一号大数据保本混合",
+            "post_date": "2015-08-04",
+            "resi_date": "2017-05-03",
+            "cp_rate": 5.3224
+          },
+          {
+            "fund_code": "001236",
+            "fundsname": "博时丝路主题股票A",
+            "post_date": "2015-05-22",
+            "cp_rate": 85.1
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "001236",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

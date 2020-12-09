@@ -1,0 +1,228 @@
+{
+  "data": {
+    "fund_company": "    新华基金管理股份有限公司于2004年12月9日获准成立,目前,公司注册资本为2.175亿元人民币,注册地在重庆市,经营管理中心位于北京市。公司主要股东有恒泰证券股份有限公司、新华信托股份有限公司等。2013年4月,公司设立了全资设立子公司“深圳新华富时资产管理有限公司”,加快向现代财富管理机构的转型。\n    历经十余年的不懈努力,新华基金管理规模逐年扩大,产品线日趋完备,管理水平不断提升,特别是投资管理能力始终处于行业领先地位、竞争优势明显。另外,公司积极推进员工股权激励计划,未来还将实现新三板挂牌上市,进一步激发员工工作热情,推动公司业务快速健康发展。\n    2009-2014年六年期间,新华基金的股票基金投资能力屡次问鼎“三甲”,在海通证券历年排行榜单中,新华基金共摘得“状元”两次、”榜眼”三次;2015年度,公司再以股票投资能力排名第一的成绩突围而出。由于业绩表现十分出色,公司斩获多项殊荣,2011-2013年度,公司连续三年获得《上海证券报》年度“金基金·股票投资回报公司奖”;2011-2015年度,公司四年获得《上海证券报》年度“金基金·股票投资回报公司奖”;2014-2015年度,公司连续两年获得《中国证券报》“金牛进取基金公司”。\n    2016年,公司把握住债券市场机会,固定收益类产品取得了较好的业绩,多只债券基金业绩名列前茅。据海通证券发布的业绩排行榜显示,公司固定收益类基金绝对收益净值增长率为4.09%,排名第5位,超额收益率排名第1位。\n    过去的成就见证了新华基金每一步的成长,而每登上一个台阶就意味公司会在更高的起点上面向未来、持久发展、刷新成绩。“受人之托,代人理财”是资管行业的根本使命,新华基金成立以来,始终牢记行业根本,坚持“慧投资,惠生活”的经营理念,不断完善公司的治理结构和风控体系,持续提升投研能力,秉承客户利益至高无上的基本准则,为基金持有人创造持续而稳定的回报。",
+    "fund_position": {
+      "stock_percent": 93.06,
+      "cash_percent": 6.73,
+      "other_percent": 0.21,
+      "asset_tot": 892113624.12,
+      "asset_val": 880642287.38,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "凯普生物",
+          "code": "300639",
+          "percent": 8.08,
+          "current_price": 37.35,
+          "change_percentage": 2.05,
+          "xq_symbol": "SZ300639",
+          "xq_url": "https://xueqiu.com/S/SZ300639",
+          "amarket": true
+        },
+        {
+          "name": "浙江鼎力",
+          "code": "603338",
+          "percent": 6.92,
+          "current_price": 103.96,
+          "change_percentage": -2.04,
+          "xq_symbol": "SH603338",
+          "xq_url": "https://xueqiu.com/S/SH603338",
+          "amarket": true
+        },
+        {
+          "name": "海尔生物",
+          "code": "688139",
+          "percent": 5.94,
+          "current_price": 71.34,
+          "change_percentage": -2.9,
+          "xq_symbol": "SH688139",
+          "xq_url": "https://xueqiu.com/S/SH688139",
+          "amarket": true
+        },
+        {
+          "name": "恒立液压",
+          "code": "601100",
+          "percent": 4.86,
+          "current_price": 96.79,
+          "change_percentage": -1.59,
+          "xq_symbol": "SH601100",
+          "xq_url": "https://xueqiu.com/S/SH601100",
+          "amarket": true
+        },
+        {
+          "name": "金科股份",
+          "code": "000656",
+          "percent": 3.94,
+          "current_price": 7.43,
+          "change_percentage": -2.49,
+          "xq_symbol": "SZ000656",
+          "xq_url": "https://xueqiu.com/S/SZ000656",
+          "amarket": true
+        },
+        {
+          "name": "美的集团",
+          "code": "000333",
+          "percent": 3.21,
+          "current_price": 86.7,
+          "change_percentage": -1.54,
+          "xq_symbol": "SZ000333",
+          "xq_url": "https://xueqiu.com/S/SZ000333",
+          "amarket": true
+        },
+        {
+          "name": "理邦仪器",
+          "code": "300206",
+          "percent": 3.09,
+          "current_price": 17.06,
+          "change_percentage": -0.81,
+          "xq_symbol": "SZ300206",
+          "xq_url": "https://xueqiu.com/S/SZ300206",
+          "amarket": true
+        },
+        {
+          "name": "大博医疗",
+          "code": "002901",
+          "percent": 2.97,
+          "current_price": 72.78,
+          "change_percentage": -0.56,
+          "xq_symbol": "SZ002901",
+          "xq_url": "https://xueqiu.com/S/SZ002901",
+          "amarket": true
+        },
+        {
+          "name": "国瓷材料",
+          "code": "300285",
+          "percent": 2.87,
+          "current_price": 41.47,
+          "change_percentage": 2.4,
+          "xq_symbol": "SZ300285",
+          "xq_url": "https://xueqiu.com/S/SZ300285",
+          "amarket": true
+        },
+        {
+          "name": "凯利泰",
+          "code": "300326",
+          "percent": 2.82,
+          "current_price": 15.31,
+          "change_percentage": -0.26,
+          "xq_symbol": "SZ300326",
+          "xq_url": "https://xueqiu.com/S/SZ300326",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "001040",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.20"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<15天",
+          "value": "1.500"
+        },
+        {
+          "name": "15天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.100"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "赵强",
+        "resume": "    强先生,管理学硕士,17年证券从业经验。历任国金基金高级研究员、英大基金基金经理、中欧基金投资经理,2016年11月加入新华基金管理股份有限公司,现任权益投资部总监,新华优选分红混合型证券投资基金基金经理、新华策略精选股票型证券投资基金基金经理、新华行业轮换灵活配置混合型证券投资基金基金经理。",
+        "college": "南开大学",
+        "work_year": "17",
+        "achievement_list": [
+          {
+            "fund_code": "519157",
+            "fundsname": "新华行业灵活配置混合C",
+            "post_date": "2020-05-26",
+            "cp_rate": 40.8322
+          },
+          {
+            "fund_code": "519156",
+            "fundsname": "新华行业灵活配置混合A",
+            "post_date": "2020-05-26",
+            "cp_rate": 40.964
+          },
+          {
+            "fund_code": "519087",
+            "fundsname": "新华优选分红混合",
+            "post_date": "2017-05-17",
+            "cp_rate": 117.1911
+          },
+          {
+            "fund_code": "001040",
+            "fundsname": "新华策略精选股票",
+            "post_date": "2017-05-17",
+            "cp_rate": 132.2718
+          },
+          {
+            "fund_code": "000458",
+            "fundsname": "英大领先回报",
+            "post_date": "2014-03-05",
+            "resi_date": "2015-04-28",
+            "cp_rate": 63.26
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "001040",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

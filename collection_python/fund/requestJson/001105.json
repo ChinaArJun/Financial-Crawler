@@ -1,0 +1,363 @@
+{
+  "data": {
+    "fund_company": "    信达澳银基金管理有限公司成立于2006年6月5日,注册资本1亿元人民币,公司总部设在中国深圳。公司由中国信达资产管理股份有限公司和澳洲联邦银行的全资附属公司康联首域集团有限公司(Colonial First State Group Ltd.)共同发起,是国内首家由国有资产管理公司控股的基金管理公司,也是澳洲在中国合资设立的第一家基金管理公司。2015年5月22日,信达证券股份有限公司受让中国信达资产管理股份有限公司持有的股权,与康联首域共同持有公司股份。公司秉承“规范、诚信、创新、回报”的经营理念,规范运作,稳健发展,力争取信于市场、取信于社会、取信于投资人、以创新求发展、促服务、出效益,以此回报客户、回报股东、回报社会。",
+    "fund_position": {
+      "stock_percent": 87.38,
+      "cash_percent": 10.03,
+      "other_percent": 2.59,
+      "asset_tot": 403971335.87,
+      "asset_val": 400110617.11,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 6.19,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 6.13,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "伊利股份",
+          "code": "600887",
+          "percent": 4.77,
+          "current_price": 40.68,
+          "change_percentage": 1.24,
+          "xq_symbol": "SH600887",
+          "xq_url": "https://xueqiu.com/S/SH600887",
+          "amarket": true
+        },
+        {
+          "name": "中航飞机",
+          "code": "000768",
+          "percent": 4.75,
+          "current_price": 30.66,
+          "change_percentage": -0.65,
+          "xq_symbol": "SZ000768",
+          "xq_url": "https://xueqiu.com/S/SZ000768",
+          "amarket": true
+        },
+        {
+          "name": "比亚迪",
+          "code": "002594",
+          "percent": 3.79,
+          "current_price": 177.97,
+          "change_percentage": 1.53,
+          "xq_symbol": "SZ002594",
+          "xq_url": "https://xueqiu.com/S/SZ002594",
+          "amarket": true
+        },
+        {
+          "name": "东方雨虹",
+          "code": "002271",
+          "percent": 3.78,
+          "current_price": 35.92,
+          "change_percentage": 0.25,
+          "xq_symbol": "SZ002271",
+          "xq_url": "https://xueqiu.com/S/SZ002271",
+          "amarket": true
+        },
+        {
+          "name": "金山办公",
+          "code": "688111",
+          "percent": 2.81,
+          "current_price": 349.5,
+          "change_percentage": -2.75,
+          "xq_symbol": "SH688111",
+          "xq_url": "https://xueqiu.com/S/SH688111",
+          "amarket": true
+        },
+        {
+          "name": "中国中免",
+          "code": "601888",
+          "percent": 2.76,
+          "current_price": 208.03,
+          "change_percentage": 0.13,
+          "xq_symbol": "SH601888",
+          "xq_url": "https://xueqiu.com/S/SH601888",
+          "amarket": true
+        },
+        {
+          "name": "万华化学",
+          "code": "600309",
+          "percent": 2.62,
+          "current_price": 82.99,
+          "change_percentage": -0.3,
+          "xq_symbol": "SH600309",
+          "xq_url": "https://xueqiu.com/S/SH600309",
+          "amarket": true
+        },
+        {
+          "name": "宁德时代",
+          "code": "300750",
+          "percent": 2.12,
+          "current_price": 266.03,
+          "change_percentage": 1.75,
+          "xq_symbol": "SZ300750",
+          "xq_url": "https://xueqiu.com/S/SZ300750",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "001105",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<200万",
+          "value": "1.00"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "王咏辉",
+        "resume": "    王咏辉先生,副总经理,英国牛津大学工程专业本科和牛津大学计算机专业硕士,21年证券、基金从业经验。曾任伦敦摩根大通(JPMorgan)投资基金管理公司分析员、高级分析师,汇丰投资基金管理公司(HSBC)高级分析师,伦敦巴克莱国际投资基金管理公司基金经理、部门负责人,巴克莱资本公司(BarclaysCapital)部门负责人,泰达宏利基金管理公司(ManulifeTeda)国际投资部负责人、量化投资与金融工程部负责人、基金经理,鹏华基金管理有限公司量化及衍生品投资部总经理、资产配置与基金投资部总监、基金经理兼投资决策委员会委员等职务。王咏辉先生具备基金从业资格,英国基金经理从业资格(IMC),英国IET颁发的特许工程师(CEng)认证资格。2017年10月加入信达澳银基金管理有限公司,任总经理助理、基金经理,分管权益投资总部、智能量化与资产配置总部。2019年8月16日起任信达澳银基金管理有限公司副总经理。",
+        "college": "英国牛津大学",
+        "work_year": "22",
+        "achievement_list": [
+          {
+            "fund_code": "166110",
+            "fundsname": "信达澳银量化先锋混合(LOF)C",
+            "post_date": "2020-02-04",
+            "cp_rate": 26.88
+          },
+          {
+            "fund_code": "166109",
+            "fundsname": "信达澳银量化先锋混合(LOF)A",
+            "post_date": "2020-02-04",
+            "cp_rate": 27.7
+          },
+          {
+            "fund_code": "166108",
+            "fundsname": "信达澳银量化多因子混合(LOF)C",
+            "post_date": "2019-11-06",
+            "cp_rate": 32.04
+          },
+          {
+            "fund_code": "166107",
+            "fundsname": "信达澳银量化多因子混合(LOF)A",
+            "post_date": "2019-11-06",
+            "cp_rate": 33.22
+          },
+          {
+            "fund_code": "005770",
+            "fundsname": "信达澳银中证沪港深高股息精选",
+            "post_date": "2019-04-26",
+            "cp_rate": 8.5361
+          },
+          {
+            "fund_code": "001105",
+            "fundsname": "信达澳银转型创新股票",
+            "post_date": "2019-04-26",
+            "cp_rate": 57.3239
+          },
+          {
+            "fund_code": "610001",
+            "fundsname": "信达澳银领先增长混合",
+            "post_date": "2018-12-03",
+            "cp_rate": 71.6513
+          },
+          {
+            "fund_code": "006462",
+            "fundsname": "信达澳银新起点定期开放混合C",
+            "post_date": "2018-10-08",
+            "cp_rate": 28.95
+          },
+          {
+            "fund_code": "005179",
+            "fundsname": "信达澳银新起点定期开放混合A",
+            "post_date": "2018-06-06",
+            "cp_rate": 31.7443
+          },
+          {
+            "fund_code": "150246",
+            "fundsname": "鹏华互联B",
+            "post_date": "2015-06-16",
+            "resi_date": "2016-10-14",
+            "cp_rate": -76.1962
+          },
+          {
+            "fund_code": "150245",
+            "fundsname": "鹏华互联A",
+            "post_date": "2015-06-16",
+            "resi_date": "2016-10-14",
+            "cp_rate": 6.3836
+          },
+          {
+            "fund_code": "160636",
+            "fundsname": "鹏华互联网分级",
+            "post_date": "2015-06-16",
+            "resi_date": "2016-10-14",
+            "cp_rate": -32.36
+          },
+          {
+            "fund_code": "150244",
+            "fundsname": "鹏华创业板分级B",
+            "post_date": "2015-06-09",
+            "resi_date": "2016-10-14",
+            "cp_rate": -75.33
+          },
+          {
+            "fund_code": "150243",
+            "fundsname": "鹏华创业板分级A",
+            "post_date": "2015-06-09",
+            "resi_date": "2016-10-14",
+            "cp_rate": 6.56
+          },
+          {
+            "fund_code": "160637",
+            "fundsname": "鹏华创业板分级",
+            "post_date": "2015-06-09",
+            "resi_date": "2016-10-14",
+            "cp_rate": -34.57
+          },
+          {
+            "fund_code": "160615",
+            "fundsname": "鹏华沪深300指数(LOF)A",
+            "post_date": "2014-12-06",
+            "resi_date": "2016-09-24",
+            "cp_rate": 5.8193
+          },
+          {
+            "fund_code": "150193",
+            "fundsname": "鹏华中证800地产指数分级B",
+            "post_date": "2014-09-12",
+            "resi_date": "2016-09-24",
+            "cp_rate": 12.7528
+          },
+          {
+            "fund_code": "150192",
+            "fundsname": "鹏华中证800地产指数分级A",
+            "post_date": "2014-09-12",
+            "resi_date": "2016-09-24",
+            "cp_rate": 11.1988
+          },
+          {
+            "fund_code": "160628",
+            "fundsname": "鹏华中证800地产指数分级",
+            "post_date": "2014-09-12",
+            "resi_date": "2016-09-24",
+            "cp_rate": 56
+          },
+          {
+            "fund_code": "160616",
+            "fundsname": "鹏华中证500指数(LOF)A",
+            "post_date": "2013-12-27",
+            "resi_date": "2016-09-24",
+            "cp_rate": 62.169
+          },
+          {
+            "fund_code": "150054",
+            "fundsname": "泰达进取",
+            "post_date": "2011-12-01",
+            "resi_date": "2012-08-20",
+            "cp_rate": -9.3
+          },
+          {
+            "fund_code": "150053",
+            "fundsname": "泰达稳健",
+            "post_date": "2011-12-01",
+            "resi_date": "2012-08-20",
+            "cp_rate": 5
+          },
+          {
+            "fund_code": "162216",
+            "fundsname": "泰达中证500",
+            "post_date": "2011-12-01",
+            "resi_date": "2012-08-20",
+            "cp_rate": -3.57
+          },
+          {
+            "fund_code": "229001",
+            "fundsname": "泰达宏利全球新格局(QDII-FOF)",
+            "post_date": "2011-07-20",
+            "resi_date": "2012-08-20",
+            "cp_rate": -5.2
+          },
+          {
+            "fund_code": "162213",
+            "fundsname": "泰达宏利财富大盘指数A",
+            "post_date": "2010-04-23",
+            "resi_date": "2012-08-20",
+            "cp_rate": -16.1
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "001105",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

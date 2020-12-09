@@ -1,0 +1,290 @@
+{
+  "data": {
+    "fund_company": "    国泰基金成立于1998年3月,是国内首批规范成立的基金管理公司之一。历经17年的市场磨砺,公司稳步发展,目前进入了新的发展阶段。2010年全球领先的保险集团之一意大利忠利集团正式收购公司部分股权,国泰基金变身为中外合资基金公司,并在投资管理、产品研发、风险控制、基金营销等多方面与之展开交流与合作,得到了显著提高。(注:基金管理人与股东之间实行业务隔离制度,股东并不直接参与基金财产的投资运作。)目前公司已拥有包括公募基金、社保基金投资管理人、企业年金投资管理人、特定客户资产管理业务和合格境内机构投资者等业务资格,是行业内极少数拥有并开展多类业务的资产管理公司之一。\n    自1998年3月23日公开发行国内第一只封闭式基金——基金金泰以来,国泰基金的产品线不断得到丰富和完善。目前公司旗下共管理着58只公募基金,2只养老金产品和包括专户、年金、社保、投资咨询在内80多个资产委托组合,形成了丰富的资产管理产品线,能够满足不同风险偏好投资者的需求。\n    17年来,国泰基金始终秉承\"以最大的专业性和勤勉为投资人实现长期稳定的财富增值\"的经营宗旨,赢得了包括全国社会保障基金理事会在内的数百万投资人的信任。在为投资者创造物质财富的同时,也不忘承担社会责任,通过\"红蜡烛助教计划\"开展支学助教活动,积极践行\"和谐社会\"的价值观,为社会精神财富的创造贡献力量。截至2015年,国泰基金\"红蜡烛助教计划\"已历时8年,在全国范围内完成助教22次、捐助\"红蜡烛图书馆\"12座、\"红蜡烛·梦想中心\"多媒体教室4个、助养学生 128人、捐赠图书21287本、受益师生近6000人次。",
+    "fund_position": {
+      "stock_percent": 91.79,
+      "cash_percent": 8,
+      "other_percent": 0.21,
+      "asset_tot": 97738365.84,
+      "asset_val": 95842823.79,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "顺丰控股",
+          "code": "002352",
+          "percent": 8.73,
+          "current_price": 80.21,
+          "change_percentage": -1.88,
+          "xq_symbol": "SZ002352",
+          "xq_url": "https://xueqiu.com/S/SZ002352",
+          "amarket": true
+        },
+        {
+          "name": "先达股份",
+          "code": "603086",
+          "percent": 8.64,
+          "current_price": 17.97,
+          "change_percentage": 0.73,
+          "xq_symbol": "SH603086",
+          "xq_url": "https://xueqiu.com/S/SH603086",
+          "amarket": true
+        },
+        {
+          "name": "嘉友国际",
+          "code": "603871",
+          "percent": 8.27,
+          "current_price": 23.39,
+          "change_percentage": -2.17,
+          "xq_symbol": "SH603871",
+          "xq_url": "https://xueqiu.com/S/SH603871",
+          "amarket": true
+        },
+        {
+          "name": "尚品宅配",
+          "code": "300616",
+          "percent": 8.19,
+          "current_price": 73.09,
+          "change_percentage": 0.49,
+          "xq_symbol": "SZ300616",
+          "xq_url": "https://xueqiu.com/S/SZ300616",
+          "amarket": true
+        },
+        {
+          "name": "中旗股份",
+          "code": "300575",
+          "percent": 8.07,
+          "current_price": 40.16,
+          "change_percentage": -0.62,
+          "xq_symbol": "SZ300575",
+          "xq_url": "https://xueqiu.com/S/SZ300575",
+          "amarket": true
+        },
+        {
+          "name": "传音控股",
+          "code": "688036",
+          "percent": 7.95,
+          "current_price": 142.88,
+          "change_percentage": 4.51,
+          "xq_symbol": "SH688036",
+          "xq_url": "https://xueqiu.com/S/SH688036",
+          "amarket": true
+        },
+        {
+          "name": "我爱我家",
+          "code": "000560",
+          "percent": 7.16,
+          "current_price": 3.76,
+          "change_percentage": -1.57,
+          "xq_symbol": "SZ000560",
+          "xq_url": "https://xueqiu.com/S/SZ000560",
+          "amarket": true
+        },
+        {
+          "name": "佩蒂股份",
+          "code": "300673",
+          "percent": 5.58,
+          "current_price": 34.21,
+          "change_percentage": -0.55,
+          "xq_symbol": "SZ300673",
+          "xq_url": "https://xueqiu.com/S/SZ300673",
+          "amarket": true
+        },
+        {
+          "name": "中宠股份",
+          "code": "002891",
+          "percent": 5.48,
+          "current_price": 56.1,
+          "change_percentage": 1.23,
+          "xq_symbol": "SZ002891",
+          "xq_url": "https://xueqiu.com/S/SZ002891",
+          "amarket": true
+        },
+        {
+          "name": "新泉股份",
+          "code": "603179",
+          "percent": 5.44,
+          "current_price": 29.58,
+          "change_percentage": -0.74,
+          "xq_symbol": "SH603179",
+          "xq_url": "https://xueqiu.com/S/SH603179",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "005970",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.00"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<180天",
+          "value": "0.500"
+        },
+        {
+          "name": "180天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "彭凌志",
+        "resume": "    彭凌志,硕士研究生,12年证券基金从业经历。2002年7月至2004年7月在上海良友集团有限责任公司任资产管理部科员,2004年9月至2007年3月在上海交通大学学习,2007年3月至2015年8月在平安资产管理有限责任公司任投资经理。2015年9月加入国泰基金管理有限公司,2015年12月起任国泰互联网+股票型证券投资基金和国泰新经济灵活配置混合型证券投资基金的基金经理,2016年6月至2017年9月任国泰金鹿保本增值混合证券投资基金的基金经理,2017年1月至2018年4月任国泰金泰灵活配置混合型证券投资基金(由国泰金泰平衡混合型证券投资基金变更注册而来)的基金经理,2018年5月起兼任国泰优势行业混合型证券投资基金的基金经理,2019年1月起兼任国泰消费优选股票型证券投资基金的基金经理。",
+        "work_year": "13",
+        "achievement_list": [
+          {
+            "fund_code": "005970",
+            "fundsname": "国泰消费优选股票",
+            "post_date": "2019-01-17",
+            "cp_rate": 84.14
+          },
+          {
+            "fund_code": "005819",
+            "fundsname": "国泰优势行业混合",
+            "post_date": "2018-05-17",
+            "cp_rate": 95.35
+          },
+          {
+            "fund_code": "519020",
+            "fundsname": "国泰金泰灵活配置混合A",
+            "post_date": "2017-01-24",
+            "resi_date": "2018-04-27",
+            "cp_rate": -6.4054
+          },
+          {
+            "fund_code": "519022",
+            "fundsname": "国泰金泰灵活配置混合C",
+            "post_date": "2017-01-24",
+            "resi_date": "2018-04-27",
+            "cp_rate": -5.8583
+          },
+          {
+            "fund_code": "020018",
+            "fundsname": "国泰金鹿保本混合",
+            "post_date": "2016-06-08",
+            "resi_date": "2017-09-07",
+            "cp_rate": 1.9609
+          },
+          {
+            "fund_code": "000742",
+            "fundsname": "国泰新经济灵活配置混合",
+            "post_date": "2015-12-01",
+            "cp_rate": 129.5084
+          },
+          {
+            "fund_code": "001542",
+            "fundsname": "国泰互联网+股票",
+            "post_date": "2015-12-01",
+            "cp_rate": 147.7705
+          }
+        ]
+      },
+      {
+        "name": "李海",
+        "resume": "    李海,硕士研究生,9年证券基金从业经历。2005年7月至2007年3月在中国银行中山分行工作。2008年9月至2011年7月在中国人民大学学习。2011年7月加入国泰基金管理有限公司,历任研究员和基金经理助理。2016年6月至2019年1月任国泰金鹿保本增值混合证券投资基金的基金经理,2017年1月起兼任国泰金泰灵活配置混合型证券投资基金(由国泰金泰平衡混合型证券投资基金变更注册而来)的基金经理,2017年8月至2019年8月任国泰智能汽车股票型证券投资基金的基金经理,2017年12月起兼任国泰可转债债券型证券投资基金的基金经理,2019年1月起兼任国泰金鹿混合型证券投资基金(由国泰金鹿保本增值混合证券投资基金转型而来)的基金经理,2019年8月起兼任国泰消费优选股票型证券投资基金的基金经理。",
+        "college": "中国人民大学",
+        "work_year": "9",
+        "achievement_list": [
+          {
+            "fund_code": "005970",
+            "fundsname": "国泰消费优选股票",
+            "post_date": "2019-08-15",
+            "cp_rate": 69.9806
+          },
+          {
+            "fund_code": "020018",
+            "fundsname": "国泰金鹿混合",
+            "post_date": "2019-01-15",
+            "cp_rate": 102.5517
+          },
+          {
+            "fund_code": "005246",
+            "fundsname": "国泰可转债债券",
+            "post_date": "2017-12-28",
+            "resi_date": "2020-09-25",
+            "cp_rate": 31.25
+          },
+          {
+            "fund_code": "001790",
+            "fundsname": "国泰智能汽车股票",
+            "post_date": "2017-08-01",
+            "resi_date": "2019-08-15",
+            "cp_rate": -21.8
+          },
+          {
+            "fund_code": "519020",
+            "fundsname": "国泰金泰灵活配置混合A",
+            "post_date": "2017-01-24",
+            "cp_rate": 89.1117
+          },
+          {
+            "fund_code": "519022",
+            "fundsname": "国泰金泰灵活配置混合C",
+            "post_date": "2017-01-24",
+            "cp_rate": 90.9744
+          },
+          {
+            "fund_code": "020018",
+            "fundsname": "国泰金鹿保本混合",
+            "post_date": "2016-06-08",
+            "resi_date": "2019-01-14",
+            "cp_rate": 5.3256
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "005970",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

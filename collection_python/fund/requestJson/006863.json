@@ -1,0 +1,243 @@
+{
+  "data": {
+    "fund_company": "    国联安基金管理有限公司是国内首家获准筹建的中外合资基金管理公司。由国泰君安证券股份有限公司与德国安联集团(Allianz AG)共同发起设立。公司注册资本为1.5亿人民币,注册地为中国上海。\n    股东介绍\n    强大的中德股东给崭新的国联安基金管理有限公司带来了高质量的人才输送、品牌支持、国际化的视野和管理运作经验以及本土雄厚的研究、市场资源,对公司的产品开发、投资研究、风险管理、市场营销、信息技术、客户服务提供强大支持和保障。\n    国泰君安证券股份有限公司\n    国泰君安证券股份有限公司前身为国泰证券(1992年9月10日成立)和君安证券(1992年8月25日成立), 1999年8月18日两公司合并新设为国泰君安证券股份有限公司(\"国泰君安\"),目前注册资本为61亿元人民币。自成立之日起,国泰君安秉持以客户为中心的服务理念,扎根于国内资本市场,是国内规模最大、经营范围最广、机构分布最广、服务客户最多的证券公司之一,旗下设国泰君安金融控股有限公司(注册地香港)、国泰君安期货有限公司、上海国泰君安证券资产管理有限公司、国泰君安创新投资有限公司、国联安基金管理有限公司5家子公司,在全国30个省、市、自治区设有29家分公司、193个证券营业部。\n    安联集团 (Allianz AG)\n    作为世界领先的金融服务集团之一,安联集团在全球范围提供保险和资产管理解决方案,14.4万名员工在 世界70多个国家和地区为7,800多万客户提供服务。在财产险和责任险,寿险和健康险,及资产管理三大核心 业务领域,安联在全球的32个市场居五强地位。\n    尽管2012年资本市场动荡,安联集团仍取得了坚实的业绩,达到预期目标水平。年度总收入达到1,064亿欧元,经营利润95亿欧元。寿险和健康险领域的保费收入达523亿欧元,财产险和责任险的保费收入增长至469亿欧元。安联同时也是世界最大的资产管理人之一,年内管理的总资产增长11.8%,创18,520亿欧元的记录,截至2012年底管理的第三方资产总额达14,380亿欧元。\n    凭借在全球保险和金融服务领域中坚实的地位和雄厚的财力,安联拥有全球信用等级评审机构如标准普尔(Standard & Poor)的AA评级。安联在2013年美国财富杂志《Fortune》全球500强中列第31位;在2013年福布斯杂志(Forbes)全球2000中排名第25位。",
+    "fund_position": {
+      "stock_percent": 92.61,
+      "cash_percent": 7.24,
+      "other_percent": 0.15,
+      "asset_tot": 31607614.85,
+      "asset_val": 31331227.86,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "伊利股份",
+          "code": "600887",
+          "percent": 9.46,
+          "current_price": 40.68,
+          "change_percentage": 1.24,
+          "xq_symbol": "SH600887",
+          "xq_url": "https://xueqiu.com/S/SH600887",
+          "amarket": true
+        },
+        {
+          "name": "索菲亚",
+          "code": "002572",
+          "percent": 9.34,
+          "current_price": 27.83,
+          "change_percentage": -0.25,
+          "xq_symbol": "SZ002572",
+          "xq_url": "https://xueqiu.com/S/SZ002572",
+          "amarket": true
+        },
+        {
+          "name": "万华化学",
+          "code": "600309",
+          "percent": 9.29,
+          "current_price": 82.99,
+          "change_percentage": -0.3,
+          "xq_symbol": "SH600309",
+          "xq_url": "https://xueqiu.com/S/SH600309",
+          "amarket": true
+        },
+        {
+          "name": "汇川技术",
+          "code": "300124",
+          "percent": 8.5,
+          "current_price": 85.58,
+          "change_percentage": 1.04,
+          "xq_symbol": "SZ300124",
+          "xq_url": "https://xueqiu.com/S/SZ300124",
+          "amarket": true
+        },
+        {
+          "name": "万科A",
+          "code": "000002",
+          "percent": 8.05,
+          "current_price": 29.18,
+          "change_percentage": -0.78,
+          "xq_symbol": "SZ000002",
+          "xq_url": "https://xueqiu.com/S/SZ000002",
+          "amarket": true
+        },
+        {
+          "name": "华鲁恒升",
+          "code": "600426",
+          "percent": 6.26,
+          "current_price": 34.94,
+          "change_percentage": 1.28,
+          "xq_symbol": "SH600426",
+          "xq_url": "https://xueqiu.com/S/SH600426",
+          "amarket": true
+        },
+        {
+          "name": "长城汽车",
+          "code": "601633",
+          "percent": 6.1,
+          "current_price": 25.89,
+          "change_percentage": 3.39,
+          "xq_symbol": "SH601633",
+          "xq_url": "https://xueqiu.com/S/SH601633",
+          "amarket": true
+        },
+        {
+          "name": "老板电器",
+          "code": "002508",
+          "percent": 5.84,
+          "current_price": 40.84,
+          "change_percentage": -0.22,
+          "xq_symbol": "SZ002508",
+          "xq_url": "https://xueqiu.com/S/SZ002508",
+          "amarket": true
+        },
+        {
+          "name": "格力电器",
+          "code": "000651",
+          "percent": 5.78,
+          "current_price": 65.66,
+          "change_percentage": -3.44,
+          "xq_symbol": "SZ000651",
+          "xq_url": "https://xueqiu.com/S/SZ000651",
+          "amarket": true
+        },
+        {
+          "name": "海螺水泥",
+          "code": "600585",
+          "percent": 4.94,
+          "current_price": 53.44,
+          "change_percentage": -1.46,
+          "xq_symbol": "SH600585",
+          "xq_url": "https://xueqiu.com/S/SH600585",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "006863",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "1",
+      "subscribe_discount": "1",
+      "declare_discount": "1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<300万",
+          "value": "1.20"
+        },
+        {
+          "name": "300万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<180天",
+          "value": "0.500"
+        },
+        {
+          "name": "180天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "刘斌",
+        "resume": "    刘斌,硕士研究生,2004年4月至2007年8月在杭州城建设计研究院有限公司担任工程师;2007年9月至2009年8月在群益国际控股有限公司担任行业研究员。2009年8月起加入国联安基金管理有限公司,担任研究员;2013年11月起担任国联安德盛安心成长混合型证券投资基金的基金经理助理。2013年12月起至2015年3月担任国联安德盛安心成长混合型证券投资基金的基金经理,2013年12月起兼任国联安德盛稳健证券投资基金基金经理,自2014年2月起至2015年12月兼任国联安德盛精选混合型证券投资基金的基金经理,2014年6月起至2015年12月兼任国联安通盈灵活配置混合型证券投资基金基金经理,2015年4月起兼任国联安德盛优势混合型证券投资基金基金经理,2019 年4 月起兼任国联安智能制造混合型证券投资基金的基金经理,2019年7 月起兼任国联安远见成长混合型证券投资基金的基金经理。",
+        "work_year": "13",
+        "achievement_list": [
+          {
+            "fund_code": "008878",
+            "fundsname": "国联安新蓝筹红利一年定开混合",
+            "post_date": "2020-08-13",
+            "cp_rate": 7.99
+          },
+          {
+            "fund_code": "005708",
+            "fundsname": "国联安远见成长混合",
+            "post_date": "2019-07-09",
+            "cp_rate": 78.3524
+          },
+          {
+            "fund_code": "006863",
+            "fundsname": "国联安智能制造混合",
+            "post_date": "2019-04-25",
+            "cp_rate": 77.16
+          },
+          {
+            "fund_code": "257030",
+            "fundsname": "国联安德盛优势混合",
+            "post_date": "2015-04-28",
+            "cp_rate": 101.0436
+          },
+          {
+            "fund_code": "000664",
+            "fundsname": "国联安通盈灵活配置混合A",
+            "post_date": "2014-06-13",
+            "resi_date": "2015-12-31",
+            "cp_rate": 20.6012
+          },
+          {
+            "fund_code": "257020",
+            "fundsname": "国联安德盛精选混合",
+            "post_date": "2014-02-15",
+            "resi_date": "2015-12-31",
+            "cp_rate": 82.0472
+          },
+          {
+            "fund_code": "255010",
+            "fundsname": "国联安稳健混合",
+            "post_date": "2013-12-28",
+            "cp_rate": 224.8903
+          },
+          {
+            "fund_code": "253010",
+            "fundsname": "国联安安心成长混合",
+            "post_date": "2013-12-10",
+            "resi_date": "2015-03-06",
+            "cp_rate": 24.685
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "006863",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

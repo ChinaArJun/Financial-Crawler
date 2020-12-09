@@ -1,0 +1,271 @@
+{
+  "data": {
+    "fund_company": "    前海开源基金管理有限公司经中国证监会(证监许可[2012]1751 号文)批准,于 2013 年 1 月 23 日注册成立。公司经营范围:基金募集、基金销售、特定客户资产管理、资产管理和中国证监会许可的其他业务。\n    前海开源基金立足国家金融创新合作区——深圳前海,依托深港紧密合作和融合发展,利用前海“特区中的特区”的区位优势和金融创新先行先试的政策优势,抓住人民币国际化的战略机遇,凭借完善的管理体制和创新的运营机制,吸纳海内外高端人才,全力打造专业化、创新型的现代财富管理机构,积极参与前海大开发和中国资产管理行业二次腾飞的潮流中。",
+    "fund_position": {
+      "stock_percent": 89.37,
+      "cash_percent": 10.31,
+      "other_percent": 0.32,
+      "asset_tot": 50380155.27,
+      "asset_val": 49272836.22,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "片仔癀",
+          "code": "600436",
+          "percent": 8.89,
+          "current_price": 227.97,
+          "change_percentage": 0.29,
+          "xq_symbol": "SH600436",
+          "xq_url": "https://xueqiu.com/S/SH600436",
+          "amarket": true
+        },
+        {
+          "name": "康弘药业",
+          "code": "002773",
+          "percent": 8.23,
+          "current_price": 42.58,
+          "change_percentage": -1.44,
+          "xq_symbol": "SZ002773",
+          "xq_url": "https://xueqiu.com/S/SZ002773",
+          "amarket": true
+        },
+        {
+          "name": "以岭药业",
+          "code": "002603",
+          "percent": 8.23,
+          "current_price": 25.22,
+          "change_percentage": -1.1,
+          "xq_symbol": "SZ002603",
+          "xq_url": "https://xueqiu.com/S/SZ002603",
+          "amarket": true
+        },
+        {
+          "name": "同仁堂",
+          "code": "600085",
+          "percent": 8.21,
+          "current_price": 24.84,
+          "change_percentage": -1.47,
+          "xq_symbol": "SH600085",
+          "xq_url": "https://xueqiu.com/S/SH600085",
+          "amarket": true
+        },
+        {
+          "name": "云南白药",
+          "code": "000538",
+          "percent": 8.15,
+          "current_price": 99.84,
+          "change_percentage": -0.32,
+          "xq_symbol": "SZ000538",
+          "xq_url": "https://xueqiu.com/S/SZ000538",
+          "amarket": true
+        },
+        {
+          "name": "东阿阿胶",
+          "code": "000423",
+          "percent": 7.99,
+          "current_price": 43.97,
+          "change_percentage": -0.68,
+          "xq_symbol": "SZ000423",
+          "xq_url": "https://xueqiu.com/S/SZ000423",
+          "amarket": true
+        },
+        {
+          "name": "天士力",
+          "code": "600535",
+          "percent": 7.55,
+          "current_price": 16.18,
+          "change_percentage": -1.64,
+          "xq_symbol": "SH600535",
+          "xq_url": "https://xueqiu.com/S/SH600535",
+          "amarket": true
+        },
+        {
+          "name": "羚锐制药",
+          "code": "600285",
+          "percent": 7.16,
+          "current_price": 9.31,
+          "change_percentage": 0,
+          "xq_symbol": "SH600285",
+          "xq_url": "https://xueqiu.com/S/SH600285",
+          "amarket": true
+        },
+        {
+          "name": "众生药业",
+          "code": "002317",
+          "percent": 6.93,
+          "current_price": 12.81,
+          "change_percentage": -0.31,
+          "xq_symbol": "SZ002317",
+          "xq_url": "https://xueqiu.com/S/SZ002317",
+          "amarket": true
+        },
+        {
+          "name": "马应龙",
+          "code": "600993",
+          "percent": 6.91,
+          "current_price": 21.29,
+          "change_percentage": -1.48,
+          "xq_symbol": "SH600993",
+          "xq_url": "https://xueqiu.com/S/SH600993",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "005506",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.500"
+        },
+        {
+          "name": "30天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "范洁",
+        "resume": "    范洁女士,香港科技大学、北京协和医学院(清华大学医学部)硕士研究生。2013年11月至2014年7月先后任职于浙商资产管理有限公司、川财证券有限责任公司,2014年7月25日加入前海开源基金管理有限公司,曾任投资经理、研究员、基金经理助理,现任前海开源沪港深优势精选灵活配置混合型证券投资基金基金经理、前海开源医疗健康灵活配置混合型证券投资基金基金经理、前海开源中药研究精选股票型发起式证券投资基金基金经理、前海开源裕瑞混合型证券投资基金基金经理、前海开源裕和混合型证券投资基金基金经理、前海开源沪港深大消费主题精选灵活配置混合型证券投资基金。范洁女士具备基金从业资格。",
+        "college": "香港科技大学",
+        "work_year": "7",
+        "achievement_list": [
+          {
+            "fund_code": "001972",
+            "fundsname": "前海开源沪港深智慧生活混合",
+            "post_date": "2020-07-20",
+            "cp_rate": -0.2226
+          },
+          {
+            "fund_code": "002663",
+            "fundsname": "前海开源沪港深大消费主题混合C",
+            "post_date": "2020-05-14",
+            "cp_rate": 36.9133
+          },
+          {
+            "fund_code": "002662",
+            "fundsname": "前海开源沪港深大消费主题混合A",
+            "post_date": "2020-05-14",
+            "cp_rate": 36.996
+          },
+          {
+            "fund_code": "005506",
+            "fundsname": "前海开源中药研究精选C",
+            "post_date": "2019-12-10",
+            "cp_rate": 19.8011
+          },
+          {
+            "fund_code": "005505",
+            "fundsname": "前海开源中药研究精选A",
+            "post_date": "2019-12-10",
+            "cp_rate": 20.1197
+          },
+          {
+            "fund_code": "007502",
+            "fundsname": "前海开源裕和混合C",
+            "post_date": "2019-07-02",
+            "resi_date": "2020-10-12",
+            "cp_rate": 17.7587
+          },
+          {
+            "fund_code": "004218",
+            "fundsname": "前海开源裕和混合A",
+            "post_date": "2019-07-02",
+            "resi_date": "2020-10-12",
+            "cp_rate": 18.0599
+          },
+          {
+            "fund_code": "006190",
+            "fundsname": "前海开源裕瑞混合C",
+            "post_date": "2019-07-02",
+            "resi_date": "2020-11-25",
+            "cp_rate": 15.9607
+          },
+          {
+            "fund_code": "004680",
+            "fundsname": "前海开源裕瑞混合A",
+            "post_date": "2019-07-02",
+            "resi_date": "2020-11-25",
+            "cp_rate": 16.9398
+          },
+          {
+            "fund_code": "005506",
+            "fundsname": "前海开源丰鑫混合C",
+            "post_date": "2019-05-15",
+            "resi_date": "2019-12-09",
+            "cp_rate": 14.8016
+          },
+          {
+            "fund_code": "005505",
+            "fundsname": "前海开源丰鑫混合A",
+            "post_date": "2019-05-15",
+            "resi_date": "2019-12-09",
+            "cp_rate": 14.8728
+          },
+          {
+            "fund_code": "005453",
+            "fundsname": "前海开源医疗健康A",
+            "post_date": "2018-02-09",
+            "cp_rate": 171.151
+          },
+          {
+            "fund_code": "005454",
+            "fundsname": "前海开源医疗健康C",
+            "post_date": "2018-02-09",
+            "cp_rate": 170.4538
+          },
+          {
+            "fund_code": "001875",
+            "fundsname": "前海开源沪港深优势精选混合",
+            "post_date": "2017-09-05",
+            "cp_rate": 173.5351
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "005506",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

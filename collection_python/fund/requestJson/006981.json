@@ -1,0 +1,213 @@
+{
+  "data": {
+    "fund_company": "    中金基金管理有限公司(简称“中金基金”)成立于2014年2月,由中国国际金融股份有限公司(简称“中金公司”)作为全资股东,是证监会批准设立的第90家公募基金公司,也是首家通过发起设立方式由单一股东100%持股的基金公司。\n    中金公司作为中国第一家中外合资投资银行,致力于为国内外机构及个人客户提供高品质的金融服务。公募基金管理业务是公司长期以来努力拓展的重要领域,中金基金的成立,是中金公司根据资本市场发展趋势,和自身发展需要所作出的重要战略选择。同时,中金基金将充分发挥母公司品牌及资源优势,增强公司整体竞争实力。",
+    "fund_position": {
+      "stock_percent": 92.19,
+      "cash_percent": 7.76,
+      "other_percent": 0.05,
+      "asset_tot": 227199793.79,
+      "asset_val": 224933342.95,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "智飞生物",
+          "code": "300122",
+          "percent": 7,
+          "current_price": 139.38,
+          "change_percentage": -0.39,
+          "xq_symbol": "SZ300122",
+          "xq_url": "https://xueqiu.com/S/SZ300122",
+          "amarket": true
+        },
+        {
+          "name": "金域医学",
+          "code": "603882",
+          "percent": 6.43,
+          "current_price": 99,
+          "change_percentage": 2.27,
+          "xq_symbol": "SH603882",
+          "xq_url": "https://xueqiu.com/S/SH603882",
+          "amarket": true
+        },
+        {
+          "name": "普利制药",
+          "code": "300630",
+          "percent": 6.33,
+          "current_price": 42.62,
+          "change_percentage": -0.77,
+          "xq_symbol": "SZ300630",
+          "xq_url": "https://xueqiu.com/S/SZ300630",
+          "amarket": true
+        },
+        {
+          "name": "康泰生物",
+          "code": "300601",
+          "percent": 5.21,
+          "current_price": 158.41,
+          "change_percentage": -1.36,
+          "xq_symbol": "SZ300601",
+          "xq_url": "https://xueqiu.com/S/SZ300601",
+          "amarket": true
+        },
+        {
+          "name": "华海药业",
+          "code": "600521",
+          "percent": 5.07,
+          "current_price": 35.36,
+          "change_percentage": 2.26,
+          "xq_symbol": "SH600521",
+          "xq_url": "https://xueqiu.com/S/SH600521",
+          "amarket": true
+        },
+        {
+          "name": "华兰生物",
+          "code": "002007",
+          "percent": 5,
+          "current_price": 43.73,
+          "change_percentage": -3.19,
+          "xq_symbol": "SZ002007",
+          "xq_url": "https://xueqiu.com/S/SZ002007",
+          "amarket": true
+        },
+        {
+          "name": "复星医药",
+          "code": "600196",
+          "percent": 4.71,
+          "current_price": 53.53,
+          "change_percentage": -1.02,
+          "xq_symbol": "SH600196",
+          "xq_url": "https://xueqiu.com/S/SH600196",
+          "amarket": true
+        },
+        {
+          "name": "长春高新",
+          "code": "000661",
+          "percent": 4.24,
+          "current_price": 388,
+          "change_percentage": 0.19,
+          "xq_symbol": "SZ000661",
+          "xq_url": "https://xueqiu.com/S/SZ000661",
+          "amarket": true
+        },
+        {
+          "name": "沃森生物",
+          "code": "300142",
+          "percent": 4.04,
+          "current_price": 36.67,
+          "change_percentage": 0.38,
+          "xq_symbol": "SZ300142",
+          "xq_url": "https://xueqiu.com/S/SZ300142",
+          "amarket": true
+        },
+        {
+          "name": "万孚生物",
+          "code": "300482",
+          "percent": 3.87,
+          "current_price": 73.65,
+          "change_percentage": 3.43,
+          "xq_symbol": "SZ300482",
+          "xq_url": "https://xueqiu.com/S/SZ300482",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "006981",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.20"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "1.00"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<90天",
+          "value": "0.500"
+        },
+        {
+          "name": "90天≤持有期限<180天",
+          "value": "0.500"
+        },
+        {
+          "name": "180天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "兰兰",
+        "resume": "    兰兰女士,临床医学学士、神经生物学硕士。历任赛诺菲、拜耳高级医药代表;华创证券、UBS、方正证券医药分析师、高级分析师;中国国际金融股份有限公司资产管理部医药分析师、投资经理助理。现任中金基金管理有限公司组合投资部副总经理。",
+        "achievement_list": [
+          {
+            "fund_code": "501080",
+            "fundsname": "中金科创主题",
+            "post_date": "2019-07-11",
+            "cp_rate": 57.76
+          },
+          {
+            "fund_code": "006981",
+            "fundsname": "中金新医药A",
+            "post_date": "2019-05-14",
+            "cp_rate": 85.97
+          },
+          {
+            "fund_code": "007005",
+            "fundsname": "中金新医药C",
+            "post_date": "2019-05-14",
+            "cp_rate": 84.15
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "006981",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

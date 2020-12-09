@@ -1,0 +1,214 @@
+{
+  "data": {
+    "fund_company": "    景顺长城基金管理有限公司成立于2003年6月12日,是经中国证监会证监基金字[2003]76号文批准设立的国内首家中美合资的基金管理公司。景顺长城基金管理有限公司由景顺集团下属景顺资产管理有限公司与长城证券股份有限公司联合开滦(集团)有限责任公司和大连实德集团有限公司共同发起设立,其中景顺资产管理有限公司和长城证券股份有限公司各持有49%的公司股份。公司注册资本1.3亿元人民币,总部设在深圳,在北京、上海、广州设有分公司。\n    景顺长城秉承“为每一个信赖我们的客户持续地创造财富”的公司宗旨和“客户为先 、投资领先、专业诚信、追求卓越”的经营理念,始终如一地把保护投资者利益放在第一位,力保客户资产的保值增值,致力于成为中国资产管理行业的持续领跑者。作为第一家中美合资的基金管理公司,景顺长城充分利用中外股东的资源优势,引进、吸收、消化景顺集团的全球化视野和资产管理能力,并结合国内市场的特色和实际需要,形成了极具特色的“四大支柱体系”,即管理体系、投资体系、营销体系和技术平台体系,以卓越的绩效、专业的团队、严谨的管理和优质的资源,为投资者创造长期而稳定的收益。目前,景顺长城旗下管理了64只开放式基金,建立了覆盖高中低风险等级的较为完善的产品线,在股票型基金的管理上形成了独特的优势。",
+    "fund_position": {
+      "stock_percent": 87.3,
+      "cash_percent": 12.64,
+      "other_percent": 0.06,
+      "asset_tot": 1814291604.68,
+      "asset_val": 1786511376.95,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "信义光能",
+          "code": "00968",
+          "percent": 5.86,
+          "xq_symbol": "00968",
+          "xq_url": "https://xueqiu.com/S/00968",
+          "amarket": false
+        },
+        {
+          "name": "腾讯控股",
+          "code": "00700",
+          "percent": 4.98,
+          "xq_symbol": "00700",
+          "xq_url": "https://xueqiu.com/S/00700",
+          "amarket": false
+        },
+        {
+          "name": "美团-W",
+          "code": "03690",
+          "percent": 4.88,
+          "xq_symbol": "03690",
+          "xq_url": "https://xueqiu.com/S/03690",
+          "amarket": false
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 4.09,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "药明生物",
+          "code": "02269",
+          "percent": 3.68,
+          "xq_symbol": "02269",
+          "xq_url": "https://xueqiu.com/S/02269",
+          "amarket": false
+        },
+        {
+          "name": "金蝶国际",
+          "code": "00268",
+          "percent": 3.4,
+          "xq_symbol": "00268",
+          "xq_url": "https://xueqiu.com/S/00268",
+          "amarket": false
+        },
+        {
+          "name": "鹏鼎控股",
+          "code": "002938",
+          "percent": 3.18,
+          "current_price": 54.51,
+          "change_percentage": -2.14,
+          "xq_symbol": "SZ002938",
+          "xq_url": "https://xueqiu.com/S/SZ002938",
+          "amarket": true
+        },
+        {
+          "name": "南极电商",
+          "code": "002127",
+          "percent": 2.75,
+          "current_price": 15.72,
+          "change_percentage": -2.84,
+          "xq_symbol": "SZ002127",
+          "xq_url": "https://xueqiu.com/S/SZ002127",
+          "amarket": true
+        },
+        {
+          "name": "敏实集团",
+          "code": "00425",
+          "percent": 2.47,
+          "xq_symbol": "00425",
+          "xq_url": "https://xueqiu.com/S/00425",
+          "amarket": false
+        },
+        {
+          "name": "三七互娱",
+          "code": "002555",
+          "percent": 2.46,
+          "current_price": 29.38,
+          "change_percentage": 4,
+          "xq_symbol": "SZ002555",
+          "xq_url": "https://xueqiu.com/S/SZ002555",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "004476",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.00"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.30"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "詹成",
+        "resume": "    詹成先生,通信电子工程博士。曾担任英国诺基亚研发中心研究员。2011年7月加入景顺长城基金管理有限公司,历任研究部研究员、专户投资部投资经理,自2015年12月起担任股票投资部基金经理。具有8年证券、基金行业从业经验。",
+        "work_year": "9",
+        "achievement_list": [
+          {
+            "fund_code": "009598",
+            "fundsname": "景顺长城科技创新三年定期开放混合",
+            "post_date": "2020-06-30",
+            "cp_rate": 2.75
+          },
+          {
+            "fund_code": "008657",
+            "fundsname": "景顺长城科技创新混合",
+            "post_date": "2020-03-18",
+            "cp_rate": 41.8642
+          },
+          {
+            "fund_code": "005914",
+            "fundsname": "景顺长城智能生活混合",
+            "post_date": "2019-01-31",
+            "cp_rate": 103.67
+          },
+          {
+            "fund_code": "004476",
+            "fundsname": "景顺长城沪港深领先科技股票",
+            "post_date": "2017-07-07",
+            "cp_rate": 105.9
+          },
+          {
+            "fund_code": "000020",
+            "fundsname": "景顺长城品质投资混合",
+            "post_date": "2015-12-29",
+            "cp_rate": 120.7592
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "004476",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 4,
+      "all_buy_days": 2,
+      "all_sale_days": 5
+    }
+  },
+  "result_code": 0
+}

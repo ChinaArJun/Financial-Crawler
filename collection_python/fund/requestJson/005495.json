@@ -1,0 +1,218 @@
+{
+  "data": {
+    "fund_company": "    创金合信基金管理有限公司由第一创业证券股份有限公司(占70%)、深圳市金合信投资合伙企业(有限合伙)(占30%)共同发起设立。注册资本:1.7亿元人民币。注册地:深圳。创金合信基金倡导合伙文化,实施合伙制,并在投研体系着力打造吸引并留住优秀人才的平台:事业部制和工作室。\n    第一创业证券股份有限公司是经中国证监会批准,由华熙昕宇、首创集团等多家实力雄厚的股东投资设立的全国性综合类证券公司。公司注册地在深圳市,注册资本金为人民币21.89亿元人民币,,总部设在深圳,员工总数超过1900人。2016年5月11日,公司首次公开发行股票并在深圳证券交易所上市交易,证券简称 “第一创业”,证券代码“002797”。深圳金合信投资合伙企业(有限合伙)由创金合信基金经营管理层及多名核心员工投资设立,仅用于持有创金合信基金股权。\n    创金合信基金成立于2014年7月,员工基于第一创业证券创金资产团队。创金资产团队于2010年初组建,曾屡次获得权威奖项。创金资产团队2012年、2013年连续两次获《上海证券报》中国券商理财金榜评选“综合管理实力大奖”;创金资产团队2013年获《中国证券报》金牛理财网“金牛券商集合资产管理人奖”;创金资产品牌2013年、2014年连续两次获《证券时报》中国最佳财富管理机构评选“中国最佳财富管理品牌”。",
+    "fund_position": {
+      "stock_percent": 88.77,
+      "bond_percent": 1.44,
+      "cash_percent": 9.6,
+      "other_percent": 0.19,
+      "asset_tot": 714456484.12,
+      "asset_val": 697493171.93,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 5.28,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "赣锋锂业",
+          "code": "002460",
+          "percent": 4.69,
+          "current_price": 82.24,
+          "change_percentage": 3.06,
+          "xq_symbol": "SZ002460",
+          "xq_url": "https://xueqiu.com/S/SZ002460",
+          "amarket": true
+        },
+        {
+          "name": "鹏鼎控股",
+          "code": "002938",
+          "percent": 3.96,
+          "current_price": 54.51,
+          "change_percentage": -2.14,
+          "xq_symbol": "SZ002938",
+          "xq_url": "https://xueqiu.com/S/SZ002938",
+          "amarket": true
+        },
+        {
+          "name": "TCL科技",
+          "code": "000100",
+          "percent": 3.89,
+          "current_price": 7.16,
+          "change_percentage": 1.42,
+          "xq_symbol": "SZ000100",
+          "xq_url": "https://xueqiu.com/S/SZ000100",
+          "amarket": true
+        },
+        {
+          "name": "歌尔股份",
+          "code": "002241",
+          "percent": 3.56,
+          "current_price": 37.16,
+          "change_percentage": -2.24,
+          "xq_symbol": "SZ002241",
+          "xq_url": "https://xueqiu.com/S/SZ002241",
+          "amarket": true
+        },
+        {
+          "name": "京东方A",
+          "code": "000725",
+          "percent": 3.39,
+          "current_price": 5.25,
+          "change_percentage": -0.57,
+          "xq_symbol": "SZ000725",
+          "xq_url": "https://xueqiu.com/S/SZ000725",
+          "amarket": true
+        },
+        {
+          "name": "宁德时代",
+          "code": "300750",
+          "percent": 3.04,
+          "current_price": 266.03,
+          "change_percentage": 1.75,
+          "xq_symbol": "SZ300750",
+          "xq_url": "https://xueqiu.com/S/SZ300750",
+          "amarket": true
+        },
+        {
+          "name": "中兴通讯",
+          "code": "000063",
+          "percent": 3.03,
+          "current_price": 33.8,
+          "change_percentage": -0.03,
+          "xq_symbol": "SZ000063",
+          "xq_url": "https://xueqiu.com/S/SZ000063",
+          "amarket": true
+        },
+        {
+          "name": "新宙邦",
+          "code": "300037",
+          "percent": 2.88,
+          "current_price": 99.89,
+          "change_percentage": 12.22,
+          "xq_symbol": "SZ300037",
+          "xq_url": "https://xueqiu.com/S/SZ300037",
+          "amarket": true
+        },
+        {
+          "name": "通富微电",
+          "code": "002156",
+          "percent": 2.83,
+          "current_price": 29.33,
+          "change_percentage": 2.37,
+          "xq_symbol": "SZ002156",
+          "xq_url": "https://xueqiu.com/S/SZ002156",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "20国债01",
+          "code": "019627",
+          "percent": 1.48,
+          "xq_symbol": "019627",
+          "xq_url": "https://xueqiu.com/S/019627",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "005495",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.00"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<180天",
+          "value": "0.500"
+        },
+        {
+          "name": "180天≤持有期限<365天",
+          "value": "0.250"
+        },
+        {
+          "name": "365天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "周志敏",
+        "resume": "    周志敏先生,中国国籍,清华大学学士,中国科学院研究生院博士。历任广发证券股份有限公司研究员,第一创证券股份有限公司研究员,从事行业研究工作。2014年8月加入创金合信基金管理有限公司,曾任研究部研究,现任创金合信科技成长主题股票型发起式证券投资基金基金经理(2017年12月28日起任职)。",
+        "college": "清华大学,中国科学院",
+        "achievement_list": [
+          {
+            "fund_code": "005495",
+            "fundsname": "创金合信科技成长股票A",
+            "post_date": "2017-12-28",
+            "cp_rate": 83.3
+          },
+          {
+            "fund_code": "005496",
+            "fundsname": "创金合信科技成长股票C",
+            "post_date": "2017-12-28",
+            "cp_rate": 80.14
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "005495",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 2,
+      "all_buy_days": 2,
+      "all_sale_days": 3
+    }
+  },
+  "result_code": 0
+}

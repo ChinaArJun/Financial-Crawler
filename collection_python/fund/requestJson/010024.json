@@ -1,0 +1,419 @@
+{
+  "data": {
+    "fund_company": "    广发基金管理有限公司经中国证监会证监基金字[2003]91号文批准,于2003年8月5日成立,是业内第30家成立的基金管理公司,总部设在广州,公司注册资本金12688万元人民币。公司及旗下子公司目前拥有公募基金管理、社保基金境内委托投资管理人、基本养老保险基金证券投资管理机构、特定客户资产管理、QDII、RQFII、QFII、受托管理保险资金投资管理人和保险保障基金委托资产管理投资管理人等业务资格,具备多种业务的综合资产管理能力与经验。\n    截至2016年12月31日,公司管理125只开放式基金,管理公募基金资产规模为3048亿元,长期位居行业前列。公司旗下产品覆盖主动权益、债券、货币、海外投资、被动投资、量化对冲、另类投资等不同类别,产品线齐全。公司曾获五届中国证券报“金牛基金管理公司”奖项、两届“固定收益投资金牛基金公司”奖项,连续两届获得“海外投资金牛基金公司”奖项,获七届证券时报“明星基金管理公司”奖项,是行业最全的QDII产品提供商,业内最全的行业ETF产品提供商,在业内首创公募基金大数据先河。同时,公司还管理着多个特定客户资产管理投资组合、社保基金投资组合、养老基金投资组合。\n    公司坚持“专业创造价值、客户利益至上”的经营理念,以完备的产品供给、策略供给、区域供给为基础,构建多元投资能力、顶层资产配置能力,致力成为优秀的全能型资产管理公司,为投资者谋求长期稳定的收益,为我国资本市场的繁荣与发展贡献一份力量。",
+    "fund_position": {
+      "stock_percent": 88.02,
+      "bond_percent": 0.95,
+      "cash_percent": 10.65,
+      "other_percent": 0.38,
+      "asset_tot": 5288577099.07,
+      "asset_val": 5200128106.21,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "腾讯控股",
+          "code": "00700",
+          "percent": 8.57,
+          "xq_symbol": "00700",
+          "xq_url": "https://xueqiu.com/S/00700",
+          "amarket": false
+        },
+        {
+          "name": "美团-W",
+          "code": "03690",
+          "percent": 8.48,
+          "xq_symbol": "03690",
+          "xq_url": "https://xueqiu.com/S/03690",
+          "amarket": false
+        },
+        {
+          "name": "申洲国际",
+          "code": "02313",
+          "percent": 6.59,
+          "xq_symbol": "02313",
+          "xq_url": "https://xueqiu.com/S/02313",
+          "amarket": false
+        },
+        {
+          "name": "爱康医疗",
+          "code": "01789",
+          "percent": 6.33,
+          "xq_symbol": "01789",
+          "xq_url": "https://xueqiu.com/S/01789",
+          "amarket": false
+        },
+        {
+          "name": "友邦保险",
+          "code": "01299",
+          "percent": 5.89,
+          "xq_symbol": "01299",
+          "xq_url": "https://xueqiu.com/S/01299",
+          "amarket": false
+        },
+        {
+          "name": "颐海国际",
+          "code": "01579",
+          "percent": 5.8,
+          "xq_symbol": "01579",
+          "xq_url": "https://xueqiu.com/S/01579",
+          "amarket": false
+        },
+        {
+          "name": "思摩尔国际",
+          "code": "06969",
+          "percent": 5.38,
+          "xq_symbol": "06969",
+          "xq_url": "https://xueqiu.com/S/06969",
+          "amarket": false
+        },
+        {
+          "name": "小米集团-W",
+          "code": "01810",
+          "percent": 4.78,
+          "xq_symbol": "01810",
+          "xq_url": "https://xueqiu.com/S/01810",
+          "amarket": false
+        },
+        {
+          "name": "信义光能",
+          "code": "00968",
+          "percent": 4.19,
+          "xq_symbol": "00968",
+          "xq_url": "https://xueqiu.com/S/00968",
+          "amarket": false
+        },
+        {
+          "name": "药明生物",
+          "code": "02269",
+          "percent": 3.86,
+          "xq_symbol": "02269",
+          "xq_url": "https://xueqiu.com/S/02269",
+          "amarket": false
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "20国债01",
+          "code": "019627",
+          "percent": 0.96,
+          "xq_symbol": "019627",
+          "xq_url": "https://xueqiu.com/S/019627",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "010024",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.500"
+        },
+        {
+          "name": "30天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.40"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "李耀柱",
+        "resume": "    李耀柱先生,理学硕士,持有中国证券投资基金业从业证书。曾任广发基金管理有限公司中央交易部股票交易员、 国际业务部研究员、基金经理助理、国际业务部总经理助理、广发亚太中高收益债券型证券投资基金基金经理(自2016年8月23日至2017年11月9日)、广发全球医疗保健指数证券投资基金基金经理(自2016年8月23日至2018年9月20日)、广发美国房地产指数证券投资基金基金经理(自2016年8月23日至2018年9月20日)、广发纳斯达克生物科技指数型发起式证券投资基金基金经理(自2016年8月23日至2018年9月20日)、广发标普全球农业指数证券投资基金基金经理(自2016年8月23日至2018年9月20日)、广发港股通恒生综合中型股指数证券投资基金(LOF)基金经理(自2017年9月21日至2018年10月16日)、广发道琼斯美国石油开发与生产指数证券投资基金(QDII-LOF)基金经理(自2017年3月10日至2019年4月12日)、广发纳斯达克100指数证券投资基金基金经理(自2016年8月23日至2019年4月12日)、广发纳斯达克100交易型开放式指数证券投资基金基金经理(自2015年12月17日至2020年2月14日)、广发消费升级股票型证券投资基金基金经理(自2019年5月27日至2020年7月31日)、广发恒生中国企业精明指数型发起式证券投资基金(QDII)基金经理(自2019年3月7日至2020年8月10日)、广发港股通优质增长混合型证券投资基金基金经理(自2019年5月6日至2020年8月10日)。现任广发基金管理有限公司国际业务部副总经理,兼任广发国际资产管理有限公司投资总监、广发沪港深新起点股票型证券投资基金基金经理(自2016年11月9日起任职)、广发海外多元配置证券投资基金(QDII)基金经理(自2018年2月8日起任职)、广发科技动力股票型证券投资基金基金经理(自2018年5月31日起任职)、广发高股息优享混合型证券投资基金基金经理(自2020年1月20日起任职)、广发中小盘精选混合型证券投资基金基金经理(自2020年2月14日起任职)、广发港股通成长精选股票型证券投资基金基金经理(自2020年9月10日起任职)、广发瑞福精选混合型证券投资基金基金经理(自2020年11月10日起任职)。",
+        "work_year": "10",
+        "achievement_list": [
+          {
+            "fund_code": "010453",
+            "fundsname": "广发瑞福精选混合C",
+            "post_date": "2020-11-10",
+            "cp_rate": 0.01
+          },
+          {
+            "fund_code": "010452",
+            "fundsname": "广发瑞福精选混合A",
+            "post_date": "2020-11-10",
+            "cp_rate": 0.04
+          },
+          {
+            "fund_code": "010024",
+            "fundsname": "广发沪港深新起点股票C",
+            "post_date": "2020-09-22",
+            "cp_rate": 3.2457
+          },
+          {
+            "fund_code": "009897",
+            "fundsname": "广发港股通成长精选股票C",
+            "post_date": "2020-09-10",
+            "cp_rate": -0.09
+          },
+          {
+            "fund_code": "009896",
+            "fundsname": "广发港股通成长精选股票A",
+            "post_date": "2020-09-10",
+            "cp_rate": 0.01
+          },
+          {
+            "fund_code": "005598",
+            "fundsname": "广发中小盘精选混合",
+            "post_date": "2020-02-14",
+            "cp_rate": 38.7071
+          },
+          {
+            "fund_code": "008705",
+            "fundsname": "广发高股息优享混合C",
+            "post_date": "2020-01-20",
+            "cp_rate": 23.97
+          },
+          {
+            "fund_code": "008704",
+            "fundsname": "广发高股息优享混合A",
+            "post_date": "2020-01-20",
+            "cp_rate": 24.41
+          },
+          {
+            "fund_code": "006671",
+            "fundsname": "广发消费升级股票",
+            "post_date": "2019-05-27",
+            "resi_date": "2020-07-31",
+            "cp_rate": 65.7
+          },
+          {
+            "fund_code": "006595",
+            "fundsname": "广发港股通优质增长混合",
+            "post_date": "2019-05-06",
+            "resi_date": "2020-08-10",
+            "cp_rate": 48.66
+          },
+          {
+            "fund_code": "006779",
+            "fundsname": "广发恒生中国企业精明指数(QDII)C",
+            "post_date": "2019-03-07",
+            "resi_date": "2020-08-10",
+            "cp_rate": -4.53
+          },
+          {
+            "fund_code": "006778",
+            "fundsname": "广发恒生中国企业精明指数(QDII)A",
+            "post_date": "2019-03-07",
+            "resi_date": "2020-08-10",
+            "cp_rate": -4.94
+          },
+          {
+            "fund_code": "006680",
+            "fundsname": "广发道琼斯石油指数C美元(QDII)",
+            "post_date": "2019-01-28",
+            "resi_date": "2019-04-12",
+            "cp_rate": 3.4629
+          },
+          {
+            "fund_code": "006679",
+            "fundsname": "广发道琼斯石油指数A美元(QDII-LOF)",
+            "post_date": "2019-01-28",
+            "resi_date": "2019-04-12",
+            "cp_rate": 3.4925
+          },
+          {
+            "fund_code": "006480",
+            "fundsname": "广发纳斯达克100指数C(美元现汇)",
+            "post_date": "2018-10-25",
+            "resi_date": "2019-04-12",
+            "cp_rate": 8.2913
+          },
+          {
+            "fund_code": "006479",
+            "fundsname": "广发纳斯达克100指数C(QDII)",
+            "post_date": "2018-10-25",
+            "resi_date": "2019-04-12",
+            "cp_rate": 4.6555
+          },
+          {
+            "fund_code": "005777",
+            "fundsname": "广发科技动力股票",
+            "post_date": "2018-05-31",
+            "cp_rate": 104.4
+          },
+          {
+            "fund_code": "005558",
+            "fundsname": "广发海外多元配置(QDII)美元",
+            "post_date": "2018-02-08",
+            "resi_date": "2020-09-24",
+            "cp_rate": 3.5465
+          },
+          {
+            "fund_code": "005557",
+            "fundsname": "广发海外多元配置(QDII)人民币",
+            "post_date": "2018-02-08",
+            "resi_date": "2020-09-24",
+            "cp_rate": 11.13
+          },
+          {
+            "fund_code": "004996",
+            "fundsname": "广发恒生中型股指数(LOF)C",
+            "post_date": "2017-09-21",
+            "resi_date": "2018-10-16",
+            "cp_rate": -18.55
+          },
+          {
+            "fund_code": "501303",
+            "fundsname": "广发恒生中型股指数(LOF)A",
+            "post_date": "2017-09-21",
+            "resi_date": "2018-10-16",
+            "cp_rate": -18.45
+          },
+          {
+            "fund_code": "004243",
+            "fundsname": "广发道琼斯石油指数C人民币(QDII)",
+            "post_date": "2017-03-10",
+            "resi_date": "2019-04-12",
+            "cp_rate": -1.7109
+          },
+          {
+            "fund_code": "162719",
+            "fundsname": "广发道琼斯石油指数A人民币(QDII-LOF)",
+            "post_date": "2017-03-10",
+            "resi_date": "2019-04-12",
+            "cp_rate": -2.5308
+          },
+          {
+            "fund_code": "002121",
+            "fundsname": "广发沪港深新起点股票A",
+            "post_date": "2016-11-09",
+            "cp_rate": 92.1648
+          },
+          {
+            "fund_code": "000274",
+            "fundsname": "广发亚太债(QDII-人民币)",
+            "post_date": "2016-08-23",
+            "resi_date": "2017-11-09",
+            "cp_rate": 4.157
+          },
+          {
+            "fund_code": "000180",
+            "fundsname": "广发美国房地产(QDII)(美元)",
+            "post_date": "2016-08-23",
+            "resi_date": "2018-09-20",
+            "cp_rate": -2.0087
+          },
+          {
+            "fund_code": "000179",
+            "fundsname": "广发美国房地产(QDII)(人民币)",
+            "post_date": "2016-08-23",
+            "resi_date": "2018-09-20",
+            "cp_rate": 0.8656
+          },
+          {
+            "fund_code": "270042",
+            "fundsname": "广发纳斯达克100指数A(QDII)",
+            "post_date": "2016-08-23",
+            "resi_date": "2019-04-12",
+            "cp_rate": 56.7159
+          },
+          {
+            "fund_code": "270027",
+            "fundsname": "广发全球农业指数(QDII)",
+            "post_date": "2016-08-23",
+            "resi_date": "2018-09-20",
+            "cp_rate": 14.4665
+          },
+          {
+            "fund_code": "000275",
+            "fundsname": "广发亚太债(QDII-美元)",
+            "post_date": "2016-08-23",
+            "resi_date": "2017-11-09",
+            "cp_rate": 4.5623
+          },
+          {
+            "fund_code": "000369",
+            "fundsname": "广发全球医疗保健(QDII)(人民币)",
+            "post_date": "2016-08-23",
+            "resi_date": "2018-09-20",
+            "cp_rate": 21.9797
+          },
+          {
+            "fund_code": "000370",
+            "fundsname": "广发全球医疗保健(QDII)(美元)",
+            "post_date": "2016-08-23",
+            "resi_date": "2018-09-20",
+            "cp_rate": 18.438
+          },
+          {
+            "fund_code": "000885",
+            "fundsname": "广发全球农业指数(美元现汇)",
+            "post_date": "2016-08-23",
+            "resi_date": "2018-09-20",
+            "cp_rate": 11.1379
+          },
+          {
+            "fund_code": "000055",
+            "fundsname": "广发纳斯达克100指数A(美元现汇)",
+            "post_date": "2016-08-23",
+            "resi_date": "2019-04-12",
+            "cp_rate": 55.5597
+          },
+          {
+            "fund_code": "001092",
+            "fundsname": "广发生物科技指数(QDII)(人民币)",
+            "post_date": "2016-08-23",
+            "resi_date": "2018-09-20",
+            "cp_rate": 20.5556
+          },
+          {
+            "fund_code": "001093",
+            "fundsname": "广发生物科技指数(QDII)(美元)",
+            "post_date": "2016-08-23",
+            "resi_date": "2018-09-20",
+            "cp_rate": 17.0118
+          },
+          {
+            "fund_code": "159941",
+            "fundsname": "广发纳斯达克100ETF",
+            "post_date": "2015-12-17",
+            "resi_date": "2020-02-14",
+            "cp_rate": 111.2392
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "010024",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 4,
+      "all_buy_days": 2,
+      "all_sale_days": 5
+    }
+  },
+  "result_code": 0
+}

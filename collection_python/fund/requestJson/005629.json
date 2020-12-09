@@ -1,0 +1,214 @@
+{
+  "data": {
+    "fund_company": "    汇安基金管理有限责任公司,于2016年4月19日获中国证监会批复,4月25日正式成立,是业内首家全自然人、由内部核心专业人士控股的公募基金管理公司,注册资本1亿元,注册地为上海,设北京、上海双总部。汇安基金在人员的专业性、风控的重视性、决策的高效性三个维度形成了高度统一,建立了独特的竞争优势。\n    我们的使命是:汇集客户资金,努力创造持续安心的回报; 汇集人才志士,搭建安心的职业平台;汇集合作伙伴,打造广阔的事业愿景。公司致力于构建更加全面、出色的资产管理服务。汇安基金的核心价值观是:诚信、创新、简单、高效、分享。\n    汇安基金实行全员风险管理机制,建立了涵盖投资风险、运作风险和法律合规风险在内的严密、全面的内部风险控制体系。在汇安基金,风控与合规不仅是制度约束,更是每位员工由内而外的主动意识。\n    汇安基金采用“量化影子评级系统”,配合资深分析师自下而上的基本面分析,力争寻找在各种环境下均能良好发展的优质企业,并通过有效全面的市场覆盖,高效专业的交易投资团队,寻找市场上出现的估值认知偏差,力求持续稳健的回报。\n    汇安基金团队具有丰富的行业经验,核心团队从业年限平均十年以上。公司管理层团队主要来自国内各大型基金公司及金融机构。汇安基金高素质人才战略,并汇聚了高学历、高素质的年轻一代,共同打造了一支专业、职业的卓越团队。",
+    "fund_position": {
+      "stock_percent": 81.41,
+      "cash_percent": 17.68,
+      "other_percent": 0.91,
+      "asset_tot": 3832900.28,
+      "asset_val": 3660449.95,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "宁德时代",
+          "code": "300750",
+          "percent": 5.72,
+          "current_price": 266.03,
+          "change_percentage": 1.75,
+          "xq_symbol": "SZ300750",
+          "xq_url": "https://xueqiu.com/S/SZ300750",
+          "amarket": true
+        },
+        {
+          "name": "赛腾股份",
+          "code": "603283",
+          "percent": 5.12,
+          "current_price": 41.5,
+          "change_percentage": -0.5,
+          "xq_symbol": "SH603283",
+          "xq_url": "https://xueqiu.com/S/SH603283",
+          "amarket": true
+        },
+        {
+          "name": "蓝思科技",
+          "code": "300433",
+          "percent": 4.65,
+          "current_price": 33.15,
+          "change_percentage": -0.93,
+          "xq_symbol": "SZ300433",
+          "xq_url": "https://xueqiu.com/S/SZ300433",
+          "amarket": true
+        },
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 4.1,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "中航沈飞",
+          "code": "600760",
+          "percent": 3.91,
+          "current_price": 62.1,
+          "change_percentage": -1.08,
+          "xq_symbol": "SH600760",
+          "xq_url": "https://xueqiu.com/S/SH600760",
+          "amarket": true
+        },
+        {
+          "name": "航天发展",
+          "code": "000547",
+          "percent": 3.72,
+          "current_price": 22.8,
+          "change_percentage": 0.31,
+          "xq_symbol": "SZ000547",
+          "xq_url": "https://xueqiu.com/S/SZ000547",
+          "amarket": true
+        },
+        {
+          "name": "云南铜业",
+          "code": "000878",
+          "percent": 3.69,
+          "current_price": 15.35,
+          "change_percentage": -2.23,
+          "xq_symbol": "SZ000878",
+          "xq_url": "https://xueqiu.com/S/SZ000878",
+          "amarket": true
+        },
+        {
+          "name": "中航高科",
+          "code": "600862",
+          "percent": 3.34,
+          "current_price": 25.12,
+          "change_percentage": -1.49,
+          "xq_symbol": "SH600862",
+          "xq_url": "https://xueqiu.com/S/SH600862",
+          "amarket": true
+        },
+        {
+          "name": "中航机电",
+          "code": "002013",
+          "percent": 3.32,
+          "current_price": 11.2,
+          "change_percentage": 6.16,
+          "xq_symbol": "SZ002013",
+          "xq_url": "https://xueqiu.com/S/SZ002013",
+          "amarket": true
+        },
+        {
+          "name": "国金证券",
+          "code": "600109",
+          "percent": 3.22,
+          "current_price": 17.76,
+          "change_percentage": 1.08,
+          "xq_symbol": "SH600109",
+          "xq_url": "https://xueqiu.com/S/SH600109",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "005629",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.500"
+        },
+        {
+          "name": "30天≤持有期限<180天",
+          "value": "0.000"
+        },
+        {
+          "name": "6月≤持有期限<12月",
+          "value": "0.000"
+        },
+        {
+          "name": "1年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.50"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "周加文",
+        "resume": "    复旦大学电子信息科学与技术学士,布兰迪斯大学国际经济与金融硕士,12年证券、基金行业从业经验。2007年任职于美国对冲基金和券商从事美股和美国中概股分析工作,2010年加入华夏基金研究部从事A股行业研究,2012年加入中信产业基金金融市场部任高级行业研究员,2013年加入嘉实基金任高级分析师和股票基金经理。2018年11月加入汇安基金管理有限责任公司,任权益研究部总监、权益投资部副总监一职。2016年10月10日至2018年10月16日,任嘉实创新成长灵活配置混合型证券投资基金基金经理。",
+        "college": "布兰迪斯大学",
+        "work_year": "13",
+        "achievement_list": [
+          {
+            "fund_code": "005629",
+            "fundsname": "汇安趋势动力股票C",
+            "post_date": "2020-06-03",
+            "cp_rate": 5.7856
+          },
+          {
+            "fund_code": "005628",
+            "fundsname": "汇安趋势动力股票A",
+            "post_date": "2020-06-03",
+            "cp_rate": 6.0581
+          },
+          {
+            "fund_code": "005360",
+            "fundsname": "汇安资产轮动灵活配置混合",
+            "post_date": "2019-03-13",
+            "cp_rate": -10.5649
+          },
+          {
+            "fund_code": "001760",
+            "fundsname": "嘉实创新成长混合",
+            "post_date": "2016-10-10",
+            "resi_date": "2018-10-16",
+            "cp_rate": -15.444
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "005629",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

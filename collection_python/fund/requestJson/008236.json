@@ -1,0 +1,264 @@
+{
+  "data": {
+    "fund_company": "    招商基金管理有限公司于2002年12月27日经中国证监会(2002)100号文批准设立,是中国第一家中外合资基金管理公司。公司的经营范围包括发起设立基金、基金管理业务和中国证监会批准的其它业务。\n    经招商基金管理有限公司(以下简称“本公司”)股东会审议通过,并经中国证券监督管理委员会证监许可[2013]1074号文批复同意。目前,本公司的股东股权结构为:招商银行股份有限公司持有公司全部股权的55%,招商证券股份有限公司持有公司全部股权的45%。公司注册资本金为2.1亿元人民币。目前,招商基金拥有两家全资子公司,分别为招商财富资产管理有限公司和招商资产管理(香港)有限公司。\n    招商基金以“为投资者创造更多价值”为使命,秉承诚信、理性、专业、协作、成长的核心价值观,努力成为中国资产管理行业具有差异化竞争优势、一流品牌的资产管理公司。",
+    "fund_position": {
+      "bond_percent": 3.92,
+      "cash_percent": 4.84,
+      "other_percent": 91.24,
+      "asset_tot": 6854462.06,
+      "asset_val": 6512387.53,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [],
+      "bond_list": [
+        {
+          "name": "20国债01",
+          "code": "019627",
+          "percent": 2.3,
+          "xq_symbol": "019627",
+          "xq_url": "https://xueqiu.com/S/019627",
+          "amarket": false
+        },
+        {
+          "name": "国开2004",
+          "code": "018013",
+          "percent": 1.53,
+          "xq_symbol": "018013",
+          "xq_url": "https://xueqiu.com/S/018013",
+          "amarket": false
+        },
+        {
+          "name": "开贴2002",
+          "code": "108609",
+          "percent": 0.29,
+          "xq_symbol": "108609",
+          "xq_url": "https://xueqiu.com/S/108609",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "008236",
+      "subscribe_rate": "0",
+      "declare_rate": "1.20",
+      "withdraw_rate": "1.500",
+      "discount": "1",
+      "subscribe_discount": "1",
+      "declare_discount": "1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.20"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "0.50"
+        },
+        {
+          "name": "500万≤买入金额<1000万",
+          "value": "0.10"
+        },
+        {
+          "name": "1000万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.100"
+        },
+        {
+          "name": "30天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.10"
+        },
+        {
+          "name": "基金管理费",
+          "value": "0.20"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "刘重杰",
+        "resume": "    刘重杰先生,大学本科。曾任职于成都商报社、西南财经大学金融数据中心、南京大学金陵学院;2010年7月加入华西期货有限责任公司,历任金融工程部高级研究员、部门负责人;2014年3月加入西南证券股份有限公司,历任衍生品业务岗、平仓处置岗、策略研究岗、投资者教育及培训岗;2017年9月加入招商基金管理有限公司,现任招商深证100交易型开放式指数证券投资基金基金经理(管理时间:2019年11月7日至今)、招商中证红利交易型开放式指数证券投资基金基金经理(管理时间:2019年11月28日至今)、招商深证100交易型开放式指数证券投资基金联接基金基金经理(管理时间:2020年3月11日至今)、招商中证浙江100交易型开放式指数证券投资基金基金经理(管理时间:2020年8月3日至今)。",
+        "achievement_list": [
+          {
+            "fund_code": "217019",
+            "fundsname": "招商深证TMT50ETF联接A",
+            "post_date": "2020-08-11",
+            "cp_rate": 1.8571
+          },
+          {
+            "fund_code": "150200",
+            "fundsname": "券商A",
+            "post_date": "2020-08-11",
+            "resi_date": "2020-12-31",
+            "cp_rate": 1.3667
+          },
+          {
+            "fund_code": "150201",
+            "fundsname": "券商B",
+            "post_date": "2020-08-11",
+            "resi_date": "2020-12-31",
+            "cp_rate": 1.5898
+          },
+          {
+            "fund_code": "004407",
+            "fundsname": "招商上证消费80ETF联接C",
+            "post_date": "2020-08-11",
+            "cp_rate": 6.3532
+          },
+          {
+            "fund_code": "510150",
+            "fundsname": "招商上证消费80ETF",
+            "post_date": "2020-08-11",
+            "cp_rate": 6.8575
+          },
+          {
+            "fund_code": "217017",
+            "fundsname": "招商上证消费80ETF联接A",
+            "post_date": "2020-08-11",
+            "cp_rate": 6.49
+          },
+          {
+            "fund_code": "501067",
+            "fundsname": "招商富时A-H50指数A",
+            "post_date": "2020-08-11",
+            "cp_rate": 7.0227
+          },
+          {
+            "fund_code": "150145",
+            "fundsname": "招商300高贝塔A",
+            "post_date": "2020-08-11",
+            "resi_date": "2020-11-16",
+            "cp_rate": 0.88
+          },
+          {
+            "fund_code": "150146",
+            "fundsname": "招商300高贝塔B",
+            "post_date": "2020-08-11",
+            "resi_date": "2020-11-16",
+            "cp_rate": 1.0955
+          },
+          {
+            "fund_code": "159991",
+            "fundsname": "招商创业板大盘ETF",
+            "post_date": "2020-08-11",
+            "cp_rate": 4.7068
+          },
+          {
+            "fund_code": "513990",
+            "fundsname": "招商上证港股通ETF",
+            "post_date": "2020-08-11",
+            "cp_rate": 1.9015
+          },
+          {
+            "fund_code": "161720",
+            "fundsname": "招商中证全指证券公司指数分级",
+            "post_date": "2020-08-11",
+            "resi_date": "2020-12-31",
+            "cp_rate": 1.5111
+          },
+          {
+            "fund_code": "150208",
+            "fundsname": "招商300地产B",
+            "post_date": "2020-08-11",
+            "resi_date": "2020-12-31",
+            "cp_rate": -8.1867
+          },
+          {
+            "fund_code": "159909",
+            "fundsname": "深证TMT50ETF",
+            "post_date": "2020-08-11",
+            "cp_rate": 1.9837
+          },
+          {
+            "fund_code": "004409",
+            "fundsname": "招商深证TMT50ETF联接C",
+            "post_date": "2020-08-11",
+            "cp_rate": 1.7224
+          },
+          {
+            "fund_code": "501068",
+            "fundsname": "招商富时A-H50指数C",
+            "post_date": "2020-08-11",
+            "cp_rate": 6.8919
+          },
+          {
+            "fund_code": "161718",
+            "fundsname": "招商沪深300高贝塔指数分级",
+            "post_date": "2020-08-11",
+            "resi_date": "2020-11-16",
+            "cp_rate": 1.0073
+          },
+          {
+            "fund_code": "161721",
+            "fundsname": "招商沪深300地产等权重指数分级",
+            "post_date": "2020-08-11",
+            "resi_date": "2020-12-31",
+            "cp_rate": -3.1551
+          },
+          {
+            "fund_code": "150207",
+            "fundsname": "招商300地产A",
+            "post_date": "2020-08-11",
+            "resi_date": "2020-12-31",
+            "cp_rate": 1.4184
+          },
+          {
+            "fund_code": "159815",
+            "fundsname": "招商中证浙江100ETF",
+            "post_date": "2020-08-03",
+            "cp_rate": 5.41
+          },
+          {
+            "fund_code": "008237",
+            "fundsname": "招商深证100ETF联接C",
+            "post_date": "2020-06-12",
+            "cp_rate": 23.35
+          },
+          {
+            "fund_code": "008236",
+            "fundsname": "招商深证100ETF联接A",
+            "post_date": "2020-06-12",
+            "cp_rate": 21.49
+          },
+          {
+            "fund_code": "515080",
+            "fundsname": "招商中证红利ETF",
+            "post_date": "2019-11-28",
+            "cp_rate": 34.33
+          },
+          {
+            "fund_code": "159975",
+            "fundsname": "招商深证100ETF",
+            "post_date": "2019-11-07",
+            "cp_rate": 55.48
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "008236",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

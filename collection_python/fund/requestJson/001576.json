@@ -1,0 +1,235 @@
+{
+  "data": {
+    "fund_company": "    国泰基金成立于1998年3月,是国内首批规范成立的基金管理公司之一。历经17年的市场磨砺,公司稳步发展,目前进入了新的发展阶段。2010年全球领先的保险集团之一意大利忠利集团正式收购公司部分股权,国泰基金变身为中外合资基金公司,并在投资管理、产品研发、风险控制、基金营销等多方面与之展开交流与合作,得到了显著提高。(注:基金管理人与股东之间实行业务隔离制度,股东并不直接参与基金财产的投资运作。)目前公司已拥有包括公募基金、社保基金投资管理人、企业年金投资管理人、特定客户资产管理业务和合格境内机构投资者等业务资格,是行业内极少数拥有并开展多类业务的资产管理公司之一。\n    自1998年3月23日公开发行国内第一只封闭式基金——基金金泰以来,国泰基金的产品线不断得到丰富和完善。目前公司旗下共管理着58只公募基金,2只养老金产品和包括专户、年金、社保、投资咨询在内80多个资产委托组合,形成了丰富的资产管理产品线,能够满足不同风险偏好投资者的需求。\n    17年来,国泰基金始终秉承\"以最大的专业性和勤勉为投资人实现长期稳定的财富增值\"的经营宗旨,赢得了包括全国社会保障基金理事会在内的数百万投资人的信任。在为投资者创造物质财富的同时,也不忘承担社会责任,通过\"红蜡烛助教计划\"开展支学助教活动,积极践行\"和谐社会\"的价值观,为社会精神财富的创造贡献力量。截至2015年,国泰基金\"红蜡烛助教计划\"已历时8年,在全国范围内完成助教22次、捐助\"红蜡烛图书馆\"12座、\"红蜡烛·梦想中心\"多媒体教室4个、助养学生 128人、捐赠图书21287本、受益师生近6000人次。",
+    "fund_position": {
+      "stock_percent": 90.45,
+      "bond_percent": 1.59,
+      "cash_percent": 4.83,
+      "other_percent": 3.13,
+      "asset_tot": 1131867344.7,
+      "asset_val": 1126990722.27,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 8.68,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "晶澳科技",
+          "code": "002459",
+          "percent": 8.15,
+          "current_price": 32.99,
+          "change_percentage": 0.49,
+          "xq_symbol": "SZ002459",
+          "xq_url": "https://xueqiu.com/S/SZ002459",
+          "amarket": true
+        },
+        {
+          "name": "宏发股份",
+          "code": "600885",
+          "percent": 7.29,
+          "current_price": 50.51,
+          "change_percentage": 0.3,
+          "xq_symbol": "SH600885",
+          "xq_url": "https://xueqiu.com/S/SH600885",
+          "amarket": true
+        },
+        {
+          "name": "杰克股份",
+          "code": "603337",
+          "percent": 6.05,
+          "current_price": 29.48,
+          "change_percentage": -2.06,
+          "xq_symbol": "SH603337",
+          "xq_url": "https://xueqiu.com/S/SH603337",
+          "amarket": true
+        },
+        {
+          "name": "领益智造",
+          "code": "002600",
+          "percent": 5.99,
+          "current_price": 14.36,
+          "change_percentage": 0,
+          "xq_symbol": "SZ002600",
+          "xq_url": "https://xueqiu.com/S/SZ002600",
+          "amarket": true
+        },
+        {
+          "name": "裕同科技",
+          "code": "002831",
+          "percent": 5.67,
+          "current_price": 28.05,
+          "change_percentage": -1.58,
+          "xq_symbol": "SZ002831",
+          "xq_url": "https://xueqiu.com/S/SZ002831",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 5.06,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "三花智控",
+          "code": "002050",
+          "percent": 5.04,
+          "current_price": 24.3,
+          "change_percentage": 2.84,
+          "xq_symbol": "SZ002050",
+          "xq_url": "https://xueqiu.com/S/SZ002050",
+          "amarket": true
+        },
+        {
+          "name": "恒生电子",
+          "code": "600570",
+          "percent": 5.03,
+          "current_price": 98.15,
+          "change_percentage": 1.31,
+          "xq_symbol": "SH600570",
+          "xq_url": "https://xueqiu.com/S/SH600570",
+          "amarket": true
+        },
+        {
+          "name": "新宙邦",
+          "code": "300037",
+          "percent": 4.88,
+          "current_price": 99.89,
+          "change_percentage": 12.22,
+          "xq_symbol": "SZ300037",
+          "xq_url": "https://xueqiu.com/S/SZ300037",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "20国债01",
+          "code": "019627",
+          "percent": 1.41,
+          "xq_symbol": "019627",
+          "xq_url": "https://xueqiu.com/S/019627",
+          "amarket": false
+        },
+        {
+          "name": "隆20转债",
+          "code": "113038",
+          "percent": 0.19,
+          "xq_symbol": "113038",
+          "xq_url": "https://xueqiu.com/S/113038",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "001576",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<300万",
+          "value": "1.20"
+        },
+        {
+          "name": "300万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<180天",
+          "value": "0.500"
+        },
+        {
+          "name": "180天≤持有期限<365天",
+          "value": "0.100"
+        },
+        {
+          "name": "365天≤持有期限<730天",
+          "value": "0.050"
+        },
+        {
+          "name": "730天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "王阳",
+        "resume": "    2011年5月至2018年7月在平安资产管理有限责任公司工作,先后任研究员、助理投资经理、投资经理,2018年7月加入国泰基金管理有限公司,拟任基金经理。",
+        "achievement_list": [
+          {
+            "fund_code": "001790",
+            "fundsname": "国泰智能汽车股票",
+            "post_date": "2019-08-15",
+            "cp_rate": 151.7903
+          },
+          {
+            "fund_code": "005726",
+            "fundsname": "国泰价值精选灵活配置混合",
+            "post_date": "2019-08-15",
+            "cp_rate": 98.2789
+          },
+          {
+            "fund_code": "001576",
+            "fundsname": "国泰智能装备股票",
+            "post_date": "2018-11-13",
+            "cp_rate": 147.6139
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "001576",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

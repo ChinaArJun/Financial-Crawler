@@ -2920,14 +2920,6 @@
     "f_type": "fund"
   },
   {
-    "fd_code": "SJS341",
-    "fd_name": "艾美谷股期融通一号私募证券投资基金A",
-    "yield": "-0.0025",
-    "sf_type": "1",
-    "unit_nav": "1.5700",
-    "f_type": "pf"
-  },
-  {
     "fd_code": "004851",
     "fd_name": "广发医疗保健股票A",
     "yield": "-0.0065",

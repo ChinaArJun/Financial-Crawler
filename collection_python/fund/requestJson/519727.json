@@ -1,0 +1,214 @@
+{
+  "data": {
+    "fund_company": "    2005年,交银施罗德诞生前中国基金行业正经历过一轮洗礼,百废待兴,熊市将尽。这一年,也是公募基金高速发展的前夜,当年全行业资产总规模仅为4700亿元。而时至今日,公募基金产品以每年200只的速度增长,行业总资产规模早已突破2万亿元。\n    交银施罗德是中国第一批银行背景基金公司之一,也是众多中外合资基金公司中的佼佼者。由拥有百年历史的交通银行、二百年投资经验积累的施罗德投资管理有限公司、以及全球集装箱行业的佼佼者中国国际海运集装箱(集团)股份有限公司强强联合,共同发起设立。\n    [了解更多]成立至今,一直秉承“诚信百年、专业理财”的经营宗旨,以诚信和专业作为公司的立身之本,以“稳健源自前瞻”作为公司的核心价值主张,打造“专业、纪律、协作”的团队,营造“激情、包容、关爱”的企业文化,致力于在策略上远见,投资上前瞻,服务上领先,为投资人提供多元化的、全球视野的、专业独具的理财产品和投资服务。公司成立至今已获得包括“金牛奖”在内的众多荣誉,得到了普通投资者和各机构的广泛关注和认可。\n    目前,公司旗下共管理着包括股票型基金、混合型基金、债券型基金、QDII基金以及ETF基金等类型在内的超过20只公募基金产品。同时,作为国内专户理财业务的“先驱者”,公司在专户理财、投资咨询业务方面上也积极开拓业务,较为成功地管理着数只专户理财产品,有力地推动了公司业务的多元化发展。\n    站在巨人肩上,我们将秉承百年传承的诚信,兼收千锤百炼的专业方法,勤勉尽责,规范运作,力争成为业绩出众、服务一流、深受投资者青睐的基金管理公司。",
+    "fund_position": {
+      "stock_percent": 88.39,
+      "cash_percent": 11.42,
+      "other_percent": 0.19,
+      "asset_tot": 2218262014.55,
+      "asset_val": 2203725955.25,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "亿纬锂能",
+          "code": "300014",
+          "percent": 9.4,
+          "current_price": 63.71,
+          "change_percentage": 4.17,
+          "xq_symbol": "SZ300014",
+          "xq_url": "https://xueqiu.com/S/SZ300014",
+          "amarket": true
+        },
+        {
+          "name": "紫光国微",
+          "code": "002049",
+          "percent": 9.38,
+          "current_price": 111.3,
+          "change_percentage": 0.45,
+          "xq_symbol": "SZ002049",
+          "xq_url": "https://xueqiu.com/S/SZ002049",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 8.35,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "保利地产",
+          "code": "600048",
+          "percent": 7.71,
+          "current_price": 16.46,
+          "change_percentage": -0.48,
+          "xq_symbol": "SH600048",
+          "xq_url": "https://xueqiu.com/S/SH600048",
+          "amarket": true
+        },
+        {
+          "name": "东方雨虹",
+          "code": "002271",
+          "percent": 5.83,
+          "current_price": 35.92,
+          "change_percentage": 0.25,
+          "xq_symbol": "SZ002271",
+          "xq_url": "https://xueqiu.com/S/SZ002271",
+          "amarket": true
+        },
+        {
+          "name": "中航光电",
+          "code": "002179",
+          "percent": 4.36,
+          "current_price": 65.41,
+          "change_percentage": 0.97,
+          "xq_symbol": "SZ002179",
+          "xq_url": "https://xueqiu.com/S/SZ002179",
+          "amarket": true
+        },
+        {
+          "name": "新城控股",
+          "code": "601155",
+          "percent": 3.15,
+          "current_price": 35.19,
+          "change_percentage": -0.26,
+          "xq_symbol": "SH601155",
+          "xq_url": "https://xueqiu.com/S/SH601155",
+          "amarket": true
+        },
+        {
+          "name": "巨星科技",
+          "code": "002444",
+          "percent": 3.05,
+          "current_price": 27.5,
+          "change_percentage": 1.33,
+          "xq_symbol": "SZ002444",
+          "xq_url": "https://xueqiu.com/S/SZ002444",
+          "amarket": true
+        },
+        {
+          "name": "一拖股份",
+          "code": "601038",
+          "percent": 3.04,
+          "current_price": 11.32,
+          "change_percentage": 0.09,
+          "xq_symbol": "SH601038",
+          "xq_url": "https://xueqiu.com/S/SH601038",
+          "amarket": true
+        },
+        {
+          "name": "鲁商发展",
+          "code": "600223",
+          "percent": 2.67,
+          "current_price": 11.15,
+          "change_percentage": 1.36,
+          "xq_symbol": "SH600223",
+          "xq_url": "https://xueqiu.com/S/SH600223",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "519727",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<100万",
+          "value": "1.20"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "0.80"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.50"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "6天<持有期限≤365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年<持有期限≤2年",
+          "value": "0.200"
+        },
+        {
+          "name": "2年<持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "郭斐",
+        "resume": "    郭斐先生,复旦大学经济学学士,10年证券投资行业经验。2009年8月至2014年3月于高盛(亚洲)有限责任公司/高华证券公司任职。2014年加入交银施罗德基金管理有限公司,担任行业分析师。2016年1月1日至2017年9月22日任交银施罗德稳健配置混合型证券投资基金基金经理助理,2017年9月26日起任交银施罗德成长30混合型证券投资基金基金经理至今,2018年6月2日起任交银施罗德经济新动力混合型证券投资基金基金经理至今。",
+        "work_year": "11",
+        "achievement_list": [
+          {
+            "fund_code": "008955",
+            "fundsname": "交银施罗德创新领航混合",
+            "post_date": "2020-02-27",
+            "cp_rate": 33.55
+          },
+          {
+            "fund_code": "519778",
+            "fundsname": "交银经济新动力混合",
+            "post_date": "2018-06-02",
+            "cp_rate": 162.9846
+          },
+          {
+            "fund_code": "519727",
+            "fundsname": "交银施罗德成长30混合",
+            "post_date": "2017-09-26",
+            "cp_rate": 124.4211
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "519727",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

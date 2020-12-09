@@ -1,0 +1,305 @@
+{
+  "data": {
+    "fund_company": "    九泰基金管理有限公司(以下简称九泰基金)于2014年7月3日成立,注册地址在北京市,注册资本2亿元。\n    其中昆吾九鼎投资管理有限公司、北京同创九鼎投资管理股份有限公司、拉萨昆吾九鼎产业投资管理有限公司、九州证券有限公司出资分别占注册资本的26%、25%、25%和24%。作为首家PE投资管理机构发起设立的公募基金管理公司,九泰基金由具有丰富基金管理经验的专业人士组成,并将延续股东方的长期投资、价值投资的经营理念,率先在公募行业建立最有效的公司治理结构和激励约束机制,引入私募合伙人创业文化和经营理念,培育企业内生发展动力,以“平台”思维和“跨界”理念打造不同于传统公募基金的业务发展模式。\n    九泰基金优先发展公募基金业务,创新拓展特定客户资产管理业务,坚持“持有人利益优先”和“风控第一”原则,以“大资管”时代金融资本市场改革发展为契机,积极推动业务和产品创新,不断探索新的商业模式,打造九泰基金差异化的竞争优势,致力于发展成为国内最具核心竞争力的现代财富管理机构。",
+    "fund_position": {
+      "stock_percent": 91.77,
+      "cash_percent": 7.81,
+      "other_percent": 0.42,
+      "asset_tot": 309213616.98,
+      "asset_val": 308136658.21,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "安靠智电",
+          "code": "300617",
+          "percent": 0.61,
+          "current_price": 46.55,
+          "change_percentage": -0.17,
+          "xq_symbol": "SZ300617",
+          "xq_url": "https://xueqiu.com/S/SZ300617",
+          "amarket": true
+        },
+        {
+          "name": "振德医疗",
+          "code": "603301",
+          "percent": 0.6,
+          "current_price": 58.2,
+          "change_percentage": -0.95,
+          "xq_symbol": "SH603301",
+          "xq_url": "https://xueqiu.com/S/SH603301",
+          "amarket": true
+        },
+        {
+          "name": "英科医疗",
+          "code": "300677",
+          "percent": 0.6,
+          "current_price": 141,
+          "change_percentage": 1.49,
+          "xq_symbol": "SZ300677",
+          "xq_url": "https://xueqiu.com/S/SZ300677",
+          "amarket": true
+        },
+        {
+          "name": "理邦仪器",
+          "code": "300206",
+          "percent": 0.6,
+          "current_price": 17.06,
+          "change_percentage": -0.81,
+          "xq_symbol": "SZ300206",
+          "xq_url": "https://xueqiu.com/S/SZ300206",
+          "amarket": true
+        },
+        {
+          "name": "博汇纸业",
+          "code": "600966",
+          "percent": 0.6,
+          "current_price": 13.91,
+          "change_percentage": 0.36,
+          "xq_symbol": "SH600966",
+          "xq_url": "https://xueqiu.com/S/SH600966",
+          "amarket": true
+        },
+        {
+          "name": "中国重汽",
+          "code": "000951",
+          "percent": 0.6,
+          "current_price": 34.31,
+          "change_percentage": 0.7,
+          "xq_symbol": "SZ000951",
+          "xq_url": "https://xueqiu.com/S/SZ000951",
+          "amarket": true
+        },
+        {
+          "name": "司太立",
+          "code": "603520",
+          "percent": 0.59,
+          "current_price": 71.37,
+          "change_percentage": 1.45,
+          "xq_symbol": "SH603520",
+          "xq_url": "https://xueqiu.com/S/SH603520",
+          "amarket": true
+        },
+        {
+          "name": "棒杰股份",
+          "code": "002634",
+          "percent": 0.59,
+          "current_price": 7.72,
+          "change_percentage": -1.28,
+          "xq_symbol": "SZ002634",
+          "xq_url": "https://xueqiu.com/S/SZ002634",
+          "amarket": true
+        },
+        {
+          "name": "昌红科技",
+          "code": "300151",
+          "percent": 0.59,
+          "current_price": 28.08,
+          "change_percentage": 6.77,
+          "xq_symbol": "SZ300151",
+          "xq_url": "https://xueqiu.com/S/SZ300151",
+          "amarket": true
+        },
+        {
+          "name": "欣龙控股",
+          "code": "000955",
+          "percent": 0.59,
+          "current_price": 7.44,
+          "change_percentage": 0.81,
+          "xq_symbol": "SZ000955",
+          "xq_url": "https://xueqiu.com/S/SZ000955",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "009043",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<100万",
+          "value": "1.00"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "0.50"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "365天≤持有期限<730天",
+          "value": "0.250"
+        },
+        {
+          "name": "730天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.10"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "孟亚强",
+        "resume": "    孟亚强先生,南开大学保险精算硕士,中国籍,具有基金从业资格。11年证券从业经历。历任博时基金管理有限公司研究员、基金经理助理、投资经理。2015年8月加入九泰基金管理有限公司,曾任九泰久稳灵活配置混合型证券投资基金(原九泰久稳保本混合型证券投资基金,2016年6月7日至2018年11月26日)、九泰鸿祥服务升级灵活配置混合型证券投资基金(2017年8月16日至2020年3月23日)的基金经理,现任九泰久盛量化先锋灵活配置混合型证券投资基金(2016年6月7日至今)、九泰天富改革新动力灵活配置混合型证券投资基金(2016年12月26日至今)、九泰久兴灵活配置混合型证券投资基金(2017年2月10日至今)、九泰天辰量化新动力股票型证券投资基金(2020年3月12日至今)、九泰久远量化驱动股票型证券投资基金(2020年4月22日至今)、九泰久信量化股票型证券投资基金(2020年5月20日至今)、九泰天奕量化价值混合型证券投资基金(2020年5月29日至今)、九泰久睿量化股票型证券投资基金(2020年8月14日至今)的基金经理。",
+        "college": "南开大学",
+        "work_year": "11",
+        "achievement_list": [
+          {
+            "fund_code": "009912",
+            "fundsname": "九泰天富改革混合C",
+            "post_date": "2020-09-18",
+            "cp_rate": -2.963
+          },
+          {
+            "fund_code": "009874",
+            "fundsname": "九泰久睿量化",
+            "post_date": "2020-08-14",
+            "cp_rate": -9.5
+          },
+          {
+            "fund_code": "008137",
+            "fundsname": "九泰天奕量化价值混合C",
+            "post_date": "2020-05-29",
+            "cp_rate": 16.68
+          },
+          {
+            "fund_code": "008077",
+            "fundsname": "九泰天奕量化价值混合A",
+            "post_date": "2020-05-29",
+            "cp_rate": 17.19
+          },
+          {
+            "fund_code": "009043",
+            "fundsname": "九泰久信量化",
+            "post_date": "2020-05-20",
+            "cp_rate": 20.26
+          },
+          {
+            "fund_code": "009040",
+            "fundsname": "九泰久远量化驱动股票C",
+            "post_date": "2020-04-22",
+            "cp_rate": 21.55
+          },
+          {
+            "fund_code": "009039",
+            "fundsname": "九泰久远量化驱动股票A",
+            "post_date": "2020-04-22",
+            "cp_rate": 22.15
+          },
+          {
+            "fund_code": "008230",
+            "fundsname": "九泰天辰量化新动力股票",
+            "post_date": "2020-03-12",
+            "cp_rate": 31.83
+          },
+          {
+            "fund_code": "002454",
+            "fundsname": "九泰久稳灵活配置混合C",
+            "post_date": "2018-05-03",
+            "resi_date": "2018-11-26",
+            "cp_rate": -7.0313
+          },
+          {
+            "fund_code": "002453",
+            "fundsname": "九泰久稳灵活配置混合A",
+            "post_date": "2018-05-03",
+            "resi_date": "2018-11-26",
+            "cp_rate": -6.6282
+          },
+          {
+            "fund_code": "002384",
+            "fundsname": "九泰鸿祥服务升级混合",
+            "post_date": "2017-08-16",
+            "resi_date": "2020-03-23",
+            "cp_rate": 13.1
+          },
+          {
+            "fund_code": "004510",
+            "fundsname": "九泰久盛量化先锋混合C",
+            "post_date": "2017-05-16",
+            "cp_rate": 48.2292
+          },
+          {
+            "fund_code": "001839",
+            "fundsname": "九泰久兴灵活配置混合",
+            "post_date": "2017-02-10",
+            "resi_date": "2020-09-22",
+            "cp_rate": 67.2283
+          },
+          {
+            "fund_code": "001305",
+            "fundsname": "九泰天富改革混合A",
+            "post_date": "2016-12-26",
+            "cp_rate": 39.0909
+          },
+          {
+            "fund_code": "002453",
+            "fundsname": "九泰久稳保本混合A",
+            "post_date": "2016-06-07",
+            "resi_date": "2018-05-02",
+            "cp_rate": 3.996
+          },
+          {
+            "fund_code": "002454",
+            "fundsname": "九泰久稳保本混合C",
+            "post_date": "2016-06-07",
+            "resi_date": "2018-05-02",
+            "cp_rate": 2.4
+          },
+          {
+            "fund_code": "001897",
+            "fundsname": "九泰久盛量化先锋混合A",
+            "post_date": "2016-06-07",
+            "cp_rate": 72.1744
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "009043",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

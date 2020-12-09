@@ -1,0 +1,117 @@
+{
+  "data": {
+    "fund_company": "    泰达宏利基金管理有限公司成立于2002年6月,是中国首批合资基金管理公司之一,注册资本1.8亿元人民币。在吸取外方股东全球投资智慧以及深刻认知中国资本市场的基础上,公司建立并拥有了一整套科学严谨的内控体系,并且在十余年的实践中积累了丰富的投资管理经验,取得了良好的长期投资业绩,赢得了投资者的信任。公司旗下管理的产品类型丰富,具有较为完善的产品线可供选择。",
+    "fund_position": {
+      "stock_percent": 89.22,
+      "cash_percent": 10.4,
+      "other_percent": 0.38,
+      "asset_tot": 25227769.71,
+      "asset_val": 24938163.31,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2019-09-30",
+      "stock_list": [
+        {
+          "name": "腾讯控股",
+          "code": "00700",
+          "percent": 8.24,
+          "xq_symbol": "00700",
+          "xq_url": "https://xueqiu.com/S/00700",
+          "amarket": false
+        },
+        {
+          "name": "工商银行",
+          "code": "01398",
+          "percent": 7.12,
+          "xq_symbol": "01398",
+          "xq_url": "https://xueqiu.com/S/01398",
+          "amarket": false
+        },
+        {
+          "name": "建设银行",
+          "code": "00939",
+          "percent": 6.77,
+          "xq_symbol": "00939",
+          "xq_url": "https://xueqiu.com/S/00939",
+          "amarket": false
+        },
+        {
+          "name": "友邦保险",
+          "code": "01299",
+          "percent": 5.79,
+          "xq_symbol": "01299",
+          "xq_url": "https://xueqiu.com/S/01299",
+          "amarket": false
+        },
+        {
+          "name": "中国平安",
+          "code": "02318",
+          "percent": 5.21,
+          "xq_symbol": "02318",
+          "xq_url": "https://xueqiu.com/S/02318",
+          "amarket": false
+        },
+        {
+          "name": "敏实集团",
+          "code": "00425",
+          "percent": 3.84,
+          "xq_symbol": "00425",
+          "xq_url": "https://xueqiu.com/S/00425",
+          "amarket": false
+        },
+        {
+          "name": "金蝶国际",
+          "code": "00268",
+          "percent": 3.82,
+          "xq_symbol": "00268",
+          "xq_url": "https://xueqiu.com/S/00268",
+          "amarket": false
+        },
+        {
+          "name": "新华保险",
+          "code": "01336",
+          "percent": 3.52,
+          "xq_symbol": "01336",
+          "xq_url": "https://xueqiu.com/S/01336",
+          "amarket": false
+        },
+        {
+          "name": "比亚迪电子",
+          "code": "00285",
+          "percent": 3.46,
+          "xq_symbol": "00285",
+          "xq_url": "https://xueqiu.com/S/00285",
+          "amarket": false
+        },
+        {
+          "name": "维达国际",
+          "code": "03331",
+          "percent": 3.37,
+          "xq_symbol": "03331",
+          "xq_url": "https://xueqiu.com/S/03331",
+          "amarket": false
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "004482",
+      "subscribe_rate": "0",
+      "declare_rate": "0",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1"
+    },
+    "manager_list": [],
+    "fund_date_conf": {
+      "fd_code": "004482",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 2,
+      "all_buy_days": 2,
+      "all_sale_days": 3
+    }
+  },
+  "result_code": 0
+}

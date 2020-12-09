@@ -1,0 +1,153 @@
+{
+  "data": {
+    "fund_company": "    宝盈基金管理有限公司成立于2001年5月18日,注册资本人民币1亿元,注册地深圳。公司股东实力雄厚,分别为中铁信托有限责任公司、中国对外经济贸易信托有限公司。\n    公司主要经营业务是发起设立证券投资基金(以下简称基金)、基金管理、特定客户资产管理以及证监会批准的其他业务。公司旗下基金产品齐全、风格多样。目前,公司共管理基金22只,已构建了涵盖股票型基金、债券型基金、指数型基金、混合型基金和货币市场基金等较完备的产品线,能够满足各类风险偏好投资者的需求。2008年3月,公司获特定客户资产管理业务资格。目前,已管理多只特定客户资产管理产品。\n    在投资研究方面,公司坚持“研究创造价值,风险管理创造收益”的理念,通过打造投研一体化平台,力争为投资人创造持续良好的投资回报。在内部控制方面,公司秉持“投资者利益至上”的首要原则,高度重视合规文化的建设,通过加强制度建设和监察稽核工作,将风险控制贯穿在业务操作的各个环节,保证业务运作合法合规。\n    公司弘扬“进取、共享、和谐”的企业文化,坚持“规范管理求效益、诚信创新谋发展、回报服务创品牌”的经营理念,做投资人信赖的资产管理者,为投资者提供优质的理财服务!",
+    "fund_position": {
+      "bond_percent": 88.21,
+      "cash_percent": 0.85,
+      "other_percent": 10.94,
+      "asset_tot": 507383332.56,
+      "asset_val": 506798591.64,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [],
+      "bond_list": [
+        {
+          "name": "18韶山高新债",
+          "code": "1880081",
+          "percent": 9.17,
+          "xq_symbol": "1880081",
+          "xq_url": "https://xueqiu.com/S/1880081",
+          "amarket": false
+        },
+        {
+          "name": "19岳阳惠临债",
+          "code": "1980390",
+          "percent": 9.03,
+          "xq_symbol": "1980390",
+          "xq_url": "https://xueqiu.com/S/1980390",
+          "amarket": false
+        },
+        {
+          "name": "18财源债02",
+          "code": "1880244",
+          "percent": 8.3,
+          "xq_symbol": "1880244",
+          "xq_url": "https://xueqiu.com/S/1880244",
+          "amarket": false
+        },
+        {
+          "name": "18绵金专项债",
+          "code": "1880298",
+          "percent": 8.2,
+          "xq_symbol": "1880298",
+          "xq_url": "https://xueqiu.com/S/1880298",
+          "amarket": false
+        },
+        {
+          "name": "18绵安专债02",
+          "code": "1880243",
+          "percent": 8.18,
+          "xq_symbol": "1880243",
+          "xq_url": "https://xueqiu.com/S/1880243",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "006242",
+      "subscribe_rate": "0",
+      "declare_rate": "0.80",
+      "withdraw_rate": "1.500",
+      "discount": "1",
+      "subscribe_discount": "1",
+      "declare_discount": "1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "0.80"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "0.50"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.30"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<90天",
+          "value": "0.100"
+        },
+        {
+          "name": "90天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.10"
+        },
+        {
+          "name": "基金管理费",
+          "value": "0.30"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "杨献忠",
+        "resume": "    杨献忠先生,中国人民大学经济学硕士。曾在中国工商银行总行金融市场部从事债券投资、研究及交易等工作。自2016年11月加入宝盈基金管理有限公司,曾任固定收益部研究员、基金经理助理,现任宝盈货币市场证券投资基金基金经理、宝盈聚享纯债定期开放债券型发起式证券投资基金、宝盈盈润纯债债券型证券投资基金基金经理。",
+        "college": "中国人民大学",
+        "work_year": "7",
+        "achievement_list": [
+          {
+            "fund_code": "006242",
+            "fundsname": "宝盈盈润纯债债券",
+            "post_date": "2019-08-16",
+            "cp_rate": 5.45
+          },
+          {
+            "fund_code": "006946",
+            "fundsname": "宝盈聚享定期开放债券",
+            "post_date": "2019-05-08",
+            "cp_rate": 4.43
+          },
+          {
+            "fund_code": "213009",
+            "fundsname": "宝盈货币A",
+            "post_date": "2018-04-21",
+            "cp_rate": 6.5382
+          },
+          {
+            "fund_code": "213909",
+            "fundsname": "宝盈货币B",
+            "post_date": "2018-04-21",
+            "cp_rate": 7.2127
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "006242",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

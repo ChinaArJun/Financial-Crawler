@@ -1,0 +1,333 @@
+{
+  "data": {
+    "fund_company": "    浙商基金管理有限公司于2010年10月正式成立,是一家获中国证监会批准设立的基金管理公司,公司注册地为浙江省杭州市。 浙商基金管理有限公司股东为浙商证券股份有限公司、通联资本管理有限公司、养生堂有限公司、浙江浙大网新集团有限公司。",
+    "fund_position": {
+      "stock_percent": 92.67,
+      "cash_percent": 6.61,
+      "other_percent": 0.72,
+      "asset_tot": 100892718.42,
+      "asset_val": 100536191.26,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "富力地产",
+          "code": "02777",
+          "percent": 4.28,
+          "xq_symbol": "02777",
+          "xq_url": "https://xueqiu.com/S/02777",
+          "amarket": false
+        },
+        {
+          "name": "兖州煤业股份",
+          "code": "01171",
+          "percent": 4.16,
+          "xq_symbol": "01171",
+          "xq_url": "https://xueqiu.com/S/01171",
+          "amarket": false
+        },
+        {
+          "name": "雅居乐集团",
+          "code": "03383",
+          "percent": 3.33,
+          "xq_symbol": "03383",
+          "xq_url": "https://xueqiu.com/S/03383",
+          "amarket": false
+        },
+        {
+          "name": "互太纺织",
+          "code": "01382",
+          "percent": 3.28,
+          "xq_symbol": "01382",
+          "xq_url": "https://xueqiu.com/S/01382",
+          "amarket": false
+        },
+        {
+          "name": "信义玻璃",
+          "code": "00868",
+          "percent": 2.86,
+          "xq_symbol": "00868",
+          "xq_url": "https://xueqiu.com/S/00868",
+          "amarket": false
+        },
+        {
+          "name": "禹洲集团",
+          "code": "01628",
+          "percent": 2.66,
+          "xq_symbol": "01628",
+          "xq_url": "https://xueqiu.com/S/01628",
+          "amarket": false
+        },
+        {
+          "name": "长城汽车",
+          "code": "02333",
+          "percent": 2.53,
+          "xq_symbol": "02333",
+          "xq_url": "https://xueqiu.com/S/02333",
+          "amarket": false
+        },
+        {
+          "name": "宝龙地产",
+          "code": "01238",
+          "percent": 2.53,
+          "xq_symbol": "01238",
+          "xq_url": "https://xueqiu.com/S/01238",
+          "amarket": false
+        },
+        {
+          "name": "中升控股",
+          "code": "00881",
+          "percent": 2.49,
+          "xq_symbol": "00881",
+          "xq_url": "https://xueqiu.com/S/00881",
+          "amarket": false
+        },
+        {
+          "name": "华能国际电力股份",
+          "code": "00902",
+          "percent": 2.37,
+          "xq_symbol": "00902",
+          "xq_url": "https://xueqiu.com/S/00902",
+          "amarket": false
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "007216",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.500"
+        },
+        {
+          "name": "30天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.35"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.15"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.00"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "查晓磊",
+        "resume": "    查晓磊先生,投资决策委员会委员,1982年生,香港中文大学金融学博士。\n    历任博时基金管理有限公司策略分析师兼投资经理助理。2015年4月加入浙商基金管理有限公司,目前任智能权益投资部总经理、浙商科技创新一个月滚动持有混合型证券投资基金、浙商智多宝稳健一年持有期混合型证券投资基金、浙商智多兴稳健回报一年持有期混合型证券投资基金、浙商大数据智选消费灵活配置混合型证券投资基金、浙商智能行业优选混合型发起式证券投资基金、浙商港股通中华交易服务预期高股息指数增强型证券投资基金的基金经理。",
+        "college": "香港中文大学",
+        "achievement_list": [
+          {
+            "fund_code": "009354",
+            "fundsname": "浙商科技创新一个月滚动持有混合C",
+            "post_date": "2020-09-29",
+            "cp_rate": 6.68
+          },
+          {
+            "fund_code": "009353",
+            "fundsname": "浙商科技创新一个月滚动持有混合A",
+            "post_date": "2020-09-29",
+            "cp_rate": 6.73
+          },
+          {
+            "fund_code": "009569",
+            "fundsname": "浙商智多宝稳健一年持有期C",
+            "post_date": "2020-07-23",
+            "cp_rate": 2.3
+          },
+          {
+            "fund_code": "009568",
+            "fundsname": "浙商智多宝稳健一年持有期A",
+            "post_date": "2020-07-23",
+            "cp_rate": 2.49
+          },
+          {
+            "fund_code": "009181",
+            "fundsname": "浙商智多兴稳健回报一年持有期混合A",
+            "post_date": "2020-06-04",
+            "cp_rate": 4.69
+          },
+          {
+            "fund_code": "009182",
+            "fundsname": "浙商智多兴稳健回报一年持有期混合C",
+            "post_date": "2020-06-04",
+            "cp_rate": 4.42
+          },
+          {
+            "fund_code": "007216",
+            "fundsname": "浙商中华预期高股息指数增强C",
+            "post_date": "2019-10-30",
+            "cp_rate": -7.34
+          },
+          {
+            "fund_code": "007178",
+            "fundsname": "浙商中华预期高股息指数增强A",
+            "post_date": "2019-10-30",
+            "cp_rate": -6.99
+          },
+          {
+            "fund_code": "007217",
+            "fundsname": "浙商智能行业优选混合C",
+            "post_date": "2019-09-27",
+            "cp_rate": 60.94
+          },
+          {
+            "fund_code": "007177",
+            "fundsname": "浙商智能行业优选混合A",
+            "post_date": "2019-09-27",
+            "cp_rate": 61.91
+          },
+          {
+            "fund_code": "166801",
+            "fundsname": "浙商聚潮新思维混合",
+            "post_date": "2019-07-31",
+            "resi_date": "2020-08-06",
+            "cp_rate": 64.7331
+          },
+          {
+            "fund_code": "007386",
+            "fundsname": "浙商中证500指数增强C",
+            "post_date": "2019-04-24",
+            "resi_date": "2019-11-26",
+            "cp_rate": -2.8532
+          },
+          {
+            "fund_code": "002076",
+            "fundsname": "浙商中证500指数增强A",
+            "post_date": "2019-04-24",
+            "resi_date": "2019-11-26",
+            "cp_rate": -6.0739
+          },
+          {
+            "fund_code": "006102",
+            "fundsname": "浙商丰利增强债券",
+            "post_date": "2018-08-28",
+            "resi_date": "2019-08-30",
+            "cp_rate": 2.37
+          },
+          {
+            "fund_code": "166802",
+            "fundsname": "浙商沪深300指数增强型(LOF)",
+            "post_date": "2018-08-20",
+            "resi_date": "2019-11-26",
+            "cp_rate": 37.5058
+          },
+          {
+            "fund_code": "002076",
+            "fundsname": "浙商聚潮灵活配置混合",
+            "post_date": "2018-01-12",
+            "resi_date": "2019-04-23",
+            "cp_rate": -10.4875
+          },
+          {
+            "fund_code": "002967",
+            "fundsname": "浙商大数据智选消费灵活配置混合",
+            "post_date": "2017-01-11",
+            "cp_rate": 146.2
+          },
+          {
+            "fund_code": "680001",
+            "fundsname": "浙商聚潮策略配置混合",
+            "post_date": "2016-03-17",
+            "resi_date": "2018-02-22",
+            "cp_rate": 12.3671
+          },
+          {
+            "fund_code": "150077",
+            "fundsname": "浙商进取",
+            "post_date": "2015-08-11",
+            "resi_date": "2018-08-19",
+            "cp_rate": -34.7184
+          },
+          {
+            "fund_code": "150076",
+            "fundsname": "浙商稳健",
+            "post_date": "2015-08-11",
+            "resi_date": "2018-08-19",
+            "cp_rate": 14.7573
+          },
+          {
+            "fund_code": "166802",
+            "fundsname": "浙商沪深300指数分级",
+            "post_date": "2015-08-11",
+            "resi_date": "2018-08-19",
+            "cp_rate": -17.569
+          }
+        ]
+      },
+      {
+        "name": "刘宏达",
+        "resume": "    刘宏达先生,1983年生,上海交通大学会计学硕士。历任永灵通金融有限公司助理分析师、投资分析师和基金经理岗位。2017年6月加入浙商基金管理有限公司。已任浙商全景消费混合型证券投资基金、浙商沪港深精选混合型证券投资基金、浙商港股通中华交易服务预期高股息指数增强型证券投资基金的基金经理。",
+        "college": "上海交通大学",
+        "achievement_list": [
+          {
+            "fund_code": "007178",
+            "fundsname": "浙商中华预期高股息指数增强A",
+            "post_date": "2019-10-30",
+            "cp_rate": -6.99
+          },
+          {
+            "fund_code": "007216",
+            "fundsname": "浙商中华预期高股息指数增强C",
+            "post_date": "2019-10-30",
+            "cp_rate": -7.34
+          },
+          {
+            "fund_code": "007368",
+            "fundsname": "浙商沪港深精选混合A",
+            "post_date": "2019-06-27",
+            "cp_rate": 52.8
+          },
+          {
+            "fund_code": "007369",
+            "fundsname": "浙商沪港深精选混合C",
+            "post_date": "2019-06-27",
+            "cp_rate": 51.48
+          },
+          {
+            "fund_code": "005335",
+            "fundsname": "浙商全景消费混合",
+            "post_date": "2017-12-29",
+            "cp_rate": 80.53
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "007216",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 4,
+      "all_buy_days": 2,
+      "all_sale_days": 5
+    }
+  },
+  "result_code": 0
+}

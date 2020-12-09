@@ -1,0 +1,251 @@
+{
+  "data": {
+    "fund_company": "    中银基金管理有限公司是由中国银行股份有限公司(以下简称中国银行)和贝莱德投资管理有限公司(以下简称贝莱德)两大全球著名领先金融品牌强强联合组建的中外合资基金管理公司,致力于长期参与中国基金业的发展,努力成为国内领先的基金管理公司。\n    中银基金管理有限公司前身为中银国际基金管理有限公司,于2004年7月29日正式开业,是由中银国际和美林投资管理合资组建(2006年9月29日美林投资管理有限公司与贝莱德投资管理有限公司合并,合并后新公司名称为“贝莱德投资管理有限公司”)。2007年12月25日,经中国证监会批准,中国银行直接控股中银基金。2008年1月16日,公司正式更名为中银基金管理有限公司。\n    中银基金管理有限公司汇集海内外具有丰富经验和良好职业道德,具备团队精神和创新意识的资深投资管理人才,组成了国际化与本土化相结合的中西合璧的专业化团队,致力于以诚信服务大众,用智慧创造财富,为投资者提供丰富的投资产品和国际标准的投资管理服务。公司将充分发挥中外股东的全球经验和资源优势,引入外方股东在全球资产管理市场的成功经验、技术和智慧,与中国本土经验相结合,为广大投资者提供专业化的投资理财服务。",
+    "fund_position": {
+      "stock_percent": 86.68,
+      "bond_percent": 5.15,
+      "cash_percent": 6.6,
+      "other_percent": 1.57,
+      "asset_tot": 1247649119.91,
+      "asset_val": 1235568101.66,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "恒瑞医药",
+          "code": "600276",
+          "percent": 5,
+          "current_price": 90.07,
+          "change_percentage": 0.21,
+          "xq_symbol": "SH600276",
+          "xq_url": "https://xueqiu.com/S/SH600276",
+          "amarket": true
+        },
+        {
+          "name": "大参林",
+          "code": "603233",
+          "percent": 4.4,
+          "current_price": 87.64,
+          "change_percentage": 0.62,
+          "xq_symbol": "SH603233",
+          "xq_url": "https://xueqiu.com/S/SH603233",
+          "amarket": true
+        },
+        {
+          "name": "伊利股份",
+          "code": "600887",
+          "percent": 4.2,
+          "current_price": 40.68,
+          "change_percentage": 1.24,
+          "xq_symbol": "SH600887",
+          "xq_url": "https://xueqiu.com/S/SH600887",
+          "amarket": true
+        },
+        {
+          "name": "云南白药",
+          "code": "000538",
+          "percent": 3.71,
+          "current_price": 99.84,
+          "change_percentage": -0.32,
+          "xq_symbol": "SZ000538",
+          "xq_url": "https://xueqiu.com/S/SZ000538",
+          "amarket": true
+        },
+        {
+          "name": "迈瑞医疗",
+          "code": "300760",
+          "percent": 3.52,
+          "current_price": 351.9,
+          "change_percentage": 1.82,
+          "xq_symbol": "SZ300760",
+          "xq_url": "https://xueqiu.com/S/SZ300760",
+          "amarket": true
+        },
+        {
+          "name": "智飞生物",
+          "code": "300122",
+          "percent": 3.45,
+          "current_price": 139.38,
+          "change_percentage": -0.39,
+          "xq_symbol": "SZ300122",
+          "xq_url": "https://xueqiu.com/S/SZ300122",
+          "amarket": true
+        },
+        {
+          "name": "海尔智家",
+          "code": "600690",
+          "percent": 3.17,
+          "current_price": 26.97,
+          "change_percentage": -0.19,
+          "xq_symbol": "SH600690",
+          "xq_url": "https://xueqiu.com/S/SH600690",
+          "amarket": true
+        },
+        {
+          "name": "金域医学",
+          "code": "603882",
+          "percent": 3,
+          "current_price": 99,
+          "change_percentage": 2.27,
+          "xq_symbol": "SH603882",
+          "xq_url": "https://xueqiu.com/S/SH603882",
+          "amarket": true
+        },
+        {
+          "name": "复星医药",
+          "code": "600196",
+          "percent": 2.73,
+          "current_price": 53.53,
+          "change_percentage": -1.02,
+          "xq_symbol": "SH600196",
+          "xq_url": "https://xueqiu.com/S/SH600196",
+          "amarket": true
+        },
+        {
+          "name": "中国生物制药",
+          "code": "01177",
+          "percent": 2.63,
+          "xq_symbol": "01177",
+          "xq_url": "https://xueqiu.com/S/01177",
+          "amarket": false
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "18国开12",
+          "code": "180212",
+          "percent": 4.89,
+          "xq_symbol": "180212",
+          "xq_url": "https://xueqiu.com/S/180212",
+          "amarket": false
+        },
+        {
+          "name": "上机转债",
+          "code": "113586",
+          "percent": 0.21,
+          "xq_symbol": "113586",
+          "xq_url": "https://xueqiu.com/S/113586",
+          "amarket": false
+        },
+        {
+          "name": "欣旺转债",
+          "code": "123058",
+          "percent": 0.09,
+          "xq_symbol": "123058",
+          "xq_url": "https://xueqiu.com/S/123058",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "009414",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.20"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<180天",
+          "value": "0.500"
+        },
+        {
+          "name": "6月≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "刘潇",
+        "resume": "    刘潇(LIU Xiao)女士,理学硕士。曾任平安资产管理行业研究员。2012 年加入中银基金管理有限公司,曾任研究员。2018 年 6 月至今任中银医疗保健基金基金经理。具有 10年证券从业年限。具备基金从业资格。",
+        "achievement_list": [
+          {
+            "fund_code": "010500",
+            "fundsname": "中银创新医疗混合C",
+            "post_date": "2020-10-30",
+            "cp_rate": -2.4937
+          },
+          {
+            "fund_code": "010321",
+            "fundsname": "中银大健康股票C",
+            "post_date": "2020-10-16",
+            "cp_rate": -1.0004
+          },
+          {
+            "fund_code": "010159",
+            "fundsname": "中银医疗保健灵活配置混合C",
+            "post_date": "2020-09-07",
+            "cp_rate": -0.5409
+          },
+          {
+            "fund_code": "009414",
+            "fundsname": "中银大健康股票A",
+            "post_date": "2020-05-27",
+            "cp_rate": 19.78
+          },
+          {
+            "fund_code": "007718",
+            "fundsname": "中银创新医疗混合A",
+            "post_date": "2019-11-13",
+            "cp_rate": 74.42
+          },
+          {
+            "fund_code": "005689",
+            "fundsname": "中银医疗保健灵活配置混合A",
+            "post_date": "2018-06-13",
+            "cp_rate": 181.02
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "009414",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 2,
+      "all_buy_days": 2,
+      "all_sale_days": 3
+    }
+  },
+  "result_code": 0
+}

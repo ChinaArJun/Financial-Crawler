@@ -1,0 +1,249 @@
+{
+  "data": {
+    "fund_company": "    鹏华基金管理有限公司成立于1998年12月22日,注册资本15,000万元人民币,总部设在深圳,在北京、上海、广州、武汉设有分公司,2013年1月,在深圳前海设立控股子公司鹏华资产管理有限公司。目前的股东由国信证券股份有限公司、意大利欧利盛资本资产管理股份公司(Eurizon Capital SGR S.p.A.)、深圳市北融信投资发展有限公司组成,三家股东的出资比例分别为50%、49%、1%,业务范围包括基金募集、基金销售、资产管理及中国证监会许可的其他业务。截至2016年12月31日,公司管理资产总规模达到4,551亿元,管理129只基金和10只全国社保投资组合。",
+    "fund_position": {
+      "stock_percent": 93.48,
+      "cash_percent": 6.5,
+      "other_percent": 0.02,
+      "asset_tot": 574622070.69,
+      "asset_val": 572118949.76,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "美团-W",
+          "code": "03690",
+          "percent": 9.15,
+          "xq_symbol": "03690",
+          "xq_url": "https://xueqiu.com/S/03690",
+          "amarket": false
+        },
+        {
+          "name": "腾讯控股",
+          "code": "00700",
+          "percent": 9.02,
+          "xq_symbol": "00700",
+          "xq_url": "https://xueqiu.com/S/00700",
+          "amarket": false
+        },
+        {
+          "name": "小米集团-W",
+          "code": "01810",
+          "percent": 7.94,
+          "xq_symbol": "01810",
+          "xq_url": "https://xueqiu.com/S/01810",
+          "amarket": false
+        },
+        {
+          "name": "东方财富",
+          "code": "300059",
+          "percent": 6.73,
+          "current_price": 28.05,
+          "change_percentage": 1.08,
+          "xq_symbol": "SZ300059",
+          "xq_url": "https://xueqiu.com/S/SZ300059",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 3.62,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "恒生电子",
+          "code": "600570",
+          "percent": 3.37,
+          "current_price": 98.15,
+          "change_percentage": 1.31,
+          "xq_symbol": "SH600570",
+          "xq_url": "https://xueqiu.com/S/SH600570",
+          "amarket": true
+        },
+        {
+          "name": "通威股份",
+          "code": "600438",
+          "percent": 2.96,
+          "current_price": 29.2,
+          "change_percentage": -1.85,
+          "xq_symbol": "SH600438",
+          "xq_url": "https://xueqiu.com/S/SH600438",
+          "amarket": true
+        },
+        {
+          "name": "广联达",
+          "code": "002410",
+          "percent": 2.7,
+          "current_price": 70.77,
+          "change_percentage": 2.08,
+          "xq_symbol": "SZ002410",
+          "xq_url": "https://xueqiu.com/S/SZ002410",
+          "amarket": true
+        },
+        {
+          "name": "阿里健康",
+          "code": "00241",
+          "percent": 2.68,
+          "xq_symbol": "00241",
+          "xq_url": "https://xueqiu.com/S/00241",
+          "amarket": false
+        },
+        {
+          "name": "用友网络",
+          "code": "600588",
+          "percent": 2.43,
+          "current_price": 46.29,
+          "change_percentage": 0.67,
+          "xq_symbol": "SH600588",
+          "xq_url": "https://xueqiu.com/S/SH600588",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "004292",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "1.00"
+        },
+        {
+          "name": "500万≤买入金额<1000万",
+          "value": "0.30"
+        },
+        {
+          "name": "1000万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "聂毅翔",
+        "resume": "    聂毅翔先生,国籍中国,理学博士,10年证券从业经验。历任美国风暴通讯咨询公司高级项目经理,美国罗根斯通资本对冲基金公司交易员,美国期货交易监管委员会助理经济学家,鹏华基金国际业务部投资经理,中银国际证券投资主办人,国海富兰克林基金国际业务副总监,天弘基金基金经理;2017年1月加盟鹏华基金管理有限公司,任职于研究部,现担任研究部副总经理/基金经理。2017年08月担任鹏华沪深港互联网基金基金经理,2018年06月担任鹏华创新驱动混合基金基金经理,2018年09月担任鹏华研究驱动混合基金基金经理,2019年11月担任鹏华香港银行指数(LOF)基金基金经理。聂毅翔先生具备基金从业资格。",
+        "work_year": "10",
+        "achievement_list": [
+          {
+            "fund_code": "010365",
+            "fundsname": "鹏华香港银行指数C(LOF)",
+            "post_date": "2020-10-27",
+            "cp_rate": 7.76
+          },
+          {
+            "fund_code": "501025",
+            "fundsname": "鹏华香港银行指数A(LOF)",
+            "post_date": "2019-11-20",
+            "cp_rate": -13.698
+          },
+          {
+            "fund_code": "006230",
+            "fundsname": "鹏华研究驱动混合",
+            "post_date": "2018-09-14",
+            "cp_rate": 86.92
+          },
+          {
+            "fund_code": "005967",
+            "fundsname": "鹏华创新驱动混合",
+            "post_date": "2018-06-06",
+            "cp_rate": 77.09
+          },
+          {
+            "fund_code": "004292",
+            "fundsname": "鹏华沪深港互联网股票",
+            "post_date": "2017-08-03",
+            "cp_rate": 80.4671
+          }
+        ]
+      },
+      {
+        "name": "王海青",
+        "resume": "    王海青女士,国籍中国,经济学硕士,8年证券基金从业经验。曾任中国中投证券有限责任公司高级研究员,2015年10月加盟鹏华基金管理有限公司,现担任研究部总经理助理。",
+        "work_year": "8",
+        "achievement_list": [
+          {
+            "fund_code": "009861",
+            "fundsname": "鹏华新兴成长混合A",
+            "post_date": "2020-07-17",
+            "cp_rate": 2.05
+          },
+          {
+            "fund_code": "009862",
+            "fundsname": "鹏华新兴成长混合C",
+            "post_date": "2020-07-17",
+            "cp_rate": 1.85
+          },
+          {
+            "fund_code": "004292",
+            "fundsname": "鹏华沪深港互联网股票",
+            "post_date": "2020-01-07",
+            "cp_rate": 58.7638
+          },
+          {
+            "fund_code": "005028",
+            "fundsname": "鹏华研究精选混合",
+            "post_date": "2018-02-03",
+            "cp_rate": 125.2173
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "004292",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 6,
+      "all_buy_days": 2,
+      "all_sale_days": 7
+    }
+  },
+  "result_code": 0
+}

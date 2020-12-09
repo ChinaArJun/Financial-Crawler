@@ -1,0 +1,345 @@
+{
+  "data": {
+    "fund_company": "    广发基金管理有限公司经中国证监会证监基金字[2003]91号文批准,于2003年8月5日成立,是业内第30家成立的基金管理公司,总部设在广州,公司注册资本金12688万元人民币。公司及旗下子公司目前拥有公募基金管理、社保基金境内委托投资管理人、基本养老保险基金证券投资管理机构、特定客户资产管理、QDII、RQFII、QFII、受托管理保险资金投资管理人和保险保障基金委托资产管理投资管理人等业务资格,具备多种业务的综合资产管理能力与经验。\n    截至2016年12月31日,公司管理125只开放式基金,管理公募基金资产规模为3048亿元,长期位居行业前列。公司旗下产品覆盖主动权益、债券、货币、海外投资、被动投资、量化对冲、另类投资等不同类别,产品线齐全。公司曾获五届中国证券报“金牛基金管理公司”奖项、两届“固定收益投资金牛基金公司”奖项,连续两届获得“海外投资金牛基金公司”奖项,获七届证券时报“明星基金管理公司”奖项,是行业最全的QDII产品提供商,业内最全的行业ETF产品提供商,在业内首创公募基金大数据先河。同时,公司还管理着多个特定客户资产管理投资组合、社保基金投资组合、养老基金投资组合。\n    公司坚持“专业创造价值、客户利益至上”的经营理念,以完备的产品供给、策略供给、区域供给为基础,构建多元投资能力、顶层资产配置能力,致力成为优秀的全能型资产管理公司,为投资者谋求长期稳定的收益,为我国资本市场的繁荣与发展贡献一份力量。",
+    "fund_position": {
+      "stock_percent": 91.8,
+      "cash_percent": 7.4,
+      "other_percent": 0.8,
+      "asset_tot": 97179035.04,
+      "asset_val": 95408793.69,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "迈瑞医疗",
+          "code": "300760",
+          "percent": 9.98,
+          "current_price": 351.9,
+          "change_percentage": 1.82,
+          "xq_symbol": "SZ300760",
+          "xq_url": "https://xueqiu.com/S/SZ300760",
+          "amarket": true
+        },
+        {
+          "name": "药明康德",
+          "code": "603259",
+          "percent": 9.93,
+          "current_price": 110.9,
+          "change_percentage": -0.12,
+          "xq_symbol": "SH603259",
+          "xq_url": "https://xueqiu.com/S/SH603259",
+          "amarket": true
+        },
+        {
+          "name": "爱尔眼科",
+          "code": "300015",
+          "percent": 9.79,
+          "current_price": 66.63,
+          "change_percentage": -0.25,
+          "xq_symbol": "SZ300015",
+          "xq_url": "https://xueqiu.com/S/SZ300015",
+          "amarket": true
+        },
+        {
+          "name": "泰格医药",
+          "code": "300347",
+          "percent": 5.09,
+          "current_price": 135.45,
+          "change_percentage": 1.84,
+          "xq_symbol": "SZ300347",
+          "xq_url": "https://xueqiu.com/S/SZ300347",
+          "amarket": true
+        },
+        {
+          "name": "乐普医疗",
+          "code": "300003",
+          "percent": 3.97,
+          "current_price": 28.7,
+          "change_percentage": -0.66,
+          "xq_symbol": "SZ300003",
+          "xq_url": "https://xueqiu.com/S/SZ300003",
+          "amarket": true
+        },
+        {
+          "name": "通策医疗",
+          "code": "600763",
+          "percent": 3.93,
+          "current_price": 233.45,
+          "change_percentage": 0.45,
+          "xq_symbol": "SH600763",
+          "xq_url": "https://xueqiu.com/S/SH600763",
+          "amarket": true
+        },
+        {
+          "name": "美年健康",
+          "code": "002044",
+          "percent": 3.76,
+          "current_price": 12.75,
+          "change_percentage": -1.24,
+          "xq_symbol": "SZ002044",
+          "xq_url": "https://xueqiu.com/S/SZ002044",
+          "amarket": true
+        },
+        {
+          "name": "卫宁健康",
+          "code": "300253",
+          "percent": 3.21,
+          "current_price": 17.31,
+          "change_percentage": 1.82,
+          "xq_symbol": "SZ300253",
+          "xq_url": "https://xueqiu.com/S/SZ300253",
+          "amarket": true
+        },
+        {
+          "name": "健帆生物",
+          "code": "300529",
+          "percent": 2.72,
+          "current_price": 68.76,
+          "change_percentage": -0.28,
+          "xq_symbol": "SZ300529",
+          "xq_url": "https://xueqiu.com/S/SZ300529",
+          "amarket": true
+        },
+        {
+          "name": "金域医学",
+          "code": "603882",
+          "percent": 2.25,
+          "current_price": 99,
+          "change_percentage": 2.27,
+          "xq_symbol": "SH603882",
+          "xq_url": "https://xueqiu.com/S/SH603882",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "009881",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "1",
+      "subscribe_discount": "1",
+      "declare_discount": "1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.20"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.15"
+        },
+        {
+          "name": "基金管理费",
+          "value": "0.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "罗国庆",
+        "resume": "    罗国庆先生,经济学硕士,持有中国证券投资基金业从业证书。曾任深圳证券信息有限公司研究员,华富基金管理有限公司产品设计研究员,广发基金管理有限公司产品经理及量化研究员、广发深证100指数分级证券投资基金基金经理(自2015年10月13日至2020年5月25日)、广发中证医疗指数分级证券投资基金基金经理(自2015年10月13日至2020年8月25日)。现任广发基金管理有限公司指数投资部副总经理、广发中证全指汽车指数型发起式证券投资基金基金经理(自2017年7月31日起任职)、广发中证全指建筑材料指数型发起式证券投资基金基金经理(自2017年8月2日起任职)、广发中证全指家用电器指数型发起式证券投资基金基金经理(自2017年9月13日起任职)、广发中证传媒交易型开放式指数证券投资基金基金经理(自2017年12月27日起任职)、广发中证传媒交易型开放式指数证券投资基金发起式联接基金基金经理(自2018年1月2日起任职)、广发中证1000指数型发起式证券投资基金基金经理(自2018年11月2日起任职)、广发中证100交易型开放式指数证券投资基金基金经理(自2019年5月27日起任职)、广发中证100交易型开放式指数证券投资基金发起式联接基金基金经理(自2019年5月27日起任职)、广发国证半导体芯片交易型开放式指数证券投资基金基金经理(自2020年1月20日起任职)、广发中证800交易型开放式指数证券投资基金基金经理(自2020年4月13日起任职)、广发深证100指数证券投资基金(LOF)基金经理(自2020年5月26日起任职)、广发中证医疗指数证券投资基金(LOF)基金经理(自2020年8月26日起任职)。",
+        "work_year": "11",
+        "achievement_list": [
+          {
+            "fund_code": "515120",
+            "fundsname": "广发中证创新药产业ETF",
+            "post_date": "2020-12-03",
+            "cp_rate": 0.08
+          },
+          {
+            "fund_code": "009881",
+            "fundsname": "广发中证医疗指数(LOF)C",
+            "post_date": "2020-08-26",
+            "cp_rate": 0.4151
+          },
+          {
+            "fund_code": "502056",
+            "fundsname": "广发中证医疗指数(LOF)A",
+            "post_date": "2020-08-26",
+            "cp_rate": 0.453
+          },
+          {
+            "fund_code": "009472",
+            "fundsname": "广发深证100指数(LOF)C",
+            "post_date": "2020-05-26",
+            "cp_rate": 35.3404
+          },
+          {
+            "fund_code": "162714",
+            "fundsname": "广发深证100指数(LOF)A",
+            "post_date": "2020-05-26",
+            "cp_rate": 35.4279
+          },
+          {
+            "fund_code": "159802",
+            "fundsname": "广发中证800ETF",
+            "post_date": "2020-04-13",
+            "resi_date": "2020-09-15",
+            "cp_rate": 16.9
+          },
+          {
+            "fund_code": "159801",
+            "fundsname": "广发国证半导体芯片ETF",
+            "post_date": "2020-01-20",
+            "cp_rate": 24.15
+          },
+          {
+            "fund_code": "007136",
+            "fundsname": "广发中证100ETF联接C",
+            "post_date": "2019-05-27",
+            "cp_rate": 36.64
+          },
+          {
+            "fund_code": "007135",
+            "fundsname": "广发中证100ETF联接A",
+            "post_date": "2019-05-27",
+            "cp_rate": 36.97
+          },
+          {
+            "fund_code": "512910",
+            "fundsname": "广发中证100ETF",
+            "post_date": "2019-05-27",
+            "cp_rate": 44.3
+          },
+          {
+            "fund_code": "006487",
+            "fundsname": "广发中证1000指数C",
+            "post_date": "2018-11-02",
+            "cp_rate": 43.0957
+          },
+          {
+            "fund_code": "006486",
+            "fundsname": "广发中证1000指数A",
+            "post_date": "2018-11-02",
+            "cp_rate": 43.6556
+          },
+          {
+            "fund_code": "004753",
+            "fundsname": "广发中证传媒ETF联接C",
+            "post_date": "2018-01-02",
+            "cp_rate": -9.62
+          },
+          {
+            "fund_code": "004752",
+            "fundsname": "广发中证传媒ETF联接A",
+            "post_date": "2018-01-02",
+            "cp_rate": -9.74
+          },
+          {
+            "fund_code": "512980",
+            "fundsname": "广发中证传媒ETF",
+            "post_date": "2017-12-27",
+            "cp_rate": -8.42
+          },
+          {
+            "fund_code": "005064",
+            "fundsname": "广发中证全指家用电器指数C",
+            "post_date": "2017-09-13",
+            "cp_rate": 41.48
+          },
+          {
+            "fund_code": "005063",
+            "fundsname": "广发中证全指家用电器指数A",
+            "post_date": "2017-09-13",
+            "cp_rate": 42.05
+          },
+          {
+            "fund_code": "004857",
+            "fundsname": "广发中证全指建筑材料指数C",
+            "post_date": "2017-08-02",
+            "cp_rate": 40.65
+          },
+          {
+            "fund_code": "004856",
+            "fundsname": "广发中证全指建筑材料指数A",
+            "post_date": "2017-08-02",
+            "cp_rate": 39.96
+          },
+          {
+            "fund_code": "004854",
+            "fundsname": "广发中证全指汽车指数A",
+            "post_date": "2017-07-31",
+            "cp_rate": 31.02
+          },
+          {
+            "fund_code": "004855",
+            "fundsname": "广发中证全指汽车指数C",
+            "post_date": "2017-07-31",
+            "cp_rate": 30.77
+          },
+          {
+            "fund_code": "502058",
+            "fundsname": "广发中证医疗指数B",
+            "post_date": "2015-10-13",
+            "resi_date": "2020-08-25",
+            "cp_rate": 6.1494
+          },
+          {
+            "fund_code": "502057",
+            "fundsname": "广发中证医疗指数A",
+            "post_date": "2015-10-13",
+            "resi_date": "2020-08-25",
+            "cp_rate": 29.9428
+          },
+          {
+            "fund_code": "502056",
+            "fundsname": "广发中证医疗指数分级",
+            "post_date": "2015-10-13",
+            "resi_date": "2020-08-25",
+            "cp_rate": 50.9398
+          },
+          {
+            "fund_code": "150084",
+            "fundsname": "广发深证100指数分级B",
+            "post_date": "2015-10-13",
+            "resi_date": "2020-05-25",
+            "cp_rate": 49.1179
+          },
+          {
+            "fund_code": "150083",
+            "fundsname": "广发深证100指数分级A",
+            "post_date": "2015-10-13",
+            "resi_date": "2020-05-25",
+            "cp_rate": 25.4883
+          },
+          {
+            "fund_code": "162714",
+            "fundsname": "广发深证100指数分级",
+            "post_date": "2015-10-13",
+            "resi_date": "2020-05-25",
+            "cp_rate": 38.7877
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "009881",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

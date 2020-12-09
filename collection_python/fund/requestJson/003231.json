@@ -1,0 +1,220 @@
+{
+  "data": {
+    "fund_company": "    创金合信基金管理有限公司由第一创业证券股份有限公司(占70%)、深圳市金合信投资合伙企业(有限合伙)(占30%)共同发起设立。注册资本:1.7亿元人民币。注册地:深圳。创金合信基金倡导合伙文化,实施合伙制,并在投研体系着力打造吸引并留住优秀人才的平台:事业部制和工作室。\n    第一创业证券股份有限公司是经中国证监会批准,由华熙昕宇、首创集团等多家实力雄厚的股东投资设立的全国性综合类证券公司。公司注册地在深圳市,注册资本金为人民币21.89亿元人民币,,总部设在深圳,员工总数超过1900人。2016年5月11日,公司首次公开发行股票并在深圳证券交易所上市交易,证券简称 “第一创业”,证券代码“002797”。深圳金合信投资合伙企业(有限合伙)由创金合信基金经营管理层及多名核心员工投资设立,仅用于持有创金合信基金股权。\n    创金合信基金成立于2014年7月,员工基于第一创业证券创金资产团队。创金资产团队于2010年初组建,曾屡次获得权威奖项。创金资产团队2012年、2013年连续两次获《上海证券报》中国券商理财金榜评选“综合管理实力大奖”;创金资产团队2013年获《中国证券报》金牛理财网“金牛券商集合资产管理人奖”;创金资产品牌2013年、2014年连续两次获《证券时报》中国最佳财富管理机构评选“中国最佳财富管理品牌”。",
+    "fund_position": {
+      "stock_percent": 93.75,
+      "bond_percent": 4.69,
+      "cash_percent": 0.8,
+      "other_percent": 0.76,
+      "asset_tot": 1680367381.73,
+      "asset_val": 1662828417.92,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "康泰生物",
+          "code": "300601",
+          "percent": 7.9,
+          "current_price": 158.41,
+          "change_percentage": -1.36,
+          "xq_symbol": "SZ300601",
+          "xq_url": "https://xueqiu.com/S/SZ300601",
+          "amarket": true
+        },
+        {
+          "name": "华兰生物",
+          "code": "002007",
+          "percent": 7.07,
+          "current_price": 43.73,
+          "change_percentage": -3.19,
+          "xq_symbol": "SZ002007",
+          "xq_url": "https://xueqiu.com/S/SZ002007",
+          "amarket": true
+        },
+        {
+          "name": "昭衍新药",
+          "code": "603127",
+          "percent": 7.06,
+          "current_price": 98.19,
+          "change_percentage": -0.81,
+          "xq_symbol": "SH603127",
+          "xq_url": "https://xueqiu.com/S/SH603127",
+          "amarket": true
+        },
+        {
+          "name": "凯莱英",
+          "code": "002821",
+          "percent": 6.79,
+          "current_price": 274,
+          "change_percentage": 1.64,
+          "xq_symbol": "SZ002821",
+          "xq_url": "https://xueqiu.com/S/SZ002821",
+          "amarket": true
+        },
+        {
+          "name": "艾德生物",
+          "code": "300685",
+          "percent": 6.22,
+          "current_price": 74.16,
+          "change_percentage": -2.32,
+          "xq_symbol": "SZ300685",
+          "xq_url": "https://xueqiu.com/S/SZ300685",
+          "amarket": true
+        },
+        {
+          "name": "益丰药房",
+          "code": "603939",
+          "percent": 6.01,
+          "current_price": 101.02,
+          "change_percentage": -1.4,
+          "xq_symbol": "SH603939",
+          "xq_url": "https://xueqiu.com/S/SH603939",
+          "amarket": true
+        },
+        {
+          "name": "欧普康视",
+          "code": "300595",
+          "percent": 5.82,
+          "current_price": 73.1,
+          "change_percentage": -0.41,
+          "xq_symbol": "SZ300595",
+          "xq_url": "https://xueqiu.com/S/SZ300595",
+          "amarket": true
+        },
+        {
+          "name": "大参林",
+          "code": "603233",
+          "percent": 5.57,
+          "current_price": 87.64,
+          "change_percentage": 0.62,
+          "xq_symbol": "SH603233",
+          "xq_url": "https://xueqiu.com/S/SH603233",
+          "amarket": true
+        },
+        {
+          "name": "迈瑞医疗",
+          "code": "300760",
+          "percent": 5.55,
+          "current_price": 351.9,
+          "change_percentage": 1.82,
+          "xq_symbol": "SZ300760",
+          "xq_url": "https://xueqiu.com/S/SZ300760",
+          "amarket": true
+        },
+        {
+          "name": "大博医疗",
+          "code": "002901",
+          "percent": 5.04,
+          "current_price": 72.78,
+          "change_percentage": -0.56,
+          "xq_symbol": "SZ002901",
+          "xq_url": "https://xueqiu.com/S/SZ002901",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "20国债01",
+          "code": "019627",
+          "percent": 4.74,
+          "xq_symbol": "019627",
+          "xq_url": "https://xueqiu.com/S/019627",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "003231",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.500"
+        },
+        {
+          "name": "30天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.70"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.20"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "皮劲松",
+        "resume": "    皮劲松先生,中国国籍,中国药科大学硕士,2009年9月至2012年4月先后任职于中药固体制剂国家工程中心、上海药明康德新药开发有限公司从事技术开发工作,2012年4月加入东莞证券研究所任研究员,2014年8月加入创金合信基金管理有限公司,历任研究员、投资经理,现任创金合信医疗保健行业股票型证券投资基金基金经理(2018年10月31日起任职),创金合信沪港深研究精选灵活配置混合型证券投资基金基金经理(2019年9月25日起任职)。",
+        "college": "中国药科大学",
+        "achievement_list": [
+          {
+            "fund_code": "010585",
+            "fundsname": "创金合信医药消费股票A",
+            "post_date": "2020-12-03",
+            "cp_rate": 0.01
+          },
+          {
+            "fund_code": "010586",
+            "fundsname": "创金合信医药消费股票C",
+            "post_date": "2020-12-03",
+            "cp_rate": 0.01
+          },
+          {
+            "fund_code": "001662",
+            "fundsname": "创金合信沪港深研究精选灵活混合",
+            "post_date": "2019-09-25",
+            "cp_rate": 53.1915
+          },
+          {
+            "fund_code": "003230",
+            "fundsname": "创金合信医疗保健股票A",
+            "post_date": "2018-10-31",
+            "cp_rate": 178.56
+          },
+          {
+            "fund_code": "003231",
+            "fundsname": "创金合信医疗保健股票C",
+            "post_date": "2018-10-31",
+            "cp_rate": 175.65
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "003231",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 2,
+      "all_buy_days": 2,
+      "all_sale_days": 3
+    }
+  },
+  "result_code": 0
+}
