@@ -1,0 +1,505 @@
+{
+  "data": {
+    "fund_company": "    国联安基金管理有限公司是国内首家获准筹建的中外合资基金管理公司。由国泰君安证券股份有限公司与德国安联集团(Allianz AG)共同发起设立。公司注册资本为1.5亿人民币,注册地为中国上海。\n    股东介绍\n    强大的中德股东给崭新的国联安基金管理有限公司带来了高质量的人才输送、品牌支持、国际化的视野和管理运作经验以及本土雄厚的研究、市场资源,对公司的产品开发、投资研究、风险管理、市场营销、信息技术、客户服务提供强大支持和保障。\n    国泰君安证券股份有限公司\n    国泰君安证券股份有限公司前身为国泰证券(1992年9月10日成立)和君安证券(1992年8月25日成立), 1999年8月18日两公司合并新设为国泰君安证券股份有限公司(\"国泰君安\"),目前注册资本为61亿元人民币。自成立之日起,国泰君安秉持以客户为中心的服务理念,扎根于国内资本市场,是国内规模最大、经营范围最广、机构分布最广、服务客户最多的证券公司之一,旗下设国泰君安金融控股有限公司(注册地香港)、国泰君安期货有限公司、上海国泰君安证券资产管理有限公司、国泰君安创新投资有限公司、国联安基金管理有限公司5家子公司,在全国30个省、市、自治区设有29家分公司、193个证券营业部。\n    安联集团 (Allianz AG)\n    作为世界领先的金融服务集团之一,安联集团在全球范围提供保险和资产管理解决方案,14.4万名员工在 世界70多个国家和地区为7,800多万客户提供服务。在财产险和责任险,寿险和健康险,及资产管理三大核心 业务领域,安联在全球的32个市场居五强地位。\n    尽管2012年资本市场动荡,安联集团仍取得了坚实的业绩,达到预期目标水平。年度总收入达到1,064亿欧元,经营利润95亿欧元。寿险和健康险领域的保费收入达523亿欧元,财产险和责任险的保费收入增长至469亿欧元。安联同时也是世界最大的资产管理人之一,年内管理的总资产增长11.8%,创18,520亿欧元的记录,截至2012年底管理的第三方资产总额达14,380亿欧元。\n    凭借在全球保险和金融服务领域中坚实的地位和雄厚的财力,安联拥有全球信用等级评审机构如标准普尔(Standard & Poor)的AA评级。安联在2013年美国财富杂志《Fortune》全球500强中列第31位;在2013年福布斯杂志(Forbes)全球2000中排名第25位。",
+    "fund_position": {
+      "stock_percent": 0.46,
+      "cash_percent": 6.52,
+      "other_percent": 93.02,
+      "asset_tot": 932483868.77,
+      "asset_val": 931920033.23,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "长江电力",
+          "code": "600900",
+          "percent": 0.14,
+          "current_price": 19.83,
+          "change_percentage": 0.15,
+          "xq_symbol": "SH600900",
+          "xq_url": "https://xueqiu.com/S/SH600900",
+          "amarket": true
+        },
+        {
+          "name": "山西汾酒",
+          "code": "600809",
+          "percent": 0.06,
+          "current_price": 265.1,
+          "change_percentage": 1.54,
+          "xq_symbol": "SH600809",
+          "xq_url": "https://xueqiu.com/S/SH600809",
+          "amarket": true
+        },
+        {
+          "name": "用友网络",
+          "code": "600588",
+          "percent": 0.05,
+          "current_price": 46.29,
+          "change_percentage": 0.67,
+          "xq_symbol": "SH600588",
+          "xq_url": "https://xueqiu.com/S/SH600588",
+          "amarket": true
+        },
+        {
+          "name": "光大证券",
+          "code": "601788",
+          "percent": 0.04,
+          "current_price": 18.83,
+          "change_percentage": -0.48,
+          "xq_symbol": "SH601788",
+          "xq_url": "https://xueqiu.com/S/SH601788",
+          "amarket": true
+        },
+        {
+          "name": "福耀玻璃",
+          "code": "600660",
+          "percent": 0.04,
+          "current_price": 38.74,
+          "change_percentage": 0,
+          "xq_symbol": "SH600660",
+          "xq_url": "https://xueqiu.com/S/SH600660",
+          "amarket": true
+        },
+        {
+          "name": "华夏幸福",
+          "code": "600340",
+          "percent": 0.02,
+          "current_price": 14.53,
+          "change_percentage": 0.28,
+          "xq_symbol": "SH600340",
+          "xq_url": "https://xueqiu.com/S/SH600340",
+          "amarket": true
+        },
+        {
+          "name": "南方航空",
+          "code": "600029",
+          "percent": 0.02,
+          "current_price": 6.16,
+          "change_percentage": -1.12,
+          "xq_symbol": "SH600029",
+          "xq_url": "https://xueqiu.com/S/SH600029",
+          "amarket": true
+        },
+        {
+          "name": "包钢股份",
+          "code": "600010",
+          "percent": 0.02,
+          "current_price": 1.18,
+          "change_percentage": -0.84,
+          "xq_symbol": "SH600010",
+          "xq_url": "https://xueqiu.com/S/SH600010",
+          "amarket": true
+        },
+        {
+          "name": "国电电力",
+          "code": "600795",
+          "percent": 0.02,
+          "current_price": 2.17,
+          "change_percentage": -0.46,
+          "xq_symbol": "SH600795",
+          "xq_url": "https://xueqiu.com/S/SH600795",
+          "amarket": true
+        },
+        {
+          "name": "中航资本",
+          "code": "600705",
+          "percent": 0.02,
+          "current_price": 4.45,
+          "change_percentage": -1.11,
+          "xq_symbol": "SH600705",
+          "xq_url": "https://xueqiu.com/S/SH600705",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "008391",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "1",
+      "subscribe_discount": "1",
+      "declare_discount": "1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.20"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.10"
+        },
+        {
+          "name": "基金管理费",
+          "value": "0.20"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "黄欣",
+        "resume": "    黄欣先生,伦敦经济学院会计金融专业硕士。2003年10月起加入国联安基金管理有限公司,先后担任产品开发部经理助理、总经理特别助理、投资组合管理部债券投资助理等。2010年4月起担任国联安双禧中证100指数分级证券投资基金基金经理,2010年5月起至2012年9月兼任国联安德盛安心成长混合型证券投资基金基金经理,2010年11月起兼任上证大宗商品股票交易型开放式指数证券投资基金基金经理,2010年12月起兼任国联安上证大宗商品股票交易型开放式指数证券投资基金联接基金基金经理,2013年6月起至2017年6月兼任国联安中证股债动态策略指数证券投资基金基金经理,2016年8月起兼任国联安双力中小板综指证券投资基金(LOF)和国联安中证医药100指数证券投资基金基金经理,2018年3月起兼任国联安添鑫灵活配置混合型证券投资基金基金经理,2019年5月起兼任国联安中证全指半导体产品与设备交易型开放式指数证券投资基金的基金经理,2019年6月起兼任国联安中证全指半导体产品与设备交易型开放式指数证券投资基金联接基金的基金经理,2019年11月起兼任国联安沪深300交易型开放式指数证券投资基金的基金经理,2019年12月起兼任国联安沪深300交易型开放式指数证券投资基金联接基金的基金经理。",
+        "college": "伦敦经济学院",
+        "work_year": "18",
+        "achievement_list": [
+          {
+            "fund_code": "162509",
+            "fundsname": "国联安中证100指数(LOF)",
+            "post_date": "2020-12-04",
+            "cp_rate": -0.9
+          },
+          {
+            "fund_code": "008391",
+            "fundsname": "国联安沪深300ETF联接C",
+            "post_date": "2019-12-25",
+            "cp_rate": 30.46
+          },
+          {
+            "fund_code": "008390",
+            "fundsname": "国联安沪深300ETF联接A",
+            "post_date": "2019-12-25",
+            "cp_rate": 30.48
+          },
+          {
+            "fund_code": "515660",
+            "fundsname": "国联安沪深300ETF",
+            "post_date": "2019-11-25",
+            "cp_rate": 36.93
+          },
+          {
+            "fund_code": "007300",
+            "fundsname": "国联安中证全指半导体ETF联接A",
+            "post_date": "2019-06-26",
+            "cp_rate": 116.7683
+          },
+          {
+            "fund_code": "007301",
+            "fundsname": "国联安中证全指半导体ETF联接C",
+            "post_date": "2019-06-26",
+            "cp_rate": 115.4685
+          },
+          {
+            "fund_code": "512480",
+            "fundsname": "国联安中证全指半导体ETF",
+            "post_date": "2019-05-08",
+            "cp_rate": 122.3
+          },
+          {
+            "fund_code": "006569",
+            "fundsname": "国联安中证医药100C",
+            "post_date": "2018-10-26",
+            "cp_rate": 82.1607
+          },
+          {
+            "fund_code": "001654",
+            "fundsname": "国联安添鑫灵活配置混合C",
+            "post_date": "2018-03-12",
+            "resi_date": "2019-07-22",
+            "cp_rate": -9.0635
+          },
+          {
+            "fund_code": "001359",
+            "fundsname": "国联安添鑫灵活配置混合A",
+            "post_date": "2018-03-12",
+            "resi_date": "2019-07-22",
+            "cp_rate": -8.4273
+          },
+          {
+            "fund_code": "000059",
+            "fundsname": "国联安中证医药100A",
+            "post_date": "2016-08-19",
+            "cp_rate": 31.0371
+          },
+          {
+            "fund_code": "150070",
+            "fundsname": "国联安双力B中小板综指",
+            "post_date": "2016-08-19"
+          },
+          {
+            "fund_code": "150069",
+            "fundsname": "国联安双力A中小板综指",
+            "post_date": "2016-08-19"
+          },
+          {
+            "fund_code": "162510",
+            "fundsname": "国联安双力中小板(LOF)",
+            "post_date": "2016-08-19",
+            "cp_rate": 1.0926
+          },
+          {
+            "fund_code": "000060",
+            "fundsname": "国联安股债动态",
+            "post_date": "2013-06-26",
+            "resi_date": "2017-03-29",
+            "cp_rate": -8.9
+          },
+          {
+            "fund_code": "257060",
+            "fundsname": "国联安上证商品ETF联接",
+            "post_date": "2010-12-01",
+            "cp_rate": -24.4444
+          },
+          {
+            "fund_code": "510170",
+            "fundsname": "国联安上证商品ETF",
+            "post_date": "2010-11-26",
+            "cp_rate": -24.9549
+          },
+          {
+            "fund_code": "253010",
+            "fundsname": "国联安安心成长混合",
+            "post_date": "2010-05-27",
+            "resi_date": "2012-09-13",
+            "cp_rate": -18.9023
+          },
+          {
+            "fund_code": "150013",
+            "fundsname": "国联安双禧B中证100指数",
+            "post_date": "2010-04-16",
+            "resi_date": "2020-12-03",
+            "cp_rate": 140.0601
+          },
+          {
+            "fund_code": "150012",
+            "fundsname": "国联安双禧A中证100指数",
+            "post_date": "2010-04-16",
+            "resi_date": "2020-12-03",
+            "cp_rate": 74.0559
+          },
+          {
+            "fund_code": "162509",
+            "fundsname": "国联安双禧中证100指数分级",
+            "post_date": "2010-04-16",
+            "resi_date": "2020-12-03",
+            "cp_rate": 125.2653
+          }
+        ]
+      },
+      {
+        "name": "章椹元",
+        "resume": "    章椹元先生,北京大学金融学硕士、复旦大学理学学士。 2008年7月至2011年5月就职于建信基金管理有限公司任研究员,2011年5月至2015年5月就职于富国基金管理有限公司任基金经理助理、 基金经理,2015年5月至2019年5月就职于融通基金管理有限公司,历任专户投资经理、基金经理、指数与量化投资部总经理,2019年5月加入国联安基金管理有限公司,任量化投资部总经理。2020年5月起担任国联安沪深300交易型开放式指数证券投资基金的基金经理。",
+        "college": "北京大学",
+        "achievement_list": [
+          {
+            "fund_code": "007301",
+            "fundsname": "国联安中证全指半导体ETF联接C",
+            "post_date": "2020-08-13",
+            "cp_rate": -2.3695
+          },
+          {
+            "fund_code": "008391",
+            "fundsname": "国联安沪深300ETF联接C",
+            "post_date": "2020-08-13",
+            "cp_rate": 8.7167
+          },
+          {
+            "fund_code": "008390",
+            "fundsname": "国联安沪深300ETF联接A",
+            "post_date": "2020-08-13",
+            "cp_rate": 8.7877
+          },
+          {
+            "fund_code": "007300",
+            "fundsname": "国联安中证全指半导体ETF联接A",
+            "post_date": "2020-08-13",
+            "cp_rate": -2.294
+          },
+          {
+            "fund_code": "512480",
+            "fundsname": "国联安中证全指半导体ETF",
+            "post_date": "2020-08-13",
+            "cp_rate": -2.913
+          },
+          {
+            "fund_code": "515660",
+            "fundsname": "国联安沪深300ETF",
+            "post_date": "2020-05-06",
+            "cp_rate": 34.5485
+          },
+          {
+            "fund_code": "002955",
+            "fundsname": "融通新趋势灵活配置混合",
+            "post_date": "2018-03-10",
+            "resi_date": "2019-04-30",
+            "cp_rate": -5.1282
+          },
+          {
+            "fund_code": "161029",
+            "fundsname": "富国中证银行指数分级",
+            "post_date": "2015-04-30",
+            "resi_date": "2015-05-13",
+            "cp_rate": 0.1
+          },
+          {
+            "fund_code": "150241",
+            "fundsname": "富国银行A",
+            "post_date": "2015-04-30",
+            "resi_date": "2015-05-13",
+            "cp_rate": 0.2
+          },
+          {
+            "fund_code": "150242",
+            "fundsname": "富国银行B",
+            "post_date": "2015-04-30",
+            "resi_date": "2015-05-13",
+            "cp_rate": 0
+          },
+          {
+            "fund_code": "161028",
+            "fundsname": "富国中证新能源汽车指数分级",
+            "post_date": "2015-03-30",
+            "resi_date": "2015-05-13",
+            "cp_rate": 8.6
+          },
+          {
+            "fund_code": "150211",
+            "fundsname": "富国新能源汽车A",
+            "post_date": "2015-03-30",
+            "resi_date": "2015-05-13",
+            "cp_rate": 0.7
+          },
+          {
+            "fund_code": "150212",
+            "fundsname": "富国新能源汽车B",
+            "post_date": "2015-03-30",
+            "resi_date": "2015-05-13",
+            "cp_rate": 16.5
+          },
+          {
+            "fund_code": "150224",
+            "fundsname": "富国证券B",
+            "post_date": "2015-03-27",
+            "resi_date": "2015-05-13",
+            "cp_rate": 13
+          },
+          {
+            "fund_code": "150223",
+            "fundsname": "富国证券A",
+            "post_date": "2015-03-27",
+            "resi_date": "2015-05-13",
+            "cp_rate": 0.8
+          },
+          {
+            "fund_code": "161027",
+            "fundsname": "富国中证全指证券公司指数分级",
+            "post_date": "2015-03-27",
+            "resi_date": "2015-05-13",
+            "cp_rate": 6.9
+          },
+          {
+            "fund_code": "150210",
+            "fundsname": "富国中证国有企业改革指数分级B",
+            "post_date": "2014-12-17",
+            "resi_date": "2015-05-13",
+            "cp_rate": 83.7
+          },
+          {
+            "fund_code": "150209",
+            "fundsname": "富国中证国有企业改革指数分级A",
+            "post_date": "2014-12-17",
+            "resi_date": "2015-05-13",
+            "cp_rate": 2.3
+          },
+          {
+            "fund_code": "161026",
+            "fundsname": "富国中证国有企业改革指数分级",
+            "post_date": "2014-12-17",
+            "resi_date": "2015-05-13",
+            "cp_rate": 43
+          },
+          {
+            "fund_code": "161025",
+            "fundsname": "富国移动互联网",
+            "post_date": "2014-09-02",
+            "resi_date": "2015-05-13",
+            "cp_rate": 104.48
+          },
+          {
+            "fund_code": "150194",
+            "fundsname": "富国移动互联网A",
+            "post_date": "2014-09-02",
+            "resi_date": "2015-05-13",
+            "cp_rate": 4
+          },
+          {
+            "fund_code": "150195",
+            "fundsname": "富国移动互联网B",
+            "post_date": "2014-09-02",
+            "resi_date": "2015-05-13",
+            "cp_rate": 236.74
+          },
+          {
+            "fund_code": "161024",
+            "fundsname": "富国中证军工指数分级",
+            "post_date": "2014-04-09",
+            "resi_date": "2015-05-13",
+            "cp_rate": 151.55
+          },
+          {
+            "fund_code": "150182",
+            "fundsname": "富国中证军工指数分级B",
+            "post_date": "2014-04-09",
+            "resi_date": "2015-05-13",
+            "cp_rate": 370.3403
+          },
+          {
+            "fund_code": "150181",
+            "fundsname": "富国中证军工指数分级A",
+            "post_date": "2014-04-09",
+            "resi_date": "2015-05-13",
+            "cp_rate": 6.5035
+          },
+          {
+            "fund_code": "150153",
+            "fundsname": "富国创业板B",
+            "post_date": "2013-12-05",
+            "resi_date": "2015-05-13",
+            "cp_rate": 387.7721
+          },
+          {
+            "fund_code": "150152",
+            "fundsname": "富国创业板A",
+            "post_date": "2013-12-05",
+            "resi_date": "2015-05-13",
+            "cp_rate": 9.3005
+          },
+          {
+            "fund_code": "161022",
+            "fundsname": "富国创业板指数分级",
+            "post_date": "2013-12-05",
+            "resi_date": "2015-05-13",
+            "cp_rate": 154.9777
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "008391",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

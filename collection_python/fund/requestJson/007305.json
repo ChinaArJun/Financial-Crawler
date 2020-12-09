@@ -1,0 +1,218 @@
+{
+  "data": {
+    "fund_company": "    国联安基金管理有限公司是国内首家获准筹建的中外合资基金管理公司。由国泰君安证券股份有限公司与德国安联集团(Allianz AG)共同发起设立。公司注册资本为1.5亿人民币,注册地为中国上海。\n    股东介绍\n    强大的中德股东给崭新的国联安基金管理有限公司带来了高质量的人才输送、品牌支持、国际化的视野和管理运作经验以及本土雄厚的研究、市场资源,对公司的产品开发、投资研究、风险管理、市场营销、信息技术、客户服务提供强大支持和保障。\n    国泰君安证券股份有限公司\n    国泰君安证券股份有限公司前身为国泰证券(1992年9月10日成立)和君安证券(1992年8月25日成立), 1999年8月18日两公司合并新设为国泰君安证券股份有限公司(\"国泰君安\"),目前注册资本为61亿元人民币。自成立之日起,国泰君安秉持以客户为中心的服务理念,扎根于国内资本市场,是国内规模最大、经营范围最广、机构分布最广、服务客户最多的证券公司之一,旗下设国泰君安金融控股有限公司(注册地香港)、国泰君安期货有限公司、上海国泰君安证券资产管理有限公司、国泰君安创新投资有限公司、国联安基金管理有限公司5家子公司,在全国30个省、市、自治区设有29家分公司、193个证券营业部。\n    安联集团 (Allianz AG)\n    作为世界领先的金融服务集团之一,安联集团在全球范围提供保险和资产管理解决方案,14.4万名员工在 世界70多个国家和地区为7,800多万客户提供服务。在财产险和责任险,寿险和健康险,及资产管理三大核心 业务领域,安联在全球的32个市场居五强地位。\n    尽管2012年资本市场动荡,安联集团仍取得了坚实的业绩,达到预期目标水平。年度总收入达到1,064亿欧元,经营利润95亿欧元。寿险和健康险领域的保费收入达523亿欧元,财产险和责任险的保费收入增长至469亿欧元。安联同时也是世界最大的资产管理人之一,年内管理的总资产增长11.8%,创18,520亿欧元的记录,截至2012年底管理的第三方资产总额达14,380亿欧元。\n    凭借在全球保险和金融服务领域中坚实的地位和雄厚的财力,安联拥有全球信用等级评审机构如标准普尔(Standard & Poor)的AA评级。安联在2013年美国财富杂志《Fortune》全球500强中列第31位;在2013年福布斯杂志(Forbes)全球2000中排名第25位。",
+    "fund_position": {
+      "stock_percent": 83.84,
+      "cash_percent": 16.08,
+      "other_percent": 0.08,
+      "asset_tot": 301155332.32,
+      "asset_val": 299969951.02,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "宝信软件",
+          "code": "600845",
+          "percent": 4.34,
+          "current_price": 64.06,
+          "change_percentage": 0.13,
+          "xq_symbol": "SH600845",
+          "xq_url": "https://xueqiu.com/S/SH600845",
+          "amarket": true
+        },
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 4,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 3.81,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "万华化学",
+          "code": "600309",
+          "percent": 2.47,
+          "current_price": 82.99,
+          "change_percentage": -0.3,
+          "xq_symbol": "SH600309",
+          "xq_url": "https://xueqiu.com/S/SH600309",
+          "amarket": true
+        },
+        {
+          "name": "恒瑞医药",
+          "code": "600276",
+          "percent": 2.34,
+          "current_price": 90.07,
+          "change_percentage": 0.21,
+          "xq_symbol": "SH600276",
+          "xq_url": "https://xueqiu.com/S/SH600276",
+          "amarket": true
+        },
+        {
+          "name": "美的集团",
+          "code": "000333",
+          "percent": 2.3,
+          "current_price": 86.7,
+          "change_percentage": -1.54,
+          "xq_symbol": "SZ000333",
+          "xq_url": "https://xueqiu.com/S/SZ000333",
+          "amarket": true
+        },
+        {
+          "name": "爱尔眼科",
+          "code": "300015",
+          "percent": 2.23,
+          "current_price": 66.63,
+          "change_percentage": -0.25,
+          "xq_symbol": "SZ300015",
+          "xq_url": "https://xueqiu.com/S/SZ300015",
+          "amarket": true
+        },
+        {
+          "name": "亿纬锂能",
+          "code": "300014",
+          "percent": 2.2,
+          "current_price": 63.71,
+          "change_percentage": 4.17,
+          "xq_symbol": "SZ300014",
+          "xq_url": "https://xueqiu.com/S/SZ300014",
+          "amarket": true
+        },
+        {
+          "name": "恩捷股份",
+          "code": "002812",
+          "percent": 2.07,
+          "current_price": 108,
+          "change_percentage": 0.88,
+          "xq_symbol": "SZ002812",
+          "xq_url": "https://xueqiu.com/S/SZ002812",
+          "amarket": true
+        },
+        {
+          "name": "三一重工",
+          "code": "600031",
+          "percent": 2.07,
+          "current_price": 31.48,
+          "change_percentage": -1.41,
+          "xq_symbol": "SH600031",
+          "xq_url": "https://xueqiu.com/S/SH600031",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "007305",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "1.20"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<180天",
+          "value": "0.500"
+        },
+        {
+          "name": "6月≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "张汉毅",
+        "resume": "    张汉毅先生,硕士研究生。2009年7月至2011年4月在工业和信息化部电信研究院通信计量中心担任测试工程师。2011年4月至2012年5月在光大证券股份有限公司资产管理总部担任行业研究员。2012年5月至2013年11月在上海光大证券资产管理有限公司担任行业研究员。2013年12月加入国联安基金管理有限公司,历任行业研究员、基金经理助理。2016年12月起担任国联安主题驱动混合型证券投资基金的基金经理,2019年9月起兼任国联安新科技混合型证券投资基金的基金经理。",
+        "work_year": "9",
+        "achievement_list": [
+          {
+            "fund_code": "008878",
+            "fundsname": "国联安新蓝筹红利一年定开混合",
+            "post_date": "2020-08-17",
+            "cp_rate": 9.2353
+          },
+          {
+            "fund_code": "007305",
+            "fundsname": "国联安新科技混合",
+            "post_date": "2019-09-27",
+            "cp_rate": 73.57
+          },
+          {
+            "fund_code": "257050",
+            "fundsname": "国联安主题驱动混合",
+            "post_date": "2016-12-23",
+            "cp_rate": 130.4089
+          }
+        ]
+      },
+      {
+        "name": "高诗",
+        "resume": "    高诗先生,硕士研究生。2011年4月至2013年1月担任国金证券研究所行业研究员;2013年2月至2014年3月担任宏源证券研究所行业研究员;2014年4月至2015年7月担任上海雀沃信息技术有限公司资深分析师。2015年7月加入国联安基金管理有限公司,担任资深行业研究员。2019年9月起担任国联安新科技混合型证券投资基金的基金经理。",
+        "achievement_list": [
+          {
+            "fund_code": "007305",
+            "fundsname": "国联安新科技混合",
+            "post_date": "2019-09-27",
+            "cp_rate": 73.57
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "007305",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 4,
+      "all_buy_days": 2,
+      "all_sale_days": 5
+    }
+  },
+  "result_code": 0
+}

@@ -1,0 +1,136 @@
+{
+  "data": {
+    "fund_position": {
+      "stock_percent": 89.8,
+      "cash_percent": 10,
+      "other_percent": 0.2,
+      "asset_tot": 7085011.23,
+      "asset_val": 6931994.8,
+      "source_mark": "中报",
+      "source": "3",
+      "enddate": "2020-06-30",
+      "stock_list": [
+        {
+          "name": "方大特钢",
+          "code": "600507",
+          "percent": 2.99,
+          "current_price": 6.9,
+          "change_percentage": -1,
+          "xq_symbol": "SH600507",
+          "xq_url": "https://xueqiu.com/S/SH600507",
+          "amarket": true
+        },
+        {
+          "name": "中国神华",
+          "code": "601088",
+          "percent": 2.8,
+          "current_price": 18.4,
+          "change_percentage": -0.43,
+          "xq_symbol": "SH601088",
+          "xq_url": "https://xueqiu.com/S/SH601088",
+          "amarket": true
+        },
+        {
+          "name": "东睦股份",
+          "code": "600114",
+          "percent": 2.52,
+          "current_price": 8.64,
+          "change_percentage": 2.13,
+          "xq_symbol": "SH600114",
+          "xq_url": "https://xueqiu.com/S/SH600114",
+          "amarket": true
+        },
+        {
+          "name": "三钢闽光",
+          "code": "002110",
+          "percent": 2.17,
+          "current_price": 6.93,
+          "change_percentage": -0.43,
+          "xq_symbol": "SZ002110",
+          "xq_url": "https://xueqiu.com/S/SZ002110",
+          "amarket": true
+        },
+        {
+          "name": "塔牌集团",
+          "code": "002233",
+          "percent": 2.1,
+          "current_price": 13.35,
+          "change_percentage": 0.23,
+          "xq_symbol": "SZ002233",
+          "xq_url": "https://xueqiu.com/S/SZ002233",
+          "amarket": true
+        },
+        {
+          "name": "永兴材料",
+          "code": "002756",
+          "percent": 2.07,
+          "current_price": 31.2,
+          "change_percentage": 0,
+          "xq_symbol": "SZ002756",
+          "xq_url": "https://xueqiu.com/S/SZ002756",
+          "amarket": true
+        },
+        {
+          "name": "三诺生物",
+          "code": "300298",
+          "percent": 2.04,
+          "current_price": 36.37,
+          "change_percentage": -0.19,
+          "xq_symbol": "SZ300298",
+          "xq_url": "https://xueqiu.com/S/SZ300298",
+          "amarket": true
+        },
+        {
+          "name": "万年青",
+          "code": "000789",
+          "percent": 2.02,
+          "current_price": 14.4,
+          "change_percentage": 0.07,
+          "xq_symbol": "SZ000789",
+          "xq_url": "https://xueqiu.com/S/SZ000789",
+          "amarket": true
+        },
+        {
+          "name": "金达威",
+          "code": "002626",
+          "percent": 1.98,
+          "current_price": 36.11,
+          "change_percentage": -2.35,
+          "xq_symbol": "SZ002626",
+          "xq_url": "https://xueqiu.com/S/SZ002626",
+          "amarket": true
+        },
+        {
+          "name": "粤高速A",
+          "code": "000429",
+          "percent": 1.93,
+          "current_price": 6.77,
+          "change_percentage": -0.15,
+          "xq_symbol": "SZ000429",
+          "xq_url": "https://xueqiu.com/S/SZ000429",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "003702",
+      "subscribe_rate": "0",
+      "declare_rate": "0",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1"
+    },
+    "manager_list": [],
+    "fund_date_conf": {
+      "fd_code": "003702",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 1,
+      "all_buy_days": 2,
+      "all_sale_days": 2
+    }
+  },
+  "result_code": 0
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "fund_company": "    国泰基金成立于1998年3月,是国内首批规范成立的基金管理公司之一。历经17年的市场磨砺,公司稳步发展,目前进入了新的发展阶段。2010年全球领先的保险集团之一意大利忠利集团正式收购公司部分股权,国泰基金变身为中外合资基金公司,并在投资管理、产品研发、风险控制、基金营销等多方面与之展开交流与合作,得到了显著提高。(注:基金管理人与股东之间实行业务隔离制度,股东并不直接参与基金财产的投资运作。)目前公司已拥有包括公募基金、社保基金投资管理人、企业年金投资管理人、特定客户资产管理业务和合格境内机构投资者等业务资格,是行业内极少数拥有并开展多类业务的资产管理公司之一。\n    自1998年3月23日公开发行国内第一只封闭式基金——基金金泰以来,国泰基金的产品线不断得到丰富和完善。目前公司旗下共管理着58只公募基金,2只养老金产品和包括专户、年金、社保、投资咨询在内80多个资产委托组合,形成了丰富的资产管理产品线,能够满足不同风险偏好投资者的需求。\n    17年来,国泰基金始终秉承\"以最大的专业性和勤勉为投资人实现长期稳定的财富增值\"的经营宗旨,赢得了包括全国社会保障基金理事会在内的数百万投资人的信任。在为投资者创造物质财富的同时,也不忘承担社会责任,通过\"红蜡烛助教计划\"开展支学助教活动,积极践行\"和谐社会\"的价值观,为社会精神财富的创造贡献力量。截至2015年,国泰基金\"红蜡烛助教计划\"已历时8年,在全国范围内完成助教22次、捐助\"红蜡烛图书馆\"12座、\"红蜡烛·梦想中心\"多媒体教室4个、助养学生 128人、捐赠图书21287本、受益师生近6000人次。",
+    "fund_position": {
+      "stock_percent": 83.13,
+      "cash_percent": 16.72,
+      "other_percent": 0.15,
+      "asset_tot": 231706368.03,
+      "asset_val": 230550906.21,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "三一重工",
+          "code": "600031",
+          "percent": 6.62,
+          "current_price": 31.48,
+          "change_percentage": -1.41,
+          "xq_symbol": "SH600031",
+          "xq_url": "https://xueqiu.com/S/SH600031",
+          "amarket": true
+        },
+        {
+          "name": "泸州老窖",
+          "code": "000568",
+          "percent": 4.72,
+          "current_price": 191.85,
+          "change_percentage": 0.56,
+          "xq_symbol": "SZ000568",
+          "xq_url": "https://xueqiu.com/S/SZ000568",
+          "amarket": true
+        },
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 4.55,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "常熟银行",
+          "code": "601128",
+          "percent": 3.86,
+          "current_price": 7.34,
+          "change_percentage": -0.14,
+          "xq_symbol": "SH601128",
+          "xq_url": "https://xueqiu.com/S/SH601128",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 3.68,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "万华化学",
+          "code": "600309",
+          "percent": 3.64,
+          "current_price": 82.99,
+          "change_percentage": -0.3,
+          "xq_symbol": "SH600309",
+          "xq_url": "https://xueqiu.com/S/SH600309",
+          "amarket": true
+        },
+        {
+          "name": "仙琚制药",
+          "code": "002332",
+          "percent": 3.54,
+          "current_price": 14.39,
+          "change_percentage": 1.34,
+          "xq_symbol": "SZ002332",
+          "xq_url": "https://xueqiu.com/S/SZ002332",
+          "amarket": true
+        },
+        {
+          "name": "中国平安",
+          "code": "601318",
+          "percent": 3.53,
+          "current_price": 88.05,
+          "change_percentage": -2.58,
+          "xq_symbol": "SH601318",
+          "xq_url": "https://xueqiu.com/S/SH601318",
+          "amarket": true
+        },
+        {
+          "name": "扬农化工",
+          "code": "600486",
+          "percent": 3.41,
+          "current_price": 120.75,
+          "change_percentage": 0.02,
+          "xq_symbol": "SH600486",
+          "xq_url": "https://xueqiu.com/S/SH600486",
+          "amarket": true
+        },
+        {
+          "name": "先达股份",
+          "code": "603086",
+          "percent": 3.17,
+          "current_price": 17.97,
+          "change_percentage": 0.73,
+          "xq_symbol": "SH603086",
+          "xq_url": "https://xueqiu.com/S/SH603086",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "001626",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<300万",
+          "value": "1.20"
+        },
+        {
+          "name": "300万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<180天",
+          "value": "0.500"
+        },
+        {
+          "name": "180天≤持有期限<365天",
+          "value": "0.100"
+        },
+        {
+          "name": "365天≤持有期限<730天",
+          "value": "0.050"
+        },
+        {
+          "name": "730天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "饶玉涵",
+        "resume": "    饶玉涵,硕士研究生,8年证券基金从业经历。2010年7月加入国泰基金管理有限公司,历任研究员和基金经理助理。2015年9月起任国泰区位优势混合型证券投资基金的基金经理,2016年1月起兼任国泰央企改革股票型证券投资基金的基金经理,2016年7月起兼任国泰金鹏蓝筹价值混合型证券投资基金的基金经理,2018年3月起兼任国泰金鼎价值精选混合型证券投资基金的基金经理。",
+        "work_year": "10",
+        "achievement_list": [
+          {
+            "fund_code": "006354",
+            "fundsname": "国泰民裕进取灵活配置混合",
+            "post_date": "2020-09-29",
+            "cp_rate": 1.01
+          },
+          {
+            "fund_code": "519021",
+            "fundsname": "国泰金鼎价值混合",
+            "post_date": "2018-03-13",
+            "cp_rate": 55.5935
+          },
+          {
+            "fund_code": "020009",
+            "fundsname": "国泰金鹏蓝筹价值",
+            "post_date": "2016-07-05",
+            "resi_date": "2020-10-16",
+            "cp_rate": 79.7369
+          },
+          {
+            "fund_code": "001626",
+            "fundsname": "国泰央企改革股票",
+            "post_date": "2016-01-08",
+            "cp_rate": 138.8286
+          },
+          {
+            "fund_code": "020015",
+            "fundsname": "国泰区位优势混合",
+            "post_date": "2015-09-09",
+            "cp_rate": 146.3507
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "001626",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

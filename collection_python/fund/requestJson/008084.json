@@ -1,0 +1,244 @@
+{
+  "data": {
+    "fund_company": "    海富通基金管理有限公司成立于2003年4月,是中国首批获准成立的中外合资基金管理公司。\n    从2003年8月开始,海富通先后募集成立了43只公募基金。截至2016年12月31日,海富通管理的公募基金资产规模为442.56亿元人民币。\n    作为国家人力资源和社会保障部首批企业年金基金投资管理人,截至2016年12月31日,海富通为77家企业超过370.18亿元的企业年金基金担任了投资管理人。作为首批特定客户资产管理业务资格的基金管理公司,截至2016年12月31日,海富通旗下专项管理业务总管理金额超过830.56亿元人民币。2010年12月,海富通基金管理有限公司被全国社会保障基金理事会选聘为境内委托投资管理人。2012 年9 月,中国保监会公告确认海富通基金为首批保险资金投资管理人之一。\n    2004年末开始,海富通为QFII(合格境外机构投资者)及其他多个海内外投资组合担任投资咨询顾问,截至2016年12月31日, 投资咨询及海外业务规模近62.19亿元人民币。2011年12月,海富通全资子公司——海富通资产管理(香港)有限公司获得证监会核准批复RQFII(人民币合格境外机构投资者)业务资格,能够在香港筹集人民币资金投资境内证券市场。2012年2月,海富通资产管理(香港)有限公司已募集发行了首只RQFII产品。2014年8月,上海富诚海富通资产管理有限公司成立。\n    2012年3月,国内权威财经媒体《中国证券报》等授予海富通基金管理有限公司“中国基金业金牛基金管理公司”大奖,《证券时报》授予海富通精选混合基金“2011年中国基金业明星奖—五年持续回报平衡混合型明星基金”荣誉。2013年4月,《上海证券报》授予海富通精选混合基金2012年“金基金”奖——分红基金奖。2016年3月,《中国证券报》等授予海富通基金管理有限公司“固定收益投资金牛基金公司”大奖。 2016年9月,招商银行授予海富通基金管理有限公司“2015年金眼睛企业年金投资优胜奖”。2016年11月,《每日经济新闻》授予富诚海富通2016年“金鼎奖”——“最具竞争力子公司”奖、“最佳特色产品(含“一对一”)”奖。\n    海富通同时还在不断践行其社会责任。公司自2008年启动“绿色与希望-橄榄枝公益环保计划”,针对汶川震区受灾学校、上海民工小学、安徽老区小学进行了物资捐赠,向内蒙古库伦旗捐建了环保公益林。几年来,海富通的公益行动进一步升级,持续为上海民工小学学生捐献生活物资,并向安徽农村小学捐献图书室。此外,海富通还积极推进投资者教育工作,推出了以“幸福投资”为主题和特色的投资者教育活动,向投资者传播长期投资、理性投资的理念。",
+    "fund_position": {
+      "stock_percent": 93.1,
+      "cash_percent": 6.63,
+      "other_percent": 0.27,
+      "asset_tot": 740118761.51,
+      "asset_val": 730501985.67,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "振华科技",
+          "code": "000733",
+          "percent": 9.79,
+          "current_price": 44.79,
+          "change_percentage": -3.99,
+          "xq_symbol": "SZ000733",
+          "xq_url": "https://xueqiu.com/S/SZ000733",
+          "amarket": true
+        },
+        {
+          "name": "中孚信息",
+          "code": "300659",
+          "percent": 9.03,
+          "current_price": 48.81,
+          "change_percentage": 1.62,
+          "xq_symbol": "SZ300659",
+          "xq_url": "https://xueqiu.com/S/SZ300659",
+          "amarket": true
+        },
+        {
+          "name": "金山办公",
+          "code": "688111",
+          "percent": 8.74,
+          "current_price": 349.5,
+          "change_percentage": -2.75,
+          "xq_symbol": "SH688111",
+          "xq_url": "https://xueqiu.com/S/SH688111",
+          "amarket": true
+        },
+        {
+          "name": "东方通",
+          "code": "300379",
+          "percent": 7.57,
+          "current_price": 38.84,
+          "change_percentage": -0.56,
+          "xq_symbol": "SZ300379",
+          "xq_url": "https://xueqiu.com/S/SZ300379",
+          "amarket": true
+        },
+        {
+          "name": "诚迈科技",
+          "code": "300598",
+          "percent": 7.41,
+          "current_price": 121.22,
+          "change_percentage": 0.38,
+          "xq_symbol": "SZ300598",
+          "xq_url": "https://xueqiu.com/S/SZ300598",
+          "amarket": true
+        },
+        {
+          "name": "鸿远电子",
+          "code": "603267",
+          "percent": 7.32,
+          "current_price": 109.5,
+          "change_percentage": 1.01,
+          "xq_symbol": "SH603267",
+          "xq_url": "https://xueqiu.com/S/SH603267",
+          "amarket": true
+        },
+        {
+          "name": "西部超导",
+          "code": "688122",
+          "percent": 6.93,
+          "current_price": 63.09,
+          "change_percentage": 3.09,
+          "xq_symbol": "SH688122",
+          "xq_url": "https://xueqiu.com/S/SH688122",
+          "amarket": true
+        },
+        {
+          "name": "中科曙光",
+          "code": "603019",
+          "percent": 5.53,
+          "current_price": 34.44,
+          "change_percentage": -1.4,
+          "xq_symbol": "SH603019",
+          "xq_url": "https://xueqiu.com/S/SH603019",
+          "amarket": true
+        },
+        {
+          "name": "紫光国微",
+          "code": "002049",
+          "percent": 4.81,
+          "current_price": 111.3,
+          "change_percentage": 0.45,
+          "xq_symbol": "SZ002049",
+          "xq_url": "https://xueqiu.com/S/SZ002049",
+          "amarket": true
+        },
+        {
+          "name": "红相股份",
+          "code": "300427",
+          "percent": 3.86,
+          "current_price": 23.81,
+          "change_percentage": -0.17,
+          "xq_symbol": "SZ300427",
+          "xq_url": "https://xueqiu.com/S/SZ300427",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "008084",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.500"
+        },
+        {
+          "name": "30天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.40"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "吕越超",
+        "resume": "    吕越超先生,泰达周期基金基金经理,金融学硕士。2010 年 7 月至 2010 年 12 月就职于长江证券, 担任机械行业分析师; 2010 年 12 月加盟泰达宏利基金管理有限公司, 担任研究员;2014 年 11 月 21 日起担任周期类行业混合型证券投资基金基金经理;5 年证券从业经验,2014年11月至2016年7月任泰达宏利周期混合基金经理,2015年6月至2016年7月兼任泰达宏利创益混合基金经理。2016年7月加入海富通基金管理有限公司,拟任基金经理。,具有基金从业资格。",
+        "college": "上海财经大学",
+        "work_year": "10",
+        "achievement_list": [
+          {
+            "fund_code": "009652",
+            "fundsname": "海富通成长甄选混合C",
+            "post_date": "2020-09-27",
+            "cp_rate": 1.3501
+          },
+          {
+            "fund_code": "009651",
+            "fundsname": "海富通成长甄选混合A",
+            "post_date": "2020-09-27",
+            "cp_rate": 1.4301
+          },
+          {
+            "fund_code": "009024",
+            "fundsname": "海富通科技创新混合C",
+            "post_date": "2020-03-10",
+            "cp_rate": 3.55
+          },
+          {
+            "fund_code": "009025",
+            "fundsname": "海富通科技创新混合A",
+            "post_date": "2020-03-10",
+            "cp_rate": 4.16
+          },
+          {
+            "fund_code": "008084",
+            "fundsname": "海富通先进制造股票C",
+            "post_date": "2019-12-17",
+            "cp_rate": 3.42
+          },
+          {
+            "fund_code": "008085",
+            "fundsname": "海富通先进制造股票A",
+            "post_date": "2019-12-17",
+            "cp_rate": 3.82
+          },
+          {
+            "fund_code": "519005",
+            "fundsname": "海富通股票混合",
+            "post_date": "2016-11-25",
+            "cp_rate": 70.0484
+          },
+          {
+            "fund_code": "002273",
+            "fundsname": "泰达宏利创益混合B",
+            "post_date": "2016-01-25",
+            "resi_date": "2016-07-04",
+            "cp_rate": 1.7751
+          },
+          {
+            "fund_code": "001418",
+            "fundsname": "泰达宏利创益混合A",
+            "post_date": "2015-06-16",
+            "resi_date": "2016-07-04",
+            "cp_rate": 3.2
+          },
+          {
+            "fund_code": "162202",
+            "fundsname": "泰达宏利周期混合",
+            "post_date": "2014-11-21",
+            "resi_date": "2016-07-04",
+            "cp_rate": 38.1139
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "008084",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

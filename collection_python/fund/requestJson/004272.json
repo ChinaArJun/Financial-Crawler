@@ -1,0 +1,137 @@
+{
+  "data": {
+    "fund_company": "    中融基金管理有限公司原名道富基金管理有限公司,于2013年5月16日获证监会批准设立,2013年5月31日在国家工商行政管理总局办理完成工商注册登记并取得营业执照,可从事基金募集、基金销售、特定客户资产管理、资产管理和中国证监会许可的其他业务。注册资本7.5亿元人民币。\n    公司股权结构为:中融国际信托有限公司出资比例 51%;上海融晟投资有限公司出资比例49%。中融基金将依托股东单位的雄厚实力,秉承稳健的经营风格,以完善的风控体系为前提,以客户需求为导向,顺应基金行业发展规律,在不同业务方向上建立支点,打造亮点,为投资者提供长期稳定的回报。",
+    "fund_position": {
+      "stock_percent": 90.03,
+      "cash_percent": 9.8,
+      "other_percent": 0.17,
+      "asset_tot": 17414979.11,
+      "asset_val": 17231293.69,
+      "source_mark": "第一季度报",
+      "source": "1",
+      "enddate": "2020-03-31",
+      "stock_list": [
+        {
+          "name": "开创国际",
+          "code": "600097",
+          "percent": 4.07,
+          "current_price": 11,
+          "change_percentage": -1.96,
+          "xq_symbol": "SH600097",
+          "xq_url": "https://xueqiu.com/S/SH600097",
+          "amarket": true
+        },
+        {
+          "name": "黑牡丹",
+          "code": "600510",
+          "percent": 3.87,
+          "current_price": 7.87,
+          "change_percentage": 0.38,
+          "xq_symbol": "SH600510",
+          "xq_url": "https://xueqiu.com/S/SH600510",
+          "amarket": true
+        },
+        {
+          "name": "湖南海利",
+          "code": "600731",
+          "percent": 3.71,
+          "current_price": 12.36,
+          "change_percentage": 0.16,
+          "xq_symbol": "SH600731",
+          "xq_url": "https://xueqiu.com/S/SH600731",
+          "amarket": true
+        },
+        {
+          "name": "水星家纺",
+          "code": "603365",
+          "percent": 3.66,
+          "current_price": 14.14,
+          "change_percentage": -1.46,
+          "xq_symbol": "SH603365",
+          "xq_url": "https://xueqiu.com/S/SH603365",
+          "amarket": true
+        },
+        {
+          "name": "泰胜风能",
+          "code": "300129",
+          "percent": 3.63,
+          "current_price": 6.88,
+          "change_percentage": -0.58,
+          "xq_symbol": "SZ300129",
+          "xq_url": "https://xueqiu.com/S/SZ300129",
+          "amarket": true
+        },
+        {
+          "name": "豫光金铅",
+          "code": "600531",
+          "percent": 3.59,
+          "current_price": 5.59,
+          "change_percentage": 1.08,
+          "xq_symbol": "SH600531",
+          "xq_url": "https://xueqiu.com/S/SH600531",
+          "amarket": true
+        },
+        {
+          "name": "柳药股份",
+          "code": "603368",
+          "percent": 3.58,
+          "current_price": 23.13,
+          "change_percentage": -0.39,
+          "xq_symbol": "SH603368",
+          "xq_url": "https://xueqiu.com/S/SH603368",
+          "amarket": true
+        },
+        {
+          "name": "江铃汽车",
+          "code": "000550",
+          "percent": 3.55,
+          "current_price": 19.58,
+          "change_percentage": 3.43,
+          "xq_symbol": "SZ000550",
+          "xq_url": "https://xueqiu.com/S/SZ000550",
+          "amarket": true
+        },
+        {
+          "name": "双箭股份",
+          "code": "002381",
+          "percent": 3.54,
+          "current_price": 9.45,
+          "change_percentage": -0.63,
+          "xq_symbol": "SZ002381",
+          "xq_url": "https://xueqiu.com/S/SZ002381",
+          "amarket": true
+        },
+        {
+          "name": "羚锐制药",
+          "code": "600285",
+          "percent": 3.54,
+          "current_price": 9.31,
+          "change_percentage": 0,
+          "xq_symbol": "SH600285",
+          "xq_url": "https://xueqiu.com/S/SH600285",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "004272",
+      "subscribe_rate": "0",
+      "declare_rate": "0",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1"
+    },
+    "manager_list": [],
+    "fund_date_conf": {
+      "fd_code": "004272",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

@@ -1,0 +1,389 @@
+{
+  "data": {
+    "fund_company": "    1998年3月6日,经中国证监会批准,南方基金管理有限公司作为国内首批规范的基金管理公司正式成立,成为我国“新基金时代”的起始标志。\n    南方基金总部设在深圳,注册资本3亿元人民币。股东结构为:华泰证券股份有限公司(45%);深圳市投资控股有限公司(30%);厦门国际信托有限公司(15%);兴业证券股份有限公司(10%)。目前,公司在北京、上海、合肥、成都、深圳等地设有分公司,在香港和深圳前海设有子公司——南方东英资产管理有限公司(香港子公司)和南方资本管理有限公司(深圳子公司)。其中,南方东英是境内基金公司获批成立的第一家境外分支机构。\n    公司拥有一支高素质、经验丰富的专业化团队。现有员工545人,超过68%的员工具有硕士以上学历,近55%的员工具有5年以上的证券从业经历,其中投研人员的平均证券从业年限为6年,39%的投研人员具有海外学习或工作经验。\n    公司经历了中国证券市场多次牛熊交替的长期考验,以持续优秀的投资业绩、完善周到的客户服务,赢得了广大基金投资人、社保理事会、企业年金客户、专户客户的认可和信赖。截至2016年三季度末,公司管理资产规模6355亿元,位居行业前列。旗下管理公募基金共107只,产品涵盖股票型、混合型、指数型、保本型、债券型、货币型、QDII等。公募基金资产管理规模3898亿元,排名行业第五,累计向基金持有人分红超过782亿元,拥有客户数量近2400万人。私募业务管理规模2457亿元,在行业中持续保持领先地位。南方基金已经发展成为国内产品种类最丰富、业务领域最全面、经营业绩优秀、资产管理规模最大的基金管理公司之一。",
+    "fund_position": {
+      "stock_percent": 0.4,
+      "bond_percent": 0.2,
+      "cash_percent": 5.06,
+      "other_percent": 94.34,
+      "asset_tot": 146673423.43,
+      "asset_val": 146189166.36,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "金域医学",
+          "code": "603882",
+          "percent": 0.01,
+          "current_price": 99,
+          "change_percentage": 2.27,
+          "xq_symbol": "SH603882",
+          "xq_url": "https://xueqiu.com/S/SH603882",
+          "amarket": true
+        },
+        {
+          "name": "益丰药房",
+          "code": "603939",
+          "percent": 0.01,
+          "current_price": 101.02,
+          "change_percentage": -1.4,
+          "xq_symbol": "SH603939",
+          "xq_url": "https://xueqiu.com/S/SH603939",
+          "amarket": true
+        },
+        {
+          "name": "华鲁恒升",
+          "code": "600426",
+          "percent": 0.01,
+          "current_price": 34.94,
+          "change_percentage": 1.28,
+          "xq_symbol": "SH600426",
+          "xq_url": "https://xueqiu.com/S/SH600426",
+          "amarket": true
+        },
+        {
+          "name": "重庆啤酒",
+          "code": "600132",
+          "percent": 0.01,
+          "current_price": 117.03,
+          "change_percentage": 0.2,
+          "xq_symbol": "SH600132",
+          "xq_url": "https://xueqiu.com/S/SH600132",
+          "amarket": true
+        },
+        {
+          "name": "泛微网络",
+          "code": "603039",
+          "percent": 0,
+          "current_price": 94.24,
+          "change_percentage": 0.6,
+          "xq_symbol": "SH603039",
+          "xq_url": "https://xueqiu.com/S/SH603039",
+          "amarket": true
+        },
+        {
+          "name": "晨光文具",
+          "code": "603899",
+          "percent": 0,
+          "current_price": 79.4,
+          "change_percentage": -1.79,
+          "xq_symbol": "SH603899",
+          "xq_url": "https://xueqiu.com/S/SH603899",
+          "amarket": true
+        },
+        {
+          "name": "福斯特",
+          "code": "603806",
+          "percent": 0,
+          "current_price": 73.08,
+          "change_percentage": 2.21,
+          "xq_symbol": "SH603806",
+          "xq_url": "https://xueqiu.com/S/SH603806",
+          "amarket": true
+        },
+        {
+          "name": "金发科技",
+          "code": "600143",
+          "percent": 0,
+          "current_price": 17,
+          "change_percentage": -1.73,
+          "xq_symbol": "SH600143",
+          "xq_url": "https://xueqiu.com/S/SH600143",
+          "amarket": true
+        },
+        {
+          "name": "辽宁成大",
+          "code": "600739",
+          "percent": 0,
+          "current_price": 23.26,
+          "change_percentage": 0.48,
+          "xq_symbol": "SH600739",
+          "xq_url": "https://xueqiu.com/S/SH600739",
+          "amarket": true
+        },
+        {
+          "name": "人福医药",
+          "code": "600079",
+          "percent": 0,
+          "current_price": 33.6,
+          "change_percentage": -0.88,
+          "xq_symbol": "SH600079",
+          "xq_url": "https://xueqiu.com/S/SH600079",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "国开2004",
+          "code": "018013",
+          "percent": 0.2,
+          "xq_symbol": "018013",
+          "xq_url": "https://xueqiu.com/S/018013",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "007571",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "1",
+      "subscribe_discount": "1",
+      "declare_discount": "1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.40"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.10"
+        },
+        {
+          "name": "基金管理费",
+          "value": "0.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "孙伟",
+        "resume": "    孙伟先生,管理学学士,特许金融分析师(CFA)、注册会计师(CPA),具有基金从业资格。曾任职于腾讯科技有限公司投资并购部、德勤华永会计师事务所深圳分所审计部。\n    2010年2月加入南方基金,历任运作保障部基金会计、数量化投资部量化投资研究员、基金经理助理;2015年5月22日至2016年7月29日,任南方500工业ETF、南方500原材料ETF基金经理;2015年7月2日至今,任改革基金、高铁基金基金经理;2015年7月10日至今,任500信息基金经理;2016年5月13日至今,任南方创业板ETF基金经理;2016年5月20日至今,任南方创业板ETF联接基金经理;2016年8月17日至今,任500信息联接基金经理;2016年8月19日至今,任深成ETF、南方深成基金经理;2017年3月8日至今,任南方全指证券ETF联接基金经理;2017年3月10日至今,任南方中证全指证券ETF基金经理;2017年6月28日至今,任南方中证银行ETF基金经理;2017年6月29日至今,任南方银行联接基金经理;2018年2月8日至今,任H股ETF基金经理;2018年2月12日至今,任南方H股联接基金经理;2019年7月12日至今,任南方中证500工业ETF、南方中证500原材料ETF、南方上证380ETF、南方上证380ETF联接基金经理。",
+        "work_year": "10",
+        "achievement_list": [
+          {
+            "fund_code": "010722",
+            "fundsname": "南方中证国有企业改革指数(LOF)C",
+            "post_date": "2020-12-01"
+          },
+          {
+            "fund_code": "160136",
+            "fundsname": "南方中证国有企业改革指数(LOF)A",
+            "post_date": "2020-12-01",
+            "cp_rate": -1.6378
+          },
+          {
+            "fund_code": "160135",
+            "fundsname": "南方中证高铁产业指数(LOF)",
+            "post_date": "2020-12-01",
+            "cp_rate": -1.4696
+          },
+          {
+            "fund_code": "010183",
+            "fundsname": "南方创业板ETF联接E",
+            "post_date": "2020-09-16",
+            "cp_rate": 6.603
+          },
+          {
+            "fund_code": "007571",
+            "fundsname": "南方上证380ETF联接C",
+            "post_date": "2019-07-12",
+            "cp_rate": 33.5943
+          },
+          {
+            "fund_code": "510290",
+            "fundsname": "南方上证380ETF",
+            "post_date": "2019-07-12",
+            "cp_rate": 37.8985
+          },
+          {
+            "fund_code": "202025",
+            "fundsname": "南方上证380ETF联接A",
+            "post_date": "2019-07-12",
+            "cp_rate": 35.475
+          },
+          {
+            "fund_code": "512340",
+            "fundsname": "中证500原材料指数ETF",
+            "post_date": "2019-07-12",
+            "cp_rate": 29.2706
+          },
+          {
+            "fund_code": "512310",
+            "fundsname": "中证500工业指数ETF",
+            "post_date": "2019-07-12",
+            "cp_rate": 44.8254
+          },
+          {
+            "fund_code": "005555",
+            "fundsname": "南方H股联接C",
+            "post_date": "2018-02-12",
+            "cp_rate": -7.26
+          },
+          {
+            "fund_code": "005554",
+            "fundsname": "南方H股联接A",
+            "post_date": "2018-02-12",
+            "cp_rate": -6.21
+          },
+          {
+            "fund_code": "159954",
+            "fundsname": "H股ETF",
+            "post_date": "2018-02-08",
+            "cp_rate": -4.4
+          },
+          {
+            "fund_code": "004598",
+            "fundsname": "南方银行联接C",
+            "post_date": "2017-06-29",
+            "cp_rate": 26.33
+          },
+          {
+            "fund_code": "004597",
+            "fundsname": "南方银行联接A",
+            "post_date": "2017-06-29",
+            "cp_rate": 28.07
+          },
+          {
+            "fund_code": "512700",
+            "fundsname": "南方中证银行ETF",
+            "post_date": "2017-06-28",
+            "cp_rate": 33.78
+          },
+          {
+            "fund_code": "512900",
+            "fundsname": "南方中证全指证券公司ETF",
+            "post_date": "2017-03-10",
+            "cp_rate": 21.06
+          },
+          {
+            "fund_code": "004069",
+            "fundsname": "南方全指证券联接A",
+            "post_date": "2017-03-08",
+            "cp_rate": 26.86
+          },
+          {
+            "fund_code": "004070",
+            "fundsname": "南方全指证券联接C",
+            "post_date": "2017-03-08",
+            "cp_rate": 24.95
+          },
+          {
+            "fund_code": "004345",
+            "fundsname": "南方深证成份ETF联接C",
+            "post_date": "2017-02-23",
+            "cp_rate": 39.7207
+          },
+          {
+            "fund_code": "004347",
+            "fundsname": "南方中证500信息技术ETF联接C",
+            "post_date": "2017-02-23",
+            "cp_rate": 32.1169
+          },
+          {
+            "fund_code": "004343",
+            "fundsname": "南方创业板ETF联接C",
+            "post_date": "2017-02-23",
+            "cp_rate": 46.6974
+          },
+          {
+            "fund_code": "202017",
+            "fundsname": "南方深证成份ETF联接A",
+            "post_date": "2016-08-19",
+            "cp_rate": 35.2662
+          },
+          {
+            "fund_code": "159903",
+            "fundsname": "南方深证成份ETF",
+            "post_date": "2016-08-19",
+            "cp_rate": 36.7959
+          },
+          {
+            "fund_code": "002900",
+            "fundsname": "南方中证500信息技术ETF联接A",
+            "post_date": "2016-08-17",
+            "cp_rate": 24.8851
+          },
+          {
+            "fund_code": "002656",
+            "fundsname": "南方创业板ETF联接A",
+            "post_date": "2016-05-20",
+            "cp_rate": 32.97
+          },
+          {
+            "fund_code": "159948",
+            "fundsname": "南方创业板ETF",
+            "post_date": "2016-05-13",
+            "cp_rate": 41.37
+          },
+          {
+            "fund_code": "512330",
+            "fundsname": "中证500信息技术指数ETF",
+            "post_date": "2015-07-10",
+            "cp_rate": 11.7053
+          },
+          {
+            "fund_code": "160135",
+            "fundsname": "南方中证高铁产业指数分级",
+            "post_date": "2015-07-02",
+            "resi_date": "2020-11-30",
+            "cp_rate": -44.0717
+          },
+          {
+            "fund_code": "150293",
+            "fundsname": "南方中证高铁产业指数分级A",
+            "post_date": "2015-07-02",
+            "resi_date": "2020-11-30",
+            "cp_rate": 34.366
+          },
+          {
+            "fund_code": "150294",
+            "fundsname": "南方中证高铁产业指数分级B",
+            "post_date": "2015-07-02",
+            "resi_date": "2020-11-30",
+            "cp_rate": -93.6848
+          },
+          {
+            "fund_code": "160136",
+            "fundsname": "南方中证国有企业改革指数分级",
+            "post_date": "2015-07-02",
+            "resi_date": "2020-11-30",
+            "cp_rate": 23.3592
+          },
+          {
+            "fund_code": "150295",
+            "fundsname": "南方中证国有企业改革指数分级A",
+            "post_date": "2015-07-02",
+            "resi_date": "2020-11-30",
+            "cp_rate": 31.4124
+          },
+          {
+            "fund_code": "150296",
+            "fundsname": "南方中证国有企业改革指数分级B",
+            "post_date": "2015-07-02",
+            "resi_date": "2020-11-30",
+            "cp_rate": -8.3737
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "007571",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

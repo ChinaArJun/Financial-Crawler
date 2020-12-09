@@ -1,0 +1,232 @@
+{
+  "data": {
+    "fund_company": "    2005年,交银施罗德诞生前中国基金行业正经历过一轮洗礼,百废待兴,熊市将尽。这一年,也是公募基金高速发展的前夜,当年全行业资产总规模仅为4700亿元。而时至今日,公募基金产品以每年200只的速度增长,行业总资产规模早已突破2万亿元。\n    交银施罗德是中国第一批银行背景基金公司之一,也是众多中外合资基金公司中的佼佼者。由拥有百年历史的交通银行、二百年投资经验积累的施罗德投资管理有限公司、以及全球集装箱行业的佼佼者中国国际海运集装箱(集团)股份有限公司强强联合,共同发起设立。\n    [了解更多]成立至今,一直秉承“诚信百年、专业理财”的经营宗旨,以诚信和专业作为公司的立身之本,以“稳健源自前瞻”作为公司的核心价值主张,打造“专业、纪律、协作”的团队,营造“激情、包容、关爱”的企业文化,致力于在策略上远见,投资上前瞻,服务上领先,为投资人提供多元化的、全球视野的、专业独具的理财产品和投资服务。公司成立至今已获得包括“金牛奖”在内的众多荣誉,得到了普通投资者和各机构的广泛关注和认可。\n    目前,公司旗下共管理着包括股票型基金、混合型基金、债券型基金、QDII基金以及ETF基金等类型在内的超过20只公募基金产品。同时,作为国内专户理财业务的“先驱者”,公司在专户理财、投资咨询业务方面上也积极开拓业务,较为成功地管理着数只专户理财产品,有力地推动了公司业务的多元化发展。\n    站在巨人肩上,我们将秉承百年传承的诚信,兼收千锤百炼的专业方法,勤勉尽责,规范运作,力争成为业绩出众、服务一流、深受投资者青睐的基金管理公司。",
+    "fund_position": {
+      "stock_percent": 87.78,
+      "cash_percent": 11.93,
+      "other_percent": 0.29,
+      "asset_tot": 622559133.85,
+      "asset_val": 607380182.13,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 8.97,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "洋河股份",
+          "code": "002304",
+          "percent": 8.79,
+          "current_price": 197.19,
+          "change_percentage": 0.85,
+          "xq_symbol": "SZ002304",
+          "xq_url": "https://xueqiu.com/S/SZ002304",
+          "amarket": true
+        },
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 7.94,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "汤臣倍健",
+          "code": "300146",
+          "percent": 5.78,
+          "current_price": 25.43,
+          "change_percentage": -1.59,
+          "xq_symbol": "SZ300146",
+          "xq_url": "https://xueqiu.com/S/SZ300146",
+          "amarket": true
+        },
+        {
+          "name": "酒鬼酒",
+          "code": "000799",
+          "percent": 5.01,
+          "current_price": 115.75,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000799",
+          "xq_url": "https://xueqiu.com/S/SZ000799",
+          "amarket": true
+        },
+        {
+          "name": "水井坊",
+          "code": "600779",
+          "percent": 5,
+          "current_price": 72.96,
+          "change_percentage": 3.07,
+          "xq_symbol": "SH600779",
+          "xq_url": "https://xueqiu.com/S/SH600779",
+          "amarket": true
+        },
+        {
+          "name": "锦江酒店",
+          "code": "600754",
+          "percent": 4.99,
+          "current_price": 51.28,
+          "change_percentage": -0.95,
+          "xq_symbol": "SH600754",
+          "xq_url": "https://xueqiu.com/S/SH600754",
+          "amarket": true
+        },
+        {
+          "name": "万科A",
+          "code": "000002",
+          "percent": 4.92,
+          "current_price": 29.18,
+          "change_percentage": -0.78,
+          "xq_symbol": "SZ000002",
+          "xq_url": "https://xueqiu.com/S/SZ000002",
+          "amarket": true
+        },
+        {
+          "name": "药明康德",
+          "code": "603259",
+          "percent": 4.12,
+          "current_price": 110.9,
+          "change_percentage": -0.12,
+          "xq_symbol": "SH603259",
+          "xq_url": "https://xueqiu.com/S/SH603259",
+          "amarket": true
+        },
+        {
+          "name": "东方雨虹",
+          "code": "002271",
+          "percent": 3.75,
+          "current_price": 35.92,
+          "change_percentage": 0.25,
+          "xq_symbol": "SZ002271",
+          "xq_url": "https://xueqiu.com/S/SZ002271",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "519714",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<100万",
+          "value": "1.20"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "0.80"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.50"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "韩威俊",
+        "resume": "    韩威俊先生,基金经理。上海财经大学金融学硕士,13年证券行业经验。2005年7月至2008年9月担任申银万国证券研究所助理分析师,2008年9月至2009年4月担任北京鼎天资产管理有限公司董事助理,2009年4月至2010年10月担任申银万国证券研究所行业分析师,2010年10月至2013年5月担任信诚基金管理有限公司投资分析师。2013年加入交银施罗德基金管理有限公司,曾任行业分析师,2016年1月20日起担任交银施罗德策略回报灵活配置混合型证券投资基金基金经理至今,2017年6月3日起担任交银施罗德趋势优先混合型证券投资基金基金经理至今,2017年8月25日起担任交银施罗德股息优化混合型证券投资基金基金经理至今,2018年2月8日起担任交银施罗德品质升级混合型证券投资基金基金经理至今,2018年8月24日起担任交银施罗德消费新驱动股票型证券投资基金基金经理至今。",
+        "college": "上海财经大学",
+        "work_year": "14",
+        "achievement_list": [
+          {
+            "fund_code": "519714",
+            "fundsname": "交银施罗德消费新驱动股票",
+            "post_date": "2018-08-24",
+            "cp_rate": 134.5396
+          },
+          {
+            "fund_code": "005004",
+            "fundsname": "交银施罗德品质升级混合",
+            "post_date": "2018-02-08",
+            "cp_rate": 101.9
+          },
+          {
+            "fund_code": "004868",
+            "fundsname": "交银股息优化混合",
+            "post_date": "2017-08-25",
+            "cp_rate": 158.0442
+          },
+          {
+            "fund_code": "519702",
+            "fundsname": "交银施罗德趋势优先混合",
+            "post_date": "2017-06-03",
+            "resi_date": "2020-05-27",
+            "cp_rate": 62.8829
+          },
+          {
+            "fund_code": "519710",
+            "fundsname": "交银施罗德策略回报灵活配置混合",
+            "post_date": "2016-01-20",
+            "cp_rate": 206.3219
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "519714",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

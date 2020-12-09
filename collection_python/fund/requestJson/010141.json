@@ -1,0 +1,94 @@
+{
+  "data": {
+    "fund_rates": {
+      "fd_code": "010141",
+      "subscribe_rate": "0",
+      "declare_rate": "0",
+      "discount": "1.0",
+      "subscribe_discount": "1.0",
+      "declare_discount": "1.0",
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "梁跃军",
+        "resume": "    梁跃军先生,1971年出生,中国籍,中欧国际工商学院EMBA,北京大学经济学硕士。先后任职于招商银行股份有限公司北京分行,西南证券股份有限公司,大通证券股份有限公司,西部证券股份有限公司,上海朱雀投资发展中心(有限合伙),朱雀股权投资管理有限公司。现任朱雀基金总经理,2014年当选中国证监会第五届并购重组委委员,2016年当选中国证监会第六届并购重组委委员。\n    2020年6月3日至今担任朱雀企业优胜股票型证券投资基金基金经理;2020年6月29日至今担任朱雀产业臻选混合型证券投资基金基金经理;2020年9月23日至今担任朱雀企业优选股票型证券投资基金基金经理。",
+        "achievement_list": [
+          {
+            "fund_code": "010141",
+            "fundsname": "朱雀企业优选A",
+            "post_date": "2020-09-23",
+            "cp_rate": 6.53
+          },
+          {
+            "fund_code": "010142",
+            "fundsname": "朱雀企业优选C",
+            "post_date": "2020-09-23",
+            "cp_rate": 6.36
+          },
+          {
+            "fund_code": "007493",
+            "fundsname": "朱雀产业臻选混合A",
+            "post_date": "2020-06-29",
+            "cp_rate": 34.683
+          },
+          {
+            "fund_code": "007494",
+            "fundsname": "朱雀产业臻选混合C",
+            "post_date": "2020-06-29",
+            "cp_rate": 34.3259
+          },
+          {
+            "fund_code": "008294",
+            "fundsname": "朱雀企业优胜A",
+            "post_date": "2020-06-03",
+            "cp_rate": 36.9939
+          },
+          {
+            "fund_code": "008295",
+            "fundsname": "朱雀企业优胜C",
+            "post_date": "2020-06-03",
+            "cp_rate": 36.5198
+          }
+        ]
+      },
+      {
+        "name": "黄昊",
+        "resume": "    黄昊先生,1986年出生,中国籍,上海社会科学院产业经济学硕士。先后任职于上海壹德资产管理有限公司、中国投资咨询有限责任公司、朱雀股权投资管理有限公司、上海朱雀资产管理有限公司,现任朱雀基金公募投资部基金经理。\n    2020年10月30日起至今担任朱雀企业优选股票型证券投资基金的基金经理。",
+        "achievement_list": [
+          {
+            "fund_code": "010141",
+            "fundsname": "朱雀企业优选A",
+            "post_date": "2020-10-29",
+            "cp_rate": 5.0074
+          },
+          {
+            "fund_code": "010142",
+            "fundsname": "朱雀企业优选C",
+            "post_date": "2020-10-29",
+            "cp_rate": 4.9226
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "010141",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

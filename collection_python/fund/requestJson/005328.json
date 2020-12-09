@@ -1,0 +1,294 @@
+{
+  "data": {
+    "fund_company": "    前海开源基金管理有限公司经中国证监会(证监许可[2012]1751 号文)批准,于 2013 年 1 月 23 日注册成立。公司经营范围:基金募集、基金销售、特定客户资产管理、资产管理和中国证监会许可的其他业务。\n    前海开源基金立足国家金融创新合作区——深圳前海,依托深港紧密合作和融合发展,利用前海“特区中的特区”的区位优势和金融创新先行先试的政策优势,抓住人民币国际化的战略机遇,凭借完善的管理体制和创新的运营机制,吸纳海内外高端人才,全力打造专业化、创新型的现代财富管理机构,积极参与前海大开发和中国资产管理行业二次腾飞的潮流中。",
+    "fund_position": {
+      "stock_percent": 83.17,
+      "cash_percent": 16.49,
+      "other_percent": 0.34,
+      "asset_tot": 57115411.18,
+      "asset_val": 55752446.38,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 8.98,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "上海机场",
+          "code": "600009",
+          "percent": 8.39,
+          "current_price": 78.89,
+          "change_percentage": -0.97,
+          "xq_symbol": "SH600009",
+          "xq_url": "https://xueqiu.com/S/SH600009",
+          "amarket": true
+        },
+        {
+          "name": "顺鑫农业",
+          "code": "000860",
+          "percent": 7.88,
+          "current_price": 64.72,
+          "change_percentage": 3.39,
+          "xq_symbol": "SZ000860",
+          "xq_url": "https://xueqiu.com/S/SZ000860",
+          "amarket": true
+        },
+        {
+          "name": "中国平安",
+          "code": "601318",
+          "percent": 6.02,
+          "current_price": 88.05,
+          "change_percentage": -2.58,
+          "xq_symbol": "SH601318",
+          "xq_url": "https://xueqiu.com/S/SH601318",
+          "amarket": true
+        },
+        {
+          "name": "保利地产",
+          "code": "600048",
+          "percent": 5.99,
+          "current_price": 16.46,
+          "change_percentage": -0.48,
+          "xq_symbol": "SH600048",
+          "xq_url": "https://xueqiu.com/S/SH600048",
+          "amarket": true
+        },
+        {
+          "name": "招商银行",
+          "code": "600036",
+          "percent": 5.81,
+          "current_price": 44.26,
+          "change_percentage": -0.36,
+          "xq_symbol": "SH600036",
+          "xq_url": "https://xueqiu.com/S/SH600036",
+          "amarket": true
+        },
+        {
+          "name": "海螺水泥",
+          "code": "600585",
+          "percent": 5.45,
+          "current_price": 53.44,
+          "change_percentage": -1.46,
+          "xq_symbol": "SH600585",
+          "xq_url": "https://xueqiu.com/S/SH600585",
+          "amarket": true
+        },
+        {
+          "name": "美的集团",
+          "code": "000333",
+          "percent": 5.08,
+          "current_price": 86.7,
+          "change_percentage": -1.54,
+          "xq_symbol": "SZ000333",
+          "xq_url": "https://xueqiu.com/S/SZ000333",
+          "amarket": true
+        },
+        {
+          "name": "中国中免",
+          "code": "601888",
+          "percent": 4.96,
+          "current_price": 208.03,
+          "change_percentage": 0.13,
+          "xq_symbol": "SH601888",
+          "xq_url": "https://xueqiu.com/S/SH601888",
+          "amarket": true
+        },
+        {
+          "name": "苏泊尔",
+          "code": "002032",
+          "percent": 4.56,
+          "current_price": 72.31,
+          "change_percentage": -0.39,
+          "xq_symbol": "SZ002032",
+          "xq_url": "https://xueqiu.com/S/SZ002032",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "005328",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<250万",
+          "value": "1.00"
+        },
+        {
+          "name": "250万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<366天",
+          "value": "0.500"
+        },
+        {
+          "name": "366天≤持有期限<731天",
+          "value": "0.250"
+        },
+        {
+          "name": "731天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "肖立强",
+        "resume": "    肖立强先生,中山大学金融学硕士。2010年至2015年历任招商证券研究部分析师。2016年5月加盟前海开源基金管理有限公司,现任公司权益投资本部基金经理、前海开源沪港深新机遇灵活配置混合型证券投资基金基金经理、前海开源恒远灵活配置混合型证券投资基金基金经理、前海开源价值策略股票型证券投资基金基金经理、前海开源丰鑫灵活配置混合型证券投资基金基金经理、前海开源盈鑫灵活配置混合型证券投资基金基金经理、前海开源润鑫灵活配置混合型证券投资基金基金经理、前海开源沪港深隆鑫灵活配置混合型证券投资基金基金经理。肖立强先生具备基金从业资格。",
+        "achievement_list": [
+          {
+            "fund_code": "001638",
+            "fundsname": "前海开源优势蓝筹股票C",
+            "post_date": "2020-07-20",
+            "cp_rate": 10.8696
+          },
+          {
+            "fund_code": "001162",
+            "fundsname": "前海开源优势蓝筹股票A",
+            "post_date": "2020-07-20",
+            "cp_rate": 10.9536
+          },
+          {
+            "fund_code": "005139",
+            "fundsname": "前海开源弘丰债券C",
+            "post_date": "2020-04-21",
+            "resi_date": "2020-07-20",
+            "cp_rate": -0.7757
+          },
+          {
+            "fund_code": "005138",
+            "fundsname": "前海开源弘丰债券A",
+            "post_date": "2020-04-21",
+            "resi_date": "2020-07-20",
+            "cp_rate": -0.6734
+          },
+          {
+            "fund_code": "001902",
+            "fundsname": "前海开源沪港深隆鑫混合C",
+            "post_date": "2019-07-02",
+            "cp_rate": 48.4831
+          },
+          {
+            "fund_code": "001901",
+            "fundsname": "前海开源沪港深隆鑫混合A",
+            "post_date": "2019-07-02",
+            "cp_rate": 48.5459
+          },
+          {
+            "fund_code": "005139",
+            "fundsname": "前海开源润鑫混合C",
+            "post_date": "2019-06-12",
+            "resi_date": "2020-04-20",
+            "cp_rate": 17.727
+          },
+          {
+            "fund_code": "005138",
+            "fundsname": "前海开源润鑫混合A",
+            "post_date": "2019-06-12",
+            "resi_date": "2020-04-20",
+            "cp_rate": 17.8205
+          },
+          {
+            "fund_code": "005328",
+            "fundsname": "前海开源价值策略股票",
+            "post_date": "2019-05-30",
+            "cp_rate": 73.9705
+          },
+          {
+            "fund_code": "004454",
+            "fundsname": "前海开源盈鑫C",
+            "post_date": "2019-05-15",
+            "resi_date": "2020-11-05",
+            "cp_rate": 49.8828
+          },
+          {
+            "fund_code": "004453",
+            "fundsname": "前海开源盈鑫A",
+            "post_date": "2019-05-15",
+            "resi_date": "2020-11-05",
+            "cp_rate": 50.1135
+          },
+          {
+            "fund_code": "005506",
+            "fundsname": "前海开源丰鑫混合C",
+            "post_date": "2019-05-15",
+            "resi_date": "2019-12-09",
+            "cp_rate": 14.8016
+          },
+          {
+            "fund_code": "005505",
+            "fundsname": "前海开源丰鑫混合A",
+            "post_date": "2019-05-15",
+            "resi_date": "2019-12-09",
+            "cp_rate": 14.8728
+          },
+          {
+            "fund_code": "002407",
+            "fundsname": "前海开源恒远混合",
+            "post_date": "2019-04-16",
+            "cp_rate": 32.7426
+          },
+          {
+            "fund_code": "002860",
+            "fundsname": "前海开源沪港深新机遇混合",
+            "post_date": "2018-10-16",
+            "resi_date": "2019-12-31",
+            "cp_rate": 1.8346
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "005328",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

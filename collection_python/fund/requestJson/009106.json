@@ -1,0 +1,289 @@
+{
+  "data": {
+    "fund_company": "    嘉合基金管理有限公司(以下简称“嘉合基金”)是经中国证监会【2014】621号文许可,依法设立的全国性基金管理公司。\n    2014年8月8日,嘉合基金正式公告成立于上海,注册资本金1亿元人民币,经营范围包括基金募集、基金销售、特定客户资产管理、资产管理和中国证监会许可的其他业务。\n    嘉合基金以量化投资为特色、以创造良好收益回报为己任,规范经营、严格风控、稳健投资、专业服务,致力于打造中国优秀量化品牌。",
+    "fund_position": {
+      "stock_percent": 75.19,
+      "cash_percent": 23.9,
+      "other_percent": 0.91,
+      "asset_tot": 11691885.07,
+      "asset_val": 11532623.16,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 1.45,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "三一重工",
+          "code": "600031",
+          "percent": 1.23,
+          "current_price": 31.48,
+          "change_percentage": -1.41,
+          "xq_symbol": "SH600031",
+          "xq_url": "https://xueqiu.com/S/SH600031",
+          "amarket": true
+        },
+        {
+          "name": "宝新能源",
+          "code": "000690",
+          "percent": 1.22,
+          "current_price": 7.02,
+          "change_percentage": 0.14,
+          "xq_symbol": "SZ000690",
+          "xq_url": "https://xueqiu.com/S/SZ000690",
+          "amarket": true
+        },
+        {
+          "name": "华贸物流",
+          "code": "603128",
+          "percent": 1.16,
+          "current_price": 7.92,
+          "change_percentage": -1.12,
+          "xq_symbol": "SH603128",
+          "xq_url": "https://xueqiu.com/S/SH603128",
+          "amarket": true
+        },
+        {
+          "name": "天邦股份",
+          "code": "002124",
+          "percent": 1.13,
+          "current_price": 16.26,
+          "change_percentage": -0.73,
+          "xq_symbol": "SZ002124",
+          "xq_url": "https://xueqiu.com/S/SZ002124",
+          "amarket": true
+        },
+        {
+          "name": "中国平安",
+          "code": "601318",
+          "percent": 1.12,
+          "current_price": 88.05,
+          "change_percentage": -2.58,
+          "xq_symbol": "SH601318",
+          "xq_url": "https://xueqiu.com/S/SH601318",
+          "amarket": true
+        },
+        {
+          "name": "东吴证券",
+          "code": "601555",
+          "percent": 1.08,
+          "current_price": 10.09,
+          "change_percentage": 0,
+          "xq_symbol": "SH601555",
+          "xq_url": "https://xueqiu.com/S/SH601555",
+          "amarket": true
+        },
+        {
+          "name": "顺丰控股",
+          "code": "002352",
+          "percent": 1.06,
+          "current_price": 80.21,
+          "change_percentage": -1.88,
+          "xq_symbol": "SZ002352",
+          "xq_url": "https://xueqiu.com/S/SZ002352",
+          "amarket": true
+        },
+        {
+          "name": "金发科技",
+          "code": "600143",
+          "percent": 1.04,
+          "current_price": 17,
+          "change_percentage": -1.73,
+          "xq_symbol": "SH600143",
+          "xq_url": "https://xueqiu.com/S/SH600143",
+          "amarket": true
+        },
+        {
+          "name": "伊利股份",
+          "code": "600887",
+          "percent": 1.03,
+          "current_price": 40.68,
+          "change_percentage": 1.24,
+          "xq_symbol": "SH600887",
+          "xq_url": "https://xueqiu.com/S/SH600887",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "009106",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<30万",
+          "value": "1.50"
+        },
+        {
+          "name": "30万≤买入金额<100万",
+          "value": "1.20"
+        },
+        {
+          "name": "100万≤买入金额<300万",
+          "value": "0.60"
+        },
+        {
+          "name": "300万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "1天≤持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<180天",
+          "value": "0.500"
+        },
+        {
+          "name": "180天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.15"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "李国林",
+        "resume": "    李国林先生,浙江工商大学经济学硕士,曾任上银基金管理有限公司专户投资部总监兼研究总监、上海凯石益正资产管理有限公司投资总监、凯石基金管理有限公司投资事业部总监,2018年加入嘉合基金管理有限公司。2019年1月15日至今任嘉合锦程价值精选混合型证券投资基金的基金经理,2019年1月25日至今任嘉合磐通债券型证券投资基金的基金经理,2019年6月14日至今任嘉合消费升级混合型发起式证券投资基金的基金经理,2019年9月26日至今任嘉合医疗健康混合型发起式证券投资基金的基金经理,2020年5月22日至今任嘉合同顺智选股票型证券投资基金的基金经理。",
+        "college": "浙江工商大学",
+        "achievement_list": [
+          {
+            "fund_code": "007142",
+            "fundsname": "嘉合稳健增长混合C",
+            "post_date": "2020-08-05",
+            "cp_rate": 10.46
+          },
+          {
+            "fund_code": "007141",
+            "fundsname": "嘉合稳健增长混合A",
+            "post_date": "2020-08-05",
+            "cp_rate": 10.69
+          },
+          {
+            "fund_code": "009107",
+            "fundsname": "嘉合同顺智选股票C",
+            "post_date": "2020-05-22",
+            "cp_rate": 2.25
+          },
+          {
+            "fund_code": "009106",
+            "fundsname": "嘉合同顺智选股票A",
+            "post_date": "2020-05-22",
+            "cp_rate": 2.6
+          },
+          {
+            "fund_code": "007613",
+            "fundsname": "嘉合医疗健康混合",
+            "post_date": "2019-09-26",
+            "cp_rate": 41.94
+          },
+          {
+            "fund_code": "007281",
+            "fundsname": "嘉合消费升级混合",
+            "post_date": "2019-06-14",
+            "cp_rate": 52.99
+          },
+          {
+            "fund_code": "001958",
+            "fundsname": "嘉合磐通债券C",
+            "post_date": "2019-01-25",
+            "cp_rate": 12.8797
+          },
+          {
+            "fund_code": "001957",
+            "fundsname": "嘉合磐通债券A",
+            "post_date": "2019-01-25",
+            "cp_rate": 13.4266
+          },
+          {
+            "fund_code": "006425",
+            "fundsname": "嘉合锦程混合C",
+            "post_date": "2019-01-15",
+            "cp_rate": 94.2012
+          },
+          {
+            "fund_code": "006424",
+            "fundsname": "嘉合锦程混合A",
+            "post_date": "2019-01-15",
+            "cp_rate": 97.132
+          }
+        ]
+      },
+      {
+        "name": "杨彦喆",
+        "resume": "    杨彦喆先生,伯明翰大学金融工程硕士,南京大学工业工程学士,2015年加入嘉合基金管理有限公司量化投资部,负责量化选股、期货CTA策略和量化策略平台的开发。2019年6月14日至今任嘉合消费升级混合型发起式证券投资基金的基金经理,2019年9月26日至今任嘉合医疗健康混合型发起式证券投资基金的基金经理,2020年5月22日至今任嘉合同顺智选股票型证券投资基金的基金经理,2020年6月22日至今任嘉合锦创优势精选混合型证券投资基金的基金经理。",
+        "college": "伯明翰",
+        "achievement_list": [
+          {
+            "fund_code": "006992",
+            "fundsname": "嘉合锦创优势精选混合",
+            "post_date": "2020-06-22",
+            "cp_rate": 19.7019
+          },
+          {
+            "fund_code": "009106",
+            "fundsname": "嘉合同顺智选股票A",
+            "post_date": "2020-05-22",
+            "cp_rate": 2.6
+          },
+          {
+            "fund_code": "009107",
+            "fundsname": "嘉合同顺智选股票C",
+            "post_date": "2020-05-22",
+            "cp_rate": 2.25
+          },
+          {
+            "fund_code": "007613",
+            "fundsname": "嘉合医疗健康混合",
+            "post_date": "2019-09-26",
+            "cp_rate": 41.94
+          },
+          {
+            "fund_code": "007281",
+            "fundsname": "嘉合消费升级混合",
+            "post_date": "2019-06-14",
+            "cp_rate": 52.99
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "009106",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

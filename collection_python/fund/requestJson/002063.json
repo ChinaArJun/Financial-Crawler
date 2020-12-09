@@ -1,0 +1,288 @@
+{
+  "data": {
+    "fund_company": "    国泰基金成立于1998年3月,是国内首批规范成立的基金管理公司之一。历经17年的市场磨砺,公司稳步发展,目前进入了新的发展阶段。2010年全球领先的保险集团之一意大利忠利集团正式收购公司部分股权,国泰基金变身为中外合资基金公司,并在投资管理、产品研发、风险控制、基金营销等多方面与之展开交流与合作,得到了显著提高。(注:基金管理人与股东之间实行业务隔离制度,股东并不直接参与基金财产的投资运作。)目前公司已拥有包括公募基金、社保基金投资管理人、企业年金投资管理人、特定客户资产管理业务和合格境内机构投资者等业务资格,是行业内极少数拥有并开展多类业务的资产管理公司之一。\n    自1998年3月23日公开发行国内第一只封闭式基金——基金金泰以来,国泰基金的产品线不断得到丰富和完善。目前公司旗下共管理着58只公募基金,2只养老金产品和包括专户、年金、社保、投资咨询在内80多个资产委托组合,形成了丰富的资产管理产品线,能够满足不同风险偏好投资者的需求。\n    17年来,国泰基金始终秉承\"以最大的专业性和勤勉为投资人实现长期稳定的财富增值\"的经营宗旨,赢得了包括全国社会保障基金理事会在内的数百万投资人的信任。在为投资者创造物质财富的同时,也不忘承担社会责任,通过\"红蜡烛助教计划\"开展支学助教活动,积极践行\"和谐社会\"的价值观,为社会精神财富的创造贡献力量。截至2015年,国泰基金\"红蜡烛助教计划\"已历时8年,在全国范围内完成助教22次、捐助\"红蜡烛图书馆\"12座、\"红蜡烛·梦想中心\"多媒体教室4个、助养学生 128人、捐赠图书21287本、受益师生近6000人次。",
+    "fund_position": {
+      "stock_percent": 85.27,
+      "cash_percent": 8.08,
+      "other_percent": 6.65,
+      "asset_tot": 421231994.54,
+      "asset_val": 392651231.48,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 4.9,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 3.26,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "中国平安",
+          "code": "601318",
+          "percent": 2.87,
+          "current_price": 88.05,
+          "change_percentage": -2.58,
+          "xq_symbol": "SH601318",
+          "xq_url": "https://xueqiu.com/S/SH601318",
+          "amarket": true
+        },
+        {
+          "name": "招商银行",
+          "code": "600036",
+          "percent": 2.77,
+          "current_price": 44.26,
+          "change_percentage": -0.36,
+          "xq_symbol": "SH600036",
+          "xq_url": "https://xueqiu.com/S/SH600036",
+          "amarket": true
+        },
+        {
+          "name": "美的集团",
+          "code": "000333",
+          "percent": 2.28,
+          "current_price": 86.7,
+          "change_percentage": -1.54,
+          "xq_symbol": "SZ000333",
+          "xq_url": "https://xueqiu.com/S/SZ000333",
+          "amarket": true
+        },
+        {
+          "name": "中国中免",
+          "code": "601888",
+          "percent": 2.23,
+          "current_price": 208.03,
+          "change_percentage": 0.13,
+          "xq_symbol": "SH601888",
+          "xq_url": "https://xueqiu.com/S/SH601888",
+          "amarket": true
+        },
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 2.13,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "东方财富",
+          "code": "300059",
+          "percent": 1.93,
+          "current_price": 28.05,
+          "change_percentage": 1.08,
+          "xq_symbol": "SZ300059",
+          "xq_url": "https://xueqiu.com/S/SZ300059",
+          "amarket": true
+        },
+        {
+          "name": "海天味业",
+          "code": "603288",
+          "percent": 1.88,
+          "current_price": 183.5,
+          "change_percentage": 0.84,
+          "xq_symbol": "SH603288",
+          "xq_url": "https://xueqiu.com/S/SH603288",
+          "amarket": true
+        },
+        {
+          "name": "平安银行",
+          "code": "000001",
+          "percent": 1.84,
+          "current_price": 18.71,
+          "change_percentage": -1.06,
+          "xq_symbol": "SZ000001",
+          "xq_url": "https://xueqiu.com/S/SZ000001",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "002063",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "1",
+      "subscribe_discount": "1",
+      "declare_discount": "1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.100"
+        },
+        {
+          "name": "30天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.10"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.20"
+        },
+        {
+          "name": "基金管理费",
+          "value": "0.90"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "谢东旭",
+        "resume": "    谢东旭,硕士研究生,9年证券基金从业经历。曾任职于中信证券、华安基金管理有限公司、创金合信基金管理有限公司。2018年7月加入国泰基金管理有限公司,任基金经理助理。2019年11月起兼任国泰中证500指数增强型证券投资基金、国泰国证新能源汽车指数证券投资基金(LOF)、国泰国证有色金属行业指数分级证券投资基金和国泰沪深300指数增强型证券投资基金的基金经理,2020年8月起兼任国泰上证综合交易型开放式指数证券投资基金的基金经理。",
+        "achievement_list": [
+          {
+            "fund_code": "510760",
+            "fundsname": "国泰上证综合ETF",
+            "post_date": "2020-08-21",
+            "cp_rate": -0.6798
+          },
+          {
+            "fund_code": "003761",
+            "fundsname": "国泰中证500指数增强C",
+            "post_date": "2019-11-01",
+            "cp_rate": 27.4203
+          },
+          {
+            "fund_code": "003760",
+            "fundsname": "国泰中证500指数增强A",
+            "post_date": "2019-11-01",
+            "cp_rate": 27.4573
+          },
+          {
+            "fund_code": "002063",
+            "fundsname": "国泰沪深300指数增强C",
+            "post_date": "2019-11-01",
+            "cp_rate": 40.8868
+          },
+          {
+            "fund_code": "000512",
+            "fundsname": "国泰沪深300指数增强A",
+            "post_date": "2019-11-01",
+            "cp_rate": 41.0355
+          },
+          {
+            "fund_code": "150358",
+            "fundsname": "国泰国证新能源汽车指数分级B",
+            "post_date": "2019-11-01"
+          },
+          {
+            "fund_code": "150357",
+            "fundsname": "国泰国证新能源汽车指数分级A",
+            "post_date": "2019-11-01"
+          },
+          {
+            "fund_code": "160225",
+            "fundsname": "国泰国证新能源汽车(LOF)",
+            "post_date": "2019-11-01",
+            "cp_rate": 102.3153
+          },
+          {
+            "fund_code": "150197",
+            "fundsname": "有色B",
+            "post_date": "2019-11-01",
+            "resi_date": "2020-12-31",
+            "cp_rate": 167.8691
+          },
+          {
+            "fund_code": "150196",
+            "fundsname": "有色A",
+            "post_date": "2019-11-01",
+            "resi_date": "2020-12-31",
+            "cp_rate": 5.9843
+          },
+          {
+            "fund_code": "160221",
+            "fundsname": "国泰国证有色金属行业指数分级",
+            "post_date": "2019-11-01",
+            "resi_date": "2020-12-31",
+            "cp_rate": 50.9681
+          },
+          {
+            "fund_code": "005800",
+            "fundsname": "创金合信春来回报一年期定期开放C",
+            "post_date": "2018-06-07",
+            "resi_date": "2018-07-09",
+            "cp_rate": -0.68
+          },
+          {
+            "fund_code": "005799",
+            "fundsname": "创金合信春来回报一年期定期开放A",
+            "post_date": "2018-06-07",
+            "resi_date": "2018-07-09",
+            "cp_rate": -0.62
+          },
+          {
+            "fund_code": "004360",
+            "fundsname": "创金合信量化核心混合C",
+            "post_date": "2017-09-11",
+            "resi_date": "2018-07-09",
+            "cp_rate": -2.5936
+          },
+          {
+            "fund_code": "004359",
+            "fundsname": "创金合信量化核心混合A",
+            "post_date": "2017-09-11",
+            "resi_date": "2018-07-09",
+            "cp_rate": -1.8149
+          },
+          {
+            "fund_code": "000313",
+            "fundsname": "华安沪深300增强C",
+            "post_date": "2015-01-21",
+            "resi_date": "2017-01-26",
+            "cp_rate": 5.9206
+          },
+          {
+            "fund_code": "000312",
+            "fundsname": "华安沪深300增强A",
+            "post_date": "2015-01-21",
+            "resi_date": "2017-01-26",
+            "cp_rate": 7.0866
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "002063",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

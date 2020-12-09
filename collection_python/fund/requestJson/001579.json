@@ -1,0 +1,340 @@
+{
+  "data": {
+    "fund_company": "    国泰基金成立于1998年3月,是国内首批规范成立的基金管理公司之一。历经17年的市场磨砺,公司稳步发展,目前进入了新的发展阶段。2010年全球领先的保险集团之一意大利忠利集团正式收购公司部分股权,国泰基金变身为中外合资基金公司,并在投资管理、产品研发、风险控制、基金营销等多方面与之展开交流与合作,得到了显著提高。(注:基金管理人与股东之间实行业务隔离制度,股东并不直接参与基金财产的投资运作。)目前公司已拥有包括公募基金、社保基金投资管理人、企业年金投资管理人、特定客户资产管理业务和合格境内机构投资者等业务资格,是行业内极少数拥有并开展多类业务的资产管理公司之一。\n    自1998年3月23日公开发行国内第一只封闭式基金——基金金泰以来,国泰基金的产品线不断得到丰富和完善。目前公司旗下共管理着58只公募基金,2只养老金产品和包括专户、年金、社保、投资咨询在内80多个资产委托组合,形成了丰富的资产管理产品线,能够满足不同风险偏好投资者的需求。\n    17年来,国泰基金始终秉承\"以最大的专业性和勤勉为投资人实现长期稳定的财富增值\"的经营宗旨,赢得了包括全国社会保障基金理事会在内的数百万投资人的信任。在为投资者创造物质财富的同时,也不忘承担社会责任,通过\"红蜡烛助教计划\"开展支学助教活动,积极践行\"和谐社会\"的价值观,为社会精神财富的创造贡献力量。截至2015年,国泰基金\"红蜡烛助教计划\"已历时8年,在全国范围内完成助教22次、捐助\"红蜡烛图书馆\"12座、\"红蜡烛·梦想中心\"多媒体教室4个、助养学生 128人、捐赠图书21287本、受益师生近6000人次。",
+    "fund_position": {
+      "stock_percent": 89.44,
+      "bond_percent": 0.13,
+      "cash_percent": 10.2,
+      "other_percent": 0.23,
+      "asset_tot": 1224362694.73,
+      "asset_val": 1207589546.26,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "通威股份",
+          "code": "600438",
+          "percent": 4.68,
+          "current_price": 29.2,
+          "change_percentage": -1.85,
+          "xq_symbol": "SH600438",
+          "xq_url": "https://xueqiu.com/S/SH600438",
+          "amarket": true
+        },
+        {
+          "name": "双汇发展",
+          "code": "000895",
+          "percent": 4.67,
+          "current_price": 48.4,
+          "change_percentage": 1.4,
+          "xq_symbol": "SZ000895",
+          "xq_url": "https://xueqiu.com/S/SZ000895",
+          "amarket": true
+        },
+        {
+          "name": "新希望",
+          "code": "000876",
+          "percent": 4.36,
+          "current_price": 26.59,
+          "change_percentage": -1.3,
+          "xq_symbol": "SZ000876",
+          "xq_url": "https://xueqiu.com/S/SZ000876",
+          "amarket": true
+        },
+        {
+          "name": "牧原股份",
+          "code": "002714",
+          "percent": 4.25,
+          "current_price": 78.22,
+          "change_percentage": -0.7,
+          "xq_symbol": "SZ002714",
+          "xq_url": "https://xueqiu.com/S/SZ002714",
+          "amarket": true
+        },
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 4.15,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "海大集团",
+          "code": "002311",
+          "percent": 3.56,
+          "current_price": 61,
+          "change_percentage": 0,
+          "xq_symbol": "SZ002311",
+          "xq_url": "https://xueqiu.com/S/SZ002311",
+          "amarket": true
+        },
+        {
+          "name": "海天味业",
+          "code": "603288",
+          "percent": 3.29,
+          "current_price": 183.5,
+          "change_percentage": 0.84,
+          "xq_symbol": "SH603288",
+          "xq_url": "https://xueqiu.com/S/SH603288",
+          "amarket": true
+        },
+        {
+          "name": "华鲁恒升",
+          "code": "600426",
+          "percent": 3.17,
+          "current_price": 34.94,
+          "change_percentage": 1.28,
+          "xq_symbol": "SH600426",
+          "xq_url": "https://xueqiu.com/S/SH600426",
+          "amarket": true
+        },
+        {
+          "name": "联化科技",
+          "code": "002250",
+          "percent": 3.07,
+          "current_price": 24.42,
+          "change_percentage": -0.45,
+          "xq_symbol": "SZ002250",
+          "xq_url": "https://xueqiu.com/S/SZ002250",
+          "amarket": true
+        },
+        {
+          "name": "顺鑫农业",
+          "code": "000860",
+          "percent": 3.05,
+          "current_price": 64.72,
+          "change_percentage": 3.39,
+          "xq_symbol": "SZ000860",
+          "xq_url": "https://xueqiu.com/S/SZ000860",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "海大转债",
+          "code": "128102",
+          "percent": 0.06,
+          "xq_symbol": "128102",
+          "xq_url": "https://xueqiu.com/S/128102",
+          "amarket": false
+        },
+        {
+          "name": "希望转债",
+          "code": "127015",
+          "percent": 0.05,
+          "xq_symbol": "127015",
+          "xq_url": "https://xueqiu.com/S/127015",
+          "amarket": false
+        },
+        {
+          "name": "正邦转债",
+          "code": "128114",
+          "percent": 0.03,
+          "xq_symbol": "128114",
+          "xq_url": "https://xueqiu.com/S/128114",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "001579",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<300万",
+          "value": "1.20"
+        },
+        {
+          "name": "300万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<180天",
+          "value": "0.500"
+        },
+        {
+          "name": "180天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "程洲",
+        "resume": "    程洲,硕士研究生,CFA,20年证券基金从业经历。曾任职于申银万国证券研究所。2004年4月加盟国泰基金管理有限公司,历任高级策略分析师、基金经理助理,2008年4月至2014年3月任国泰金马稳健回报证券投资基金的基金经理,2009年12月至2012年12月任金泰证券投资基金的基金经理,2010年2月至2011年12月任国泰估值优势可分离交易股票型证券投资基金的基金经理,2012年12月至2017年1月任国泰金泰平衡混合型证券投资基金(由金泰证券投资基金转型而来)的基金经理,2013年12月起兼任国泰聚信价值优势灵活配置混合型证券投资基金的基金经理,2015年1月起兼任国泰金牛创新成长混合型证券投资基金(原国泰金牛创新成长股票型证券投资基金)的基金经理,2017年3月至2020年7月任国泰民丰回报定期开放灵活配置混合型证券投资基金的基金经理,2017年6月起兼任国泰大农业股票型证券投资基金的基金经理,2017年11月起兼任国泰聚优价值灵活配置混合型证券投资基金的基金经理,2018年3月起兼任国泰聚利价值定期开放灵活配置混合型证券投资基金的基金经理,2019年5月至2020年7月任国泰鑫策略价值灵活配置混合型证券投资基金的基金经理,2019年11月起兼任国泰鑫睿混合型证券投资基金的基金经理,2020年1月起兼任国泰鑫利一年持有期混合型证券投资基金的基金经理,2020年5月起兼任国泰大制造两年持有期混合型证券投资基金的基金经理。",
+        "work_year": "20",
+        "achievement_list": [
+          {
+            "fund_code": "008415",
+            "fundsname": "国泰大制造两年持有期混合",
+            "post_date": "2020-05-29",
+            "cp_rate": 16.27
+          },
+          {
+            "fund_code": "008667",
+            "fundsname": "国泰鑫利一年持有期混合C",
+            "post_date": "2020-01-21",
+            "cp_rate": 6.05
+          },
+          {
+            "fund_code": "008666",
+            "fundsname": "国泰鑫利一年持有期混合A",
+            "post_date": "2020-01-21",
+            "cp_rate": 6.61
+          },
+          {
+            "fund_code": "007835",
+            "fundsname": "国泰鑫睿混合",
+            "post_date": "2019-11-13",
+            "cp_rate": 78.11
+          },
+          {
+            "fund_code": "002197",
+            "fundsname": "国泰鑫策略价值灵活配置混合",
+            "post_date": "2019-05-31",
+            "resi_date": "2020-07-24",
+            "cp_rate": 31.9597
+          },
+          {
+            "fund_code": "005746",
+            "fundsname": "国泰聚利价值定期开放灵活配置混合",
+            "post_date": "2018-03-27",
+            "cp_rate": 27.52
+          },
+          {
+            "fund_code": "005244",
+            "fundsname": "国泰聚优价值灵活配置混合A",
+            "post_date": "2017-11-15",
+            "cp_rate": 74.56
+          },
+          {
+            "fund_code": "005245",
+            "fundsname": "国泰聚优价值灵活配置混合C",
+            "post_date": "2017-11-15",
+            "cp_rate": 71.88
+          },
+          {
+            "fund_code": "001579",
+            "fundsname": "国泰大农业股票",
+            "post_date": "2017-06-15",
+            "cp_rate": 150.2
+          },
+          {
+            "fund_code": "003955",
+            "fundsname": "国泰民丰回报定期开放灵活配置混合",
+            "post_date": "2017-03-31",
+            "resi_date": "2020-07-24",
+            "cp_rate": 125.05
+          },
+          {
+            "fund_code": "519022",
+            "fundsname": "国泰金泰灵活配置混合C",
+            "post_date": "2015-11-17",
+            "resi_date": "2017-01-24",
+            "cp_rate": 5.0571
+          },
+          {
+            "fund_code": "020010",
+            "fundsname": "国泰金牛创新成长混合",
+            "post_date": "2015-01-26",
+            "cp_rate": 158.0785
+          },
+          {
+            "fund_code": "000363",
+            "fundsname": "国泰聚信价值优势灵活配置混合C",
+            "post_date": "2013-12-17",
+            "cp_rate": 383.42
+          },
+          {
+            "fund_code": "000362",
+            "fundsname": "国泰聚信价值优势灵活配置混合A",
+            "post_date": "2013-12-17",
+            "cp_rate": 381.54
+          },
+          {
+            "fund_code": "519020",
+            "fundsname": "国泰金泰灵活配置混合A",
+            "post_date": "2012-12-25",
+            "resi_date": "2017-01-24",
+            "cp_rate": 18.2404
+          },
+          {
+            "fund_code": "150011",
+            "fundsname": "国泰进取",
+            "post_date": "2010-02-10",
+            "resi_date": "2011-12-23",
+            "cp_rate": -37
+          },
+          {
+            "fund_code": "150010",
+            "fundsname": "国泰优先",
+            "post_date": "2010-02-10",
+            "resi_date": "2011-12-23",
+            "cp_rate": 10.6
+          },
+          {
+            "fund_code": "500001",
+            "fundsname": "基金金泰",
+            "post_date": "2009-12-15",
+            "resi_date": "2012-12-24",
+            "cp_rate": -7.9221
+          },
+          {
+            "fund_code": "020005",
+            "fundsname": "国泰金马稳健混合",
+            "post_date": "2008-04-03",
+            "resi_date": "2014-03-17",
+            "cp_rate": -21.0796
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "001579",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

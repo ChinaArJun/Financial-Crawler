@@ -1,0 +1,416 @@
+{
+  "data": {
+    "fund_company": "    鹏华基金管理有限公司成立于1998年12月22日,注册资本15,000万元人民币,总部设在深圳,在北京、上海、广州、武汉设有分公司,2013年1月,在深圳前海设立控股子公司鹏华资产管理有限公司。目前的股东由国信证券股份有限公司、意大利欧利盛资本资产管理股份公司(Eurizon Capital SGR S.p.A.)、深圳市北融信投资发展有限公司组成,三家股东的出资比例分别为50%、49%、1%,业务范围包括基金募集、基金销售、资产管理及中国证监会许可的其他业务。截至2016年12月31日,公司管理资产总规模达到4,551亿元,管理129只基金和10只全国社保投资组合。",
+    "fund_position": {
+      "stock_percent": 92.11,
+      "cash_percent": 5.49,
+      "other_percent": 2.4,
+      "asset_tot": 516115554.86,
+      "asset_val": 504109858.3,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "中国平安",
+          "code": "601318",
+          "percent": 4.83,
+          "current_price": 88.05,
+          "change_percentage": -2.58,
+          "xq_symbol": "SH601318",
+          "xq_url": "https://xueqiu.com/S/SH601318",
+          "amarket": true
+        },
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 4.75,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 2.5,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "招商银行",
+          "code": "600036",
+          "percent": 2.17,
+          "current_price": 44.26,
+          "change_percentage": -0.36,
+          "xq_symbol": "SH600036",
+          "xq_url": "https://xueqiu.com/S/SH600036",
+          "amarket": true
+        },
+        {
+          "name": "美的集团",
+          "code": "000333",
+          "percent": 2.09,
+          "current_price": 86.7,
+          "change_percentage": -1.54,
+          "xq_symbol": "SZ000333",
+          "xq_url": "https://xueqiu.com/S/SZ000333",
+          "amarket": true
+        },
+        {
+          "name": "恒瑞医药",
+          "code": "600276",
+          "percent": 1.92,
+          "current_price": 90.07,
+          "change_percentage": 0.21,
+          "xq_symbol": "SH600276",
+          "xq_url": "https://xueqiu.com/S/SH600276",
+          "amarket": true
+        },
+        {
+          "name": "格力电器",
+          "code": "000651",
+          "percent": 1.5,
+          "current_price": 65.66,
+          "change_percentage": -3.44,
+          "xq_symbol": "SZ000651",
+          "xq_url": "https://xueqiu.com/S/SZ000651",
+          "amarket": true
+        },
+        {
+          "name": "中信证券",
+          "code": "600030",
+          "percent": 1.49,
+          "current_price": 30.01,
+          "change_percentage": 0,
+          "xq_symbol": "SH600030",
+          "xq_url": "https://xueqiu.com/S/SH600030",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 1.4,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "伊利股份",
+          "code": "600887",
+          "percent": 1.35,
+          "current_price": 40.68,
+          "change_percentage": 1.24,
+          "xq_symbol": "SH600887",
+          "xq_url": "https://xueqiu.com/S/SH600887",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "006939",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "1",
+      "subscribe_discount": "1",
+      "declare_discount": "1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.20"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.15"
+        },
+        {
+          "name": "基金管理费",
+          "value": "0.75"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "张羽翔",
+        "resume": "    张羽翔先生,国籍中国,工学硕士,13年证券基金从业经验。曾任招商银行软件中心(原深圳市融博技术公司)数据分析师;2011年3月加盟鹏华基金管理有限公司,历任监察稽核部资深金融工程师、量化及衍生品投资部资深量化研究员,先后从事金融工程、量化研究等工作;现任量化及衍生品投资部基金经理。2015年09月担任民企ETF基金基金经理,2015年09月担任鹏华上证民企50ETF联接基金基金经理,2016年06月至2018年05月担任鹏华新丝路分级基金基金经理,2016年07月担任鹏华高铁分级基金基金经理,2016年09月担任鹏华沪深300指数(LOF)基金基金经理,2016年09月担任鹏华中证500指数(LOF)基金基金经理,2016年11月担任鹏华新能源分级基金基金经理,2016年11月担任鹏华一带一路分级基金基金经理,2018年04月担任鹏华互联网分级基金基金经理,2018年04月担任鹏华创业板分级基金基金经理,2018年05月至2018年08月担任鹏华沪深300指数增强基金基金经理,2018年05月担任鹏华钢铁分级基金基金经理,2018年05月担任鹏华香港中小企业指数(LOF)基金基金经理,2019年04月担任酒ETF基金基金经理,2019年07月担任国防ETF基金基金经理,2019年11月担任鹏华香港银行指数(LOF)基金基金经理,2019年12月担任银行FUND基金基金经理,2020年02月担任证保ETF基金基金经理,2020年03月担任传媒ETF基金基金经理。张羽翔先生具备基金从业资格。",
+        "work_year": "13",
+        "achievement_list": [
+          {
+            "fund_code": "010365",
+            "fundsname": "鹏华香港银行指数C(LOF)",
+            "post_date": "2020-10-27",
+            "cp_rate": 7.76
+          },
+          {
+            "fund_code": "159805",
+            "fundsname": "鹏华中证传媒ETF",
+            "post_date": "2020-03-06",
+            "cp_rate": 13.95
+          },
+          {
+            "fund_code": "515630",
+            "fundsname": "鹏华中证800证券保险ETF",
+            "post_date": "2020-02-28",
+            "cp_rate": 33.6897
+          },
+          {
+            "fund_code": "512730",
+            "fundsname": "鹏华中证银行ETF",
+            "post_date": "2019-12-19",
+            "cp_rate": 10.96
+          },
+          {
+            "fund_code": "501025",
+            "fundsname": "鹏华香港银行指数A(LOF)",
+            "post_date": "2019-11-22",
+            "cp_rate": -13.0655
+          },
+          {
+            "fund_code": "512670",
+            "fundsname": "鹏华中证国防ETF",
+            "post_date": "2019-07-05",
+            "cp_rate": 78.11
+          },
+          {
+            "fund_code": "512690",
+            "fundsname": "鹏华中证酒ETF",
+            "post_date": "2019-04-04",
+            "cp_rate": 128.973
+          },
+          {
+            "fund_code": "006938",
+            "fundsname": "鹏华中证500指数(LOF)C",
+            "post_date": "2019-01-22",
+            "cp_rate": 70.8
+          },
+          {
+            "fund_code": "006939",
+            "fundsname": "鹏华沪深300指数(LOF)C",
+            "post_date": "2019-01-22",
+            "cp_rate": 78.6
+          },
+          {
+            "fund_code": "502023",
+            "fundsname": "鹏华钢铁分级",
+            "post_date": "2018-05-31",
+            "resi_date": "2020-12-31",
+            "cp_rate": 2.9894
+          },
+          {
+            "fund_code": "501023",
+            "fundsname": "鹏华香港中小企业指数(LOF)",
+            "post_date": "2018-05-31",
+            "cp_rate": -12.1294
+          },
+          {
+            "fund_code": "502025",
+            "fundsname": "鹏华钢铁B",
+            "post_date": "2018-05-31",
+            "resi_date": "2020-12-31",
+            "cp_rate": -43.6111
+          },
+          {
+            "fund_code": "502024",
+            "fundsname": "鹏华钢铁A",
+            "post_date": "2018-05-31",
+            "resi_date": "2020-12-31",
+            "cp_rate": 11.623
+          },
+          {
+            "fund_code": "005870",
+            "fundsname": "鹏华沪深300指数",
+            "post_date": "2018-05-25",
+            "resi_date": "2018-08-03",
+            "cp_rate": -9.8107
+          },
+          {
+            "fund_code": "150246",
+            "fundsname": "鹏华互联B",
+            "post_date": "2018-04-28",
+            "resi_date": "2020-12-31",
+            "cp_rate": 114.3606
+          },
+          {
+            "fund_code": "150245",
+            "fundsname": "鹏华互联A",
+            "post_date": "2018-04-28",
+            "resi_date": "2020-12-31",
+            "cp_rate": 12.0452
+          },
+          {
+            "fund_code": "160636",
+            "fundsname": "鹏华互联网分级",
+            "post_date": "2018-04-28",
+            "resi_date": "2020-12-31",
+            "cp_rate": 67.2756
+          },
+          {
+            "fund_code": "150244",
+            "fundsname": "鹏华创业板分级B",
+            "post_date": "2018-04-28",
+            "resi_date": "2020-12-31",
+            "cp_rate": 23.8167
+          },
+          {
+            "fund_code": "150243",
+            "fundsname": "鹏华创业板分级A",
+            "post_date": "2018-04-28",
+            "resi_date": "2020-12-31",
+            "cp_rate": 12.0947
+          },
+          {
+            "fund_code": "160637",
+            "fundsname": "鹏华创业板分级",
+            "post_date": "2018-04-28",
+            "resi_date": "2020-12-31",
+            "cp_rate": 50.4305
+          },
+          {
+            "fund_code": "150280",
+            "fundsname": "鹏华新能源B",
+            "post_date": "2016-11-23",
+            "resi_date": "2020-07-07",
+            "cp_rate": -42.7044
+          },
+          {
+            "fund_code": "150279",
+            "fundsname": "鹏华新能源A",
+            "post_date": "2016-11-23",
+            "resi_date": "2020-07-07",
+            "cp_rate": 17.278
+          },
+          {
+            "fund_code": "160640",
+            "fundsname": "鹏华新能源分级",
+            "post_date": "2016-11-23",
+            "resi_date": "2020-07-07",
+            "cp_rate": 9.1306
+          },
+          {
+            "fund_code": "150274",
+            "fundsname": "鹏华一带一路分级B",
+            "post_date": "2016-11-23",
+            "resi_date": "2020-12-31",
+            "cp_rate": -24.152
+          },
+          {
+            "fund_code": "150273",
+            "fundsname": "鹏华一带一路分级A",
+            "post_date": "2016-11-23",
+            "resi_date": "2020-12-31",
+            "cp_rate": 19.4814
+          },
+          {
+            "fund_code": "160638",
+            "fundsname": "鹏华一带一路分级",
+            "post_date": "2016-11-23",
+            "resi_date": "2020-12-31",
+            "cp_rate": 18.2788
+          },
+          {
+            "fund_code": "160615",
+            "fundsname": "鹏华沪深300指数(LOF)A",
+            "post_date": "2016-09-24",
+            "cp_rate": 86.6692
+          },
+          {
+            "fund_code": "160616",
+            "fundsname": "鹏华中证500指数(LOF)A",
+            "post_date": "2016-09-24",
+            "cp_rate": 28.4695
+          },
+          {
+            "fund_code": "150278",
+            "fundsname": "鹏华高铁B",
+            "post_date": "2016-07-15",
+            "resi_date": "2020-12-31",
+            "cp_rate": -63.7472
+          },
+          {
+            "fund_code": "150277",
+            "fundsname": "鹏华高铁A",
+            "post_date": "2016-07-15",
+            "resi_date": "2020-12-31",
+            "cp_rate": 21.4319
+          },
+          {
+            "fund_code": "160639",
+            "fundsname": "鹏华高铁分级",
+            "post_date": "2016-07-15",
+            "resi_date": "2020-12-31",
+            "cp_rate": -19.0187
+          },
+          {
+            "fund_code": "502028",
+            "fundsname": "鹏华新丝路B",
+            "post_date": "2016-06-24",
+            "resi_date": "2018-05-24",
+            "cp_rate": -39.1976
+          },
+          {
+            "fund_code": "502027",
+            "fundsname": "鹏华新丝路A",
+            "post_date": "2016-06-24",
+            "resi_date": "2018-05-24",
+            "cp_rate": 8.9166
+          },
+          {
+            "fund_code": "502026",
+            "fundsname": "鹏华新丝路分级",
+            "post_date": "2016-06-24",
+            "resi_date": "2018-05-24",
+            "cp_rate": -11.1072
+          },
+          {
+            "fund_code": "206005",
+            "fundsname": "鹏华上证民企50ETF联接",
+            "post_date": "2015-09-17",
+            "resi_date": "2020-06-23",
+            "cp_rate": 30.3759
+          },
+          {
+            "fund_code": "510070",
+            "fundsname": "鹏华上证民企50ETF",
+            "post_date": "2015-09-17",
+            "resi_date": "2020-06-29",
+            "cp_rate": 37.7111
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "006939",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

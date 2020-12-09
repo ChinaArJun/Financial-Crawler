@@ -1,0 +1,263 @@
+{
+  "data": {
+    "fund_company": "    前海开源基金管理有限公司经中国证监会(证监许可[2012]1751 号文)批准,于 2013 年 1 月 23 日注册成立。公司经营范围:基金募集、基金销售、特定客户资产管理、资产管理和中国证监会许可的其他业务。\n    前海开源基金立足国家金融创新合作区——深圳前海,依托深港紧密合作和融合发展,利用前海“特区中的特区”的区位优势和金融创新先行先试的政策优势,抓住人民币国际化的战略机遇,凭借完善的管理体制和创新的运营机制,吸纳海内外高端人才,全力打造专业化、创新型的现代财富管理机构,积极参与前海大开发和中国资产管理行业二次腾飞的潮流中。",
+    "fund_position": {
+      "stock_percent": 86.84,
+      "cash_percent": 12.89,
+      "other_percent": 0.27,
+      "asset_tot": 49858046.31,
+      "asset_val": 49425726.35,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "香港交易所",
+          "code": "00388",
+          "percent": 6.37,
+          "xq_symbol": "00388",
+          "xq_url": "https://xueqiu.com/S/00388",
+          "amarket": false
+        },
+        {
+          "name": "长城汽车",
+          "code": "02333",
+          "percent": 4.54,
+          "xq_symbol": "02333",
+          "xq_url": "https://xueqiu.com/S/02333",
+          "amarket": false
+        },
+        {
+          "name": "创科实业",
+          "code": "00669",
+          "percent": 4.34,
+          "xq_symbol": "00669",
+          "xq_url": "https://xueqiu.com/S/00669",
+          "amarket": false
+        },
+        {
+          "name": "周大福",
+          "code": "01929",
+          "percent": 4.17,
+          "xq_symbol": "01929",
+          "xq_url": "https://xueqiu.com/S/01929",
+          "amarket": false
+        },
+        {
+          "name": "青岛啤酒股份",
+          "code": "00168",
+          "percent": 4.04,
+          "xq_symbol": "00168",
+          "xq_url": "https://xueqiu.com/S/00168",
+          "amarket": false
+        },
+        {
+          "name": "申洲国际",
+          "code": "02313",
+          "percent": 3.74,
+          "xq_symbol": "02313",
+          "xq_url": "https://xueqiu.com/S/02313",
+          "amarket": false
+        },
+        {
+          "name": "香港宽频",
+          "code": "01310",
+          "percent": 3.62,
+          "xq_symbol": "01310",
+          "xq_url": "https://xueqiu.com/S/01310",
+          "amarket": false
+        },
+        {
+          "name": "友邦保险",
+          "code": "01299",
+          "percent": 3.62,
+          "xq_symbol": "01299",
+          "xq_url": "https://xueqiu.com/S/01299",
+          "amarket": false
+        },
+        {
+          "name": "中国平安",
+          "code": "02318",
+          "percent": 3.53,
+          "xq_symbol": "02318",
+          "xq_url": "https://xueqiu.com/S/02318",
+          "amarket": false
+        },
+        {
+          "name": "中金公司",
+          "code": "03908",
+          "percent": 3.18,
+          "xq_symbol": "03908",
+          "xq_url": "https://xueqiu.com/S/03908",
+          "amarket": false
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "004098",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<250万",
+          "value": "1.00"
+        },
+        {
+          "name": "250万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<366天",
+          "value": "0.500"
+        },
+        {
+          "name": "366天≤持有期限<731天",
+          "value": "0.250"
+        },
+        {
+          "name": "731天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "王霞",
+        "resume": "    王霞女士,中国国籍,北京交通大学经济学硕士,中国注册会计师(CPA)。 历任南方基金管理 有限公司商业、旅游、贸易行业研究员、房地产行业首席研究员、金融地产组组长。 现任前海开源 基金管理有限公司执行投资总监、 前海开源事件驱动灵活配置混合型发起式证券投资基金基金 经理、前海开源盈鑫灵活配置混合型证券投资基金基金经理、前海开源沪港深裕鑫灵活配置混合 型证券投资基金基金经理、前海开源中国成长灵活配置混合型证券投资基金基金经理。 王霞女士 具备基金从业资格。",
+        "college": "北京交通大学",
+        "achievement_list": [
+          {
+            "fund_code": "004098",
+            "fundsname": "前海开源港股通股息率50强股票",
+            "post_date": "2020-07-23",
+            "cp_rate": 3.0229
+          },
+          {
+            "fund_code": "006924",
+            "fundsname": "前海开源沪港深非周期股票C",
+            "post_date": "2020-07-20",
+            "cp_rate": 11.603
+          },
+          {
+            "fund_code": "006923",
+            "fundsname": "前海开源沪港深非周期股票A",
+            "post_date": "2020-07-20",
+            "cp_rate": 11.706
+          },
+          {
+            "fund_code": "000788",
+            "fundsname": "前海开源中国成长灵活配置混合",
+            "post_date": "2018-03-06",
+            "cp_rate": 89.8808
+          },
+          {
+            "fund_code": "004317",
+            "fundsname": "前海开源沪港深裕鑫C",
+            "post_date": "2017-03-23",
+            "cp_rate": 54.47
+          },
+          {
+            "fund_code": "004316",
+            "fundsname": "前海开源沪港深裕鑫A",
+            "post_date": "2017-03-23",
+            "cp_rate": 55.24
+          },
+          {
+            "fund_code": "004454",
+            "fundsname": "前海开源盈鑫C",
+            "post_date": "2017-03-21",
+            "resi_date": "2019-05-15",
+            "cp_rate": 10.92
+          },
+          {
+            "fund_code": "004453",
+            "fundsname": "前海开源盈鑫A",
+            "post_date": "2017-03-21",
+            "resi_date": "2019-05-15",
+            "cp_rate": 10.11
+          },
+          {
+            "fund_code": "001865",
+            "fundsname": "前海开源事件驱动混合C",
+            "post_date": "2015-10-26",
+            "cp_rate": 80.1
+          },
+          {
+            "fund_code": "000423",
+            "fundsname": "前海开源事件驱动混合A",
+            "post_date": "2014-12-25",
+            "cp_rate": 96.131
+          },
+          {
+            "fund_code": "000656",
+            "fundsname": "前海开源沪深300指数",
+            "post_date": "2014-06-17",
+            "resi_date": "2017-08-30",
+            "cp_rate": 52.74
+          }
+        ]
+      },
+      {
+        "name": "董治国",
+        "resume": "    2015年7月加盟前海开源基金管理有限公司, 曾任权益投资本部研究员,现任权益投资本部基金经理。",
+        "achievement_list": [
+          {
+            "fund_code": "000690",
+            "fundsname": "前海开源大海洋混合",
+            "post_date": "2020-07-23",
+            "cp_rate": 19.7652
+          },
+          {
+            "fund_code": "004098",
+            "fundsname": "前海开源港股通股息率50强股票",
+            "post_date": "2020-07-23",
+            "cp_rate": 3.0229
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "004098",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 4,
+      "all_buy_days": 2,
+      "all_sale_days": 5
+    }
+  },
+  "result_code": 0
+}

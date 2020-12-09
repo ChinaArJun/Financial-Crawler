@@ -1,0 +1,443 @@
+{
+  "data": {
+    "fund_company": "    中融基金管理有限公司原名道富基金管理有限公司,于2013年5月16日获证监会批准设立,2013年5月31日在国家工商行政管理总局办理完成工商注册登记并取得营业执照,可从事基金募集、基金销售、特定客户资产管理、资产管理和中国证监会许可的其他业务。注册资本7.5亿元人民币。\n    公司股权结构为:中融国际信托有限公司出资比例 51%;上海融晟投资有限公司出资比例49%。中融基金将依托股东单位的雄厚实力,秉承稳健的经营风格,以完善的风控体系为前提,以客户需求为导向,顺应基金行业发展规律,在不同业务方向上建立支点,打造亮点,为投资者提供长期稳定的回报。",
+    "fund_position": {
+      "stock_percent": 92.2,
+      "cash_percent": 7.7,
+      "other_percent": 0.1,
+      "asset_tot": 30521453.26,
+      "asset_val": 30332581.28,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "三一重工",
+          "code": "600031",
+          "percent": 2.87,
+          "current_price": 31.48,
+          "change_percentage": -1.41,
+          "xq_symbol": "SH600031",
+          "xq_url": "https://xueqiu.com/S/SH600031",
+          "amarket": true
+        },
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 2.62,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "金地集团",
+          "code": "600383",
+          "percent": 2.58,
+          "current_price": 14.17,
+          "change_percentage": -0.56,
+          "xq_symbol": "SH600383",
+          "xq_url": "https://xueqiu.com/S/SH600383",
+          "amarket": true
+        },
+        {
+          "name": "威孚高科",
+          "code": "000581",
+          "percent": 2.53,
+          "current_price": 24.79,
+          "change_percentage": 0.16,
+          "xq_symbol": "SZ000581",
+          "xq_url": "https://xueqiu.com/S/SZ000581",
+          "amarket": true
+        },
+        {
+          "name": "金洲管道",
+          "code": "002443",
+          "percent": 2.46,
+          "current_price": 7.07,
+          "change_percentage": -1.12,
+          "xq_symbol": "SZ002443",
+          "xq_url": "https://xueqiu.com/S/SZ002443",
+          "amarket": true
+        },
+        {
+          "name": "顺丰控股",
+          "code": "002352",
+          "percent": 2.44,
+          "current_price": 80.21,
+          "change_percentage": -1.88,
+          "xq_symbol": "SZ002352",
+          "xq_url": "https://xueqiu.com/S/SZ002352",
+          "amarket": true
+        },
+        {
+          "name": "招商银行",
+          "code": "600036",
+          "percent": 2.43,
+          "current_price": 44.26,
+          "change_percentage": -0.36,
+          "xq_symbol": "SH600036",
+          "xq_url": "https://xueqiu.com/S/SH600036",
+          "amarket": true
+        },
+        {
+          "name": "中南建设",
+          "code": "000961",
+          "percent": 2.43,
+          "current_price": 9.52,
+          "change_percentage": -0.94,
+          "xq_symbol": "SZ000961",
+          "xq_url": "https://xueqiu.com/S/SZ000961",
+          "amarket": true
+        },
+        {
+          "name": "金科股份",
+          "code": "000656",
+          "percent": 2.43,
+          "current_price": 7.43,
+          "change_percentage": -2.49,
+          "xq_symbol": "SZ000656",
+          "xq_url": "https://xueqiu.com/S/SZ000656",
+          "amarket": true
+        },
+        {
+          "name": "国茂股份",
+          "code": "603915",
+          "percent": 2.42,
+          "current_price": 29.7,
+          "change_percentage": 1.02,
+          "xq_symbol": "SH603915",
+          "xq_url": "https://xueqiu.com/S/SH603915",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "005570",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.500"
+        },
+        {
+          "name": "30天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.50"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "赵菲",
+        "resume": "    赵菲先生,中国国籍,毕业于北京师范大学概率论与数理统计专业,研究生、硕士学位,具有基金从业资格。2008年8月至2011年5月曾任国泰君安证券股份有限公司证券及衍生品投资总部投资经理;2011年5月至2012年11月曾任嘉实基金管理有限公司结构产品投资部专户投资经理。2012年11月加入中融基金管理有限公司,现任指数投资部总经理职位。现任中融智选红利股票型证券投资基金(2020年5月起至今)、中融中证一带一路主题指数分级证券投资基金(2015年5月起至今)、中融中证银行指数分级证券投资基金(2015年5月起至今)、中融国证钢铁行业指数分级证券投资基金(2015年6月起至今)、中融中证煤炭指数分级证券投资基金(2015年6月起至今)、中融中证白酒指数分级证券投资基金(2015年9月至2016年5月)、中融量化多因子混合型发起式证券投资基金(2016年12月至2019年3月)、中融量化小盘股票型发起式证券投资基金(2017年5月至2019年3月)、中融央视财经50交易型开放式指数证券投资基金(2019年3月起至今)、中融央视财经50交易型开放式指数证券投资基金联接基金(2019年3月起至今)、中融中证500交易型开放式指数证券投资基金(2019年11月起至今)、中融中证500交易型开放式指数证券投资基金联接基金(2019年12月起至今)、中融智选对冲策略3个月定期开放灵活配置混合型发起式证券投资基金(2020年4月起至今)的基金经理。",
+        "college": "北京师范大学",
+        "work_year": "11",
+        "achievement_list": [
+          {
+            "fund_code": "168205",
+            "fundsname": "中融中证银行指数(LOF)",
+            "post_date": "2020-10-14",
+            "cp_rate": 8.6
+          },
+          {
+            "fund_code": "005570",
+            "fundsname": "中融智选红利股票C",
+            "post_date": "2020-05-21",
+            "cp_rate": 21.5702
+          },
+          {
+            "fund_code": "005569",
+            "fundsname": "中融智选红利股票A",
+            "post_date": "2020-05-21",
+            "cp_rate": 21.8612
+          },
+          {
+            "fund_code": "008848",
+            "fundsname": "中融智选对冲3个月定开混合",
+            "post_date": "2020-04-08",
+            "cp_rate": -0.5301
+          },
+          {
+            "fund_code": "007886",
+            "fundsname": "中融中证500ETF联接C",
+            "post_date": "2019-12-31",
+            "cp_rate": 19.6
+          },
+          {
+            "fund_code": "007885",
+            "fundsname": "中融中证500ETF联接A",
+            "post_date": "2019-12-31",
+            "cp_rate": 19.76
+          },
+          {
+            "fund_code": "515550",
+            "fundsname": "中融中证500ETF",
+            "post_date": "2019-11-15",
+            "cp_rate": 30.12
+          },
+          {
+            "fund_code": "006743",
+            "fundsname": "中融央视财经50ETF联接A",
+            "post_date": "2019-03-20",
+            "cp_rate": 43.96
+          },
+          {
+            "fund_code": "006744",
+            "fundsname": "中融央视财经50ETF联接C",
+            "post_date": "2019-03-20",
+            "cp_rate": 42.68
+          },
+          {
+            "fund_code": "159965",
+            "fundsname": "中融央视财经50ETF",
+            "post_date": "2019-03-19",
+            "cp_rate": 47.55
+          },
+          {
+            "fund_code": "004785",
+            "fundsname": "中融量化多因子混合C",
+            "post_date": "2017-06-26",
+            "resi_date": "2019-03-04",
+            "cp_rate": -12.86
+          },
+          {
+            "fund_code": "004273",
+            "fundsname": "中融量化小盘股票C",
+            "post_date": "2017-05-17",
+            "resi_date": "2019-03-04",
+            "cp_rate": -15.38
+          },
+          {
+            "fund_code": "004272",
+            "fundsname": "中融量化小盘股票A",
+            "post_date": "2017-05-17",
+            "resi_date": "2019-03-04",
+            "cp_rate": -14.53
+          },
+          {
+            "fund_code": "004065",
+            "fundsname": "中融量化多因子混合A",
+            "post_date": "2016-12-29",
+            "resi_date": "2019-03-04",
+            "cp_rate": -22.9646
+          },
+          {
+            "fund_code": "150286",
+            "fundsname": "中融白酒B",
+            "post_date": "2015-09-30",
+            "resi_date": "2016-05-06",
+            "cp_rate": 30.7307
+          },
+          {
+            "fund_code": "150285",
+            "fundsname": "中融白酒A",
+            "post_date": "2015-09-30",
+            "resi_date": "2016-05-06",
+            "cp_rate": 3.0938
+          },
+          {
+            "fund_code": "168202",
+            "fundsname": "中融白酒",
+            "post_date": "2015-09-30",
+            "resi_date": "2016-05-06",
+            "cp_rate": 17
+          },
+          {
+            "fund_code": "150290",
+            "fundsname": "中融煤炭B",
+            "post_date": "2015-06-25",
+            "resi_date": "2020-12-31",
+            "cp_rate": -75.8158
+          },
+          {
+            "fund_code": "150289",
+            "fundsname": "中融煤炭A",
+            "post_date": "2015-06-25",
+            "resi_date": "2020-12-31",
+            "cp_rate": 34.2557
+          },
+          {
+            "fund_code": "168204",
+            "fundsname": "中融煤炭",
+            "post_date": "2015-06-25",
+            "resi_date": "2020-12-31",
+            "cp_rate": -25.58
+          },
+          {
+            "fund_code": "168203",
+            "fundsname": "中融钢铁",
+            "post_date": "2015-06-19",
+            "resi_date": "2020-12-31",
+            "cp_rate": -59.18
+          },
+          {
+            "fund_code": "150287",
+            "fundsname": "中融钢铁A",
+            "post_date": "2015-06-19",
+            "resi_date": "2020-12-31",
+            "cp_rate": 34.3457
+          },
+          {
+            "fund_code": "150288",
+            "fundsname": "中融钢铁B",
+            "post_date": "2015-06-19",
+            "resi_date": "2020-12-31",
+            "cp_rate": -96.6967
+          },
+          {
+            "fund_code": "150292",
+            "fundsname": "中融银行B",
+            "post_date": "2015-06-05",
+            "resi_date": "2020-10-13",
+            "cp_rate": -13.8105
+          },
+          {
+            "fund_code": "150291",
+            "fundsname": "中融银行A",
+            "post_date": "2015-06-05",
+            "resi_date": "2020-10-13",
+            "cp_rate": 32.9471
+          },
+          {
+            "fund_code": "168205",
+            "fundsname": "中融银行",
+            "post_date": "2015-06-05",
+            "resi_date": "2020-10-13",
+            "cp_rate": 10.0401
+          },
+          {
+            "fund_code": "150266",
+            "fundsname": "中融一带一路B",
+            "post_date": "2015-05-14",
+            "resi_date": "2020-11-04",
+            "cp_rate": -91.6817
+          },
+          {
+            "fund_code": "150265",
+            "fundsname": "中融一带一路A",
+            "post_date": "2015-05-14",
+            "resi_date": "2020-11-04",
+            "cp_rate": 34.6653
+          },
+          {
+            "fund_code": "168201",
+            "fundsname": "中融一带一路",
+            "post_date": "2015-05-14",
+            "resi_date": "2020-11-04",
+            "cp_rate": -49.66
+          }
+        ]
+      },
+      {
+        "name": "陈薪羽",
+        "resume": "    陈薪羽先生,中国国籍,毕业于北京大学概率论与数理统计专业,研究生、硕士学位,具有基金从业资格,证券从业年限4年。2015年8月至2016年10月任中国人保寿险首席投资官秘书。2016年10月加入中融基金管理有限公司,现任指数投资部基金经理。现任中融智选红利股票型证券投资基金(2020年3月起至今)、中融央视财经50交易型开放式指数证券投资基金(2019年8月起至今)、中融央视财经50交易型开放式指数证券投资基金联接基金(2019年8月起至今)、中融中证500交易型开放式指数证券投资基金(2019年11月起至今)、中融中证500交易型开放式指数证券投资基金联接基金(2019年12月起至今)、中融量化智选混合型证券投资基金(2020年3月起至今)、中融量化小盘股票型发起式证券投资基金(2020年3月起至今)的基金经理。",
+        "college": "北京大学",
+        "achievement_list": [
+          {
+            "fund_code": "004783",
+            "fundsname": "中融量化智选混合C",
+            "post_date": "2020-03-05",
+            "cp_rate": 7.4795
+          },
+          {
+            "fund_code": "005570",
+            "fundsname": "中融智选红利股票C",
+            "post_date": "2020-03-05",
+            "cp_rate": 14.9088
+          },
+          {
+            "fund_code": "005569",
+            "fundsname": "中融智选红利股票A",
+            "post_date": "2020-03-05",
+            "cp_rate": 15.3705
+          },
+          {
+            "fund_code": "004273",
+            "fundsname": "中融量化小盘股票C",
+            "post_date": "2020-03-05",
+            "resi_date": "2020-05-17",
+            "cp_rate": -2.2001
+          },
+          {
+            "fund_code": "004272",
+            "fundsname": "中融量化小盘股票A",
+            "post_date": "2020-03-05",
+            "resi_date": "2020-05-17",
+            "cp_rate": -2.1871
+          },
+          {
+            "fund_code": "004212",
+            "fundsname": "中融量化智选混合A",
+            "post_date": "2020-03-05",
+            "cp_rate": 8.4481
+          },
+          {
+            "fund_code": "515550",
+            "fundsname": "中融中证500ETF",
+            "post_date": "2019-11-28",
+            "cp_rate": 30.3938
+          },
+          {
+            "fund_code": "006744",
+            "fundsname": "中融央视财经50ETF联接C",
+            "post_date": "2019-08-01",
+            "cp_rate": 41.4774
+          },
+          {
+            "fund_code": "006743",
+            "fundsname": "中融央视财经50ETF联接A",
+            "post_date": "2019-08-01",
+            "cp_rate": 42.2389
+          },
+          {
+            "fund_code": "159965",
+            "fundsname": "中融央视财经50ETF",
+            "post_date": "2019-08-01",
+            "cp_rate": 47.9791
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "005570",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "fund_company": "    2012年8月17日,经中国证监会批准,英大基金管理有限公司在北京正式成立。公司由英大国际信托有限责任公司(简称英大信托)、中国交通建设股份有限公司(简称中交股份)和航天科工财务有限责任公司(简称航天科工财务)三家股东发起成立。英大基金注册资金2亿元人民币,其中英大信托出资比例为49%,中交股份出资比例为36%,航天科工财务出资比例为15%。\n    英大基金90%以上的员工来自于基金公司等金融机构,平均行业从业时间超过10年,硕士以上学历的员工占员工总数70%以上,核心团队拥有丰富的经验和行业影响力。\n    公司自成立就秉承了国有企业诚信、责任、奉献的优良传统,确立了以“诚信、责任、专业、创新”为核心的企业文化,坚持以维护基金持有人利益为经营原则,坚持公募私募协同发展、两翼齐飞的战略,坚持以市场为导向,坚持价值投资、长期投资理念,注重发展和创新,建立了科学、专业的投研体系和严谨的风控体系,力争在5年内成为具有核心竞争力、受人尊敬、业内领先的专业财富管理公司。",
+    "fund_position": {
+      "stock_percent": 28.85,
+      "cash_percent": 70.29,
+      "other_percent": 0.86,
+      "asset_tot": 86966966.59,
+      "asset_val": 68838808.29,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "福能股份",
+          "code": "600483",
+          "percent": 3,
+          "current_price": 7.8,
+          "change_percentage": -0.64,
+          "xq_symbol": "SH600483",
+          "xq_url": "https://xueqiu.com/S/SH600483",
+          "amarket": true
+        },
+        {
+          "name": "广汇能源",
+          "code": "600256",
+          "percent": 2.98,
+          "current_price": 2.96,
+          "change_percentage": -1.99,
+          "xq_symbol": "SH600256",
+          "xq_url": "https://xueqiu.com/S/SH600256",
+          "amarket": true
+        },
+        {
+          "name": "骆驼股份",
+          "code": "601311",
+          "percent": 2.59,
+          "current_price": 9.41,
+          "change_percentage": 3.63,
+          "xq_symbol": "SH601311",
+          "xq_url": "https://xueqiu.com/S/SH601311",
+          "amarket": true
+        },
+        {
+          "name": "中国太保",
+          "code": "601601",
+          "percent": 2.59,
+          "current_price": 37.67,
+          "change_percentage": -0.37,
+          "xq_symbol": "SH601601",
+          "xq_url": "https://xueqiu.com/S/SH601601",
+          "amarket": true
+        },
+        {
+          "name": "保利地产",
+          "code": "600048",
+          "percent": 2.58,
+          "current_price": 16.46,
+          "change_percentage": -0.48,
+          "xq_symbol": "SH600048",
+          "xq_url": "https://xueqiu.com/S/SH600048",
+          "amarket": true
+        },
+        {
+          "name": "上汽集团",
+          "code": "600104",
+          "percent": 2.56,
+          "current_price": 24.36,
+          "change_percentage": 0.08,
+          "xq_symbol": "SH600104",
+          "xq_url": "https://xueqiu.com/S/SH600104",
+          "amarket": true
+        },
+        {
+          "name": "中国神华",
+          "code": "601088",
+          "percent": 2.13,
+          "current_price": 18.4,
+          "change_percentage": -0.43,
+          "xq_symbol": "SH601088",
+          "xq_url": "https://xueqiu.com/S/SH601088",
+          "amarket": true
+        },
+        {
+          "name": "景旺电子",
+          "code": "603228",
+          "percent": 2.11,
+          "current_price": 32.16,
+          "change_percentage": -0.09,
+          "xq_symbol": "SH603228",
+          "xq_url": "https://xueqiu.com/S/SH603228",
+          "amarket": true
+        },
+        {
+          "name": "艾华集团",
+          "code": "603989",
+          "percent": 2.06,
+          "current_price": 29.36,
+          "change_percentage": -0.34,
+          "xq_symbol": "SH603989",
+          "xq_url": "https://xueqiu.com/S/SH603989",
+          "amarket": true
+        },
+        {
+          "name": "无锡银行",
+          "code": "600908",
+          "percent": 2.03,
+          "current_price": 5.9,
+          "change_percentage": -0.17,
+          "xq_symbol": "SH600908",
+          "xq_url": "https://xueqiu.com/S/SH600908",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "001678",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<100万",
+          "value": "1.20"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "1天≤持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "365天≤持有期限<730天",
+          "value": "0.200"
+        },
+        {
+          "name": "730天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.15"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.00"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "张媛",
+        "resume": "    曾任中国国际期货有限公司资产管理部高级量化分析师,2016年9月加盟英大基金管理有限公司权益投资部,自2018年1月起担任英大睿盛灵活配置混合型证券投资基金的基金经理,自2019年3月起担任英大策略优选混合型证券投资基金、英大国企改革主题股票型证券投资基金的基金经理。",
+        "work_year": "5",
+        "achievement_list": [
+          {
+            "fund_code": "003446",
+            "fundsname": "英大睿鑫灵活A",
+            "post_date": "2019-11-20",
+            "cp_rate": 34.9072
+          },
+          {
+            "fund_code": "003447",
+            "fundsname": "英大睿鑫灵活C",
+            "post_date": "2019-11-20",
+            "cp_rate": 34.7836
+          },
+          {
+            "fund_code": "001607",
+            "fundsname": "英大策略优选混合A",
+            "post_date": "2019-03-11",
+            "cp_rate": 101.6476
+          },
+          {
+            "fund_code": "001608",
+            "fundsname": "英大策略优选混合C",
+            "post_date": "2019-03-11",
+            "cp_rate": 101.2928
+          },
+          {
+            "fund_code": "001678",
+            "fundsname": "英大国企改革主题股票",
+            "post_date": "2019-03-11",
+            "cp_rate": 58.0567
+          },
+          {
+            "fund_code": "003713",
+            "fundsname": "英大睿盛A",
+            "post_date": "2018-01-23",
+            "cp_rate": 102.2648
+          },
+          {
+            "fund_code": "003714",
+            "fundsname": "英大睿盛C",
+            "post_date": "2018-01-23",
+            "cp_rate": 108.4918
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "001678",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 2,
+      "all_buy_days": 2,
+      "all_sale_days": 3
+    }
+  },
+  "result_code": 0
+}

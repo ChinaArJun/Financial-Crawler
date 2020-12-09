@@ -1,0 +1,202 @@
+{
+  "data": {
+    "fund_position": {
+      "stock_percent": 89.7,
+      "cash_percent": 8.55,
+      "other_percent": 1.75,
+      "asset_tot": 171476198.79,
+      "asset_val": 170560311.78,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "中信证券",
+          "code": "600030",
+          "percent": 2.99,
+          "current_price": 30.01,
+          "change_percentage": 0,
+          "xq_symbol": "SH600030",
+          "xq_url": "https://xueqiu.com/S/SH600030",
+          "amarket": true
+        },
+        {
+          "name": "东方财富",
+          "code": "300059",
+          "percent": 2.53,
+          "current_price": 28.05,
+          "change_percentage": 1.08,
+          "xq_symbol": "SZ300059",
+          "xq_url": "https://xueqiu.com/S/SZ300059",
+          "amarket": true
+        },
+        {
+          "name": "中航高科",
+          "code": "600862",
+          "percent": 2.08,
+          "current_price": 25.12,
+          "change_percentage": -1.49,
+          "xq_symbol": "SH600862",
+          "xq_url": "https://xueqiu.com/S/SH600862",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 1.95,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "紫金矿业",
+          "code": "601899",
+          "percent": 1.95,
+          "current_price": 8.91,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601899",
+          "xq_url": "https://xueqiu.com/S/SH601899",
+          "amarket": true
+        },
+        {
+          "name": "中国建筑",
+          "code": "601668",
+          "percent": 1.88,
+          "current_price": 5.17,
+          "change_percentage": -0.77,
+          "xq_symbol": "SH601668",
+          "xq_url": "https://xueqiu.com/S/SH601668",
+          "amarket": true
+        },
+        {
+          "name": "华泰证券",
+          "code": "601688",
+          "percent": 1.81,
+          "current_price": 19.14,
+          "change_percentage": -0.31,
+          "xq_symbol": "SH601688",
+          "xq_url": "https://xueqiu.com/S/SH601688",
+          "amarket": true
+        },
+        {
+          "name": "航天电器",
+          "code": "002025",
+          "percent": 1.76,
+          "current_price": 53.01,
+          "change_percentage": 0.7,
+          "xq_symbol": "SZ002025",
+          "xq_url": "https://xueqiu.com/S/SZ002025",
+          "amarket": true
+        },
+        {
+          "name": "三一重工",
+          "code": "600031",
+          "percent": 1.75,
+          "current_price": 31.48,
+          "change_percentage": -1.41,
+          "xq_symbol": "SH600031",
+          "xq_url": "https://xueqiu.com/S/SH600031",
+          "amarket": true
+        },
+        {
+          "name": "佳华科技",
+          "code": "688051",
+          "percent": 1.68,
+          "current_price": 96.05,
+          "change_percentage": 0.73,
+          "xq_symbol": "SH688051",
+          "xq_url": "https://xueqiu.com/S/SH688051",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "008129",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.500"
+        },
+        {
+          "name": "30天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.50"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "徐亦达",
+        "resume": "    曾任中国银行总行产品经理、盛盈资本管理有限公司研究员、东吴基金管理有限公司研究员。",
+        "achievement_list": [
+          {
+            "fund_code": "007012",
+            "fundsname": "湘财长顺混合发起式A",
+            "post_date": "2020-07-20",
+            "cp_rate": 12.5659
+          },
+          {
+            "fund_code": "007013",
+            "fundsname": "湘财长顺混合发起式C",
+            "post_date": "2020-07-20",
+            "cp_rate": 12.292
+          },
+          {
+            "fund_code": "008128",
+            "fundsname": "湘财长源股票型A",
+            "post_date": "2020-05-13",
+            "cp_rate": 38.8018
+          },
+          {
+            "fund_code": "008129",
+            "fundsname": "湘财长源股票型C",
+            "post_date": "2020-05-13",
+            "cp_rate": 38.2259
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "008129",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

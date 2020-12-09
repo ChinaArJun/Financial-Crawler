@@ -1,0 +1,238 @@
+{
+  "data": {
+    "fund_company": "    嘉实基金管理有限公司成立于1999年3月,是国内最早成立的十家基金管理公司之一。十七年来,嘉实基金坚持合规经营,秉承“远见者稳进”理念,至今已发展形成涵盖公募基金、机构投资、养老金业务、海外投资、私募股权投资、财富管理等“全牌照”业务,联动一、二级市场投资的金融服务全产业链。截至2016年末,嘉实基金实现各类资产管理规模超9500亿元人民币,连续十年位居行业前列,为逾五千万投资者提供专业、高效的理财服务。\n    发展中的嘉实基金以“助力产业腾飞,服务财富增长”为核心使命,以普惠金融为理念,创造一流的产品和服务,力争实现客户、员工和公司长期共赢发展,致力于使嘉实成为中国领先、具有国际竞争力的资产管理集团。\n    以资产管理为核心的嘉实基金,业内首创“全天候、多策略”的投研模式,已建立超过20个投资策略组,构建丰富的产品线,为投资者创造优秀稳定的回报,屡获行业殊荣。十余年来,嘉实不断获得社保追加的委托管理资产,被包括数十家中央企业在内的300余家企业选定为企业年金投资管理人,为超过800万职工提供企业年金服务。\n    嘉实坚持国际化战略,自2009年建立香港子公司至今连续数年保持了在港中资资产管理机构的领先地位。2012年起嘉实推出海外ETF 业务,已经先后完成国内的指数在香港市场、纽约和伦敦挂牌上市。2015年,嘉实分别在伦敦与纽约注册成立分公司,进一步拓展国际市场。\n    2014年嘉实推进集团化发展,在二级市场投资中所建立的主动管理投资能力,逐步向更广泛的投资领域拓展,投资涵盖VC、PE、PIPE、新三板投资、并购投资等,并围绕优质标的积极进行产业的上下游布局,构建完整金融产业链。\n    嘉实基金始终以“创造财富增值,服务未来生活”为使命,以普惠金融为理念,创造优质产品和服务,力争实现客户、员工和公司长期共赢发展,从而使嘉实成为具有国际竞争力的综合金融集团。",
+    "fund_position": {
+      "stock_percent": 91.89,
+      "bond_percent": 3.14,
+      "cash_percent": 4.67,
+      "other_percent": 0.3,
+      "asset_tot": 310511506.97,
+      "asset_val": 309320653.08,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "美团-W",
+          "code": "03690",
+          "percent": 9.31,
+          "xq_symbol": "03690",
+          "xq_url": "https://xueqiu.com/S/03690",
+          "amarket": false
+        },
+        {
+          "name": "吉祥航空",
+          "code": "603885",
+          "percent": 9.2,
+          "current_price": 11.66,
+          "change_percentage": -0.43,
+          "xq_symbol": "SH603885",
+          "xq_url": "https://xueqiu.com/S/SH603885",
+          "amarket": true
+        },
+        {
+          "name": "腾讯控股",
+          "code": "00700",
+          "percent": 8.86,
+          "xq_symbol": "00700",
+          "xq_url": "https://xueqiu.com/S/00700",
+          "amarket": false
+        },
+        {
+          "name": "韵达股份",
+          "code": "002120",
+          "percent": 7.99,
+          "current_price": 18.07,
+          "change_percentage": 0.22,
+          "xq_symbol": "SZ002120",
+          "xq_url": "https://xueqiu.com/S/SZ002120",
+          "amarket": true
+        },
+        {
+          "name": "春秋航空",
+          "code": "601021",
+          "percent": 6.49,
+          "current_price": 51.71,
+          "change_percentage": 0.23,
+          "xq_symbol": "SH601021",
+          "xq_url": "https://xueqiu.com/S/SH601021",
+          "amarket": true
+        },
+        {
+          "name": "中国燃气",
+          "code": "00384",
+          "percent": 5.42,
+          "xq_symbol": "00384",
+          "xq_url": "https://xueqiu.com/S/00384",
+          "amarket": false
+        },
+        {
+          "name": "国投电力",
+          "code": "600886",
+          "percent": 4.17,
+          "current_price": 9.19,
+          "change_percentage": 0.33,
+          "xq_symbol": "SH600886",
+          "xq_url": "https://xueqiu.com/S/SH600886",
+          "amarket": true
+        },
+        {
+          "name": "新奥股份",
+          "code": "600803",
+          "percent": 4.15,
+          "current_price": 14.16,
+          "change_percentage": -0.14,
+          "xq_symbol": "SH600803",
+          "xq_url": "https://xueqiu.com/S/SH600803",
+          "amarket": true
+        },
+        {
+          "name": "隆平高科",
+          "code": "000998",
+          "percent": 3.69,
+          "current_price": 17.78,
+          "change_percentage": -1.93,
+          "xq_symbol": "SZ000998",
+          "xq_url": "https://xueqiu.com/S/SZ000998",
+          "amarket": true
+        },
+        {
+          "name": "中国东方航空股份",
+          "code": "00670",
+          "percent": 3.64,
+          "xq_symbol": "00670",
+          "xq_url": "https://xueqiu.com/S/00670",
+          "amarket": false
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "20国债01",
+          "code": "019627",
+          "percent": 3.15,
+          "xq_symbol": "019627",
+          "xq_url": "https://xueqiu.com/S/019627",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "009127",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.500"
+        },
+        {
+          "name": "30天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.50"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "肖觅",
+        "resume": "    肖觅先生,管理学硕士,11年证券从业经历,具有基金从业资格。2009年7月加入嘉实基金管理有限公司任职于研究部,先后任钢铁行业、交通运输行业研究员等职位。2018年3月9日至2019年12月24日任嘉实惠泽灵活配置混合型证券投资基金(LOF)基金经理。\n    2016年12月29日至今任嘉实物流产业股票型证券投资基金基金经理、2020年4月15日至今任嘉实基础产业优选股票型证券投资基金基金经理、2020年6月5日至今任嘉实周期优选混合型证券投资基金基金经理。",
+        "work_year": "11",
+        "achievement_list": [
+          {
+            "fund_code": "005660",
+            "fundsname": "嘉实资源精选股票A",
+            "post_date": "2020-07-21",
+            "cp_rate": 25.2983
+          },
+          {
+            "fund_code": "005661",
+            "fundsname": "嘉实资源精选股票C",
+            "post_date": "2020-07-21",
+            "cp_rate": 25.0696
+          },
+          {
+            "fund_code": "070027",
+            "fundsname": "嘉实周期优选混合",
+            "post_date": "2020-06-05",
+            "cp_rate": 28.2037
+          },
+          {
+            "fund_code": "009126",
+            "fundsname": "嘉实基础产业优选股票A",
+            "post_date": "2020-04-15",
+            "cp_rate": 23.07
+          },
+          {
+            "fund_code": "009127",
+            "fundsname": "嘉实基础产业优选股票C",
+            "post_date": "2020-04-15",
+            "cp_rate": 22.68
+          },
+          {
+            "fund_code": "160722",
+            "fundsname": "嘉实惠泽混合(LOF)",
+            "post_date": "2018-03-30",
+            "resi_date": "2019-12-24",
+            "cp_rate": 17.8548
+          },
+          {
+            "fund_code": "160722",
+            "fundsname": "嘉实惠泽定增混合",
+            "post_date": "2018-03-09",
+            "resi_date": "2018-03-29",
+            "cp_rate": -1.2378
+          },
+          {
+            "fund_code": "003298",
+            "fundsname": "嘉实物流产业股票A",
+            "post_date": "2016-12-29",
+            "cp_rate": 104.3
+          },
+          {
+            "fund_code": "003299",
+            "fundsname": "嘉实物流产业股票C",
+            "post_date": "2016-12-29",
+            "cp_rate": 102.3
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "009127",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

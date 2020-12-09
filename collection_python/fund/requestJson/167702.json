@@ -1,0 +1,260 @@
+{
+  "data": {
+    "fund_company": "    德邦基金管理有限公司成立于2012年初,注册资金2亿元人民币,是中国证监会审核批准成立的第70家基金公司。公司以修身、齐家、立业、助天下为己任,倡导坦诚沟通、学习创新、规范透明、创造价值、分享发展的文化,秉持长期的价值投资理念,坚守严谨的风险控制底线,致力于增加客户财富,提升员工专业水准,体现股东价值最大化,成为专业的、富有创新精神、最受尊敬的资产管理公司之一。\n    2012年9月25日,公司旗下首支公募产品德邦优化配置股票型证券投资基金公告正式成立,由此揭开了公司资产管理的全新篇章。为满足不同投资者的各类需求公司还陆续设计并发行了多支不同类型的公募基金,其中包括混合型、债券型及货币型等,使公司产品线得到了进一步的丰富和完善。公司在大力发展公募业务的同时还陆续成立了包括权益类、固定收益类等各大资产类别的特定资产管理产品,并于2013年3月12日成立了专项子公司德邦创新资本有限公司。\n    在德邦人孜孜不倦的努力下,公司各项业务获得了快速发展。截止2014年底公司资产管理总规模已达近200亿元,公募基金管理规模在同期成立的基金公司中名列前茅,行业排名较上年度提高18位,是提升最快的两家公司之一;不仅如此,公司还以全部公募产品均在同类产品中排名前1/3的优异业绩表现,获得到了业内各界人士的认可。成立至今,公司不仅两次荣获证券市场年会金算盘奖,还荣获2012年度中金在线财经排行榜评选活动最佳创新基金公司及2014年度基金管理行业最具竞争力领军品牌称号。\n    我们秉持价值投资理念,将投资者利益放在首位,力求在获取持续、稳定超额收益的同时,实现自身社会价值的不断提升,力争与投资者共同成长。我们将本着一颗对人感恩、对己克制、对事尽力、对物珍惜之心,不断创新,不断迭代,不断提升自己的核心竞争力,努力把德邦基金打造成一个能够不断自我进化的智慧生命体,更好的服务投资者、服务社会。",
+    "fund_position": {
+      "stock_percent": 92.55,
+      "cash_percent": 7.24,
+      "other_percent": 0.21,
+      "asset_tot": 92932636,
+      "asset_val": 92284046.02,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 3.25,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "中国平安",
+          "code": "601318",
+          "percent": 2.73,
+          "current_price": 88.05,
+          "change_percentage": -2.58,
+          "xq_symbol": "SH601318",
+          "xq_url": "https://xueqiu.com/S/SH601318",
+          "amarket": true
+        },
+        {
+          "name": "智飞生物",
+          "code": "300122",
+          "percent": 2.07,
+          "current_price": 139.38,
+          "change_percentage": -0.39,
+          "xq_symbol": "SZ300122",
+          "xq_url": "https://xueqiu.com/S/SZ300122",
+          "amarket": true
+        },
+        {
+          "name": "双汇发展",
+          "code": "000895",
+          "percent": 2.05,
+          "current_price": 48.4,
+          "change_percentage": 1.4,
+          "xq_symbol": "SZ000895",
+          "xq_url": "https://xueqiu.com/S/SZ000895",
+          "amarket": true
+        },
+        {
+          "name": "东方财富",
+          "code": "300059",
+          "percent": 1.64,
+          "current_price": 28.05,
+          "change_percentage": 1.08,
+          "xq_symbol": "SZ300059",
+          "xq_url": "https://xueqiu.com/S/SZ300059",
+          "amarket": true
+        },
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 1.53,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "同花顺",
+          "code": "300033",
+          "percent": 1.47,
+          "current_price": 142.22,
+          "change_percentage": 0.25,
+          "xq_symbol": "SZ300033",
+          "xq_url": "https://xueqiu.com/S/SZ300033",
+          "amarket": true
+        },
+        {
+          "name": "中国人寿",
+          "code": "601628",
+          "percent": 1.45,
+          "current_price": 41.81,
+          "change_percentage": -0.21,
+          "xq_symbol": "SH601628",
+          "xq_url": "https://xueqiu.com/S/SH601628",
+          "amarket": true
+        },
+        {
+          "name": "恒瑞医药",
+          "code": "600276",
+          "percent": 1.45,
+          "current_price": 90.07,
+          "change_percentage": 0.21,
+          "xq_symbol": "SH600276",
+          "xq_url": "https://xueqiu.com/S/SH600276",
+          "amarket": true
+        },
+        {
+          "name": "光明乳业",
+          "code": "600597",
+          "percent": 1.35,
+          "current_price": 15.6,
+          "change_percentage": 0.19,
+          "xq_symbol": "SH600597",
+          "xq_url": "https://xueqiu.com/S/SH600597",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "167702",
+      "subscribe_rate": "0",
+      "declare_rate": "1.20",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.20"
+        },
+        {
+          "name": "50万≤买入金额<200万",
+          "value": "0.80"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.40"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.20"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.00"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "王本昌",
+        "resume": "    王本昌先生,硕士,毕业于上海交通大学应用数学专业,从业14年。曾任华泰柏瑞基金管理有限公司研究部高级数量分析师、投资部基金经理助理、基金经理、量化投资部基金经理;塔塔咨询服务有限公司业务分析师;济安金信科技有限公司金融工程师;济安陆平投资管理有限公司金融工程师。2015年8月加入德邦基金,现任公司金融工程与量化投资部总监,兼任组合基金投资部总监,担任德邦量化优选股票型证券投资基金(LOF)、德邦量化新锐股票型证券投资基金(LOF)、德邦民裕进取量化精选灵活配置混合型证券投资基金的基金经理。",
+        "college": "上海交通大学",
+        "work_year": "13",
+        "achievement_list": [
+          {
+            "fund_code": "008839",
+            "fundsname": "德邦量化对冲混合C",
+            "post_date": "2020-04-29",
+            "cp_rate": 1.17
+          },
+          {
+            "fund_code": "008838",
+            "fundsname": "德邦量化对冲混合A",
+            "post_date": "2020-04-29",
+            "cp_rate": 1.32
+          },
+          {
+            "fund_code": "007615",
+            "fundsname": "德邦民裕进取量化精锐股票C",
+            "post_date": "2019-09-04",
+            "cp_rate": 34.85
+          },
+          {
+            "fund_code": "007614",
+            "fundsname": "德邦民裕进取量化精锐股票A",
+            "post_date": "2019-09-04",
+            "cp_rate": 35.88
+          },
+          {
+            "fund_code": "005948",
+            "fundsname": "德邦民裕进取量化精选灵活配置混合C",
+            "post_date": "2018-06-22",
+            "cp_rate": 51.5
+          },
+          {
+            "fund_code": "005947",
+            "fundsname": "德邦民裕进取量化精选灵活配置混合A",
+            "post_date": "2018-06-22",
+            "cp_rate": 53.61
+          },
+          {
+            "fund_code": "167706",
+            "fundsname": "德邦量化新锐股票(LOF)C",
+            "post_date": "2018-04-04",
+            "cp_rate": 30.8138
+          },
+          {
+            "fund_code": "167705",
+            "fundsname": "德邦量化新锐股票(LOF)A",
+            "post_date": "2018-04-04",
+            "cp_rate": 31.7337
+          },
+          {
+            "fund_code": "167703",
+            "fundsname": "德邦量化优选股票(LOF)C",
+            "post_date": "2017-03-24",
+            "cp_rate": 81.3937
+          },
+          {
+            "fund_code": "167702",
+            "fundsname": "德邦量化优选股票(LOF)A",
+            "post_date": "2017-03-24",
+            "cp_rate": 84.55
+          },
+          {
+            "fund_code": "460009",
+            "fundsname": "华泰柏瑞量化先行混合",
+            "post_date": "2012-03-15",
+            "resi_date": "2015-04-17",
+            "cp_rate": 76.1546
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "167702",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

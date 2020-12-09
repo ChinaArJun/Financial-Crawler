@@ -1,0 +1,221 @@
+{
+  "data": {
+    "fund_company": "    诺安基金管理有限公司成立于2003年12月,历经13年牛熊市磨砺与成长,积累了丰富的资产管理经验。11个分支机构业务遍布境内外,截至2016年9月底,公司旗下管理着近52只开放式基金,管理公募基金规模超过1000亿元,拥有客户数量超过600万,累计分红超过150亿元。\n    诺安基金总部设在深圳,注册资本金为1.5亿元人民币。股东结构为:中国对外经济贸易信托有限公司(40%);深圳市捷隆投资有限公司(40%);大恒新纪元科技股份有限公司(20%)。目前,公司在北京、上海、广州、成都、南京、沈阳等地设有分公司,在北京和香港设有子公司——诺安资产管理有限公司(北京子公司)和诺安基金(香港)有限公司。\n    诺安基金秉承“领先、创新、责任、卓越”的理念,以诚信为本,取信于社会,取信于市场,取信于每一位基金投资人。走稳健之道,在有效控制风险的前提下,为基金投资人创造良好的投资回报。",
+    "fund_position": {
+      "stock_percent": 89.91,
+      "cash_percent": 8.76,
+      "other_percent": 1.33,
+      "asset_tot": 99580257.89,
+      "asset_val": 98349130.55,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "中航重机",
+          "code": "600765",
+          "percent": 9.68,
+          "current_price": 19.51,
+          "change_percentage": 0.26,
+          "xq_symbol": "SH600765",
+          "xq_url": "https://xueqiu.com/S/SH600765",
+          "amarket": true
+        },
+        {
+          "name": "上汽集团",
+          "code": "600104",
+          "percent": 9.6,
+          "current_price": 24.36,
+          "change_percentage": 0.08,
+          "xq_symbol": "SH600104",
+          "xq_url": "https://xueqiu.com/S/SH600104",
+          "amarket": true
+        },
+        {
+          "name": "汉邦高科",
+          "code": "300449",
+          "percent": 9.36,
+          "current_price": 12.58,
+          "change_percentage": -3.75,
+          "xq_symbol": "SZ300449",
+          "xq_url": "https://xueqiu.com/S/SZ300449",
+          "amarket": true
+        },
+        {
+          "name": "金运激光",
+          "code": "300220",
+          "percent": 8.43,
+          "current_price": 28.22,
+          "change_percentage": 1.26,
+          "xq_symbol": "SZ300220",
+          "xq_url": "https://xueqiu.com/S/SZ300220",
+          "amarket": true
+        },
+        {
+          "name": "美好置业",
+          "code": "000667",
+          "percent": 8.43,
+          "current_price": 3.96,
+          "change_percentage": -1.74,
+          "xq_symbol": "SZ000667",
+          "xq_url": "https://xueqiu.com/S/SZ000667",
+          "amarket": true
+        },
+        {
+          "name": "华达科技",
+          "code": "603358",
+          "percent": 8.11,
+          "current_price": 18.57,
+          "change_percentage": 3.22,
+          "xq_symbol": "SH603358",
+          "xq_url": "https://xueqiu.com/S/SH603358",
+          "amarket": true
+        },
+        {
+          "name": "凌云股份",
+          "code": "600480",
+          "percent": 7.48,
+          "current_price": 8.9,
+          "change_percentage": 0.11,
+          "xq_symbol": "SH600480",
+          "xq_url": "https://xueqiu.com/S/SH600480",
+          "amarket": true
+        },
+        {
+          "name": "中国天楹",
+          "code": "000035",
+          "percent": 7.1,
+          "current_price": 4.51,
+          "change_percentage": -0.44,
+          "xq_symbol": "SZ000035",
+          "xq_url": "https://xueqiu.com/S/SZ000035",
+          "amarket": true
+        },
+        {
+          "name": "海螺水泥",
+          "code": "600585",
+          "percent": 5.96,
+          "current_price": 53.44,
+          "change_percentage": -1.46,
+          "xq_symbol": "SH600585",
+          "xq_url": "https://xueqiu.com/S/SH600585",
+          "amarket": true
+        },
+        {
+          "name": "华新水泥",
+          "code": "600801",
+          "percent": 5.11,
+          "current_price": 23.77,
+          "change_percentage": -1.45,
+          "xq_symbol": "SH600801",
+          "xq_url": "https://xueqiu.com/S/SH600801",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "001707",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<300万",
+          "value": "1.00"
+        },
+        {
+          "name": "300万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "史高飞",
+        "resume": "    史高飞先生,硕士,具有基金从业资格。自2009年7月至2010年1月在中邮创业基金管理有限公司任研究员。2010年4月加入诺安基金管理有限公司任基金经理助理。2015年4月至2017年11月任诺安成长混合型证券投资基金基金经理。2015年1月起任诺安新经济股票型证券投资基金基金经理,2017年6月起任诺安高端制造股票型证券投资基金基金经理,2019 年 3 月起任诺安利鑫灵活配置混合型证券投资基金基金经理。",
+        "achievement_list": [
+          {
+            "fund_code": "002137",
+            "fundsname": "诺安利鑫灵活配置混合",
+            "post_date": "2019-03-14",
+            "cp_rate": 27.5207
+          },
+          {
+            "fund_code": "001707",
+            "fundsname": "诺安高端制造股票",
+            "post_date": "2017-06-08",
+            "cp_rate": 52.4
+          },
+          {
+            "fund_code": "320007",
+            "fundsname": "诺安成长混合",
+            "post_date": "2015-04-04",
+            "resi_date": "2017-11-17",
+            "cp_rate": -30.2905
+          },
+          {
+            "fund_code": "000971",
+            "fundsname": "诺安新经济股票",
+            "post_date": "2015-01-26",
+            "resi_date": "2019-02-20",
+            "cp_rate": -33.4331
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "001707",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

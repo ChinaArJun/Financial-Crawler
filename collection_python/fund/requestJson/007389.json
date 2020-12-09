@@ -1,0 +1,209 @@
+{
+  "data": {
+    "fund_company": "    上投摩根基金管理有限公司成立于2004年5月,总部位于上海,注册资本2.5亿元人民币。其中上海国际信托出资占比51%,摩根大通旗下摩根资产管理出资占比49%。集摩根资产管理150年享誉全球的专业资产管理经验,汇上海国际信托扎根本土的悠久品牌信誉,上投摩根传承中外股东精粹,致力于设立和管理证券投资基金,为不同类型的投资者提供多元化、国际领先的资产管理服务,成为值得信赖的长期合作伙伴。",
+    "fund_position": {
+      "stock_percent": 81.03,
+      "cash_percent": 17.95,
+      "other_percent": 1.02,
+      "asset_tot": 232144944.76,
+      "asset_val": 228392423.21,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "三一重工",
+          "code": "600031",
+          "percent": 4.88,
+          "current_price": 31.48,
+          "change_percentage": -1.41,
+          "xq_symbol": "SH600031",
+          "xq_url": "https://xueqiu.com/S/SH600031",
+          "amarket": true
+        },
+        {
+          "name": "海天味业",
+          "code": "603288",
+          "percent": 4.24,
+          "current_price": 183.5,
+          "change_percentage": 0.84,
+          "xq_symbol": "SH603288",
+          "xq_url": "https://xueqiu.com/S/SH603288",
+          "amarket": true
+        },
+        {
+          "name": "科沃斯",
+          "code": "603486",
+          "percent": 4.09,
+          "current_price": 67.51,
+          "change_percentage": 0.46,
+          "xq_symbol": "SH603486",
+          "xq_url": "https://xueqiu.com/S/SH603486",
+          "amarket": true
+        },
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 4,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "东方雨虹",
+          "code": "002271",
+          "percent": 3.83,
+          "current_price": 35.92,
+          "change_percentage": 0.25,
+          "xq_symbol": "SZ002271",
+          "xq_url": "https://xueqiu.com/S/SZ002271",
+          "amarket": true
+        },
+        {
+          "name": "天赐材料",
+          "code": "002709",
+          "percent": 3.39,
+          "current_price": 84.25,
+          "change_percentage": 10,
+          "xq_symbol": "SZ002709",
+          "xq_url": "https://xueqiu.com/S/SZ002709",
+          "amarket": true
+        },
+        {
+          "name": "新宙邦",
+          "code": "300037",
+          "percent": 3.27,
+          "current_price": 99.89,
+          "change_percentage": 12.22,
+          "xq_symbol": "SZ300037",
+          "xq_url": "https://xueqiu.com/S/SZ300037",
+          "amarket": true
+        },
+        {
+          "name": "长江电力",
+          "code": "600900",
+          "percent": 3.12,
+          "current_price": 19.83,
+          "change_percentage": 0.15,
+          "xq_symbol": "SH600900",
+          "xq_url": "https://xueqiu.com/S/SH600900",
+          "amarket": true
+        },
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 2.98,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "拓普集团",
+          "code": "601689",
+          "percent": 2.9,
+          "current_price": 38.54,
+          "change_percentage": 3.66,
+          "xq_symbol": "SH601689",
+          "xq_url": "https://xueqiu.com/S/SH601689",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "007389",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "1",
+      "subscribe_discount": "1",
+      "declare_discount": "1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.500"
+        },
+        {
+          "name": "30天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.80"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "朱晓龙",
+        "resume": "    朱晓龙先生,自2007年7月至2011年8月在平安资产管理有限责任公司担任研究员;自2011年8月起加入上投摩根基金管理有限公司,历任行业专家、研究部副总监兼基金经理助理,现任研究部总监兼基金经理。自2018年11月起担任上投摩根策略精选灵活配置混合型证券投资基金基金经理,自2019年7月起同时担任上投摩根大盘蓝筹股票型证券投资基金基金经理,自2019年8月起同时担任上投摩根成长先锋混合型证券投资基金基金经理,自2020年6月起同时担任上投摩根研究驱动股票型证券投资基金基金经理。",
+        "achievement_list": [
+          {
+            "fund_code": "007388",
+            "fundsname": "上投摩根研究驱动股票A",
+            "post_date": "2020-06-12",
+            "cp_rate": 23.06
+          },
+          {
+            "fund_code": "007389",
+            "fundsname": "上投摩根研究驱动股票C",
+            "post_date": "2020-06-12",
+            "cp_rate": 22.58
+          },
+          {
+            "fund_code": "378010",
+            "fundsname": "上投摩根成长先锋混合",
+            "post_date": "2019-08-16",
+            "cp_rate": 67.3619
+          },
+          {
+            "fund_code": "376510",
+            "fundsname": "上投摩根大盘蓝筹股票",
+            "post_date": "2019-07-19",
+            "cp_rate": 80.3236
+          },
+          {
+            "fund_code": "002654",
+            "fundsname": "上投摩根策略精选灵活配置混合",
+            "post_date": "2018-11-16",
+            "cp_rate": 88.7206
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "007389",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

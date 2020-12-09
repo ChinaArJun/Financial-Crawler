@@ -1,0 +1,218 @@
+{
+  "data": {
+    "fund_company": "    大成基金管理有限公司(以下简称“公司”)成立于1999年4月12日,注册资本金人民币2亿元,是中国首批获准成立的老十家基金管理公司之一。公司总部设在广东省深圳市,主要业务是公募基金的募集和管理,还具有全国社保基金投资管理业务资格、社保海外合格投资人资格、特定客户资产管理资格、QDII业务资格、保险资金管理人资格、保险保障基金管理人资格。\n    经过十多年的稳健发展,公司打造了一支具有良好职业素养和丰富经验的投资研究团队,各项业务迅猛发展,综合实力不断提升,旗下基金产品齐全、风格多样,构建了涵盖货币市场基金、债券型基金、混合型基金、股票型基金和指数型基金的完备产品线,为广大投资者带来了丰厚回报。截至2015年12月31日,公司旗下基金已累计向持有人分红超过330亿元人民币。\n    公司实行董事会领导下的总经理负责制,在“专业管理专业”的管理理念下,充分发挥各专业委员会的专业职能。公司组织架构完整稳定,职责明晰,并根据业务发展不断更新完善。公司先后成立了大成国际资产管理有限公司、大成创新资本管理有限公司,稳步推进国际业务,并积极开拓另类投资领域。\n    此外,公司始终保持高度的社会责任感,坚持在发展自身的同时回报社会,2009年4月出资设立了基金行业内第一家慈善基金会——广东省大成慈善基金会,致力公益慈善事业、积极履行企业社会责任。截至2015年12月底,大成慈善基金会累计捐赠金额超过1600万元,已完成捐赠项目36个,建成10余所大成基金小学和爱心食堂,在教育资助、灾害救助、医疗环保以及公益支持等方面尽企业一份绵薄之力。",
+    "fund_position": {
+      "stock_percent": 85.75,
+      "cash_percent": 14.16,
+      "other_percent": 0.09,
+      "asset_tot": 292060072.9,
+      "asset_val": 278034970.36,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "圣农发展",
+          "code": "002299",
+          "percent": 6.27,
+          "current_price": 28.45,
+          "change_percentage": 2.37,
+          "xq_symbol": "SZ002299",
+          "xq_url": "https://xueqiu.com/S/SZ002299",
+          "amarket": true
+        },
+        {
+          "name": "光威复材",
+          "code": "300699",
+          "percent": 5.25,
+          "current_price": 79.25,
+          "change_percentage": -1.02,
+          "xq_symbol": "SZ300699",
+          "xq_url": "https://xueqiu.com/S/SZ300699",
+          "amarket": true
+        },
+        {
+          "name": "长城汽车",
+          "code": "601633",
+          "percent": 5.16,
+          "current_price": 25.89,
+          "change_percentage": 3.39,
+          "xq_symbol": "SH601633",
+          "xq_url": "https://xueqiu.com/S/SH601633",
+          "amarket": true
+        },
+        {
+          "name": "高德红外",
+          "code": "002414",
+          "percent": 5.1,
+          "current_price": 38.54,
+          "change_percentage": 2.64,
+          "xq_symbol": "SZ002414",
+          "xq_url": "https://xueqiu.com/S/SZ002414",
+          "amarket": true
+        },
+        {
+          "name": "蓝晓科技",
+          "code": "300487",
+          "percent": 4.86,
+          "current_price": 48,
+          "change_percentage": 4.01,
+          "xq_symbol": "SZ300487",
+          "xq_url": "https://xueqiu.com/S/SZ300487",
+          "amarket": true
+        },
+        {
+          "name": "西部超导",
+          "code": "688122",
+          "percent": 4.74,
+          "current_price": 63.09,
+          "change_percentage": 3.09,
+          "xq_symbol": "SH688122",
+          "xq_url": "https://xueqiu.com/S/SH688122",
+          "amarket": true
+        },
+        {
+          "name": "海尔生物",
+          "code": "688139",
+          "percent": 4.67,
+          "current_price": 71.34,
+          "change_percentage": -2.9,
+          "xq_symbol": "SH688139",
+          "xq_url": "https://xueqiu.com/S/SH688139",
+          "amarket": true
+        },
+        {
+          "name": "应流股份",
+          "code": "603308",
+          "percent": 4.61,
+          "current_price": 25.07,
+          "change_percentage": -1.42,
+          "xq_symbol": "SH603308",
+          "xq_url": "https://xueqiu.com/S/SH603308",
+          "amarket": true
+        },
+        {
+          "name": "火炬电子",
+          "code": "603678",
+          "percent": 4.24,
+          "current_price": 55.23,
+          "change_percentage": -0.22,
+          "xq_symbol": "SH603678",
+          "xq_url": "https://xueqiu.com/S/SH603678",
+          "amarket": true
+        },
+        {
+          "name": "先导智能",
+          "code": "300450",
+          "percent": 4.08,
+          "current_price": 67.6,
+          "change_percentage": 0.6,
+          "xq_symbol": "SZ300450",
+          "xq_url": "https://xueqiu.com/S/SZ300450",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "160919",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<200万",
+          "value": "1.20"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额<1000万",
+          "value": "0.30"
+        },
+        {
+          "name": "1000万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "李林益",
+        "resume": "    工学硕士。证券从业年限9年。2011年6月加入大成基金管理有限公司,曾担任研究部研究员、基金经理助理。2015年7月7日起任大成产业升级股票型证券投资基金(LOF)基金经理。2017年9月12日起任大成价值增长证券投资基金基金经理。2020年10月15日起任大成国家安全主题灵活配置混合型证券投资基金基金经理。具有基金从业资格。",
+        "work_year": "9",
+        "achievement_list": [
+          {
+            "fund_code": "002567",
+            "fundsname": "大成国家安全主题灵活配置混合",
+            "post_date": "2020-10-15",
+            "cp_rate": 1.0818
+          },
+          {
+            "fund_code": "090001",
+            "fundsname": "大成价值增长混合",
+            "post_date": "2017-09-12",
+            "cp_rate": 39.2084
+          },
+          {
+            "fund_code": "160919",
+            "fundsname": "大成产业升级股票(LOF)",
+            "post_date": "2015-07-07",
+            "cp_rate": 83.727
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "160919",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 2,
+      "all_buy_days": 2,
+      "all_sale_days": 3
+    }
+  },
+  "result_code": 0
+}

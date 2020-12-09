@@ -1,0 +1,222 @@
+{
+  "data": {
+    "fund_company": "    泰达宏利基金管理有限公司成立于2002年6月,是中国首批合资基金管理公司之一,注册资本1.8亿元人民币。在吸取外方股东全球投资智慧以及深刻认知中国资本市场的基础上,公司建立并拥有了一整套科学严谨的内控体系,并且在十余年的实践中积累了丰富的投资管理经验,取得了良好的长期投资业绩,赢得了投资者的信任。公司旗下管理的产品类型丰富,具有较为完善的产品线可供选择。",
+    "fund_position": {
+      "stock_percent": 94.14,
+      "cash_percent": 5.76,
+      "other_percent": 0.1,
+      "asset_tot": 120811687.53,
+      "asset_val": 119941233.53,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "亿纬锂能",
+          "code": "300014",
+          "percent": 6.08,
+          "current_price": 63.71,
+          "change_percentage": 4.17,
+          "xq_symbol": "SZ300014",
+          "xq_url": "https://xueqiu.com/S/SZ300014",
+          "amarket": true
+        },
+        {
+          "name": "天赐材料",
+          "code": "002709",
+          "percent": 5.07,
+          "current_price": 84.25,
+          "change_percentage": 10,
+          "xq_symbol": "SZ002709",
+          "xq_url": "https://xueqiu.com/S/SZ002709",
+          "amarket": true
+        },
+        {
+          "name": "当升科技",
+          "code": "300073",
+          "percent": 4.59,
+          "current_price": 52.55,
+          "change_percentage": 7.86,
+          "xq_symbol": "SZ300073",
+          "xq_url": "https://xueqiu.com/S/SZ300073",
+          "amarket": true
+        },
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 3.95,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "拓普集团",
+          "code": "601689",
+          "percent": 3.87,
+          "current_price": 38.54,
+          "change_percentage": 3.66,
+          "xq_symbol": "SH601689",
+          "xq_url": "https://xueqiu.com/S/SH601689",
+          "amarket": true
+        },
+        {
+          "name": "键凯科技",
+          "code": "688356",
+          "percent": 3.56,
+          "current_price": 107.1,
+          "change_percentage": 0.7,
+          "xq_symbol": "SH688356",
+          "xq_url": "https://xueqiu.com/S/SH688356",
+          "amarket": true
+        },
+        {
+          "name": "中国中免",
+          "code": "601888",
+          "percent": 3.53,
+          "current_price": 208.03,
+          "change_percentage": 0.13,
+          "xq_symbol": "SH601888",
+          "xq_url": "https://xueqiu.com/S/SH601888",
+          "amarket": true
+        },
+        {
+          "name": "恩捷股份",
+          "code": "002812",
+          "percent": 3.3,
+          "current_price": 108,
+          "change_percentage": 0.88,
+          "xq_symbol": "SZ002812",
+          "xq_url": "https://xueqiu.com/S/SZ002812",
+          "amarket": true
+        },
+        {
+          "name": "通威股份",
+          "code": "600438",
+          "percent": 3.26,
+          "current_price": 29.2,
+          "change_percentage": -1.85,
+          "xq_symbol": "SH600438",
+          "xq_url": "https://xueqiu.com/S/SH600438",
+          "amarket": true
+        },
+        {
+          "name": "晶盛机电",
+          "code": "300316",
+          "percent": 3.15,
+          "current_price": 29.1,
+          "change_percentage": -2.51,
+          "xq_symbol": "SZ300316",
+          "xq_url": "https://xueqiu.com/S/SZ300316",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "000828",
+      "subscribe_rate": "0",
+      "declare_rate": "1.20",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.20"
+        },
+        {
+          "name": "50万≤买入金额<100万",
+          "value": "1.00"
+        },
+        {
+          "name": "100万≤买入金额<300万",
+          "value": "0.80"
+        },
+        {
+          "name": "300万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天≤持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "90天≤持有期限<180天",
+          "value": "0.500"
+        },
+        {
+          "name": "30天≤持有期限<90天",
+          "value": "0.500"
+        },
+        {
+          "name": "180天≤持有期限<366天",
+          "value": "0.100"
+        },
+        {
+          "name": "366天≤持有期限<731天",
+          "value": "0.050"
+        },
+        {
+          "name": "731天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "王鹏",
+        "resume": "    王鹏先生,清华大学工学硕士;2012年7月至2014年3月,任职于中邮创业基金管理有限公司,担任TMT行业研究员;2014年3月至2015年6月,任职于上海磐信投资管理有限公司,担任电子行业研究员;2015年6月,加入泰达宏利基金管理有限公司,任职于研究部,先后担任研究员、基金经理等职;2017年11月7日至今担任泰达宏利市值优选混合型证券投资基金基金经理;2017年12月19日至今担任泰达宏利转型机遇股票型证券投资基金基金经理;具有7年证券从业经验,具有基金从业资格。",
+        "college": "清华大学",
+        "work_year": "8",
+        "achievement_list": [
+          {
+            "fund_code": "000828",
+            "fundsname": "泰达宏利转型机遇股票",
+            "post_date": "2017-12-19",
+            "cp_rate": 105.6597
+          },
+          {
+            "fund_code": "162209",
+            "fundsname": "泰达宏利市值优选混合",
+            "post_date": "2017-11-07",
+            "resi_date": "2019-09-29",
+            "cp_rate": -0.2306
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "000828",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 2,
+      "all_buy_days": 2,
+      "all_sale_days": 3
+    }
+  },
+  "result_code": 0
+}

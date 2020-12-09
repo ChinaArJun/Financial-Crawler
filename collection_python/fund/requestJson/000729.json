@@ -1,0 +1,273 @@
+{
+  "data": {
+    "fund_company": "    建信基金管理公司成立于2005年9月,注册地在北京,注册资本金为2亿元人民币,由中国建设银行股份有限公司、美国信安金融集团、中国华电集团共同发起设立,持股比例分别为65%、25%及10%,是国内首批由商业银行发起设立的基金管理公司。建信基金管理公司业务范围包括募集、管理证券投资基金业务,以及法律、法规允许或相关监管机关批准的其他资产管理业务。\n    公司旗下拥有建信恒久价值股票型基金、建信货币市场基金、建信优选成长股票型基金、建信优化配置混合型基金及建信优势动力股票型基金,并为多家机构提供投资咨询服务。截至2008年3月底,公司公募基金管理资产规模300多亿元,专户投资咨询业务规模超过300亿元,已构建了比较完善的基金和专户产品线,是国内大型基金管理公司之一。\n    公司以“建设财富生活”为使命,以“持有人利益重于泰山”为完成使命的核心原则,秉承“诚信、专业、规范、创新”的核心价值观,致力于成为“最可信赖、持续领先的资产管理公司”。\n    公司将承载建行信誉、融合信安智慧、依托华电实力,以市场为导向,以投资者利益为中心,不断锤炼优秀团队,创建先进文化,树立知名品牌,提升核心竞争力,为持有人、为股东创造更多更好的回报。",
+    "fund_position": {
+      "stock_percent": 85.27,
+      "bond_percent": 2.73,
+      "cash_percent": 8.73,
+      "other_percent": 3.27,
+      "asset_tot": 160512462.55,
+      "asset_val": 158857934.92,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "芒果超媒",
+          "code": "300413",
+          "percent": 7.03,
+          "current_price": 65.95,
+          "change_percentage": -1.54,
+          "xq_symbol": "SZ300413",
+          "xq_url": "https://xueqiu.com/S/SZ300413",
+          "amarket": true
+        },
+        {
+          "name": "绿的谐波",
+          "code": "688017",
+          "percent": 6.05,
+          "current_price": 119.8,
+          "change_percentage": -0.17,
+          "xq_symbol": "SH688017",
+          "xq_url": "https://xueqiu.com/S/SH688017",
+          "amarket": true
+        },
+        {
+          "name": "锋尚文化",
+          "code": "300860",
+          "percent": 5.67,
+          "current_price": 155.47,
+          "change_percentage": -0.23,
+          "xq_symbol": "SZ300860",
+          "xq_url": "https://xueqiu.com/S/SZ300860",
+          "amarket": true
+        },
+        {
+          "name": "玲珑轮胎",
+          "code": "601966",
+          "percent": 4.61,
+          "current_price": 33.4,
+          "change_percentage": -2.34,
+          "xq_symbol": "SH601966",
+          "xq_url": "https://xueqiu.com/S/SH601966",
+          "amarket": true
+        },
+        {
+          "name": "中环股份",
+          "code": "002129",
+          "percent": 4.06,
+          "current_price": 23.74,
+          "change_percentage": -1.58,
+          "xq_symbol": "SZ002129",
+          "xq_url": "https://xueqiu.com/S/SZ002129",
+          "amarket": true
+        },
+        {
+          "name": "太平鸟",
+          "code": "603877",
+          "percent": 3.8,
+          "current_price": 34,
+          "change_percentage": -3.74,
+          "xq_symbol": "SH603877",
+          "xq_url": "https://xueqiu.com/S/SH603877",
+          "amarket": true
+        },
+        {
+          "name": "乐歌股份",
+          "code": "300729",
+          "percent": 3.71,
+          "current_price": 46.9,
+          "change_percentage": -2.7,
+          "xq_symbol": "SZ300729",
+          "xq_url": "https://xueqiu.com/S/SZ300729",
+          "amarket": true
+        },
+        {
+          "name": "福斯特",
+          "code": "603806",
+          "percent": 3.2,
+          "current_price": 73.08,
+          "change_percentage": 2.21,
+          "xq_symbol": "SH603806",
+          "xq_url": "https://xueqiu.com/S/SH603806",
+          "amarket": true
+        },
+        {
+          "name": "阳光电源",
+          "code": "300274",
+          "percent": 3.12,
+          "current_price": 51.88,
+          "change_percentage": 6.31,
+          "xq_symbol": "SZ300274",
+          "xq_url": "https://xueqiu.com/S/SZ300274",
+          "amarket": true
+        },
+        {
+          "name": "恒林股份",
+          "code": "603661",
+          "percent": 3.11,
+          "current_price": 60.68,
+          "change_percentage": 0.61,
+          "xq_symbol": "SH603661",
+          "xq_url": "https://xueqiu.com/S/SH603661",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "龙蟠转债",
+          "code": "113581",
+          "percent": 2.76,
+          "xq_symbol": "113581",
+          "xq_url": "https://xueqiu.com/S/113581",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "000729",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.20"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "邵卓",
+        "resume": "    邵卓先生,权益投资部副总经理,硕士。2006年4月至2006年12月任明基(西门子)移动通信研发中心软件工程师;2007年2月至2010年7月任IBM中国软件实验室软件工程师;2010年7月加入广发证券公司,任计算机行业研究员。邵卓于2011年9月加入我公司研究部,历任研究部研究员、研究主管,权益投资部基金经理、权益投资部联席投资官兼研究部首席研究官、权益投资部副总经理。2015年3月24日起任建信信息产业股票型证券投资基金的基金经理;2015年5月22日起任建信创新中国混合型证券投资基金的基金经理;2017年12月19日起任建信安心保本三号混合型证券投资基金的基金经理,该基金于2018年1月11日起转型为建信裕利灵活配置混合型证券投资基金,邵卓继续担任该基金的基金经理;2020年4月14日起任建信科技创新混合型证券投资基金的基金经理;2020年7月17日起任建信潜力新蓝筹股票型证券投资基金、建信中小盘先锋股票型证券投资基金的基金经理。",
+        "work_year": "10",
+        "achievement_list": [
+          {
+            "fund_code": "000729",
+            "fundsname": "建信中小盘先锋股票",
+            "post_date": "2020-07-17",
+            "cp_rate": 15.2559
+          },
+          {
+            "fund_code": "000756",
+            "fundsname": "建信潜力新蓝筹股票",
+            "post_date": "2020-07-17",
+            "cp_rate": 15.3527
+          },
+          {
+            "fund_code": "008962",
+            "fundsname": "建信科技创新混合A",
+            "post_date": "2020-04-14",
+            "cp_rate": 33.4481
+          },
+          {
+            "fund_code": "008963",
+            "fundsname": "建信科技创新混合C",
+            "post_date": "2020-04-14",
+            "cp_rate": 33.0155
+          },
+          {
+            "fund_code": "002281",
+            "fundsname": "建信裕利灵活配置混合",
+            "post_date": "2018-01-11",
+            "cp_rate": 58.643
+          },
+          {
+            "fund_code": "002281",
+            "fundsname": "建信安心保本三号混合",
+            "post_date": "2017-12-19",
+            "resi_date": "2018-01-10",
+            "cp_rate": 0.0967
+          },
+          {
+            "fund_code": "000308",
+            "fundsname": "建信创新中国混合",
+            "post_date": "2015-05-22",
+            "cp_rate": 94.199
+          },
+          {
+            "fund_code": "001070",
+            "fundsname": "建信信息产业股票",
+            "post_date": "2015-03-24",
+            "cp_rate": 130.1397
+          }
+        ]
+      },
+      {
+        "name": "周智硕",
+        "resume": "    周智硕先生,硕士。2009年7月至2012年8月在南方基金管理有限公司担任研究员;2012年8月至2013年7月在中国国际金融有限公司担任研究员;2013年8月至2016年2月在北京鸿道投资管理有限责任公司担任研究员、投资经理;2016年2月至2016年11月在注册登记私募担任研究员和投资经理;2016年11月至2017年11月在上海七曜投资管理合伙企业担任投资经理;2017年11月至2020年6月在工银瑞信基金管理有限公司担任投资经理。2020年6月加入建信基金权益投资部拟任基金经理。2020年9月18日起任建信中小盘先锋股票型证券投资基金、建信潜力新蓝筹股票型证券投资基金的基金经理。",
+        "achievement_list": [
+          {
+            "fund_code": "000729",
+            "fundsname": "建信中小盘先锋股票",
+            "post_date": "2020-09-18",
+            "cp_rate": 7.2344
+          },
+          {
+            "fund_code": "000756",
+            "fundsname": "建信潜力新蓝筹股票",
+            "post_date": "2020-09-18",
+            "cp_rate": 6.3606
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "000729",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

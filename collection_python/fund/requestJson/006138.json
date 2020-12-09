@@ -1,0 +1,240 @@
+{
+  "data": {
+    "fund_company": "    国联安基金管理有限公司是国内首家获准筹建的中外合资基金管理公司。由国泰君安证券股份有限公司与德国安联集团(Allianz AG)共同发起设立。公司注册资本为1.5亿人民币,注册地为中国上海。\n    股东介绍\n    强大的中德股东给崭新的国联安基金管理有限公司带来了高质量的人才输送、品牌支持、国际化的视野和管理运作经验以及本土雄厚的研究、市场资源,对公司的产品开发、投资研究、风险管理、市场营销、信息技术、客户服务提供强大支持和保障。\n    国泰君安证券股份有限公司\n    国泰君安证券股份有限公司前身为国泰证券(1992年9月10日成立)和君安证券(1992年8月25日成立), 1999年8月18日两公司合并新设为国泰君安证券股份有限公司(\"国泰君安\"),目前注册资本为61亿元人民币。自成立之日起,国泰君安秉持以客户为中心的服务理念,扎根于国内资本市场,是国内规模最大、经营范围最广、机构分布最广、服务客户最多的证券公司之一,旗下设国泰君安金融控股有限公司(注册地香港)、国泰君安期货有限公司、上海国泰君安证券资产管理有限公司、国泰君安创新投资有限公司、国联安基金管理有限公司5家子公司,在全国30个省、市、自治区设有29家分公司、193个证券营业部。\n    安联集团 (Allianz AG)\n    作为世界领先的金融服务集团之一,安联集团在全球范围提供保险和资产管理解决方案,14.4万名员工在 世界70多个国家和地区为7,800多万客户提供服务。在财产险和责任险,寿险和健康险,及资产管理三大核心 业务领域,安联在全球的32个市场居五强地位。\n    尽管2012年资本市场动荡,安联集团仍取得了坚实的业绩,达到预期目标水平。年度总收入达到1,064亿欧元,经营利润95亿欧元。寿险和健康险领域的保费收入达523亿欧元,财产险和责任险的保费收入增长至469亿欧元。安联同时也是世界最大的资产管理人之一,年内管理的总资产增长11.8%,创18,520亿欧元的记录,截至2012年底管理的第三方资产总额达14,380亿欧元。\n    凭借在全球保险和金融服务领域中坚实的地位和雄厚的财力,安联拥有全球信用等级评审机构如标准普尔(Standard & Poor)的AA评级。安联在2013年美国财富杂志《Fortune》全球500强中列第31位;在2013年福布斯杂志(Forbes)全球2000中排名第25位。",
+    "fund_position": {
+      "stock_percent": 91.48,
+      "cash_percent": 6.34,
+      "other_percent": 2.18,
+      "asset_tot": 25650849.45,
+      "asset_val": 25043243.85,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "威孚高科",
+          "code": "000581",
+          "percent": 6.31,
+          "current_price": 24.79,
+          "change_percentage": 0.16,
+          "xq_symbol": "SZ000581",
+          "xq_url": "https://xueqiu.com/S/SZ000581",
+          "amarket": true
+        },
+        {
+          "name": "国药一致",
+          "code": "000028",
+          "percent": 5.85,
+          "current_price": 50.32,
+          "change_percentage": -3.06,
+          "xq_symbol": "SZ000028",
+          "xq_url": "https://xueqiu.com/S/SZ000028",
+          "amarket": true
+        },
+        {
+          "name": "阳光城",
+          "code": "000671",
+          "percent": 5.69,
+          "current_price": 6.93,
+          "change_percentage": -0.43,
+          "xq_symbol": "SZ000671",
+          "xq_url": "https://xueqiu.com/S/SZ000671",
+          "amarket": true
+        },
+        {
+          "name": "光明乳业",
+          "code": "600597",
+          "percent": 5.68,
+          "current_price": 15.6,
+          "change_percentage": 0.19,
+          "xq_symbol": "SH600597",
+          "xq_url": "https://xueqiu.com/S/SH600597",
+          "amarket": true
+        },
+        {
+          "name": "良信股份",
+          "code": "002706",
+          "percent": 5.63,
+          "current_price": 25.8,
+          "change_percentage": 0.74,
+          "xq_symbol": "SZ002706",
+          "xq_url": "https://xueqiu.com/S/SZ002706",
+          "amarket": true
+        },
+        {
+          "name": "扬农化工",
+          "code": "600486",
+          "percent": 4.97,
+          "current_price": 120.75,
+          "change_percentage": 0.02,
+          "xq_symbol": "SH600486",
+          "xq_url": "https://xueqiu.com/S/SH600486",
+          "amarket": true
+        },
+        {
+          "name": "健康元",
+          "code": "600380",
+          "percent": 4.76,
+          "current_price": 14.73,
+          "change_percentage": -1.07,
+          "xq_symbol": "SH600380",
+          "xq_url": "https://xueqiu.com/S/SH600380",
+          "amarket": true
+        },
+        {
+          "name": "万科A",
+          "code": "000002",
+          "percent": 4.48,
+          "current_price": 29.18,
+          "change_percentage": -0.78,
+          "xq_symbol": "SZ000002",
+          "xq_url": "https://xueqiu.com/S/SZ000002",
+          "amarket": true
+        },
+        {
+          "name": "大亚圣象",
+          "code": "000910",
+          "percent": 3.9,
+          "current_price": 17.36,
+          "change_percentage": -2.8,
+          "xq_symbol": "SZ000910",
+          "xq_url": "https://xueqiu.com/S/SZ000910",
+          "amarket": true
+        },
+        {
+          "name": "三一重工",
+          "code": "600031",
+          "percent": 3.88,
+          "current_price": 31.48,
+          "change_percentage": -1.41,
+          "xq_symbol": "SH600031",
+          "xq_url": "https://xueqiu.com/S/SH600031",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "006138",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<300万",
+          "value": "1.20"
+        },
+        {
+          "name": "300万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "邹新进",
+        "resume": "    邹新进先生,硕士。2004年7月至2007年7月在中信建投证券有限责任公司(前身为华夏证券有限责任公司)担任分析师。2007年7月加入国联安基金管理有限公司,历任高级研究员、基金经理助理、研究部副总监,现任权益投资部总经理。2010年3月起担任国联安德盛小盘精选证券投资基金的基金经理,2012年2月至 2013年4月兼任国联安信心增长 债券型证券投资基金的基金经理,2018年3月起兼任国联安安稳灵活配置混合型证券投资基金的基金经理,2018年9月起兼任国联安价值优选股票型证券投资基金的基金经理,2019年12月起兼任国联安添利增长债券型证券投资基金的基金经理。",
+        "work_year": "16",
+        "achievement_list": [
+          {
+            "fund_code": "003276",
+            "fundsname": "国联安添利增长债券C",
+            "post_date": "2019-12-31",
+            "cp_rate": 11.113
+          },
+          {
+            "fund_code": "003275",
+            "fundsname": "国联安添利增长债券A",
+            "post_date": "2019-12-31",
+            "cp_rate": 11.58
+          },
+          {
+            "fund_code": "006138",
+            "fundsname": "国联安价值优选股票",
+            "post_date": "2018-09-20",
+            "cp_rate": 93.44
+          },
+          {
+            "fund_code": "002367",
+            "fundsname": "国联安安稳灵活配置混合",
+            "post_date": "2018-03-20",
+            "cp_rate": 52.8836
+          },
+          {
+            "fund_code": "253060",
+            "fundsname": "国联安信心增长A",
+            "post_date": "2012-02-22",
+            "resi_date": "2013-04-10",
+            "cp_rate": 11.17
+          },
+          {
+            "fund_code": "253061",
+            "fundsname": "国联安信心增长B",
+            "post_date": "2012-02-22",
+            "resi_date": "2013-04-10",
+            "cp_rate": 10.86
+          },
+          {
+            "fund_code": "257010",
+            "fundsname": "国联安小盘精选混合",
+            "post_date": "2010-03-06",
+            "cp_rate": 191.283
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "006138",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 4,
+      "all_buy_days": 2,
+      "all_sale_days": 5
+    }
+  },
+  "result_code": 0
+}

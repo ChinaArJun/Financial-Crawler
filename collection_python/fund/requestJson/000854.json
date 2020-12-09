@@ -1,0 +1,378 @@
+{
+  "data": {
+    "fund_company": "    鹏华基金管理有限公司成立于1998年12月22日,注册资本15,000万元人民币,总部设在深圳,在北京、上海、广州、武汉设有分公司,2013年1月,在深圳前海设立控股子公司鹏华资产管理有限公司。目前的股东由国信证券股份有限公司、意大利欧利盛资本资产管理股份公司(Eurizon Capital SGR S.p.A.)、深圳市北融信投资发展有限公司组成,三家股东的出资比例分别为50%、49%、1%,业务范围包括基金募集、基金销售、资产管理及中国证监会许可的其他业务。截至2016年12月31日,公司管理资产总规模达到4,551亿元,管理129只基金和10只全国社保投资组合。",
+    "fund_position": {
+      "stock_percent": 81.51,
+      "bond_percent": 0.08,
+      "cash_percent": 18.23,
+      "other_percent": 0.18,
+      "asset_tot": 847726121.32,
+      "asset_val": 839379573.12,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "山西汾酒",
+          "code": "600809",
+          "percent": 9.97,
+          "current_price": 265.1,
+          "change_percentage": 1.54,
+          "xq_symbol": "SH600809",
+          "xq_url": "https://xueqiu.com/S/SH600809",
+          "amarket": true
+        },
+        {
+          "name": "爱尔眼科",
+          "code": "300015",
+          "percent": 9.37,
+          "current_price": 66.63,
+          "change_percentage": -0.25,
+          "xq_symbol": "SZ300015",
+          "xq_url": "https://xueqiu.com/S/SZ300015",
+          "amarket": true
+        },
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 9.33,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 8.81,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "古井贡酒",
+          "code": "000596",
+          "percent": 8.73,
+          "current_price": 229.01,
+          "change_percentage": 0.04,
+          "xq_symbol": "SZ000596",
+          "xq_url": "https://xueqiu.com/S/SZ000596",
+          "amarket": true
+        },
+        {
+          "name": "贝达药业",
+          "code": "300558",
+          "percent": 7.57,
+          "current_price": 97.9,
+          "change_percentage": -2.37,
+          "xq_symbol": "SZ300558",
+          "xq_url": "https://xueqiu.com/S/SZ300558",
+          "amarket": true
+        },
+        {
+          "name": "长春高新",
+          "code": "000661",
+          "percent": 4.64,
+          "current_price": 388,
+          "change_percentage": 0.19,
+          "xq_symbol": "SZ000661",
+          "xq_url": "https://xueqiu.com/S/SZ000661",
+          "amarket": true
+        },
+        {
+          "name": "涪陵榨菜",
+          "code": "002507",
+          "percent": 4.21,
+          "current_price": 44.06,
+          "change_percentage": 2.94,
+          "xq_symbol": "SZ002507",
+          "xq_url": "https://xueqiu.com/S/SZ002507",
+          "amarket": true
+        },
+        {
+          "name": "广联达",
+          "code": "002410",
+          "percent": 3.59,
+          "current_price": 70.77,
+          "change_percentage": 2.08,
+          "xq_symbol": "SZ002410",
+          "xq_url": "https://xueqiu.com/S/SZ002410",
+          "amarket": true
+        },
+        {
+          "name": "泸州老窖",
+          "code": "000568",
+          "percent": 2.86,
+          "current_price": 191.85,
+          "change_percentage": 0.56,
+          "xq_symbol": "SZ000568",
+          "xq_url": "https://xueqiu.com/S/SZ000568",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "益丰转债",
+          "code": "113583",
+          "percent": 0.08,
+          "xq_symbol": "113583",
+          "xq_url": "https://xueqiu.com/S/113583",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "000854",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "1.00"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "王宗合",
+        "resume": "    王宗合先生,国籍中国,金融学硕士,14年证券基金从业经验。曾经在招商基金从事食品饮料、商业零售、农林牧渔、纺织服装、汽车等行业的研究。2009年5月加盟鹏华基金管理有限公司,从事食品饮料、农林牧渔、商业零售、造纸包装等行业的研究工作,担任鹏华动力增长混合(LOF)基金基金经理助理。现担任权益投资二部总经理/董事总经理(MD)/基金经理。2010年12月担任鹏华消费优选混合基金基金经理,2012年06月至2018年07月担任鹏华金刚保本混合基金基金经理,2014年07月至2019年04月担任鹏华品牌传承混合基金基金经理,2014年12月担任鹏华养老产业股票基金基金经理,2016年04月至2018年10月担任鹏华金鼎保本混合基金基金经理,2016年06月至2019年06月担任鹏华金城保本混合基金基金经理,2017年02月至2019年09月担任鹏华安益增强混合基金基金经理,2017年07月担任鹏华中国50混合基金基金经理,2017年09月担任鹏华策略回报混合基金基金经理,2018年05月担任鹏华产业精选基金基金经理,2018年07月至2019年09月担任鹏华宏观混合基金基金经理,2018年10月至2019年09月担任鹏华金鼎混合基金基金经理,2019年01月至2020年02月担任鹏华优选回报混合基金基金经理,2019年06月至2019年06月担任鹏华金城混合基金基金经理,2019年06月担任鹏华精选回报三年定开混合基金基金经理,2020年02月担任鹏华优质回报两年定开混合基金基金经理,2020年04月担任鹏华价值共赢两年持有期混合基金基金经理,2020年05月担任鹏华成长价值混合基金基金经理。王宗合先生具备基金从业资格。",
+        "work_year": "14",
+        "achievement_list": [
+          {
+            "fund_code": "010672",
+            "fundsname": "鹏华创新未来18个月封闭混合B",
+            "post_date": "2020-11-23",
+            "cp_rate": -0.3075
+          },
+          {
+            "fund_code": "010319",
+            "fundsname": "鹏华创新未来18个月封闭混合C",
+            "post_date": "2020-09-30",
+            "cp_rate": 0.49
+          },
+          {
+            "fund_code": "009571",
+            "fundsname": "鹏华匠心精选混合C",
+            "post_date": "2020-07-10",
+            "cp_rate": 5.61
+          },
+          {
+            "fund_code": "009570",
+            "fundsname": "鹏华匠心精选混合A",
+            "post_date": "2020-07-10",
+            "cp_rate": 5.95
+          },
+          {
+            "fund_code": "009331",
+            "fundsname": "鹏华成长价值混合C",
+            "post_date": "2020-05-18",
+            "cp_rate": 19.27
+          },
+          {
+            "fund_code": "009330",
+            "fundsname": "鹏华成长价值混合A",
+            "post_date": "2020-05-18",
+            "cp_rate": 19.8
+          },
+          {
+            "fund_code": "009086",
+            "fundsname": "鹏华价值共赢两年持有期混合",
+            "post_date": "2020-04-29",
+            "cp_rate": 30.09
+          },
+          {
+            "fund_code": "008716",
+            "fundsname": "鹏华优质回报两年定开混合",
+            "post_date": "2020-02-28",
+            "cp_rate": 54.7702
+          },
+          {
+            "fund_code": "160645",
+            "fundsname": "鹏华精选回报三年定开混合",
+            "post_date": "2019-06-25",
+            "cp_rate": 89.19
+          },
+          {
+            "fund_code": "002714",
+            "fundsname": "鹏华金城灵活配置混合",
+            "post_date": "2019-06-07",
+            "resi_date": "2019-06-19",
+            "cp_rate": 0
+          },
+          {
+            "fund_code": "006526",
+            "fundsname": "鹏华优选回报混合",
+            "post_date": "2019-01-15",
+            "resi_date": "2020-02-29",
+            "cp_rate": 5.87
+          },
+          {
+            "fund_code": "002505",
+            "fundsname": "鹏华金鼎灵活配置混合C",
+            "post_date": "2018-10-19",
+            "resi_date": "2019-09-20",
+            "cp_rate": 12.747
+          },
+          {
+            "fund_code": "002504",
+            "fundsname": "鹏华金鼎灵活配置混合A",
+            "post_date": "2018-10-19",
+            "resi_date": "2019-09-20",
+            "cp_rate": 13.561
+          },
+          {
+            "fund_code": "206013",
+            "fundsname": "鹏华宏观灵活配置混合",
+            "post_date": "2018-07-19",
+            "resi_date": "2019-09-20",
+            "cp_rate": 5.4814
+          },
+          {
+            "fund_code": "005812",
+            "fundsname": "鹏华产业精选",
+            "post_date": "2018-05-09",
+            "cp_rate": 119.45
+          },
+          {
+            "fund_code": "001222",
+            "fundsname": "鹏华外延成长灵活配置混合",
+            "post_date": "2018-01-29",
+            "resi_date": "2018-07-26",
+            "cp_rate": -9.9229
+          },
+          {
+            "fund_code": "004986",
+            "fundsname": "鹏华策略回报混合",
+            "post_date": "2017-09-06",
+            "resi_date": "2020-08-11",
+            "cp_rate": 110.58
+          },
+          {
+            "fund_code": "160605",
+            "fundsname": "鹏华中国50混合",
+            "post_date": "2017-07-29",
+            "cp_rate": 128.234
+          },
+          {
+            "fund_code": "004100",
+            "fundsname": "鹏华安益增强混合",
+            "post_date": "2017-02-22",
+            "resi_date": "2019-09-20",
+            "cp_rate": 15.2
+          },
+          {
+            "fund_code": "002714",
+            "fundsname": "鹏华金城保本混合",
+            "post_date": "2016-06-01",
+            "resi_date": "2019-06-06",
+            "cp_rate": 6.8
+          },
+          {
+            "fund_code": "002504",
+            "fundsname": "鹏华金鼎保本混合A",
+            "post_date": "2016-04-13",
+            "resi_date": "2018-10-18",
+            "cp_rate": 2.5
+          },
+          {
+            "fund_code": "002505",
+            "fundsname": "鹏华金鼎保本混合C",
+            "post_date": "2016-04-13",
+            "resi_date": "2018-10-18",
+            "cp_rate": 1
+          },
+          {
+            "fund_code": "000854",
+            "fundsname": "鹏华养老产业股票",
+            "post_date": "2014-12-02",
+            "cp_rate": 271.4859
+          },
+          {
+            "fund_code": "000431",
+            "fundsname": "鹏华品牌传承混合",
+            "post_date": "2014-07-26",
+            "resi_date": "2019-04-03",
+            "cp_rate": 57.9823
+          },
+          {
+            "fund_code": "206013",
+            "fundsname": "鹏华金刚保本混合",
+            "post_date": "2012-06-13",
+            "resi_date": "2018-07-18",
+            "cp_rate": 47.3127
+          },
+          {
+            "fund_code": "160610",
+            "fundsname": "鹏华动力增长混合(LOF)",
+            "post_date": "2011-03-01",
+            "resi_date": "2011-03-31",
+            "cp_rate": -3.0228
+          },
+          {
+            "fund_code": "206007",
+            "fundsname": "鹏华消费优选混合",
+            "post_date": "2010-12-28",
+            "cp_rate": 343.6508
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "000854",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

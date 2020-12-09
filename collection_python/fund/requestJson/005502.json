@@ -1,0 +1,218 @@
+{
+  "data": {
+    "fund_position": {
+      "stock_percent": 79.79,
+      "bond_percent": 0.01,
+      "cash_percent": 16.34,
+      "other_percent": 3.86,
+      "asset_tot": 45888404.66,
+      "asset_val": 42647161.52,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "招商银行",
+          "code": "600036",
+          "percent": 2.19,
+          "current_price": 44.26,
+          "change_percentage": -0.36,
+          "xq_symbol": "SH600036",
+          "xq_url": "https://xueqiu.com/S/SH600036",
+          "amarket": true
+        },
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 2.02,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 1.96,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "中信证券",
+          "code": "600030",
+          "percent": 1.88,
+          "current_price": 30.01,
+          "change_percentage": 0,
+          "xq_symbol": "SH600030",
+          "xq_url": "https://xueqiu.com/S/SH600030",
+          "amarket": true
+        },
+        {
+          "name": "招商证券",
+          "code": "600999",
+          "percent": 1.84,
+          "current_price": 23.1,
+          "change_percentage": 0.79,
+          "xq_symbol": "SH600999",
+          "xq_url": "https://xueqiu.com/S/SH600999",
+          "amarket": true
+        },
+        {
+          "name": "中国平安",
+          "code": "601318",
+          "percent": 1.84,
+          "current_price": 88.05,
+          "change_percentage": -2.58,
+          "xq_symbol": "SH601318",
+          "xq_url": "https://xueqiu.com/S/SH601318",
+          "amarket": true
+        },
+        {
+          "name": "宁波银行",
+          "code": "002142",
+          "percent": 1.83,
+          "current_price": 35.74,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ002142",
+          "xq_url": "https://xueqiu.com/S/SZ002142",
+          "amarket": true
+        },
+        {
+          "name": "新华保险",
+          "code": "601336",
+          "percent": 1.78,
+          "current_price": 62.1,
+          "change_percentage": 0.23,
+          "xq_symbol": "SH601336",
+          "xq_url": "https://xueqiu.com/S/SH601336",
+          "amarket": true
+        },
+        {
+          "name": "中国人寿",
+          "code": "601628",
+          "percent": 1.73,
+          "current_price": 41.81,
+          "change_percentage": -0.21,
+          "xq_symbol": "SH601628",
+          "xq_url": "https://xueqiu.com/S/SH601628",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 1.65,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "交建转债",
+          "code": "128132",
+          "percent": 0.01,
+          "xq_symbol": "128132",
+          "xq_url": "https://xueqiu.com/S/128132",
+          "amarket": false
+        },
+        {
+          "name": "东缆转债",
+          "code": "113603",
+          "percent": 0,
+          "xq_symbol": "113603",
+          "xq_url": "https://xueqiu.com/S/113603",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "005502",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<500万",
+          "value": "1.50"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "毛甜",
+        "resume": "    毛甜,武汉大学金融工程硕士研究生,曾任中国航天工程咨询中心分析师、国信证券经济研究所金融工程部助理分析师、光大富尊投资有限公司研究员、投资经理。2017年7月加入华泰证券(上海)资产管理有限公司,现任华泰紫金中证红利低波动指数型发起式证券投资基金基金经理、华泰紫金智能量化股票型发起式证券投资基金基金经理。",
+        "work_year": "10",
+        "achievement_list": [
+          {
+            "fund_code": "005502",
+            "fundsname": "华泰紫金智能量化股票发起",
+            "post_date": "2018-03-10",
+            "cp_rate": 36.3265
+          },
+          {
+            "fund_code": "005279",
+            "fundsname": "华泰紫金红利低波指数发起",
+            "post_date": "2017-12-12",
+            "resi_date": "2020-12-01",
+            "cp_rate": 19.2553
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "005502",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

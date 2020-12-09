@@ -1,0 +1,262 @@
+{
+  "data": {
+    "fund_company": "    泰达宏利基金管理有限公司成立于2002年6月,是中国首批合资基金管理公司之一,注册资本1.8亿元人民币。在吸取外方股东全球投资智慧以及深刻认知中国资本市场的基础上,公司建立并拥有了一整套科学严谨的内控体系,并且在十余年的实践中积累了丰富的投资管理经验,取得了良好的长期投资业绩,赢得了投资者的信任。公司旗下管理的产品类型丰富,具有较为完善的产品线可供选择。",
+    "fund_position": {
+      "stock_percent": 91.75,
+      "bond_percent": 6.64,
+      "cash_percent": 1.41,
+      "other_percent": 0.2,
+      "asset_tot": 526842588.67,
+      "asset_val": 511978247.87,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 5.4,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "长春高新",
+          "code": "000661",
+          "percent": 4.87,
+          "current_price": 388,
+          "change_percentage": 0.19,
+          "xq_symbol": "SZ000661",
+          "xq_url": "https://xueqiu.com/S/SZ000661",
+          "amarket": true
+        },
+        {
+          "name": "隆平高科",
+          "code": "000998",
+          "percent": 3.96,
+          "current_price": 17.78,
+          "change_percentage": -1.93,
+          "xq_symbol": "SZ000998",
+          "xq_url": "https://xueqiu.com/S/SZ000998",
+          "amarket": true
+        },
+        {
+          "name": "东方雨虹",
+          "code": "002271",
+          "percent": 3.87,
+          "current_price": 35.92,
+          "change_percentage": 0.25,
+          "xq_symbol": "SZ002271",
+          "xq_url": "https://xueqiu.com/S/SZ002271",
+          "amarket": true
+        },
+        {
+          "name": "亿纬锂能",
+          "code": "300014",
+          "percent": 3.71,
+          "current_price": 63.71,
+          "change_percentage": 4.17,
+          "xq_symbol": "SZ300014",
+          "xq_url": "https://xueqiu.com/S/SZ300014",
+          "amarket": true
+        },
+        {
+          "name": "迈瑞医疗",
+          "code": "300760",
+          "percent": 3.34,
+          "current_price": 351.9,
+          "change_percentage": 1.82,
+          "xq_symbol": "SZ300760",
+          "xq_url": "https://xueqiu.com/S/SZ300760",
+          "amarket": true
+        },
+        {
+          "name": "金山办公",
+          "code": "688111",
+          "percent": 3.09,
+          "current_price": 349.5,
+          "change_percentage": -2.75,
+          "xq_symbol": "SH688111",
+          "xq_url": "https://xueqiu.com/S/SH688111",
+          "amarket": true
+        },
+        {
+          "name": "克来机电",
+          "code": "603960",
+          "percent": 3.05,
+          "current_price": 40.1,
+          "change_percentage": -0.25,
+          "xq_symbol": "SH603960",
+          "xq_url": "https://xueqiu.com/S/SH603960",
+          "amarket": true
+        },
+        {
+          "name": "东方财富",
+          "code": "300059",
+          "percent": 2.99,
+          "current_price": 28.05,
+          "change_percentage": 1.08,
+          "xq_symbol": "SZ300059",
+          "xq_url": "https://xueqiu.com/S/SZ300059",
+          "amarket": true
+        },
+        {
+          "name": "通威股份",
+          "code": "600438",
+          "percent": 2.88,
+          "current_price": 29.2,
+          "change_percentage": -1.85,
+          "xq_symbol": "SH600438",
+          "xq_url": "https://xueqiu.com/S/SH600438",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "20国债01",
+          "code": "019627",
+          "percent": 6.83,
+          "xq_symbol": "019627",
+          "xq_url": "https://xueqiu.com/S/019627",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "162208",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<250万",
+          "value": "1.20"
+        },
+        {
+          "name": "250万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<366天",
+          "value": "0.500"
+        },
+        {
+          "name": "366天≤持有期限<731天",
+          "value": "0.250"
+        },
+        {
+          "name": "731天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "张勋",
+        "resume": "    张勋先生:张勋先生,管理学硕士,研究部总监兼基金经理;2006年7月至2009年6月就职于天相投资顾问有限公司,担任研究组长;2009年7月至2010年4月就职于东兴证券股份有限责任公司,担任研究组长;2010年4月加入泰达宏利基金管理有限公司,曾担任研究员、高级研究员、研究部副总监,现任研究部总监兼基金经理。2014年11月21日至今担任泰达宏利首选企业股票型证券投资基金基金经理;2016年09月13日至今担任泰达宏利定宏混合型证券投资基金基金经理;2019年7月22日起至今担任泰达宏利行业精选混合型证券投资基金基金经理;2019年7月22日起至今担任泰达宏利蓝筹价值混合型证券投资基金基金经理;2020年4月13日起至今担任泰达宏利价值优化型周期类行业混合型证券投资基金基金经理;具备14年证券从业经验,14年证券投资管理经验,具有基金从业资格。",
+        "college": "外经济贸易大学",
+        "work_year": "14",
+        "achievement_list": [
+          {
+            "fund_code": "162203",
+            "fundsname": "泰达宏利稳定混合",
+            "post_date": "2020-04-15",
+            "resi_date": "2020-08-24",
+            "cp_rate": 49.0039
+          },
+          {
+            "fund_code": "162202",
+            "fundsname": "泰达宏利周期混合",
+            "post_date": "2020-04-13",
+            "cp_rate": 57.0534
+          },
+          {
+            "fund_code": "001267",
+            "fundsname": "泰达宏利蓝筹混合",
+            "post_date": "2019-07-22",
+            "cp_rate": 68.1009
+          },
+          {
+            "fund_code": "162204",
+            "fundsname": "泰达宏利行业混合",
+            "post_date": "2019-07-22",
+            "cp_rate": 104.7113
+          },
+          {
+            "fund_code": "003104",
+            "fundsname": "泰达宏利定宏混合",
+            "post_date": "2016-09-13",
+            "resi_date": "2020-07-09",
+            "cp_rate": 28.78
+          },
+          {
+            "fund_code": "001568",
+            "fundsname": "泰达宏利增利定期开放混合",
+            "post_date": "2016-06-30",
+            "resi_date": "2017-12-29",
+            "cp_rate": -3.2
+          },
+          {
+            "fund_code": "000828",
+            "fundsname": "泰达宏利转型机遇股票",
+            "post_date": "2015-12-23",
+            "resi_date": "2017-12-19",
+            "cp_rate": -6.8887
+          },
+          {
+            "fund_code": "162209",
+            "fundsname": "泰达宏利市值优选混合",
+            "post_date": "2015-04-03",
+            "resi_date": "2017-02-28",
+            "cp_rate": -39.0083
+          },
+          {
+            "fund_code": "162208",
+            "fundsname": "泰达宏利首选企业股票",
+            "post_date": "2014-11-21",
+            "cp_rate": 145.9376
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "162208",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 2,
+      "all_buy_days": 2,
+      "all_sale_days": 3
+    }
+  },
+  "result_code": 0
+}

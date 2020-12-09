@@ -1,0 +1,214 @@
+{
+  "data": {
+    "fund_position": {
+      "stock_percent": 93.05,
+      "cash_percent": 6.94,
+      "other_percent": 0.01,
+      "asset_tot": 1388405637.82,
+      "asset_val": 1384519209.29,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 9.23,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "HTSC",
+          "code": "06886",
+          "percent": 9.04,
+          "xq_symbol": "06886",
+          "xq_url": "https://xueqiu.com/S/06886",
+          "amarket": false
+        },
+        {
+          "name": "顺丰控股",
+          "code": "002352",
+          "percent": 6.97,
+          "current_price": 80.21,
+          "change_percentage": -1.88,
+          "xq_symbol": "SZ002352",
+          "xq_url": "https://xueqiu.com/S/SZ002352",
+          "amarket": true
+        },
+        {
+          "name": "腾讯控股",
+          "code": "00700",
+          "percent": 6.65,
+          "xq_symbol": "00700",
+          "xq_url": "https://xueqiu.com/S/00700",
+          "amarket": false
+        },
+        {
+          "name": "海大集团",
+          "code": "002311",
+          "percent": 4.65,
+          "current_price": 61,
+          "change_percentage": 0,
+          "xq_symbol": "SZ002311",
+          "xq_url": "https://xueqiu.com/S/SZ002311",
+          "amarket": true
+        },
+        {
+          "name": "吉利汽车",
+          "code": "00175",
+          "percent": 4.49,
+          "xq_symbol": "00175",
+          "xq_url": "https://xueqiu.com/S/00175",
+          "amarket": false
+        },
+        {
+          "name": "信达生物",
+          "code": "01801",
+          "percent": 3.46,
+          "xq_symbol": "01801",
+          "xq_url": "https://xueqiu.com/S/01801",
+          "amarket": false
+        },
+        {
+          "name": "赣锋锂业",
+          "code": "01772",
+          "percent": 3.4,
+          "xq_symbol": "01772",
+          "xq_url": "https://xueqiu.com/S/01772",
+          "amarket": false
+        },
+        {
+          "name": "航发动力",
+          "code": "600893",
+          "percent": 3.38,
+          "current_price": 46.99,
+          "change_percentage": -1.49,
+          "xq_symbol": "SH600893",
+          "xq_url": "https://xueqiu.com/S/SH600893",
+          "amarket": true
+        },
+        {
+          "name": "中国生物制药",
+          "code": "01177",
+          "percent": 3.27,
+          "xq_symbol": "01177",
+          "xq_url": "https://xueqiu.com/S/01177",
+          "amarket": false
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "008294",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "1.0",
+      "subscribe_discount": "1.0",
+      "declare_discount": "1.0",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "1.00"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "365天≤持有期限<730天",
+          "value": "0.250"
+        },
+        {
+          "name": "730天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.20"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "梁跃军",
+        "resume": "    梁跃军先生,1971年出生,中国籍,中欧国际工商学院EMBA,北京大学经济学硕士。先后任职于招商银行股份有限公司北京分行,西南证券股份有限公司,大通证券股份有限公司,西部证券股份有限公司,上海朱雀投资发展中心(有限合伙),朱雀股权投资管理有限公司。现任朱雀基金总经理,2014年当选中国证监会第五届并购重组委委员,2016年当选中国证监会第六届并购重组委委员。\n    2020年6月3日至今担任朱雀企业优胜股票型证券投资基金基金经理;2020年6月29日至今担任朱雀产业臻选混合型证券投资基金基金经理;2020年9月23日至今担任朱雀企业优选股票型证券投资基金基金经理。",
+        "achievement_list": [
+          {
+            "fund_code": "010141",
+            "fundsname": "朱雀企业优选A",
+            "post_date": "2020-09-23",
+            "cp_rate": 6.53
+          },
+          {
+            "fund_code": "010142",
+            "fundsname": "朱雀企业优选C",
+            "post_date": "2020-09-23",
+            "cp_rate": 6.36
+          },
+          {
+            "fund_code": "007493",
+            "fundsname": "朱雀产业臻选混合A",
+            "post_date": "2020-06-29",
+            "cp_rate": 34.683
+          },
+          {
+            "fund_code": "007494",
+            "fundsname": "朱雀产业臻选混合C",
+            "post_date": "2020-06-29",
+            "cp_rate": 34.3259
+          },
+          {
+            "fund_code": "008294",
+            "fundsname": "朱雀企业优胜A",
+            "post_date": "2020-06-03",
+            "cp_rate": 36.9939
+          },
+          {
+            "fund_code": "008295",
+            "fundsname": "朱雀企业优胜C",
+            "post_date": "2020-06-03",
+            "cp_rate": 36.5198
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "008294",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

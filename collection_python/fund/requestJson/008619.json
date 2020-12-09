@@ -1,0 +1,384 @@
+{
+  "data": {
+    "fund_company": "    2013年11月7日,永赢基金管理有限公司经国家工商行政管理总局注册成立,正式挂牌。永赢基金是由宁波银行和利安资金管理公司共同出资成立的中外合资基金公司,是一家高起点、高标准且充满活力的公司。公司的经营范围为基金募集、基金销售、特定客户资产管理、资产管理和中国证监会规定的其他业务。\n    公司始终秉承绝对收益理念,树立差异化投资风格,不追求“产品线齐全”,不推崇“规模至上”,而是坚持走“精品”路线,对每只产品精耕细作,力求为投资人赢得最大收益。同时,我们始终坚持以客户利益优先,以绝对收益为核心,稳定持续地为投资人、股东及公司盈利。公司通过不断加强客户需求识别能力、投资管理能力、风险控制能力及运营支持能力,不断进行产品创新,通过合理设计各类产品,满足投资人不同风险收益需求。",
+    "fund_position": {
+      "stock_percent": 87.45,
+      "cash_percent": 11.36,
+      "other_percent": 1.19,
+      "asset_tot": 182623303.99,
+      "asset_val": 177145753.84,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "普洛药业",
+          "code": "000739",
+          "percent": 8.84,
+          "current_price": 23.2,
+          "change_percentage": 0,
+          "xq_symbol": "SZ000739",
+          "xq_url": "https://xueqiu.com/S/SZ000739",
+          "amarket": true
+        },
+        {
+          "name": "仙琚制药",
+          "code": "002332",
+          "percent": 8.59,
+          "current_price": 14.39,
+          "change_percentage": 1.34,
+          "xq_symbol": "SZ002332",
+          "xq_url": "https://xueqiu.com/S/SZ002332",
+          "amarket": true
+        },
+        {
+          "name": "联化科技",
+          "code": "002250",
+          "percent": 8.11,
+          "current_price": 24.42,
+          "change_percentage": -0.45,
+          "xq_symbol": "SZ002250",
+          "xq_url": "https://xueqiu.com/S/SZ002250",
+          "amarket": true
+        },
+        {
+          "name": "华海药业",
+          "code": "600521",
+          "percent": 7.57,
+          "current_price": 35.36,
+          "change_percentage": 2.26,
+          "xq_symbol": "SH600521",
+          "xq_url": "https://xueqiu.com/S/SH600521",
+          "amarket": true
+        },
+        {
+          "name": "同和药业",
+          "code": "300636",
+          "percent": 6.01,
+          "current_price": 26.89,
+          "change_percentage": -1.5,
+          "xq_symbol": "SZ300636",
+          "xq_url": "https://xueqiu.com/S/SZ300636",
+          "amarket": true
+        },
+        {
+          "name": "玲珑轮胎",
+          "code": "601966",
+          "percent": 5.03,
+          "current_price": 33.4,
+          "change_percentage": -2.34,
+          "xq_symbol": "SH601966",
+          "xq_url": "https://xueqiu.com/S/SH601966",
+          "amarket": true
+        },
+        {
+          "name": "天宇股份",
+          "code": "300702",
+          "percent": 4.82,
+          "current_price": 100.5,
+          "change_percentage": 1.61,
+          "xq_symbol": "SZ300702",
+          "xq_url": "https://xueqiu.com/S/SZ300702",
+          "amarket": true
+        },
+        {
+          "name": "凯莱英",
+          "code": "002821",
+          "percent": 4.05,
+          "current_price": 274,
+          "change_percentage": 1.64,
+          "xq_symbol": "SZ002821",
+          "xq_url": "https://xueqiu.com/S/SZ002821",
+          "amarket": true
+        },
+        {
+          "name": "九洲药业",
+          "code": "603456",
+          "percent": 3.73,
+          "current_price": 32.24,
+          "change_percentage": 1.9,
+          "xq_symbol": "SH603456",
+          "xq_url": "https://xueqiu.com/S/SH603456",
+          "amarket": true
+        },
+        {
+          "name": "普莱柯",
+          "code": "603566",
+          "percent": 3.72,
+          "current_price": 23.61,
+          "change_percentage": -2.24,
+          "xq_symbol": "SH603566",
+          "xq_url": "https://xueqiu.com/S/SH603566",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "008619",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.500"
+        },
+        {
+          "name": "30天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.20"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "李永兴",
+        "resume": "    李永兴先生,北京大学金融学硕士,14年证券相关从业经验。曾任交银施罗德基金管理有限公司研究员、基金经理;九泰基金管理有限公司投资总监;永赢基金管理有限公司总经理助理。现任永赢基金管理有限公司副总经理。现任永赢基金管理有限公司副总经理。",
+        "college": "北京大学",
+        "work_year": "14",
+        "achievement_list": [
+          {
+            "fund_code": "008619",
+            "fundsname": "永赢医药健康股票C",
+            "post_date": "2020-05-20",
+            "cp_rate": 19.6
+          },
+          {
+            "fund_code": "008618",
+            "fundsname": "永赢医药健康股票A",
+            "post_date": "2020-05-20",
+            "cp_rate": 19.73
+          },
+          {
+            "fund_code": "008481",
+            "fundsname": "永赢股息优选C",
+            "post_date": "2020-03-25",
+            "cp_rate": 42.43
+          },
+          {
+            "fund_code": "008480",
+            "fundsname": "永赢股息优选A",
+            "post_date": "2020-03-25",
+            "cp_rate": 42.62
+          },
+          {
+            "fund_code": "008919",
+            "fundsname": "永赢科技驱动A",
+            "post_date": "2020-02-18",
+            "cp_rate": 25.85
+          },
+          {
+            "fund_code": "008920",
+            "fundsname": "永赢科技驱动C",
+            "post_date": "2020-02-18",
+            "cp_rate": 25.65
+          },
+          {
+            "fund_code": "007944",
+            "fundsname": "永赢乾元三年定开",
+            "post_date": "2020-01-19",
+            "cp_rate": 34.192
+          },
+          {
+            "fund_code": "007114",
+            "fundsname": "永赢高端制造C",
+            "post_date": "2019-11-01",
+            "cp_rate": 59.914
+          },
+          {
+            "fund_code": "007113",
+            "fundsname": "永赢高端制造A",
+            "post_date": "2019-11-01",
+            "cp_rate": 60.264
+          },
+          {
+            "fund_code": "007665",
+            "fundsname": "永赢创业板指数C",
+            "post_date": "2019-09-10",
+            "resi_date": "2020-09-23",
+            "cp_rate": 54.87
+          },
+          {
+            "fund_code": "007664",
+            "fundsname": "永赢创业板指数A",
+            "post_date": "2019-09-10",
+            "resi_date": "2020-09-23",
+            "cp_rate": 55.02
+          },
+          {
+            "fund_code": "007539",
+            "fundsname": "永赢沪深300C",
+            "post_date": "2019-07-09",
+            "resi_date": "2020-07-21",
+            "cp_rate": 31.9
+          },
+          {
+            "fund_code": "007538",
+            "fundsname": "永赢沪深300A",
+            "post_date": "2019-07-09",
+            "resi_date": "2020-07-21",
+            "cp_rate": 32.06
+          },
+          {
+            "fund_code": "006836",
+            "fundsname": "永赢惠泽一年",
+            "post_date": "2019-06-05",
+            "cp_rate": 41.74
+          },
+          {
+            "fund_code": "006269",
+            "fundsname": "永赢智能领先C",
+            "post_date": "2019-03-26",
+            "resi_date": "2020-07-31",
+            "cp_rate": 84.57
+          },
+          {
+            "fund_code": "006266",
+            "fundsname": "永赢智能领先A",
+            "post_date": "2019-03-26",
+            "resi_date": "2020-07-31",
+            "cp_rate": 85.41
+          },
+          {
+            "fund_code": "006252",
+            "fundsname": "永赢消费主题A",
+            "post_date": "2018-11-06",
+            "resi_date": "2020-02-07",
+            "cp_rate": 72.59
+          },
+          {
+            "fund_code": "006253",
+            "fundsname": "永赢消费主题C",
+            "post_date": "2018-11-06",
+            "resi_date": "2020-02-07",
+            "cp_rate": 71.94
+          },
+          {
+            "fund_code": "005711",
+            "fundsname": "永赢惠添利灵活配置混合",
+            "post_date": "2018-05-31",
+            "cp_rate": 122.67
+          },
+          {
+            "fund_code": "002522",
+            "fundsname": "永赢双利债券C",
+            "post_date": "2017-12-01",
+            "cp_rate": 25.2409
+          },
+          {
+            "fund_code": "002521",
+            "fundsname": "永赢双利债券A",
+            "post_date": "2017-12-01",
+            "cp_rate": 26.6664
+          },
+          {
+            "fund_code": "519738",
+            "fundsname": "交银周期回报灵活配置混合A",
+            "post_date": "2014-05-22",
+            "resi_date": "2015-06-01",
+            "cp_rate": 30.56
+          },
+          {
+            "fund_code": "519700",
+            "fundsname": "交银主题优选混合",
+            "post_date": "2012-03-20",
+            "resi_date": "2015-06-01",
+            "cp_rate": 127.4324
+          }
+        ]
+      },
+      {
+        "name": "陆海燕",
+        "resume": "    陆海燕女士, 东南大学金融学硕士,7年证券相关从业经验,曾担任泰信基金管理有限公司研究员,光大保德信基金管理有限公司研究员、 高级研究员、消费组组长、基金经理,现担任永赢基金管理有限公司权益投资部基金经理。",
+        "college": "东南大学",
+        "work_year": "8",
+        "achievement_list": [
+          {
+            "fund_code": "008618",
+            "fundsname": "永赢医药健康股票A",
+            "post_date": "2020-05-20",
+            "cp_rate": 19.73
+          },
+          {
+            "fund_code": "008619",
+            "fundsname": "永赢医药健康股票C",
+            "post_date": "2020-05-20",
+            "cp_rate": 19.6
+          },
+          {
+            "fund_code": "002521",
+            "fundsname": "永赢双利债券A",
+            "post_date": "2018-10-15",
+            "resi_date": "2020-06-18",
+            "cp_rate": 19.7263
+          },
+          {
+            "fund_code": "002522",
+            "fundsname": "永赢双利债券C",
+            "post_date": "2018-10-15",
+            "resi_date": "2020-06-18",
+            "cp_rate": 18.9735
+          },
+          {
+            "fund_code": "003115",
+            "fundsname": "光大保德信诚鑫灵活配置混合A",
+            "post_date": "2017-03-06",
+            "resi_date": "2018-05-05",
+            "cp_rate": 2.9412
+          },
+          {
+            "fund_code": "003116",
+            "fundsname": "光大保德信诚鑫灵活配置混合C",
+            "post_date": "2017-03-06",
+            "resi_date": "2018-05-05",
+            "cp_rate": 3.9163
+          },
+          {
+            "fund_code": "360005",
+            "fundsname": "光大保德信红利混合",
+            "post_date": "2016-04-26",
+            "resi_date": "2018-05-02",
+            "cp_rate": -4.094
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "008619",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 2,
+      "all_buy_days": 2,
+      "all_sale_days": 3
+    }
+  },
+  "result_code": 0
+}

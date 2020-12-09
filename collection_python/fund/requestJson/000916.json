@@ -1,0 +1,223 @@
+{
+  "data": {
+    "fund_company": "    前海开源基金管理有限公司经中国证监会(证监许可[2012]1751 号文)批准,于 2013 年 1 月 23 日注册成立。公司经营范围:基金募集、基金销售、特定客户资产管理、资产管理和中国证监会许可的其他业务。\n    前海开源基金立足国家金融创新合作区——深圳前海,依托深港紧密合作和融合发展,利用前海“特区中的特区”的区位优势和金融创新先行先试的政策优势,抓住人民币国际化的战略机遇,凭借完善的管理体制和创新的运营机制,吸纳海内外高端人才,全力打造专业化、创新型的现代财富管理机构,积极参与前海大开发和中国资产管理行业二次腾飞的潮流中。",
+    "fund_position": {
+      "stock_percent": 90,
+      "bond_percent": 7.53,
+      "cash_percent": 2.03,
+      "other_percent": 0.44,
+      "asset_tot": 264717303.07,
+      "asset_val": 262643965.88,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "大秦铁路",
+          "code": "601006",
+          "percent": 0.97,
+          "current_price": 6.77,
+          "change_percentage": 0.45,
+          "xq_symbol": "SH601006",
+          "xq_url": "https://xueqiu.com/S/SH601006",
+          "amarket": true
+        },
+        {
+          "name": "民生银行",
+          "code": "600016",
+          "percent": 0.97,
+          "current_price": 5.32,
+          "change_percentage": 0.76,
+          "xq_symbol": "SH600016",
+          "xq_url": "https://xueqiu.com/S/SH600016",
+          "amarket": true
+        },
+        {
+          "name": "宇通客车",
+          "code": "600066",
+          "percent": 0.97,
+          "current_price": 17.63,
+          "change_percentage": -1.12,
+          "xq_symbol": "SH600066",
+          "xq_url": "https://xueqiu.com/S/SH600066",
+          "amarket": true
+        },
+        {
+          "name": "步长制药",
+          "code": "603858",
+          "percent": 0.96,
+          "current_price": 25.12,
+          "change_percentage": -0.36,
+          "xq_symbol": "SH603858",
+          "xq_url": "https://xueqiu.com/S/SH603858",
+          "amarket": true
+        },
+        {
+          "name": "中国神华",
+          "code": "601088",
+          "percent": 0.96,
+          "current_price": 18.4,
+          "change_percentage": -0.43,
+          "xq_symbol": "SH601088",
+          "xq_url": "https://xueqiu.com/S/SH601088",
+          "amarket": true
+        },
+        {
+          "name": "北京银行",
+          "code": "601169",
+          "percent": 0.96,
+          "current_price": 4.94,
+          "change_percentage": -0.4,
+          "xq_symbol": "SH601169",
+          "xq_url": "https://xueqiu.com/S/SH601169",
+          "amarket": true
+        },
+        {
+          "name": "交通银行",
+          "code": "601328",
+          "percent": 0.96,
+          "current_price": 4.64,
+          "change_percentage": -0.22,
+          "xq_symbol": "SH601328",
+          "xq_url": "https://xueqiu.com/S/SH601328",
+          "amarket": true
+        },
+        {
+          "name": "兴业银行",
+          "code": "601166",
+          "percent": 0.96,
+          "current_price": 20.26,
+          "change_percentage": -1.17,
+          "xq_symbol": "SH601166",
+          "xq_url": "https://xueqiu.com/S/SH601166",
+          "amarket": true
+        },
+        {
+          "name": "华夏幸福",
+          "code": "600340",
+          "percent": 0.96,
+          "current_price": 14.53,
+          "change_percentage": 0.28,
+          "xq_symbol": "SH600340",
+          "xq_url": "https://xueqiu.com/S/SH600340",
+          "amarket": true
+        },
+        {
+          "name": "南钢股份",
+          "code": "600282",
+          "percent": 0.96,
+          "current_price": 3.17,
+          "change_percentage": -1.55,
+          "xq_symbol": "SH600282",
+          "xq_url": "https://xueqiu.com/S/SH600282",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "20进出08",
+          "code": "200308",
+          "percent": 7.59,
+          "xq_symbol": "200308",
+          "xq_url": "https://xueqiu.com/S/200308",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "000916",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<250万",
+          "value": "1.00"
+        },
+        {
+          "name": "250万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<366天",
+          "value": "0.500"
+        },
+        {
+          "name": "366天≤持有期限<731天",
+          "value": "0.250"
+        },
+        {
+          "name": "731天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "丁尧",
+        "resume": "    2014年1月加盟前海开源基金管理有限公司,曾任权益投资本部研究员,现任权益投资本部基金经理。",
+        "achievement_list": [
+          {
+            "fund_code": "000916",
+            "fundsname": "前海开源股息率100强股票",
+            "post_date": "2020-09-09",
+            "cp_rate": 7.5113
+          },
+          {
+            "fund_code": "001765",
+            "fundsname": "前海开源嘉鑫混合A",
+            "post_date": "2020-09-04",
+            "cp_rate": 2.4758
+          },
+          {
+            "fund_code": "001770",
+            "fundsname": "前海开源嘉鑫混合C",
+            "post_date": "2020-09-04",
+            "cp_rate": 2.4017
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "000916",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

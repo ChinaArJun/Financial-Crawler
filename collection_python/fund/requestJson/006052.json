@@ -1,0 +1,285 @@
+{
+  "data": {
+    "fund_position": {
+      "stock_percent": 92.37,
+      "bond_percent": 5.82,
+      "cash_percent": 1.49,
+      "other_percent": 0.32,
+      "asset_tot": 212638220.1,
+      "asset_val": 211229896.89,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 9.06,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 6.99,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "赣锋锂业",
+          "code": "002460",
+          "percent": 4.95,
+          "current_price": 82.24,
+          "change_percentage": 3.06,
+          "xq_symbol": "SZ002460",
+          "xq_url": "https://xueqiu.com/S/SZ002460",
+          "amarket": true
+        },
+        {
+          "name": "伊利股份",
+          "code": "600887",
+          "percent": 3.93,
+          "current_price": 40.68,
+          "change_percentage": 1.24,
+          "xq_symbol": "SH600887",
+          "xq_url": "https://xueqiu.com/S/SH600887",
+          "amarket": true
+        },
+        {
+          "name": "亿纬锂能",
+          "code": "300014",
+          "percent": 3.79,
+          "current_price": 63.71,
+          "change_percentage": 4.17,
+          "xq_symbol": "SZ300014",
+          "xq_url": "https://xueqiu.com/S/SZ300014",
+          "amarket": true
+        },
+        {
+          "name": "新宙邦",
+          "code": "300037",
+          "percent": 3.65,
+          "current_price": 99.89,
+          "change_percentage": 12.22,
+          "xq_symbol": "SZ300037",
+          "xq_url": "https://xueqiu.com/S/SZ300037",
+          "amarket": true
+        },
+        {
+          "name": "京东方A",
+          "code": "000725",
+          "percent": 3.61,
+          "current_price": 5.25,
+          "change_percentage": -0.57,
+          "xq_symbol": "SZ000725",
+          "xq_url": "https://xueqiu.com/S/SZ000725",
+          "amarket": true
+        },
+        {
+          "name": "平安银行",
+          "code": "000001",
+          "percent": 3.6,
+          "current_price": 18.71,
+          "change_percentage": -1.06,
+          "xq_symbol": "SZ000001",
+          "xq_url": "https://xueqiu.com/S/SZ000001",
+          "amarket": true
+        },
+        {
+          "name": "中科电气",
+          "code": "300035",
+          "percent": 3.57,
+          "current_price": 12.36,
+          "change_percentage": 2.49,
+          "xq_symbol": "SZ300035",
+          "xq_url": "https://xueqiu.com/S/SZ300035",
+          "amarket": true
+        },
+        {
+          "name": "东山精密",
+          "code": "002384",
+          "percent": 3.54,
+          "current_price": 29.41,
+          "change_percentage": -0.37,
+          "xq_symbol": "SZ002384",
+          "xq_url": "https://xueqiu.com/S/SZ002384",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "开贴2002",
+          "code": "108609",
+          "percent": 3.92,
+          "xq_symbol": "108609",
+          "xq_url": "https://xueqiu.com/S/108609",
+          "amarket": false
+        },
+        {
+          "name": "20国债10",
+          "code": "019640",
+          "percent": 1.52,
+          "xq_symbol": "019640",
+          "xq_url": "https://xueqiu.com/S/019640",
+          "amarket": false
+        },
+        {
+          "name": "裕同转债",
+          "code": "128104",
+          "percent": 0.32,
+          "xq_symbol": "128104",
+          "xq_url": "https://xueqiu.com/S/128104",
+          "amarket": false
+        },
+        {
+          "name": "20国债01",
+          "code": "019627",
+          "percent": 0.09,
+          "xq_symbol": "019627",
+          "xq_url": "https://xueqiu.com/S/019627",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "006052",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.500"
+        },
+        {
+          "name": "30天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.40"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "邓彬彬",
+        "resume": "    邓彬彬先生:股票投资部基金经理,中国人民银行研究生部金融学硕士。曾任国投瑞银基金管理有限公司研究员、基金经理助理、投资经理、基金经理,华夏基金管理有限公司研究员、基金经理,百毅资本管理有限公司投资经理。鹏扬核心价值灵活配置混合型证券投资基金基金经理(2020年6月29日起任职),鹏扬景恒六个月持有期混合型证券投资基金基金经理(2020年6月29日起任职)。",
+        "college": "中国人民银行研究生部",
+        "work_year": "13",
+        "achievement_list": [
+          {
+            "fund_code": "009131",
+            "fundsname": "鹏扬景恒六个月持有期混合C",
+            "post_date": "2020-06-29",
+            "cp_rate": 7.3802
+          },
+          {
+            "fund_code": "009130",
+            "fundsname": "鹏扬景恒六个月持有期混合A",
+            "post_date": "2020-06-29",
+            "cp_rate": 7.5762
+          },
+          {
+            "fund_code": "006052",
+            "fundsname": "鹏扬核心价值混合C",
+            "post_date": "2020-06-29",
+            "cp_rate": 39.7443
+          },
+          {
+            "fund_code": "006051",
+            "fundsname": "鹏扬核心价值混合A",
+            "post_date": "2020-06-29",
+            "cp_rate": 39.98
+          },
+          {
+            "fund_code": "005353",
+            "fundsname": "鹏扬景泰成长混合C",
+            "post_date": "2020-06-29",
+            "cp_rate": 44.4481
+          },
+          {
+            "fund_code": "005352",
+            "fundsname": "鹏扬景泰成长混合A",
+            "post_date": "2020-06-29",
+            "cp_rate": 44.719
+          },
+          {
+            "fund_code": "006736",
+            "fundsname": "国投瑞银先进制造混合",
+            "post_date": "2019-01-25",
+            "resi_date": "2020-02-07",
+            "cp_rate": 55.47
+          },
+          {
+            "fund_code": "001218",
+            "fundsname": "国投瑞银精选收益混合",
+            "post_date": "2018-01-06",
+            "resi_date": "2019-12-28",
+            "cp_rate": -1.4885
+          },
+          {
+            "fund_code": "001704",
+            "fundsname": "国投瑞银进宝灵活配置混合",
+            "post_date": "2017-09-02",
+            "resi_date": "2020-02-07",
+            "cp_rate": 58.4288
+          },
+          {
+            "fund_code": "001704",
+            "fundsname": "国投瑞银进宝保本混合",
+            "post_date": "2017-08-30",
+            "resi_date": "2017-09-01",
+            "cp_rate": 0.0097
+          },
+          {
+            "fund_code": "002011",
+            "fundsname": "华夏红利混合",
+            "post_date": "2015-03-17",
+            "resi_date": "2015-07-27",
+            "cp_rate": 15.0977
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "006052",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "fund_company": "    西部利得基金管理有限公司西部利得基金管理有限公司(Western Leadbank Fund Management Co.,Ltd.,简称“西部利得基金”)于2010年7月20日在上海成立,注册资本3亿元人民币。其中西部证券股份有限公司持有51%股份,上海利得财富资产管理有限公司持有49%股份。\n    公司以打造良好业绩、为投资者获取长期收益为重,以丰富的产品和周到的服务为投资者创造收益。",
+    "fund_position": {
+      "stock_percent": 89.64,
+      "bond_percent": 0.36,
+      "cash_percent": 9.11,
+      "other_percent": 0.89,
+      "asset_tot": 3704163.56,
+      "asset_val": 3615362.9,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 4.62,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "中国平安",
+          "code": "601318",
+          "percent": 4.01,
+          "current_price": 88.05,
+          "change_percentage": -2.58,
+          "xq_symbol": "SH601318",
+          "xq_url": "https://xueqiu.com/S/SH601318",
+          "amarket": true
+        },
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 2.7,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "中国中免",
+          "code": "601888",
+          "percent": 2.47,
+          "current_price": 208.03,
+          "change_percentage": 0.13,
+          "xq_symbol": "SH601888",
+          "xq_url": "https://xueqiu.com/S/SH601888",
+          "amarket": true
+        },
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 2.45,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "比亚迪",
+          "code": "002594",
+          "percent": 2.25,
+          "current_price": 177.97,
+          "change_percentage": 1.53,
+          "xq_symbol": "SZ002594",
+          "xq_url": "https://xueqiu.com/S/SZ002594",
+          "amarket": true
+        },
+        {
+          "name": "海康威视",
+          "code": "002415",
+          "percent": 2.11,
+          "current_price": 44.28,
+          "change_percentage": -1.16,
+          "xq_symbol": "SZ002415",
+          "xq_url": "https://xueqiu.com/S/SZ002415",
+          "amarket": true
+        },
+        {
+          "name": "汇川技术",
+          "code": "300124",
+          "percent": 2.08,
+          "current_price": 85.58,
+          "change_percentage": 1.04,
+          "xq_symbol": "SZ300124",
+          "xq_url": "https://xueqiu.com/S/SZ300124",
+          "amarket": true
+        },
+        {
+          "name": "东方雨虹",
+          "code": "002271",
+          "percent": 1.94,
+          "current_price": 35.92,
+          "change_percentage": 0.25,
+          "xq_symbol": "SZ002271",
+          "xq_url": "https://xueqiu.com/S/SZ002271",
+          "amarket": true
+        },
+        {
+          "name": "招商银行",
+          "code": "600036",
+          "percent": 1.89,
+          "current_price": 44.26,
+          "change_percentage": -0.36,
+          "xq_symbol": "SH600036",
+          "xq_url": "https://xueqiu.com/S/SH600036",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "21国债⑺",
+          "code": "010107",
+          "percent": 0.28,
+          "xq_symbol": "010107",
+          "xq_url": "https://xueqiu.com/S/010107",
+          "amarket": false
+        },
+        {
+          "name": "隆20转债",
+          "code": "113038",
+          "percent": 0.08,
+          "xq_symbol": "113038",
+          "xq_url": "https://xueqiu.com/S/113038",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "671030",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<200万",
+          "value": "1.20"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<180天",
+          "value": "0.500"
+        },
+        {
+          "name": "6月≤持有期限<12月",
+          "value": "0.200"
+        },
+        {
+          "name": "1年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.20"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.20"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "童国林",
+        "resume": "    童国林先生,总经理助理、机构部基金经理,硕士毕业于中南财经大学货币银行学专业。24年证券从业年限。曾任深圳中航企业集团财务部会计,君安证券公司研究所研究员,甘肃证券深圳代表处投资经理,华宝兴业基金公司研究总监、基金经理,富国基金公司首席策略分析师,天弘基金公司总经理助理兼投资总监,上海安苏投资管理有限公司总经理,长江证券股份有限公司投资经理,长江证券(上海)资产管理有限公司权益投资部总经理,凱石基金管理有限公司投资八部总经理。于2018年11月加入西部利得基金管理有限公司 ,现任总经理助理、机构部基金经理。自2019年6月起担任西部利得祥盈债券型证券投资基金的基金经理。",
+        "work_year": "21",
+        "achievement_list": [
+          {
+            "fund_code": "671030",
+            "fundsname": "西部利得事件驱动股票",
+            "post_date": "2020-02-24",
+            "cp_rate": 25.9579
+          },
+          {
+            "fund_code": "675081",
+            "fundsname": "西部利得祥盈债券A",
+            "post_date": "2019-06-04",
+            "cp_rate": 15.3174
+          },
+          {
+            "fund_code": "675083",
+            "fundsname": "西部利得祥盈债券C",
+            "post_date": "2019-06-04",
+            "cp_rate": 15.0135
+          },
+          {
+            "fund_code": "240005",
+            "fundsname": "华宝兴业多策略股票",
+            "post_date": "2004-05-11",
+            "resi_date": "2006-04-28",
+            "cp_rate": 22.51
+          }
+        ]
+      },
+      {
+        "name": "张昌平",
+        "resume": "    硕士毕业于复旦大学金融学专业。曾任兴业证券股 份有 限公司资产管理部研究员,兴业证券股份有限公司兴证证券资 产管 理分公司投资主办、兴证证券资产管理有限公司权益投 资部 投资主办。于 2020年 9月 加入 西部利得基金管理有限公司公司 ,具有基金从业资格 ,中国国籍。",
+        "college": "复旦大学",
+        "achievement_list": [
+          {
+            "fund_code": "671030",
+            "fundsname": "西部利得事件驱动股票",
+            "post_date": "2020-11-05",
+            "cp_rate": 4.5888
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "671030",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

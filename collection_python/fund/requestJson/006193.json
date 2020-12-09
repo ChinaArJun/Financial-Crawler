@@ -1,0 +1,291 @@
+{
+  "data": {
+    "fund_company": "    鑫元基金管理有限公司经中国证监会批准,于2013年9月12日在上海正式成立。由南京银行股份有限公司发起,与南京高科股份有限公司联合组建。注册资本金2亿元人民币,总部设在上海。鑫元基金经营范围包括基金募集、基金销售、特定客户资产管理、资产管理和中国证监会许可的其他业务。\n    鑫元基金专注于固定收益资产管理细分市场。与国际市场相比,中国债券市场尚处于起步阶段,固定收益市场的前景非常广阔。各类投资者需要大量收益稳健、风险较低的金融产品来进行专业化资产配置和流动性管理,固定收益类产品将成为资产管理的核心配置。可以预见,固定收益类产品更将迎来黄金发展期,投资标的、投资策略和投资技术的创新将开启理财市场的大时代。此外,鑫元基金也将根据市场变化适当运用权益策略、衍生品工具等,力争为固定收益投资做正向加强,追求长期持续的稳定回报。\n    以“责任金融 和谐共赢”为宗旨的“益“文化。鑫元基金努力践行“责任金融”使命,积极履行对于“客户、股东、员工、社会”所承诺的责任,营造公司与各利益相关方相得益彰的“和谐共赢”局面,最终实现金融增益,普惠社会的终极使命。\"客户收益、资本增益、公司利益、员工获益、社会公益”是鑫元基金“益”文化的核心。\n    截止2016年12月31日,公司旗下管理16只公募产品,包括2只货币型基金,13只债券型基金。1只混合型基金。另外,鑫元基金也为高端客户提供量身定制的,与其风险收益特征、投资期限及现金流相匹配的专户产品或投资咨询服务。",
+    "fund_position": {
+      "stock_percent": 87.43,
+      "cash_percent": 12.3,
+      "other_percent": 0.27,
+      "asset_tot": 18733174.72,
+      "asset_val": 18095818.43,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 9.22,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "腾讯控股",
+          "code": "00700",
+          "percent": 7.45,
+          "xq_symbol": "00700",
+          "xq_url": "https://xueqiu.com/S/00700",
+          "amarket": false
+        },
+        {
+          "name": "恒瑞医药",
+          "code": "600276",
+          "percent": 7.28,
+          "current_price": 90.07,
+          "change_percentage": 0.21,
+          "xq_symbol": "SH600276",
+          "xq_url": "https://xueqiu.com/S/SH600276",
+          "amarket": true
+        },
+        {
+          "name": "格力电器",
+          "code": "000651",
+          "percent": 5.89,
+          "current_price": 65.66,
+          "change_percentage": -3.44,
+          "xq_symbol": "SZ000651",
+          "xq_url": "https://xueqiu.com/S/SZ000651",
+          "amarket": true
+        },
+        {
+          "name": "中信证券",
+          "code": "06030",
+          "percent": 4.18,
+          "xq_symbol": "06030",
+          "xq_url": "https://xueqiu.com/S/06030",
+          "amarket": false
+        },
+        {
+          "name": "香港交易所",
+          "code": "00388",
+          "percent": 3.51,
+          "xq_symbol": "00388",
+          "xq_url": "https://xueqiu.com/S/00388",
+          "amarket": false
+        },
+        {
+          "name": "三一重工",
+          "code": "600031",
+          "percent": 3.4,
+          "current_price": 31.48,
+          "change_percentage": -1.41,
+          "xq_symbol": "SH600031",
+          "xq_url": "https://xueqiu.com/S/SH600031",
+          "amarket": true
+        },
+        {
+          "name": "中信证券",
+          "code": "600030",
+          "percent": 3.32,
+          "current_price": 30.01,
+          "change_percentage": 0,
+          "xq_symbol": "SH600030",
+          "xq_url": "https://xueqiu.com/S/SH600030",
+          "amarket": true
+        },
+        {
+          "name": "顺鑫农业",
+          "code": "000860",
+          "percent": 3.32,
+          "current_price": 64.72,
+          "change_percentage": 3.39,
+          "xq_symbol": "SZ000860",
+          "xq_url": "https://xueqiu.com/S/SZ000860",
+          "amarket": true
+        },
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 2.93,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "006193",
+      "subscribe_rate": "0",
+      "declare_rate": "1.20",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.20"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<180天",
+          "value": "0.500"
+        },
+        {
+          "name": "180天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "丁玥",
+        "resume": "    丁玥女士,学历:金融工程硕士研究生。相关业务资格:证券投资基金从业资格。从业经历:2009年7月至2015年7月,任职于中国国际金融有限公司,担任研究部副总经理,2015年7月加入鑫元基金担信用研究主管,2016年7月担任研究部总监,2018年6月担任权益投研部总监兼首席权益投资官。2016年7月26日起担任鑫元聚鑫收益增强债券型证券投资基金(原鑫元半年定期开放债券型证券投资基金)的基金经理,2017年9月4日起担任鑫元鑫趋势灵活配置混合型证券投资基金的基金经理,2017年12月14日起担任鑫元欣享灵活配置混合型证券投资基金的基金经理,2018年1月23日起担任鑫元价值精选灵活配置混合型证券投资基金的基金经理,2018年5月31日至2019年6月11日担任鑫元行业轮动灵活配置混合型发起式证券投资基金的基金经理,2018年11月14日起担任鑫元核心资产股票型发起式证券投资基金的基金经理;同时兼任基金投资决策委员会委员。",
+        "work_year": "11",
+        "achievement_list": [
+          {
+            "fund_code": "006194",
+            "fundsname": "鑫元核心资产股票C",
+            "post_date": "2018-11-14",
+            "cp_rate": 48.45
+          },
+          {
+            "fund_code": "006193",
+            "fundsname": "鑫元核心资产股票A",
+            "post_date": "2018-11-14",
+            "cp_rate": 50.05
+          },
+          {
+            "fund_code": "005950",
+            "fundsname": "鑫元行业轮动混合C",
+            "post_date": "2018-05-31",
+            "resi_date": "2019-06-11"
+          },
+          {
+            "fund_code": "005949",
+            "fundsname": "鑫元行业轮动混合A",
+            "post_date": "2018-05-31",
+            "resi_date": "2019-06-11",
+            "cp_rate": -1.97
+          },
+          {
+            "fund_code": "000897",
+            "fundsname": "鑫元聚鑫收益增强债券C",
+            "post_date": "2018-04-11",
+            "resi_date": "2019-08-30",
+            "cp_rate": 8.0882
+          },
+          {
+            "fund_code": "000896",
+            "fundsname": "鑫元聚鑫收益增强债券A",
+            "post_date": "2018-04-11",
+            "resi_date": "2019-08-30",
+            "cp_rate": 8.7084
+          },
+          {
+            "fund_code": "005494",
+            "fundsname": "鑫元价值精选C",
+            "post_date": "2018-01-23",
+            "cp_rate": 13.24
+          },
+          {
+            "fund_code": "005493",
+            "fundsname": "鑫元价值精选A",
+            "post_date": "2018-01-23",
+            "cp_rate": 14.85
+          },
+          {
+            "fund_code": "005262",
+            "fundsname": "鑫元欣享灵活配置混合A",
+            "post_date": "2017-12-14",
+            "resi_date": "2019-08-30",
+            "cp_rate": -2.94
+          },
+          {
+            "fund_code": "005263",
+            "fundsname": "鑫元欣享灵活配置混合C",
+            "post_date": "2017-12-14",
+            "resi_date": "2019-08-30",
+            "cp_rate": -3.59
+          },
+          {
+            "fund_code": "004948",
+            "fundsname": "鑫元鑫趋势灵活配置混合C",
+            "post_date": "2017-09-04",
+            "cp_rate": 36.2002
+          },
+          {
+            "fund_code": "004944",
+            "fundsname": "鑫元鑫趋势灵活配置混合A",
+            "post_date": "2017-09-04",
+            "cp_rate": 38.3939
+          },
+          {
+            "fund_code": "000897",
+            "fundsname": "鑫元半年定期开放债券C",
+            "post_date": "2016-07-26",
+            "resi_date": "2018-04-10",
+            "cp_rate": 1.2533
+          },
+          {
+            "fund_code": "000896",
+            "fundsname": "鑫元半年定期开放债券A",
+            "post_date": "2016-07-26",
+            "resi_date": "2018-04-10",
+            "cp_rate": 2.0359
+          }
+        ]
+      },
+      {
+        "name": "林启姜",
+        "resume": "    2017年2月加入鑫元基金担任权益研究员,2020年8月担任基金经理助理,2020年9月14日起担任鑫元核心资产股票型发起式证券投资基金的基金经理。",
+        "achievement_list": [
+          {
+            "fund_code": "006193",
+            "fundsname": "鑫元核心资产股票A",
+            "post_date": "2020-09-14",
+            "cp_rate": 4.3899
+          },
+          {
+            "fund_code": "006194",
+            "fundsname": "鑫元核心资产股票C",
+            "post_date": "2020-09-14",
+            "cp_rate": 4.1974
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "006193",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

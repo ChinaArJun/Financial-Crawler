@@ -1,0 +1,220 @@
+{
+  "data": {
+    "fund_company": "    创金合信基金管理有限公司由第一创业证券股份有限公司(占70%)、深圳市金合信投资合伙企业(有限合伙)(占30%)共同发起设立。注册资本:1.7亿元人民币。注册地:深圳。创金合信基金倡导合伙文化,实施合伙制,并在投研体系着力打造吸引并留住优秀人才的平台:事业部制和工作室。\n    第一创业证券股份有限公司是经中国证监会批准,由华熙昕宇、首创集团等多家实力雄厚的股东投资设立的全国性综合类证券公司。公司注册地在深圳市,注册资本金为人民币21.89亿元人民币,,总部设在深圳,员工总数超过1900人。2016年5月11日,公司首次公开发行股票并在深圳证券交易所上市交易,证券简称 “第一创业”,证券代码“002797”。深圳金合信投资合伙企业(有限合伙)由创金合信基金经营管理层及多名核心员工投资设立,仅用于持有创金合信基金股权。\n    创金合信基金成立于2014年7月,员工基于第一创业证券创金资产团队。创金资产团队于2010年初组建,曾屡次获得权威奖项。创金资产团队2012年、2013年连续两次获《上海证券报》中国券商理财金榜评选“综合管理实力大奖”;创金资产团队2013年获《中国证券报》金牛理财网“金牛券商集合资产管理人奖”;创金资产品牌2013年、2014年连续两次获《证券时报》中国最佳财富管理机构评选“中国最佳财富管理品牌”。",
+    "fund_position": {
+      "stock_percent": 90.42,
+      "cash_percent": 5.4,
+      "other_percent": 4.18,
+      "asset_tot": 348181011.03,
+      "asset_val": 333483794.1,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "三一重工",
+          "code": "600031",
+          "percent": 9.09,
+          "current_price": 31.48,
+          "change_percentage": -1.41,
+          "xq_symbol": "SH600031",
+          "xq_url": "https://xueqiu.com/S/SH600031",
+          "amarket": true
+        },
+        {
+          "name": "宁德时代",
+          "code": "300750",
+          "percent": 9.08,
+          "current_price": 266.03,
+          "change_percentage": 1.75,
+          "xq_symbol": "SZ300750",
+          "xq_url": "https://xueqiu.com/S/SZ300750",
+          "amarket": true
+        },
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 9.02,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "通威股份",
+          "code": "600438",
+          "percent": 8.95,
+          "current_price": 29.2,
+          "change_percentage": -1.85,
+          "xq_symbol": "SH600438",
+          "xq_url": "https://xueqiu.com/S/SH600438",
+          "amarket": true
+        },
+        {
+          "name": "东方雨虹",
+          "code": "002271",
+          "percent": 8.2,
+          "current_price": 35.92,
+          "change_percentage": 0.25,
+          "xq_symbol": "SZ002271",
+          "xq_url": "https://xueqiu.com/S/SZ002271",
+          "amarket": true
+        },
+        {
+          "name": "恩捷股份",
+          "code": "002812",
+          "percent": 6.18,
+          "current_price": 108,
+          "change_percentage": 0.88,
+          "xq_symbol": "SZ002812",
+          "xq_url": "https://xueqiu.com/S/SZ002812",
+          "amarket": true
+        },
+        {
+          "name": "晶澳科技",
+          "code": "002459",
+          "percent": 4.2,
+          "current_price": 32.99,
+          "change_percentage": 0.49,
+          "xq_symbol": "SZ002459",
+          "xq_url": "https://xueqiu.com/S/SZ002459",
+          "amarket": true
+        },
+        {
+          "name": "万华化学",
+          "code": "600309",
+          "percent": 4.11,
+          "current_price": 82.99,
+          "change_percentage": -0.3,
+          "xq_symbol": "SH600309",
+          "xq_url": "https://xueqiu.com/S/SH600309",
+          "amarket": true
+        },
+        {
+          "name": "中国巨石",
+          "code": "600176",
+          "percent": 4.04,
+          "current_price": 16.68,
+          "change_percentage": 0,
+          "xq_symbol": "SH600176",
+          "xq_url": "https://xueqiu.com/S/SH600176",
+          "amarket": true
+        },
+        {
+          "name": "龙蟒佰利",
+          "code": "002601",
+          "percent": 4.02,
+          "current_price": 31.77,
+          "change_percentage": 2.22,
+          "xq_symbol": "SZ002601",
+          "xq_url": "https://xueqiu.com/S/SZ002601",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "005968",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<300万",
+          "value": "1.00"
+        },
+        {
+          "name": "300万≤买入金额<500万",
+          "value": "0.50"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<180天",
+          "value": "0.500"
+        },
+        {
+          "name": "180天≤持有期限<365天",
+          "value": "0.250"
+        },
+        {
+          "name": "365天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "李游",
+        "resume": "    李游先生,中国国籍,中南财经政法大学金融学硕士,曾在五矿期货有限公司、华创证券有限责任公司、第一创业证券股份有限公司任研究员,2014年8月加入创金合信基金管理有限公司任研究部行业研究员,现任创金合信资源主题精选股票型发起式证券投资基金基金经理(2016年11月2日起任职),创金合信工业周期精选股票型发起式证券投资基金基金经理(2018年5月17日起任职)。",
+        "college": "中南财经政法大学",
+        "achievement_list": [
+          {
+            "fund_code": "005968",
+            "fundsname": "创金合信工业周期股票A",
+            "post_date": "2018-05-17",
+            "cp_rate": 138.32
+          },
+          {
+            "fund_code": "005969",
+            "fundsname": "创金合信工业周期股票C",
+            "post_date": "2018-05-17",
+            "cp_rate": 134.33
+          },
+          {
+            "fund_code": "003624",
+            "fundsname": "创金合信资源主题精选股票A",
+            "post_date": "2016-11-02",
+            "cp_rate": 81.78
+          },
+          {
+            "fund_code": "003625",
+            "fundsname": "创金合信资源主题精选股票C",
+            "post_date": "2016-11-02",
+            "cp_rate": 77.93
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "005968",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 2,
+      "all_buy_days": 2,
+      "all_sale_days": 3
+    }
+  },
+  "result_code": 0
+}

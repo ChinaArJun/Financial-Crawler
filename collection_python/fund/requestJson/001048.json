@@ -1,0 +1,284 @@
+{
+  "data": {
+    "fund_company": "    富国基金管理有限公司成立于1999年,是经中国证监会批准设立的首批十家基金管理公司之一。2003年,加拿大历史最悠久的银行——加拿大蒙特利尔银行(BMO)参股富国基金,富国基金管理有限公司又成为国内首批成立的十家基金公司中第一家外资参股的基金管理公司。\n    富国基金管理有限公司不仅在中国股市的巨变中积累了丰富的投资管理经验,而且享有外方股东输入的先进理念和管理技术。经过九年的发展,公司共管理运作十一只基金,包括汉盛、汉兴、汉鼎三只封闭式证券投资基金和富国天源、富国天博、富国天利债券、富国天益价值、富国天瑞强势地区精选、富国天惠精选成长、富国天时货币市场基金和富国天合稳健优选基金八只开放式证券投资基金,截至2007年四季度末,管理资产规模超过600亿元。",
+    "fund_position": {
+      "stock_percent": 93.33,
+      "bond_percent": 1.57,
+      "cash_percent": 4.59,
+      "other_percent": 0.51,
+      "asset_tot": 1282795672.8,
+      "asset_val": 1272912630.31,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "金山办公",
+          "code": "688111",
+          "percent": 2.97,
+          "current_price": 349.5,
+          "change_percentage": -2.75,
+          "xq_symbol": "SH688111",
+          "xq_url": "https://xueqiu.com/S/SH688111",
+          "amarket": true
+        },
+        {
+          "name": "广联达",
+          "code": "002410",
+          "percent": 2.97,
+          "current_price": 70.77,
+          "change_percentage": 2.08,
+          "xq_symbol": "SZ002410",
+          "xq_url": "https://xueqiu.com/S/SZ002410",
+          "amarket": true
+        },
+        {
+          "name": "捷佳伟创",
+          "code": "300724",
+          "percent": 2.77,
+          "current_price": 124.78,
+          "change_percentage": 0.58,
+          "xq_symbol": "SZ300724",
+          "xq_url": "https://xueqiu.com/S/SZ300724",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 2.73,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 2.6,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "韦尔股份",
+          "code": "603501",
+          "percent": 2.49,
+          "current_price": 218,
+          "change_percentage": 0.53,
+          "xq_symbol": "SH603501",
+          "xq_url": "https://xueqiu.com/S/SH603501",
+          "amarket": true
+        },
+        {
+          "name": "健帆生物",
+          "code": "300529",
+          "percent": 2.38,
+          "current_price": 68.76,
+          "change_percentage": -0.28,
+          "xq_symbol": "SZ300529",
+          "xq_url": "https://xueqiu.com/S/SZ300529",
+          "amarket": true
+        },
+        {
+          "name": "智飞生物",
+          "code": "300122",
+          "percent": 2.28,
+          "current_price": 139.38,
+          "change_percentage": -0.39,
+          "xq_symbol": "SZ300122",
+          "xq_url": "https://xueqiu.com/S/SZ300122",
+          "amarket": true
+        },
+        {
+          "name": "恒生电子",
+          "code": "600570",
+          "percent": 2.12,
+          "current_price": 98.15,
+          "change_percentage": 1.31,
+          "xq_symbol": "SH600570",
+          "xq_url": "https://xueqiu.com/S/SH600570",
+          "amarket": true
+        },
+        {
+          "name": "福斯特",
+          "code": "603806",
+          "percent": 2.11,
+          "current_price": 73.08,
+          "change_percentage": 2.21,
+          "xq_symbol": "SH603806",
+          "xq_url": "https://xueqiu.com/S/SH603806",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "18国开08",
+          "code": "180208",
+          "percent": 1.58,
+          "xq_symbol": "180208",
+          "xq_url": "https://xueqiu.com/S/180208",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "001048",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "1.20"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.300"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "方纬",
+        "resume": "    方纬先生,经济学硕士。2003年9月至2005年1月任上海金信研究所研究员;2005年1月至2007年2月任万家基金管理有限公司高级研究员;2007年2月加入华泰柏瑞基金管理有限公司,历任研究员、高级研究员、基金经理助理。2014年8月起任华泰柏瑞价值增长混合型证券投资基金的基金经理。2015年4月至2016年8月任华泰柏瑞新利灵活配置混合型证券投资基金的基金经理。2015年5月起任华泰柏瑞消费成长灵活配置混合型证券投资基金的基金经理。2015年5月至2016年8月任华泰柏瑞惠利灵活配置混合型证券投资基金的基金经理。2015年8月至2016年11月任华泰柏瑞中国制造2025灵活配置混合型证券投资基金的基金经理。2016年3月至2017年6月任华泰柏瑞精选回报灵活配置混合型证券投资基金的基金经理。2016年9月至2019年12月任华泰柏瑞多策略灵活配置混合型证券投资基金的基金经理 ; 2020年3月加入富国基金管理有限公司,2020年7月起任富国新兴产业股票型证券投资基金基金经理。",
+        "work_year": "17",
+        "achievement_list": [
+          {
+            "fund_code": "010109",
+            "fundsname": "富国价值增长混合",
+            "post_date": "2020-09-14",
+            "cp_rate": 1.66
+          },
+          {
+            "fund_code": "001048",
+            "fundsname": "富国新兴产业股票",
+            "post_date": "2020-07-03",
+            "cp_rate": 19.2911
+          },
+          {
+            "fund_code": "003175",
+            "fundsname": "华泰柏瑞多策略灵活配置混合",
+            "post_date": "2016-09-29",
+            "resi_date": "2019-12-09",
+            "cp_rate": 23.25
+          },
+          {
+            "fund_code": "001524",
+            "fundsname": "华泰柏瑞精选回报混合",
+            "post_date": "2016-03-29",
+            "resi_date": "2017-06-02",
+            "cp_rate": 2.93
+          },
+          {
+            "fund_code": "002094",
+            "fundsname": "华泰柏瑞制造2025混合C",
+            "post_date": "2015-11-19",
+            "resi_date": "2016-11-02",
+            "cp_rate": -17.0667
+          },
+          {
+            "fund_code": "002091",
+            "fundsname": "华泰柏瑞新利混合C",
+            "post_date": "2015-11-19",
+            "resi_date": "2016-08-17",
+            "cp_rate": 2.5851
+          },
+          {
+            "fund_code": "001456",
+            "fundsname": "华泰柏瑞制造2025混合A",
+            "post_date": "2015-08-04",
+            "resi_date": "2016-11-02",
+            "cp_rate": -6.8
+          },
+          {
+            "fund_code": "001341",
+            "fundsname": "华泰柏瑞惠利灵活混合C",
+            "post_date": "2015-05-25",
+            "resi_date": "2016-08-17",
+            "cp_rate": 1
+          },
+          {
+            "fund_code": "001340",
+            "fundsname": "华泰柏瑞惠利灵活混合A",
+            "post_date": "2015-05-25",
+            "resi_date": "2016-08-17",
+            "cp_rate": 5.3
+          },
+          {
+            "fund_code": "001069",
+            "fundsname": "华泰柏瑞消费成长混合",
+            "post_date": "2015-05-20",
+            "resi_date": "2020-03-23",
+            "cp_rate": 61.4
+          },
+          {
+            "fund_code": "001247",
+            "fundsname": "华泰柏瑞新利混合A",
+            "post_date": "2015-04-28",
+            "resi_date": "2016-08-17",
+            "cp_rate": 4.54
+          },
+          {
+            "fund_code": "460005",
+            "fundsname": "华泰柏瑞价值增长混合",
+            "post_date": "2014-08-22",
+            "resi_date": "2020-03-23",
+            "cp_rate": 259.7788
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "001048",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

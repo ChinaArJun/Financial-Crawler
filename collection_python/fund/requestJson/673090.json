@@ -1,0 +1,305 @@
+{
+  "data": {
+    "fund_company": "    西部利得基金管理有限公司西部利得基金管理有限公司(Western Leadbank Fund Management Co.,Ltd.,简称“西部利得基金”)于2010年7月20日在上海成立,注册资本3亿元人民币。其中西部证券股份有限公司持有51%股份,上海利得财富资产管理有限公司持有49%股份。\n    公司以打造良好业绩、为投资者获取长期收益为重,以丰富的产品和周到的服务为投资者创造收益。",
+    "fund_position": {
+      "stock_percent": 78.62,
+      "cash_percent": 15.67,
+      "other_percent": 5.71,
+      "asset_tot": 176210743.84,
+      "asset_val": 165878367.57,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 3.72,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "中国平安",
+          "code": "601318",
+          "percent": 3.24,
+          "current_price": 88.05,
+          "change_percentage": -2.58,
+          "xq_symbol": "SH601318",
+          "xq_url": "https://xueqiu.com/S/SH601318",
+          "amarket": true
+        },
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 2.94,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "美的集团",
+          "code": "000333",
+          "percent": 2.28,
+          "current_price": 86.7,
+          "change_percentage": -1.54,
+          "xq_symbol": "SZ000333",
+          "xq_url": "https://xueqiu.com/S/SZ000333",
+          "amarket": true
+        },
+        {
+          "name": "格力电器",
+          "code": "000651",
+          "percent": 1.62,
+          "current_price": 65.66,
+          "change_percentage": -3.44,
+          "xq_symbol": "SZ000651",
+          "xq_url": "https://xueqiu.com/S/SZ000651",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 1.55,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "招商银行",
+          "code": "600036",
+          "percent": 1.48,
+          "current_price": 44.26,
+          "change_percentage": -0.36,
+          "xq_symbol": "SH600036",
+          "xq_url": "https://xueqiu.com/S/SH600036",
+          "amarket": true
+        },
+        {
+          "name": "恒瑞医药",
+          "code": "600276",
+          "percent": 1.41,
+          "current_price": 90.07,
+          "change_percentage": 0.21,
+          "xq_symbol": "SH600276",
+          "xq_url": "https://xueqiu.com/S/SH600276",
+          "amarket": true
+        },
+        {
+          "name": "万科A",
+          "code": "000002",
+          "percent": 1.16,
+          "current_price": 29.18,
+          "change_percentage": -0.78,
+          "xq_symbol": "SZ000002",
+          "xq_url": "https://xueqiu.com/S/SZ000002",
+          "amarket": true
+        },
+        {
+          "name": "中信证券",
+          "code": "600030",
+          "percent": 1.08,
+          "current_price": 30.01,
+          "change_percentage": 0,
+          "xq_symbol": "SH600030",
+          "xq_url": "https://xueqiu.com/S/SH600030",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "673090",
+      "subscribe_rate": "0",
+      "declare_rate": "1.20",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.20"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.00"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<90天",
+          "value": "0.500"
+        },
+        {
+          "name": "3月≤持有期限<6月",
+          "value": "0.500"
+        },
+        {
+          "name": "6月≤持有期限<12月",
+          "value": "0.200"
+        },
+        {
+          "name": "1年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.20"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.20"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "刘荟",
+        "resume": "    刘荟女士,公募投资部副总经理、基金经理,硕士毕业于辽宁大学应用数学专业。11年证券从业年限。曾任群益证券股份有限公司研究员。2014年1月加入西部利得基金管理有限公司,曾任研究员,现任公募投资部副总经理、基金经理。自2016年1月起担任西部利得策略优选混合型证券投资基金的基金经理,自2016年8月至2017年10月担任西部利得景瑞灵活配置混合型证券投资基金的基金经理,自2016年11月至2017年12月担任西部利得新动力灵活配置混合型证券投资基金的基金经理,自2017年1月至2018年5月担任西部利得个股精选股票型证券投资基金的基金经理,自2017年3月至2018年5月担任西部利得久安回报灵活配置混合型证券投资基金的基金经理,自2017年7月至2019年6月担任西部利得祥盈债券型证券投资基金的基金经理,自2018年6月起担任西部利得景程灵活配置混合型证券投资基金的基金经理,自2018年9月起担任西部利得事件驱动股票型证券投资基金的基金经理,自2019年3月担任西部利得个股精选股票型证券投资基金的基金经理,自2019年4月担任西部利得新动向灵活配置混合型证券投资基金的基金经理。",
+        "college": "辽宁大学",
+        "work_year": "12",
+        "achievement_list": [
+          {
+            "fund_code": "007424",
+            "fundsname": "西部利得聚禾混合C",
+            "post_date": "2020-09-23",
+            "cp_rate": 7.45
+          },
+          {
+            "fund_code": "007423",
+            "fundsname": "西部利得聚禾混合A",
+            "post_date": "2020-09-23",
+            "cp_rate": 7.48
+          },
+          {
+            "fund_code": "008542",
+            "fundsname": "西部利得新享混合C",
+            "post_date": "2020-05-07",
+            "cp_rate": -0.91
+          },
+          {
+            "fund_code": "008541",
+            "fundsname": "西部利得新享混合A",
+            "post_date": "2020-05-07",
+            "cp_rate": -0.85
+          },
+          {
+            "fund_code": "673010",
+            "fundsname": "西部利得新动向混合",
+            "post_date": "2019-04-26",
+            "cp_rate": 40.042
+          },
+          {
+            "fund_code": "673090",
+            "fundsname": "西部利得个股精选股票",
+            "post_date": "2019-03-28",
+            "cp_rate": 71.397
+          },
+          {
+            "fund_code": "671030",
+            "fundsname": "西部利得事件驱动股票",
+            "post_date": "2018-09-26",
+            "resi_date": "2020-11-07",
+            "cp_rate": 74.03
+          },
+          {
+            "fund_code": "673143",
+            "fundsname": "西部利得景程混合C",
+            "post_date": "2018-06-25",
+            "cp_rate": 18.7406
+          },
+          {
+            "fund_code": "673141",
+            "fundsname": "西部利得景程混合A",
+            "post_date": "2018-06-25",
+            "cp_rate": 18.9405
+          },
+          {
+            "fund_code": "675083",
+            "fundsname": "西部利得祥盈债券C",
+            "post_date": "2017-07-26",
+            "resi_date": "2019-06-11",
+            "cp_rate": 11.6559
+          },
+          {
+            "fund_code": "675081",
+            "fundsname": "西部利得祥盈债券A",
+            "post_date": "2017-07-26",
+            "resi_date": "2019-06-11",
+            "cp_rate": 13.2189
+          },
+          {
+            "fund_code": "673100",
+            "fundsname": "西部利得久安回报混合",
+            "post_date": "2017-03-22",
+            "resi_date": "2018-05-16",
+            "cp_rate": 23.1431
+          },
+          {
+            "fund_code": "673073",
+            "fundsname": "西部利得新动力混合C",
+            "post_date": "2016-11-17",
+            "resi_date": "2017-12-20",
+            "cp_rate": 5.31
+          },
+          {
+            "fund_code": "673071",
+            "fundsname": "西部利得新动力混合A",
+            "post_date": "2016-11-17",
+            "resi_date": "2017-12-20",
+            "cp_rate": 28.47
+          },
+          {
+            "fund_code": "673060",
+            "fundsname": "西部利得景瑞灵活配置混合A",
+            "post_date": "2016-08-25",
+            "resi_date": "2017-10-17",
+            "cp_rate": 1
+          },
+          {
+            "fund_code": "671010",
+            "fundsname": "西部利得策略优选混合",
+            "post_date": "2016-01-04",
+            "resi_date": "2020-11-07",
+            "cp_rate": 41.8981
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "673090",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

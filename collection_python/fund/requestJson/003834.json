@@ -1,0 +1,221 @@
+{
+  "data": {
+    "fund_company": "    华夏基金管理有限公司成立于1998年4月9日,是经中国证监会批准成立的首批全国性基金管理公司之一。公司总部设在北京,在北京、上海、深圳、成都、南京、杭州、广州和青岛设有分公司,在香港、深圳、上海设有子公司。\n    华夏基金定位于综合性、全能化的资产管理公司,服务范围覆盖多个资产类别、行业和地区,构建了以公募基金和机构业务为核心,涵盖华夏香港、华夏资本、华夏财富的多元化资产管理平台。\n    华夏基金规范运作、稳健经营,以雄厚的综合实力持续保持了行业的领先地位。公司拥有18年投资管理经验,是管理基金规模最大的基金管理公司之一。截至2016年12月31日,公司服务机构客户超过4万户,服务公众持有人超过4500万户。华夏基金秉承“为信任奉献回报”的企业宗旨,注重将投资收益及时转化为红利,为投资人创造了丰厚的回报,累计为持有人分红超过1282亿元。\n    华夏基金在业内最早提出了“研究创造价值”的投资理念,以卓越的主动投资管理为核心,建立了业内最大的投研团队之一,通过宏观趋势判断、策略研究以及实地调研,审视每一个投资标的基本面及投资潜力,力求为投资者提供长期而稳定的投资收益。\n    华夏基金拥有卓越的平台、雄厚的实力以及良好的声誉,汇聚了大批优秀的研究员及基金经理,选拔了海内外知名高校的优秀人才,构建了精英荟萃的投研平台,逐步形成了业内规模最大的投资团队之一,并形成了稳定而长远的投资管理模式。\n    在公募基金方面,华夏基金建立了完善的基金产品线,旗下公募基金超过100只,可以满足不同投资者的各类投资需求。主动管理的基金囊括了货币型、理财型、债券型、混合型以及股票型等5大类不同风险收益特征的品种;在被动管理方面,公司构建了覆盖综合指数、权重股指数、中小盘指数、行业指数以及海外市场指数的完善的产品线。\n    华夏基金机构业务包括全国社保、企业年金、基本养老金、职业年金、专户理财业务、机构客户公募基金组合管理业务及海外机构业务。围绕机构客户的多元化投资需求,华夏基金构建了以投资、产品、风控为核心,全面覆盖机构股票投资、机构债券投资、数量投资、现金管理以及海外投资在内的专属投资管理和服务平台。\n    18年来,华夏基金凭借规范的经营管理及良好的品牌声誉,获得了业界的广泛认可,多次荣获境内外各大权威奖项。华夏基金八次获得《中国证券报》评选的“金牛基金管理公司奖”,八次获得《上海证券报》评选的 “金基金top公司大奖”,五次获得《证券时报》评选的“明星基金公司奖”,并多次获得《亚洲投资者》、《亚洲资产管理》以及《财资》等境外权威机构评选的“中国最佳基金管理公司奖”。",
+    "fund_position": {
+      "stock_percent": 85.23,
+      "bond_percent": 0.03,
+      "cash_percent": 12.29,
+      "other_percent": 2.45,
+      "asset_tot": 2104361853.49,
+      "asset_val": 2080098819.99,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "当升科技",
+          "code": "300073",
+          "percent": 10.04,
+          "current_price": 52.55,
+          "change_percentage": 7.86,
+          "xq_symbol": "SZ300073",
+          "xq_url": "https://xueqiu.com/S/SZ300073",
+          "amarket": true
+        },
+        {
+          "name": "宁德时代",
+          "code": "300750",
+          "percent": 9.92,
+          "current_price": 266.03,
+          "change_percentage": 1.75,
+          "xq_symbol": "SZ300750",
+          "xq_url": "https://xueqiu.com/S/SZ300750",
+          "amarket": true
+        },
+        {
+          "name": "天赐材料",
+          "code": "002709",
+          "percent": 9.28,
+          "current_price": 84.25,
+          "change_percentage": 10,
+          "xq_symbol": "SZ002709",
+          "xq_url": "https://xueqiu.com/S/SZ002709",
+          "amarket": true
+        },
+        {
+          "name": "先导智能",
+          "code": "300450",
+          "percent": 7.7,
+          "current_price": 67.6,
+          "change_percentage": 0.6,
+          "xq_symbol": "SZ300450",
+          "xq_url": "https://xueqiu.com/S/SZ300450",
+          "amarket": true
+        },
+        {
+          "name": "东方日升",
+          "code": "300118",
+          "percent": 5.82,
+          "current_price": 18.4,
+          "change_percentage": 1.21,
+          "xq_symbol": "SZ300118",
+          "xq_url": "https://xueqiu.com/S/SZ300118",
+          "amarket": true
+        },
+        {
+          "name": "赣锋锂业",
+          "code": "002460",
+          "percent": 5.06,
+          "current_price": 82.24,
+          "change_percentage": 3.06,
+          "xq_symbol": "SZ002460",
+          "xq_url": "https://xueqiu.com/S/SZ002460",
+          "amarket": true
+        },
+        {
+          "name": "华友钴业",
+          "code": "603799",
+          "percent": 4.06,
+          "current_price": 55.38,
+          "change_percentage": 1.63,
+          "xq_symbol": "SH603799",
+          "xq_url": "https://xueqiu.com/S/SH603799",
+          "amarket": true
+        },
+        {
+          "name": "三花智控",
+          "code": "002050",
+          "percent": 3.86,
+          "current_price": 24.3,
+          "change_percentage": 2.84,
+          "xq_symbol": "SZ002050",
+          "xq_url": "https://xueqiu.com/S/SZ002050",
+          "amarket": true
+        },
+        {
+          "name": "亿纬锂能",
+          "code": "300014",
+          "percent": 3.67,
+          "current_price": 63.71,
+          "change_percentage": 4.17,
+          "xq_symbol": "SZ300014",
+          "xq_url": "https://xueqiu.com/S/SZ300014",
+          "amarket": true
+        },
+        {
+          "name": "璞泰来",
+          "code": "603659",
+          "percent": 3.52,
+          "current_price": 111.38,
+          "change_percentage": 5.71,
+          "xq_symbol": "SH603659",
+          "xq_url": "https://xueqiu.com/S/SH603659",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "赣锋转2",
+          "code": "128126",
+          "percent": 0.03,
+          "xq_symbol": "128126",
+          "xq_url": "https://xueqiu.com/S/128126",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "003834",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<200万",
+          "value": "1.20"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "365天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "郑泽鸿",
+        "resume": "    郑泽鸿先生,财政部财政科学研究所经济学硕士,2012年6月加入华夏基金管理有限公司,曾任投资研究部研究员等,现任投资研究部高级副总裁,华夏能源革新股票型证券投资基金基金经理(2017年6月7日起任职)、华夏高端制造灵活配置混合型证券投资基金基金经理(2018年8月31日起任职)、华夏平稳增长混合型证券投资基金基金经理(2019年1月14日起任职)。",
+        "achievement_list": [
+          {
+            "fund_code": "519029",
+            "fundsname": "华夏稳增",
+            "post_date": "2019-01-14",
+            "resi_date": "2020-06-12",
+            "cp_rate": 74.9181
+          },
+          {
+            "fund_code": "002345",
+            "fundsname": "华夏高端制造混合",
+            "post_date": "2018-08-31",
+            "resi_date": "2020-06-12",
+            "cp_rate": 38.75
+          },
+          {
+            "fund_code": "003834",
+            "fundsname": "华夏能源革新股票",
+            "post_date": "2017-06-07",
+            "cp_rate": 107
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "003834",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

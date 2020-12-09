@@ -1,0 +1,265 @@
+{
+  "data": {
+    "fund_company": "    华商基金管理有限公司是一家经中国证监会批准设立、为客户提供专业理财服务的资产管理机构。华商基金以“诚为本,智慧创造财富”为公司发展理念,以“优化资源配置,助力企业成长,为投资者创造财富”为使命,坚持奉行“诚信、专业、合作、进取、责任”的核心价值观,致力于成为值得信赖、受人尊敬的资产管理公司,努力把华商基金打造成为广大投资者信赖的基金品牌。\n    华商基金旗下管理的产品覆盖了多种基金类型,均取得了较好的投资业绩。公司资产管理规模大幅增长,市场影响力迅速提升,综合实力快速提高,在投资研究、市场开拓、客户服务等方面表现出良好的发展势头,得到了越来越广泛的关注和认同。",
+    "fund_position": {
+      "stock_percent": 82.13,
+      "cash_percent": 17.83,
+      "other_percent": 0.04,
+      "asset_tot": 278233768.32,
+      "asset_val": 276313438.73,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "三一重工",
+          "code": "600031",
+          "percent": 4.68,
+          "current_price": 31.48,
+          "change_percentage": -1.41,
+          "xq_symbol": "SH600031",
+          "xq_url": "https://xueqiu.com/S/SH600031",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 4.55,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "宁德时代",
+          "code": "300750",
+          "percent": 4.54,
+          "current_price": 266.03,
+          "change_percentage": 1.75,
+          "xq_symbol": "SZ300750",
+          "xq_url": "https://xueqiu.com/S/SZ300750",
+          "amarket": true
+        },
+        {
+          "name": "京东方A",
+          "code": "000725",
+          "percent": 3.91,
+          "current_price": 5.25,
+          "change_percentage": -0.57,
+          "xq_symbol": "SZ000725",
+          "xq_url": "https://xueqiu.com/S/SZ000725",
+          "amarket": true
+        },
+        {
+          "name": "长安汽车",
+          "code": "000625",
+          "percent": 3.89,
+          "current_price": 25.2,
+          "change_percentage": 5.7,
+          "xq_symbol": "SZ000625",
+          "xq_url": "https://xueqiu.com/S/SZ000625",
+          "amarket": true
+        },
+        {
+          "name": "比亚迪",
+          "code": "002594",
+          "percent": 3.79,
+          "current_price": 177.97,
+          "change_percentage": 1.53,
+          "xq_symbol": "SZ002594",
+          "xq_url": "https://xueqiu.com/S/SZ002594",
+          "amarket": true
+        },
+        {
+          "name": "金山办公",
+          "code": "688111",
+          "percent": 3.58,
+          "current_price": 349.5,
+          "change_percentage": -2.75,
+          "xq_symbol": "SH688111",
+          "xq_url": "https://xueqiu.com/S/SH688111",
+          "amarket": true
+        },
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 3.53,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "汇川技术",
+          "code": "300124",
+          "percent": 3.52,
+          "current_price": 85.58,
+          "change_percentage": 1.04,
+          "xq_symbol": "SZ300124",
+          "xq_url": "https://xueqiu.com/S/SZ300124",
+          "amarket": true
+        },
+        {
+          "name": "先导智能",
+          "code": "300450",
+          "percent": 3.5,
+          "current_price": 67.6,
+          "change_percentage": 0.6,
+          "xq_symbol": "SZ300450",
+          "xq_url": "https://xueqiu.com/S/SZ300450",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "008009",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<200万",
+          "value": "1.20"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "童立",
+        "resume": "    童立:男,中国籍,经济学硕士,具有基金从业资格。2011年7月加入华商基金管理有限公司,曾任行业研究员;2015年7月21日至2016年4月11日担任华商价值共享灵活配置混合型发起式证券投资基金基金经理助理;2016年4月12日至2017年4月21日担任华商价值共享灵活配置混合型发起式证券投资基金基金经理;2016年12月23日起至今担任华商新锐产业灵活配置混合型证券投资基金基金经理;2017年12月21日起至今担任华商研究精选灵活配置混合型证券投资基金基金经理;2017年12月27日起至今担任华商上游产业股票型证券投资基金基金经理;2019年3月8日起至今担任华商主题精选混合型证券投资基金基金经理;2019年12月10日起至今担任华商高端装备制造股票型证券投资基金基金经理;2020年3月6日起至今担任华商科技创新混合型证券投资基金基金经理;现任研究发展部副总经理、公司投资决策委员会委员、公司公募业务权益投资决策委员会委员。",
+        "work_year": "9",
+        "achievement_list": [
+          {
+            "fund_code": "008961",
+            "fundsname": "华商科技创新混合",
+            "post_date": "2020-03-06",
+            "cp_rate": 27.74
+          },
+          {
+            "fund_code": "008009",
+            "fundsname": "华商高端装备制造股票",
+            "post_date": "2019-12-10",
+            "cp_rate": 75.74
+          },
+          {
+            "fund_code": "630011",
+            "fundsname": "华商主题精选混合",
+            "post_date": "2019-03-08",
+            "cp_rate": 69.2082
+          },
+          {
+            "fund_code": "005161",
+            "fundsname": "华商上游产业股票",
+            "post_date": "2017-12-27",
+            "cp_rate": 47.15
+          },
+          {
+            "fund_code": "004423",
+            "fundsname": "华商研究精选灵活配置混合",
+            "post_date": "2017-12-21",
+            "cp_rate": 111.542
+          },
+          {
+            "fund_code": "000654",
+            "fundsname": "华商新锐产业灵活配置混合",
+            "post_date": "2016-12-23",
+            "cp_rate": 14.6501
+          },
+          {
+            "fund_code": "630016",
+            "fundsname": "华商价值共享",
+            "post_date": "2016-04-12",
+            "resi_date": "2017-04-21",
+            "cp_rate": 15.1504
+          }
+        ]
+      },
+      {
+        "name": "吴昊",
+        "resume": "    吴昊:女,中国籍,经济学博士,具有基金从业资格。2010年5月至2011年11月,就职于国都证券有限责任公司,任研究员;2011年11月加入华商基金管理有限公司,曾任行业研究员;2016年10月20日至2017年7月25日担任华商主题精选混合型证券投资基金基金经理助理;2017年7月26日至2018年8月10日担任华商主题精选混合型证券投资基金基金经理;2018年7月12日起至今担任华商新常态灵活配置混合型证券投资基金基金经理;2019年12月10日起至今担任华商高端装备制造股票型证券投资基金基金经理。",
+        "work_year": "10",
+        "achievement_list": [
+          {
+            "fund_code": "008009",
+            "fundsname": "华商高端装备制造股票",
+            "post_date": "2019-12-10",
+            "cp_rate": 75.74
+          },
+          {
+            "fund_code": "001457",
+            "fundsname": "华商新常态灵活配置混合",
+            "post_date": "2018-07-12",
+            "cp_rate": 111.6181
+          },
+          {
+            "fund_code": "630011",
+            "fundsname": "华商主题精选混合",
+            "post_date": "2017-07-26",
+            "resi_date": "2018-08-10",
+            "cp_rate": -28.289
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "008009",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

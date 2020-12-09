@@ -1,0 +1,137 @@
+{
+  "data": {
+    "fund_company": "    创金合信基金管理有限公司由第一创业证券股份有限公司(占70%)、深圳市金合信投资合伙企业(有限合伙)(占30%)共同发起设立。注册资本:1.7亿元人民币。注册地:深圳。创金合信基金倡导合伙文化,实施合伙制,并在投研体系着力打造吸引并留住优秀人才的平台:事业部制和工作室。\n    第一创业证券股份有限公司是经中国证监会批准,由华熙昕宇、首创集团等多家实力雄厚的股东投资设立的全国性综合类证券公司。公司注册地在深圳市,注册资本金为人民币21.89亿元人民币,,总部设在深圳,员工总数超过1900人。2016年5月11日,公司首次公开发行股票并在深圳证券交易所上市交易,证券简称 “第一创业”,证券代码“002797”。深圳金合信投资合伙企业(有限合伙)由创金合信基金经营管理层及多名核心员工投资设立,仅用于持有创金合信基金股权。\n    创金合信基金成立于2014年7月,员工基于第一创业证券创金资产团队。创金资产团队于2010年初组建,曾屡次获得权威奖项。创金资产团队2012年、2013年连续两次获《上海证券报》中国券商理财金榜评选“综合管理实力大奖”;创金资产团队2013年获《中国证券报》金牛理财网“金牛券商集合资产管理人奖”;创金资产品牌2013年、2014年连续两次获《证券时报》中国最佳财富管理机构评选“中国最佳财富管理品牌”。",
+    "fund_position": {
+      "stock_percent": 93.4,
+      "cash_percent": 5.44,
+      "other_percent": 1.16,
+      "asset_tot": 33671656.36,
+      "asset_val": 33377881.72,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2019-09-30",
+      "stock_list": [
+        {
+          "name": "吉祥航空",
+          "code": "603885",
+          "percent": 9.8,
+          "current_price": 11.66,
+          "change_percentage": -0.43,
+          "xq_symbol": "SH603885",
+          "xq_url": "https://xueqiu.com/S/SH603885",
+          "amarket": true
+        },
+        {
+          "name": "金风科技",
+          "code": "002202",
+          "percent": 9.2,
+          "current_price": 12.51,
+          "change_percentage": 0.89,
+          "xq_symbol": "SZ002202",
+          "xq_url": "https://xueqiu.com/S/SZ002202",
+          "amarket": true
+        },
+        {
+          "name": "烽火通信",
+          "code": "600498",
+          "percent": 9.1,
+          "current_price": 24.38,
+          "change_percentage": 0.45,
+          "xq_symbol": "SH600498",
+          "xq_url": "https://xueqiu.com/S/SH600498",
+          "amarket": true
+        },
+        {
+          "name": "长安汽车",
+          "code": "000625",
+          "percent": 9.07,
+          "current_price": 25.2,
+          "change_percentage": 5.7,
+          "xq_symbol": "SZ000625",
+          "xq_url": "https://xueqiu.com/S/SZ000625",
+          "amarket": true
+        },
+        {
+          "name": "中国国航",
+          "code": "601111",
+          "percent": 8.92,
+          "current_price": 7.77,
+          "change_percentage": -1.65,
+          "xq_symbol": "SH601111",
+          "xq_url": "https://xueqiu.com/S/SH601111",
+          "amarket": true
+        },
+        {
+          "name": "江铃汽车",
+          "code": "000550",
+          "percent": 8.92,
+          "current_price": 19.58,
+          "change_percentage": 3.43,
+          "xq_symbol": "SZ000550",
+          "xq_url": "https://xueqiu.com/S/SZ000550",
+          "amarket": true
+        },
+        {
+          "name": "三特索道",
+          "code": "002159",
+          "percent": 8.9,
+          "current_price": 13.02,
+          "change_percentage": 0.08,
+          "xq_symbol": "SZ002159",
+          "xq_url": "https://xueqiu.com/S/SZ002159",
+          "amarket": true
+        },
+        {
+          "name": "春秋航空",
+          "code": "601021",
+          "percent": 7.74,
+          "current_price": 51.71,
+          "change_percentage": 0.23,
+          "xq_symbol": "SH601021",
+          "xq_url": "https://xueqiu.com/S/SH601021",
+          "amarket": true
+        },
+        {
+          "name": "东方航空",
+          "code": "600115",
+          "percent": 7.11,
+          "current_price": 4.93,
+          "change_percentage": -0.6,
+          "xq_symbol": "SH600115",
+          "xq_url": "https://xueqiu.com/S/SH600115",
+          "amarket": true
+        },
+        {
+          "name": "南方航空",
+          "code": "600029",
+          "percent": 7.09,
+          "current_price": 6.16,
+          "change_percentage": -1.12,
+          "xq_symbol": "SH600029",
+          "xq_url": "https://xueqiu.com/S/SH600029",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "003623",
+      "subscribe_rate": "0",
+      "declare_rate": "0",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1"
+    },
+    "manager_list": [],
+    "fund_date_conf": {
+      "fd_code": "003623",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 2,
+      "all_buy_days": 2,
+      "all_sale_days": 3
+    }
+  },
+  "result_code": 0
+}

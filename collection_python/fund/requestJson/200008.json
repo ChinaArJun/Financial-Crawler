@@ -1,0 +1,289 @@
+{
+  "data": {
+    "fund_company": "    长城基金管理有限公司成立于2001年12月27日,由长城证券有限责任公司、东方证券股份有限公司、北方国际信托股份有限公司、中原信托有限公司共同出资设立。公司的经营范围为基金募集、基金销售、资产管理和中国证监会许可的其他业务。\n    长城基金管理有限公司一直秉承“诚信、规范、专业、创新”的经营理念,坚持基金持有人利益至上的经营原则,凭借完善的公司治理结构、严格的风险控制、规范的业务流程、高效专业的员工团队、开放与学习的文化氛围,努力打造一流的基金管理公司品牌,竭诚为客户提供优质的投资理财产品和服务。\n    产品线介绍\n    截至2016年8月,长城基金管理有限公司一共管理基金38只。基金产品类别涵盖货币型、债券型、混合型以及指数型基金,形成覆盖低、中、高各类风险收益特征的较为完善的产品线。",
+    "fund_position": {
+      "stock_percent": 82.72,
+      "bond_percent": 5.65,
+      "cash_percent": 11.55,
+      "other_percent": 0.08,
+      "asset_tot": 2638544754.83,
+      "asset_val": 2626604268.41,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 9.46,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 8.99,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "泸州老窖",
+          "code": "000568",
+          "percent": 8.05,
+          "current_price": 191.85,
+          "change_percentage": 0.56,
+          "xq_symbol": "SZ000568",
+          "xq_url": "https://xueqiu.com/S/SZ000568",
+          "amarket": true
+        },
+        {
+          "name": "山西汾酒",
+          "code": "600809",
+          "percent": 7.54,
+          "current_price": 265.1,
+          "change_percentage": 1.54,
+          "xq_symbol": "SH600809",
+          "xq_url": "https://xueqiu.com/S/SH600809",
+          "amarket": true
+        },
+        {
+          "name": "古井贡酒",
+          "code": "000596",
+          "percent": 5.95,
+          "current_price": 229.01,
+          "change_percentage": 0.04,
+          "xq_symbol": "SZ000596",
+          "xq_url": "https://xueqiu.com/S/SZ000596",
+          "amarket": true
+        },
+        {
+          "name": "中国中免",
+          "code": "601888",
+          "percent": 4.63,
+          "current_price": 208.03,
+          "change_percentage": 0.13,
+          "xq_symbol": "SH601888",
+          "xq_url": "https://xueqiu.com/S/SH601888",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 3.89,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "青岛啤酒",
+          "code": "600600",
+          "percent": 3.82,
+          "current_price": 98.2,
+          "change_percentage": -0.32,
+          "xq_symbol": "SH600600",
+          "xq_url": "https://xueqiu.com/S/SH600600",
+          "amarket": true
+        },
+        {
+          "name": "良信股份",
+          "code": "002706",
+          "percent": 3.04,
+          "current_price": 25.8,
+          "change_percentage": 0.74,
+          "xq_symbol": "SZ002706",
+          "xq_url": "https://xueqiu.com/S/SZ002706",
+          "amarket": true
+        },
+        {
+          "name": "今世缘",
+          "code": "603369",
+          "percent": 3.02,
+          "current_price": 51.8,
+          "change_percentage": 1.11,
+          "xq_symbol": "SH603369",
+          "xq_url": "https://xueqiu.com/S/SH603369",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "20农发06",
+          "code": "200406",
+          "percent": 5.68,
+          "xq_symbol": "200406",
+          "xq_url": "https://xueqiu.com/S/200406",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "200008",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<200万",
+          "value": "1.00"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.50"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "1天≤持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "365天≤持有期限<730天",
+          "value": "0.250"
+        },
+        {
+          "name": "730天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "杨建华",
+        "resume": "    杨建华先生,北京大学理学学士、经济学硕士,注册会计师。曾就职于大庆石油管理局、华为技术有限公司、深圳市和君创业投资公司、长城证券有限责任公司投资银行部。2001年10月进入长城基金管理公司,曾任基金投资部基金经理助理、研究部总经理和公司总经理助理,现任长城基金管理有限公司副总经理、投资总监兼基金管理部总经理,自2007年9月至2009年1月任“长城安心回报混合型证券投资基金”基金经理,自2011年1月至2013年6月任“长城中小盘成长股票型证券投资基金”基金经理,自2009年9月至2016年9月任“长城久富核心成长混合型证券投资基金(LOF)”基金经理,自2017年6月至2018年8月任“长城久兆中小板300指数分级证券投资基金”基金经理,自2017年8月至2019年2月任“长城久嘉创新成长灵活配置混合型证券投资基金”基金经理,自2018年8月至2018年11月任“长城中证500指数增强型证券投资基金”基金经理。自2004年5月至今任“长城久泰沪深300指数证券投资基金”基金经理,自2013年6月至今任“长城品牌优选混合型证券投资基金”基金经理,自2019年4月至今任“长城核心优势混合型证券投资基金”基金经理,自2020年3月至今任“长城价值优选混合型证券投资基金”基金经理。",
+        "college": "北京大学",
+        "work_year": "20",
+        "achievement_list": [
+          {
+            "fund_code": "008260",
+            "fundsname": "长城价值优选混合",
+            "post_date": "2020-03-18",
+            "cp_rate": 59.99
+          },
+          {
+            "fund_code": "007047",
+            "fundsname": "长城核心优势混合",
+            "post_date": "2019-04-16",
+            "cp_rate": 104.63
+          },
+          {
+            "fund_code": "006912",
+            "fundsname": "长城久泰沪深300指数C",
+            "post_date": "2019-01-18",
+            "cp_rate": 68.8574
+          },
+          {
+            "fund_code": "006048",
+            "fundsname": "长城中证500指数增强A",
+            "post_date": "2018-08-13",
+            "resi_date": "2018-11-30",
+            "cp_rate": -16.98
+          },
+          {
+            "fund_code": "004666",
+            "fundsname": "长城久嘉创新成长混合",
+            "post_date": "2017-08-18",
+            "resi_date": "2019-02-22",
+            "cp_rate": -15.0436
+          },
+          {
+            "fund_code": "150058",
+            "fundsname": "长城久兆积极指数",
+            "post_date": "2017-06-19",
+            "resi_date": "2018-08-12",
+            "cp_rate": -32.1641
+          },
+          {
+            "fund_code": "150057",
+            "fundsname": "长城久兆稳健指数",
+            "post_date": "2017-06-19",
+            "resi_date": "2018-08-12",
+            "cp_rate": 6.623
+          },
+          {
+            "fund_code": "162010",
+            "fundsname": "长城久兆中小板300指数分级",
+            "post_date": "2017-06-19",
+            "resi_date": "2018-08-12",
+            "cp_rate": -14.3799
+          },
+          {
+            "fund_code": "200008",
+            "fundsname": "长城品牌优选混合",
+            "post_date": "2013-06-18",
+            "cp_rate": 252.6773
+          },
+          {
+            "fund_code": "200012",
+            "fundsname": "长城中小盘成长混合",
+            "post_date": "2011-01-27",
+            "resi_date": "2013-06-17",
+            "cp_rate": -7
+          },
+          {
+            "fund_code": "162006",
+            "fundsname": "长城久富核心成长混合(LOF)",
+            "post_date": "2009-09-22",
+            "resi_date": "2016-09-06",
+            "cp_rate": 31.7701
+          },
+          {
+            "fund_code": "200007",
+            "fundsname": "长城安心回报混合",
+            "post_date": "2007-09-25",
+            "resi_date": "2009-01-06",
+            "cp_rate": -55.5284
+          },
+          {
+            "fund_code": "200002",
+            "fundsname": "长城久泰沪深300指数A",
+            "post_date": "2004-05-21",
+            "cp_rate": 519.96
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "200008",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

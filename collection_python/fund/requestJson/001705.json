@@ -1,0 +1,281 @@
+{
+  "data": {
+    "fund_company": "    自1998年,中国投资基金诞生以来,很多人都在不遗余力地推动基金行业体制、机制更加科学、专业,从而促进基金行业的长足发展。在这个过程中,监管机构作为基金业改革的重要推动者,也在鼓励基金管理公司运作机制的创新,以期激发出更大的发展动力。\n    国家对于经济体制、金融体制的改革从未停止过脚步。 2013年12月27日,国务院发布《国务院关于管理公开募集基金的基金管理公司有关问题的批复》,第一次明确规定了符合条件的法人、其他组织或者自然人,均可申请设立公募证券投资基金管理公司。时隔半年后的2014年6月13日,证监会正式发布《关于大力推进证券投资基金行业创新发展的意见》,明确鼓励支持民营资本、专业人士各类主体设立基金管理公司。\n    在公募基金改革的顶层设计中,鼓励支持专业人士设立基金管理公司的一个重要目的,就是希望以此推动基金管理公司内部治理制度创新、发挥管理团队的创造力。\n    2015年2月13日,泓德基金管理有限公司正式获得证监会批准,成为获得官方核准的首家由专业人士发起设立的中国公募基金管理有限公司。泓德基金的发起、获批顺应了这一改革方向,是对2013年以来关于公募基金变革的顶层设计更为深刻的实践。",
+    "fund_position": {
+      "stock_percent": 87.58,
+      "bond_percent": 4.56,
+      "cash_percent": 7.68,
+      "other_percent": 0.18,
+      "asset_tot": 1861007249.06,
+      "asset_val": 1786562599.83,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "中国平安",
+          "code": "601318",
+          "percent": 6.39,
+          "current_price": 88.05,
+          "change_percentage": -2.58,
+          "xq_symbol": "SH601318",
+          "xq_url": "https://xueqiu.com/S/SH601318",
+          "amarket": true
+        },
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 6.16,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "浙江鼎力",
+          "code": "603338",
+          "percent": 5,
+          "current_price": 103.96,
+          "change_percentage": -2.04,
+          "xq_symbol": "SH603338",
+          "xq_url": "https://xueqiu.com/S/SH603338",
+          "amarket": true
+        },
+        {
+          "name": "宁德时代",
+          "code": "300750",
+          "percent": 4.85,
+          "current_price": 266.03,
+          "change_percentage": 1.75,
+          "xq_symbol": "SZ300750",
+          "xq_url": "https://xueqiu.com/S/SZ300750",
+          "amarket": true
+        },
+        {
+          "name": "万华化学",
+          "code": "600309",
+          "percent": 4.37,
+          "current_price": 82.99,
+          "change_percentage": -0.3,
+          "xq_symbol": "SH600309",
+          "xq_url": "https://xueqiu.com/S/SH600309",
+          "amarket": true
+        },
+        {
+          "name": "恒立液压",
+          "code": "601100",
+          "percent": 4.15,
+          "current_price": 96.79,
+          "change_percentage": -1.59,
+          "xq_symbol": "SH601100",
+          "xq_url": "https://xueqiu.com/S/SH601100",
+          "amarket": true
+        },
+        {
+          "name": "迈瑞医疗",
+          "code": "300760",
+          "percent": 4.11,
+          "current_price": 351.9,
+          "change_percentage": 1.82,
+          "xq_symbol": "SZ300760",
+          "xq_url": "https://xueqiu.com/S/SZ300760",
+          "amarket": true
+        },
+        {
+          "name": "美的集团",
+          "code": "000333",
+          "percent": 4.11,
+          "current_price": 86.7,
+          "change_percentage": -1.54,
+          "xq_symbol": "SZ000333",
+          "xq_url": "https://xueqiu.com/S/SZ000333",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 4.11,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "汇川技术",
+          "code": "300124",
+          "percent": 4.11,
+          "current_price": 85.58,
+          "change_percentage": 1.04,
+          "xq_symbol": "SZ300124",
+          "xq_url": "https://xueqiu.com/S/SZ300124",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "19进出07",
+          "code": "190307",
+          "percent": 1.68,
+          "xq_symbol": "190307",
+          "xq_url": "https://xueqiu.com/S/190307",
+          "amarket": false
+        },
+        {
+          "name": "16进出06",
+          "code": "160306",
+          "percent": 1.12,
+          "xq_symbol": "160306",
+          "xq_url": "https://xueqiu.com/S/160306",
+          "amarket": false
+        },
+        {
+          "name": "20国开06",
+          "code": "200206",
+          "percent": 0.83,
+          "xq_symbol": "200206",
+          "xq_url": "https://xueqiu.com/S/200206",
+          "amarket": false
+        },
+        {
+          "name": "20农发06",
+          "code": "200406",
+          "percent": 0.56,
+          "xq_symbol": "200406",
+          "xq_url": "https://xueqiu.com/S/200406",
+          "amarket": false
+        },
+        {
+          "name": "18国开12",
+          "code": "180212",
+          "percent": 0.56,
+          "xq_symbol": "180212",
+          "xq_url": "https://xueqiu.com/S/180212",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "001705",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<300万",
+          "value": "1.00"
+        },
+        {
+          "name": "300万≤买入金额<500万",
+          "value": "0.30"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "365天≤持有期限<730天",
+          "value": "0.300"
+        },
+        {
+          "name": "730天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "秦毅",
+        "resume": "    秦毅,研究部总监,基金经理,博士。曾任泓德基金管理有限公司特定客户资产投资部投资经理、阳光资产管理股份有限公司行业研究部研究员。现任泓德泓业混合、泓德裕祥债券、泓德泓华混合、泓德战略转型股票、泓德睿泽混合基金的基金经理。",
+        "work_year": "8",
+        "achievement_list": [
+          {
+            "fund_code": "009014",
+            "fundsname": "泓德睿泽混合",
+            "post_date": "2020-03-04",
+            "cp_rate": 59.62
+          },
+          {
+            "fund_code": "001705",
+            "fundsname": "泓德战略转型股票",
+            "post_date": "2019-10-29",
+            "cp_rate": 91.7861
+          },
+          {
+            "fund_code": "006608",
+            "fundsname": "泓德研究优选混合",
+            "post_date": "2019-05-27",
+            "resi_date": "2020-07-10",
+            "cp_rate": 64.38
+          },
+          {
+            "fund_code": "002846",
+            "fundsname": "泓德泓华混合",
+            "post_date": "2018-12-27",
+            "cp_rate": 199.7902
+          },
+          {
+            "fund_code": "002742",
+            "fundsname": "泓德裕祥债券A",
+            "post_date": "2017-12-29",
+            "cp_rate": 33.5459
+          },
+          {
+            "fund_code": "002743",
+            "fundsname": "泓德裕祥债券C",
+            "post_date": "2017-12-29",
+            "cp_rate": 31.9864
+          },
+          {
+            "fund_code": "001695",
+            "fundsname": "泓德泓业混合",
+            "post_date": "2017-06-02",
+            "cp_rate": 116.6788
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "001705",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

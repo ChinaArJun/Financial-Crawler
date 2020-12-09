@@ -1,0 +1,260 @@
+{
+  "data": {
+    "fund_company": "    西部利得基金管理有限公司西部利得基金管理有限公司(Western Leadbank Fund Management Co.,Ltd.,简称“西部利得基金”)于2010年7月20日在上海成立,注册资本3亿元人民币。其中西部证券股份有限公司持有51%股份,上海利得财富资产管理有限公司持有49%股份。\n    公司以打造良好业绩、为投资者获取长期收益为重,以丰富的产品和周到的服务为投资者创造收益。",
+    "fund_position": {
+      "stock_percent": 73.52,
+      "cash_percent": 11.85,
+      "other_percent": 14.63,
+      "asset_tot": 274450452.02,
+      "asset_val": 269582273.08,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "中国平安",
+          "code": "601318",
+          "percent": 4.1,
+          "current_price": 88.05,
+          "change_percentage": -2.58,
+          "xq_symbol": "SH601318",
+          "xq_url": "https://xueqiu.com/S/SH601318",
+          "amarket": true
+        },
+        {
+          "name": "工业富联",
+          "code": "601138",
+          "percent": 3.44,
+          "current_price": 14.14,
+          "change_percentage": 3.14,
+          "xq_symbol": "SH601138",
+          "xq_url": "https://xueqiu.com/S/SH601138",
+          "amarket": true
+        },
+        {
+          "name": "中科创达",
+          "code": "300496",
+          "percent": 3.22,
+          "current_price": 98.5,
+          "change_percentage": 0.92,
+          "xq_symbol": "SZ300496",
+          "xq_url": "https://xueqiu.com/S/SZ300496",
+          "amarket": true
+        },
+        {
+          "name": "格力电器",
+          "code": "000651",
+          "percent": 3.06,
+          "current_price": 65.66,
+          "change_percentage": -3.44,
+          "xq_symbol": "SZ000651",
+          "xq_url": "https://xueqiu.com/S/SZ000651",
+          "amarket": true
+        },
+        {
+          "name": "万达电影",
+          "code": "002739",
+          "percent": 2.54,
+          "current_price": 18.58,
+          "change_percentage": -1.17,
+          "xq_symbol": "SZ002739",
+          "xq_url": "https://xueqiu.com/S/SZ002739",
+          "amarket": true
+        },
+        {
+          "name": "中芯国际",
+          "code": "688981",
+          "percent": 2.49,
+          "current_price": 60.96,
+          "change_percentage": 1.04,
+          "xq_symbol": "SH688981",
+          "xq_url": "https://xueqiu.com/S/SH688981",
+          "amarket": true
+        },
+        {
+          "name": "华帝股份",
+          "code": "002035",
+          "percent": 2.31,
+          "current_price": 9.35,
+          "change_percentage": -1.37,
+          "xq_symbol": "SZ002035",
+          "xq_url": "https://xueqiu.com/S/SZ002035",
+          "amarket": true
+        },
+        {
+          "name": "永辉超市",
+          "code": "601933",
+          "percent": 2.12,
+          "current_price": 7.75,
+          "change_percentage": -1.02,
+          "xq_symbol": "SH601933",
+          "xq_url": "https://xueqiu.com/S/SH601933",
+          "amarket": true
+        },
+        {
+          "name": "华夏幸福",
+          "code": "600340",
+          "percent": 1.89,
+          "current_price": 14.53,
+          "change_percentage": 0.28,
+          "xq_symbol": "SH600340",
+          "xq_url": "https://xueqiu.com/S/SH600340",
+          "amarket": true
+        },
+        {
+          "name": "老板电器",
+          "code": "002508",
+          "percent": 1.85,
+          "current_price": 40.84,
+          "change_percentage": -0.22,
+          "xq_symbol": "SZ002508",
+          "xq_url": "https://xueqiu.com/S/SZ002508",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "671010",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<200万",
+          "value": "1.20"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "何奇",
+        "resume": "    硕士毕业于武汉大学财政学专业。 曾任长江证券股份有限公司研究部分析师、高级分析师,光大保德信基金管理有限公司投资部研究员、高级研究员、基金经理助理、基金经理。 2020年 6月加入西部利得基金管理有限公司,具有基金从业资格证,中国国籍。",
+        "college": "武汉大学",
+        "work_year": "8",
+        "achievement_list": [
+          {
+            "fund_code": "007424",
+            "fundsname": "西部利得聚禾混合C",
+            "post_date": "2020-11-07",
+            "cp_rate": 4.4725
+          },
+          {
+            "fund_code": "007423",
+            "fundsname": "西部利得聚禾混合A",
+            "post_date": "2020-11-07",
+            "cp_rate": 4.4712
+          },
+          {
+            "fund_code": "671010",
+            "fundsname": "西部利得策略优选混合",
+            "post_date": "2020-10-22",
+            "cp_rate": 8.804
+          },
+          {
+            "fund_code": "005444",
+            "fundsname": "光大保德信多策略精选18个月混合",
+            "post_date": "2018-03-27",
+            "resi_date": "2019-10-22",
+            "cp_rate": -2.71
+          },
+          {
+            "fund_code": "005027",
+            "fundsname": "光大多策略优选一年定开",
+            "post_date": "2017-12-06",
+            "resi_date": "2020-05-23",
+            "cp_rate": -0.86
+          },
+          {
+            "fund_code": "004457",
+            "fundsname": "光大多策略智选18个月定开混合",
+            "post_date": "2017-05-16",
+            "resi_date": "2020-05-23",
+            "cp_rate": 27.9472
+          },
+          {
+            "fund_code": "001823",
+            "fundsname": "光大保德信鼎鑫灵活配置混合C",
+            "post_date": "2016-02-23",
+            "resi_date": "2019-09-19",
+            "cp_rate": 9.0222
+          },
+          {
+            "fund_code": "001464",
+            "fundsname": "光大保德信鼎鑫灵活配置混合A",
+            "post_date": "2016-02-23",
+            "resi_date": "2019-09-19",
+            "cp_rate": 10.9127
+          },
+          {
+            "fund_code": "001740",
+            "fundsname": "光大保德信中国制造2025混合",
+            "post_date": "2016-02-03",
+            "resi_date": "2020-05-23",
+            "cp_rate": 53.1475
+          },
+          {
+            "fund_code": "360007",
+            "fundsname": "光大保德信优势配置混合",
+            "post_date": "2015-08-03",
+            "resi_date": "2019-11-19",
+            "cp_rate": 1.6202
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "671010",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

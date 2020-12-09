@@ -1,0 +1,201 @@
+{
+  "data": {
+    "fund_company": "    富国基金管理有限公司成立于1999年,是经中国证监会批准设立的首批十家基金管理公司之一。2003年,加拿大历史最悠久的银行——加拿大蒙特利尔银行(BMO)参股富国基金,富国基金管理有限公司又成为国内首批成立的十家基金公司中第一家外资参股的基金管理公司。\n    富国基金管理有限公司不仅在中国股市的巨变中积累了丰富的投资管理经验,而且享有外方股东输入的先进理念和管理技术。经过九年的发展,公司共管理运作十一只基金,包括汉盛、汉兴、汉鼎三只封闭式证券投资基金和富国天源、富国天博、富国天利债券、富国天益价值、富国天瑞强势地区精选、富国天惠精选成长、富国天时货币市场基金和富国天合稳健优选基金八只开放式证券投资基金,截至2007年四季度末,管理资产规模超过600亿元。",
+    "fund_position": {
+      "stock_percent": 92.7,
+      "bond_percent": 2.3,
+      "cash_percent": 4.91,
+      "other_percent": 0.09,
+      "asset_tot": 876685814.38,
+      "asset_val": 870819756.06,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "伊利股份",
+          "code": "600887",
+          "percent": 6.65,
+          "current_price": 40.68,
+          "change_percentage": 1.24,
+          "xq_symbol": "SH600887",
+          "xq_url": "https://xueqiu.com/S/SH600887",
+          "amarket": true
+        },
+        {
+          "name": "中密控股",
+          "code": "300470",
+          "percent": 6.02,
+          "current_price": 42.8,
+          "change_percentage": 2.71,
+          "xq_symbol": "SZ300470",
+          "xq_url": "https://xueqiu.com/S/SZ300470",
+          "amarket": true
+        },
+        {
+          "name": "海大集团",
+          "code": "002311",
+          "percent": 4.34,
+          "current_price": 61,
+          "change_percentage": 0,
+          "xq_symbol": "SZ002311",
+          "xq_url": "https://xueqiu.com/S/SZ002311",
+          "amarket": true
+        },
+        {
+          "name": "宁波银行",
+          "code": "002142",
+          "percent": 3.72,
+          "current_price": 35.74,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ002142",
+          "xq_url": "https://xueqiu.com/S/SZ002142",
+          "amarket": true
+        },
+        {
+          "name": "桃李面包",
+          "code": "603866",
+          "percent": 3.67,
+          "current_price": 62.35,
+          "change_percentage": 1.95,
+          "xq_symbol": "SH603866",
+          "xq_url": "https://xueqiu.com/S/SH603866",
+          "amarket": true
+        },
+        {
+          "name": "海尔智家",
+          "code": "600690",
+          "percent": 3.47,
+          "current_price": 26.97,
+          "change_percentage": -0.19,
+          "xq_symbol": "SH600690",
+          "xq_url": "https://xueqiu.com/S/SH600690",
+          "amarket": true
+        },
+        {
+          "name": "锦江酒店",
+          "code": "600754",
+          "percent": 3.41,
+          "current_price": 51.28,
+          "change_percentage": -0.95,
+          "xq_symbol": "SH600754",
+          "xq_url": "https://xueqiu.com/S/SH600754",
+          "amarket": true
+        },
+        {
+          "name": "宋城演艺",
+          "code": "300144",
+          "percent": 3.23,
+          "current_price": 18.3,
+          "change_percentage": -1.19,
+          "xq_symbol": "SZ300144",
+          "xq_url": "https://xueqiu.com/S/SZ300144",
+          "amarket": true
+        },
+        {
+          "name": "金域医学",
+          "code": "603882",
+          "percent": 3.22,
+          "current_price": 99,
+          "change_percentage": 2.27,
+          "xq_symbol": "SH603882",
+          "xq_url": "https://xueqiu.com/S/SH603882",
+          "amarket": true
+        },
+        {
+          "name": "中国平安",
+          "code": "601318",
+          "percent": 2.91,
+          "current_price": 88.05,
+          "change_percentage": -2.58,
+          "xq_symbol": "SH601318",
+          "xq_url": "https://xueqiu.com/S/SH601318",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "18国开08",
+          "code": "180208",
+          "percent": 2.31,
+          "xq_symbol": "180208",
+          "xq_url": "https://xueqiu.com/S/180208",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "000471",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "1.20"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限",
+          "value": "0.500"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "蒲世林",
+        "resume": "    2008年3月至2011年4月任海通证券股份有限公司研究所行业分析师;2011年5月至2018年8月任中信证券股份有限公司资产管理部行业研究员、投资经理;自2018年9月加入富国基金管理有限公司,2018年12月起任富国城镇发展股票型证券投资基金基金经理。具有基金从业资格。",
+        "achievement_list": [
+          {
+            "fund_code": "008372",
+            "fundsname": "富国阿尔法两年持有期混合",
+            "post_date": "2019-12-24",
+            "cp_rate": 40.48
+          },
+          {
+            "fund_code": "000471",
+            "fundsname": "富国城镇发展股票",
+            "post_date": "2018-12-19",
+            "cp_rate": 131.9984
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "000471",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

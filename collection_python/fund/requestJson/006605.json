@@ -1,0 +1,223 @@
+{
+  "data": {
+    "fund_company": "    嘉实基金管理有限公司成立于1999年3月,是国内最早成立的十家基金管理公司之一。十七年来,嘉实基金坚持合规经营,秉承“远见者稳进”理念,至今已发展形成涵盖公募基金、机构投资、养老金业务、海外投资、私募股权投资、财富管理等“全牌照”业务,联动一、二级市场投资的金融服务全产业链。截至2016年末,嘉实基金实现各类资产管理规模超9500亿元人民币,连续十年位居行业前列,为逾五千万投资者提供专业、高效的理财服务。\n    发展中的嘉实基金以“助力产业腾飞,服务财富增长”为核心使命,以普惠金融为理念,创造一流的产品和服务,力争实现客户、员工和公司长期共赢发展,致力于使嘉实成为中国领先、具有国际竞争力的资产管理集团。\n    以资产管理为核心的嘉实基金,业内首创“全天候、多策略”的投研模式,已建立超过20个投资策略组,构建丰富的产品线,为投资者创造优秀稳定的回报,屡获行业殊荣。十余年来,嘉实不断获得社保追加的委托管理资产,被包括数十家中央企业在内的300余家企业选定为企业年金投资管理人,为超过800万职工提供企业年金服务。\n    嘉实坚持国际化战略,自2009年建立香港子公司至今连续数年保持了在港中资资产管理机构的领先地位。2012年起嘉实推出海外ETF 业务,已经先后完成国内的指数在香港市场、纽约和伦敦挂牌上市。2015年,嘉实分别在伦敦与纽约注册成立分公司,进一步拓展国际市场。\n    2014年嘉实推进集团化发展,在二级市场投资中所建立的主动管理投资能力,逐步向更广泛的投资领域拓展,投资涵盖VC、PE、PIPE、新三板投资、并购投资等,并围绕优质标的积极进行产业的上下游布局,构建完整金融产业链。\n    嘉实基金始终以“创造财富增值,服务未来生活”为使命,以普惠金融为理念,创造优质产品和服务,力争实现客户、员工和公司长期共赢发展,从而使嘉实成为具有国际竞争力的综合金融集团。",
+    "fund_position": {
+      "stock_percent": 90.41,
+      "bond_percent": 2.37,
+      "cash_percent": 5.5,
+      "other_percent": 1.72,
+      "asset_tot": 420986221.52,
+      "asset_val": 414521467.9,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 7.61,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 7.6,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "泸州老窖",
+          "code": "000568",
+          "percent": 6.77,
+          "current_price": 191.85,
+          "change_percentage": 0.56,
+          "xq_symbol": "SZ000568",
+          "xq_url": "https://xueqiu.com/S/SZ000568",
+          "amarket": true
+        },
+        {
+          "name": "海大集团",
+          "code": "002311",
+          "percent": 4.14,
+          "current_price": 61,
+          "change_percentage": 0,
+          "xq_symbol": "SZ002311",
+          "xq_url": "https://xueqiu.com/S/SZ002311",
+          "amarket": true
+        },
+        {
+          "name": "百润股份",
+          "code": "002568",
+          "percent": 4.12,
+          "current_price": 79.9,
+          "change_percentage": -0.11,
+          "xq_symbol": "SZ002568",
+          "xq_url": "https://xueqiu.com/S/SZ002568",
+          "amarket": true
+        },
+        {
+          "name": "星宇股份",
+          "code": "601799",
+          "percent": 4.05,
+          "current_price": 186.12,
+          "change_percentage": -2.43,
+          "xq_symbol": "SH601799",
+          "xq_url": "https://xueqiu.com/S/SH601799",
+          "amarket": true
+        },
+        {
+          "name": "美团-W",
+          "code": "03690",
+          "percent": 3.84,
+          "xq_symbol": "03690",
+          "xq_url": "https://xueqiu.com/S/03690",
+          "amarket": false
+        },
+        {
+          "name": "古井贡酒",
+          "code": "000596",
+          "percent": 3.82,
+          "current_price": 229.01,
+          "change_percentage": 0.04,
+          "xq_symbol": "SZ000596",
+          "xq_url": "https://xueqiu.com/S/SZ000596",
+          "amarket": true
+        },
+        {
+          "name": "酒鬼酒",
+          "code": "000799",
+          "percent": 3.69,
+          "current_price": 115.75,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000799",
+          "xq_url": "https://xueqiu.com/S/SZ000799",
+          "amarket": true
+        },
+        {
+          "name": "美的集团",
+          "code": "000333",
+          "percent": 3.56,
+          "current_price": 86.7,
+          "change_percentage": -1.54,
+          "xq_symbol": "SZ000333",
+          "xq_url": "https://xueqiu.com/S/SZ000333",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "20进出04",
+          "code": "200304",
+          "percent": 2.4,
+          "xq_symbol": "200304",
+          "xq_url": "https://xueqiu.com/S/200304",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "006605",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.500"
+        },
+        {
+          "name": "30天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.50"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "常蓁",
+        "resume": "    常蓁女士,硕士研究生,14年证券从业经历,具有基金从业资格,中国国籍。曾任建信基金管理公司行业研究员。2010年加入嘉实基金管理有限公司,先后担任行业研究员及基金经理,现任主基金经理。2015年3月12日至今任嘉实回报灵活配置混合型证券投资基金基金经理、2018年10月11日至今任嘉实优化红利混合型证券投资基金基金经理、2019年11月19日至今任嘉实服务增值行业证券投资基金基金经理、2020年3月6日至今任嘉实回报精选股票型证券投资基金基金经理、2020年7月22日至今任嘉实消费精选股票型证券投资基金基金经理。",
+        "achievement_list": [
+          {
+            "fund_code": "006604",
+            "fundsname": "嘉实消费精选股票A",
+            "post_date": "2020-07-22",
+            "cp_rate": 21.5552
+          },
+          {
+            "fund_code": "006605",
+            "fundsname": "嘉实消费精选股票C",
+            "post_date": "2020-07-22",
+            "cp_rate": 21.3279
+          },
+          {
+            "fund_code": "008958",
+            "fundsname": "嘉实回报精选股票",
+            "post_date": "2020-03-06",
+            "cp_rate": 30.497
+          },
+          {
+            "fund_code": "070006",
+            "fundsname": "嘉实服务增值行业混合",
+            "post_date": "2019-11-19",
+            "cp_rate": 47.5608
+          },
+          {
+            "fund_code": "070032",
+            "fundsname": "嘉实优化红利混合",
+            "post_date": "2018-10-11",
+            "cp_rate": 117.6229
+          },
+          {
+            "fund_code": "070018",
+            "fundsname": "嘉实回报混合",
+            "post_date": "2015-03-12",
+            "cp_rate": 177.7968
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "006605",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "fund_company": "    长城基金管理有限公司成立于2001年12月27日,由长城证券有限责任公司、东方证券股份有限公司、北方国际信托股份有限公司、中原信托有限公司共同出资设立。公司的经营范围为基金募集、基金销售、资产管理和中国证监会许可的其他业务。\n    长城基金管理有限公司一直秉承“诚信、规范、专业、创新”的经营理念,坚持基金持有人利益至上的经营原则,凭借完善的公司治理结构、严格的风险控制、规范的业务流程、高效专业的员工团队、开放与学习的文化氛围,努力打造一流的基金管理公司品牌,竭诚为客户提供优质的投资理财产品和服务。\n    产品线介绍\n    截至2016年8月,长城基金管理有限公司一共管理基金38只。基金产品类别涵盖货币型、债券型、混合型以及指数型基金,形成覆盖低、中、高各类风险收益特征的较为完善的产品线。",
+    "fund_position": {
+      "stock_percent": 88.63,
+      "cash_percent": 7.66,
+      "other_percent": 3.71,
+      "asset_tot": 190029745.06,
+      "asset_val": 180294307.68,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "鸿远电子",
+          "code": "603267",
+          "percent": 6.35,
+          "current_price": 109.5,
+          "change_percentage": 1.01,
+          "xq_symbol": "SH603267",
+          "xq_url": "https://xueqiu.com/S/SH603267",
+          "amarket": true
+        },
+        {
+          "name": "金山办公",
+          "code": "688111",
+          "percent": 5.22,
+          "current_price": 349.5,
+          "change_percentage": -2.75,
+          "xq_symbol": "SH688111",
+          "xq_url": "https://xueqiu.com/S/SH688111",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 5.09,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "恒生电子",
+          "code": "600570",
+          "percent": 5.03,
+          "current_price": 98.15,
+          "change_percentage": 1.31,
+          "xq_symbol": "SH600570",
+          "xq_url": "https://xueqiu.com/S/SH600570",
+          "amarket": true
+        },
+        {
+          "name": "东方财富",
+          "code": "300059",
+          "percent": 4.95,
+          "current_price": 28.05,
+          "change_percentage": 1.08,
+          "xq_symbol": "SZ300059",
+          "xq_url": "https://xueqiu.com/S/SZ300059",
+          "amarket": true
+        },
+        {
+          "name": "航发动力",
+          "code": "600893",
+          "percent": 4.91,
+          "current_price": 46.99,
+          "change_percentage": -1.49,
+          "xq_symbol": "SH600893",
+          "xq_url": "https://xueqiu.com/S/SH600893",
+          "amarket": true
+        },
+        {
+          "name": "航天发展",
+          "code": "000547",
+          "percent": 4.91,
+          "current_price": 22.8,
+          "change_percentage": 0.31,
+          "xq_symbol": "SZ000547",
+          "xq_url": "https://xueqiu.com/S/SZ000547",
+          "amarket": true
+        },
+        {
+          "name": "同花顺",
+          "code": "300033",
+          "percent": 4.88,
+          "current_price": 142.22,
+          "change_percentage": 0.25,
+          "xq_symbol": "SZ300033",
+          "xq_url": "https://xueqiu.com/S/SZ300033",
+          "amarket": true
+        },
+        {
+          "name": "招商证券",
+          "code": "600999",
+          "percent": 4.73,
+          "current_price": 23.1,
+          "change_percentage": 0.79,
+          "xq_symbol": "SH600999",
+          "xq_url": "https://xueqiu.com/S/SH600999",
+          "amarket": true
+        },
+        {
+          "name": "兴业证券",
+          "code": "601377",
+          "percent": 4.72,
+          "current_price": 8.73,
+          "change_percentage": 0.11,
+          "xq_symbol": "SH601377",
+          "xq_url": "https://xueqiu.com/S/SH601377",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "200010",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<200万",
+          "value": "1.00"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.50"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "1天≤持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "365天≤持有期限<730天",
+          "value": "0.250"
+        },
+        {
+          "name": "730天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "龙宇飞",
+        "resume": "龙宇飞先生,吉林大学理学学士、中国科学院连读博士。曾就职于中信建投证券股份有限公司、中国人寿资产管理有限公司、中欧基金管理有限公司。2017年进入长城基金管理有限公司,曾任“长城久嘉创新成长灵活配置混合型证券投资基金”基金经理助理。自2017年10月至今任“长城久嘉创新成长灵活配置混合型证券投资基金”、“长城消费增值混合型证券投资基金”基金经理,自2018年4月至今任“长城双动力混合型证券投资基金”基金经理。",
+        "college": "中国科学院",
+        "work_year": "9",
+        "achievement_list": [
+          {
+            "fund_code": "200010",
+            "fundsname": "长城双动力混合",
+            "post_date": "2018-04-27",
+            "cp_rate": 21.1051
+          },
+          {
+            "fund_code": "200006",
+            "fundsname": "长城消费增值混合",
+            "post_date": "2017-10-18",
+            "cp_rate": 70.258
+          },
+          {
+            "fund_code": "004666",
+            "fundsname": "长城久嘉创新成长混合",
+            "post_date": "2017-10-18",
+            "cp_rate": 42.2504
+          }
+        ]
+      },
+      {
+        "name": "尤国梁",
+        "resume": "    尤国梁先生,山东轻工业学院工学学士。曾就职于民生证券济南营业部、申万宏源证券济南营业部、上海宏流投资管理有限公司、天元天财(北京)资产管理有限公司、北京中金众鑫投资管理有限公司。2019年8月加入长城基金管理有限公司,曾任北京投资管理部研究员。自2019年10月至今任“长城双动力混合型证券投资基金”、“长城久嘉创新成长灵活配置混合型证券投资基金”基金经理。",
+        "college": "山东轻工业学院",
+        "work_year": "10",
+        "achievement_list": [
+          {
+            "fund_code": "200010",
+            "fundsname": "长城双动力混合",
+            "post_date": "2019-10-24",
+            "cp_rate": 9.5716
+          },
+          {
+            "fund_code": "004666",
+            "fundsname": "长城久嘉创新成长混合",
+            "post_date": "2019-10-24",
+            "cp_rate": 58.1118
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "200010",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

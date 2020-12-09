@@ -1,0 +1,241 @@
+{
+  "data": {
+    "fund_company": "    安信基金管理有限责任公司经中国证监会批准,成立于2011年12月, 注册地深圳,注册资本3.5亿元人民币。公司股东为安信证券股份有限公司、五矿资本控股有限公司、佛山市顺德区新碧贸易有限公司、中广核财务 有限责任公司。安信基金管理有限责任公司的经营范围包括基金募集、基金销售、特定客户资产管理、资产管理和中国证监会许可的其他业务,是 为客户提供专业理财服务的资产管理机构。",
+    "fund_position": {
+      "stock_percent": 92.14,
+      "cash_percent": 7.62,
+      "other_percent": 0.24,
+      "asset_tot": 253348926.5,
+      "asset_val": 251539657.09,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "中国建筑",
+          "code": "601668",
+          "percent": 5.95,
+          "current_price": 5.17,
+          "change_percentage": -0.77,
+          "xq_symbol": "SH601668",
+          "xq_url": "https://xueqiu.com/S/SH601668",
+          "amarket": true
+        },
+        {
+          "name": "金地集团",
+          "code": "600383",
+          "percent": 5.81,
+          "current_price": 14.17,
+          "change_percentage": -0.56,
+          "xq_symbol": "SH600383",
+          "xq_url": "https://xueqiu.com/S/SH600383",
+          "amarket": true
+        },
+        {
+          "name": "保利地产",
+          "code": "600048",
+          "percent": 5.72,
+          "current_price": 16.46,
+          "change_percentage": -0.48,
+          "xq_symbol": "SH600048",
+          "xq_url": "https://xueqiu.com/S/SH600048",
+          "amarket": true
+        },
+        {
+          "name": "金螳螂",
+          "code": "002081",
+          "percent": 5.58,
+          "current_price": 10.69,
+          "change_percentage": 0.94,
+          "xq_symbol": "SZ002081",
+          "xq_url": "https://xueqiu.com/S/SZ002081",
+          "amarket": true
+        },
+        {
+          "name": "万科A",
+          "code": "000002",
+          "percent": 5.58,
+          "current_price": 29.18,
+          "change_percentage": -0.78,
+          "xq_symbol": "SZ000002",
+          "xq_url": "https://xueqiu.com/S/SZ000002",
+          "amarket": true
+        },
+        {
+          "name": "中国平安",
+          "code": "601318",
+          "percent": 5.42,
+          "current_price": 88.05,
+          "change_percentage": -2.58,
+          "xq_symbol": "SH601318",
+          "xq_url": "https://xueqiu.com/S/SH601318",
+          "amarket": true
+        },
+        {
+          "name": "科大讯飞",
+          "code": "002230",
+          "percent": 4.94,
+          "current_price": 38.54,
+          "change_percentage": 0.21,
+          "xq_symbol": "SZ002230",
+          "xq_url": "https://xueqiu.com/S/SZ002230",
+          "amarket": true
+        },
+        {
+          "name": "中天精装",
+          "code": "002989",
+          "percent": 4.83,
+          "current_price": 41.6,
+          "change_percentage": -0.1,
+          "xq_symbol": "SZ002989",
+          "xq_url": "https://xueqiu.com/S/SZ002989",
+          "amarket": true
+        },
+        {
+          "name": "招商银行",
+          "code": "600036",
+          "percent": 4.79,
+          "current_price": 44.26,
+          "change_percentage": -0.36,
+          "xq_symbol": "SH600036",
+          "xq_url": "https://xueqiu.com/S/SH600036",
+          "amarket": true
+        },
+        {
+          "name": "华侨城A",
+          "code": "000069",
+          "percent": 3.91,
+          "current_price": 6.99,
+          "change_percentage": -0.29,
+          "xq_symbol": "SZ000069",
+          "xq_url": "https://xueqiu.com/S/SZ000069",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "006819",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.500"
+        },
+        {
+          "name": "30天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.40"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "袁玮",
+        "resume": "    袁玮先生,理学博士。历任安信基金管理有限责任公司研究部研究员、权益投资部基金经理助理。现任安信基金管理有限责任公司权益投资部基金经理。2016年4月11日至今,任安信新常态沪港深精选股票型证券投资基金的基金经理。2017年3月16日至2018年3月28日,任安信新起点灵活配置混合型证券投资基金的基金经理。2018年3月21日至今,任安信比较优势灵活配置混合型证券投资基金的基金经理。2019年3月5日至今,任安信盈利驱动股票型证券投资基金的基金经理;2019年6月12日至今,任安信鑫发优选灵活配置混合型证券投资基金、安信动态策略灵活配置混合型证券投资基金的基金经理。",
+        "achievement_list": [
+          {
+            "fund_code": "008477",
+            "fundsname": "安信价值驱动三年持有混合",
+            "post_date": "2020-01-15",
+            "cp_rate": 45.35
+          },
+          {
+            "fund_code": "002029",
+            "fundsname": "安信动态策略混合C",
+            "post_date": "2019-06-12",
+            "cp_rate": 15.2934
+          },
+          {
+            "fund_code": "000433",
+            "fundsname": "安信鑫发优选混合",
+            "post_date": "2019-06-12",
+            "cp_rate": 40.404
+          },
+          {
+            "fund_code": "001185",
+            "fundsname": "安信动态策略混合A",
+            "post_date": "2019-06-12",
+            "cp_rate": 15.6257
+          },
+          {
+            "fund_code": "006819",
+            "fundsname": "安信盈利驱动股票C",
+            "post_date": "2019-03-05",
+            "cp_rate": 69.71
+          },
+          {
+            "fund_code": "006818",
+            "fundsname": "安信盈利驱动股票A",
+            "post_date": "2019-03-05",
+            "cp_rate": 70.93
+          },
+          {
+            "fund_code": "005587",
+            "fundsname": "安信比较优势混合",
+            "post_date": "2018-03-21",
+            "cp_rate": 53.14
+          },
+          {
+            "fund_code": "003958",
+            "fundsname": "安信新起点混合C",
+            "post_date": "2017-03-16",
+            "resi_date": "2018-03-29",
+            "cp_rate": 5.6511
+          },
+          {
+            "fund_code": "003957",
+            "fundsname": "安信新起点混合A",
+            "post_date": "2017-03-16",
+            "resi_date": "2018-03-29",
+            "cp_rate": 6.2713
+          },
+          {
+            "fund_code": "001583",
+            "fundsname": "安信新常态股票",
+            "post_date": "2016-04-11",
+            "cp_rate": 86.7355
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "006819",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "fund_company": "    博时基金管理有限公司成立于1998年7月13日,是中国内地首批成立的五家基金管理公司之一,致力为海内外各类机构和个人投资者提供专业、全面的资产管理服务。博时总部设在深圳,在北京、上海等地设有分公司,同时拥有博时基金(国际)有限公司和博时资本管理有限公司两家全资子公司。博时基金公司经营范围包括基金募集、基金销售、资产管理和中国证监会许可的其他业务。“为国民创造财富”是博时的使命。“做投资价值的发现者”是博时始终坚持的投资理念。\n    博时基金是目前我国资产管理规模最大的基金公司之一。截至2016年12月31日,博时基金公司共管理164只开放式基金,并受全国社会保障基金理事会委托管理部分社保基金,以及多个企业年金账户,管理资产总规模约为6250.22亿元人民币,其中公募基金规模约3760.13亿元人民币,累计分红约781.21亿元人民币。博时是首批全国社保基金投资管理人、首批企业年金基金投资管理人、首批基本养老保险基金证券投资管理人,博时养老金资产管理规模在同业中名列前茅。\n    博时遵循资本市场的价值规律,依托精心打造的专业系统,深入研究投资对象价值,努力为客户实现财富增值。我们的股票投资强调以内部研究为基础的基本面分析,持续挖掘业绩稳定增长、有核心竞争力、有成长潜力的上市公司。我们坚信股票的二级市场价格终将反映企业的内在价值,坚守对企业的深入把握这一获取收益、规避风险的根本方法。十八年来,博时所管理的各类资产均取得良好投资收益增长,产品策略全力满足各类客户的资产配置需求,以实现各类客户长期财富管理的收益目标。\n    作为首批成立的五家基金公司之一,博时基金不但在中国基金业内率先倡导价值投资理念,而且最早开始细分投资风格小组,进而形成了“权益投资强调于低风险基础上获取稳健收益,固定收益投资满足客户多元需求”的稳健型投资风格。博时基金拥有业内居前的投研团队和完善的投研管理体系。并于2016年7月,成立多元资产管理部,发力公募FOF。经过18年稳健发展,博时基金建立了制度、技术、执行三重保障的内部控制体系,设立了以董事会风险管理委员会、公司风险管理委员会为中心的风险管理组织架构。同时博时基金吸引并培养了大批优秀的IT人才,搭建起实力雄厚的IT信息系统。",
+    "fund_position": {
+      "stock_percent": 90.57,
+      "cash_percent": 9.27,
+      "other_percent": 0.16,
+      "asset_tot": 88046978.31,
+      "asset_val": 86546770.44,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "鸿远电子",
+          "code": "603267",
+          "percent": 6.83,
+          "current_price": 109.5,
+          "change_percentage": 1.01,
+          "xq_symbol": "SH603267",
+          "xq_url": "https://xueqiu.com/S/SH603267",
+          "amarket": true
+        },
+        {
+          "name": "菲利华",
+          "code": "300395",
+          "percent": 4.13,
+          "current_price": 49.35,
+          "change_percentage": -0.1,
+          "xq_symbol": "SZ300395",
+          "xq_url": "https://xueqiu.com/S/SZ300395",
+          "amarket": true
+        },
+        {
+          "name": "亿纬锂能",
+          "code": "300014",
+          "percent": 4.03,
+          "current_price": 63.71,
+          "change_percentage": 4.17,
+          "xq_symbol": "SZ300014",
+          "xq_url": "https://xueqiu.com/S/SZ300014",
+          "amarket": true
+        },
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 3.86,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "*ST湘电",
+          "code": "600416",
+          "percent": 3.79,
+          "current_price": 17.75,
+          "change_percentage": -0.73,
+          "xq_symbol": "SH600416",
+          "xq_url": "https://xueqiu.com/S/SH600416",
+          "amarket": true
+        },
+        {
+          "name": "明阳智能",
+          "code": "601615",
+          "percent": 3.34,
+          "current_price": 17.21,
+          "change_percentage": -0.81,
+          "xq_symbol": "SH601615",
+          "xq_url": "https://xueqiu.com/S/SH601615",
+          "amarket": true
+        },
+        {
+          "name": "得邦照明",
+          "code": "603303",
+          "percent": 3.26,
+          "current_price": 12.02,
+          "change_percentage": 0.08,
+          "xq_symbol": "SH603303",
+          "xq_url": "https://xueqiu.com/S/SH603303",
+          "amarket": true
+        },
+        {
+          "name": "芒果超媒",
+          "code": "300413",
+          "percent": 3.25,
+          "current_price": 65.95,
+          "change_percentage": -1.54,
+          "xq_symbol": "SZ300413",
+          "xq_url": "https://xueqiu.com/S/SZ300413",
+          "amarket": true
+        },
+        {
+          "name": "雪龙集团",
+          "code": "603949",
+          "percent": 2.98,
+          "current_price": 16.9,
+          "change_percentage": 0.9,
+          "xq_symbol": "SH603949",
+          "xq_url": "https://xueqiu.com/S/SH603949",
+          "amarket": true
+        },
+        {
+          "name": "领益智造",
+          "code": "002600",
+          "percent": 2.94,
+          "current_price": 14.36,
+          "change_percentage": 0,
+          "xq_symbol": "SZ002600",
+          "xq_url": "https://xueqiu.com/S/SZ002600",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "002595",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<100万",
+          "value": "1.00"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<730天",
+          "value": "0.500"
+        },
+        {
+          "name": "2年≤持有期限<3年",
+          "value": "0.250"
+        },
+        {
+          "name": "3年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "兰乔",
+        "resume": "    兰乔先生,硕士。2010年从清华大学硕士研究生毕业后加入博时基金管理有限公司。\n    历任研究员、高级研究员、资深研究员、基金经理助理、资本品组组长、博时回报灵活配置混合型证券投资基金(2015年11月30日-2017年1月10日)、博时卓越品牌混合型证券投资基金(LOF)(2015年12月23日-2017年1月10日)的基金经理。现任博时工业4.0主题股票型证券投资基金(2016年7月4日—至今)、博时军工主题股票型证券投资基金(2017年7月4日—至今)、博时产业新趋势灵活配置混合型证券投资基金(2020年2月17日—至今)的基金经理。",
+        "college": "清华大学",
+        "work_year": "10",
+        "achievement_list": [
+          {
+            "fund_code": "008866",
+            "fundsname": "博时产业新趋势混合A",
+            "post_date": "2020-02-17",
+            "cp_rate": 12.33
+          },
+          {
+            "fund_code": "008867",
+            "fundsname": "博时产业新趋势混合C",
+            "post_date": "2020-02-17",
+            "cp_rate": 11.79
+          },
+          {
+            "fund_code": "004698",
+            "fundsname": "博时军工主题股票",
+            "post_date": "2017-07-04",
+            "cp_rate": 74.7
+          },
+          {
+            "fund_code": "002595",
+            "fundsname": "博时工业4.0主题股票",
+            "post_date": "2016-07-04",
+            "cp_rate": 107.1845
+          },
+          {
+            "fund_code": "160512",
+            "fundsname": "博时卓越品牌混合(LOF)",
+            "post_date": "2015-12-23",
+            "resi_date": "2017-01-10",
+            "cp_rate": 7.5864
+          },
+          {
+            "fund_code": "050022",
+            "fundsname": "博时回报混合",
+            "post_date": "2015-11-30",
+            "resi_date": "2017-01-10",
+            "cp_rate": -4.7855
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "002595",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

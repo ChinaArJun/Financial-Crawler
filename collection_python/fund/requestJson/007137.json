@@ -1,0 +1,229 @@
+{
+  "data": {
+    "fund_position": {
+      "stock_percent": 90.66,
+      "bond_percent": 6.6,
+      "cash_percent": 0.45,
+      "other_percent": 2.29,
+      "asset_tot": 34645563.48,
+      "asset_val": 34274424.67,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "赣锋锂业",
+          "code": "002460",
+          "percent": 8.11,
+          "current_price": 82.24,
+          "change_percentage": 3.06,
+          "xq_symbol": "SZ002460",
+          "xq_url": "https://xueqiu.com/S/SZ002460",
+          "amarket": true
+        },
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 4.38,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "通威股份",
+          "code": "600438",
+          "percent": 4.27,
+          "current_price": 29.2,
+          "change_percentage": -1.85,
+          "xq_symbol": "SH600438",
+          "xq_url": "https://xueqiu.com/S/SH600438",
+          "amarket": true
+        },
+        {
+          "name": "招商银行",
+          "code": "600036",
+          "percent": 4.19,
+          "current_price": 44.26,
+          "change_percentage": -0.36,
+          "xq_symbol": "SH600036",
+          "xq_url": "https://xueqiu.com/S/SH600036",
+          "amarket": true
+        },
+        {
+          "name": "龙蟒佰利",
+          "code": "002601",
+          "percent": 4.08,
+          "current_price": 31.77,
+          "change_percentage": 2.22,
+          "xq_symbol": "SZ002601",
+          "xq_url": "https://xueqiu.com/S/SZ002601",
+          "amarket": true
+        },
+        {
+          "name": "中信证券",
+          "code": "600030",
+          "percent": 3.69,
+          "current_price": 30.01,
+          "change_percentage": 0,
+          "xq_symbol": "SH600030",
+          "xq_url": "https://xueqiu.com/S/SH600030",
+          "amarket": true
+        },
+        {
+          "name": "华域汽车",
+          "code": "600741",
+          "percent": 3.63,
+          "current_price": 30.5,
+          "change_percentage": 1.7,
+          "xq_symbol": "SH600741",
+          "xq_url": "https://xueqiu.com/S/SH600741",
+          "amarket": true
+        },
+        {
+          "name": "中国平安",
+          "code": "601318",
+          "percent": 3.4,
+          "current_price": 88.05,
+          "change_percentage": -2.58,
+          "xq_symbol": "SH601318",
+          "xq_url": "https://xueqiu.com/S/SH601318",
+          "amarket": true
+        },
+        {
+          "name": "兴业银行",
+          "code": "601166",
+          "percent": 3.36,
+          "current_price": 20.26,
+          "change_percentage": -1.17,
+          "xq_symbol": "SH601166",
+          "xq_url": "https://xueqiu.com/S/SH601166",
+          "amarket": true
+        },
+        {
+          "name": "美的集团",
+          "code": "000333",
+          "percent": 3.18,
+          "current_price": 86.7,
+          "change_percentage": -1.54,
+          "xq_symbol": "SZ000333",
+          "xq_url": "https://xueqiu.com/S/SZ000333",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "国开2004",
+          "code": "018013",
+          "percent": 6.56,
+          "xq_symbol": "018013",
+          "xq_url": "https://xueqiu.com/S/018013",
+          "amarket": false
+        },
+        {
+          "name": "赣锋转2",
+          "code": "128126",
+          "percent": 0.11,
+          "xq_symbol": "128126",
+          "xq_url": "https://xueqiu.com/S/128126",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "007137",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "0.70"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<180天",
+          "value": "0.500"
+        },
+        {
+          "name": "180天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "0.80"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "施红俊",
+        "resume": "    施红俊先生:同济大学管理学博士,历任大公国际资信评估有限公司上海分公司中小企业评级部部门经理,中证指数有限公司研究员、固定收益主管、研究开发部副总监、鹏扬基金管理有限公司指数投资部总监。鹏扬中证500质量成长指数证券投资基金基金经理(2019年8月29日起任职)。",
+        "college": "同济大学",
+        "achievement_list": [
+          {
+            "fund_code": "007137",
+            "fundsname": "鹏扬元合量化大盘优选股票A",
+            "post_date": "2020-06-09",
+            "cp_rate": 35.9935
+          },
+          {
+            "fund_code": "007138",
+            "fundsname": "鹏扬元合量化大盘优选股票C",
+            "post_date": "2020-06-09",
+            "cp_rate": 35.4631
+          },
+          {
+            "fund_code": "007593",
+            "fundsname": "鹏扬中证500质量成长指数A",
+            "post_date": "2019-08-29",
+            "cp_rate": 50.28
+          },
+          {
+            "fund_code": "007594",
+            "fundsname": "鹏扬中证500质量成长指数C",
+            "post_date": "2019-08-29",
+            "cp_rate": 49.31
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "007137",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

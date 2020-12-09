@@ -1,0 +1,290 @@
+{
+  "data": {
+    "fund_company": "    万家基金管理有限公司,原名为天同基金管理有限公司,于2002年8月23日正式成立。2006年2月20日正式更名为万家基金管理有限公司。万家基金管理有限公司严格遵守基金合同,运作透明规范,以为百姓提供高水准的理财服务为经营目标,以对投资者的不同需求提供差异化服务为动力,在投资组合管理、定量分析以及风险控制方面追求高专业水准,是一家独具特色、并基于特色全面发展的基金管理公司。\n    过往业绩\n    2016年5月\t万家精选混合型基金荣获《证券时报》评选的“2015年度积极混合型明星基金”奖。\n    2016年3月\t万家稳健增利债券基金荣获《中国证券报》“2015年度开放式债券型金牛基金奖”。\n    2015年11月  \t万家基金获得“2015年度资产证券化介甫奖—最佳财务顾问”\n    2014年9月\t万家基金孙驰荣获《中国基金报》2013年度三年期十大最佳固定收益投资基金经理 。\n    2014年4月\t万家基金管理有限公司荣获《上海证券报》2013年度“金基金债券投资回报公司”奖。\n    2014年4月\t万家增强收益债荣获《上海证券报》2013年度3年期债券型金基金奖。\n    2013年4月\t万家基金管理有限公司荣获《上海证券报》2012年度“金基金·债券投资回报公司”奖项。\n    2013年3月\t万家基金管理有限公司荣获《中国证券报》“2012年度债券投资金牛基金公司”,万家添利分级债券型证券投资基金、万家增强收益债券型证券投资基金荣获《中国证券报》“2012年度债券型金牛基金”,万家精选股票型证券投资基金荣获《中国证券报》“2012年度股票型金牛基金”。\n    2012年3月\t万家货币市场基金荣获《中国证券报》“2011年度开放式货币市场金牛基金奖”。\n    2011年4月\t万家货币市场基金荣获《中国证券报》“2010年度开放式货币市场金牛基金奖”。\n    2010年6月\t万家增强收益债券型证券投资基金荣获《上海证券报》2009年度“金基金·三年期债券基金奖”。\n    2010年6月\t万家双引擎灵活配置混合型证券投资基金荣获《上海证券报》2009年度“金基金·一年期分红基金奖”。\n    2010年5月\t万家货币市场证券投资基金荣获《中国证券报》“2009年度开放式货币市场金牛基金奖”。\n    2009年1月\t万家货币市场证券投资基金荣获《证券时报》“2008年度货币市场明星基金奖”。\n    2009年1月\t万家双引擎灵活配置混合型证券投资基金荣获《证券时报》“2008年度新基金明星奖”。\n    2008年1月\t万家公用事业行业基金荣获《证券时报》“2007年平衡型基金明星奖”。",
+    "fund_position": {
+      "stock_percent": 86.67,
+      "cash_percent": 10.31,
+      "other_percent": 3.02,
+      "asset_tot": 1721102687.55,
+      "asset_val": 1587678104.6,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "美的集团",
+          "code": "000333",
+          "percent": 7.05,
+          "current_price": 86.7,
+          "change_percentage": -1.54,
+          "xq_symbol": "SZ000333",
+          "xq_url": "https://xueqiu.com/S/SZ000333",
+          "amarket": true
+        },
+        {
+          "name": "中信证券",
+          "code": "600030",
+          "percent": 6.68,
+          "current_price": 30.01,
+          "change_percentage": 0,
+          "xq_symbol": "SH600030",
+          "xq_url": "https://xueqiu.com/S/SH600030",
+          "amarket": true
+        },
+        {
+          "name": "宁波银行",
+          "code": "002142",
+          "percent": 5.53,
+          "current_price": 35.74,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ002142",
+          "xq_url": "https://xueqiu.com/S/SZ002142",
+          "amarket": true
+        },
+        {
+          "name": "华泰证券",
+          "code": "601688",
+          "percent": 5.48,
+          "current_price": 19.14,
+          "change_percentage": -0.31,
+          "xq_symbol": "SH601688",
+          "xq_url": "https://xueqiu.com/S/SH601688",
+          "amarket": true
+        },
+        {
+          "name": "招商银行",
+          "code": "600036",
+          "percent": 4.82,
+          "current_price": 44.26,
+          "change_percentage": -0.36,
+          "xq_symbol": "SH600036",
+          "xq_url": "https://xueqiu.com/S/SH600036",
+          "amarket": true
+        },
+        {
+          "name": "芒果超媒",
+          "code": "300413",
+          "percent": 4.58,
+          "current_price": 65.95,
+          "change_percentage": -1.54,
+          "xq_symbol": "SZ300413",
+          "xq_url": "https://xueqiu.com/S/SZ300413",
+          "amarket": true
+        },
+        {
+          "name": "新华保险",
+          "code": "601336",
+          "percent": 4.54,
+          "current_price": 62.1,
+          "change_percentage": 0.23,
+          "xq_symbol": "SH601336",
+          "xq_url": "https://xueqiu.com/S/SH601336",
+          "amarket": true
+        },
+        {
+          "name": "京东方A",
+          "code": "000725",
+          "percent": 4.54,
+          "current_price": 5.25,
+          "change_percentage": -0.57,
+          "xq_symbol": "SZ000725",
+          "xq_url": "https://xueqiu.com/S/SZ000725",
+          "amarket": true
+        },
+        {
+          "name": "国泰君安",
+          "code": "601211",
+          "percent": 4.46,
+          "current_price": 18.44,
+          "change_percentage": -0.38,
+          "xq_symbol": "SH601211",
+          "xq_url": "https://xueqiu.com/S/SH601211",
+          "amarket": true
+        },
+        {
+          "name": "三一重工",
+          "code": "600031",
+          "percent": 4.43,
+          "current_price": 31.48,
+          "change_percentage": -1.41,
+          "xq_symbol": "SH600031",
+          "xq_url": "https://xueqiu.com/S/SH600031",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "519193",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "1.00"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<180天",
+          "value": "0.500"
+        },
+        {
+          "name": "180天≤持有期限<730天",
+          "value": "0.250"
+        },
+        {
+          "name": "730天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "高源",
+        "resume": "    高源,2005年10月至2007年3月在光大证券股份有限公司研究所工作,担任研究员;2007年4月至2010年6月在安信证券股份有限公司工作,担任研究部高级研究员;于2010年7月至2017年4月在申万菱信基金管理有限公司工作,先后担任投资管理部高级研究员、基金经理等职。2017年4月进入万家基金管理有限公司工作,现任万家瑞兴灵活配置混合型证券投资基金、万家消费成长股票型证券投资基金、万家行业优选混合型证券投资基金(LOF)、万家潜力价值灵活配置混合型证券投资基金、万家新机遇龙头企业灵活配置混合型证券投资基金、万家新机遇价值驱动灵活配置混合型证券投资基金基金经理、万家人工智能混合型证券投资基金的基金经理。",
+        "college": "伦敦政治经济学院",
+        "work_year": "15",
+        "achievement_list": [
+          {
+            "fund_code": "010055",
+            "fundsname": "万家健康产业混合C",
+            "post_date": "2020-09-30",
+            "cp_rate": 1.75
+          },
+          {
+            "fund_code": "010054",
+            "fundsname": "万家健康产业混合A",
+            "post_date": "2020-09-30",
+            "cp_rate": 1.84
+          },
+          {
+            "fund_code": "009688",
+            "fundsname": "万家鑫动力月月购一年滚动持有混合",
+            "post_date": "2020-06-18",
+            "cp_rate": 10.66
+          },
+          {
+            "fund_code": "501075",
+            "fundsname": "万家科创主题3年封闭运作灵活配置混合A",
+            "post_date": "2019-06-12",
+            "resi_date": "2020-08-03",
+            "cp_rate": 61.85
+          },
+          {
+            "fund_code": "006281",
+            "fundsname": "万家人工智能混合",
+            "post_date": "2019-01-25",
+            "resi_date": "2020-08-03",
+            "cp_rate": 77.21
+          },
+          {
+            "fund_code": "006085",
+            "fundsname": "万家新机遇价值驱动灵活配置混合C",
+            "post_date": "2018-08-18",
+            "cp_rate": 145.476
+          },
+          {
+            "fund_code": "161910",
+            "fundsname": "万家新机遇价值驱动灵活配置混合A",
+            "post_date": "2018-08-18",
+            "cp_rate": 142.1154
+          },
+          {
+            "fund_code": "005821",
+            "fundsname": "万家新机遇龙头企业混合",
+            "post_date": "2018-05-25",
+            "resi_date": "2020-03-10",
+            "cp_rate": 31.86
+          },
+          {
+            "fund_code": "005401",
+            "fundsname": "万家潜力价值混合C",
+            "post_date": "2018-03-15",
+            "cp_rate": 115.7279
+          },
+          {
+            "fund_code": "005400",
+            "fundsname": "万家潜力价值混合A",
+            "post_date": "2018-03-15",
+            "cp_rate": 119.069
+          },
+          {
+            "fund_code": "161903",
+            "fundsname": "万家行业优选混合(LOF)",
+            "post_date": "2018-03-15",
+            "resi_date": "2019-03-22",
+            "cp_rate": 18.3414
+          },
+          {
+            "fund_code": "519193",
+            "fundsname": "万家消费成长股票",
+            "post_date": "2017-11-14",
+            "cp_rate": 118.4622
+          },
+          {
+            "fund_code": "001518",
+            "fundsname": "万家瑞兴灵活配置混合",
+            "post_date": "2017-08-08",
+            "resi_date": "2019-01-11",
+            "cp_rate": -0.1226
+          },
+          {
+            "fund_code": "310388",
+            "fundsname": "申万菱信消费增长混合",
+            "post_date": "2015-07-01",
+            "resi_date": "2017-04-01",
+            "cp_rate": -20.8148
+          },
+          {
+            "fund_code": "310308",
+            "fundsname": "申万菱信盛利精选混合",
+            "post_date": "2015-07-01",
+            "resi_date": "2017-04-01",
+            "cp_rate": -18.1994
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "519193",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

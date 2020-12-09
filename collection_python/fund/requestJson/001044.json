@@ -1,0 +1,239 @@
+{
+  "data": {
+    "fund_company": "    嘉实基金管理有限公司成立于1999年3月,是国内最早成立的十家基金管理公司之一。十七年来,嘉实基金坚持合规经营,秉承“远见者稳进”理念,至今已发展形成涵盖公募基金、机构投资、养老金业务、海外投资、私募股权投资、财富管理等“全牌照”业务,联动一、二级市场投资的金融服务全产业链。截至2016年末,嘉实基金实现各类资产管理规模超9500亿元人民币,连续十年位居行业前列,为逾五千万投资者提供专业、高效的理财服务。\n    发展中的嘉实基金以“助力产业腾飞,服务财富增长”为核心使命,以普惠金融为理念,创造一流的产品和服务,力争实现客户、员工和公司长期共赢发展,致力于使嘉实成为中国领先、具有国际竞争力的资产管理集团。\n    以资产管理为核心的嘉实基金,业内首创“全天候、多策略”的投研模式,已建立超过20个投资策略组,构建丰富的产品线,为投资者创造优秀稳定的回报,屡获行业殊荣。十余年来,嘉实不断获得社保追加的委托管理资产,被包括数十家中央企业在内的300余家企业选定为企业年金投资管理人,为超过800万职工提供企业年金服务。\n    嘉实坚持国际化战略,自2009年建立香港子公司至今连续数年保持了在港中资资产管理机构的领先地位。2012年起嘉实推出海外ETF 业务,已经先后完成国内的指数在香港市场、纽约和伦敦挂牌上市。2015年,嘉实分别在伦敦与纽约注册成立分公司,进一步拓展国际市场。\n    2014年嘉实推进集团化发展,在二级市场投资中所建立的主动管理投资能力,逐步向更广泛的投资领域拓展,投资涵盖VC、PE、PIPE、新三板投资、并购投资等,并围绕优质标的积极进行产业的上下游布局,构建完整金融产业链。\n    嘉实基金始终以“创造财富增值,服务未来生活”为使命,以普惠金融为理念,创造优质产品和服务,力争实现客户、员工和公司长期共赢发展,从而使嘉实成为具有国际竞争力的综合金融集团。",
+    "fund_position": {
+      "stock_percent": 90.75,
+      "cash_percent": 9.14,
+      "other_percent": 0.11,
+      "asset_tot": 1576143801.61,
+      "asset_val": 1567627610.56,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "长城汽车",
+          "code": "601633",
+          "percent": 10.08,
+          "current_price": 25.89,
+          "change_percentage": 3.39,
+          "xq_symbol": "SH601633",
+          "xq_url": "https://xueqiu.com/S/SH601633",
+          "amarket": true
+        },
+        {
+          "name": "安井食品",
+          "code": "603345",
+          "percent": 8.99,
+          "current_price": 178.99,
+          "change_percentage": -1.12,
+          "xq_symbol": "SH603345",
+          "xq_url": "https://xueqiu.com/S/SH603345",
+          "amarket": true
+        },
+        {
+          "name": "双汇发展",
+          "code": "000895",
+          "percent": 8.41,
+          "current_price": 48.4,
+          "change_percentage": 1.4,
+          "xq_symbol": "SZ000895",
+          "xq_url": "https://xueqiu.com/S/SZ000895",
+          "amarket": true
+        },
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 8.3,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "盈趣科技",
+          "code": "002925",
+          "percent": 7.99,
+          "current_price": 63.82,
+          "change_percentage": 0.22,
+          "xq_symbol": "SZ002925",
+          "xq_url": "https://xueqiu.com/S/SZ002925",
+          "amarket": true
+        },
+        {
+          "name": "新经典",
+          "code": "603096",
+          "percent": 7.44,
+          "current_price": 52.44,
+          "change_percentage": -2.16,
+          "xq_symbol": "SH603096",
+          "xq_url": "https://xueqiu.com/S/SH603096",
+          "amarket": true
+        },
+        {
+          "name": "桃李面包",
+          "code": "603866",
+          "percent": 7.4,
+          "current_price": 62.35,
+          "change_percentage": 1.95,
+          "xq_symbol": "SH603866",
+          "xq_url": "https://xueqiu.com/S/SH603866",
+          "amarket": true
+        },
+        {
+          "name": "格力电器",
+          "code": "000651",
+          "percent": 6.13,
+          "current_price": 65.66,
+          "change_percentage": -3.44,
+          "xq_symbol": "SZ000651",
+          "xq_url": "https://xueqiu.com/S/SZ000651",
+          "amarket": true
+        },
+        {
+          "name": "春秋航空",
+          "code": "601021",
+          "percent": 5.88,
+          "current_price": 51.71,
+          "change_percentage": 0.23,
+          "xq_symbol": "SH601021",
+          "xq_url": "https://xueqiu.com/S/SH601021",
+          "amarket": true
+        },
+        {
+          "name": "安琪酵母",
+          "code": "600298",
+          "percent": 5.13,
+          "current_price": 50.15,
+          "change_percentage": -0.89,
+          "xq_symbol": "SH600298",
+          "xq_url": "https://xueqiu.com/S/SH600298",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "001044",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.00"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "365天≤持有期限<730天",
+          "value": "0.250"
+        },
+        {
+          "name": "730天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "谭丽",
+        "resume": "    谭丽女士,硕士研究生,18年证券从业经历,具有基金从业资格。曾在北京海问投资咨询有限公司、国信证券股份有限公司及泰达荷银基金管理有限公司任研究员、基金经理助理职务。2007年 9月加入嘉实基金管理有限公司,曾任研究员、投资经理。2017年 6月 21日至 2019年 1月 10日任嘉实沪港深回报混合型证券投资基金基金经理。2017年 4月 11日至今任嘉实新消费股票型证券投资基金基金经理、2017年 11月 6日至今任嘉实价值精选股票型证券投资基金基金经理、2017年 11月 14日至今任嘉实价值优势混合型证券投资基金基金经理、2018年 9月 5日至今任嘉实丰和灵活配置混合型证券投资基金基金经理、2020年1月 8日至今任嘉实 3年封闭运作战略配售灵活配置混合型证券投资基金(LOF)基金经理、2020年 9月 21日至今任嘉实价值发现三个月定期开放混合型发起式证券投资基金基金经理。",
+        "work_year": "18",
+        "achievement_list": [
+          {
+            "fund_code": "010190",
+            "fundsname": "嘉实价值发现三个月定期混合",
+            "post_date": "2020-09-21",
+            "cp_rate": 13.33
+          },
+          {
+            "fund_code": "501189",
+            "fundsname": "嘉实3年封闭运作战略配售(LOF)",
+            "post_date": "2020-01-08",
+            "cp_rate": 9.9652
+          },
+          {
+            "fund_code": "004355",
+            "fundsname": "嘉实丰和灵活配置混合",
+            "post_date": "2018-09-05",
+            "cp_rate": 112.0587
+          },
+          {
+            "fund_code": "070019",
+            "fundsname": "嘉实价值优势混合",
+            "post_date": "2017-11-14",
+            "cp_rate": 88.669
+          },
+          {
+            "fund_code": "005267",
+            "fundsname": "嘉实价值精选股票",
+            "post_date": "2017-11-06",
+            "cp_rate": 89.95
+          },
+          {
+            "fund_code": "004477",
+            "fundsname": "嘉实沪港深回报混合",
+            "post_date": "2017-06-21",
+            "resi_date": "2019-01-10",
+            "cp_rate": -7.6489
+          },
+          {
+            "fund_code": "001044",
+            "fundsname": "嘉实新消费股票",
+            "post_date": "2017-04-11",
+            "cp_rate": 141.1826
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "001044",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

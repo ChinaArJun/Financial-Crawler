@@ -1,0 +1,341 @@
+{
+  "data": {
+    "fund_company": "    东方基金管理有限责任公司成立于2004年6月,注册地在北京。目前设立了北京、上海、广州三个分公司。 是一家业务范围覆盖公募业务、专户特定资产管理业务、大资产管理服务等多个领域的综合型资产管理公司,致力于成为值得投资者托付与信赖的财富管理机构。股东包括东北证券股份有限公司(持股64%)、河北省国有资产控股运营有限公司(持股27%)和渤海国际信托有限公司(持股9%)。\n    作为以诚信而立的资产管理人,为持有人创造长期稳健的回报是东方基金的核心价值所在。公司成立以来,已经建立起了一套成熟、高效的投资决策、风险控制、研究支持、运作保障和市场拓展体系。\n    “稳健投资创造持久价值”,未来东方基金将以市场为导向,投资者利益为中心,依托公司完善的治理结构、科学化的风险控制流程,树立知名品牌,提升核心竞争力,努力为千千万万持有人创造优质理财服务,并携手广大投资者共创资本市场美好明天。\n    截至2016年第一季度末,公司旗下拥有31只不同风险收益特征的公募基金产品,规模达281亿元。管理28个特定客户资产管理计划,规模超48亿元。各类资产总规模超过300亿元,为约300万客户提供理财服务。\n    公司股东结构稳定,治理结构严谨,管理规范,为公司健康发展提供了优势土壤。\n    东方基金自成立以来,高度重视风险控制体系的建设,建立完善了保证公司有序运行和基金有效管理的内部控制和风险管理架构。自上而下、由点及面,覆盖到每一部门的运作,贯彻到每一环节的执行,渗透到每一员工的思想行为,权责分明、相互制衡。",
+    "fund_position": {
+      "stock_percent": 92.42,
+      "cash_percent": 7,
+      "other_percent": 0.58,
+      "asset_tot": 358522852.54,
+      "asset_val": 351008810.86,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "海天味业",
+          "code": "603288",
+          "percent": 9.09,
+          "current_price": 183.5,
+          "change_percentage": 0.84,
+          "xq_symbol": "SH603288",
+          "xq_url": "https://xueqiu.com/S/SH603288",
+          "amarket": true
+        },
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 8.94,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 8.94,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "山西汾酒",
+          "code": "600809",
+          "percent": 8.92,
+          "current_price": 265.1,
+          "change_percentage": 1.54,
+          "xq_symbol": "SH600809",
+          "xq_url": "https://xueqiu.com/S/SH600809",
+          "amarket": true
+        },
+        {
+          "name": "古井贡酒",
+          "code": "000596",
+          "percent": 8.89,
+          "current_price": 229.01,
+          "change_percentage": 0.04,
+          "xq_symbol": "SZ000596",
+          "xq_url": "https://xueqiu.com/S/SZ000596",
+          "amarket": true
+        },
+        {
+          "name": "泸州老窖",
+          "code": "000568",
+          "percent": 8.83,
+          "current_price": 191.85,
+          "change_percentage": 0.56,
+          "xq_symbol": "SZ000568",
+          "xq_url": "https://xueqiu.com/S/SZ000568",
+          "amarket": true
+        },
+        {
+          "name": "长春高新",
+          "code": "000661",
+          "percent": 8.74,
+          "current_price": 388,
+          "change_percentage": 0.19,
+          "xq_symbol": "SZ000661",
+          "xq_url": "https://xueqiu.com/S/SZ000661",
+          "amarket": true
+        },
+        {
+          "name": "华兰生物",
+          "code": "002007",
+          "percent": 6.12,
+          "current_price": 43.73,
+          "change_percentage": -3.19,
+          "xq_symbol": "SZ002007",
+          "xq_url": "https://xueqiu.com/S/SZ002007",
+          "amarket": true
+        },
+        {
+          "name": "智飞生物",
+          "code": "300122",
+          "percent": 4.96,
+          "current_price": 139.38,
+          "change_percentage": -0.39,
+          "xq_symbol": "SZ300122",
+          "xq_url": "https://xueqiu.com/S/SZ300122",
+          "amarket": true
+        },
+        {
+          "name": "今世缘",
+          "code": "603369",
+          "percent": 4.55,
+          "current_price": 51.8,
+          "change_percentage": 1.11,
+          "xq_symbol": "SH603369",
+          "xq_url": "https://xueqiu.com/S/SH603369",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "001384",
+      "subscribe_rate": "0",
+      "declare_rate": "0.80",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "0.80"
+        },
+        {
+          "name": "50万≤买入金额<100万",
+          "value": "0.50"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "0.30"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<90天",
+          "value": "0.500"
+        },
+        {
+          "name": "90天≤持有期限<180天",
+          "value": "0.500"
+        },
+        {
+          "name": "180天≤持有期限<365天",
+          "value": "0.250"
+        },
+        {
+          "name": "365天≤持有期限<730天",
+          "value": "0.050"
+        },
+        {
+          "name": "730天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.20"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.00"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "王然",
+        "resume": "    王然女士,权益研究部副总经理,投资决策委员会委员,北京交通大学产业经济学硕士,11年证券从业经历,曾任益民基金交通运输、纺织服装、轻工制造行业研究员。2010年4月加盟东方基金管理有限责任公司,曾任权益投资部交通运输、纺织服装、商业零售行业研究员,东方策略成长股票型开放式证券投资基金(于2015年8月7日转型为东方策略成长混合型开放式证券投资基金)基金经理助理、东方策略成长股票型开放式证券投资基金(于2015年8月7日转型为东方策略成长混合型开放式证券投资基金)基金经理、东方赢家保本混合型证券投资基金基金经理、东方保本混合型开放式证券投资基金(于2017年5月11日转型为东方成长收益平衡混合型基金)基金经理、东方荣家保本混合型证券投资基金基金经理、东方民丰回报赢安定期开放混合型证券投资基金(于2017年9月13日起转型为东方民丰回报赢安混合型证券投资基金)基金经理、东方成长收益平衡混合型证券投资基金(于2018年1月17日转型为东方成长收益灵活配置混合型证券投资基金)基金经理、东方成长收益灵活配置混合型证券投资基金基金经理、东方价值挖掘灵活配置混合型证券投资基金基金经理、东方合家保本混合型证券投资基金基金经理,现任东方策略成长混合型开放式证券投资基金基金经理、东方新兴成长混合型证券投资基金基金经理、东方新思路灵活配置混合型证券投资基金基金经理、东方民丰回报赢安混合型证券投资基金基金经理、东方盛世灵活配置混合型证券投资基金基金经理、东方大健康混合型证券投资基金基金经理。",
+        "college": "北京交通大学",
+        "work_year": "12",
+        "achievement_list": [
+          {
+            "fund_code": "009590",
+            "fundsname": "东方盛世灵活配置混合C",
+            "post_date": "2020-06-11",
+            "cp_rate": 12.0423
+          },
+          {
+            "fund_code": "006235",
+            "fundsname": "东方城镇消费主题混合",
+            "post_date": "2019-05-27",
+            "cp_rate": 65.6334
+          },
+          {
+            "fund_code": "002173",
+            "fundsname": "东方大健康混合",
+            "post_date": "2017-09-13",
+            "resi_date": "2019-10-15",
+            "cp_rate": 1.9162
+          },
+          {
+            "fund_code": "004166",
+            "fundsname": "东方价值挖掘灵活配置混合A",
+            "post_date": "2017-05-17",
+            "resi_date": "2018-08-17",
+            "cp_rate": -4.27
+          },
+          {
+            "fund_code": "400013",
+            "fundsname": "东方成长收益灵活配置混合A",
+            "post_date": "2017-05-11",
+            "resi_date": "2018-08-17",
+            "cp_rate": 0.5179
+          },
+          {
+            "fund_code": "004006",
+            "fundsname": "东方民丰回报赢安混合C",
+            "post_date": "2017-03-09",
+            "resi_date": "2020-09-02",
+            "cp_rate": 4.15
+          },
+          {
+            "fund_code": "004005",
+            "fundsname": "东方民丰回报赢安混合A",
+            "post_date": "2017-03-09",
+            "resi_date": "2020-09-02",
+            "cp_rate": 5.09
+          },
+          {
+            "fund_code": "002648",
+            "fundsname": "东方合家保本混合",
+            "post_date": "2016-06-16",
+            "resi_date": "2018-06-26",
+            "cp_rate": 5.4278
+          },
+          {
+            "fund_code": "002497",
+            "fundsname": "东方盛世灵活配置混合A",
+            "post_date": "2016-04-15",
+            "cp_rate": 43.17
+          },
+          {
+            "fund_code": "002480",
+            "fundsname": "东方荣家保本混合",
+            "post_date": "2016-03-29",
+            "resi_date": "2017-09-13",
+            "cp_rate": 4.3457
+          },
+          {
+            "fund_code": "001317",
+            "fundsname": "东方赢家保本混合",
+            "post_date": "2015-07-16",
+            "resi_date": "2016-12-13",
+            "cp_rate": 9.0349
+          },
+          {
+            "fund_code": "001385",
+            "fundsname": "东方新思路混合C",
+            "post_date": "2015-06-25",
+            "cp_rate": 66.83
+          },
+          {
+            "fund_code": "001384",
+            "fundsname": "东方新思路混合A",
+            "post_date": "2015-06-25",
+            "cp_rate": 70.4179
+          },
+          {
+            "fund_code": "400025",
+            "fundsname": "东方新兴成长混合",
+            "post_date": "2015-06-25",
+            "cp_rate": 76.2086
+          },
+          {
+            "fund_code": "400007",
+            "fundsname": "东方策略成长混合",
+            "post_date": "2015-05-04",
+            "cp_rate": 53.899
+          },
+          {
+            "fund_code": "400013",
+            "fundsname": "东方保本混合型基金",
+            "post_date": "2015-04-30",
+            "resi_date": "2017-05-10",
+            "cp_rate": 7.0693
+          }
+        ]
+      },
+      {
+        "name": "曲华锋",
+        "resume": "    吉林大学信用经济与管理专业硕士,7年证券从业经历。\n    2012年加盟东方基金管理有限责任公司,曾任权益投资部研究员,东方策略成长混合型开放式证券投资基金基金经理助理、东方新兴成长混合型证券投资基金基金经理助理。",
+        "college": "吉林大学",
+        "achievement_list": [
+          {
+            "fund_code": "004005",
+            "fundsname": "东方民丰回报赢安混合A",
+            "post_date": "2020-09-02",
+            "cp_rate": 0.59
+          },
+          {
+            "fund_code": "004006",
+            "fundsname": "东方民丰回报赢安混合C",
+            "post_date": "2020-09-02",
+            "cp_rate": 0.4993
+          },
+          {
+            "fund_code": "001384",
+            "fundsname": "东方新思路混合A",
+            "post_date": "2020-04-30",
+            "cp_rate": 73.6883
+          },
+          {
+            "fund_code": "001385",
+            "fundsname": "东方新思路混合C",
+            "post_date": "2020-04-30",
+            "cp_rate": 73.2813
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "001384",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

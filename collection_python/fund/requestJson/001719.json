@@ -1,0 +1,269 @@
+{
+  "data": {
+    "fund_company": "    工银瑞信基金管理有限公司是由中国工商银行和瑞士信贷合资设立的基金管理公司,成立于2005年6月。目前,公司在北京、上海、深圳等地设有分公司,分别在香港和上海设有全资子公司——工银瑞信资产管理(国际)有限公司、工银瑞信投资管理有限公司。\n    自成立以来,公司坚持“以稳健的投资管理,为客户提供卓越的理财服务”为使命,依托强大的股东背景、稳健的经营理念、科学的投研体系、严密的风控机制和资深的管理团队,立足专业化、国际化、规范化,坚持“稳健投资、价值投资、长期投资”,致力于为广大投资者提供一流的投资管理服务。\n    公司秉持“以人为本”的理念,全方位引入国内外优秀人才,组建了一支风格稳健、诚信敬业、创新进取、团结协作的专业团队。目前,公司共有员工逾550人,平均年龄32岁,72%的员工拥有硕士以上学历。公司投研团队由资深基金经理和研究员组成,投研人员逾170人,投资人员平均拥有约10年的从业经验。\n    经过十多年的发展,工银瑞信已成为一家拥有公募基金、专户管理、企业年金、社保基金境内外委托投资、基本养老保险基金委托投资、保险资金委托投资、企业年金养老产品、QDII、QFII、RQFII等多项业务资格的全能型资产管理公司,公司为逾1600万境内外个人和机构投资者提供涵盖公募与私募、上市与非上市、境内与跨境业务的全方位财富管理服务。\n    公司成立以来以持续优秀的投资业绩、完善周到的客户服务,赢得了广大基金投资人、社保理事会、企业年金客户、专户客户等的认可和信赖。截至2016年12月31日,工银瑞信(含子公司)旗下管理近100只公募基金和多个年金、专户组合,资产管理规模逾11000亿元,其中公募基金管理规模逾4600亿元,公司已经发展成为国内业务资格全面、产品种类丰富、经营业绩优秀、资产管理规模领先、业务发展均衡的基金管理公司之一。",
+    "fund_position": {
+      "stock_percent": 92.52,
+      "cash_percent": 6.81,
+      "other_percent": 0.67,
+      "asset_tot": 155439308.35,
+      "asset_val": 153186082.84,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "华泰证券",
+          "code": "601688",
+          "percent": 9.1,
+          "current_price": 19.14,
+          "change_percentage": -0.31,
+          "xq_symbol": "SH601688",
+          "xq_url": "https://xueqiu.com/S/SH601688",
+          "amarket": true
+        },
+        {
+          "name": "中信证券",
+          "code": "600030",
+          "percent": 9.02,
+          "current_price": 30.01,
+          "change_percentage": 0,
+          "xq_symbol": "SH600030",
+          "xq_url": "https://xueqiu.com/S/SH600030",
+          "amarket": true
+        },
+        {
+          "name": "东方财富",
+          "code": "300059",
+          "percent": 8.83,
+          "current_price": 28.05,
+          "change_percentage": 1.08,
+          "xq_symbol": "SZ300059",
+          "xq_url": "https://xueqiu.com/S/SZ300059",
+          "amarket": true
+        },
+        {
+          "name": "扬农化工",
+          "code": "600486",
+          "percent": 5.93,
+          "current_price": 120.75,
+          "change_percentage": 0.02,
+          "xq_symbol": "SH600486",
+          "xq_url": "https://xueqiu.com/S/SH600486",
+          "amarket": true
+        },
+        {
+          "name": "紫金矿业",
+          "code": "601899",
+          "percent": 5.75,
+          "current_price": 8.91,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601899",
+          "xq_url": "https://xueqiu.com/S/SH601899",
+          "amarket": true
+        },
+        {
+          "name": "隆平高科",
+          "code": "000998",
+          "percent": 5.35,
+          "current_price": 17.78,
+          "change_percentage": -1.93,
+          "xq_symbol": "SZ000998",
+          "xq_url": "https://xueqiu.com/S/SZ000998",
+          "amarket": true
+        },
+        {
+          "name": "恒生电子",
+          "code": "600570",
+          "percent": 5.25,
+          "current_price": 98.15,
+          "change_percentage": 1.31,
+          "xq_symbol": "SH600570",
+          "xq_url": "https://xueqiu.com/S/SH600570",
+          "amarket": true
+        },
+        {
+          "name": "光环新网",
+          "code": "300383",
+          "percent": 4.67,
+          "current_price": 18.86,
+          "change_percentage": -0.58,
+          "xq_symbol": "SZ300383",
+          "xq_url": "https://xueqiu.com/S/SZ300383",
+          "amarket": true
+        },
+        {
+          "name": "光迅科技",
+          "code": "002281",
+          "percent": 4.47,
+          "current_price": 31.69,
+          "change_percentage": -0.03,
+          "xq_symbol": "SZ002281",
+          "xq_url": "https://xueqiu.com/S/SZ002281",
+          "amarket": true
+        },
+        {
+          "name": "航发动力",
+          "code": "600893",
+          "percent": 4.15,
+          "current_price": 46.99,
+          "change_percentage": -1.49,
+          "xq_symbol": "SH600893",
+          "xq_url": "https://xueqiu.com/S/SH600893",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "001719",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<300万",
+          "value": "1.00"
+        },
+        {
+          "name": "300万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.300"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "陈小鹭",
+        "resume": "    陈小鹭先生,11年证券从业经验;曾在华泰联合证券担任研究员;2011年加入工银瑞信基金管理有限公司,现任研究部基础化工行业高级研究员、基金经理;2016年9月22日至2019年8月14日,担任工银瑞信新材料新能源行业股票型证券投资基金基金经理;2018年11月30日至今,担任工银瑞信国家战略主题股票型证券投资基金基金经理;2019年12月25日至今,担任工银瑞信产业升级股票型证券投资基金基金经理。",
+        "work_year": "11",
+        "achievement_list": [
+          {
+            "fund_code": "002004",
+            "fundsname": "工银新机遇灵活配置混合C",
+            "post_date": "2020-11-26",
+            "cp_rate": 1.9076
+          },
+          {
+            "fund_code": "002003",
+            "fundsname": "工银新机遇灵活配置混合A",
+            "post_date": "2020-11-26",
+            "cp_rate": 1.9383
+          },
+          {
+            "fund_code": "001648",
+            "fundsname": "工银新价值灵活配置混合",
+            "post_date": "2020-11-26",
+            "cp_rate": 1.7045
+          },
+          {
+            "fund_code": "000672",
+            "fundsname": "工银绝对收益混合发起B",
+            "post_date": "2020-11-26",
+            "cp_rate": 0
+          },
+          {
+            "fund_code": "000667",
+            "fundsname": "工银绝对收益混合发起A",
+            "post_date": "2020-11-26",
+            "cp_rate": 0
+          },
+          {
+            "fund_code": "486001",
+            "fundsname": "工银全球股票(QDII)",
+            "post_date": "2020-11-26",
+            "cp_rate": 0
+          },
+          {
+            "fund_code": "481017",
+            "fundsname": "工银量化策略混合",
+            "post_date": "2020-11-26",
+            "cp_rate": 2.9448
+          },
+          {
+            "fund_code": "486002",
+            "fundsname": "工银全球精选股票(QDII)",
+            "post_date": "2020-11-26",
+            "cp_rate": 1.3879
+          },
+          {
+            "fund_code": "007675",
+            "fundsname": "工银产业升级股票C",
+            "post_date": "2019-12-25",
+            "cp_rate": 28.44
+          },
+          {
+            "fund_code": "007674",
+            "fundsname": "工银产业升级股票A",
+            "post_date": "2019-12-25",
+            "cp_rate": 29.43
+          },
+          {
+            "fund_code": "001719",
+            "fundsname": "工银国家战略股票",
+            "post_date": "2018-11-30",
+            "cp_rate": 131.3376
+          },
+          {
+            "fund_code": "001158",
+            "fundsname": "工银新材料新能源股票",
+            "post_date": "2016-09-22",
+            "resi_date": "2019-08-14",
+            "cp_rate": -11.9463
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "001719",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

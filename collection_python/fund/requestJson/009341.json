@@ -1,0 +1,276 @@
+{
+  "data": {
+    "fund_company": "    易方达基金管理有限公司(简称“易方达”或“公司”)成立于2001年4月17日,总部设在广州,在北京、上海、香港等地设有办公室。\n    十六年来,历经多轮市场周期的考验,公司始终坚持以“诚信”和“专业”立足,致力于为投资者创造价值,较好把握了中国资本市场发展的机遇,各项业务稳健快速增长。目前已经形成了覆盖主动权益、固定收益、指数量化、海外投资、非标投资、多资产投资等六大投资板块全方位发展的业务格局,在管理规模、市场地位、投资能力、风控和运营水平等多方面形成了比较突出的优势。截至2016年12月31日,公司旗下管理的各类资产总规模10491亿元,其中公募基金规模4283亿元,公募基金规模排名连续12年保持在行业前五名,服务客户超过5000万户,公司净资产66亿元,在国内资产管理行业具有领先的市场地位和综合实力。2016 年,公司确立了“以资产管理业务为核心的世界级金融企业”的新战略愿景,引领全体员工继续开拓奋进。",
+    "fund_position": {
+      "stock_percent": 74.02,
+      "bond_percent": 0,
+      "cash_percent": 12.7,
+      "other_percent": 13.28,
+      "asset_tot": 19118162173.54,
+      "asset_val": 19028840029.2,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "腾讯控股",
+          "code": "00700",
+          "percent": 4.79,
+          "xq_symbol": "00700",
+          "xq_url": "https://xueqiu.com/S/00700",
+          "amarket": false
+        },
+        {
+          "name": "亿纬锂能",
+          "code": "300014",
+          "percent": 3.48,
+          "current_price": 63.71,
+          "change_percentage": 4.17,
+          "xq_symbol": "SZ300014",
+          "xq_url": "https://xueqiu.com/S/SZ300014",
+          "amarket": true
+        },
+        {
+          "name": "中国中免",
+          "code": "601888",
+          "percent": 3.4,
+          "current_price": 208.03,
+          "change_percentage": 0.13,
+          "xq_symbol": "SH601888",
+          "xq_url": "https://xueqiu.com/S/SH601888",
+          "amarket": true
+        },
+        {
+          "name": "香港交易所",
+          "code": "00388",
+          "percent": 3.3,
+          "xq_symbol": "00388",
+          "xq_url": "https://xueqiu.com/S/00388",
+          "amarket": false
+        },
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 2.55,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "药明康德",
+          "code": "603259",
+          "percent": 2.53,
+          "current_price": 110.9,
+          "change_percentage": -0.12,
+          "xq_symbol": "SH603259",
+          "xq_url": "https://xueqiu.com/S/SH603259",
+          "amarket": true
+        },
+        {
+          "name": "青岛啤酒股份",
+          "code": "00168",
+          "percent": 2.05,
+          "xq_symbol": "00168",
+          "xq_url": "https://xueqiu.com/S/00168",
+          "amarket": false
+        },
+        {
+          "name": "格力电器",
+          "code": "000651",
+          "percent": 2.04,
+          "current_price": 65.66,
+          "change_percentage": -3.44,
+          "xq_symbol": "SZ000651",
+          "xq_url": "https://xueqiu.com/S/SZ000651",
+          "amarket": true
+        },
+        {
+          "name": "招商银行",
+          "code": "600036",
+          "percent": 1.76,
+          "current_price": 44.26,
+          "change_percentage": -0.36,
+          "xq_symbol": "SH600036",
+          "xq_url": "https://xueqiu.com/S/SH600036",
+          "amarket": true
+        },
+        {
+          "name": "中国平安",
+          "code": "02318",
+          "percent": 1.03,
+          "xq_symbol": "02318",
+          "xq_url": "https://xueqiu.com/S/02318",
+          "amarket": false
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "隆20转债",
+          "code": "113038",
+          "percent": 0,
+          "xq_symbol": "113038",
+          "xq_url": "https://xueqiu.com/S/113038",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "009341",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "1.0",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.20"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.30"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<90天",
+          "value": "0.500"
+        },
+        {
+          "name": "90天≤持有期限<180天",
+          "value": "0.500"
+        },
+        {
+          "name": "180天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "365天≤持有期限<730天",
+          "value": "0.250"
+        },
+        {
+          "name": "730天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "陈皓",
+        "resume": "    陈皓先生,管理学硕士。曾任易方达基金管理有限公司行业研究员、基金经理助理、投资一部总经理助理、投资一部副总经理、投资经理、易方达价值精选混合型证券投资基金基金经理(自2014年11月22日至2017年5月10日)、易方达供给改革灵活配置混合型证券投资基金基金经理(自2017年1月25日至2018年12月24日)、易方达国防军工混合型证券投资基金基金经理(自2015年6月19日至2020年6月5日)、易方达科融混合型证券投资基金基金经理(自2019年3月26日至2020年7月31日)。现任易方达基金管理有限公司副总经理级高级管理人员、投资一部总经理、权益投资决策委员会委员、易方达平稳增长证券投资基金基金经理(自2012年9月28日起任职)、易方达科翔混合型证券投资基金基金经理(自2014年5月10日起任职)、易方达新经济灵活配置混合型证券投资基金基金经理(自2015年2月12日起任职)、易方达科讯混合型证券投资基金基金经理(自2018年12月11日起任职)、易方达均衡成长股票型证券投资基金基金经理(自2020年5月22日起任职)、易方达创新未来18个月封闭运作混合型证券投资基金基金经理(自2020年9月29日起任职)。",
+        "work_year": "13",
+        "achievement_list": [
+          {
+            "fund_code": "010650",
+            "fundsname": "易方达创新未来18个月封闭混合B",
+            "post_date": "2020-11-23",
+            "cp_rate": -0.1573
+          },
+          {
+            "fund_code": "010317",
+            "fundsname": "易方达创新未来18个月封闭混合C",
+            "post_date": "2020-09-29",
+            "cp_rate": 1.55
+          },
+          {
+            "fund_code": "009341",
+            "fundsname": "易方达均衡成长股票",
+            "post_date": "2020-05-22",
+            "cp_rate": 10.68
+          },
+          {
+            "fund_code": "006533",
+            "fundsname": "易方达科融混合",
+            "post_date": "2019-03-26",
+            "resi_date": "2020-08-01",
+            "cp_rate": 88.16
+          },
+          {
+            "fund_code": "110029",
+            "fundsname": "易方达科讯混合",
+            "post_date": "2018-12-11",
+            "cp_rate": 109.6183
+          },
+          {
+            "fund_code": "002910",
+            "fundsname": "易方达供给改革灵活配置混合",
+            "post_date": "2017-01-25",
+            "resi_date": "2018-12-25",
+            "cp_rate": -19.39
+          },
+          {
+            "fund_code": "001475",
+            "fundsname": "易方达国防军工混合",
+            "post_date": "2015-06-19",
+            "resi_date": "2020-06-06",
+            "cp_rate": -11.7
+          },
+          {
+            "fund_code": "001018",
+            "fundsname": "易方达新经济灵活配置混合",
+            "post_date": "2015-02-12",
+            "cp_rate": 205.8
+          },
+          {
+            "fund_code": "110009",
+            "fundsname": "易方达价值精选混合",
+            "post_date": "2014-11-22",
+            "resi_date": "2017-05-11",
+            "cp_rate": 34.4557
+          },
+          {
+            "fund_code": "110013",
+            "fundsname": "易方达科翔混合",
+            "post_date": "2014-05-10",
+            "cp_rate": 395.5961
+          },
+          {
+            "fund_code": "110001",
+            "fundsname": "易方达平稳增长混合",
+            "post_date": "2012-09-28",
+            "cp_rate": 293.0423
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "009341",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

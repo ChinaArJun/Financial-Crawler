@@ -39,7 +39,7 @@ curl 'https://danjuanfunds.com/djapi/fund/detail/110011' \
 """
 
 
-def get_fund_json(fund_code, fund_name="", to_file=False):
+def get_fund_json(fund_code, fund_name="", to_file=True):
     """抓取蛋卷基金数据"""
     url = "https://danjuanfunds.com/djapi/fund/detail/{}".format(fund_code)
           # "https://danjuanfunds.com/djapi/fund/detail/005825"
@@ -70,7 +70,7 @@ def get_fund_json(fund_code, fund_name="", to_file=False):
     jsontext = resp.text  # 重定向到 json 文件可以格式化查看
 
     if to_file:  # 写到本地 json 文件方便调试
-        filename = "./{}.json".format(fund_code)
+        filename = "./requestJson/{}.json".format(fund_code)
         with open(filename, "w") as f:
             json.dump(resp.json(), f, indent=2, ensure_ascii=False)
 
@@ -109,8 +109,8 @@ def get_managers(manager_list):
 def parse_danjuan_fund(fund_code, json_text):
     d = json.loads(json_text)
     print("抓取状态:%s"%d)
-    print(d.__contains__('manager_list'))
-    if not d.__contains__('manager_list') or not d.__contains__('data'):
+    print('manager_list' in d)
+    if 'manager_list' in d == False or 'data' in d == False:
         return "", "", ""
     if d['result_code'] == 600001:
         return "", "", ""

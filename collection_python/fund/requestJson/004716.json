@@ -1,0 +1,406 @@
+{
+  "data": {
+    "fund_company": "    信诚基金管理有限公司成立于2005年9月,注册资本人民币2亿元,其中,中信信托有限责任公司和英国保诚集团股份有限公司各持股权49%,中新苏州工业园区创业投资有限公司持股2%。公司自成立之初,就坚持“诚则立、信则达”的经营理念,全力以赴,为个人及机构投资者提供符合需要的金融产品和高水平的投资理财服务。\n    中方股东中信信托承接了中信集团的所有信托类资产、负债及业务,是银监会直接监管的三家全国性信托投资公司之一。中信集团目前已发展成为一家金融与实业并举的大型综合性跨国企业集团。其中,金融涉及银行、证券、信托、保险、基金、资产管理等行业和领域;实业涉及房地产、工程承包、资源能源、基础设施、机械制造、信息产业等行业和领域,具有较强的综合优势和良好发展势头。截至2014年末,中信集团总资产达47329亿元。公司自2009年以来连续六年入选美国《财富》杂志“世界500强”企业排行榜,2015年排名第186位。(数据来源:中信信托,截至2015年6月30日)外方股东英国保诚集团股份有限公司是英国保诚集团的下属公司。英国保诚集团成立于1848年,是环球领先的金融服务集团。截止2015年6月30日,集团共管理资产达5050亿英镑,在全球拥有约2500万名客户。集团于伦敦、香港、新加坡及纽约四地上市。(数据来源:英国保诚集团,截至2015年6月30日)作为一家中英合资公司,信诚基金在海外投资领域具有得天独厚的优势,充分利用和借鉴外方股东跨市场、多元化的资产管理能力和风险管理经验,深入跟踪全球市场。公司于2009年获得QDII业务资格,在全球化金融服务领域迈出了重要一步。\n    自2006年起,信诚基金便开始发展投资咨询业务。凭借保诚集团在亚洲的跨市场合作平台,以及信诚基金专业的投研团队,信诚基金目前为保诚集团旗下的瀚亚投资提供A股市场的投资咨询服务,该基金为在韩国市场募集的A股基金,截止2015年6月30日,该基金的管理规模约为28.6亿元人民币。\n    截至2016年12月31日,公司旗下共管理55只公募基金产品,包括23只混合型基金、19只债券型基金、9只指数分级基金、2只货币基金、2只QDII基金,已建立起能够满足不同风险需求的完善的产品线。",
+    "fund_position": {
+      "stock_percent": 86.56,
+      "bond_percent": 0.52,
+      "cash_percent": 11.85,
+      "other_percent": 1.07,
+      "asset_tot": 444615948.3,
+      "asset_val": 443626655.23,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 5.83,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "中国平安",
+          "code": "601318",
+          "percent": 4.35,
+          "current_price": 88.05,
+          "change_percentage": -2.58,
+          "xq_symbol": "SH601318",
+          "xq_url": "https://xueqiu.com/S/SH601318",
+          "amarket": true
+        },
+        {
+          "name": "招商银行",
+          "code": "600036",
+          "percent": 2.94,
+          "current_price": 44.26,
+          "change_percentage": -0.36,
+          "xq_symbol": "SH600036",
+          "xq_url": "https://xueqiu.com/S/SH600036",
+          "amarket": true
+        },
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 2.65,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "华泰证券",
+          "code": "601688",
+          "percent": 2.41,
+          "current_price": 19.14,
+          "change_percentage": -0.31,
+          "xq_symbol": "SH601688",
+          "xq_url": "https://xueqiu.com/S/SH601688",
+          "amarket": true
+        },
+        {
+          "name": "兴业银行",
+          "code": "601166",
+          "percent": 2.3,
+          "current_price": 20.26,
+          "change_percentage": -1.17,
+          "xq_symbol": "SH601166",
+          "xq_url": "https://xueqiu.com/S/SH601166",
+          "amarket": true
+        },
+        {
+          "name": "海螺水泥",
+          "code": "600585",
+          "percent": 2.28,
+          "current_price": 53.44,
+          "change_percentage": -1.46,
+          "xq_symbol": "SH600585",
+          "xq_url": "https://xueqiu.com/S/SH600585",
+          "amarket": true
+        },
+        {
+          "name": "恒瑞医药",
+          "code": "600276",
+          "percent": 1.92,
+          "current_price": 90.07,
+          "change_percentage": 0.21,
+          "xq_symbol": "SH600276",
+          "xq_url": "https://xueqiu.com/S/SH600276",
+          "amarket": true
+        },
+        {
+          "name": "国泰君安",
+          "code": "601211",
+          "percent": 1.89,
+          "current_price": 18.44,
+          "change_percentage": -0.38,
+          "xq_symbol": "SH601211",
+          "xq_url": "https://xueqiu.com/S/SH601211",
+          "amarket": true
+        },
+        {
+          "name": "美的集团",
+          "code": "000333",
+          "percent": 1.88,
+          "current_price": 86.7,
+          "change_percentage": -1.54,
+          "xq_symbol": "SZ000333",
+          "xq_url": "https://xueqiu.com/S/SZ000333",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "05国债⑿",
+          "code": "010512",
+          "percent": 0.53,
+          "xq_symbol": "010512",
+          "xq_url": "https://xueqiu.com/S/010512",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "004716",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<50万",
+          "value": "1.50"
+        },
+        {
+          "name": "50万≤买入金额<200万",
+          "value": "1.20"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.80"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.00"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "提云涛",
+        "resume": "    提云涛先生,经济学博士。曾任职于大鹏证券股份有限公司上海分公司,担任研究部分析师;于东方证券有限责任公司,担任研究所所长助理;于上海申银万国证券研究所,历任宏观策略部副总监、金融工程部总监;于平安资产管理有限责任公司,担任量化投研部总经理;于中信证券股份有限公司,担任研究部金融工程总监。2015年6月加入中信保诚基金管理有限公司,担任数量投资总监。现任信诚至益灵活配置混合型证券投资基金、信诚至优灵活配置混合型证券投资基金、信诚至瑞灵活配置混合型证券投资基金、信诚至选灵活配置混合型证券投资基金的基金经理、信诚新选回报灵活配置混合型证券投资基金、信诚新旺回报灵活配置混合型证券投资基金(LOF)、信诚永益一年定期开放混合型证券投资基金、信诚永鑫一年定期开放混合型证券投资基金、信诚永利一年定期开放混合型证券投资基金、信诚量化阿尔法股票型证券投资基金、信诚至泰灵活配置混合型证券投资基金的基金经理、中信保诚红利精选混合型证券投资基金的基金经理。",
+        "college": "复旦大学",
+        "work_year": "21",
+        "achievement_list": [
+          {
+            "fund_code": "008092",
+            "fundsname": "中信保诚红利精选C",
+            "post_date": "2019-12-25",
+            "cp_rate": 39.78
+          },
+          {
+            "fund_code": "008091",
+            "fundsname": "中信保诚红利精选A",
+            "post_date": "2019-12-25",
+            "cp_rate": 40.31
+          },
+          {
+            "fund_code": "003234",
+            "fundsname": "信诚至利灵活配置混合A",
+            "post_date": "2019-06-17",
+            "resi_date": "2019-10-24",
+            "cp_rate": 7.6059
+          },
+          {
+            "fund_code": "003235",
+            "fundsname": "信诚至利灵活配置混合C",
+            "post_date": "2019-06-17",
+            "resi_date": "2019-10-24",
+            "cp_rate": 6.929
+          },
+          {
+            "fund_code": "004156",
+            "fundsname": "信诚至泰C",
+            "post_date": "2017-09-14",
+            "resi_date": "2019-12-30",
+            "cp_rate": 3.14
+          },
+          {
+            "fund_code": "004155",
+            "fundsname": "信诚至泰A",
+            "post_date": "2017-09-14",
+            "resi_date": "2019-12-30",
+            "cp_rate": 3.2014
+          },
+          {
+            "fund_code": "004716",
+            "fundsname": "信诚量化阿尔法股票",
+            "post_date": "2017-07-12",
+            "cp_rate": 69.25
+          },
+          {
+            "fund_code": "004380",
+            "fundsname": "信诚永利A",
+            "post_date": "2017-02-28",
+            "resi_date": "2018-06-25",
+            "cp_rate": 7.9
+          },
+          {
+            "fund_code": "004381",
+            "fundsname": "信诚永利C",
+            "post_date": "2017-02-28",
+            "resi_date": "2018-06-25",
+            "cp_rate": 7.31
+          },
+          {
+            "fund_code": "004329",
+            "fundsname": "信诚永鑫C",
+            "post_date": "2017-02-24",
+            "resi_date": "2018-06-25",
+            "cp_rate": 7.66
+          },
+          {
+            "fund_code": "004328",
+            "fundsname": "信诚永鑫A",
+            "post_date": "2017-02-24",
+            "resi_date": "2018-06-25",
+            "cp_rate": 8.25
+          },
+          {
+            "fund_code": "004172",
+            "fundsname": "信诚永益一年定期开放混合C",
+            "post_date": "2017-01-25",
+            "resi_date": "2020-01-22",
+            "cp_rate": 16.67
+          },
+          {
+            "fund_code": "004171",
+            "fundsname": "信诚永益一年定期开放混合A",
+            "post_date": "2017-01-25",
+            "resi_date": "2020-01-22",
+            "cp_rate": 18.07
+          },
+          {
+            "fund_code": "002030",
+            "fundsname": "信诚新选回报混合B",
+            "post_date": "2016-11-23",
+            "cp_rate": 18.1992
+          },
+          {
+            "fund_code": "001402",
+            "fundsname": "信诚新选回报混合A",
+            "post_date": "2016-11-23",
+            "cp_rate": 18.6553
+          },
+          {
+            "fund_code": "165527",
+            "fundsname": "信诚新旺混合C",
+            "post_date": "2016-11-23",
+            "cp_rate": 36.4073
+          },
+          {
+            "fund_code": "165526",
+            "fundsname": "信诚新旺混合A(LOF)",
+            "post_date": "2016-11-23",
+            "cp_rate": 42.065
+          },
+          {
+            "fund_code": "003380",
+            "fundsname": "信诚至选C",
+            "post_date": "2016-11-08",
+            "cp_rate": 39.11
+          },
+          {
+            "fund_code": "003379",
+            "fundsname": "信诚至选A",
+            "post_date": "2016-11-08",
+            "cp_rate": 39.43
+          },
+          {
+            "fund_code": "003433",
+            "fundsname": "信诚至瑞灵活配置混合C",
+            "post_date": "2016-10-21",
+            "cp_rate": 41.6425
+          },
+          {
+            "fund_code": "003432",
+            "fundsname": "信诚至瑞灵活配置混合A",
+            "post_date": "2016-10-21",
+            "cp_rate": 42.2627
+          },
+          {
+            "fund_code": "003216",
+            "fundsname": "信诚至鑫灵活配置混合C",
+            "post_date": "2016-10-12",
+            "resi_date": "2017-10-24",
+            "cp_rate": 3.98
+          },
+          {
+            "fund_code": "003215",
+            "fundsname": "信诚至鑫灵活配置混合A",
+            "post_date": "2016-10-12",
+            "resi_date": "2017-10-24",
+            "cp_rate": 4.09
+          },
+          {
+            "fund_code": "003353",
+            "fundsname": "信诚至优A",
+            "post_date": "2016-09-26",
+            "resi_date": "2018-06-25",
+            "cp_rate": 14.9785
+          },
+          {
+            "fund_code": "003354",
+            "fundsname": "信诚至优C",
+            "post_date": "2016-09-26",
+            "resi_date": "2018-06-25",
+            "cp_rate": 14.3486
+          },
+          {
+            "fund_code": "003257",
+            "fundsname": "信诚至益灵活配置混合C",
+            "post_date": "2016-09-07",
+            "resi_date": "2017-12-25",
+            "cp_rate": -0.99
+          },
+          {
+            "fund_code": "003256",
+            "fundsname": "信诚至益灵活配置混合A",
+            "post_date": "2016-09-07",
+            "resi_date": "2017-12-25",
+            "cp_rate": -0.81
+          },
+          {
+            "fund_code": "150052",
+            "fundsname": "信诚沪深300指数分级B",
+            "post_date": "2016-03-02",
+            "resi_date": "2017-09-14",
+            "cp_rate": 59.2083
+          },
+          {
+            "fund_code": "150051",
+            "fundsname": "信诚沪深300指数分级A",
+            "post_date": "2016-03-02",
+            "resi_date": "2017-09-14",
+            "cp_rate": 7.0933
+          },
+          {
+            "fund_code": "165515",
+            "fundsname": "信诚沪深300指数分级",
+            "post_date": "2016-03-02",
+            "resi_date": "2017-09-14",
+            "cp_rate": 34.205
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "004716",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 2,
+      "all_buy_days": 2,
+      "all_sale_days": 3
+    }
+  },
+  "result_code": 0
+}

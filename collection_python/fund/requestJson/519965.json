@@ -1,0 +1,382 @@
+{
+  "data": {
+    "fund_company": "    长信基金管理有限责任公司由长江证券股份有限公司、上海海欣(集团)股份有限公司、武汉钢铁股份有限公司共同发起设立,于2003年4月28日经中国证券监督管理委员会批准,并于2003年5月9日成立。注册资本金1.65亿元人民币,公司的经营范围包括发起设立基金、基金管理业务和中国证监会批准的其它业务。\n    股东会是公司的最高权力机构,下设董事会和监事会。公司组织管理实行董事会领导下的总经理负责制,总经理、副总经理、督察长组成公司的经营管理层。在经营管理层下设内部控制委员会、投资决策委员会两个非常设委员会,以及金融工程部、国际业务部、专户理财部、投资管理部、研究发展部、固定收益部、交易管理部、基金事务部、市场开发部、信息技术部、监察稽核部、综合行政部、产品开发部等十三个职能部门,并根据公司发展需要设北京分公司、深圳分公司和武汉办事处。",
+    "fund_position": {
+      "stock_percent": 92.56,
+      "bond_percent": 0.47,
+      "cash_percent": 6.91,
+      "other_percent": 0.06,
+      "asset_tot": 401817071.39,
+      "asset_val": 400505387.64,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "中国平安",
+          "code": "601318",
+          "percent": 4.27,
+          "current_price": 88.05,
+          "change_percentage": -2.58,
+          "xq_symbol": "SH601318",
+          "xq_url": "https://xueqiu.com/S/SH601318",
+          "amarket": true
+        },
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 3.88,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "招商银行",
+          "code": "600036",
+          "percent": 3.76,
+          "current_price": 44.26,
+          "change_percentage": -0.36,
+          "xq_symbol": "SH600036",
+          "xq_url": "https://xueqiu.com/S/SH600036",
+          "amarket": true
+        },
+        {
+          "name": "立讯精密",
+          "code": "002475",
+          "percent": 3.04,
+          "current_price": 52.55,
+          "change_percentage": -0.42,
+          "xq_symbol": "SZ002475",
+          "xq_url": "https://xueqiu.com/S/SZ002475",
+          "amarket": true
+        },
+        {
+          "name": "中信证券",
+          "code": "600030",
+          "percent": 3.02,
+          "current_price": 30.01,
+          "change_percentage": 0,
+          "xq_symbol": "SH600030",
+          "xq_url": "https://xueqiu.com/S/SH600030",
+          "amarket": true
+        },
+        {
+          "name": "中国中免",
+          "code": "601888",
+          "percent": 2.87,
+          "current_price": 208.03,
+          "change_percentage": 0.13,
+          "xq_symbol": "SH601888",
+          "xq_url": "https://xueqiu.com/S/SH601888",
+          "amarket": true
+        },
+        {
+          "name": "伊利股份",
+          "code": "600887",
+          "percent": 2.41,
+          "current_price": 40.68,
+          "change_percentage": 1.24,
+          "xq_symbol": "SH600887",
+          "xq_url": "https://xueqiu.com/S/SH600887",
+          "amarket": true
+        },
+        {
+          "name": "三一重工",
+          "code": "600031",
+          "percent": 2.36,
+          "current_price": 31.48,
+          "change_percentage": -1.41,
+          "xq_symbol": "SH600031",
+          "xq_url": "https://xueqiu.com/S/SH600031",
+          "amarket": true
+        },
+        {
+          "name": "东方财富",
+          "code": "300059",
+          "percent": 2.33,
+          "current_price": 28.05,
+          "change_percentage": 1.08,
+          "xq_symbol": "SZ300059",
+          "xq_url": "https://xueqiu.com/S/SZ300059",
+          "amarket": true
+        },
+        {
+          "name": "海天味业",
+          "code": "603288",
+          "percent": 2.26,
+          "current_price": 183.5,
+          "change_percentage": 0.84,
+          "xq_symbol": "SH603288",
+          "xq_url": "https://xueqiu.com/S/SH603288",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "20国债10",
+          "code": "019640",
+          "percent": 0.4,
+          "xq_symbol": "019640",
+          "xq_url": "https://xueqiu.com/S/019640",
+          "amarket": false
+        },
+        {
+          "name": "东缆转债",
+          "code": "113603",
+          "percent": 0.07,
+          "xq_symbol": "113603",
+          "xq_url": "https://xueqiu.com/S/113603",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "519965",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "1.00"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "1年≤持有期限<2年",
+          "value": "0.250"
+        },
+        {
+          "name": "2年≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "左金保",
+        "resume": "    左金保 量化投资部兼量化研究部总监、基金经理 自2018年3月7日起至今 经济学硕士,武汉大学金融工程专业研究生毕业。2010年7月加入长信基金管理有限责任公司,从事量化投资研究和风险绩效分析工作。历任公司数量分析研究员和风险与绩效评估研究员、长信中证中央企业100指数证券投资基金(LOF)、长信量化多策略股票型证券投资基金、长信中证一带一路主题指数分级证券投资基金、长信中证上海改革发展主题指数型证券投资基金(LOF)、长信量化优选混合型证券投资基金(LOF)、长信利泰灵活配置混合型证券投资基金、长信国防军工量化灵活配置混合型证券投资基金、长信利发债券型证券投资基金、长信先锐债券型证券投资基金、长信量化价值精选混合型证券投资基金、长信先机两年定期开放灵活配置混合型证券投资基金、长信先利半年定期开放混合型证券投资基金和长信沪深300指数增强型证券投资基金的基金经理。现任量化投资部兼量化研究部总监和投资决策委员会执行委员、长信医疗保健行业灵活配置混合型证券投资基金(LOF)、长信量化先锋混合型证券投资基金、长信量化中小盘股票型证券投资基金、长信电子信息行业量化灵活配置混合型证券投资基金、长信低碳环保行业量化股票型证券投资基金、长信消费精选行业量化股票型证券投资基金、长信量化价值驱动混合型证券投资基金和长信量化多策略股票型证券投资基金的基金经理。",
+        "college": "武汉大学",
+        "work_year": "10",
+        "achievement_list": [
+          {
+            "fund_code": "009669",
+            "fundsname": "长信量化价值驱动混合C",
+            "post_date": "2020-06-09",
+            "cp_rate": 30.6041
+          },
+          {
+            "fund_code": "007448",
+            "fundsname": "长信沪深300指数增强C",
+            "post_date": "2019-05-16",
+            "resi_date": "2020-04-22",
+            "cp_rate": 15.6234
+          },
+          {
+            "fund_code": "005137",
+            "fundsname": "长信沪深300指数增强A",
+            "post_date": "2019-05-16",
+            "resi_date": "2020-04-22",
+            "cp_rate": 16.2567
+          },
+          {
+            "fund_code": "519965",
+            "fundsname": "长信量化多策略股票A",
+            "post_date": "2018-08-30",
+            "cp_rate": 69.1205
+          },
+          {
+            "fund_code": "004858",
+            "fundsname": "长信量化多策略股票C",
+            "post_date": "2018-08-30",
+            "cp_rate": 65.8631
+          },
+          {
+            "fund_code": "005399",
+            "fundsname": "长信量化价值驱动混合A",
+            "post_date": "2018-08-09",
+            "cp_rate": 68.72
+          },
+          {
+            "fund_code": "005137",
+            "fundsname": "长信量化价值精选混合",
+            "post_date": "2018-04-19",
+            "resi_date": "2019-05-15",
+            "cp_rate": -5.57
+          },
+          {
+            "fund_code": "004805",
+            "fundsname": "长信消费精选行业量化股票",
+            "post_date": "2018-03-07",
+            "cp_rate": 92.21
+          },
+          {
+            "fund_code": "004806",
+            "fundsname": "长信先机两年定期开放灵活配置混合",
+            "post_date": "2018-02-06",
+            "resi_date": "2019-08-07",
+            "cp_rate": 1.57
+          },
+          {
+            "fund_code": "004925",
+            "fundsname": "长信低碳环保行业量化股票",
+            "post_date": "2017-11-09",
+            "cp_rate": 57.18
+          },
+          {
+            "fund_code": "501003",
+            "fundsname": "长信量化优选混合(LOF)",
+            "post_date": "2017-09-28",
+            "resi_date": "2018-08-06",
+            "cp_rate": -12.4638
+          },
+          {
+            "fund_code": "501003",
+            "fundsname": "长信中证上海改革发展主题指数",
+            "post_date": "2017-04-20",
+            "resi_date": "2017-09-27",
+            "cp_rate": 3.6
+          },
+          {
+            "fund_code": "004221",
+            "fundsname": "长信量化先锋混合C",
+            "post_date": "2017-01-09",
+            "cp_rate": 3.3815
+          },
+          {
+            "fund_code": "002983",
+            "fundsname": "长信国防军工量化灵活配置混合A",
+            "post_date": "2017-01-05",
+            "resi_date": "2018-11-30",
+            "cp_rate": -34.96
+          },
+          {
+            "fund_code": "003059",
+            "fundsname": "长信先利半年定期开放混合A",
+            "post_date": "2016-09-07",
+            "resi_date": "2019-09-16",
+            "cp_rate": 4.74
+          },
+          {
+            "fund_code": "519929",
+            "fundsname": "长信电子信息行业量化混合",
+            "post_date": "2016-07-27",
+            "cp_rate": 37.6
+          },
+          {
+            "fund_code": "519933",
+            "fundsname": "长信利发债券",
+            "post_date": "2016-07-14",
+            "resi_date": "2019-03-08",
+            "cp_rate": 4.264
+          },
+          {
+            "fund_code": "519937",
+            "fundsname": "长信先锐债券",
+            "post_date": "2016-06-02",
+            "resi_date": "2019-04-30",
+            "cp_rate": 4.8895
+          },
+          {
+            "fund_code": "519951",
+            "fundsname": "长信利泰灵活配置混合A",
+            "post_date": "2016-04-18",
+            "resi_date": "2018-09-04",
+            "cp_rate": 3.8944
+          },
+          {
+            "fund_code": "502016",
+            "fundsname": "长信中证一带一路分级",
+            "post_date": "2015-08-17",
+            "resi_date": "2018-02-05",
+            "cp_rate": 8.56
+          },
+          {
+            "fund_code": "502017",
+            "fundsname": "长信中证一带一路分级A",
+            "post_date": "2015-08-17",
+            "resi_date": "2018-02-05",
+            "cp_rate": 11.62
+          },
+          {
+            "fund_code": "502018",
+            "fundsname": "长信中证一带一路分级B",
+            "post_date": "2015-08-17",
+            "resi_date": "2018-02-05",
+            "cp_rate": 5.8
+          },
+          {
+            "fund_code": "163001",
+            "fundsname": "长信医疗保健混合(LOF)",
+            "post_date": "2015-07-20",
+            "cp_rate": 77.9371
+          },
+          {
+            "fund_code": "519975",
+            "fundsname": "长信量化中小盘股票",
+            "post_date": "2015-03-13",
+            "cp_rate": 69.3288
+          },
+          {
+            "fund_code": "519983",
+            "fundsname": "长信量化先锋混合A",
+            "post_date": "2015-03-13",
+            "cp_rate": 105.8414
+          },
+          {
+            "fund_code": "163001",
+            "fundsname": "长信中证中央企业100指数(LOF)",
+            "post_date": "2015-03-13",
+            "resi_date": "2015-07-19",
+            "cp_rate": 33.6244
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "519965",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "fund_company": "    嘉实基金管理有限公司成立于1999年3月,是国内最早成立的十家基金管理公司之一。十七年来,嘉实基金坚持合规经营,秉承“远见者稳进”理念,至今已发展形成涵盖公募基金、机构投资、养老金业务、海外投资、私募股权投资、财富管理等“全牌照”业务,联动一、二级市场投资的金融服务全产业链。截至2016年末,嘉实基金实现各类资产管理规模超9500亿元人民币,连续十年位居行业前列,为逾五千万投资者提供专业、高效的理财服务。\n    发展中的嘉实基金以“助力产业腾飞,服务财富增长”为核心使命,以普惠金融为理念,创造一流的产品和服务,力争实现客户、员工和公司长期共赢发展,致力于使嘉实成为中国领先、具有国际竞争力的资产管理集团。\n    以资产管理为核心的嘉实基金,业内首创“全天候、多策略”的投研模式,已建立超过20个投资策略组,构建丰富的产品线,为投资者创造优秀稳定的回报,屡获行业殊荣。十余年来,嘉实不断获得社保追加的委托管理资产,被包括数十家中央企业在内的300余家企业选定为企业年金投资管理人,为超过800万职工提供企业年金服务。\n    嘉实坚持国际化战略,自2009年建立香港子公司至今连续数年保持了在港中资资产管理机构的领先地位。2012年起嘉实推出海外ETF 业务,已经先后完成国内的指数在香港市场、纽约和伦敦挂牌上市。2015年,嘉实分别在伦敦与纽约注册成立分公司,进一步拓展国际市场。\n    2014年嘉实推进集团化发展,在二级市场投资中所建立的主动管理投资能力,逐步向更广泛的投资领域拓展,投资涵盖VC、PE、PIPE、新三板投资、并购投资等,并围绕优质标的积极进行产业的上下游布局,构建完整金融产业链。\n    嘉实基金始终以“创造财富增值,服务未来生活”为使命,以普惠金融为理念,创造优质产品和服务,力争实现客户、员工和公司长期共赢发展,从而使嘉实成为具有国际竞争力的综合金融集团。",
+    "fund_position": {
+      "stock_percent": 90.89,
+      "bond_percent": 4.77,
+      "cash_percent": 1.28,
+      "other_percent": 3.06,
+      "asset_tot": 3243315753.91,
+      "asset_val": 3145418883.18,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "双汇发展",
+          "code": "000895",
+          "percent": 8.48,
+          "current_price": 48.4,
+          "change_percentage": 1.4,
+          "xq_symbol": "SZ000895",
+          "xq_url": "https://xueqiu.com/S/SZ000895",
+          "amarket": true
+        },
+        {
+          "name": "海大集团",
+          "code": "002311",
+          "percent": 8.42,
+          "current_price": 61,
+          "change_percentage": 0,
+          "xq_symbol": "SZ002311",
+          "xq_url": "https://xueqiu.com/S/SZ002311",
+          "amarket": true
+        },
+        {
+          "name": "泸州老窖",
+          "code": "000568",
+          "percent": 8.35,
+          "current_price": 191.85,
+          "change_percentage": 0.56,
+          "xq_symbol": "SZ000568",
+          "xq_url": "https://xueqiu.com/S/SZ000568",
+          "amarket": true
+        },
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 8.03,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "隆平高科",
+          "code": "000998",
+          "percent": 7.92,
+          "current_price": 17.78,
+          "change_percentage": -1.93,
+          "xq_symbol": "SZ000998",
+          "xq_url": "https://xueqiu.com/S/SZ000998",
+          "amarket": true
+        },
+        {
+          "name": "新希望",
+          "code": "000876",
+          "percent": 6.98,
+          "current_price": 26.59,
+          "change_percentage": -1.3,
+          "xq_symbol": "SZ000876",
+          "xq_url": "https://xueqiu.com/S/SZ000876",
+          "amarket": true
+        },
+        {
+          "name": "妙可蓝多",
+          "code": "600882",
+          "percent": 4.82,
+          "current_price": 39.17,
+          "change_percentage": 0,
+          "xq_symbol": "SH600882",
+          "xq_url": "https://xueqiu.com/S/SH600882",
+          "amarket": true
+        },
+        {
+          "name": "大北农",
+          "code": "002385",
+          "percent": 4.72,
+          "current_price": 9.12,
+          "change_percentage": -1.94,
+          "xq_symbol": "SZ002385",
+          "xq_url": "https://xueqiu.com/S/SZ002385",
+          "amarket": true
+        },
+        {
+          "name": "登海种业",
+          "code": "002041",
+          "percent": 4.2,
+          "current_price": 17.99,
+          "change_percentage": -0.72,
+          "xq_symbol": "SZ002041",
+          "xq_url": "https://xueqiu.com/S/SZ002041",
+          "amarket": true
+        },
+        {
+          "name": "禾丰牧业",
+          "code": "603609",
+          "percent": 4.09,
+          "current_price": 13.6,
+          "change_percentage": 0.37,
+          "xq_symbol": "SH603609",
+          "xq_url": "https://xueqiu.com/S/SH603609",
+          "amarket": true
+        }
+      ],
+      "bond_list": [
+        {
+          "name": "20国债01",
+          "code": "019627",
+          "percent": 2.13,
+          "xq_symbol": "019627",
+          "xq_url": "https://xueqiu.com/S/019627",
+          "amarket": false
+        },
+        {
+          "name": "20农发06",
+          "code": "200406",
+          "percent": 1.9,
+          "xq_symbol": "200406",
+          "xq_url": "https://xueqiu.com/S/200406",
+          "amarket": false
+        },
+        {
+          "name": "国开1805",
+          "code": "108604",
+          "percent": 0.41,
+          "xq_symbol": "108604",
+          "xq_url": "https://xueqiu.com/S/108604",
+          "amarket": false
+        },
+        {
+          "name": "海大转债",
+          "code": "128102",
+          "percent": 0.38,
+          "xq_symbol": "128102",
+          "xq_url": "https://xueqiu.com/S/128102",
+          "amarket": false
+        },
+        {
+          "name": "21国债⑺",
+          "code": "010107",
+          "percent": 0.1,
+          "xq_symbol": "010107",
+          "xq_url": "https://xueqiu.com/S/010107",
+          "amarket": false
+        }
+      ]
+    },
+    "fund_rates": {
+      "fd_code": "003634",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.00"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.60"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<180天",
+          "value": "0.500"
+        },
+        {
+          "name": "180天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "姚爽",
+        "resume": "    姚爽先生经济学硕士,8年证券基金从业经验,历任中再资产农业及食品饮料研究员,中信产业基金农业及食品行业高级研究员。2014年11月加入嘉实基金管理有限公司,现任嘉实基金农业研究员。2016年12月7日至今任嘉实农业产业股票型证券投资基金基金经理。",
+        "work_year": "11",
+        "achievement_list": [
+          {
+            "fund_code": "003634",
+            "fundsname": "嘉实农业产业股票",
+            "post_date": "2016-12-07",
+            "cp_rate": 112.88
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "003634",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

@@ -1,0 +1,345 @@
+{
+  "data": {
+    "fund_company": "    银华基金成立于2001年5月,成立16年以来,凭借诚信、规范、稳健、务实的运作风格,银华基金致力于为广大投资者提供专业的资产管理服务,逐步发展为一个具有大资金管理能力的综合型资产管理公司。截至2016年中,银华基金资产管理规模超五千亿。\n    我们致力于提供有质量的资产管理和理财服务,帮助投资者打造高品质的财富生活。为实现这一目标,我们强调通过严格的制度和流程化管理提升公司的服务质量。2005年8月,银华基金获得企业年金基金投资管理人资格,成为国内9家首批获此资格的基金管理公司之一。2007年10月底,银华基金管理公司正式获得合格境内机构投资者(QDII)资格,获准开展境外证券投资管理业务。在接下来的2008年2月,银华基金管理公司获得特定客户资产管理业务资格。2010年12月,银华基金管理有限公司获得“社保基金境内委托投资管理人”资格。2012年10月,银华基金管理有限公司获得保险资金投资管理人资格。2016年12月,银华基金管理股份有限公司获选首批基本养老保险基金证券投资管理机构。至此,银华基金成为业内为数不多的同时拥有企业年金基金投资管理人资格、合格境内机构投资者业务资格、特定客户资产管理业务资格、社保基金境内委托投资管理人资格、保险资金投资管理人资格和养老保险基金证券投资管理人资格的全牌照基金管理公司。\n    作为一个资产管理者,为持有人提供长期稳健的回报是银华基金的核心价值所在。16年来,银华旗下管理的多只基金业绩排名同类产品前列,并获得多项业内大奖,多次赢得独立专业机构高度评价,为持有人带来了可持续的稳健投资回报。银华基金因为整体业绩表现突出,五度荣膺“金牛基金公司”。\n    时至今日,银华基金旗下管理着六十八只基金,建立了覆盖股票型、配置型、债券型、货币型、保本型和QDII基金的较为完善的产品线,为数百万不同风险收益特征和理财需求的客户提供专业的资产管理服务。\n    在稳健经营的基础上,我们致力于让风险收益特征各异的投资者在银华享受到全面的理财服务。未来,在继续完善产品线基础上,我们还将努力在企业年金管理、独立帐户资产管理、QDII等领域拓展自己的业务。继续为自己所追求的目标——投资改变生活而执著前行。\n    我们将继续秉承“诚信经营赢得客户、优质服务贴近客户、一流业绩回报客户”的质量管理方针,帮助更多的普通人实现他们的财富梦想。",
+    "fund_position": {
+      "stock_percent": 90.78,
+      "cash_percent": 8.67,
+      "other_percent": 0.55,
+      "asset_tot": 132392155.7,
+      "asset_val": 128888078.77,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "宁德时代",
+          "code": "300750",
+          "percent": 7.05,
+          "current_price": 266.03,
+          "change_percentage": 1.75,
+          "xq_symbol": "SZ300750",
+          "xq_url": "https://xueqiu.com/S/SZ300750",
+          "amarket": true
+        },
+        {
+          "name": "通威股份",
+          "code": "600438",
+          "percent": 6.2,
+          "current_price": 29.2,
+          "change_percentage": -1.85,
+          "xq_symbol": "SH600438",
+          "xq_url": "https://xueqiu.com/S/SH600438",
+          "amarket": true
+        },
+        {
+          "name": "隆基股份",
+          "code": "601012",
+          "percent": 6.01,
+          "current_price": 72.54,
+          "change_percentage": 1.14,
+          "xq_symbol": "SH601012",
+          "xq_url": "https://xueqiu.com/S/SH601012",
+          "amarket": true
+        },
+        {
+          "name": "亿纬锂能",
+          "code": "300014",
+          "percent": 4.43,
+          "current_price": 63.71,
+          "change_percentage": 4.17,
+          "xq_symbol": "SZ300014",
+          "xq_url": "https://xueqiu.com/S/SZ300014",
+          "amarket": true
+        },
+        {
+          "name": "先导智能",
+          "code": "300450",
+          "percent": 2.9,
+          "current_price": 67.6,
+          "change_percentage": 0.6,
+          "xq_symbol": "SZ300450",
+          "xq_url": "https://xueqiu.com/S/SZ300450",
+          "amarket": true
+        },
+        {
+          "name": "中材科技",
+          "code": "002080",
+          "percent": 2.9,
+          "current_price": 19.29,
+          "change_percentage": 0,
+          "xq_symbol": "SZ002080",
+          "xq_url": "https://xueqiu.com/S/SZ002080",
+          "amarket": true
+        },
+        {
+          "name": "新宙邦",
+          "code": "300037",
+          "percent": 2.8,
+          "current_price": 99.89,
+          "change_percentage": 12.22,
+          "xq_symbol": "SZ300037",
+          "xq_url": "https://xueqiu.com/S/SZ300037",
+          "amarket": true
+        },
+        {
+          "name": "璞泰来",
+          "code": "603659",
+          "percent": 2.65,
+          "current_price": 111.38,
+          "change_percentage": 5.71,
+          "xq_symbol": "SH603659",
+          "xq_url": "https://xueqiu.com/S/SH603659",
+          "amarket": true
+        },
+        {
+          "name": "赣锋锂业",
+          "code": "002460",
+          "percent": 2.49,
+          "current_price": 82.24,
+          "change_percentage": 3.06,
+          "xq_symbol": "SZ002460",
+          "xq_url": "https://xueqiu.com/S/SZ002460",
+          "amarket": true
+        },
+        {
+          "name": "林洋能源",
+          "code": "601222",
+          "percent": 2.36,
+          "current_price": 7.26,
+          "change_percentage": -0.27,
+          "xq_symbol": "SH601222",
+          "xq_url": "https://xueqiu.com/S/SH601222",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "005038",
+      "subscribe_rate": "0",
+      "declare_rate": "0.00",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额>0",
+          "value": "0.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.500"
+        },
+        {
+          "name": "30天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "销售服务费",
+          "value": "0.40"
+        },
+        {
+          "name": "基金托管费",
+          "value": "0.10"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.00"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "李宜璇",
+        "resume": "    李宜璇女士,博士学位。曾就职于华龙证券有限责任公司,2014年12月加入银华基金,历任量化投资部量化研究员、基金经理助理,现任量化投资部基金经理。自2017年12月25日起担任银华抗通胀主题证券投资基金(LOF)基金经理,自2018年3月7日起兼任银华新能源新材料量化优选股票型发起式证券投资基金、银华信息科技量化优选股票型发起式证券投资基金、银华全球核心优选证券投资基金、银华恒生中国企业指数分级证券投资基金、银华文体娱乐量化优选股票型发起式证券投资基金基金经理,自2020年9月29日起兼任银华工银南方东英标普中国新经济行业交易型开放式指数证券投资基金(QDII)基金经理,自2020年10月29日起兼任银华食品饮料量化优选股票型发起式证券投资基金基金经理。",
+        "achievement_list": [
+          {
+            "fund_code": "005235",
+            "fundsname": "银华食品饮料量化股票发起式A",
+            "post_date": "2020-10-29",
+            "cp_rate": 4.997
+          },
+          {
+            "fund_code": "005236",
+            "fundsname": "银华食品饮料量化股票发起式C",
+            "post_date": "2020-10-29",
+            "cp_rate": 4.9536
+          },
+          {
+            "fund_code": "159822",
+            "fundsname": "银华标普中国新经济(QDII-ETF)",
+            "post_date": "2020-09-29",
+            "cp_rate": 3.15
+          },
+          {
+            "fund_code": "005515",
+            "fundsname": "银华中小市值量化优选股票发起式A",
+            "post_date": "2018-08-20",
+            "resi_date": "2019-02-11",
+            "cp_rate": -4.5247
+          },
+          {
+            "fund_code": "005261",
+            "fundsname": "银华稳健增利灵活配置混合C",
+            "post_date": "2018-08-20",
+            "resi_date": "2019-02-11",
+            "cp_rate": -6.129
+          },
+          {
+            "fund_code": "005260",
+            "fundsname": "银华稳健增利灵活配置混合A",
+            "post_date": "2018-08-20",
+            "resi_date": "2019-02-11",
+            "cp_rate": -5.9866
+          },
+          {
+            "fund_code": "005516",
+            "fundsname": "银华中小市值量化优选股票发起式C",
+            "post_date": "2018-08-20",
+            "resi_date": "2019-02-11",
+            "cp_rate": -3.641
+          },
+          {
+            "fund_code": "005238",
+            "fundsname": "银华医疗健康量化股票发起式C",
+            "post_date": "2018-08-20",
+            "resi_date": "2019-02-11",
+            "cp_rate": -10.6839
+          },
+          {
+            "fund_code": "005237",
+            "fundsname": "银华医疗健康量化股票发起式A",
+            "post_date": "2018-08-20",
+            "resi_date": "2019-02-11",
+            "cp_rate": -10.5808
+          },
+          {
+            "fund_code": "005034",
+            "fundsname": "银华智能汽车量化优选股票C",
+            "post_date": "2018-08-20",
+            "resi_date": "2019-02-11",
+            "cp_rate": -0.4989
+          },
+          {
+            "fund_code": "005033",
+            "fundsname": "银华智能汽车量化优选股票A",
+            "post_date": "2018-08-20",
+            "resi_date": "2019-02-11",
+            "cp_rate": -0.4252
+          },
+          {
+            "fund_code": "150060",
+            "fundsname": "银华鑫瑞",
+            "post_date": "2018-08-20",
+            "resi_date": "2019-02-11",
+            "cp_rate": -15.6279
+          },
+          {
+            "fund_code": "150059",
+            "fundsname": "银华金瑞",
+            "post_date": "2018-08-20",
+            "resi_date": "2019-02-11",
+            "cp_rate": 2.4592
+          },
+          {
+            "fund_code": "161819",
+            "fundsname": "银华资源",
+            "post_date": "2018-08-20",
+            "resi_date": "2019-02-11",
+            "cp_rate": -7.6194
+          },
+          {
+            "fund_code": "161831",
+            "fundsname": "银华恒生国企指数分级(QDII)",
+            "post_date": "2018-03-07",
+            "resi_date": "2020-12-31",
+            "cp_rate": -2.7579
+          },
+          {
+            "fund_code": "150175",
+            "fundsname": "银华H股A(QDII)",
+            "post_date": "2018-03-07",
+            "resi_date": "2020-12-31",
+            "cp_rate": 14.31
+          },
+          {
+            "fund_code": "150176",
+            "fundsname": "银华H股B(QDII)",
+            "post_date": "2018-03-07",
+            "resi_date": "2020-12-31",
+            "cp_rate": -18.6798
+          },
+          {
+            "fund_code": "183001",
+            "fundsname": "银华全球优选(QDII-FOF)",
+            "post_date": "2018-03-07",
+            "cp_rate": 8.2601
+          },
+          {
+            "fund_code": "005037",
+            "fundsname": "银华新能源新材料量化优选股票A",
+            "post_date": "2018-03-07",
+            "cp_rate": 45.8948
+          },
+          {
+            "fund_code": "005038",
+            "fundsname": "银华新能源新材料量化优选股票C",
+            "post_date": "2018-03-07",
+            "cp_rate": 44.1699
+          },
+          {
+            "fund_code": "005035",
+            "fundsname": "银华信息科技量化优选股票A",
+            "post_date": "2018-03-07",
+            "cp_rate": 42.1658
+          },
+          {
+            "fund_code": "005036",
+            "fundsname": "银华信息科技量化优选股票C",
+            "post_date": "2018-03-07",
+            "cp_rate": 42.2258
+          },
+          {
+            "fund_code": "005239",
+            "fundsname": "银华文体娱乐量化股票发起式A",
+            "post_date": "2018-03-07",
+            "resi_date": "2020-11-17",
+            "cp_rate": -3.6577
+          },
+          {
+            "fund_code": "005240",
+            "fundsname": "银华文体娱乐量化股票发起式C",
+            "post_date": "2018-03-07",
+            "resi_date": "2020-11-17",
+            "cp_rate": -3.5267
+          },
+          {
+            "fund_code": "161815",
+            "fundsname": "银华抗通胀主题(QDII-FOF-LOF)",
+            "post_date": "2017-12-25",
+            "cp_rate": -8.7983
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "005038",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}

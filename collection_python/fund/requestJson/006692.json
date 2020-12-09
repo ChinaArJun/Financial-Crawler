@@ -1,0 +1,241 @@
+{
+  "data": {
+    "fund_company": "    金信基金管理有限公司(以下简称“金信基金”)成立于2015年7月,注册资本10,000万元人民币,注册地位于深圳前海,是经中国证监会批准设立的公募基金管理公司,业务范围包括基金募集、基金销售、资产管理、特定客户资产管理以及中国证监会许可的其他业务。\n    金信基金作为国内首家管理团队出任第一大股东的公募基金公司,管理团队持股合计达35%,是公司的第一大股东。此外,公司股东还包括深圳市卓越创业投资有限责任公司以及安徽国元信托有限责任公司,两家机构出资比例分别为34%、31%。\n    公司拥有一支高素质、经验丰富的专业化团队。团队核心人员均拥有优秀的学识背景、深厚的实践功底,投资、研究、管理团队平均具有10年以上从业经验。成立之初金信基金就建立了创新的治理结构,并将通过逐步推进核心员工持股,使得管理团队的利益、股东利益以及广大持有人利益保持高度一致,金信基金还将实行事业部制以及通过轻资产管理方式提高公司的运作效率、综合效益以及核心竞争力,力争成为基金行业的创新领导者。\n    金信基金将始终坚持“风险控制第一、客户利益至上”的理念,在财富管理市场创新变革中紧抓时代机遇,聚焦于投资研究,打造高效的投研团队,积极推动业务和产品创新,确保在风险可控的前提下为投资者谋求长期稳定的收益,力求成为国内一流的综合性资产管理公司。",
+    "fund_position": {
+      "stock_percent": 83.6,
+      "cash_percent": 13.47,
+      "other_percent": 2.93,
+      "asset_tot": 181161779.67,
+      "asset_val": 169193359.11,
+      "source_mark": "第三季度报",
+      "source": "4",
+      "enddate": "2020-09-30",
+      "stock_list": [
+        {
+          "name": "通策医疗",
+          "code": "600763",
+          "percent": 9.6,
+          "current_price": 233.45,
+          "change_percentage": 0.45,
+          "xq_symbol": "SH600763",
+          "xq_url": "https://xueqiu.com/S/SH600763",
+          "amarket": true
+        },
+        {
+          "name": "爱尔眼科",
+          "code": "300015",
+          "percent": 9.41,
+          "current_price": 66.63,
+          "change_percentage": -0.25,
+          "xq_symbol": "SZ300015",
+          "xq_url": "https://xueqiu.com/S/SZ300015",
+          "amarket": true
+        },
+        {
+          "name": "泰格医药",
+          "code": "300347",
+          "percent": 9.36,
+          "current_price": 135.45,
+          "change_percentage": 1.84,
+          "xq_symbol": "SZ300347",
+          "xq_url": "https://xueqiu.com/S/SZ300347",
+          "amarket": true
+        },
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "percent": 9.21,
+          "current_price": 1850,
+          "change_percentage": 2.07,
+          "xq_symbol": "SH600519",
+          "xq_url": "https://xueqiu.com/S/SH600519",
+          "amarket": true
+        },
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "percent": 9.12,
+          "current_price": 272,
+          "change_percentage": 0.65,
+          "xq_symbol": "SZ000858",
+          "xq_url": "https://xueqiu.com/S/SZ000858",
+          "amarket": true
+        },
+        {
+          "name": "招商积余",
+          "code": "001914",
+          "percent": 8.88,
+          "current_price": 24.03,
+          "change_percentage": -1.48,
+          "xq_symbol": "SZ001914",
+          "xq_url": "https://xueqiu.com/S/SZ001914",
+          "amarket": true
+        },
+        {
+          "name": "中公教育",
+          "code": "002607",
+          "percent": 7.57,
+          "current_price": 37,
+          "change_percentage": -1.04,
+          "xq_symbol": "SZ002607",
+          "xq_url": "https://xueqiu.com/S/SZ002607",
+          "amarket": true
+        },
+        {
+          "name": "豆神教育",
+          "code": "300010",
+          "percent": 6.52,
+          "current_price": 11.92,
+          "change_percentage": -0.83,
+          "xq_symbol": "SZ300010",
+          "xq_url": "https://xueqiu.com/S/SZ300010",
+          "amarket": true
+        },
+        {
+          "name": "恒瑞医药",
+          "code": "600276",
+          "percent": 5.96,
+          "current_price": 90.07,
+          "change_percentage": 0.21,
+          "xq_symbol": "SH600276",
+          "xq_url": "https://xueqiu.com/S/SH600276",
+          "amarket": true
+        },
+        {
+          "name": "特锐德",
+          "code": "300001",
+          "percent": 4.79,
+          "current_price": 25.6,
+          "change_percentage": -1.61,
+          "xq_symbol": "SZ300001",
+          "xq_url": "https://xueqiu.com/S/SZ300001",
+          "amarket": true
+        }
+      ],
+      "bond_list": []
+    },
+    "fund_rates": {
+      "fd_code": "006692",
+      "subscribe_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
+      "discount": "0.1",
+      "subscribe_discount": "0.1",
+      "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<200万",
+          "value": "1.00"
+        },
+        {
+          "name": "200万≤买入金额<500万",
+          "value": "0.30"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<180天",
+          "value": "0.500"
+        },
+        {
+          "name": "180天≤持有期限",
+          "value": "0.000"
+        }
+      ],
+      "other_rate_table": [
+        {
+          "name": "基金托管费",
+          "value": "0.25"
+        },
+        {
+          "name": "基金管理费",
+          "value": "1.50"
+        }
+      ]
+    },
+    "manager_list": [
+      {
+        "name": "周谧",
+        "resume": "    周谧先生,中国人民大学应用数学硕士。2008 年 9 月起历任中再资产管理股份有限公司金融工程研究员、平安证券有限责任公司高级策略分析师、国金创新投资有限公司量化投资经理、深圳铸成投资有限公司投资部副总监、财富证券有限责任公司投资经理、金信基金管理公司投资人员。2018 年 3 月起任金信转型创新成长灵活配置混合型发起式证券投资基金基金经理。2019 年 8 月起任金信量化精选灵活配置混合型发起式证券投资基金基金经理。2020 年 5 月起任金信稳健策略灵活配置混合型发起式证券投资基金。",
+        "college": "中国人民大学",
+        "work_year": "12",
+        "achievement_list": [
+          {
+            "fund_code": "006692",
+            "fundsname": "金信消费升级股票A",
+            "post_date": "2020-10-15",
+            "cp_rate": 5.3873
+          },
+          {
+            "fund_code": "006693",
+            "fundsname": "金信消费升级股票C",
+            "post_date": "2020-10-15",
+            "cp_rate": 5.2695
+          },
+          {
+            "fund_code": "005412",
+            "fundsname": "金信民长混合A",
+            "post_date": "2020-05-21",
+            "cp_rate": 19.95
+          },
+          {
+            "fund_code": "005413",
+            "fundsname": "金信民长混合C",
+            "post_date": "2020-05-21",
+            "cp_rate": 14.08
+          },
+          {
+            "fund_code": "009317",
+            "fundsname": "金信核心竞争力混合",
+            "post_date": "2020-05-19",
+            "cp_rate": 80.2983
+          },
+          {
+            "fund_code": "007872",
+            "fundsname": "金信稳健策略混合",
+            "post_date": "2020-05-06",
+            "cp_rate": 29.9455
+          },
+          {
+            "fund_code": "002862",
+            "fundsname": "金信量化精选灵活配置混合",
+            "post_date": "2019-08-06",
+            "cp_rate": 91.6159
+          },
+          {
+            "fund_code": "002810",
+            "fundsname": "金信转型创新成长灵活配置混合",
+            "post_date": "2018-03-05",
+            "cp_rate": 46.1394
+          }
+        ]
+      }
+    ],
+    "fund_date_conf": {
+      "fd_code": "006692",
+      "buy_confirm_date": 1,
+      "buy_query_date": 1,
+      "sale_confirm_date": 1,
+      "sale_query_date": 3,
+      "all_buy_days": 2,
+      "all_sale_days": 4
+    }
+  },
+  "result_code": 0
+}
