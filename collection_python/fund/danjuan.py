@@ -112,6 +112,10 @@ def parse_danjuan_fund(fund_code, json_text):
     print('manager_list' in d)
     if 'manager_list' in d == False or 'data' in d == False:
         return "", "", ""
+    if 'manager_list' in d['data'] == False or 'data' in d == False:
+        return "", "", ""
+    if 'manager_list' in d['data'] == False or 'data' in d == False:
+        return "", "", ""
     if d['result_code'] == 600001 or 'manager_list' in d['data'] == False:
         return "", "", ""
     data = d['data']
@@ -330,26 +334,26 @@ def export_all_stock_funds():
 
 def main():
     # get_fund_json("007300", "汇添富中盘", True) # 单独抓取一个基金数据到文件
-    # crawl_all_my_funds_to_mysql(1) # 抓取所有我关注的雪球上的基金到 mysql
-    # crawl_all_my_funds_to_mysql(2) # 抓取所有我关注的雪球上的基金到 mysql
-    # crawl_all_my_funds_to_mysql(3) # 抓取所有我关注的雪球上的基金到 mysql
-    # crawl_all_my_funds_to_mysql(4) # 抓取所有我关注的雪球上的基金到 mysql
-    # crawl_all_my_funds_to_mysql(5) # 抓取所有我关注的雪球上的基金到 mysql
-    # crawl_all_my_funds_to_mysql(6) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(1) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(2) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(3) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(4) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(5) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(6) # 抓取所有我关注的雪球上的基金到 mysql
 
-    # crawl_all_my_funds_to_mysql(11) # 抓取所有我关注的雪球上的基金到 mysql
-    # crawl_all_my_funds_to_mysql(1001) # 抓取所有我关注的雪球上的基金到 mysql
-    # crawl_all_my_funds_to_mysql(1002) # 抓取所有我关注的雪球上的基金到 mysql
-    # crawl_all_my_funds_to_mysql(1003) # 抓取所有我关注的雪球上的基金到 mysql
-    # crawl_all_my_funds_to_mysql(1004) # 抓取所有我关注的雪球上的基金到 mysql
-    # crawl_all_my_funds_to_mysql(1005) # 抓取所有我关注的雪球上的基金到 mysql
-    #
-    # crawl_all_my_funds_to_mysql(2001) # 抓取所有我关注的雪球上的基金到 mysql
-    # crawl_all_my_funds_to_mysql(2002) # 抓取所有我关注的雪球上的基金到 mysql
-    # crawl_all_my_funds_to_mysql(2003) # 抓取所有我关注的雪球上的基金到 mysql
-    # crawl_all_my_funds_to_mysql(2004) # 抓取所有我关注的雪球上的基金到 mysql
-    #
-    # crawl_all_my_funds_to_mysql(2005) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(11) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(1001) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(1002) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(1003) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(1004) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(1005) # 抓取所有我关注的雪球上的基金到 mysql
+
+    crawl_all_my_funds_to_mysql(2001) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(2002) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(2003) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(2004) # 抓取所有我关注的雪球上的基金到 mysql
+
+    crawl_all_my_funds_to_mysql(2005) # 抓取所有我关注的雪球上的基金到 mysql
 
     export_all_mysql_funds_stocks_to_excel_vertical()  # 导出基金十大重仓股
     export_all_mysql_funds_stocks_to_excel()  # 导出横版基金十大重仓
