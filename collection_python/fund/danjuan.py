@@ -113,6 +113,10 @@ def parse_danjuan_fund(fund_code, json_text):
     print('manager_list' in d)
     if 'manager_list' in d == False or 'data' in d == False:
         return "", "", ""
+    if 'manager_list' in d['data'] == False or 'data' in d == False:
+        return "", "", ""
+    if 'manager_list' in d['data'] == False or 'data' in d == False:
+        return "", "", ""
     if d['result_code'] == 600001 or 'manager_list' in d['data'] == False:
         return "", "", ""
     data = d['data']

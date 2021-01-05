@@ -3,3 +3,5 @@
 __pycache__
 collection_python/fund/all_funds_*.json
 collection_python/fund/requestJson/
+collection_python/fund/fund_*.xlsx
+collection_python/fund/sto*.xlsx
