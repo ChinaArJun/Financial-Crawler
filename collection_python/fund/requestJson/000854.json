@@ -16,8 +16,8 @@
           "name": "山西汾酒",
           "code": "600809",
           "percent": 9.97,
-          "current_price": 265.1,
-          "change_percentage": 1.54,
+          "current_price": 373.63,
+          "change_percentage": -0.44,
           "xq_symbol": "SH600809",
           "xq_url": "https://xueqiu.com/S/SH600809",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "爱尔眼科",
           "code": "300015",
           "percent": 9.37,
-          "current_price": 66.63,
-          "change_percentage": -0.25,
+          "current_price": 68.22,
+          "change_percentage": -8.91,
           "xq_symbol": "SZ300015",
           "xq_url": "https://xueqiu.com/S/SZ300015",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "五粮液",
           "code": "000858",
           "percent": 9.33,
-          "current_price": 272,
-          "change_percentage": 0.65,
+          "current_price": 298.05,
+          "change_percentage": 2.12,
           "xq_symbol": "SZ000858",
           "xq_url": "https://xueqiu.com/S/SZ000858",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 8.81,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "古井贡酒",
           "code": "000596",
           "percent": 8.73,
-          "current_price": 229.01,
-          "change_percentage": 0.04,
+          "current_price": 279.66,
+          "change_percentage": 2.82,
           "xq_symbol": "SZ000596",
           "xq_url": "https://xueqiu.com/S/SZ000596",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "贝达药业",
           "code": "300558",
           "percent": 7.57,
-          "current_price": 97.9,
-          "change_percentage": -2.37,
+          "current_price": 103.06,
+          "change_percentage": -4.01,
           "xq_symbol": "SZ300558",
           "xq_url": "https://xueqiu.com/S/SZ300558",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "长春高新",
           "code": "000661",
           "percent": 4.64,
-          "current_price": 388,
-          "change_percentage": 0.19,
+          "current_price": 473.45,
+          "change_percentage": 5.47,
           "xq_symbol": "SZ000661",
           "xq_url": "https://xueqiu.com/S/SZ000661",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "涪陵榨菜",
           "code": "002507",
           "percent": 4.21,
-          "current_price": 44.06,
-          "change_percentage": 2.94,
+          "current_price": 46.53,
+          "change_percentage": 10,
           "xq_symbol": "SZ002507",
           "xq_url": "https://xueqiu.com/S/SZ002507",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "广联达",
           "code": "002410",
           "percent": 3.59,
-          "current_price": 70.77,
-          "change_percentage": 2.08,
+          "current_price": 80.53,
+          "change_percentage": 2.27,
           "xq_symbol": "SZ002410",
           "xq_url": "https://xueqiu.com/S/SZ002410",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "泸州老窖",
           "code": "000568",
           "percent": 2.86,
-          "current_price": 191.85,
-          "change_percentage": 0.56,
+          "current_price": 240.85,
+          "change_percentage": 6.5,
           "xq_symbol": "SZ000568",
           "xq_url": "https://xueqiu.com/S/SZ000568",
           "amarket": true
@@ -183,61 +183,61 @@
       {
         "name": "王宗合",
         "resume": "    王宗合先生,国籍中国,金融学硕士,14年证券基金从业经验。曾经在招商基金从事食品饮料、商业零售、农林牧渔、纺织服装、汽车等行业的研究。2009年5月加盟鹏华基金管理有限公司,从事食品饮料、农林牧渔、商业零售、造纸包装等行业的研究工作,担任鹏华动力增长混合(LOF)基金基金经理助理。现担任权益投资二部总经理/董事总经理(MD)/基金经理。2010年12月担任鹏华消费优选混合基金基金经理,2012年06月至2018年07月担任鹏华金刚保本混合基金基金经理,2014年07月至2019年04月担任鹏华品牌传承混合基金基金经理,2014年12月担任鹏华养老产业股票基金基金经理,2016年04月至2018年10月担任鹏华金鼎保本混合基金基金经理,2016年06月至2019年06月担任鹏华金城保本混合基金基金经理,2017年02月至2019年09月担任鹏华安益增强混合基金基金经理,2017年07月担任鹏华中国50混合基金基金经理,2017年09月担任鹏华策略回报混合基金基金经理,2018年05月担任鹏华产业精选基金基金经理,2018年07月至2019年09月担任鹏华宏观混合基金基金经理,2018年10月至2019年09月担任鹏华金鼎混合基金基金经理,2019年01月至2020年02月担任鹏华优选回报混合基金基金经理,2019年06月至2019年06月担任鹏华金城混合基金基金经理,2019年06月担任鹏华精选回报三年定开混合基金基金经理,2020年02月担任鹏华优质回报两年定开混合基金基金经理,2020年04月担任鹏华价值共赢两年持有期混合基金基金经理,2020年05月担任鹏华成长价值混合基金基金经理。王宗合先生具备基金从业资格。",
-        "work_year": "14",
+        "work_year": "15",
         "achievement_list": [
           {
             "fund_code": "010672",
             "fundsname": "鹏华创新未来18个月封闭混合B",
             "post_date": "2020-11-23",
-            "cp_rate": -0.3075
+            "cp_rate": 1.627
           },
           {
             "fund_code": "010319",
             "fundsname": "鹏华创新未来18个月封闭混合C",
             "post_date": "2020-09-30",
-            "cp_rate": 0.49
+            "cp_rate": 5.33
           },
           {
             "fund_code": "009571",
             "fundsname": "鹏华匠心精选混合C",
             "post_date": "2020-07-10",
-            "cp_rate": 5.61
+            "cp_rate": 13.15
           },
           {
             "fund_code": "009570",
             "fundsname": "鹏华匠心精选混合A",
             "post_date": "2020-07-10",
-            "cp_rate": 5.95
+            "cp_rate": 13.58
           },
           {
             "fund_code": "009331",
             "fundsname": "鹏华成长价值混合C",
             "post_date": "2020-05-18",
-            "cp_rate": 19.27
+            "cp_rate": 33.71
           },
           {
             "fund_code": "009330",
             "fundsname": "鹏华成长价值混合A",
             "post_date": "2020-05-18",
-            "cp_rate": 19.8
+            "cp_rate": 34.37
           },
           {
             "fund_code": "009086",
             "fundsname": "鹏华价值共赢两年持有期混合",
             "post_date": "2020-04-29",
-            "cp_rate": 30.09
+            "cp_rate": 42.85
           },
           {
             "fund_code": "008716",
             "fundsname": "鹏华优质回报两年定开混合",
             "post_date": "2020-02-28",
-            "cp_rate": 54.7702
+            "cp_rate": 70.7378
           },
           {
             "fund_code": "160645",
             "fundsname": "鹏华精选回报三年定开混合",
             "post_date": "2019-06-25",
-            "cp_rate": 89.19
+            "cp_rate": 110.71
           },
           {
             "fund_code": "002714",
@@ -278,7 +278,7 @@
             "fund_code": "005812",
             "fundsname": "鹏华产业精选",
             "post_date": "2018-05-09",
-            "cp_rate": 119.45
+            "cp_rate": 148
           },
           {
             "fund_code": "001222",
@@ -298,7 +298,7 @@
             "fund_code": "160605",
             "fundsname": "鹏华中国50混合",
             "post_date": "2017-07-29",
-            "cp_rate": 128.234
+            "cp_rate": 155.6285
           },
           {
             "fund_code": "004100",
@@ -332,7 +332,7 @@
             "fund_code": "000854",
             "fundsname": "鹏华养老产业股票",
             "post_date": "2014-12-02",
-            "cp_rate": 271.4859
+            "cp_rate": 311.6466
           },
           {
             "fund_code": "000431",
@@ -359,7 +359,7 @@
             "fund_code": "206007",
             "fundsname": "鹏华消费优选混合",
             "post_date": "2010-12-28",
-            "cp_rate": 343.6508
+            "cp_rate": 395.7341
           }
         ]
       }
@@ -370,8 +370,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

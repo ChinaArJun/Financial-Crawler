@@ -958,7 +958,7 @@ class Bottle(object):
         """ The bottle WSGI-interface. """
         try:
             out = self._cast(self._handle(environ))
-            # rfc2616 section 4.3
+            # rfc2616 Process&Threading 4.3
             if response._status_code in (100, 101, 204, 304)\
             or environ['REQUEST_METHOD'] == 'HEAD':
                 if hasattr(out, 'close'): out.close()
@@ -1456,7 +1456,7 @@ class BaseResponse(object):
     default_content_type = 'text/html; charset=UTF-8'
 
     # Header blacklist for specific response codes
-    # (rfc2616 section 10.2.3 and 10.3.5)
+    # (rfc2616 Process&Threading 10.2.3 and 10.3.5)
     bad_headers = {
         204: set(('Content-Type',)),
         304: set(('Allow', 'Content-Encoding', 'Content-Language',

@@ -15,8 +15,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 7.98,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 6.1,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "山西汾酒",
           "code": "600809",
           "percent": 5.88,
-          "current_price": 265.1,
-          "change_percentage": 1.54,
+          "current_price": 373.63,
+          "change_percentage": -0.44,
           "xq_symbol": "SH600809",
           "xq_url": "https://xueqiu.com/S/SH600809",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "安图生物",
           "code": "603658",
           "percent": 5.32,
-          "current_price": 152.75,
-          "change_percentage": 1.65,
+          "current_price": 132,
+          "change_percentage": -9.08,
           "xq_symbol": "SH603658",
           "xq_url": "https://xueqiu.com/S/SH603658",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "重庆啤酒",
           "code": "600132",
           "percent": 5.08,
-          "current_price": 117.03,
-          "change_percentage": 0.2,
+          "current_price": 120.59,
+          "change_percentage": 1.34,
           "xq_symbol": "SH600132",
           "xq_url": "https://xueqiu.com/S/SH600132",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 4.86,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "宝信软件",
           "code": "600845",
           "percent": 4.31,
-          "current_price": 64.06,
-          "change_percentage": 0.13,
+          "current_price": 69.8,
+          "change_percentage": 1.19,
           "xq_symbol": "SH600845",
           "xq_url": "https://xueqiu.com/S/SH600845",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "通策医疗",
           "code": "600763",
           "percent": 4.14,
-          "current_price": 233.45,
-          "change_percentage": 0.45,
+          "current_price": 268,
+          "change_percentage": -3.08,
           "xq_symbol": "SH600763",
           "xq_url": "https://xueqiu.com/S/SH600763",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "药明康德",
           "code": "603259",
           "percent": 3.91,
-          "current_price": 110.9,
-          "change_percentage": -0.12,
+          "current_price": 137.11,
+          "change_percentage": 1.77,
           "xq_symbol": "SH603259",
           "xq_url": "https://xueqiu.com/S/SH603259",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "歌尔股份",
           "code": "002241",
           "percent": 3.89,
-          "current_price": 37.16,
-          "change_percentage": -2.24,
+          "current_price": 36.74,
+          "change_percentage": -1.55,
           "xq_symbol": "SZ002241",
           "xq_url": "https://xueqiu.com/S/SZ002241",
           "amarket": true
@@ -173,7 +173,7 @@
       {
         "name": "韩冰",
         "resume": "    韩冰,男,硕士。2006年7月加入上海文广新闻传媒集团任工程师,从事媒体资产管理的工作;2011年4月加入平安大华基金管理有限公司,任研究员,从事TMT行业研究的工作;2013年6月加入招商基金管理有限公司,曾任研究员,助理基金经理,从事TMT行业研究,并协助基金经理进行组合管理,现任招商中小盘精选混合型证券投资基金基金经理(管理时间:2015年5月5日至今)及招商移动互联网产业股票型证券投资基金基金经理(管理时间:2015年6月19日至今)。",
-        "work_year": "9",
+        "work_year": "10",
         "achievement_list": [
           {
             "fund_code": "001404",
@@ -186,7 +186,7 @@
             "fund_code": "217013",
             "fundsname": "招商中小盘精选混合",
             "post_date": "2015-05-05",
-            "cp_rate": 77.5057
+            "cp_rate": 97.0387
           }
         ]
       }

@@ -16,8 +16,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 8.72,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "通威股份",
           "code": "600438",
           "percent": 7.51,
-          "current_price": 29.2,
-          "change_percentage": -1.85,
+          "current_price": 41.65,
+          "change_percentage": 8.35,
           "xq_symbol": "SH600438",
           "xq_url": "https://xueqiu.com/S/SH600438",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "鸿路钢构",
           "code": "002541",
           "percent": 7.25,
-          "current_price": 38.19,
-          "change_percentage": 1.84,
+          "current_price": 35.85,
+          "change_percentage": -1.86,
           "xq_symbol": "SZ002541",
           "xq_url": "https://xueqiu.com/S/SZ002541",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "三棵树",
           "code": "603737",
           "percent": 7.13,
-          "current_price": 142.39,
-          "change_percentage": -2.11,
+          "current_price": 153.11,
+          "change_percentage": 1.06,
           "xq_symbol": "SH603737",
           "xq_url": "https://xueqiu.com/S/SH603737",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "万华化学",
           "code": "600309",
           "percent": 6.74,
-          "current_price": 82.99,
-          "change_percentage": -0.3,
+          "current_price": 94.12,
+          "change_percentage": 3.38,
           "xq_symbol": "SH600309",
           "xq_url": "https://xueqiu.com/S/SH600309",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "东方雨虹",
           "code": "002271",
           "percent": 6.6,
-          "current_price": 35.92,
-          "change_percentage": 0.25,
+          "current_price": 39.48,
+          "change_percentage": 1.75,
           "xq_symbol": "SZ002271",
           "xq_url": "https://xueqiu.com/S/SZ002271",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "紫金矿业",
           "code": "601899",
           "percent": 6.3,
-          "current_price": 8.91,
-          "change_percentage": 1.14,
+          "current_price": 10.04,
+          "change_percentage": 8.07,
           "xq_symbol": "SH601899",
           "xq_url": "https://xueqiu.com/S/SH601899",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "中材科技",
           "code": "002080",
           "percent": 5.66,
-          "current_price": 19.29,
-          "change_percentage": 0,
+          "current_price": 24.75,
+          "change_percentage": 2.36,
           "xq_symbol": "SZ002080",
           "xq_url": "https://xueqiu.com/S/SZ002080",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "固德威",
           "code": "688390",
           "percent": 5.26,
-          "current_price": 172.17,
-          "change_percentage": 3.39,
+          "current_price": 266.07,
+          "change_percentage": 11.84,
           "xq_symbol": "SH688390",
           "xq_url": "https://xueqiu.com/S/SH688390",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "坚朗五金",
           "code": "002791",
           "percent": 4.66,
-          "current_price": 135.48,
-          "change_percentage": 0.73,
+          "current_price": 148.1,
+          "change_percentage": 2.85,
           "xq_symbol": "SZ002791",
           "xq_url": "https://xueqiu.com/S/SZ002791",
           "amarket": true
@@ -192,49 +192,49 @@
             "fund_code": "010112",
             "fundsname": "广发研究精选股票A",
             "post_date": "2020-11-04",
-            "cp_rate": 0.53
+            "cp_rate": 1.93
           },
           {
             "fund_code": "010113",
             "fundsname": "广发研究精选股票C",
             "post_date": "2020-11-04",
-            "cp_rate": 0.5
+            "cp_rate": 1.86
           },
           {
             "fund_code": "010235",
             "fundsname": "广发资源优选股票C",
             "post_date": "2020-09-24",
-            "cp_rate": 8.2687
+            "cp_rate": 15.0862
           },
           {
             "fund_code": "010245",
             "fundsname": "广发品牌消费股票C",
             "post_date": "2020-09-24",
-            "cp_rate": 11.0563
+            "cp_rate": 23.919
           },
           {
             "fund_code": "010160",
             "fundsname": "广发高端制造股票C",
             "post_date": "2020-09-16",
-            "cp_rate": 15.7919
+            "cp_rate": 20.6706
           },
           {
             "fund_code": "004997",
             "fundsname": "广发高端制造股票A",
             "post_date": "2019-04-11",
-            "cp_rate": 185.2339
+            "cp_rate": 197.3347
           },
           {
             "fund_code": "005402",
             "fundsname": "广发资源优选股票A",
             "post_date": "2017-12-14",
-            "cp_rate": 82.85
+            "cp_rate": 94.41
           },
           {
             "fund_code": "004995",
             "fundsname": "广发品牌消费股票A",
             "post_date": "2017-12-14",
-            "cp_rate": 93.66
+            "cp_rate": 116.14
           }
         ]
       }

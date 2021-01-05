@@ -16,8 +16,8 @@
           "name": "世联行",
           "code": "002285",
           "percent": 1.42,
-          "current_price": 5.21,
-          "change_percentage": 0.77,
+          "current_price": 4.79,
+          "change_percentage": -2.64,
           "xq_symbol": "SZ002285",
           "xq_url": "https://xueqiu.com/S/SZ002285",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "泸州老窖",
           "code": "000568",
           "percent": 1.33,
-          "current_price": 191.85,
-          "change_percentage": 0.56,
+          "current_price": 240.85,
+          "change_percentage": 6.5,
           "xq_symbol": "SZ000568",
           "xq_url": "https://xueqiu.com/S/SZ000568",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 1.3,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "五粮液",
           "code": "000858",
           "percent": 1.2,
-          "current_price": 272,
-          "change_percentage": 0.65,
+          "current_price": 298.05,
+          "change_percentage": 2.12,
           "xq_symbol": "SZ000858",
           "xq_url": "https://xueqiu.com/S/SZ000858",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "欧派家居",
           "code": "603833",
           "percent": 1.19,
-          "current_price": 131,
-          "change_percentage": -0.56,
+          "current_price": 130.32,
+          "change_percentage": -3.11,
           "xq_symbol": "SH603833",
           "xq_url": "https://xueqiu.com/S/SH603833",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "山西汾酒",
           "code": "600809",
           "percent": 1.18,
-          "current_price": 265.1,
-          "change_percentage": 1.54,
+          "current_price": 373.63,
+          "change_percentage": -0.44,
           "xq_symbol": "SH600809",
           "xq_url": "https://xueqiu.com/S/SH600809",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "玲珑轮胎",
           "code": "601966",
           "percent": 1.17,
-          "current_price": 33.4,
-          "change_percentage": -2.34,
+          "current_price": 38.68,
+          "change_percentage": 9.98,
           "xq_symbol": "SH601966",
           "xq_url": "https://xueqiu.com/S/SH601966",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "比亚迪",
           "code": "002594",
           "percent": 1.14,
-          "current_price": 177.97,
-          "change_percentage": 1.53,
+          "current_price": 206.76,
+          "change_percentage": 6.41,
           "xq_symbol": "SZ002594",
           "xq_url": "https://xueqiu.com/S/SZ002594",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "浙商证券",
           "code": "601878",
           "percent": 1.12,
-          "current_price": 16.22,
-          "change_percentage": 0.12,
+          "current_price": 15.17,
+          "change_percentage": -0.85,
           "xq_symbol": "SH601878",
           "xq_url": "https://xueqiu.com/S/SH601878",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "索菲亚",
           "code": "002572",
           "percent": 1.12,
-          "current_price": 27.83,
-          "change_percentage": -0.25,
+          "current_price": 26.15,
+          "change_percentage": 0.97,
           "xq_symbol": "SZ002572",
           "xq_url": "https://xueqiu.com/S/SZ002572",
           "amarket": true
@@ -193,37 +193,37 @@
             "fund_code": "009198",
             "fundsname": "前海开源黄金ETF联接",
             "post_date": "2020-05-14",
-            "cp_rate": -3.18
+            "cp_rate": -1.5
           },
           {
             "fund_code": "159812",
             "fundsname": "前海开源黄金ETF",
             "post_date": "2020-04-29",
-            "cp_rate": -2.04
+            "cp_rate": -0.19
           },
           {
             "fund_code": "000969",
             "fundsname": "前海开源大安全混合",
             "post_date": "2018-05-07",
-            "cp_rate": 75.2129
+            "cp_rate": 91.2961
           },
           {
             "fund_code": "001060",
             "fundsname": "前海开源高端装备制造混合",
             "post_date": "2018-05-07",
-            "cp_rate": 46.4425
+            "cp_rate": 48.6317
           },
           {
             "fund_code": "003858",
             "fundsname": "前海开源周期优选混合C",
             "post_date": "2017-01-25",
-            "cp_rate": 88.96
+            "cp_rate": 102.6
           },
           {
             "fund_code": "003857",
             "fundsname": "前海开源周期优选混合A",
             "post_date": "2017-01-25",
-            "cp_rate": 90.53
+            "cp_rate": 104.31
           },
           {
             "fund_code": "002972",
@@ -243,31 +243,31 @@
             "fund_code": "001943",
             "fundsname": "前海开源沪港深汇鑫混合C",
             "post_date": "2016-05-19",
-            "cp_rate": 82.88
+            "cp_rate": 83.87
           },
           {
             "fund_code": "001942",
             "fundsname": "前海开源沪港深汇鑫混合A",
             "post_date": "2016-05-19",
-            "cp_rate": 85.28
+            "cp_rate": 86.39
           },
           {
             "fund_code": "001849",
             "fundsname": "前海开源强势共识100强股票",
             "post_date": "2015-12-10",
-            "cp_rate": 67.2
+            "cp_rate": 69.7
           },
           {
             "fund_code": "002207",
             "fundsname": "前海开源金银珠宝混合C",
             "post_date": "2015-12-02",
-            "cp_rate": 21.9342
+            "cp_rate": 19.9402
           },
           {
             "fund_code": "001302",
             "fundsname": "前海开源金银珠宝混合A",
             "post_date": "2015-07-09",
-            "cp_rate": 24.5
+            "cp_rate": 22.5
           }
         ]
       }

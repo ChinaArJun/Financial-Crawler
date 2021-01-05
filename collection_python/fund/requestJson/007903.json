@@ -15,8 +15,8 @@
           "name": "永安行",
           "code": "603776",
           "percent": 3.77,
-          "current_price": 19.59,
-          "change_percentage": -0.31,
+          "current_price": 16.55,
+          "change_percentage": -0.06,
           "xq_symbol": "SH603776",
           "xq_url": "https://xueqiu.com/S/SH603776",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "天赐材料",
           "code": "002709",
           "percent": 3.74,
-          "current_price": 84.25,
-          "change_percentage": 10,
+          "current_price": 114.03,
+          "change_percentage": 9.86,
           "xq_symbol": "SZ002709",
           "xq_url": "https://xueqiu.com/S/SZ002709",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "建设机械",
           "code": "600984",
           "percent": 3.73,
-          "current_price": 14.92,
-          "change_percentage": 0.27,
+          "current_price": 12.6,
+          "change_percentage": 2.02,
           "xq_symbol": "SH600984",
           "xq_url": "https://xueqiu.com/S/SH600984",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "中油工程",
           "code": "600339",
           "percent": 3.55,
-          "current_price": 3.01,
-          "change_percentage": -0.66,
+          "current_price": 3.07,
+          "change_percentage": -0.32,
           "xq_symbol": "SH600339",
           "xq_url": "https://xueqiu.com/S/SH600339",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "利尔化学",
           "code": "002258",
           "percent": 3.4,
-          "current_price": 22.32,
-          "change_percentage": -0.84,
+          "current_price": 21.75,
+          "change_percentage": 4.07,
           "xq_symbol": "SZ002258",
           "xq_url": "https://xueqiu.com/S/SZ002258",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "太平鸟",
           "code": "603877",
           "percent": 3.1,
-          "current_price": 34,
-          "change_percentage": -3.74,
+          "current_price": 30.5,
+          "change_percentage": 1.67,
           "xq_symbol": "SH603877",
           "xq_url": "https://xueqiu.com/S/SH603877",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "裕同科技",
           "code": "002831",
           "percent": 3.04,
-          "current_price": 28.05,
-          "change_percentage": -1.58,
+          "current_price": 30.48,
+          "change_percentage": -0.46,
           "xq_symbol": "SZ002831",
           "xq_url": "https://xueqiu.com/S/SZ002831",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "丽珠集团",
           "code": "000513",
           "percent": 2.8,
-          "current_price": 43.66,
-          "change_percentage": -0.98,
+          "current_price": 42.34,
+          "change_percentage": 4.54,
           "xq_symbol": "SZ000513",
           "xq_url": "https://xueqiu.com/S/SZ000513",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "中牧股份",
           "code": "600195",
           "percent": 2.69,
-          "current_price": 13.53,
-          "change_percentage": 0.07,
+          "current_price": 13.32,
+          "change_percentage": 3.98,
           "xq_symbol": "SH600195",
           "xq_url": "https://xueqiu.com/S/SH600195",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "宝信软件",
           "code": "600845",
           "percent": 2.62,
-          "current_price": 64.06,
-          "change_percentage": 0.13,
+          "current_price": 69.8,
+          "change_percentage": 1.19,
           "xq_symbol": "SH600845",
           "xq_url": "https://xueqiu.com/S/SH600845",
           "amarket": true
@@ -183,67 +183,67 @@
             "fund_code": "010000",
             "fundsname": "长城中国智造灵活配置混合C",
             "post_date": "2020-09-07",
-            "cp_rate": 8.0506
+            "cp_rate": 19.3091
           },
           {
             "fund_code": "001880",
             "fundsname": "长城中国智造灵活配置混合A",
             "post_date": "2020-01-20",
-            "cp_rate": 55.2472
+            "cp_rate": 71.4834
           },
           {
             "fund_code": "007903",
             "fundsname": "长城量化小盘股票",
             "post_date": "2020-01-10",
-            "cp_rate": 19.0081
+            "cp_rate": 17.0783
           },
           {
             "fund_code": "006926",
             "fundsname": "长城量化精选股票",
             "post_date": "2019-05-29",
-            "cp_rate": 34.72
+            "cp_rate": 30.58
           },
           {
             "fund_code": "000030",
             "fundsname": "长城核心优选混合",
             "post_date": "2019-05-24",
-            "cp_rate": 50.1984
+            "cp_rate": 59.5394
           },
           {
             "fund_code": "007413",
             "fundsname": "长城中证500指数增强C",
             "post_date": "2019-05-09",
-            "cp_rate": 46.5136
+            "cp_rate": 48.7878
           },
           {
             "fund_code": "001879",
             "fundsname": "长城创业板指数增强发起式A",
             "post_date": "2019-01-29",
-            "cp_rate": 143.6558
+            "cp_rate": 169.0326
           },
           {
             "fund_code": "006928",
             "fundsname": "长城创业板指数增强发起式C",
             "post_date": "2019-01-29",
-            "cp_rate": 140.964
+            "cp_rate": 165.9956
           },
           {
             "fund_code": "006912",
             "fundsname": "长城久泰沪深300指数C",
             "post_date": "2019-01-18",
-            "cp_rate": 68.8574
+            "cp_rate": 76.3707
           },
           {
             "fund_code": "006048",
             "fundsname": "长城中证500指数增强A",
             "post_date": "2018-11-30",
-            "cp_rate": 66.2491
+            "cp_rate": 68.875
           },
           {
             "fund_code": "200002",
             "fundsname": "长城久泰沪深300指数A",
             "post_date": "2018-11-30",
-            "cp_rate": 70.8585
+            "cp_rate": 78.5008
           },
           {
             "fund_code": "001771",

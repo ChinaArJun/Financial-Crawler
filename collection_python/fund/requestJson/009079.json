@@ -15,8 +15,8 @@
           "name": "中国平安",
           "code": "601318",
           "percent": 0.13,
-          "current_price": 88.05,
-          "change_percentage": -2.58,
+          "current_price": 85.18,
+          "change_percentage": -2.07,
           "xq_symbol": "SH601318",
           "xq_url": "https://xueqiu.com/S/SH601318",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "美的集团",
           "code": "000333",
           "percent": 0.08,
-          "current_price": 86.7,
-          "change_percentage": -1.54,
+          "current_price": 99.01,
+          "change_percentage": 0.58,
           "xq_symbol": "SZ000333",
           "xq_url": "https://xueqiu.com/S/SZ000333",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "格力电器",
           "code": "000651",
           "percent": 0.08,
-          "current_price": 65.66,
-          "change_percentage": -3.44,
+          "current_price": 62.9,
+          "change_percentage": 1.55,
           "xq_symbol": "SZ000651",
           "xq_url": "https://xueqiu.com/S/SZ000651",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "中信证券",
           "code": "600030",
           "percent": 0.07,
-          "current_price": 30.01,
-          "change_percentage": 0,
+          "current_price": 29.18,
+          "change_percentage": -0.75,
           "xq_symbol": "SH600030",
           "xq_url": "https://xueqiu.com/S/SH600030",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 0.06,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "万科A",
           "code": "000002",
           "percent": 0.06,
-          "current_price": 29.18,
-          "change_percentage": -0.78,
+          "current_price": 27.78,
+          "change_percentage": -3.21,
           "xq_symbol": "SZ000002",
           "xq_url": "https://xueqiu.com/S/SZ000002",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "海天味业",
           "code": "603288",
           "percent": 0.05,
-          "current_price": 183.5,
-          "change_percentage": 0.84,
+          "current_price": 200.52,
+          "change_percentage": -0.01,
           "xq_symbol": "SH603288",
           "xq_url": "https://xueqiu.com/S/SH603288",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "比亚迪",
           "code": "002594",
           "percent": 0.03,
-          "current_price": 177.97,
-          "change_percentage": 1.53,
+          "current_price": 206.76,
+          "change_percentage": 6.41,
           "xq_symbol": "SZ002594",
           "xq_url": "https://xueqiu.com/S/SZ002594",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "亿纬锂能",
           "code": "300014",
           "percent": 0.03,
-          "current_price": 63.71,
-          "change_percentage": 4.17,
+          "current_price": 93.49,
+          "change_percentage": 14.71,
           "xq_symbol": "SZ300014",
           "xq_url": "https://xueqiu.com/S/SZ300014",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "顺丰控股",
           "code": "002352",
           "percent": 0.02,
-          "current_price": 80.21,
-          "change_percentage": -1.88,
+          "current_price": 90.48,
+          "change_percentage": 2.55,
           "xq_symbol": "SZ002352",
           "xq_url": "https://xueqiu.com/S/SZ002352",
           "amarket": true
@@ -168,112 +168,118 @@
         "college": "康奈尔大学",
         "achievement_list": [
           {
+            "fund_code": "010990",
+            "fundsname": "南方有色金属联接E",
+            "post_date": "2020-12-18",
+            "cp_rate": 1.5038
+          },
+          {
             "fund_code": "009080",
             "fundsname": "南方粤港澳大湾区联接C",
             "post_date": "2020-03-26",
-            "cp_rate": 34.14
+            "cp_rate": 37.97
           },
           {
             "fund_code": "009079",
             "fundsname": "南方粤港澳大湾区联接A",
             "post_date": "2020-03-26",
-            "cp_rate": 34.23
+            "cp_rate": 38.07
           },
           {
             "fund_code": "008164",
             "fundsname": "南方大盘红利50C",
             "post_date": "2020-01-21",
-            "cp_rate": 10.06
+            "cp_rate": 8.26
           },
           {
             "fund_code": "008163",
             "fundsname": "南方大盘红利50A",
             "post_date": "2020-01-21",
-            "cp_rate": 10.45
+            "cp_rate": 8.67
           },
           {
             "fund_code": "515450",
             "fundsname": "南方标普中国A股大盘红利低波50ETF",
             "post_date": "2020-01-17",
-            "cp_rate": 10.9567
+            "cp_rate": 9.0373
           },
           {
             "fund_code": "159984",
             "fundsname": "南方粤港澳大湾区ETF",
             "post_date": "2019-11-29",
-            "cp_rate": 33.72
+            "cp_rate": 37.75
           },
           {
             "fund_code": "004346",
             "fundsname": "南方小康ETF联接C",
             "post_date": "2019-07-12",
-            "cp_rate": 23.7798
+            "cp_rate": 23.256
           },
           {
             "fund_code": "004433",
             "fundsname": "南方有色金属联接C",
             "post_date": "2019-07-12",
-            "cp_rate": 43.2049
+            "cp_rate": 53.9753
           },
           {
             "fund_code": "004432",
             "fundsname": "南方有色金属联接A",
             "post_date": "2019-07-12",
-            "cp_rate": 44.0043
+            "cp_rate": 54.8639
           },
           {
             "fund_code": "512400",
             "fundsname": "南方中证申万有色金属ETF",
             "post_date": "2019-07-12",
-            "cp_rate": 48.0326
+            "cp_rate": 60.1662
           },
           {
             "fund_code": "512100",
             "fundsname": "南方中证1000ETF",
             "post_date": "2019-07-12",
-            "cp_rate": 49.2836
+            "cp_rate": 47.6618
           },
           {
             "fund_code": "202021",
             "fundsname": "南方小康ETF联接A",
             "post_date": "2019-07-12",
-            "cp_rate": 24.49
+            "cp_rate": 23.9799
           },
           {
             "fund_code": "510160",
             "fundsname": "南方小康ETF",
             "post_date": "2019-07-12",
-            "cp_rate": 25.5552
+            "cp_rate": 25.0146
           },
           {
             "fund_code": "001426",
             "fundsname": "南方大数据300指数C",
             "post_date": "2019-06-28",
-            "cp_rate": 45.1073
+            "cp_rate": 51.964
           },
           {
             "fund_code": "001420",
             "fundsname": "南方大数据300指数A",
             "post_date": "2019-06-28",
-            "cp_rate": 45.9332
+            "cp_rate": 52.869
           },
           {
             "fund_code": "513800",
             "fundsname": "南方顶峰TOPIXETF",
             "post_date": "2019-06-12",
-            "cp_rate": 13.86
+            "cp_rate": 18.42
           },
           {
             "fund_code": "002907",
             "fundsname": "南方中证500增强C",
             "post_date": "2018-11-08",
-            "cp_rate": 62.356
+            "cp_rate": 68.1178
           },
           {
             "fund_code": "002906",
             "fundsname": "南方中证500增强A",
             "post_date": "2018-11-08",
-            "cp_rate": 63.6015
+            "cp_rate": 69.4764
           }
         ]
       }

@@ -15,8 +15,8 @@
           "name": "宝信软件",
           "code": "600845",
           "percent": 7.01,
-          "current_price": 64.06,
-          "change_percentage": 0.13,
+          "current_price": 69.8,
+          "change_percentage": 1.19,
           "xq_symbol": "SH600845",
           "xq_url": "https://xueqiu.com/S/SH600845",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "芒果超媒",
           "code": "300413",
           "percent": 6.11,
-          "current_price": 65.95,
-          "change_percentage": -1.54,
+          "current_price": 72.88,
+          "change_percentage": 0.52,
           "xq_symbol": "SZ300413",
           "xq_url": "https://xueqiu.com/S/SZ300413",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "金山办公",
           "code": "688111",
           "percent": 6.09,
-          "current_price": 349.5,
-          "change_percentage": -2.75,
+          "current_price": 420,
+          "change_percentage": 2.19,
           "xq_symbol": "SH688111",
           "xq_url": "https://xueqiu.com/S/SH688111",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "圣邦股份",
           "code": "300661",
           "percent": 6.08,
-          "current_price": 291.81,
-          "change_percentage": -1.48,
+          "current_price": 284.6,
+          "change_percentage": 7.88,
           "xq_symbol": "SZ300661",
           "xq_url": "https://xueqiu.com/S/SZ300661",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "卓胜微",
           "code": "300782",
           "percent": 5.98,
-          "current_price": 544.82,
-          "change_percentage": 2.06,
+          "current_price": 614.9,
+          "change_percentage": 7.78,
           "xq_symbol": "SZ300782",
           "xq_url": "https://xueqiu.com/S/SZ300782",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 5.95,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "吉比特",
           "code": "603444",
           "percent": 5.95,
-          "current_price": 410.3,
-          "change_percentage": 2.32,
+          "current_price": 437.99,
+          "change_percentage": 2.81,
           "xq_symbol": "SH603444",
           "xq_url": "https://xueqiu.com/S/SH603444",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "亿纬锂能",
           "code": "300014",
           "percent": 5.9,
-          "current_price": 63.71,
-          "change_percentage": 4.17,
+          "current_price": 93.49,
+          "change_percentage": 14.71,
           "xq_symbol": "SZ300014",
           "xq_url": "https://xueqiu.com/S/SZ300014",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "恒生电子",
           "code": "600570",
           "percent": 5.86,
-          "current_price": 98.15,
-          "change_percentage": 1.31,
+          "current_price": 106.17,
+          "change_percentage": 1.21,
           "xq_symbol": "SH600570",
           "xq_url": "https://xueqiu.com/S/SH600570",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "广联达",
           "code": "002410",
           "percent": 4.91,
-          "current_price": 70.77,
-          "change_percentage": 2.08,
+          "current_price": 80.53,
+          "change_percentage": 2.27,
           "xq_symbol": "SZ002410",
           "xq_url": "https://xueqiu.com/S/SZ002410",
           "amarket": true
@@ -173,19 +173,19 @@
       {
         "name": "潘明",
         "resume": "    潘明,硕士研究生,1996年6月至1998年6月在计算机科学公司担任咨询师;1998年8月至2005年5月在摩托罗拉公司担任高级行政工程师;2003年1月至2003年12月在扎克斯投资管理公司担任投资分析师;2004年4月至2005年5月在短剑投资公司担任执行董事;2005年5月至2009年7月在指导资本公司担任基金经理兼大宗商品研究总监;2009年8月至2010年3月在海通证券股份有限公司担任投资经理;2010年1月至2013年1月在GCS母基金公司、GCS有限公司、GCS有限责任合伙公司担任独立董事;2010年3月至2012年10月在光大证券资产管理有限公司担任投资经理助理;2012年10月至2013年12月在光大证券资产管理有限公司担任投资经理。2013年12月起加入国联安基金管理有限公司,担任基金经理助理。2014年2月起担任国联安优选行业混合型证券投资基金基金经理。2015年4月起兼任国联安德盛红利混合型证券投资基金。2015年4月至2017年2月兼任国联安主题驱动混合型证券投资基金基金经理。2016年1月起兼任国联安科技动力股票型证券投资基金基金经理,2020年3月起兼任国联安科技创新3年封闭运作灵活配置混合型证券投资基金的基金经理。",
-        "work_year": "11",
+        "work_year": "12",
         "achievement_list": [
           {
             "fund_code": "501096",
             "fundsname": "国联安科技创新3年封闭运作灵活配置混合",
             "post_date": "2020-03-20",
-            "cp_rate": 14.97
+            "cp_rate": 19.15
           },
           {
             "fund_code": "001956",
             "fundsname": "国联安科技动力股票",
             "post_date": "2016-01-26",
-            "cp_rate": 89.3
+            "cp_rate": 103.71
           },
           {
             "fund_code": "257050",
@@ -205,7 +205,7 @@
             "fund_code": "257070",
             "fundsname": "国联安优选行业混合",
             "post_date": "2014-02-15",
-            "cp_rate": 168.6193
+            "cp_rate": 188.5778
           }
         ]
       }
@@ -216,8 +216,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

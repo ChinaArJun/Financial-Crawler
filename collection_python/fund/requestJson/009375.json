@@ -45,79 +45,79 @@
         "name": "陈士俊",
         "resume": "    陈士俊先生,清华大学管理学博士。2001年7月至2003年6月,任国泰君安证券有限公司研究所金融工程研究员。2003年7月至2007年9月,任银河基金管理有限公司金融工程部研究员、研究部主管。2007年10月至今,任浦银安盛基金管理有限公司指数与量化投资部总监,2010年12月10日起兼任浦银安盛沪深300指数增强型证券投资基金基金经理,2012年5月14日起兼任浦银安盛中证锐联基本面400指数证券投资基金基金经理,2017年4月27日起兼任浦银安盛中证锐联沪港深基本面100指数证券投资基金(LOF)基金经理,2018年9月5日起兼任浦银安盛量化多策略灵活配置混合型证券投资基金基金经理。2019年1月29日起兼任浦银安盛中证高股息精选交易型开放式指数证券投资基金基金经理。自2012年3月起兼任职工监事。陈士俊先生具有16年证券从业经历。陈士俊先生从未被监管机构予以行政处罚或采取行政监管措施。",
         "college": "清华大学",
-        "work_year": "18",
+        "work_year": "19",
         "achievement_list": [
           {
             "fund_code": "009375",
             "fundsname": "浦银安盛MSCI中国A股ETF联接C",
             "post_date": "2020-09-23",
-            "cp_rate": 6.36
+            "cp_rate": 10.67
           },
           {
             "fund_code": "009374",
             "fundsname": "浦银安盛MSCI中国A股ETF联接A",
             "post_date": "2020-09-23",
-            "cp_rate": 6.43
+            "cp_rate": 10.76
           },
           {
             "fund_code": "159810",
             "fundsname": "浦银安盛创业板ETF",
             "post_date": "2020-06-12",
-            "cp_rate": 7.43
+            "cp_rate": 16.71
           },
           {
             "fund_code": "515780",
             "fundsname": "浦银安盛MSCI中国A股ETF",
             "post_date": "2020-04-30",
-            "cp_rate": 40.4
+            "cp_rate": 47.38
           },
           {
             "fund_code": "007411",
             "fundsname": "浦银安盛中证高股息ETF联接C",
             "post_date": "2020-04-01",
-            "cp_rate": 31.46
+            "cp_rate": 25.33
           },
           {
             "fund_code": "007410",
             "fundsname": "浦银安盛中证高股息ETF联接A",
             "post_date": "2020-04-01",
-            "cp_rate": 31.77
+            "cp_rate": 25.64
           },
           {
             "fund_code": "512590",
             "fundsname": "浦银安盛中证高股息ETF",
             "post_date": "2019-01-29",
-            "cp_rate": 41.72
+            "cp_rate": 34.99
           },
           {
             "fund_code": "005866",
             "fundsname": "浦银安盛量化多策略混合C",
             "post_date": "2018-09-05",
-            "cp_rate": 31.61
+            "cp_rate": 33.41
           },
           {
             "fund_code": "005865",
             "fundsname": "浦银安盛量化多策略混合A",
             "post_date": "2018-09-05",
-            "cp_rate": 39.01
+            "cp_rate": 40.99
           },
           {
             "fund_code": "166402",
             "fundsname": "浦银沪港深基本面",
             "post_date": "2017-04-27",
-            "cp_rate": 1.01
+            "cp_rate": -0.94
           },
           {
             "fund_code": "519117",
             "fundsname": "浦银安盛基本面400指数",
             "post_date": "2012-05-14",
-            "cp_rate": 77
+            "cp_rate": 76.3
           },
           {
             "fund_code": "519116",
             "fundsname": "浦银安盛沪深300指数",
             "post_date": "2010-12-10",
-            "cp_rate": 126.8
+            "cp_rate": 138.28
           }
         ]
       },
@@ -129,43 +129,43 @@
             "fund_code": "009374",
             "fundsname": "浦银安盛MSCI中国A股ETF联接A",
             "post_date": "2020-09-23",
-            "cp_rate": 6.43
+            "cp_rate": 10.76
           },
           {
             "fund_code": "009375",
             "fundsname": "浦银安盛MSCI中国A股ETF联接C",
             "post_date": "2020-09-23",
-            "cp_rate": 6.36
+            "cp_rate": 10.67
           },
           {
             "fund_code": "159810",
             "fundsname": "浦银安盛创业板ETF",
             "post_date": "2020-07-22",
-            "cp_rate": 0.6182
+            "cp_rate": 9.3097
           },
           {
             "fund_code": "007410",
             "fundsname": "浦银安盛中证高股息ETF联接A",
             "post_date": "2020-06-04",
-            "cp_rate": 29.6566
+            "cp_rate": 23.6249
           },
           {
             "fund_code": "007411",
             "fundsname": "浦银安盛中证高股息ETF联接C",
             "post_date": "2020-06-04",
-            "cp_rate": 29.4535
+            "cp_rate": 23.417
           },
           {
             "fund_code": "515780",
             "fundsname": "浦银安盛MSCI中国A股ETF",
             "post_date": "2020-06-04",
-            "cp_rate": 35.8622
+            "cp_rate": 42.6166
           },
           {
             "fund_code": "512590",
             "fundsname": "浦银安盛中证高股息ETF",
             "post_date": "2019-03-19",
-            "cp_rate": 39.5157
+            "cp_rate": 32.8903
           }
         ]
       }
@@ -176,8 +176,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

@@ -1,42 +1,2306 @@
 [
   {
-    "fd_code": "001719",
-    "fd_name": "工银国家战略主题",
-    "yield": "10.4623",
+    "fd_code": "003834",
+    "fd_name": "华夏能源革新股票",
+    "yield": "42.3286",
     "sf_type": "1",
-    "unit_nav": "1.8160",
+    "unit_nav": "2.8850",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005927",
+    "fd_name": "创金合信新能源汽车股票A",
+    "yield": "34.1040",
+    "sf_type": "1",
+    "unit_nav": "2.3259",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005928",
+    "fd_name": "创金合信新能源汽车股票C",
+    "yield": "34.0306",
+    "sf_type": "1",
+    "unit_nav": "2.2812",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009147",
+    "fd_name": "建信新能源行业股票",
+    "yield": "31.2670",
+    "sf_type": "1",
+    "unit_nav": "1.8338",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005669",
+    "fd_name": "前海开源公用事业",
+    "yield": "31.2592",
+    "sf_type": "1",
+    "unit_nav": "1.7930",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "004812",
+    "fd_name": "中欧先进制造股票A",
+    "yield": "31.0769",
+    "sf_type": "1",
+    "unit_nav": "2.8677",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "004813",
+    "fd_name": "中欧先进制造股票C",
+    "yield": "30.9926",
+    "sf_type": "1",
+    "unit_nav": "2.8597",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "000828",
+    "fd_name": "泰达宏利转型机遇",
+    "yield": "30.0270",
+    "sf_type": "1",
+    "unit_nav": "2.4120",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "004925",
+    "fd_name": "长信低碳环保股票",
+    "yield": "28.7369",
+    "sf_type": "1",
+    "unit_nav": "1.9895",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001790",
+    "fd_name": "国泰智能汽车股票",
+    "yield": "28.1056",
+    "sf_type": "1",
+    "unit_nav": "2.4750",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001245",
+    "fd_name": "工银生态环境股票",
+    "yield": "27.9512",
+    "sf_type": "1",
+    "unit_nav": "1.8860",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "002168",
+    "fd_name": "嘉实智能汽车",
+    "yield": "27.4634",
+    "sf_type": "1",
+    "unit_nav": "3.8290",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006265",
+    "fd_name": "红土创新新科技股票",
+    "yield": "27.2664",
+    "sf_type": "1",
+    "unit_nav": "3.4661",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005037",
+    "fd_name": "银华新能源材料量化优选A",
+    "yield": "26.4670",
+    "sf_type": "1",
+    "unit_nav": "1.6552",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005038",
+    "fd_name": "银华新能源材料量化优选C",
+    "yield": "26.4280",
+    "sf_type": "1",
+    "unit_nav": "1.6313",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005968",
+    "fd_name": "创金合信工业周期精选股票A",
+    "yield": "26.1604",
+    "sf_type": "1",
+    "unit_nav": "2.9789",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005969",
+    "fd_name": "创金合信工业周期精选股票C",
+    "yield": "26.0918",
+    "sf_type": "1",
+    "unit_nav": "2.9276",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "003853",
+    "fd_name": "金鹰信息产业股票A",
+    "yield": "26.0364",
+    "sf_type": "1",
+    "unit_nav": "3.5541",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005885",
+    "fd_name": "金鹰信息产业股票C",
+    "yield": "25.9936",
+    "sf_type": "1",
+    "unit_nav": "3.5568",
     "f_type": "fund"
   },
   {
     "fd_code": "004698",
     "fd_name": "博时军工主题股票",
-    "yield": "9.5985",
+    "yield": "24.9855",
     "sf_type": "1",
-    "unit_nav": "1.7470",
+    "unit_nav": "2.1560",
     "f_type": "fund"
   },
   {
-    "fd_code": "000594",
-    "fd_name": "大摩进取优选股票",
-    "yield": "9.0493",
+    "fd_code": "000793",
+    "fd_name": "工银高端制造股票",
+    "yield": "24.9712",
     "sf_type": "1",
-    "unit_nav": "2.8560",
+    "unit_nav": "2.1720",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008085",
+    "fd_name": "海富通先进制造股票A",
+    "yield": "24.7737",
+    "sf_type": "1",
+    "unit_nav": "1.2682",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008084",
+    "fd_name": "海富通先进制造股票C",
+    "yield": "24.7309",
+    "sf_type": "1",
+    "unit_nav": "1.2629",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "004640",
+    "fd_name": "华夏节能环保股票",
+    "yield": "24.6040",
+    "sf_type": "1",
+    "unit_nav": "2.2106",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001166",
+    "fd_name": "建信环保产业股票",
+    "yield": "24.1818",
+    "sf_type": "1",
+    "unit_nav": "1.3660",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008177",
+    "fd_name": "建信高股息主题股票",
+    "yield": "23.4820",
+    "sf_type": "1",
+    "unit_nav": "1.6086",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "003984",
+    "fd_name": "嘉实新能源新材料A",
+    "yield": "23.4379",
+    "sf_type": "1",
+    "unit_nav": "2.9751",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "003985",
+    "fd_name": "嘉实新能源新材料C",
+    "yield": "23.3822",
+    "sf_type": "1",
+    "unit_nav": "2.9381",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005894",
+    "fd_name": "华夏优势精选股票",
+    "yield": "23.0680",
+    "sf_type": "1",
+    "unit_nav": "2.1228",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "000409",
+    "fd_name": "鹏华环保产业股票",
+    "yield": "22.9700",
+    "sf_type": "1",
+    "unit_nav": "4.4220",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "000696",
+    "fd_name": "汇添富环保行业股票",
+    "yield": "22.8351",
+    "sf_type": "1",
+    "unit_nav": "2.3830",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001616",
+    "fd_name": "嘉实环保低碳",
+    "yield": "22.5993",
+    "sf_type": "1",
+    "unit_nav": "3.6130",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006251",
+    "fd_name": "银华兴盛股票",
+    "yield": "21.9668",
+    "sf_type": "1",
+    "unit_nav": "2.0749",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005009",
+    "fd_name": "申万菱信行业轮动",
+    "yield": "21.1971",
+    "sf_type": "1",
+    "unit_nav": "1.7616",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "000592",
+    "fd_name": "建信改革红利股票",
+    "yield": "21.0367",
+    "sf_type": "1",
+    "unit_nav": "5.1840",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006052",
+    "fd_name": "鹏扬核心价值混合C",
+    "yield": "20.3636",
+    "sf_type": "1",
+    "unit_nav": "2.1586",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001158",
+    "fd_name": "工银新材料新能源",
+    "yield": "19.9669",
+    "sf_type": "1",
+    "unit_nav": "1.4480",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001781",
+    "fd_name": "建信现代服务业股票",
+    "yield": "19.4159",
+    "sf_type": "1",
+    "unit_nav": "2.2080",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001476",
+    "fd_name": "中银智能制造股票",
+    "yield": "19.3343",
+    "sf_type": "1",
+    "unit_nav": "1.6850",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006923",
+    "fd_name": "前海开源沪港深非周期股票A",
+    "yield": "18.2424",
+    "sf_type": "1",
+    "unit_nav": "1.6671",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001009",
+    "fd_name": "上投摩根安全战略股票",
+    "yield": "18.2324",
+    "sf_type": "1",
+    "unit_nav": "1.9920",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006924",
+    "fd_name": "前海开源沪港深非周期股票C",
+    "yield": "18.2148",
+    "sf_type": "1",
+    "unit_nav": "1.6595",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008294",
+    "fd_name": "朱雀企业优胜A",
+    "yield": "18.2100",
+    "sf_type": "1",
+    "unit_nav": "1.6378",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "003956",
+    "fd_name": "南方现代教育股票",
+    "yield": "18.2013",
+    "sf_type": "1",
+    "unit_nav": "2.2567",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008295",
+    "fd_name": "朱雀企业优胜C",
+    "yield": "18.1357",
+    "sf_type": "1",
+    "unit_nav": "1.6311",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005826",
+    "fd_name": "华夏潜龙精选股票",
+    "yield": "17.9114",
+    "sf_type": "1",
+    "unit_nav": "2.2435",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "002861",
+    "fd_name": "工银智能制造股票",
+    "yield": "17.8348",
+    "sf_type": "1",
+    "unit_nav": "1.8830",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001126",
+    "fd_name": "上投摩根卓越制造股票",
+    "yield": "17.7552",
+    "sf_type": "1",
+    "unit_nav": "1.7583",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "162208",
+    "fd_name": "泰达宏利首选企业",
+    "yield": "17.7429",
+    "sf_type": "1",
+    "unit_nav": "1.8780",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001677",
+    "fd_name": "中银战略新兴产业",
+    "yield": "17.7287",
+    "sf_type": "1",
+    "unit_nav": "2.7160",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001384",
+    "fd_name": "东方新思路混合A",
+    "yield": "17.6881",
+    "sf_type": "1",
+    "unit_nav": "1.8377",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001542",
+    "fd_name": "国泰互联网+股票",
+    "yield": "17.6536",
+    "sf_type": "1",
+    "unit_nav": "3.1790",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001008",
+    "fd_name": "工银国企改革股票",
+    "yield": "17.5857",
+    "sf_type": "1",
+    "unit_nav": "2.3670",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006604",
+    "fd_name": "嘉实消费精选股票A",
+    "yield": "17.5462",
+    "sf_type": "1",
+    "unit_nav": "2.3233",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "003624",
+    "fd_name": "创金合信资源主题精选A",
+    "yield": "17.5059",
+    "sf_type": "1",
+    "unit_nav": "2.1399",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006605",
+    "fd_name": "嘉实消费精选股票C",
+    "yield": "17.4953",
+    "sf_type": "1",
+    "unit_nav": "2.2995",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "003625",
+    "fd_name": "创金合信资源主题精选C",
+    "yield": "17.4567",
+    "sf_type": "1",
+    "unit_nav": "2.0939",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005259",
+    "fd_name": "建信龙头企业股票",
+    "yield": "17.3305",
+    "sf_type": "1",
+    "unit_nav": "2.2416",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "003190",
+    "fd_name": "创金合信消费主题股票A",
+    "yield": "16.9218",
+    "sf_type": "1",
+    "unit_nav": "2.8951",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "003191",
+    "fd_name": "创金合信消费主题股票C",
+    "yield": "16.8508",
+    "sf_type": "1",
+    "unit_nav": "2.8452",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001104",
+    "fd_name": "华安新丝路主题",
+    "yield": "16.8248",
+    "sf_type": "1",
+    "unit_nav": "2.6500",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009875",
+    "fd_name": "天弘甄选食品饮料A",
+    "yield": "16.7675",
+    "sf_type": "1",
+    "unit_nav": "1.2744",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009876",
+    "fd_name": "天弘甄选食品饮料C",
+    "yield": "16.7599",
+    "sf_type": "1",
+    "unit_nav": "1.2735",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001042",
+    "fd_name": "华夏领先股票",
+    "yield": "16.6882",
+    "sf_type": "1",
+    "unit_nav": "0.9020",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "519727",
+    "fd_name": "交银成长30股票",
+    "yield": "16.6667",
+    "sf_type": "1",
+    "unit_nav": "2.6950",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "000971",
+    "fd_name": "诺安新经济股票",
+    "yield": "16.4329",
+    "sf_type": "1",
+    "unit_nav": "1.7430",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008958",
+    "fd_name": "嘉实回报精选股票",
+    "yield": "16.3881",
+    "sf_type": "1",
+    "unit_nav": "1.5113",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010141",
+    "fd_name": "朱雀企业优选A",
+    "yield": "16.3804",
+    "sf_type": "1",
+    "unit_nav": "1.2398",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010142",
+    "fd_name": "朱雀企业优选C",
+    "yield": "16.3031",
+    "sf_type": "1",
+    "unit_nav": "1.2370",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "002595",
+    "fd_name": "博时工业4.0主题股票",
+    "yield": "16.2605",
+    "sf_type": "1",
+    "unit_nav": "2.4810",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "206012",
+    "fd_name": "鹏华价值精选",
+    "yield": "16.2298",
+    "sf_type": "1",
+    "unit_nav": "3.0150",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001749",
+    "fd_name": "招商中国机遇股票",
+    "yield": "16.1772",
+    "sf_type": "1",
+    "unit_nav": "2.2550",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "160322",
+    "fd_name": "华夏港股通精选股票",
+    "yield": "16.1722",
+    "sf_type": "1",
+    "unit_nav": "1.7111",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001070",
+    "fd_name": "建信信息产业股票",
+    "yield": "16.1065",
+    "sf_type": "1",
+    "unit_nav": "2.6600",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001054",
+    "fd_name": "工银新金融股票",
+    "yield": "16.0707",
+    "sf_type": "1",
+    "unit_nav": "2.7590",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001703",
+    "fd_name": "银华沪港深增长股票",
+    "yield": "15.8276",
+    "sf_type": "1",
+    "unit_nav": "2.8760",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001188",
+    "fd_name": "鹏华改革红利",
+    "yield": "15.7938",
+    "sf_type": "1",
+    "unit_nav": "1.4150",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005268",
+    "fd_name": "鹏华优势企业股票",
+    "yield": "15.6781",
+    "sf_type": "1",
+    "unit_nav": "2.4009",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "004784",
+    "fd_name": "招商稳健优选股票",
+    "yield": "15.6006",
+    "sf_type": "1",
+    "unit_nav": "2.2482",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "110022",
+    "fd_name": "易方达消费行业",
+    "yield": "15.5246",
+    "sf_type": "1",
+    "unit_nav": "5.3950",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "200008",
+    "fd_name": "长城品牌优选股票",
+    "yield": "15.4778",
+    "sf_type": "1",
+    "unit_nav": "2.5822",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005328",
+    "fd_name": "前海开源价值策略",
+    "yield": "15.3578",
+    "sf_type": "1",
+    "unit_nav": "1.5541",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001167",
+    "fd_name": "金鹰科技创新股票",
+    "yield": "15.3307",
+    "sf_type": "1",
+    "unit_nav": "1.1510",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "162703",
+    "fd_name": "广发小盘成长混合（LOF）",
+    "yield": "15.2067",
+    "sf_type": "1",
+    "unit_nav": "3.6956",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "217001",
+    "fd_name": "招商安泰股票",
+    "yield": "15.0986",
+    "sf_type": "1",
+    "unit_nav": "0.6068",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001718",
+    "fd_name": "工银物流产业股票",
+    "yield": "15.0475",
+    "sf_type": "1",
+    "unit_nav": "3.1500",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001097",
+    "fd_name": "华泰柏瑞积极优选",
+    "yield": "14.9343",
+    "sf_type": "1",
+    "unit_nav": "0.9620",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "004995",
+    "fd_name": "广发品牌消费股票",
+    "yield": "14.7528",
+    "sf_type": "1",
+    "unit_nav": "2.2075",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001705",
+    "fd_name": "泓德战略转型股票",
+    "yield": "14.7163",
+    "sf_type": "1",
+    "unit_nav": "2.1047",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010245",
+    "fd_name": "广发品牌消费股票C类",
+    "yield": "14.7157",
+    "sf_type": "1",
+    "unit_nav": "2.2069",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006478",
+    "fd_name": "长盛多因子策略优选",
+    "yield": "14.6869",
+    "sf_type": "1",
+    "unit_nav": "1.9237",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001048",
+    "fd_name": "富国新兴产业股票",
+    "yield": "14.5413",
+    "sf_type": "1",
+    "unit_nav": "1.9850",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001956",
+    "fd_name": "国联安科技动力",
+    "yield": "14.5247",
+    "sf_type": "1",
+    "unit_nav": "2.1289",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "003745",
+    "fd_name": "广发多元新兴股票",
+    "yield": "14.5225",
+    "sf_type": "1",
+    "unit_nav": "2.6599",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007965",
+    "fd_name": "民生加银品质消费股票A",
+    "yield": "14.5121",
+    "sf_type": "1",
+    "unit_nav": "1.5679",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010128",
+    "fd_name": "宝盈发展新动能股票A",
+    "yield": "14.4832",
+    "sf_type": "1",
+    "unit_nav": "1.1430",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007966",
+    "fd_name": "民生加银品质消费股票C",
+    "yield": "14.4750",
+    "sf_type": "1",
+    "unit_nav": "1.5635",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001692",
+    "fd_name": "南方国策动力",
+    "yield": "14.4730",
+    "sf_type": "1",
+    "unit_nav": "2.3570",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010129",
+    "fd_name": "宝盈发展新动能股票C",
+    "yield": "14.4476",
+    "sf_type": "1",
+    "unit_nav": "1.1415",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009491",
+    "fd_name": "宝盈创新驱动A",
+    "yield": "14.4336",
+    "sf_type": "1",
+    "unit_nav": "1.1607",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008009",
+    "fd_name": "华商高端装备制造股票",
+    "yield": "14.4039",
+    "sf_type": "1",
+    "unit_nav": "1.9920",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009492",
+    "fd_name": "宝盈创新驱动C",
+    "yield": "14.3986",
+    "sf_type": "1",
+    "unit_nav": "1.1584",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005628",
+    "fd_name": "汇安趋势动力A",
+    "yield": "14.3081",
+    "sf_type": "1",
+    "unit_nav": "1.4620",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "004805",
+    "fd_name": "长信消费精选股票",
+    "yield": "14.2753",
+    "sf_type": "1",
+    "unit_nav": "2.1966",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005629",
+    "fd_name": "汇安趋势动力C",
+    "yield": "14.2596",
+    "sf_type": "1",
+    "unit_nav": "1.4383",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "000867",
+    "fd_name": "华宝品质生活股票",
+    "yield": "14.2457",
+    "sf_type": "1",
+    "unit_nav": "2.0370",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "000884",
+    "fd_name": "民生加银优选股票",
+    "yield": "14.2272",
+    "sf_type": "1",
+    "unit_nav": "2.5380",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001825",
+    "fd_name": "建信中国制造2025",
+    "yield": "14.1365",
+    "sf_type": "1",
+    "unit_nav": "2.1420",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008264",
+    "fd_name": "南方ESG股票A",
+    "yield": "14.0050",
+    "sf_type": "1",
+    "unit_nav": "1.7925",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001421",
+    "fd_name": "南方量化成长",
+    "yield": "13.9958",
+    "sf_type": "1",
+    "unit_nav": "1.6290",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001230",
+    "fd_name": "鹏华医药科技",
+    "yield": "13.9719",
+    "sf_type": "1",
+    "unit_nav": "1.2970",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007527",
+    "fd_name": "融通量化多策略A",
+    "yield": "13.9574",
+    "sf_type": "1",
+    "unit_nav": "1.9440",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008265",
+    "fd_name": "南方ESG股票C",
+    "yield": "13.9449",
+    "sf_type": "1",
+    "unit_nav": "1.7813",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001409",
+    "fd_name": "工银互联网加股票",
+    "yield": "13.9159",
+    "sf_type": "1",
+    "unit_nav": "0.7040",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007528",
+    "fd_name": "融通量化多策略C",
+    "yield": "13.9123",
+    "sf_type": "1",
+    "unit_nav": "1.9307",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "000756",
+    "fd_name": "建信潜力新蓝筹股票",
+    "yield": "13.8763",
+    "sf_type": "1",
+    "unit_nav": "2.5030",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001938",
+    "fd_name": "中欧时代先锋",
+    "yield": "13.7944",
+    "sf_type": "1",
+    "unit_nav": "2.1473",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006868",
+    "fd_name": "华夏科技成长股票",
+    "yield": "13.7757",
+    "sf_type": "1",
+    "unit_nav": "2.0458",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001490",
+    "fd_name": "汇添富国企创新股票",
+    "yield": "13.7639",
+    "sf_type": "1",
+    "unit_nav": "2.1490",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "004241",
+    "fd_name": "中欧时代先锋股票C",
+    "yield": "13.7120",
+    "sf_type": "1",
+    "unit_nav": "2.1122",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001105",
+    "fd_name": "信达澳银转型创新",
+    "yield": "13.6691",
+    "sf_type": "1",
+    "unit_nav": "1.2640",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005235",
+    "fd_name": "银华食品饮料量化优选A",
+    "yield": "13.6689",
+    "sf_type": "1",
+    "unit_nav": "2.5879",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005236",
+    "fd_name": "银华食品饮料量化优选C",
+    "yield": "13.6340",
+    "sf_type": "1",
+    "unit_nav": "2.5704",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009476",
+    "fd_name": "建信食品饮料行业股票",
+    "yield": "13.5821",
+    "sf_type": "1",
+    "unit_nav": "1.1900",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001726",
+    "fd_name": "汇添富新兴消费股票",
+    "yield": "13.5795",
+    "sf_type": "1",
+    "unit_nav": "1.9070",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "217012",
+    "fd_name": "招商行业领先股票",
+    "yield": "13.5694",
+    "sf_type": "1",
+    "unit_nav": "2.8540",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005825",
+    "fd_name": "申万菱信智能驱动股票",
+    "yield": "13.4956",
+    "sf_type": "1",
+    "unit_nav": "2.8955",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "004189",
+    "fd_name": "华商消费行业",
+    "yield": "13.4929",
+    "sf_type": "1",
+    "unit_nav": "1.9775",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005962",
+    "fd_name": "宝盈人工智能主题股票A",
+    "yield": "13.4345",
+    "sf_type": "1",
+    "unit_nav": "2.9240",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001576",
+    "fd_name": "国泰智能装备股票",
+    "yield": "13.3747",
+    "sf_type": "1",
+    "unit_nav": "2.5600",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005161",
+    "fd_name": "华商上游产业股票",
+    "yield": "13.3739",
+    "sf_type": "1",
+    "unit_nav": "1.6573",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "003145",
+    "fd_name": "中融竞争优势股票",
+    "yield": "13.3711",
+    "sf_type": "1",
+    "unit_nav": "1.7212",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "000996",
+    "fd_name": "中银新动力股票",
+    "yield": "13.3652",
+    "sf_type": "1",
+    "unit_nav": "1.4250",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005963",
+    "fd_name": "宝盈人工智能主题股票C",
+    "yield": "13.3610",
+    "sf_type": "1",
+    "unit_nav": "2.8686",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007750",
+    "fd_name": "广发优势增长股票",
+    "yield": "13.2749",
+    "sf_type": "1",
+    "unit_nav": "1.7322",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "217013",
+    "fd_name": "招商中小盘股票",
+    "yield": "13.2178",
+    "sf_type": "1",
+    "unit_nav": "3.5290",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007305",
+    "fd_name": "国联安新科技混合",
+    "yield": "13.1369",
+    "sf_type": "1",
+    "unit_nav": "1.9541",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001496",
+    "fd_name": "工银聚焦30股票",
+    "yield": "13.1020",
+    "sf_type": "1",
+    "unit_nav": "1.5970",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001313",
+    "fd_name": "上投摩根智慧互联股票",
+    "yield": "12.9630",
+    "sf_type": "1",
+    "unit_nav": "1.3420",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "000729",
+    "fd_name": "建信中小盘先锋股票",
+    "yield": "12.9422",
+    "sf_type": "1",
+    "unit_nav": "2.6180",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "003053",
+    "fd_name": "嘉实文体娱乐股票A",
+    "yield": "12.9156",
+    "sf_type": "1",
+    "unit_nav": "1.7660",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "003054",
+    "fd_name": "嘉实文体娱乐股票C",
+    "yield": "12.8990",
+    "sf_type": "1",
+    "unit_nav": "1.7330",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008860",
+    "fd_name": "民生加银龙头优选股票",
+    "yield": "12.8239",
+    "sf_type": "1",
+    "unit_nav": "1.6980",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "002229",
+    "fd_name": "华夏经济转型股票",
+    "yield": "12.8112",
+    "sf_type": "1",
+    "unit_nav": "2.4920",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001878",
+    "fd_name": "嘉实沪港深精选",
+    "yield": "12.7770",
+    "sf_type": "1",
+    "unit_nav": "2.3920",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "671030",
+    "fd_name": "西部利得事件驱动股票",
+    "yield": "12.7575",
+    "sf_type": "1",
+    "unit_nav": "2.0249",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001696",
+    "fd_name": "南方智造股票",
+    "yield": "12.7529",
+    "sf_type": "1",
+    "unit_nav": "1.8390",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "004352",
+    "fd_name": "北信瑞丰研究精选",
+    "yield": "12.4673",
+    "sf_type": "1",
+    "unit_nav": "1.5895",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001685",
+    "fd_name": "汇添富沪港深新价值",
+    "yield": "12.4219",
+    "sf_type": "1",
+    "unit_nav": "1.6200",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "002980",
+    "fd_name": "华夏创新前沿股票",
+    "yield": "12.3905",
+    "sf_type": "1",
+    "unit_nav": "2.5670",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001416",
+    "fd_name": "嘉实事件驱动",
+    "yield": "12.3642",
+    "sf_type": "1",
+    "unit_nav": "1.3450",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001764",
+    "fd_name": "广发沪港深股票",
+    "yield": "12.2998",
+    "sf_type": "1",
+    "unit_nav": "1.7530",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001039",
+    "fd_name": "嘉实先进制造",
+    "yield": "12.2807",
+    "sf_type": "1",
+    "unit_nav": "1.9200",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001236",
+    "fd_name": "博时丝路主题股票A",
+    "yield": "12.2361",
+    "sf_type": "1",
+    "unit_nav": "2.0730",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008410",
+    "fd_name": "长盛价值发现",
+    "yield": "12.2063",
+    "sf_type": "1",
+    "unit_nav": "1.2989",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "002556",
+    "fd_name": "博时丝路主题股票C",
+    "yield": "12.1711",
+    "sf_type": "1",
+    "unit_nav": "2.0460",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "000780",
+    "fd_name": "鹏华医疗保健股票",
+    "yield": "12.1627",
+    "sf_type": "1",
+    "unit_nav": "2.7850",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009012",
+    "fd_name": "平安创业板交易型开放式指数证券投资基金联",
+    "yield": "12.1470",
+    "sf_type": "1",
+    "unit_nav": "1.5446",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009537",
+    "fd_name": "太平行业优选A",
+    "yield": "12.1464",
+    "sf_type": "1",
+    "unit_nav": "1.1892",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006692",
+    "fd_name": "金信消费升级股票A",
+    "yield": "12.1209",
+    "sf_type": "1",
+    "unit_nav": "2.0887",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009013",
+    "fd_name": "平安创业板交易型开放式指数证券投资基金联",
+    "yield": "12.1078",
+    "sf_type": "1",
+    "unit_nav": "1.5398",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009538",
+    "fd_name": "太平行业优选C",
+    "yield": "12.0857",
+    "sf_type": "1",
+    "unit_nav": "1.1871",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009341",
+    "fd_name": "易方达均衡成长股票",
+    "yield": "12.0808",
+    "sf_type": "1",
+    "unit_nav": "1.2432",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006693",
+    "fd_name": "金信消费升级股票C",
+    "yield": "12.0510",
+    "sf_type": "1",
+    "unit_nav": "2.1897",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006314",
+    "fd_name": "中融策略优选混合A",
+    "yield": "11.9580",
+    "sf_type": "1",
+    "unit_nav": "2.4708",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008445",
+    "fd_name": "融通产业趋势先锋股票",
+    "yield": "11.9069",
+    "sf_type": "1",
+    "unit_nav": "1.2688",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006315",
+    "fd_name": "中融策略优选混合C",
+    "yield": "11.9022",
+    "sf_type": "1",
+    "unit_nav": "2.4360",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "200015",
+    "fd_name": "长城优化升级股票",
+    "yield": "11.8852",
+    "sf_type": "1",
+    "unit_nav": "3.5782",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "200012",
+    "fd_name": "长城中小盘股票",
+    "yield": "11.8818",
+    "sf_type": "1",
+    "unit_nav": "3.3729",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008286",
+    "fd_name": "易方达研究精选股票",
+    "yield": "11.8338",
+    "sf_type": "1",
+    "unit_nav": "1.7521",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "000751",
+    "fd_name": "嘉实新兴产业",
+    "yield": "11.8258",
+    "sf_type": "1",
+    "unit_nav": "5.4940",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006751",
+    "fd_name": "富国互联科技股票",
+    "yield": "11.7773",
+    "sf_type": "1",
+    "unit_nav": "2.7144",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001396",
+    "fd_name": "建信互联网+产业升级",
+    "yield": "11.7498",
+    "sf_type": "1",
+    "unit_nav": "1.3220",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "160919",
+    "fd_name": "大成产业升级股票",
+    "yield": "11.7462",
+    "sf_type": "1",
+    "unit_nav": "2.4830",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "003634",
+    "fd_name": "嘉实农业产业股票",
+    "yield": "11.6898",
+    "sf_type": "1",
+    "unit_nav": "2.3609",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006671",
+    "fd_name": "广发消费升级股票",
+    "yield": "11.6681",
+    "sf_type": "1",
+    "unit_nav": "2.1007",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009877",
+    "fd_name": "中银内核驱动股票",
+    "yield": "11.5261",
+    "sf_type": "1",
+    "unit_nav": "1.1795",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "000831",
+    "fd_name": "工银医疗保健股票",
+    "yield": "11.4009",
+    "sf_type": "1",
+    "unit_nav": "3.3320",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "000854",
+    "fd_name": "鹏华养老产业股票",
+    "yield": "11.2375",
+    "sf_type": "1",
+    "unit_nav": "4.1080",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "002121",
+    "fd_name": "广发沪港深新起点",
+    "yield": "11.1777",
+    "sf_type": "1",
+    "unit_nav": "2.0410",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001193",
+    "fd_name": "中金消费升级股票",
+    "yield": "11.1415",
+    "sf_type": "1",
+    "unit_nav": "1.6260",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010024",
+    "fd_name": "广发沪港深新起点股票C类",
+    "yield": "11.1408",
+    "sf_type": "1",
+    "unit_nav": "2.0391",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "003416",
+    "fd_name": "招商财经大数据股票",
+    "yield": "11.1395",
+    "sf_type": "1",
+    "unit_nav": "1.3070",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006228",
+    "fd_name": "中欧医疗创新股票A",
+    "yield": "11.1386",
+    "sf_type": "1",
+    "unit_nav": "2.5154",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "004292",
+    "fd_name": "鹏华沪深港互联网",
+    "yield": "11.1363",
+    "sf_type": "1",
+    "unit_nav": "2.1067",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001888",
+    "fd_name": "中欧盛世成长",
+    "yield": "11.0626",
+    "sf_type": "1",
+    "unit_nav": "3.0028",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006229",
+    "fd_name": "中欧医疗创新股票C",
+    "yield": "11.0604",
+    "sf_type": "1",
+    "unit_nav": "2.4802",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008412",
+    "fd_name": "长盛竞争优势A",
+    "yield": "11.0222",
+    "sf_type": "1",
+    "unit_nav": "1.0959",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009384",
+    "fd_name": "大摩MSCI中国A股增强",
+    "yield": "10.9959",
+    "sf_type": "1",
+    "unit_nav": "1.1669",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007137",
+    "fd_name": "鹏扬元合量化股票A",
+    "yield": "10.9676",
+    "sf_type": "1",
+    "unit_nav": "1.5804",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006981",
+    "fd_name": "中金新医药A",
+    "yield": "10.9480",
+    "sf_type": "1",
+    "unit_nav": "2.0552",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008413",
+    "fd_name": "长盛竞争优势C",
+    "yield": "10.9429",
+    "sf_type": "1",
+    "unit_nav": "1.0919",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001163",
+    "fd_name": "银华中国梦30股票",
+    "yield": "10.9263",
+    "sf_type": "1",
+    "unit_nav": "2.4670",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007005",
+    "fd_name": "中金新医药C",
+    "yield": "10.9088",
+    "sf_type": "1",
+    "unit_nav": "2.0344",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007138",
+    "fd_name": "鹏扬元合量化股票C",
+    "yield": "10.8942",
+    "sf_type": "1",
+    "unit_nav": "1.5391",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "000746",
+    "fd_name": "招商行业精选股票",
+    "yield": "10.8815",
+    "sf_type": "1",
+    "unit_nav": "4.4530",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001717",
+    "fd_name": "工银前沿医疗股票",
+    "yield": "10.8753",
+    "sf_type": "1",
+    "unit_nav": "3.8130",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010685",
+    "fd_name": "工银前沿医疗股票C",
+    "yield": "10.8462",
+    "sf_type": "1",
+    "unit_nav": "3.8120",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "000985",
+    "fd_name": "嘉实逆向策略",
+    "yield": "10.7814",
+    "sf_type": "1",
+    "unit_nav": "2.2400",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010001",
+    "fd_name": "创金合信研究精选股票A",
+    "yield": "10.7697",
+    "sf_type": "1",
+    "unit_nav": "1.1139",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008075",
+    "fd_name": "招商核心优选股票A",
+    "yield": "10.7509",
+    "sf_type": "1",
+    "unit_nav": "1.5339",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010002",
+    "fd_name": "创金合信研究精选股票C",
+    "yield": "10.7232",
+    "sf_type": "1",
+    "unit_nav": "1.1131",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009601",
+    "fd_name": "招商科技动力3个月A",
+    "yield": "10.6996",
+    "sf_type": "1",
+    "unit_nav": "1.1060",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "000925",
+    "fd_name": "汇添富外延增长股票",
+    "yield": "10.6870",
+    "sf_type": "1",
+    "unit_nav": "1.7400",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008076",
+    "fd_name": "招商核心优选股票C",
+    "yield": "10.6745",
+    "sf_type": "1",
+    "unit_nav": "1.5210",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009602",
+    "fd_name": "招商科技动力3个月C",
+    "yield": "10.6287",
+    "sf_type": "1",
+    "unit_nav": "1.1033",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "519935",
+    "fd_name": "长信创新驱动股票",
+    "yield": "10.5686",
+    "sf_type": "1",
+    "unit_nav": "1.9250",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "217010",
+    "fd_name": "招商大盘蓝筹股票",
+    "yield": "10.5519",
+    "sf_type": "1",
+    "unit_nav": "3.4050",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "004450",
+    "fd_name": "嘉实前沿科技沪港深",
+    "yield": "10.4460",
+    "sf_type": "1",
+    "unit_nav": "2.3451",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009988",
+    "fd_name": "信达蓝筹精选",
+    "yield": "10.3991",
+    "sf_type": "1",
+    "unit_nav": "1.2060",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "161706",
+    "fd_name": "招商优质成长股票",
+    "yield": "10.3748",
+    "sf_type": "1",
+    "unit_nav": "3.6459",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009240",
+    "fd_name": "泰康蓝筹优势股票",
+    "yield": "10.3008",
+    "sf_type": "1",
+    "unit_nav": "1.1736",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001171",
+    "fd_name": "工银养老产业股票",
+    "yield": "10.2190",
+    "sf_type": "1",
+    "unit_nav": "1.8120",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007553",
+    "fd_name": "中信建投医改混合C",
+    "yield": "10.1410",
+    "sf_type": "1",
+    "unit_nav": "2.0853",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "002300",
+    "fd_name": "长盛医疗量化股票",
+    "yield": "10.1209",
+    "sf_type": "1",
+    "unit_nav": "2.4590",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "160127",
+    "fd_name": "南方新兴消费",
+    "yield": "10.0748",
+    "sf_type": "1",
+    "unit_nav": "1.0740",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "000697",
+    "fd_name": "汇添富移动互联股票",
+    "yield": "10.0466",
+    "sf_type": "1",
+    "unit_nav": "2.1250",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005402",
+    "fd_name": "广发资源优选股票",
+    "yield": "10.0321",
+    "sf_type": "1",
+    "unit_nav": "2.0236",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001291",
+    "fd_name": "大摩量化多策略股票",
+    "yield": "10.0079",
+    "sf_type": "1",
+    "unit_nav": "1.3850",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "004075",
+    "fd_name": "交银医药创新股票",
+    "yield": "10.0019",
+    "sf_type": "1",
+    "unit_nav": "3.4292",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010235",
+    "fd_name": "广发资源优选股票C类",
+    "yield": "9.9853",
+    "sf_type": "1",
+    "unit_nav": "2.0223",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009162",
+    "fd_name": "富国医药成长30股票",
+    "yield": "9.9772",
+    "sf_type": "1",
+    "unit_nav": "1.2037",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006002",
+    "fd_name": "工银医药健康行业股票A",
+    "yield": "9.9717",
+    "sf_type": "1",
+    "unit_nav": "3.1100",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001714",
+    "fd_name": "工银文体产业股票",
+    "yield": "9.9190",
+    "sf_type": "1",
+    "unit_nav": "3.3910",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006003",
+    "fd_name": "工银医药健康行业股票C",
+    "yield": "9.9138",
+    "sf_type": "1",
+    "unit_nav": "3.0611",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010687",
+    "fd_name": "工银文体产业股票C",
+    "yield": "9.8865",
+    "sf_type": "1",
+    "unit_nav": "3.3900",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "004851",
+    "fd_name": "广发医疗保健股票A",
+    "yield": "9.8281",
+    "sf_type": "1",
+    "unit_nav": "3.3793",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001072",
+    "fd_name": "华安智能装备主题",
+    "yield": "9.8060",
+    "sf_type": "1",
+    "unit_nav": "2.0940",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009163",
+    "fd_name": "广发医疗保健股票C",
+    "yield": "9.7921",
+    "sf_type": "1",
+    "unit_nav": "3.3693",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009265",
+    "fd_name": "易方达消费精选股票",
+    "yield": "9.7369",
+    "sf_type": "1",
+    "unit_nav": "1.4054",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001043",
+    "fd_name": "工银美丽城镇股票",
+    "yield": "9.6914",
+    "sf_type": "1",
+    "unit_nav": "2.5240",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "000339",
+    "fd_name": "长城医疗保健股票",
+    "yield": "9.6408",
+    "sf_type": "1",
+    "unit_nav": "3.9622",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "162107",
+    "fd_name": "金鹰量化精选股票",
+    "yield": "9.5581",
+    "sf_type": "1",
+    "unit_nav": "1.0190",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "519068",
+    "fd_name": "汇添富成长焦点",
+    "yield": "9.4816",
+    "sf_type": "1",
+    "unit_nav": "3.6603",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "004476",
+    "fd_name": "景顺沪港深领先科技",
+    "yield": "9.4660",
+    "sf_type": "1",
+    "unit_nav": "2.2550",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "002289",
+    "fd_name": "华商改革创新股票",
+    "yield": "9.4660",
+    "sf_type": "1",
+    "unit_nav": "2.0295",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001975",
+    "fd_name": "景顺长城环保优势",
+    "yield": "9.4316",
+    "sf_type": "1",
+    "unit_nav": "3.4460",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "000577",
+    "fd_name": "安信价值精选股票",
+    "yield": "9.4087",
+    "sf_type": "1",
+    "unit_nav": "4.9770",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001605",
+    "fd_name": "国富沪港深成长精选股票",
+    "yield": "9.4013",
+    "sf_type": "1",
+    "unit_nav": "2.5950",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009863",
+    "fd_name": "富国创新趋势股票",
+    "yield": "9.3728",
+    "sf_type": "1",
+    "unit_nav": "1.2556",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "000418",
+    "fd_name": "景顺长城成长之星",
+    "yield": "9.2238",
+    "sf_type": "1",
+    "unit_nav": "4.1090",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008934",
+    "fd_name": "大成科技消费股票A",
+    "yield": "9.2113",
+    "sf_type": "1",
+    "unit_nav": "1.1133",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001036",
+    "fd_name": "嘉实企业变革",
+    "yield": "9.1843",
+    "sf_type": "1",
+    "unit_nav": "1.8070",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "399011",
+    "fd_name": "中海医疗保健主题股票",
+    "yield": "9.1601",
+    "sf_type": "1",
+    "unit_nav": "2.3460",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008935",
+    "fd_name": "大成科技消费股票C",
+    "yield": "9.1312",
+    "sf_type": "1",
+    "unit_nav": "1.1091",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005612",
+    "fd_name": "嘉实核心优势股票",
+    "yield": "9.0853",
+    "sf_type": "1",
+    "unit_nav": "1.9331",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "000803",
+    "fd_name": "工银研究精选股票",
+    "yield": "9.0658",
+    "sf_type": "1",
+    "unit_nav": "3.1640",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "004040",
+    "fd_name": "金鹰医疗健康股票A",
+    "yield": "8.8377",
+    "sf_type": "1",
+    "unit_nav": "2.0788",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "004041",
+    "fd_name": "金鹰医疗健康股票C",
+    "yield": "8.7967",
+    "sf_type": "1",
+    "unit_nav": "2.1718",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "519714",
+    "fd_name": "交银消费新驱动股票",
+    "yield": "8.7794",
+    "sf_type": "1",
+    "unit_nav": "2.0320",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001766",
+    "fd_name": "上投摩根医疗健康股票",
+    "yield": "8.7583",
+    "sf_type": "1",
+    "unit_nav": "2.5444",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "519018",
+    "fd_name": "汇添富均衡增长",
+    "yield": "8.7573",
+    "sf_type": "1",
+    "unit_nav": "1.0432",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "000513",
+    "fd_name": "富国高端制造行业",
+    "yield": "8.7425",
+    "sf_type": "1",
+    "unit_nav": "3.6320",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001725",
+    "fd_name": "汇添富高端制造",
+    "yield": "8.7366",
+    "sf_type": "1",
+    "unit_nav": "2.4270",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "519965",
+    "fd_name": "长信量化多策略股票",
+    "yield": "8.7324",
+    "sf_type": "1",
+    "unit_nav": "1.9300",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005209",
+    "fd_name": "东吴双三角股票A",
+    "yield": "8.5098",
+    "sf_type": "1",
+    "unit_nav": "1.3886",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005210",
+    "fd_name": "东吴双三角股票C",
+    "yield": "8.4645",
+    "sf_type": "1",
+    "unit_nav": "1.3647",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008236",
+    "fd_name": "招商深证100ETF联接A",
+    "yield": "8.4625",
+    "sf_type": "1",
+    "unit_nav": "1.3227",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008237",
+    "fd_name": "招商深证100ETF联接C",
+    "yield": "8.4397",
+    "sf_type": "1",
+    "unit_nav": "1.3427",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005502",
+    "fd_name": "华泰紫金智能量化股票",
+    "yield": "8.3733",
+    "sf_type": "1",
+    "unit_nav": "1.4923",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008261",
+    "fd_name": "招商研究优选股票A",
+    "yield": "8.3194",
+    "sf_type": "1",
+    "unit_nav": "1.4869",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008262",
+    "fd_name": "招商研究优选股票C",
+    "yield": "8.2510",
+    "sf_type": "1",
+    "unit_nav": "1.4786",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005802",
+    "fd_name": "汇添富智能制造股票",
+    "yield": "8.2412",
+    "sf_type": "1",
+    "unit_nav": "1.7534",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009513",
+    "fd_name": "创金合信同顺创业板精选股票A",
+    "yield": "8.1651",
+    "sf_type": "1",
+    "unit_nav": "1.1737",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "000761",
+    "fd_name": "国富健康优质生活股票",
+    "yield": "8.1430",
+    "sf_type": "1",
+    "unit_nav": "2.0412",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009514",
+    "fd_name": "创金合信同顺创业板精选股票C",
+    "yield": "8.1278",
+    "sf_type": "1",
+    "unit_nav": "1.1707",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001626",
+    "fd_name": "国泰央企改革股票",
+    "yield": "8.1106",
+    "sf_type": "1",
+    "unit_nav": "2.3860",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008382",
+    "fd_name": "融通产业趋势股票",
+    "yield": "8.0490",
+    "sf_type": "1",
+    "unit_nav": "1.2315",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008854",
+    "fd_name": "南方内需增长两年股票A",
+    "yield": "7.9803",
+    "sf_type": "1",
+    "unit_nav": "1.4681",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008855",
+    "fd_name": "南方内需增长两年股票C",
+    "yield": "7.9294",
+    "sf_type": "1",
+    "unit_nav": "1.4605",
     "f_type": "fund"
   },
   {
     "fd_code": "001707",
     "fd_name": "诺安高端制造股票",
-    "yield": "7.2484",
+    "yield": "7.8965",
     "sf_type": "1",
-    "unit_nav": "1.5240",
+    "unit_nav": "1.6260",
     "f_type": "fund"
   },
   {
-    "fd_code": "003232",
-    "fd_name": "创金合信金融地产股票A",
-    "yield": "6.9838",
+    "fd_code": "009881",
+    "fd_name": "广发医疗指数（LOF）C类",
+    "yield": "7.8807",
     "sf_type": "1",
-    "unit_nav": "1.1627",
+    "unit_nav": "1.4360",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007523",
+    "fd_name": "汇添富内需增长股票型证券投资基金A",
+    "yield": "7.8635",
+    "sf_type": "1",
+    "unit_nav": "1.8463",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007524",
+    "fd_name": "汇添富内需增长股票型证券投资基金C",
+    "yield": "7.8112",
+    "sf_type": "1",
+    "unit_nav": "1.8274",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007388",
+    "fd_name": "上投研究驱动A",
+    "yield": "7.7803",
+    "sf_type": "1",
+    "unit_nav": "1.3382",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001410",
+    "fd_name": "信达澳银新能源产业",
+    "yield": "7.7118",
+    "sf_type": "1",
+    "unit_nav": "3.8270",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007389",
+    "fd_name": "研究驱动C",
+    "yield": "7.7047",
+    "sf_type": "1",
+    "unit_nav": "1.3322",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005106",
+    "fd_name": "银华农业产业股票",
+    "yield": "7.6555",
+    "sf_type": "1",
+    "unit_nav": "2.3639",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005495",
+    "fd_name": "创金合信科技成长A",
+    "yield": "7.6058",
+    "sf_type": "1",
+    "unit_nav": "1.9708",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005496",
+    "fd_name": "创金合信科技成长C",
+    "yield": "7.5615",
+    "sf_type": "1",
+    "unit_nav": "1.9360",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005267",
+    "fd_name": "嘉实价值精选股票",
+    "yield": "7.5371",
+    "sf_type": "1",
+    "unit_nav": "2.0674",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "710001",
+    "fd_name": "富安达优势成长股票",
+    "yield": "7.4484",
+    "sf_type": "1",
+    "unit_nav": "3.1044",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006257",
+    "fd_name": "信达澳银先进智造",
+    "yield": "7.4271",
+    "sf_type": "1",
+    "unit_nav": "2.3432",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009733",
+    "fd_name": "创金合信港股通大消费精选股票A",
+    "yield": "7.2738",
+    "sf_type": "1",
+    "unit_nav": "1.0471",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009414",
+    "fd_name": "中银大健康股票",
+    "yield": "7.2469",
+    "sf_type": "1",
+    "unit_nav": "1.2890",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001473",
+    "fd_name": "建信大安全战略精选",
+    "yield": "7.2120",
+    "sf_type": "1",
+    "unit_nav": "3.0891",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009734",
+    "fd_name": "创金合信港股通大消费精选股票C",
+    "yield": "7.2052",
+    "sf_type": "1",
+    "unit_nav": "1.0445",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "004098",
+    "fd_name": "前海开源港股通股息率50强",
+    "yield": "7.1962",
+    "sf_type": "1",
+    "unit_nav": "1.0189",
     "f_type": "fund"
   },
   {
@@ -48,19 +2312,19 @@
     "f_type": "fund"
   },
   {
-    "fd_code": "007137",
-    "fd_name": "鹏扬元合量化股票A",
-    "yield": "6.9367",
+    "fd_code": "004686",
+    "fd_name": "华夏研究精选股票",
+    "yield": "6.9354",
     "sf_type": "1",
-    "unit_nav": "1.4229",
+    "unit_nav": "1.8040",
     "f_type": "fund"
   },
   {
-    "fd_code": "003233",
-    "fd_name": "创金合信金融地产股票C",
-    "yield": "6.9313",
+    "fd_code": "004616",
+    "fd_name": "中欧电子信息产业沪港深",
+    "yield": "6.9260",
     "sf_type": "1",
-    "unit_nav": "1.1447",
+    "unit_nav": "2.2895",
     "f_type": "fund"
   },
   {
@@ -72,171 +2336,523 @@
     "f_type": "fund"
   },
   {
-    "fd_code": "007138",
-    "fd_name": "鹏扬元合量化股票C",
-    "yield": "6.8671",
+    "fd_code": "008166",
+    "fd_name": "工银消费股票A",
+    "yield": "6.8988",
     "sf_type": "1",
-    "unit_nav": "1.3866",
+    "unit_nav": "1.6177",
     "f_type": "fund"
   },
   {
-    "fd_code": "671010",
-    "fd_name": "西部利得策略优选股票",
-    "yield": "6.8515",
+    "fd_code": "007853",
+    "fd_name": "华商计算机行业股票",
+    "yield": "6.8800",
     "sf_type": "1",
-    "unit_nav": "1.3100",
+    "unit_nav": "1.3562",
     "f_type": "fund"
   },
   {
-    "fd_code": "005235",
-    "fd_name": "银华食品饮料量化优选A",
-    "yield": "6.5504",
+    "fd_code": "005707",
+    "fd_name": "富国港股通量化精选股票",
+    "yield": "6.8661",
     "sf_type": "1",
-    "unit_nav": "2.2903",
+    "unit_nav": "1.1362",
     "f_type": "fund"
   },
   {
-    "fd_code": "005236",
-    "fd_name": "银华食品饮料量化优选C",
-    "yield": "6.5159",
+    "fd_code": "005763",
+    "fd_name": "中欧电子信息产业沪港深股票C",
+    "yield": "6.8513",
     "sf_type": "1",
-    "unit_nav": "2.2755",
+    "unit_nav": "2.3877",
     "f_type": "fund"
   },
   {
-    "fd_code": "009875",
-    "fd_name": "天弘甄选食品饮料A",
-    "yield": "6.5072",
+    "fd_code": "004683",
+    "fd_name": "建信高端医疗股票",
+    "yield": "6.8303",
     "sf_type": "1",
-    "unit_nav": "1.0999",
+    "unit_nav": "2.0067",
     "f_type": "fund"
   },
   {
-    "fd_code": "009876",
-    "fd_name": "天弘甄选食品饮料C",
-    "yield": "6.4807",
+    "fd_code": "008167",
+    "fd_name": "工银消费股票C",
+    "yield": "6.8271",
     "sf_type": "1",
-    "unit_nav": "1.0992",
+    "unit_nav": "1.6070",
     "f_type": "fund"
   },
   {
-    "fd_code": "003624",
-    "fd_name": "创金合信资源主题精选A",
-    "yield": "6.4348",
+    "fd_code": "009550",
+    "fd_name": "汇添富开放视野中国优势六个月持有股票A",
+    "yield": "6.8167",
     "sf_type": "1",
-    "unit_nav": "1.8178",
+    "unit_nav": "1.1533",
     "f_type": "fund"
   },
   {
-    "fd_code": "003625",
-    "fd_name": "创金合信资源主题精选C",
-    "yield": "6.3857",
+    "fd_code": "002387",
+    "fd_name": "工银沪港深股票A",
+    "yield": "6.8132",
     "sf_type": "1",
-    "unit_nav": "1.7793",
+    "unit_nav": "1.4486",
     "f_type": "fund"
   },
   {
-    "fd_code": "007674",
-    "fd_name": "工银产业升级股票A",
-    "yield": "6.1511",
+    "fd_code": "001195",
+    "fd_name": "工银农业产业股票",
+    "yield": "6.8022",
     "sf_type": "1",
-    "unit_nav": "1.2943",
+    "unit_nav": "1.3660",
     "f_type": "fund"
   },
   {
-    "fd_code": "007675",
-    "fd_name": "工银产业升级股票C",
-    "yield": "6.0786",
+    "fd_code": "007512",
+    "fd_name": "工银沪港深股票C",
+    "yield": "6.7544",
     "sf_type": "1",
-    "unit_nav": "1.2844",
+    "unit_nav": "1.4446",
     "f_type": "fund"
   },
   {
-    "fd_code": "009805",
-    "fd_name": "国泰医药健康股票",
-    "yield": "5.8824",
+    "fd_code": "009551",
+    "fd_name": "汇添富开放视野中国优势六个月持有股票C",
+    "yield": "6.7441",
     "sf_type": "1",
-    "unit_nav": "0.9810",
+    "unit_nav": "1.1491",
     "f_type": "fund"
   },
   {
-    "fd_code": "001008",
-    "fd_name": "工银国企改革股票",
-    "yield": "5.7994",
+    "fd_code": "005777",
+    "fd_name": "广发科技动力股票",
+    "yield": "6.7271",
     "sf_type": "1",
-    "unit_nav": "2.0250",
+    "unit_nav": "2.1894",
     "f_type": "fund"
   },
   {
-    "fd_code": "000778",
-    "fd_name": "鹏华先进制造股票",
-    "yield": "5.7199",
+    "fd_code": "000586",
+    "fd_name": "景顺长城中小板创业板",
+    "yield": "6.7245",
     "sf_type": "1",
-    "unit_nav": "3.2160",
+    "unit_nav": "2.4600",
     "f_type": "fund"
   },
   {
-    "fd_code": "001384",
-    "fd_name": "东方新思路混合A",
-    "yield": "5.7044",
+    "fd_code": "000955",
+    "fd_name": "南方产业活力",
+    "yield": "6.4588",
     "sf_type": "1",
-    "unit_nav": "1.5658",
+    "unit_nav": "1.9120",
     "f_type": "fund"
   },
   {
-    "fd_code": "008283",
-    "fd_name": "易方达金融行业股票",
-    "yield": "5.6706",
+    "fd_code": "000471",
+    "fd_name": "富国城镇发展股票",
+    "yield": "6.4446",
     "sf_type": "1",
-    "unit_nav": "1.2653",
+    "unit_nav": "2.4610",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "160133",
+    "fd_name": "南方天元",
+    "yield": "6.4349",
+    "sf_type": "1",
+    "unit_nav": "4.7140",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "000688",
+    "fd_name": "景顺长城研究精选",
+    "yield": "6.3963",
+    "sf_type": "1",
+    "unit_nav": "2.0460",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010013",
+    "fd_name": "易方达信息行业精选股票",
+    "yield": "6.3576",
+    "sf_type": "1",
+    "unit_nav": "1.0690",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008736",
+    "fd_name": "南方高股息股票A",
+    "yield": "6.2336",
+    "sf_type": "1",
+    "unit_nav": "1.1350",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "003230",
+    "fd_name": "创金合信医疗保健股票A",
+    "yield": "6.2215",
+    "sf_type": "1",
+    "unit_nav": "2.9366",
     "f_type": "fund"
   },
   {
     "fd_code": "001579",
     "fd_name": "国泰大农业股票",
-    "yield": "5.6588",
+    "yield": "6.2022",
     "sf_type": "1",
-    "unit_nav": "2.5020",
+    "unit_nav": "2.6370",
     "f_type": "fund"
   },
   {
-    "fd_code": "006138",
-    "fd_name": "国联安价值优选股票",
-    "yield": "5.5549",
+    "fd_code": "000082",
+    "fd_name": "嘉实研究阿尔法股票",
+    "yield": "6.1776",
     "sf_type": "1",
-    "unit_nav": "1.9344",
+    "unit_nav": "1.9250",
     "f_type": "fund"
   },
   {
-    "fd_code": "001054",
-    "fd_name": "工银新金融股票",
-    "yield": "5.5115",
+    "fd_code": "001663",
+    "fd_name": "中银互联网+股票",
+    "yield": "6.1738",
     "sf_type": "1",
-    "unit_nav": "2.3930",
+    "unit_nav": "1.3070",
     "f_type": "fund"
   },
   {
-    "fd_code": "005161",
-    "fd_name": "华商上游产业股票",
-    "yield": "5.3630",
+    "fd_code": "008737",
+    "fd_name": "南方高股息股票C",
+    "yield": "6.1579",
     "sf_type": "1",
-    "unit_nav": "1.4715",
+    "unit_nav": "1.1309",
     "f_type": "fund"
   },
   {
-    "fd_code": "005267",
-    "fd_name": "嘉实价值精选股票",
-    "yield": "5.0667",
+    "fd_code": "003231",
+    "fd_name": "创金合信医疗保健股票C",
+    "yield": "6.1552",
     "sf_type": "1",
-    "unit_nav": "1.8995",
+    "unit_nav": "2.9043",
     "f_type": "fund"
   },
   {
-    "fd_code": "010141",
-    "fd_name": "朱雀企业优选A",
-    "yield": "5.0074",
+    "fd_code": "000549",
+    "fd_name": "华安大国新经济股票",
+    "yield": "6.1338",
     "sf_type": "1",
-    "unit_nav": "1.0653",
+    "unit_nav": "3.2530",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009106",
+    "fd_name": "嘉合同顺智选股票A",
+    "yield": "6.0802",
+    "sf_type": "1",
+    "unit_nav": "1.0974",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001974",
+    "fd_name": "景顺长城量化新动力",
+    "yield": "6.0799",
+    "sf_type": "1",
+    "unit_nav": "2.3380",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005303",
+    "fd_name": "嘉实医药健康股票A",
+    "yield": "6.0793",
+    "sf_type": "1",
+    "unit_nav": "2.2300",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009107",
+    "fd_name": "嘉合同顺智选股票C",
+    "yield": "6.0324",
+    "sf_type": "1",
+    "unit_nav": "1.0933",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005304",
+    "fd_name": "嘉实医药健康股票C",
+    "yield": "6.0132",
+    "sf_type": "1",
+    "unit_nav": "2.1773",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001528",
+    "fd_name": "诺安先进制造股票",
+    "yield": "6.0035",
+    "sf_type": "1",
+    "unit_nav": "2.4190",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010003",
+    "fd_name": "景顺长城电子信息产业股票A",
+    "yield": "5.9623",
+    "sf_type": "1",
+    "unit_nav": "1.1232",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010004",
+    "fd_name": "景顺长城电子信息产业股票C",
+    "yield": "5.9301",
+    "sf_type": "1",
+    "unit_nav": "1.1218",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001028",
+    "fd_name": "华安物联网主题股票",
+    "yield": "5.8970",
+    "sf_type": "1",
+    "unit_nav": "1.2750",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001719",
+    "fd_name": "工银国家战略主题",
+    "yield": "5.8502",
+    "sf_type": "1",
+    "unit_nav": "1.9360",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "162006",
+    "fd_name": "长城久富核心成长股票",
+    "yield": "5.8318",
+    "sf_type": "1",
+    "unit_nav": "2.1323",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "002063",
+    "fd_name": "国泰沪深300指数增强C",
+    "yield": "5.7415",
+    "sf_type": "1",
+    "unit_nav": "1.6349",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "360001",
+    "fd_name": "光大量化股票",
+    "yield": "5.7366",
+    "sf_type": "1",
+    "unit_nav": "1.4635",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001915",
+    "fd_name": "宝盈医疗健康股票",
+    "yield": "5.6537",
+    "sf_type": "1",
+    "unit_nav": "2.0930",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005970",
+    "fd_name": "国泰消费优选股票",
+    "yield": "5.6309",
+    "sf_type": "1",
+    "unit_nav": "1.9472",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "004730",
+    "fd_name": "建信量化事件驱动",
+    "yield": "5.6049",
+    "sf_type": "1",
+    "unit_nav": "1.5450",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005113",
+    "fd_name": "平安沪深300指数量化增强A",
+    "yield": "5.5987",
+    "sf_type": "1",
+    "unit_nav": "1.4561",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005114",
+    "fd_name": "平安沪深300指数量化增强C",
+    "yield": "5.5584",
+    "sf_type": "1",
+    "unit_nav": "1.4281",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "340006",
+    "fd_name": "兴全全球视野股票",
+    "yield": "5.5558",
+    "sf_type": "1",
+    "unit_nav": "2.9734",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009896",
+    "fd_name": "广发港股通成长精选股票A类",
+    "yield": "5.4762",
+    "sf_type": "1",
+    "unit_nav": "1.0632",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "004484",
+    "fd_name": "泰达宏利业绩股票A",
+    "yield": "5.4715",
+    "sf_type": "1",
+    "unit_nav": "1.6597",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009897",
+    "fd_name": "广发港股通成长精选股票C类",
+    "yield": "5.4314",
+    "sf_type": "1",
+    "unit_nav": "1.0618",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "004485",
+    "fd_name": "泰达宏利业绩股票C",
+    "yield": "5.4257",
+    "sf_type": "1",
+    "unit_nav": "1.6283",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005189",
+    "fd_name": "海富通量化前锋A",
+    "yield": "5.4208",
+    "sf_type": "1",
+    "unit_nav": "1.7211",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005188",
+    "fd_name": "海富通量化前锋C",
+    "yield": "5.3837",
+    "sf_type": "1",
+    "unit_nav": "1.7343",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005310",
+    "fd_name": "广发电子信息传媒产业精选",
+    "yield": "5.3379",
+    "sf_type": "1",
+    "unit_nav": "1.8175",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010236",
+    "fd_name": "广发电子信息传媒股票C类",
+    "yield": "5.3077",
+    "sf_type": "1",
+    "unit_nav": "1.8174",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "673090",
+    "fd_name": "西部利得个股精选股票",
+    "yield": "5.2486",
+    "sf_type": "1",
+    "unit_nav": "1.7546",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "000711",
+    "fd_name": "嘉实医疗保健",
+    "yield": "5.2207",
+    "sf_type": "1",
+    "unit_nav": "3.0030",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005237",
+    "fd_name": "银华医疗健康量化优选A",
+    "yield": "5.1587",
+    "sf_type": "1",
+    "unit_nav": "1.8815",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009375",
+    "fd_name": "浦银安盛MSCI中国A股ETF联接C",
+    "yield": "5.1513",
+    "sf_type": "1",
+    "unit_nav": "1.1227",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "320022",
+    "fd_name": "诺安研究精选股票",
+    "yield": "5.1504",
+    "sf_type": "1",
+    "unit_nav": "2.3070",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001277",
+    "fd_name": "博时国企改革股票",
+    "yield": "5.1230",
+    "sf_type": "1",
+    "unit_nav": "1.0260",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005238",
+    "fd_name": "银华医疗健康量化优选C",
+    "yield": "5.1216",
+    "sf_type": "1",
+    "unit_nav": "1.8637",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "000960",
+    "fd_name": "招商医药股票",
+    "yield": "5.0888",
+    "sf_type": "1",
+    "unit_nav": "3.0770",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "200006",
+    "fd_name": "长城消费增值股票",
+    "yield": "5.0579",
+    "sf_type": "1",
+    "unit_nav": "1.6243",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005569",
+    "fd_name": "中融智选红利股票A",
+    "yield": "5.0444",
+    "sf_type": "1",
+    "unit_nav": "1.4660",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "003069",
+    "fd_name": "光大保德信量化优选股票",
+    "yield": "5.0264",
+    "sf_type": "1",
+    "unit_nav": "1.6131",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005570",
+    "fd_name": "中融智选红利股票C",
+    "yield": "4.9971",
+    "sf_type": "1",
+    "unit_nav": "1.4477",
     "f_type": "fund"
   },
   {
@@ -248,14 +2864,6 @@
     "f_type": "fund"
   },
   {
-    "fd_code": "010142",
-    "fd_name": "朱雀企业优选C",
-    "yield": "4.9226",
-    "sf_type": "1",
-    "unit_nav": "1.0636",
-    "f_type": "fund"
-  },
-  {
     "fd_code": "005034",
     "fd_name": "银华智能汽车量化优选C",
     "yield": "4.9176",
@@ -264,931 +2872,739 @@
     "f_type": "fund"
   },
   {
-    "fd_code": "005669",
-    "fd_name": "前海开源公用事业",
-    "yield": "4.8929",
+    "fd_code": "001541",
+    "fd_name": "汇添富民营新动力",
+    "yield": "4.8827",
     "sf_type": "1",
-    "unit_nav": "1.3913",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008128",
-    "fd_name": "湘财长源股票A",
-    "yield": "4.7926",
-    "sf_type": "1",
-    "unit_nav": "1.4781",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008129",
-    "fd_name": "湘财长源股票C",
-    "yield": "4.7432",
-    "sf_type": "1",
-    "unit_nav": "1.4663",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "671030",
-    "fd_name": "西部利得事件驱动股票",
-    "yield": "4.6429",
-    "sf_type": "1",
-    "unit_nav": "1.8211",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000828",
-    "fd_name": "泰达宏利转型机遇",
-    "yield": "4.5932",
-    "sf_type": "1",
-    "unit_nav": "1.8900",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005106",
-    "fd_name": "银华农业产业股票",
-    "yield": "4.4729",
-    "sf_type": "1",
-    "unit_nav": "2.2072",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "110022",
-    "fd_name": "易方达消费行业",
-    "yield": "4.4127",
-    "sf_type": "1",
-    "unit_nav": "4.6850",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001158",
-    "fd_name": "工银新材料新能源",
-    "yield": "4.3664",
-    "sf_type": "1",
-    "unit_nav": "1.2190",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008085",
-    "fd_name": "海富通先进制造股票A",
-    "yield": "4.3103",
-    "sf_type": "1",
-    "unit_nav": "1.0382",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008084",
-    "fd_name": "海富通先进制造股票C",
-    "yield": "4.2751",
-    "sf_type": "1",
-    "unit_nav": "1.0342",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005927",
-    "fd_name": "创金合信新能源汽车股票A",
-    "yield": "4.1996",
-    "sf_type": "1",
-    "unit_nav": "1.7691",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "519193",
-    "fd_name": "万家消费成长股票",
-    "yield": "4.1474",
-    "sf_type": "1",
-    "unit_nav": "2.5287",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005928",
-    "fd_name": "创金合信新能源汽车股票C",
-    "yield": "4.1454",
-    "sf_type": "1",
-    "unit_nav": "1.7360",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000971",
-    "fd_name": "诺安新经济股票",
-    "yield": "4.0466",
-    "sf_type": "1",
-    "unit_nav": "1.5170",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009476",
-    "fd_name": "建信食品饮料行业股票",
-    "yield": "4.0186",
-    "sf_type": "1",
-    "unit_nav": "1.0509",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "519714",
-    "fd_name": "交银消费新驱动股票",
-    "yield": "3.9510",
-    "sf_type": "1",
-    "unit_nav": "1.8680",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008618",
-    "fd_name": "永赢医药健康A",
-    "yield": "3.9323",
-    "sf_type": "1",
-    "unit_nav": "1.1973",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009240",
-    "fd_name": "泰康蓝筹优势股票",
-    "yield": "3.9214",
-    "sf_type": "1",
-    "unit_nav": "1.0627",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008619",
-    "fd_name": "永赢医药健康C",
-    "yield": "3.9187",
-    "sf_type": "1",
-    "unit_nav": "1.1960",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005662",
-    "fd_name": "嘉实金融精选股票A",
-    "yield": "3.7932",
-    "sf_type": "1",
-    "unit_nav": "1.4393",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001718",
-    "fd_name": "工银物流产业股票",
-    "yield": "3.7750",
-    "sf_type": "1",
-    "unit_nav": "2.7490",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005663",
-    "fd_name": "嘉实金融精选股票C",
-    "yield": "3.7570",
-    "sf_type": "1",
-    "unit_nav": "1.4195",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001208",
-    "fd_name": "诺安低碳经济股票A",
-    "yield": "3.7101",
-    "sf_type": "1",
-    "unit_nav": "1.7890",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001473",
-    "fd_name": "建信大安全战略精选",
-    "yield": "3.6695",
-    "sf_type": "1",
-    "unit_nav": "2.8845",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "003190",
-    "fd_name": "创金合信消费主题股票A",
-    "yield": "3.6465",
-    "sf_type": "1",
-    "unit_nav": "2.4956",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000996",
-    "fd_name": "中银新动力股票",
-    "yield": "3.6154",
-    "sf_type": "1",
-    "unit_nav": "1.2610",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001975",
-    "fd_name": "景顺长城环保优势",
-    "yield": "3.5983",
-    "sf_type": "1",
-    "unit_nav": "3.1670",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "003191",
-    "fd_name": "创金合信消费主题股票C",
-    "yield": "3.5882",
-    "sf_type": "1",
-    "unit_nav": "2.4539",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008134",
-    "fd_name": "鹏华优选价值股票",
-    "yield": "3.5248",
-    "sf_type": "1",
-    "unit_nav": "1.1572",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001733",
-    "fd_name": "泰达宏利量化股票",
-    "yield": "3.4273",
-    "sf_type": "1",
-    "unit_nav": "1.3580",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000577",
-    "fd_name": "安信价值精选股票",
-    "yield": "3.4099",
-    "sf_type": "1",
-    "unit_nav": "4.5490",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "200010",
-    "fd_name": "长城双动力股票",
-    "yield": "3.3326",
-    "sf_type": "1",
-    "unit_nav": "1.4511",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005113",
-    "fd_name": "平安沪深300指数量化增强A",
-    "yield": "3.3323",
-    "sf_type": "1",
-    "unit_nav": "1.3706",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "450009",
-    "fd_name": "国富中小盘股票",
-    "yield": "3.3291",
-    "sf_type": "1",
-    "unit_nav": "2.4210",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005114",
-    "fd_name": "平安沪深300指数量化增强C",
-    "yield": "3.2875",
-    "sf_type": "1",
-    "unit_nav": "1.3447",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000893",
-    "fd_name": "工银创新动力股票",
-    "yield": "3.2541",
-    "sf_type": "1",
-    "unit_nav": "0.8250",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "004716",
-    "fd_name": "信诚量化阿尔法股票",
-    "yield": "3.2531",
-    "sf_type": "1",
-    "unit_nav": "1.6109",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "004189",
-    "fd_name": "华商消费行业",
-    "yield": "3.2125",
-    "sf_type": "1",
-    "unit_nav": "1.7542",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001678",
-    "fd_name": "英大国企改革主题股票",
-    "yield": "3.1587",
-    "sf_type": "1",
-    "unit_nav": "1.7048",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000803",
-    "fd_name": "工银研究精选股票",
-    "yield": "3.1228",
-    "sf_type": "1",
-    "unit_nav": "2.9060",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005968",
-    "fd_name": "创金合信工业周期精选股票A",
-    "yield": "3.1108",
-    "sf_type": "1",
-    "unit_nav": "2.3832",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008590",
-    "fd_name": "中证全指证券公司A",
-    "yield": "3.1016",
-    "sf_type": "1",
-    "unit_nav": "1.2831",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000991",
-    "fd_name": "工银战略转型股票",
-    "yield": "3.0973",
-    "sf_type": "1",
-    "unit_nav": "3.0290",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008591",
-    "fd_name": "中证全指证券公司C",
-    "yield": "3.0915",
-    "sf_type": "1",
-    "unit_nav": "1.2805",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005969",
-    "fd_name": "创金合信工业周期精选股票C",
-    "yield": "3.0475",
-    "sf_type": "1",
-    "unit_nav": "2.3433",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009375",
-    "fd_name": "浦银安盛MSCI中国A股ETF联接C",
-    "yield": "2.9922",
-    "sf_type": "1",
-    "unit_nav": "1.0636",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006052",
-    "fd_name": "鹏扬核心价值混合C",
-    "yield": "2.9808",
-    "sf_type": "1",
-    "unit_nav": "1.8034",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "004484",
-    "fd_name": "泰达宏利业绩股票A",
-    "yield": "2.9737",
-    "sf_type": "1",
-    "unit_nav": "1.5652",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "002289",
-    "fd_name": "华商改革创新股票",
-    "yield": "2.9656",
-    "sf_type": "1",
-    "unit_nav": "1.8193",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "004485",
-    "fd_name": "泰达宏利业绩股票C",
-    "yield": "2.9280",
-    "sf_type": "1",
-    "unit_nav": "1.5362",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "673090",
-    "fd_name": "西部利得个股精选股票",
-    "yield": "2.9275",
-    "sf_type": "1",
-    "unit_nav": "1.6595",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001577",
-    "fd_name": "嘉实低价策略",
-    "yield": "2.9153",
-    "sf_type": "1",
-    "unit_nav": "2.2240",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005569",
-    "fd_name": "中融智选红利股票A",
-    "yield": "2.8994",
-    "sf_type": "1",
-    "unit_nav": "1.3841",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "002730",
-    "fd_name": "华富华鑫混合A",
-    "yield": "2.8926",
-    "sf_type": "1",
-    "unit_nav": "1.4940",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "003634",
-    "fd_name": "嘉实农业产业股票",
-    "yield": "2.8903",
-    "sf_type": "1",
-    "unit_nav": "2.1288",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006939",
-    "fd_name": "鹏华沪深300指数证券投资基金（LOF）",
-    "yield": "2.8802",
-    "sf_type": "1",
-    "unit_nav": "1.7860",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005570",
-    "fd_name": "中融智选红利股票C",
-    "yield": "2.8586",
-    "sf_type": "1",
-    "unit_nav": "1.3673",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001626",
-    "fd_name": "国泰央企改革股票",
-    "yield": "2.8491",
-    "sf_type": "1",
-    "unit_nav": "2.2020",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "519965",
-    "fd_name": "长信量化多策略股票",
-    "yield": "2.8488",
-    "sf_type": "1",
-    "unit_nav": "1.7690",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008768",
-    "fd_name": "创金合信上证超大盘量化A",
-    "yield": "2.8473",
-    "sf_type": "1",
-    "unit_nav": "1.1667",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009877",
-    "fd_name": "中银内核驱动股票",
-    "yield": "2.8228",
-    "sf_type": "1",
-    "unit_nav": "1.0527",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006926",
-    "fd_name": "长城量化精选股票",
-    "yield": "2.8083",
-    "sf_type": "1",
-    "unit_nav": "1.3472",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008769",
-    "fd_name": "创金合信上证超大盘量化C",
-    "yield": "2.8066",
-    "sf_type": "1",
-    "unit_nav": "1.1612",
+    "unit_nav": "1.6540",
     "f_type": "fund"
   },
   {
     "fd_code": "005530",
     "fd_name": "汇添富沪深300指数增强A",
-    "yield": "2.8061",
+    "yield": "4.8236",
     "sf_type": "1",
-    "unit_nav": "1.6743",
+    "unit_nav": "1.7646",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "004716",
+    "fd_name": "信诚量化阿尔法股票",
+    "yield": "4.8001",
+    "sf_type": "1",
+    "unit_nav": "1.6986",
     "f_type": "fund"
   },
   {
     "fd_code": "010556",
     "fd_name": "添富沪深300指数增强C",
-    "yield": "2.7875",
+    "yield": "4.7944",
     "sf_type": "1",
-    "unit_nav": "1.6741",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008736",
-    "fd_name": "南方高股息股票A",
-    "yield": "2.7355",
-    "sf_type": "1",
-    "unit_nav": "1.0666",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005825",
-    "fd_name": "申万菱信智能驱动股票",
-    "yield": "2.6892",
-    "sf_type": "1",
-    "unit_nav": "2.5623",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005328",
-    "fd_name": "前海开源价值策略",
-    "yield": "2.6882",
-    "sf_type": "1",
-    "unit_nav": "1.3561",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000082",
-    "fd_name": "嘉实研究阿尔法股票",
-    "yield": "2.6735",
-    "sf_type": "1",
-    "unit_nav": "1.8050",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008737",
-    "fd_name": "南方高股息股票C",
-    "yield": "2.6646",
-    "sf_type": "1",
-    "unit_nav": "1.0634",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008390",
-    "fd_name": "国联安沪深300ETF联接A",
-    "yield": "2.6512",
-    "sf_type": "1",
-    "unit_nav": "1.3048",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "004640",
-    "fd_name": "华夏节能环保股票",
-    "yield": "2.6418",
-    "sf_type": "1",
-    "unit_nav": "1.7989",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000729",
-    "fd_name": "建信中小盘先锋股票",
-    "yield": "2.6293",
-    "sf_type": "1",
-    "unit_nav": "2.3420",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008391",
-    "fd_name": "国联安沪深300ETF联接C",
-    "yield": "2.6274",
-    "sf_type": "1",
-    "unit_nav": "1.3046",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005037",
-    "fd_name": "银华新能源材料量化优选A",
-    "yield": "2.6086",
-    "sf_type": "1",
-    "unit_nav": "1.3256",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001528",
-    "fd_name": "诺安先进制造股票",
-    "yield": "2.6032",
-    "sf_type": "1",
-    "unit_nav": "2.2860",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005038",
-    "fd_name": "银华新能源材料量化优选C",
-    "yield": "2.5744",
-    "sf_type": "1",
-    "unit_nav": "1.3069",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009341",
-    "fd_name": "易方达均衡成长股票",
-    "yield": "2.5670",
-    "sf_type": "1",
-    "unit_nav": "1.1068",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "004686",
-    "fd_name": "华夏研究精选股票",
-    "yield": "2.5649",
-    "sf_type": "1",
-    "unit_nav": "1.6755",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "004098",
-    "fd_name": "前海开源港股通股息率50强",
-    "yield": "2.5590",
-    "sf_type": "1",
-    "unit_nav": "0.9338",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001048",
-    "fd_name": "富国新兴产业股票",
-    "yield": "2.5190",
-    "sf_type": "1",
-    "unit_nav": "1.7500",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "162208",
-    "fd_name": "泰达宏利首选企业",
-    "yield": "2.5070",
-    "sf_type": "1",
-    "unit_nav": "1.6110",
+    "unit_nav": "1.7639",
     "f_type": "fund"
   },
   {
     "fd_code": "000411",
     "fd_name": "景顺长城优质成长",
-    "yield": "2.4864",
+    "yield": "4.7563",
     "sf_type": "1",
-    "unit_nav": "1.6900",
+    "unit_nav": "1.7840",
     "f_type": "fund"
   },
   {
-    "fd_code": "000916",
-    "fd_name": "前海开源股息率100强",
-    "yield": "2.4520",
+    "fd_code": "006972",
+    "fd_name": "金鹰民安回报定开A",
+    "yield": "4.7361",
     "sf_type": "1",
-    "unit_nav": "1.5460",
+    "unit_nav": "1.1809",
     "f_type": "fund"
   },
   {
-    "fd_code": "007388",
-    "fd_name": "研究驱动A",
-    "yield": "2.4220",
+    "fd_code": "000778",
+    "fd_name": "鹏华先进制造股票",
+    "yield": "4.7132",
     "sf_type": "1",
-    "unit_nav": "1.2306",
+    "unit_nav": "3.3770",
     "f_type": "fund"
   },
   {
-    "fd_code": "004995",
-    "fd_name": "广发品牌消费股票",
-    "yield": "2.4114",
+    "fd_code": "001877",
+    "fd_name": "宝盈国家安全战略沪港深",
+    "yield": "4.6974",
     "sf_type": "1",
-    "unit_nav": "1.9366",
+    "unit_nav": "1.1590",
     "f_type": "fund"
   },
   {
-    "fd_code": "001043",
-    "fd_name": "工银美丽城镇股票",
-    "yield": "2.4000",
+    "fd_code": "007735",
+    "fd_name": "金鹰民安回报定开C",
+    "yield": "4.6929",
     "sf_type": "1",
-    "unit_nav": "2.3040",
+    "unit_nav": "1.1779",
     "f_type": "fund"
   },
   {
-    "fd_code": "004805",
-    "fd_name": "长信消费精选股票",
-    "yield": "2.3919",
+    "fd_code": "008303",
+    "fd_name": "宝盈龙头A",
+    "yield": "4.6491",
     "sf_type": "1",
-    "unit_nav": "1.9221",
+    "unit_nav": "1.1615",
     "f_type": "fund"
   },
   {
-    "fd_code": "006803",
-    "fd_name": "嘉实互通精选股票",
-    "yield": "2.3785",
+    "fd_code": "001733",
+    "fd_name": "泰达宏利量化股票",
+    "yield": "4.6086",
     "sf_type": "1",
-    "unit_nav": "1.2956",
+    "unit_nav": "1.4300",
     "f_type": "fund"
   },
   {
-    "fd_code": "010245",
-    "fd_name": "广发品牌消费股票C类",
-    "yield": "2.3735",
+    "fd_code": "006675",
+    "fd_name": "宝盈品牌消费股票A",
+    "yield": "4.6035",
     "sf_type": "1",
-    "unit_nav": "1.9366",
+    "unit_nav": "1.4247",
     "f_type": "fund"
   },
   {
-    "fd_code": "008009",
-    "fd_name": "华商高端装备制造股票",
-    "yield": "2.3470",
+    "fd_code": "008304",
+    "fd_name": "宝盈龙头C",
+    "yield": "4.5755",
     "sf_type": "1",
-    "unit_nav": "1.7574",
+    "unit_nav": "1.1542",
     "f_type": "fund"
   },
   {
-    "fd_code": "007389",
-    "fd_name": "研究驱动C",
-    "yield": "2.3462",
+    "fd_code": "001672",
+    "fd_name": "国寿安保智慧生活股票",
+    "yield": "4.5586",
     "sf_type": "1",
-    "unit_nav": "1.2258",
+    "unit_nav": "1.8120",
     "f_type": "fund"
   },
   {
-    "fd_code": "001974",
-    "fd_name": "景顺长城量化新动力",
-    "yield": "2.3354",
+    "fd_code": "006676",
+    "fd_name": "宝盈品牌消费股票C",
+    "yield": "4.5330",
     "sf_type": "1",
-    "unit_nav": "2.1910",
+    "unit_nav": "1.4067",
     "f_type": "fund"
   },
   {
-    "fd_code": "160919",
-    "fd_name": "大成产业升级股票",
-    "yield": "2.3341",
+    "fd_code": "009899",
+    "fd_name": "上银内需增长股票",
+    "yield": "4.5322",
     "sf_type": "1",
-    "unit_nav": "2.2360",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008261",
-    "fd_name": "招商研究优选股票A",
-    "yield": "2.3129",
-    "sf_type": "1",
-    "unit_nav": "1.3536",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001496",
-    "fd_name": "工银聚焦30股票",
-    "yield": "2.3038",
-    "sf_type": "1",
-    "unit_nav": "1.4210",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "003298",
-    "fd_name": "嘉实物流产业股票A",
-    "yield": "2.3035",
-    "sf_type": "1",
-    "unit_nav": "2.0430",
+    "unit_nav": "1.0771",
     "f_type": "fund"
   },
   {
     "fd_code": "006193",
     "fd_name": "鑫元核心资产A",
-    "yield": "2.2905",
+    "yield": "4.4543",
     "sf_type": "1",
-    "unit_nav": "1.5005",
+    "unit_nav": "1.5782",
     "f_type": "fund"
   },
   {
-    "fd_code": "200008",
-    "fd_name": "长城品牌优选股票",
-    "yield": "2.2904",
+    "fd_code": "001883",
+    "fd_name": "中欧新动力混合",
+    "yield": "4.4504",
     "sf_type": "1",
-    "unit_nav": "2.2464",
+    "unit_nav": "3.5346",
     "f_type": "fund"
   },
   {
-    "fd_code": "001651",
-    "fd_name": "工银新蓝筹股票",
-    "yield": "2.2811",
+    "fd_code": "010585",
+    "fd_name": "创金合信医药消费股票A",
+    "yield": "4.3996",
     "sf_type": "1",
-    "unit_nav": "2.5110",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006818",
-    "fd_name": "安信盈利驱动股票A",
-    "yield": "2.2798",
-    "sf_type": "1",
-    "unit_nav": "1.7093",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006938",
-    "fd_name": "鹏华中证500指数证券投资基金（LOF）",
-    "yield": "2.2754",
-    "sf_type": "1",
-    "unit_nav": "1.7080",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "003299",
-    "fd_name": "嘉实物流产业股票C",
-    "yield": "2.2750",
-    "sf_type": "1",
-    "unit_nav": "2.0230",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000471",
-    "fd_name": "富国城镇发展股票",
-    "yield": "2.2616",
-    "sf_type": "1",
-    "unit_nav": "2.3060",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008262",
-    "fd_name": "招商研究优选股票C",
-    "yield": "2.2470",
-    "sf_type": "1",
-    "unit_nav": "1.3469",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006819",
-    "fd_name": "安信盈利驱动股票C",
-    "yield": "2.2349",
-    "sf_type": "1",
-    "unit_nav": "1.6971",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "010003",
-    "fd_name": "景顺长城电子信息产业股票A",
-    "yield": "2.2303",
-    "sf_type": "1",
-    "unit_nav": "1.0634",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000309",
-    "fd_name": "大摩品质生活股票",
-    "yield": "2.2263",
-    "sf_type": "1",
-    "unit_nav": "3.3060",
+    "unit_nav": "1.0441",
     "f_type": "fund"
   },
   {
     "fd_code": "006194",
     "fd_name": "鑫元核心资产C",
-    "yield": "2.2172",
+    "yield": "4.3883",
     "sf_type": "1",
-    "unit_nav": "1.4845",
+    "unit_nav": "1.5605",
     "f_type": "fund"
   },
   {
-    "fd_code": "009106",
-    "fd_name": "嘉合同顺智选股票A",
-    "yield": "2.2116",
+    "fd_code": "010586",
+    "fd_name": "创金合信医药消费股票C",
+    "yield": "4.3496",
     "sf_type": "1",
-    "unit_nav": "1.0260",
+    "unit_nav": "1.0436",
     "f_type": "fund"
   },
   {
-    "fd_code": "010004",
-    "fd_name": "景顺长城电子信息产业股票C",
-    "yield": "2.1932",
+    "fd_code": "007674",
+    "fd_name": "工银产业升级股票A",
+    "yield": "4.3268",
     "sf_type": "1",
-    "unit_nav": "1.0624",
+    "unit_nav": "1.3599",
     "f_type": "fund"
   },
   {
-    "fd_code": "002063",
-    "fd_name": "国泰沪深300指数增强C",
-    "yield": "2.1848",
+    "fd_code": "007675",
+    "fd_name": "工银产业升级股票C",
+    "yield": "4.2594",
     "sf_type": "1",
-    "unit_nav": "1.6183",
+    "unit_nav": "1.3487",
     "f_type": "fund"
   },
   {
-    "fd_code": "000854",
-    "fd_name": "鹏华养老产业股票",
-    "yield": "2.1817",
+    "fd_code": "000628",
+    "fd_name": "大成高新技术产业",
+    "yield": "4.2511",
     "sf_type": "1",
-    "unit_nav": "3.7000",
+    "unit_nav": "3.1880",
     "f_type": "fund"
   },
   {
-    "fd_code": "009107",
-    "fd_name": "嘉合同顺智选股票C",
-    "yield": "2.1683",
+    "fd_code": "001404",
+    "fd_name": "招商移动互联网产业",
+    "yield": "4.1528",
     "sf_type": "1",
-    "unit_nav": "1.0225",
+    "unit_nav": "1.2540",
     "f_type": "fund"
   },
   {
-    "fd_code": "002595",
-    "fd_name": "博时工业4.0主题股票",
-    "yield": "2.1541",
+    "fd_code": "009336",
+    "fd_name": "平安中证500指数增强型发起式证券投资基金A",
+    "yield": "4.1223",
     "sf_type": "1",
-    "unit_nav": "2.1340",
+    "unit_nav": "1.2528",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009337",
+    "fd_name": "平安中证500指数增强型发起式证券投资基金C",
+    "yield": "4.0747",
+    "sf_type": "1",
+    "unit_nav": "1.2490",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010420",
+    "fd_name": "民生加银成长优选股票",
+    "yield": "4.0600",
+    "sf_type": "1",
+    "unit_nav": "1.0406",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006939",
+    "fd_name": "鹏华沪深300指数证券投资基金（LOF）",
+    "yield": "4.0556",
+    "sf_type": "1",
+    "unit_nav": "1.8730",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "519673",
+    "fd_name": "银河康乐股票",
+    "yield": "4.0188",
+    "sf_type": "1",
+    "unit_nav": "3.3130",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009398",
+    "fd_name": "华富成长企业精选股票",
+    "yield": "4.0120",
+    "sf_type": "1",
+    "unit_nav": "1.0707",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009864",
+    "fd_name": "招商景气优选股票A",
+    "yield": "3.9700",
+    "sf_type": "1",
+    "unit_nav": "1.0397",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "519606",
+    "fd_name": "国泰金鑫股票",
+    "yield": "3.9087",
+    "sf_type": "1",
+    "unit_nav": "2.6850",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009557",
+    "fd_name": "申万菱信创业板量化精选股票A",
+    "yield": "3.8914",
+    "sf_type": "1",
+    "unit_nav": "1.0786",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009865",
+    "fd_name": "招商景气优选股票C",
+    "yield": "3.8904",
+    "sf_type": "1",
+    "unit_nav": "1.0388",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010505",
+    "fd_name": "申万菱信创业板量化精选股票C",
+    "yield": "3.8668",
+    "sf_type": "1",
+    "unit_nav": "1.0261",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008390",
+    "fd_name": "国联安沪深300ETF联接A",
+    "yield": "3.8628",
+    "sf_type": "1",
+    "unit_nav": "1.3659",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008391",
+    "fd_name": "国联安沪深300ETF联接C",
+    "yield": "3.8406",
+    "sf_type": "1",
+    "unit_nav": "1.3654",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006863",
+    "fd_name": "国联安智能制造",
+    "yield": "3.7385",
+    "sf_type": "1",
+    "unit_nav": "1.7898",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "000974",
+    "fd_name": "安信消费医药股票",
+    "yield": "3.7153",
+    "sf_type": "1",
+    "unit_nav": "1.9820",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001223",
+    "fd_name": "鹏华文化传媒娱乐",
+    "yield": "3.6671",
+    "sf_type": "1",
+    "unit_nav": "1.4700",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009852",
+    "fd_name": "银华品质消费股票",
+    "yield": "3.6451",
+    "sf_type": "1",
+    "unit_nav": "1.0350",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "004997",
+    "fd_name": "广发高端制造股票",
+    "yield": "3.6253",
+    "sf_type": "1",
+    "unit_nav": "2.6440",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010160",
+    "fd_name": "广发高端制造股票C类",
+    "yield": "3.5881",
+    "sf_type": "1",
+    "unit_nav": "2.6416",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "450009",
+    "fd_name": "国富中小盘股票",
+    "yield": "3.5525",
+    "sf_type": "1",
+    "unit_nav": "2.5360",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009004",
+    "fd_name": "海富通中证500指数增强型证券投资基金C",
+    "yield": "3.5403",
+    "sf_type": "1",
+    "unit_nav": "1.9127",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007272",
+    "fd_name": "景顺长城稳健养老目标三年持有期混合型发起",
+    "yield": "3.4089",
+    "sf_type": "1",
+    "unit_nav": "1.1952",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001044",
+    "fd_name": "嘉实新消费",
+    "yield": "3.4086",
+    "sf_type": "1",
+    "unit_nav": "2.5180",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008407",
+    "fd_name": "恒生前海沪深港通龙头指数A",
+    "yield": "3.3356",
+    "sf_type": "1",
+    "unit_nav": "1.2330",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006195",
+    "fd_name": "国金量化多因子",
+    "yield": "3.3129",
+    "sf_type": "1",
+    "unit_nav": "1.4127",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008871",
+    "fd_name": "大成睿裕六月持有股票A",
+    "yield": "3.2296",
+    "sf_type": "1",
+    "unit_nav": "1.2338",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009898",
+    "fd_name": "民生加银医药健康股票",
+    "yield": "3.2061",
+    "sf_type": "1",
+    "unit_nav": "1.0301",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001040",
+    "fd_name": "新华策略精选股票",
+    "yield": "3.1862",
+    "sf_type": "1",
+    "unit_nav": "2.2670",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008872",
+    "fd_name": "大成睿裕六月持有股票C",
+    "yield": "3.1806",
+    "sf_type": "1",
+    "unit_nav": "1.2295",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001637",
+    "fd_name": "嘉实腾讯自选股大数据策略股票",
+    "yield": "3.1430",
+    "sf_type": "1",
+    "unit_nav": "1.6080",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001577",
+    "fd_name": "嘉实低价策略",
+    "yield": "3.1250",
+    "sf_type": "1",
+    "unit_nav": "2.3100",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009079",
+    "fd_name": "南方粤港澳大湾区联接A",
+    "yield": "3.0824",
+    "sf_type": "1",
+    "unit_nav": "1.3979",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009080",
+    "fd_name": "南方粤港澳大湾区联接C",
+    "yield": "3.0697",
+    "sf_type": "1",
+    "unit_nav": "1.3968",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001563",
+    "fd_name": "华富健康文娱混合",
+    "yield": "3.0450",
+    "sf_type": "1",
+    "unit_nav": "1.4890",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009069",
+    "fd_name": "大成睿鑫股票A",
+    "yield": "3.0266",
+    "sf_type": "1",
+    "unit_nav": "1.0825",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009070",
+    "fd_name": "大成睿鑫股票C",
+    "yield": "2.9925",
+    "sf_type": "1",
+    "unit_nav": "1.0807",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "000594",
+    "fd_name": "大摩进取优选股票",
+    "yield": "2.9820",
+    "sf_type": "1",
+    "unit_nav": "2.9700",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008768",
+    "fd_name": "创金合信上证超大盘量化A",
+    "yield": "2.9699",
+    "sf_type": "1",
+    "unit_nav": "1.2135",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "002952",
+    "fd_name": "建信多因子量化股票",
+    "yield": "2.9641",
+    "sf_type": "1",
+    "unit_nav": "1.4277",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008769",
+    "fd_name": "创金合信上证超大盘量化C",
+    "yield": "2.9241",
+    "sf_type": "1",
+    "unit_nav": "1.2073",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "004403",
+    "fd_name": "平安股息精选沪港深A",
+    "yield": "2.9183",
+    "sf_type": "1",
+    "unit_nav": "1.5588",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001651",
+    "fd_name": "工银新蓝筹股票",
+    "yield": "2.8865",
+    "sf_type": "1",
+    "unit_nav": "2.6020",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "004404",
+    "fd_name": "平安股息精选沪港深C",
+    "yield": "2.8538",
+    "sf_type": "1",
+    "unit_nav": "1.5065",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "163110",
+    "fd_name": "申万菱信量化小盘股票",
+    "yield": "2.7852",
+    "sf_type": "1",
+    "unit_nav": "2.1810",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001186",
+    "fd_name": "富国文体健康股票",
+    "yield": "2.7126",
+    "sf_type": "1",
+    "unit_nav": "2.2340",
     "f_type": "fund"
   },
   {
     "fd_code": "005635",
     "fd_name": "博时量化多策略A",
-    "yield": "2.1351",
+    "yield": "2.6990",
     "sf_type": "1",
-    "unit_nav": "1.4303",
+    "unit_nav": "1.4840",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "000979",
+    "fd_name": "景顺长城沪港深精选",
+    "yield": "2.6823",
+    "sf_type": "1",
+    "unit_nav": "1.4930",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008128",
+    "fd_name": "湘财长源股票A",
+    "yield": "2.6815",
+    "sf_type": "1",
+    "unit_nav": "1.2188",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010387",
+    "fd_name": "易方达医药生物股票A",
+    "yield": "2.6594",
+    "sf_type": "1",
+    "unit_nav": "1.0307",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008129",
+    "fd_name": "湘财长源股票C",
+    "yield": "2.6473",
+    "sf_type": "1",
+    "unit_nav": "1.2086",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009891",
+    "fd_name": "融通产业趋势臻选股票",
+    "yield": "2.6390",
+    "sf_type": "1",
+    "unit_nav": "1.0151",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "200010",
+    "fd_name": "长城双动力股票",
+    "yield": "2.6353",
+    "sf_type": "1",
+    "unit_nav": "1.5150",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005636",
+    "fd_name": "博时量化多策略C",
+    "yield": "2.6301",
+    "sf_type": "1",
+    "unit_nav": "1.4516",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010388",
+    "fd_name": "易方达医药生物股票C",
+    "yield": "2.6203",
+    "sf_type": "1",
+    "unit_nav": "1.0300",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "000866",
+    "fd_name": "华宝创造股票",
+    "yield": "2.6163",
+    "sf_type": "1",
+    "unit_nav": "2.1180",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001162",
+    "fd_name": "前海开源优势蓝筹A",
+    "yield": "2.5832",
+    "sf_type": "1",
+    "unit_nav": "1.7870",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007685",
+    "fd_name": "华商电子行业",
+    "yield": "2.5602",
+    "sf_type": "1",
+    "unit_nav": "1.6865",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001638",
+    "fd_name": "前海开源优势蓝筹C",
+    "yield": "2.5131",
+    "sf_type": "1",
+    "unit_nav": "1.9580",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010409",
+    "fd_name": "富国消费精选30股票",
+    "yield": "2.4405",
+    "sf_type": "1",
+    "unit_nav": "1.0200",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007310",
+    "fd_name": "银华尊尚稳健养老一年FOF",
+    "yield": "2.4080",
+    "sf_type": "1",
+    "unit_nav": "1.2078",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "519193",
+    "fd_name": "万家消费成长股票",
+    "yield": "2.3756",
+    "sf_type": "1",
+    "unit_nav": "2.6202",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010153",
+    "fd_name": "中加中证500指数增强A",
+    "yield": "2.3504",
+    "sf_type": "1",
+    "unit_nav": "0.9972",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006502",
+    "fd_name": "财通集成电路产业股票A",
+    "yield": "2.3242",
+    "sf_type": "1",
+    "unit_nav": "1.9415",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010154",
+    "fd_name": "中加中证500指数增强C",
+    "yield": "2.3213",
+    "sf_type": "1",
+    "unit_nav": "0.9962",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "000172",
+    "fd_name": "华泰柏瑞量化增强",
+    "yield": "2.3082",
+    "sf_type": "1",
+    "unit_nav": "1.6400",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001521",
+    "fd_name": "国寿安保成长优选股票",
+    "yield": "2.2727",
+    "sf_type": "1",
+    "unit_nav": "1.7100",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006503",
+    "fd_name": "财通集成电路产业股票C",
+    "yield": "2.2547",
+    "sf_type": "1",
+    "unit_nav": "1.9093",
     "f_type": "fund"
   },
   {
@@ -1200,115 +3616,19 @@
     "f_type": "fund"
   },
   {
-    "fd_code": "001193",
-    "fd_name": "中金消费升级股票",
-    "yield": "2.0935",
+    "fd_code": "005457",
+    "fd_name": "景顺长城量化小盘基金",
+    "yield": "2.0394",
     "sf_type": "1",
-    "unit_nav": "1.4630",
+    "unit_nav": "1.4210",
     "f_type": "fund"
   },
   {
-    "fd_code": "009863",
-    "fd_name": "富国创新趋势股票",
-    "yield": "2.0898",
+    "fd_code": "007643",
+    "fd_name": "华安稳健养老一年",
+    "yield": "1.9750",
     "sf_type": "1",
-    "unit_nav": "1.1431",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005636",
-    "fd_name": "博时量化多策略C",
-    "yield": "2.0633",
-    "sf_type": "1",
-    "unit_nav": "1.3999",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006604",
-    "fd_name": "嘉实消费精选股票A",
-    "yield": "2.0438",
-    "sf_type": "1",
-    "unit_nav": "1.9822",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008189",
-    "fd_name": "国泰中证钢铁ETF发起式联接A",
-    "yield": "2.0419",
-    "sf_type": "1",
-    "unit_nav": "1.1944",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008190",
-    "fd_name": "国泰中证钢铁ETF发起式联接C",
-    "yield": "2.0209",
-    "sf_type": "1",
-    "unit_nav": "1.1914",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005402",
-    "fd_name": "广发资源优选股票",
-    "yield": "2.0198",
-    "sf_type": "1",
-    "unit_nav": "1.8285",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000746",
-    "fd_name": "招商行业精选股票",
-    "yield": "2.0082",
-    "sf_type": "1",
-    "unit_nav": "3.9620",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008258",
-    "fd_name": "中银证券中证500ETF联接A",
-    "yield": "2.0013",
-    "sf_type": "1",
-    "unit_nav": "1.2334",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006605",
-    "fd_name": "嘉实消费精选股票C",
-    "yield": "2.0009",
-    "sf_type": "1",
-    "unit_nav": "1.9626",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008259",
-    "fd_name": "中银证券中证500ETF联接C",
-    "yield": "1.9868",
-    "sf_type": "1",
-    "unit_nav": "1.2320",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "010235",
-    "fd_name": "广发资源优选股票C类",
-    "yield": "1.9863",
-    "sf_type": "1",
-    "unit_nav": "1.8279",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009988",
-    "fd_name": "信达蓝筹精选",
-    "yield": "1.9768",
-    "sf_type": "1",
-    "unit_nav": "1.0885",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001044",
-    "fd_name": "嘉实新消费",
-    "yield": "1.9698",
-    "sf_type": "1",
-    "unit_nav": "2.4330",
+    "unit_nav": "1.0998",
     "f_type": "fund"
   },
   {
@@ -1320,22 +3640,6 @@
     "f_type": "fund"
   },
   {
-    "fd_code": "009126",
-    "fd_name": "嘉实基础产业优选股票A",
-    "yield": "1.9635",
-    "sf_type": "1",
-    "unit_nav": "1.2307",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008294",
-    "fd_name": "朱雀企业优胜A",
-    "yield": "1.9625",
-    "sf_type": "1",
-    "unit_nav": "1.3872",
-    "f_type": "fund"
-  },
-  {
     "fd_code": "003623",
     "fd_name": "创金合信优价成长C",
     "yield": "1.9541",
@@ -1344,1235 +3648,531 @@
     "f_type": "fund"
   },
   {
-    "fd_code": "003834",
-    "fd_name": "华夏能源革新股票",
-    "yield": "1.9202",
+    "fd_code": "007697",
+    "fd_name": "中金衡益A",
+    "yield": "1.9398",
     "sf_type": "1",
-    "unit_nav": "2.0700",
+    "unit_nav": "1.0931",
     "f_type": "fund"
   },
   {
-    "fd_code": "009127",
-    "fd_name": "嘉实基础产业优选股票C",
-    "yield": "1.9191",
+    "fd_code": "007698",
+    "fd_name": "中金衡益C",
+    "yield": "1.8928",
     "sf_type": "1",
-    "unit_nav": "1.2268",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008295",
-    "fd_name": "朱雀企业优胜C",
-    "yield": "1.9018",
-    "sf_type": "1",
-    "unit_nav": "1.3824",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005502",
-    "fd_name": "华泰紫金智能量化股票",
-    "yield": "1.8823",
-    "sf_type": "1",
-    "unit_nav": "1.3694",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001186",
-    "fd_name": "富国文体健康股票",
-    "yield": "1.8815",
-    "sf_type": "1",
-    "unit_nav": "2.1660",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001583",
-    "fd_name": "安信新常态股票",
-    "yield": "1.8705",
-    "sf_type": "1",
-    "unit_nav": "1.4160",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "007571",
-    "fd_name": "南方380C",
-    "yield": "1.8484",
-    "sf_type": "1",
-    "unit_nav": "1.7577",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "007305",
-    "fd_name": "国联安新科技混合",
-    "yield": "1.8424",
-    "sf_type": "1",
-    "unit_nav": "1.7357",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000549",
-    "fd_name": "华安大国新经济股票",
-    "yield": "1.8303",
-    "sf_type": "1",
-    "unit_nav": "3.0600",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "167702",
-    "fd_name": "德邦量化优选A",
-    "yield": "1.7965",
-    "sf_type": "1",
-    "unit_nav": "1.6886",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001291",
-    "fd_name": "大摩量化多策略股票",
-    "yield": "1.7814",
-    "sf_type": "1",
-    "unit_nav": "1.2570",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "167703",
-    "fd_name": "德邦量化优选C",
-    "yield": "1.7745",
-    "sf_type": "1",
-    "unit_nav": "1.6575",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001825",
-    "fd_name": "建信中国制造2025",
-    "yield": "1.7397",
-    "sf_type": "1",
-    "unit_nav": "1.8772",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001705",
-    "fd_name": "泓德战略转型股票",
-    "yield": "1.7361",
-    "sf_type": "1",
-    "unit_nav": "1.8439",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006692",
-    "fd_name": "金信消费升级股票A",
-    "yield": "1.7352",
-    "sf_type": "1",
-    "unit_nav": "1.8634",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005960",
-    "fd_name": "博时量化价值股票A",
-    "yield": "1.7003",
-    "sf_type": "1",
-    "unit_nav": "1.3877",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009384",
-    "fd_name": "大摩MSCI中国A股增强",
-    "yield": "1.6951",
-    "sf_type": "1",
-    "unit_nav": "1.0499",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001230",
-    "fd_name": "鹏华医药科技",
-    "yield": "1.6934",
-    "sf_type": "1",
-    "unit_nav": "1.1410",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001028",
-    "fd_name": "华安物联网主题股票",
-    "yield": "1.6920",
-    "sf_type": "1",
-    "unit_nav": "1.2020",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008286",
-    "fd_name": "易方达研究精选股票",
-    "yield": "1.6914",
-    "sf_type": "1",
-    "unit_nav": "1.5632",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "710001",
-    "fd_name": "富安达优势成长股票",
-    "yield": "1.6906",
-    "sf_type": "1",
-    "unit_nav": "2.8752",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006144",
-    "fd_name": "恒生前海中证质量成长低波动指数C",
-    "yield": "1.6759",
-    "sf_type": "1",
-    "unit_nav": "1.3772",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006693",
-    "fd_name": "金信消费升级股票C",
-    "yield": "1.6670",
-    "sf_type": "1",
-    "unit_nav": "1.9546",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001749",
-    "fd_name": "招商中国机遇股票",
-    "yield": "1.6649",
-    "sf_type": "1",
-    "unit_nav": "1.9540",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "003416",
-    "fd_name": "招商财经大数据股票",
-    "yield": "1.6648",
-    "sf_type": "1",
-    "unit_nav": "1.1603",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009537",
-    "fd_name": "太平行业优选A",
-    "yield": "1.6436",
-    "sf_type": "1",
-    "unit_nav": "1.0637",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005961",
-    "fd_name": "博时量化价值股票C",
-    "yield": "1.6358",
-    "sf_type": "1",
-    "unit_nav": "1.3607",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "167705",
-    "fd_name": "德邦量化新锐A",
-    "yield": "1.6275",
-    "sf_type": "1",
-    "unit_nav": "1.3176",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006478",
-    "fd_name": "长盛多因子策略优选",
-    "yield": "1.6004",
-    "sf_type": "1",
-    "unit_nav": "1.8156",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "167706",
-    "fd_name": "德邦量化新锐C",
-    "yield": "1.5996",
-    "sf_type": "1",
-    "unit_nav": "1.3084",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009538",
-    "fd_name": "太平行业优选C",
-    "yield": "1.5876",
-    "sf_type": "1",
-    "unit_nav": "1.0622",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005457",
-    "fd_name": "景顺长城量化小盘基金",
-    "yield": "1.5773",
-    "sf_type": "1",
-    "unit_nav": "1.3910",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "320022",
-    "fd_name": "诺安研究精选股票",
-    "yield": "1.5770",
-    "sf_type": "1",
-    "unit_nav": "2.1900",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009004",
-    "fd_name": "海富通中证500指数增强型证券投资基金C",
-    "yield": "1.5689",
-    "sf_type": "1",
-    "unit_nav": "1.8386",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006265",
-    "fd_name": "红土创新新科技股票",
-    "yield": "1.5466",
-    "sf_type": "1",
-    "unit_nav": "2.7577",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001236",
-    "fd_name": "博时丝路主题股票A",
-    "yield": "1.5359",
-    "sf_type": "1",
-    "unit_nav": "1.8510",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "004730",
-    "fd_name": "建信量化事件驱动",
-    "yield": "1.5134",
-    "sf_type": "1",
-    "unit_nav": "1.4556",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006972",
-    "fd_name": "金鹰民安回报定开A",
-    "yield": "1.5109",
-    "sf_type": "1",
-    "unit_nav": "1.1287",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005443",
-    "fd_name": "国金量化多策略混合",
-    "yield": "1.4919",
-    "sf_type": "1",
-    "unit_nav": "0.9796",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "007735",
-    "fd_name": "金鹰民安回报定开C",
-    "yield": "1.4776",
-    "sf_type": "1",
-    "unit_nav": "1.1263",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "217010",
-    "fd_name": "招商大盘蓝筹股票",
-    "yield": "1.4773",
-    "sf_type": "1",
-    "unit_nav": "3.0910",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "002210",
-    "fd_name": "创金合信量化多因子A",
-    "yield": "1.4764",
-    "sf_type": "1",
-    "unit_nav": "1.6221",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "007523",
-    "fd_name": "汇添富内需增长股票型证券投资基金A",
-    "yield": "1.4640",
-    "sf_type": "1",
-    "unit_nav": "1.7049",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000978",
-    "fd_name": "景顺长城量化精选",
-    "yield": "1.4484",
-    "sf_type": "1",
-    "unit_nav": "1.6110",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "002556",
-    "fd_name": "博时丝路主题股票C",
-    "yield": "1.4436",
-    "sf_type": "1",
-    "unit_nav": "1.8270",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008958",
-    "fd_name": "嘉实回报精选股票",
-    "yield": "1.4143",
-    "sf_type": "1",
-    "unit_nav": "1.3051",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "003865",
-    "fd_name": "创金合信量化多因子C",
-    "yield": "1.4137",
-    "sf_type": "1",
-    "unit_nav": "1.5782",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009147",
-    "fd_name": "建信新能源行业股票",
-    "yield": "1.4128",
-    "sf_type": "1",
-    "unit_nav": "1.4141",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "007524",
-    "fd_name": "汇添富内需增长股票型证券投资基金C",
-    "yield": "1.4117",
-    "sf_type": "1",
-    "unit_nav": "1.6882",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005189",
-    "fd_name": "海富通量化前锋A",
-    "yield": "1.4033",
-    "sf_type": "1",
-    "unit_nav": "1.6259",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009336",
-    "fd_name": "平安中证500指数增强型发起式证券投资基金A",
-    "yield": "1.4030",
-    "sf_type": "1",
-    "unit_nav": "1.1998",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "004616",
-    "fd_name": "中欧电子信息产业沪港深",
-    "yield": "1.3910",
-    "sf_type": "1",
-    "unit_nav": "2.1357",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005188",
-    "fd_name": "海富通量化前锋C",
-    "yield": "1.3732",
-    "sf_type": "1",
-    "unit_nav": "1.6389",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006251",
-    "fd_name": "银华兴盛股票",
-    "yield": "1.3720",
-    "sf_type": "1",
-    "unit_nav": "1.7142",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001645",
-    "fd_name": "国泰大健康股票",
-    "yield": "1.3630",
-    "sf_type": "1",
-    "unit_nav": "3.0490",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000884",
-    "fd_name": "民生加银优选股票",
-    "yield": "1.3619",
-    "sf_type": "1",
-    "unit_nav": "2.6050",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006195",
-    "fd_name": "国金量化多因子",
-    "yield": "1.3613",
-    "sf_type": "1",
-    "unit_nav": "1.3626",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009337",
-    "fd_name": "平安中证500指数增强型发起式证券投资基金C",
-    "yield": "1.3552",
-    "sf_type": "1",
-    "unit_nav": "1.1966",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001421",
-    "fd_name": "南方量化成长",
-    "yield": "1.3399",
-    "sf_type": "1",
-    "unit_nav": "1.4370",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001521",
-    "fd_name": "国寿安保成长优选股票",
-    "yield": "1.3366",
-    "sf_type": "1",
-    "unit_nav": "1.6680",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000866",
-    "fd_name": "华宝创造股票",
-    "yield": "1.3333",
-    "sf_type": "1",
-    "unit_nav": "2.0520",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "160607",
-    "fd_name": "鹏华价值优势混合",
-    "yield": "1.3322",
-    "sf_type": "1",
-    "unit_nav": "1.2170",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005763",
-    "fd_name": "中欧电子信息产业沪港深股票C",
-    "yield": "1.3184",
-    "sf_type": "1",
-    "unit_nav": "2.2287",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "007310",
-    "fd_name": "银华尊尚稳健养老一年FOF",
-    "yield": "1.2974",
-    "sf_type": "1",
-    "unit_nav": "1.1868",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "003984",
-    "fd_name": "嘉实新能源新材料A",
-    "yield": "1.2887",
-    "sf_type": "1",
-    "unit_nav": "2.4366",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "007133",
-    "fd_name": "嘉实长青竞争优势股票A",
-    "yield": "1.2867",
-    "sf_type": "1",
-    "unit_nav": "1.4484",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "161706",
-    "fd_name": "招商优质成长股票",
-    "yield": "1.2776",
-    "sf_type": "1",
-    "unit_nav": "3.2580",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "004403",
-    "fd_name": "平安股息精选沪港深A",
-    "yield": "1.2757",
-    "sf_type": "1",
-    "unit_nav": "1.4846",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "003985",
-    "fd_name": "嘉实新能源新材料C",
-    "yield": "1.2450",
-    "sf_type": "1",
-    "unit_nav": "2.4072",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "007134",
-    "fd_name": "嘉实长青竞争优势股票C",
-    "yield": "1.2427",
-    "sf_type": "1",
-    "unit_nav": "1.4339",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009550",
-    "fd_name": "汇添富开放视野中国优势六个月持有股票A",
-    "yield": "1.2407",
-    "sf_type": "1",
-    "unit_nav": "1.0771",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001677",
-    "fd_name": "中银战略新兴产业",
-    "yield": "1.2222",
-    "sf_type": "1",
-    "unit_nav": "2.3190",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001245",
-    "fd_name": "工银生态环境股票",
-    "yield": "1.2179",
-    "sf_type": "1",
-    "unit_nav": "1.4960",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "004404",
-    "fd_name": "平安股息精选沪港深C",
-    "yield": "1.2055",
-    "sf_type": "1",
-    "unit_nav": "1.4356",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005612",
-    "fd_name": "嘉实核心优势股票",
-    "yield": "1.2014",
-    "sf_type": "1",
-    "unit_nav": "1.7605",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008407",
-    "fd_name": "恒生前海沪深港通龙头指数A",
-    "yield": "1.1985",
-    "sf_type": "1",
-    "unit_nav": "1.1821",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000756",
-    "fd_name": "建信潜力新蓝筹股票",
-    "yield": "1.1829",
-    "sf_type": "1",
-    "unit_nav": "2.2240",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009551",
-    "fd_name": "汇添富开放视野中国优势六个月持有股票C",
-    "yield": "1.1777",
-    "sf_type": "1",
-    "unit_nav": "1.0739",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001637",
-    "fd_name": "嘉实腾讯自选股大数据策略股票",
-    "yield": "1.1749",
-    "sf_type": "1",
-    "unit_nav": "1.5500",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000688",
-    "fd_name": "景顺长城研究精选",
-    "yield": "1.1640",
-    "sf_type": "1",
-    "unit_nav": "1.9120",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000586",
-    "fd_name": "景顺长城中小板创业板",
-    "yield": "1.1389",
-    "sf_type": "1",
-    "unit_nav": "2.3090",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005628",
-    "fd_name": "汇安趋势动力A",
-    "yield": "1.1267",
-    "sf_type": "1",
-    "unit_nav": "1.2745",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001616",
-    "fd_name": "嘉实环保低碳",
-    "yield": "1.1205",
-    "sf_type": "1",
-    "unit_nav": "2.9780",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "007569",
-    "fd_name": "南方安福混合C",
-    "yield": "1.1146",
-    "sf_type": "1",
-    "unit_nav": "1.1340",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008177",
-    "fd_name": "建信高股息主题股票",
-    "yield": "1.1069",
-    "sf_type": "1",
-    "unit_nav": "1.3153",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "002168",
-    "fd_name": "嘉实智能汽车",
-    "yield": "1.0956",
-    "sf_type": "1",
-    "unit_nav": "3.0450",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005629",
-    "fd_name": "汇安趋势动力C",
-    "yield": "1.0799",
-    "sf_type": "1",
-    "unit_nav": "1.2543",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "162107",
-    "fd_name": "金鹰量化精选股票",
-    "yield": "1.0748",
-    "sf_type": "1",
-    "unit_nav": "0.9310",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "007272",
-    "fd_name": "景顺长城稳健养老目标三年持有期混合型发起",
-    "yield": "1.0572",
-    "sf_type": "1",
-    "unit_nav": "1.1662",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001162",
-    "fd_name": "前海开源优势蓝筹A",
-    "yield": "1.0563",
-    "sf_type": "1",
-    "unit_nav": "1.7220",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001888",
-    "fd_name": "中欧盛世成长",
-    "yield": "1.0329",
-    "sf_type": "1",
-    "unit_nav": "2.6898",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001638",
-    "fd_name": "前海开源优势蓝筹C",
-    "yield": "1.0171",
-    "sf_type": "1",
-    "unit_nav": "1.8870",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006314",
-    "fd_name": "中融策略优选混合A",
-    "yield": "0.9839",
-    "sf_type": "1",
-    "unit_nav": "2.2272",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001409",
-    "fd_name": "工银互联网加股票",
-    "yield": "0.9724",
-    "sf_type": "1",
-    "unit_nav": "0.6230",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006675",
-    "fd_name": "宝盈品牌消费股票A",
-    "yield": "0.9620",
-    "sf_type": "1",
-    "unit_nav": "1.3538",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "340006",
-    "fd_name": "兴全全球视野股票",
-    "yield": "0.9570",
-    "sf_type": "1",
-    "unit_nav": "2.8060",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "519727",
-    "fd_name": "交银成长30股票",
-    "yield": "0.9553",
-    "sf_type": "1",
-    "unit_nav": "2.3250",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006315",
-    "fd_name": "中融策略优选混合C",
-    "yield": "0.9512",
-    "sf_type": "1",
-    "unit_nav": "2.1969",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "519673",
-    "fd_name": "银河康乐股票",
-    "yield": "0.9497",
-    "sf_type": "1",
-    "unit_nav": "3.1890",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "007965",
-    "fd_name": "民生加银品质消费股票A",
-    "yield": "0.9486",
-    "sf_type": "1",
-    "unit_nav": "1.3728",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "217012",
-    "fd_name": "招商行业领先股票",
-    "yield": "0.9267",
-    "sf_type": "1",
-    "unit_nav": "2.5050",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "007966",
-    "fd_name": "民生加银品质消费股票C",
-    "yield": "0.9212",
-    "sf_type": "1",
-    "unit_nav": "1.3694",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006676",
-    "fd_name": "宝盈品牌消费股票C",
-    "yield": "0.8901",
-    "sf_type": "1",
-    "unit_nav": "1.3375",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001070",
-    "fd_name": "建信信息产业股票",
-    "yield": "0.8749",
-    "sf_type": "1",
-    "unit_nav": "2.3060",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000761",
-    "fd_name": "国富健康优质生活股票",
-    "yield": "0.8383",
-    "sf_type": "1",
-    "unit_nav": "1.8765",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005035",
-    "fd_name": "银华信息科技量化优选A",
-    "yield": "0.7988",
-    "sf_type": "1",
-    "unit_nav": "1.2367",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005036",
-    "fd_name": "银华信息科技量化优选C",
-    "yield": "0.7665",
-    "sf_type": "1",
-    "unit_nav": "1.2358",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008382",
-    "fd_name": "融通产业趋势股票",
-    "yield": "0.7626",
-    "sf_type": "1",
-    "unit_nav": "1.1891",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "519606",
-    "fd_name": "国泰金鑫股票",
-    "yield": "0.7454",
-    "sf_type": "1",
-    "unit_nav": "2.5680",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001877",
-    "fd_name": "宝盈国家安全战略沪港深",
-    "yield": "0.7260",
-    "sf_type": "1",
-    "unit_nav": "1.1100",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001849",
-    "fd_name": "前海开源强势共识100强",
-    "yield": "0.7229",
-    "sf_type": "1",
-    "unit_nav": "1.6720",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000172",
-    "fd_name": "华泰柏瑞量化增强",
-    "yield": "0.6966",
-    "sf_type": "1",
-    "unit_nav": "1.5900",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005237",
-    "fd_name": "银华医疗健康量化优选A",
-    "yield": "0.6711",
-    "sf_type": "1",
-    "unit_nav": "1.7851",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "360001",
-    "fd_name": "光大量化股票",
-    "yield": "0.6661",
-    "sf_type": "1",
-    "unit_nav": "1.3752",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000418",
-    "fd_name": "景顺长城成长之星",
-    "yield": "0.6446",
-    "sf_type": "1",
-    "unit_nav": "3.7470",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006207",
-    "fd_name": "泰康裕泰债券A",
-    "yield": "0.6433",
-    "sf_type": "1",
-    "unit_nav": "1.1265",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005238",
-    "fd_name": "银华医疗健康量化优选C",
-    "yield": "0.6315",
-    "sf_type": "1",
-    "unit_nav": "1.7687",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "004997",
-    "fd_name": "广发高端制造股票",
-    "yield": "0.6069",
-    "sf_type": "1",
-    "unit_nav": "2.5363",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008236",
-    "fd_name": "招商深证100ETF联接A",
-    "yield": "0.6045",
-    "sf_type": "1",
-    "unit_nav": "1.2149",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001605",
-    "fd_name": "国富沪港深成长精选股票",
-    "yield": "0.5988",
-    "sf_type": "1",
-    "unit_nav": "2.3520",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008854",
-    "fd_name": "南方内需增长两年股票A",
-    "yield": "0.5929",
-    "sf_type": "1",
-    "unit_nav": "1.3573",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008237",
-    "fd_name": "招商深证100ETF联接C",
-    "yield": "0.5871",
-    "sf_type": "1",
-    "unit_nav": "1.2335",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000974",
-    "fd_name": "安信消费医药股票",
-    "yield": "0.5820",
-    "sf_type": "1",
-    "unit_nav": "1.9010",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "010160",
-    "fd_name": "广发高端制造股票C类",
-    "yield": "0.5753",
-    "sf_type": "1",
-    "unit_nav": "2.5348",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008303",
-    "fd_name": "宝盈龙头A",
-    "yield": "0.5577",
-    "sf_type": "1",
-    "unit_nav": "1.0999",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009899",
-    "fd_name": "上银内需增长股票",
-    "yield": "0.5556",
-    "sf_type": "1",
-    "unit_nav": "1.0316",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008855",
-    "fd_name": "南方内需增长两年股票C",
-    "yield": "0.5433",
-    "sf_type": "1",
-    "unit_nav": "1.3509",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009069",
-    "fd_name": "大成睿鑫股票A",
-    "yield": "0.5343",
-    "sf_type": "1",
-    "unit_nav": "1.0537",
+    "unit_nav": "1.0874",
     "f_type": "fund"
   },
   {
     "fd_code": "010112",
     "fd_name": "广发研究精选股票A",
-    "yield": "0.5300",
+    "yield": "1.8601",
     "sf_type": "1",
-    "unit_nav": "1.0053",
+    "unit_nav": "1.0240",
     "f_type": "fund"
   },
   {
-    "fd_code": "004040",
-    "fd_name": "金鹰医疗健康股票A",
-    "yield": "0.5171",
+    "fd_code": "005443",
+    "fd_name": "国金量化多策略混合",
+    "yield": "1.8592",
     "sf_type": "1",
-    "unit_nav": "1.9051",
+    "unit_nav": "1.0026",
     "f_type": "fund"
   },
   {
-    "fd_code": "000751",
-    "fd_name": "嘉实新兴产业",
-    "yield": "0.5081",
+    "fd_code": "001050",
+    "fd_name": "汇添富成长多因子量化",
+    "yield": "1.8365",
     "sf_type": "1",
-    "unit_nav": "4.9450",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009070",
-    "fd_name": "大成睿鑫股票C",
-    "yield": "0.5062",
-    "sf_type": "1",
-    "unit_nav": "1.0524",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005970",
-    "fd_name": "国泰消费优选股票",
-    "yield": "0.5021",
-    "sf_type": "1",
-    "unit_nav": "1.8414",
+    "unit_nav": "1.7190",
     "f_type": "fund"
   },
   {
     "fd_code": "010113",
     "fd_name": "广发研究精选股票C",
-    "yield": "0.5000",
+    "yield": "1.8209",
     "sf_type": "1",
-    "unit_nav": "1.0050",
+    "unit_nav": "1.0233",
     "f_type": "fund"
   },
   {
-    "fd_code": "001938",
-    "fd_name": "中欧时代先锋",
-    "yield": "0.4973",
+    "fd_code": "006803",
+    "fd_name": "嘉实互通精选股票",
+    "yield": "1.7986",
     "sf_type": "1",
-    "unit_nav": "1.8794",
+    "unit_nav": "1.3301",
     "f_type": "fund"
   },
   {
-    "fd_code": "001703",
-    "fd_name": "银华沪港深增长股票",
-    "yield": "0.4845",
+    "fd_code": "160607",
+    "fd_name": "鹏华价值优势混合",
+    "yield": "1.7945",
     "sf_type": "1",
-    "unit_nav": "2.4890",
+    "unit_nav": "1.2480",
     "f_type": "fund"
   },
   {
-    "fd_code": "004041",
-    "fd_name": "金鹰医疗健康股票C",
-    "yield": "0.4795",
+    "fd_code": "002210",
+    "fd_name": "创金合信量化多因子A",
+    "yield": "1.7798",
     "sf_type": "1",
-    "unit_nav": "1.9909",
+    "unit_nav": "1.6527",
     "f_type": "fund"
   },
   {
-    "fd_code": "008304",
-    "fd_name": "宝盈龙头C",
-    "yield": "0.4777",
+    "fd_code": "007107",
+    "fd_name": "太平MSCI香港价值增强A",
+    "yield": "1.7735",
     "sf_type": "1",
-    "unit_nav": "1.0937",
+    "unit_nav": "0.9067",
     "f_type": "fund"
   },
   {
-    "fd_code": "005495",
-    "fd_name": "创金合信科技成长A",
-    "yield": "0.4769",
+    "fd_code": "007108",
+    "fd_name": "太平MSCI香港价值增强C",
+    "yield": "1.7364",
     "sf_type": "1",
-    "unit_nav": "1.8330",
+    "unit_nav": "0.9023",
     "f_type": "fund"
   },
   {
-    "fd_code": "007685",
-    "fd_name": "华商电子行业",
-    "yield": "0.4698",
+    "fd_code": "003865",
+    "fd_name": "创金合信量化多因子C",
+    "yield": "1.7152",
     "sf_type": "1",
-    "unit_nav": "1.6468",
+    "unit_nav": "1.6071",
     "f_type": "fund"
   },
   {
-    "fd_code": "009898",
-    "fd_name": "民生加银医药健康股票",
-    "yield": "0.4419",
+    "fd_code": "519694",
+    "fd_name": "交银蓝筹股票",
+    "yield": "1.7149",
     "sf_type": "1",
-    "unit_nav": "1.0000",
+    "unit_nav": "1.1032",
     "f_type": "fund"
   },
   {
-    "fd_code": "005496",
-    "fd_name": "创金合信科技成长C",
-    "yield": "0.4349",
+    "fd_code": "008107",
+    "fd_name": "华商医药医疗行业股票",
+    "yield": "1.6835",
     "sf_type": "1",
-    "unit_nav": "1.8014",
+    "unit_nav": "1.4556",
     "f_type": "fund"
   },
   {
-    "fd_code": "004241",
-    "fd_name": "中欧时代先锋股票C",
-    "yield": "0.4343",
+    "fd_code": "010789",
+    "fd_name": "汇添富恒生指数型证券投资基金（QDII-LOF",
+    "yield": "1.6492",
     "sf_type": "1",
-    "unit_nav": "1.8499",
+    "unit_nav": "1.0971",
     "f_type": "fund"
   },
   {
-    "fd_code": "000628",
-    "fd_name": "大成高新技术产业",
-    "yield": "0.4253",
+    "fd_code": "006207",
+    "fd_name": "泰康裕泰债券A",
+    "yield": "1.6309",
     "sf_type": "1",
-    "unit_nav": "3.0700",
+    "unit_nav": "1.1466",
     "f_type": "fund"
   },
   {
-    "fd_code": "009079",
-    "fd_name": "南方粤港澳大湾区联接A",
-    "yield": "0.4189",
+    "fd_code": "000978",
+    "fd_name": "景顺长城量化精选",
+    "yield": "1.6049",
     "sf_type": "1",
-    "unit_nav": "1.3423",
+    "unit_nav": "1.6460",
     "f_type": "fund"
   },
   {
-    "fd_code": "009080",
-    "fd_name": "南方粤港澳大湾区联接C",
-    "yield": "0.4042",
+    "fd_code": "001849",
+    "fd_name": "前海开源强势共识100强",
+    "yield": "1.4269",
     "sf_type": "1",
-    "unit_nav": "1.3414",
+    "unit_nav": "1.7060",
     "f_type": "fund"
   },
   {
-    "fd_code": "001878",
-    "fd_name": "嘉实沪港深精选",
-    "yield": "0.3800",
+    "fd_code": "009043",
+    "fd_name": "九泰久信量化股票",
+    "yield": "1.3208",
     "sf_type": "1",
-    "unit_nav": "2.1130",
+    "unit_nav": "1.2197",
     "f_type": "fund"
   },
   {
-    "fd_code": "007853",
-    "fd_name": "华商计算机行业股票",
-    "yield": "0.3621",
+    "fd_code": "000991",
+    "fd_name": "工银战略转型股票",
+    "yield": "1.2816",
     "sf_type": "1",
-    "unit_nav": "1.2750",
+    "unit_nav": "3.0820",
     "f_type": "fund"
   },
   {
-    "fd_code": "001163",
-    "fd_name": "银华中国梦30股票",
-    "yield": "0.3604",
+    "fd_code": "005035",
+    "fd_name": "银华信息科技量化优选A",
+    "yield": "1.2776",
     "sf_type": "1",
-    "unit_nav": "2.2280",
+    "unit_nav": "1.2525",
     "f_type": "fund"
   },
   {
-    "fd_code": "008871",
-    "fd_name": "大成睿裕六月持有股票A",
-    "yield": "0.3595",
+    "fd_code": "005620",
+    "fd_name": "中欧品质消费股票A",
+    "yield": "1.2649",
     "sf_type": "1",
-    "unit_nav": "1.2005",
+    "unit_nav": "2.1249",
     "f_type": "fund"
   },
   {
-    "fd_code": "001105",
-    "fd_name": "信达澳银转型创新",
-    "yield": "0.3594",
+    "fd_code": "005036",
+    "fd_name": "银华信息科技量化优选C",
+    "yield": "1.2380",
     "sf_type": "1",
-    "unit_nav": "1.1170",
+    "unit_nav": "1.2512",
     "f_type": "fund"
   },
   {
-    "fd_code": "010387",
-    "fd_name": "易方达医药生物股票A",
-    "yield": "0.3500",
+    "fd_code": "005621",
+    "fd_name": "中欧品质消费股票C",
+    "yield": "1.1976",
     "sf_type": "1",
-    "unit_nav": "1.0035",
+    "unit_nav": "2.0910",
     "f_type": "fund"
   },
   {
-    "fd_code": "010388",
-    "fd_name": "易方达医药生物股票C",
-    "yield": "0.3100",
+    "fd_code": "164205",
+    "fd_name": "天弘文化新兴产业股票",
+    "yield": "1.1921",
     "sf_type": "1",
-    "unit_nav": "1.0031",
+    "unit_nav": "2.5041",
     "f_type": "fund"
   },
   {
-    "fd_code": "008872",
-    "fd_name": "大成睿裕六月持有股票C",
-    "yield": "0.3017",
+    "fd_code": "003298",
+    "fd_name": "嘉实物流产业股票A",
+    "yield": "1.1667",
     "sf_type": "1",
-    "unit_nav": "1.1968",
+    "unit_nav": "2.0810",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "003299",
+    "fd_name": "嘉实物流产业股票C",
+    "yield": "1.1291",
+    "sf_type": "1",
+    "unit_nav": "2.0600",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009237",
+    "fd_name": "兴业绿色纯债一年定开债券A",
+    "yield": "1.1184",
+    "sf_type": "1",
+    "unit_nav": "1.0126",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006106",
+    "fd_name": "景顺长城量化港股通",
+    "yield": "1.0885",
+    "sf_type": "1",
+    "unit_nav": "0.9937",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007571",
+    "fd_name": "南方380C",
+    "yield": "1.0326",
+    "sf_type": "1",
+    "unit_nav": "1.7808",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007763",
+    "fd_name": "前海开源3-5年国开债A",
+    "yield": "1.0189",
+    "sf_type": "1",
+    "unit_nav": "1.0212",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "002730",
+    "fd_name": "华富华鑫混合A",
+    "yield": "0.9980",
+    "sf_type": "1",
+    "unit_nav": "1.5180",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007178",
+    "fd_name": "浙商中华预期高股息A",
+    "yield": "0.9613",
+    "sf_type": "1",
+    "unit_nav": "0.9557",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007216",
+    "fd_name": "浙商中华预期高股息C",
+    "yield": "0.9331",
+    "sf_type": "1",
+    "unit_nav": "0.9519",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009655",
+    "fd_name": "工银尊益中短债债券A",
+    "yield": "0.8570",
+    "sf_type": "1",
+    "unit_nav": "1.0121",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "167702",
+    "fd_name": "德邦量化优选A",
+    "yield": "0.8014",
+    "sf_type": "1",
+    "unit_nav": "1.6481",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007725",
+    "fd_name": "招商瑞文混合A",
+    "yield": "0.8010",
+    "sf_type": "1",
+    "unit_nav": "1.1703",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "167703",
+    "fd_name": "德邦量化优选C",
+    "yield": "0.7803",
+    "sf_type": "1",
+    "unit_nav": "1.6161",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007726",
+    "fd_name": "招商瑞文混合C",
+    "yield": "0.7781",
+    "sf_type": "1",
+    "unit_nav": "1.1657",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007569",
+    "fd_name": "南方安福混合C",
+    "yield": "0.7651",
+    "sf_type": "1",
+    "unit_nav": "1.1458",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006938",
+    "fd_name": "鹏华中证500指数证券投资基金（LOF）",
+    "yield": "0.7567",
+    "sf_type": "1",
+    "unit_nav": "1.7310",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001178",
+    "fd_name": "前海开源再融资股票",
+    "yield": "0.7354",
+    "sf_type": "1",
+    "unit_nav": "1.5800",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009126",
+    "fd_name": "嘉实基础产业优选股票A",
+    "yield": "0.7084",
+    "sf_type": "1",
+    "unit_nav": "1.2511",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "519702",
+    "fd_name": "交银趋势优先股票",
+    "yield": "0.7032",
+    "sf_type": "1",
+    "unit_nav": "2.7210",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007714",
+    "fd_name": "南方贺元利率债A",
+    "yield": "0.6824",
+    "sf_type": "1",
+    "unit_nav": "1.0181",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "009127",
+    "fd_name": "嘉实基础产业优选股票C",
+    "yield": "0.6703",
+    "sf_type": "1",
+    "unit_nav": "1.2466",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007715",
+    "fd_name": "南方贺元利率债C",
+    "yield": "0.6462",
+    "sf_type": "1",
+    "unit_nav": "1.0124",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007717",
+    "fd_name": "工银尊享短债债券F",
+    "yield": "0.6453",
+    "sf_type": "1",
+    "unit_nav": "1.0449",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006346",
+    "fd_name": "安信量化优选股票A",
+    "yield": "0.5978",
+    "sf_type": "1",
+    "unit_nav": "2.0195",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007764",
+    "fd_name": "前海开源3-5年国开债C",
+    "yield": "0.5741",
+    "sf_type": "1",
+    "unit_nav": "1.0160",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006347",
+    "fd_name": "安信量化优选股票C",
+    "yield": "0.5621",
+    "sf_type": "1",
+    "unit_nav": "2.0036",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007624",
+    "fd_name": "华安年年丰定开债A",
+    "yield": "0.5381",
+    "sf_type": "1",
+    "unit_nav": "1.0277",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007542",
+    "fd_name": "永赢开泰中高等级中短债A",
+    "yield": "0.5308",
+    "sf_type": "1",
+    "unit_nav": "1.0416",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006242",
+    "fd_name": "宝盈盈润",
+    "yield": "0.5056",
+    "sf_type": "1",
+    "unit_nav": "1.0094",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007625",
+    "fd_name": "华安年年丰定开债C",
+    "yield": "0.5015",
+    "sf_type": "1",
+    "unit_nav": "1.0221",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007065",
+    "fd_name": "浦银上清所优选短融C",
+    "yield": "0.4545",
+    "sf_type": "1",
+    "unit_nav": "1.0387",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008258",
+    "fd_name": "中银证券中证500ETF联接A",
+    "yield": "0.4516",
+    "sf_type": "1",
+    "unit_nav": "1.2457",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "008259",
+    "fd_name": "中银证券中证500ETF联接C",
+    "yield": "0.4440",
+    "sf_type": "1",
+    "unit_nav": "1.2441",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005960",
+    "fd_name": "博时量化价值股票A",
+    "yield": "0.4345",
+    "sf_type": "1",
+    "unit_nav": "1.4101",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007903",
+    "fd_name": "长城量化小盘股票",
+    "yield": "0.3942",
+    "sf_type": "1",
+    "unit_nav": "1.1970",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "005961",
+    "fd_name": "博时量化价值股票C",
+    "yield": "0.3632",
+    "sf_type": "1",
+    "unit_nav": "1.3817",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "004891",
+    "fd_name": "华润元大成长精选股票A",
+    "yield": "0.3469",
+    "sf_type": "1",
+    "unit_nav": "1.1570",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "SJS341",
+    "fd_name": "艾美谷股期融通一号私募证券投资基金A",
+    "yield": "0.3282",
+    "sf_type": "1",
+    "unit_nav": "2.0720",
+    "f_type": "pf"
+  },
+  {
+    "fd_code": "004892",
+    "fd_name": "华润元大成长精选股票C",
+    "yield": "0.3215",
+    "sf_type": "1",
+    "unit_nav": "1.1546",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "519975",
+    "fd_name": "长信量化中小盘股票",
+    "yield": "0.3150",
+    "sf_type": "1",
+    "unit_nav": "1.2740",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "007133",
+    "fd_name": "嘉实长青竞争优势股票A",
+    "yield": "0.2869",
+    "sf_type": "1",
+    "unit_nav": "1.4680",
     "f_type": "fund"
   },
   {
@@ -2584,46 +4184,6 @@
     "f_type": "fund"
   },
   {
-    "fd_code": "005310",
-    "fd_name": "广发电子信息传媒产业精选",
-    "yield": "0.2724",
-    "sf_type": "1",
-    "unit_nav": "1.7302",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "004891",
-    "fd_name": "华润元大成长精选股票A",
-    "yield": "0.2717",
-    "sf_type": "1",
-    "unit_nav": "1.1442",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "004352",
-    "fd_name": "北信瑞丰研究精选",
-    "yield": "0.2697",
-    "sf_type": "1",
-    "unit_nav": "1.4126",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "007590",
-    "fd_name": "华宝绿色领先股票",
-    "yield": "0.2686",
-    "sf_type": "1",
-    "unit_nav": "1.4184",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001416",
-    "fd_name": "嘉实事件驱动",
-    "yield": "0.2515",
-    "sf_type": "1",
-    "unit_nav": "1.1960",
-    "f_type": "fund"
-  },
-  {
     "fd_code": "004482",
     "fd_name": "泰达宏利港股通A",
     "yield": "0.2502",
@@ -2632,99 +4192,11 @@
     "f_type": "fund"
   },
   {
-    "fd_code": "000985",
-    "fd_name": "嘉实逆向策略",
-    "yield": "0.2481",
+    "fd_code": "007134",
+    "fd_name": "嘉实长青竞争优势股票C",
+    "yield": "0.2415",
     "sf_type": "1",
-    "unit_nav": "2.0200",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "004892",
-    "fd_name": "华润元大成长精选股票C",
-    "yield": "0.2458",
-    "sf_type": "1",
-    "unit_nav": "1.1421",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "010236",
-    "fd_name": "广发电子信息传媒股票C类",
-    "yield": "0.2433",
-    "sf_type": "1",
-    "unit_nav": "1.7305",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001188",
-    "fd_name": "鹏华改革红利",
-    "yield": "0.2427",
-    "sf_type": "1",
-    "unit_nav": "1.2390",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001050",
-    "fd_name": "汇添富成长多因子量化",
-    "yield": "0.2385",
-    "sf_type": "1",
-    "unit_nav": "1.6810",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008412",
-    "fd_name": "长盛竞争优势A",
-    "yield": "0.2316",
-    "sf_type": "1",
-    "unit_nav": "0.9955",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001223",
-    "fd_name": "鹏华文化传媒娱乐",
-    "yield": "0.2123",
-    "sf_type": "1",
-    "unit_nav": "1.4160",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "007065",
-    "fd_name": "浦银上清所优选短融C",
-    "yield": "0.2034",
-    "sf_type": "1",
-    "unit_nav": "1.0344",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006346",
-    "fd_name": "安信量化优选股票A",
-    "yield": "0.1911",
-    "sf_type": "1",
-    "unit_nav": "1.9927",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "010434",
-    "fd_name": "红土创新医疗保健股票",
-    "yield": "0.1906",
-    "sf_type": "1",
-    "unit_nav": "0.9988",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006228",
-    "fd_name": "中欧医疗创新股票A",
-    "yield": "0.1847",
-    "sf_type": "1",
-    "unit_nav": "2.2776",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001036",
-    "fd_name": "嘉实企业变革",
-    "yield": "0.1815",
-    "sf_type": "1",
-    "unit_nav": "1.6560",
+    "unit_nav": "1.4527",
     "f_type": "fund"
   },
   {
@@ -2736,1635 +4208,283 @@
     "f_type": "fund"
   },
   {
-    "fd_code": "001039",
-    "fd_name": "嘉实先进制造",
-    "yield": "0.1746",
+    "fd_code": "460009",
+    "fd_name": "华泰柏瑞量化先行",
+    "yield": "0.0536",
     "sf_type": "1",
-    "unit_nav": "1.7210",
+    "unit_nav": "1.8670",
     "f_type": "fund"
   },
   {
-    "fd_code": "008413",
-    "fd_name": "长盛竞争优势C",
-    "yield": "0.1716",
+    "fd_code": "001645",
+    "fd_name": "国泰大健康股票",
+    "yield": "-0.0083",
     "sf_type": "1",
-    "unit_nav": "0.9925",
+    "unit_nav": "2.7760",
     "f_type": "fund"
   },
   {
-    "fd_code": "001313",
-    "fd_name": "上投摩根智慧互联股票",
-    "yield": "0.1682",
+    "fd_code": "167705",
+    "fd_name": "德邦量化新锐A",
+    "yield": "-0.0602",
     "sf_type": "1",
-    "unit_nav": "1.1910",
+    "unit_nav": "1.3279",
     "f_type": "fund"
   },
   {
-    "fd_code": "006347",
-    "fd_name": "安信量化优选股票C",
-    "yield": "0.1570",
+    "fd_code": "167706",
+    "fd_name": "德邦量化新锐C",
+    "yield": "-0.0758",
     "sf_type": "1",
-    "unit_nav": "1.9777",
+    "unit_nav": "1.3185",
     "f_type": "fund"
   },
   {
-    "fd_code": "009237",
-    "fd_name": "兴业绿色纯债一年定开债券A",
-    "yield": "0.1397",
+    "fd_code": "005433",
+    "fd_name": "申万菱信医药先锋股票",
+    "yield": "-0.1900",
     "sf_type": "1",
-    "unit_nav": "1.0039",
+    "unit_nav": "0.9981",
     "f_type": "fund"
   },
   {
-    "fd_code": "007764",
-    "fd_name": "前海开源3-5年国开债C",
-    "yield": "0.1388",
+    "fd_code": "007590",
+    "fd_name": "华宝绿色领先股票",
+    "yield": "-0.2321",
     "sf_type": "1",
-    "unit_nav": "1.0102",
+    "unit_nav": "1.4185",
     "f_type": "fund"
   },
   {
-    "fd_code": "007643",
-    "fd_name": "华安稳健养老一年",
-    "yield": "0.1388",
+    "fd_code": "008189",
+    "fd_name": "国泰中证钢铁ETF发起式联接A",
+    "yield": "-0.2491",
     "sf_type": "1",
-    "unit_nav": "1.0823",
+    "unit_nav": "1.2012",
     "f_type": "fund"
   },
   {
-    "fd_code": "007763",
-    "fd_name": "前海开源3-5年国开债A",
-    "yield": "0.1387",
+    "fd_code": "000916",
+    "fd_name": "前海开源股息率100强",
+    "yield": "-0.2562",
     "sf_type": "1",
-    "unit_nav": "1.0108",
+    "unit_nav": "1.5570",
     "f_type": "fund"
   },
   {
-    "fd_code": "007725",
-    "fd_name": "招商瑞文混合A",
-    "yield": "0.1207",
+    "fd_code": "008190",
+    "fd_name": "国泰中证钢铁ETF发起式联接C",
+    "yield": "-0.2747",
     "sf_type": "1",
-    "unit_nav": "1.1612",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006229",
-    "fd_name": "中欧医疗创新股票C",
-    "yield": "0.1203",
-    "sf_type": "1",
-    "unit_nav": "2.2471",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "003956",
-    "fd_name": "南方现代教育股票",
-    "yield": "0.1087",
-    "sf_type": "1",
-    "unit_nav": "1.9334",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "003145",
-    "fd_name": "中融竞争优势股票",
-    "yield": "0.1048",
-    "sf_type": "1",
-    "unit_nav": "1.5278",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "007726",
-    "fd_name": "招商瑞文混合C",
-    "yield": "0.1038",
-    "sf_type": "1",
-    "unit_nav": "1.1569",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "007714",
-    "fd_name": "南方贺元利率债A",
-    "yield": "0.0990",
-    "sf_type": "1",
-    "unit_nav": "1.0114",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009265",
-    "fd_name": "易方达消费精选股票",
-    "yield": "0.0862",
-    "sf_type": "1",
-    "unit_nav": "1.2766",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001917",
-    "fd_name": "招商量化精选股票",
-    "yield": "0.0749",
-    "sf_type": "1",
-    "unit_nav": "1.6043",
+    "unit_nav": "1.1979",
     "f_type": "fund"
   },
   {
     "fd_code": "007614",
     "fd_name": "德邦民裕进取量化精锐股票A",
-    "yield": "0.0515",
+    "yield": "-0.5062",
     "sf_type": "1",
-    "unit_nav": "1.3588",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "007715",
-    "fd_name": "南方贺元利率债C",
-    "yield": "0.0398",
-    "sf_type": "1",
-    "unit_nav": "1.0060",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009891",
-    "fd_name": "融通产业趋势臻选股票",
-    "yield": "0.0304",
-    "sf_type": "1",
-    "unit_nav": "0.9887",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006863",
-    "fd_name": "国联安智能制造",
-    "yield": "0.0293",
-    "sf_type": "1",
-    "unit_nav": "1.7050",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001178",
-    "fd_name": "前海开源再融资股票",
-    "yield": "0.0000",
-    "sf_type": "1",
-    "unit_nav": "1.9220",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001781",
-    "fd_name": "建信现代服务业股票",
-    "yield": "0.0000",
-    "sf_type": "1",
-    "unit_nav": "1.8560",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "007697",
-    "fd_name": "中金衡益A",
-    "yield": "0.0000",
-    "sf_type": "1",
-    "unit_nav": "1.0718",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "004851",
-    "fd_name": "广发医疗保健股票A",
-    "yield": "-0.0065",
-    "sf_type": "1",
-    "unit_nav": "3.0931",
+    "unit_nav": "1.3561",
     "f_type": "fund"
   },
   {
     "fd_code": "007615",
     "fd_name": "德邦民裕进取量化精锐股票C",
-    "yield": "-0.0074",
+    "yield": "-0.5544",
     "sf_type": "1",
-    "unit_nav": "1.3485",
+    "unit_nav": "1.3453",
     "f_type": "fund"
   },
   {
-    "fd_code": "007698",
-    "fd_name": "中金衡益C",
-    "yield": "-0.0375",
+    "fd_code": "671010",
+    "fd_name": "西部利得策略优选股票",
+    "yield": "-0.6029",
     "sf_type": "1",
-    "unit_nav": "1.0666",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001104",
-    "fd_name": "华安新丝路主题",
-    "yield": "-0.0417",
-    "sf_type": "1",
-    "unit_nav": "2.3980",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009163",
-    "fd_name": "广发医疗保健股票C",
-    "yield": "-0.0421",
-    "sf_type": "1",
-    "unit_nav": "3.0849",
+    "unit_nav": "1.3190",
     "f_type": "fund"
   },
   {
     "fd_code": "005515",
     "fd_name": "银华中小市值量化优选股票A",
-    "yield": "-0.0994",
+    "yield": "-0.6232",
     "sf_type": "1",
-    "unit_nav": "1.1051",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "003053",
-    "fd_name": "嘉实文体娱乐股票A",
-    "yield": "-0.1263",
-    "sf_type": "1",
-    "unit_nav": "1.5820",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "003054",
-    "fd_name": "嘉实文体娱乐股票C",
-    "yield": "-0.1286",
-    "sf_type": "1",
-    "unit_nav": "1.5530",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009601",
-    "fd_name": "招商科技动力3个月A",
-    "yield": "-0.1299",
-    "sf_type": "1",
-    "unit_nav": "0.9991",
+    "unit_nav": "1.1003",
     "f_type": "fund"
   },
   {
     "fd_code": "005516",
     "fd_name": "银华中小市值量化优选股票C",
-    "yield": "-0.1326",
+    "yield": "-0.6627",
     "sf_type": "1",
-    "unit_nav": "1.1294",
+    "unit_nav": "1.1242",
     "f_type": "fund"
   },
   {
-    "fd_code": "006671",
-    "fd_name": "广发消费升级股票",
-    "yield": "-0.1327",
+    "fd_code": "008590",
+    "fd_name": "中证全指证券公司A",
+    "yield": "-0.6826",
     "sf_type": "1",
-    "unit_nav": "1.8818",
+    "unit_nav": "1.2949",
     "f_type": "fund"
   },
   {
-    "fd_code": "006242",
-    "fd_name": "宝盈盈润",
-    "yield": "-0.1378",
+    "fd_code": "008591",
+    "fd_name": "中证全指证券公司C",
+    "yield": "-0.6994",
     "sf_type": "1",
-    "unit_nav": "1.0148",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "004812",
-    "fd_name": "中欧先进制造股票A",
-    "yield": "-0.1708",
-    "sf_type": "1",
-    "unit_nav": "2.2214",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001725",
-    "fd_name": "汇添富高端制造",
-    "yield": "-0.1787",
-    "sf_type": "1",
-    "unit_nav": "2.2350",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "004476",
-    "fd_name": "景顺沪港深领先科技",
-    "yield": "-0.1939",
-    "sf_type": "1",
-    "unit_nav": "2.0590",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009602",
-    "fd_name": "招商科技动力3个月C",
-    "yield": "-0.2101",
-    "sf_type": "1",
-    "unit_nav": "0.9973",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "010505",
-    "fd_name": "申万菱信创业板量化精选股票C",
-    "yield": "-0.2220",
-    "sf_type": "1",
-    "unit_nav": "0.9888",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000867",
-    "fd_name": "华宝品质生活股票",
-    "yield": "-0.2233",
-    "sf_type": "1",
-    "unit_nav": "1.7870",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "004813",
-    "fd_name": "中欧先进制造股票C",
-    "yield": "-0.2386",
-    "sf_type": "1",
-    "unit_nav": "2.2164",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "007624",
-    "fd_name": "华安年年丰定开债A",
-    "yield": "-0.2437",
-    "sf_type": "1",
-    "unit_nav": "1.0234",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009012",
-    "fd_name": "平安创业板交易型开放式指数证券投资基金联",
-    "yield": "-0.2466",
-    "sf_type": "1",
-    "unit_nav": "1.3752",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "007717",
-    "fd_name": "工银尊享短债债券F",
-    "yield": "-0.2498",
-    "sf_type": "1",
-    "unit_nav": "1.0384",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "007625",
-    "fd_name": "华安年年丰定开债C",
-    "yield": "-0.2742",
-    "sf_type": "1",
-    "unit_nav": "1.0182",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009013",
-    "fd_name": "平安创业板交易型开放式指数证券投资基金联",
-    "yield": "-0.2763",
-    "sf_type": "1",
-    "unit_nav": "1.3714",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "519702",
-    "fd_name": "交银趋势优先股票",
-    "yield": "-0.3300",
-    "sf_type": "1",
-    "unit_nav": "2.7180",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "519068",
-    "fd_name": "汇添富成长焦点",
-    "yield": "-0.3357",
-    "sf_type": "1",
-    "unit_nav": "3.3545",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001042",
-    "fd_name": "华夏领先股票",
-    "yield": "-0.3831",
-    "sf_type": "1",
-    "unit_nav": "0.7800",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001126",
-    "fd_name": "上投摩根卓越制造股票",
-    "yield": "-0.3863",
-    "sf_type": "1",
-    "unit_nav": "1.6247",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005268",
-    "fd_name": "鹏华优势企业股票",
-    "yield": "-0.3954",
-    "sf_type": "1",
-    "unit_nav": "2.0907",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008166",
-    "fd_name": "工银消费股票A",
-    "yield": "-0.4210",
-    "sf_type": "1",
-    "unit_nav": "1.5139",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009655",
-    "fd_name": "工银尊益中短债债券A",
-    "yield": "-0.4265",
-    "sf_type": "1",
-    "unit_nav": "1.0038",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005826",
-    "fd_name": "华夏潜龙精选股票",
-    "yield": "-0.4282",
-    "sf_type": "1",
-    "unit_nav": "1.9068",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009414",
-    "fd_name": "中银大健康股票",
-    "yield": "-0.4323",
-    "sf_type": "1",
-    "unit_nav": "1.1978",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008264",
-    "fd_name": "南方ESG股票A",
-    "yield": "-0.4430",
-    "sf_type": "1",
-    "unit_nav": "1.5730",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001009",
-    "fd_name": "上投摩根安全战略股票",
-    "yield": "-0.4498",
-    "sf_type": "1",
-    "unit_nav": "1.9254",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009557",
-    "fd_name": "申万菱信创业板量化精选股票A",
-    "yield": "-0.4598",
-    "sf_type": "1",
-    "unit_nav": "1.0391",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "164205",
-    "fd_name": "天弘文化新兴产业股票",
-    "yield": "-0.4642",
-    "sf_type": "1",
-    "unit_nav": "2.4661",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "007542",
-    "fd_name": "永赢开泰中高等级中短债A",
-    "yield": "-0.4705",
-    "sf_type": "1",
-    "unit_nav": "1.0365",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008167",
-    "fd_name": "工银消费股票C",
-    "yield": "-0.4828",
-    "sf_type": "1",
-    "unit_nav": "1.5048",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009043",
-    "fd_name": "九泰久信量化股票",
-    "yield": "-0.4882",
-    "sf_type": "1",
-    "unit_nav": "1.2026",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008265",
-    "fd_name": "南方ESG股票C",
-    "yield": "-0.4899",
-    "sf_type": "1",
-    "unit_nav": "1.5639",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "007178",
-    "fd_name": "浙商中华预期高股息A",
-    "yield": "-0.5028",
-    "sf_type": "1",
-    "unit_nav": "0.9301",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001277",
-    "fd_name": "博时国企改革股票",
-    "yield": "-0.5128",
-    "sf_type": "1",
-    "unit_nav": "0.9700",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006257",
-    "fd_name": "信达澳银先进智造",
-    "yield": "-0.5138",
-    "sf_type": "1",
-    "unit_nav": "2.1882",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009896",
-    "fd_name": "广发港股通成长精选股票A类",
-    "yield": "-0.5173",
-    "sf_type": "1",
-    "unit_nav": "1.0001",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "200015",
-    "fd_name": "长城优化升级股票",
-    "yield": "-0.5205",
-    "sf_type": "1",
-    "unit_nav": "3.2106",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "007216",
-    "fd_name": "浙商中华预期高股息C",
-    "yield": "-0.5367",
-    "sf_type": "1",
-    "unit_nav": "0.9266",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008934",
-    "fd_name": "大成科技消费股票A",
-    "yield": "-0.5468",
-    "sf_type": "1",
-    "unit_nav": "1.0185",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "002861",
-    "fd_name": "工银智能制造股票",
-    "yield": "-0.5552",
-    "sf_type": "1",
-    "unit_nav": "1.6120",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009897",
-    "fd_name": "广发港股通成长精选股票C类",
-    "yield": "-0.5574",
-    "sf_type": "1",
-    "unit_nav": "0.9991",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000409",
-    "fd_name": "鹏华环保产业股票",
-    "yield": "-0.5749",
-    "sf_type": "1",
-    "unit_nav": "3.6320",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "004925",
-    "fd_name": "长信低碳环保股票",
-    "yield": "-0.5756",
-    "sf_type": "1",
-    "unit_nav": "1.5718",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "160133",
-    "fd_name": "南方天元",
-    "yield": "-0.5851",
-    "sf_type": "1",
-    "unit_nav": "4.4180",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "004683",
-    "fd_name": "建信高端医疗股票",
-    "yield": "-0.6064",
-    "sf_type": "1",
-    "unit_nav": "1.8687",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000955",
-    "fd_name": "南方产业活力",
-    "yield": "-0.6101",
-    "sf_type": "1",
-    "unit_nav": "1.7920",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008935",
-    "fd_name": "大成科技消费股票C",
-    "yield": "-0.6167",
-    "sf_type": "1",
-    "unit_nav": "1.0153",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008075",
-    "fd_name": "招商核心优选股票A",
-    "yield": "-0.6284",
-    "sf_type": "1",
-    "unit_nav": "1.3757",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001672",
-    "fd_name": "国寿安保智慧生活股票",
-    "yield": "-0.6300",
-    "sf_type": "1",
-    "unit_nav": "1.7350",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000592",
-    "fd_name": "建信改革红利股票",
-    "yield": "-0.6456",
-    "sf_type": "1",
-    "unit_nav": "4.3090",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008076",
-    "fd_name": "招商核心优选股票C",
-    "yield": "-0.6912",
-    "sf_type": "1",
-    "unit_nav": "1.3650",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "460009",
-    "fd_name": "华泰柏瑞量化先行",
-    "yield": "-0.6959",
-    "sf_type": "1",
-    "unit_nav": "1.8550",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009733",
-    "fd_name": "创金合信港股通大消费精选股票A",
-    "yield": "-0.6968",
-    "sf_type": "1",
-    "unit_nav": "0.9691",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "163110",
-    "fd_name": "申万菱信量化小盘股票",
-    "yield": "-0.7094",
-    "sf_type": "1",
-    "unit_nav": "2.1136",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001166",
-    "fd_name": "建信环保产业股票",
-    "yield": "-0.7143",
-    "sf_type": "1",
-    "unit_nav": "1.1120",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "399011",
-    "fd_name": "中海医疗保健主题股票",
-    "yield": "-0.7204",
-    "sf_type": "1",
-    "unit_nav": "2.2050",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008410",
-    "fd_name": "长盛价值发现",
-    "yield": "-0.7319",
-    "sf_type": "1",
-    "unit_nav": "1.1529",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009734",
-    "fd_name": "创金合信港股通大消费精选股票C",
-    "yield": "-0.7593",
-    "sf_type": "1",
-    "unit_nav": "0.9672",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "002952",
-    "fd_name": "建信多因子量化股票",
-    "yield": "-0.7873",
-    "sf_type": "1",
-    "unit_nav": "1.3735",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001883",
-    "fd_name": "中欧新动力混合",
-    "yield": "-0.8622",
-    "sf_type": "1",
-    "unit_nav": "3.3690",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001541",
-    "fd_name": "汇添富民营新动力",
-    "yield": "-0.8805",
-    "sf_type": "1",
-    "unit_nav": "1.5760",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "217013",
-    "fd_name": "招商中小盘股票",
-    "yield": "-0.8903",
-    "sf_type": "1",
-    "unit_nav": "3.1170",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "010128",
-    "fd_name": "宝盈发展新动能股票A",
-    "yield": "-0.8945",
-    "sf_type": "1",
-    "unit_nav": "1.0082",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006502",
-    "fd_name": "财通集成电路产业股票A",
-    "yield": "-0.8999",
-    "sf_type": "1",
-    "unit_nav": "1.8941",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001714",
-    "fd_name": "工银文体产业股票",
-    "yield": "-0.9009",
-    "sf_type": "1",
-    "unit_nav": "3.0800",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000697",
-    "fd_name": "汇添富移动互联股票",
-    "yield": "-0.9156",
-    "sf_type": "1",
-    "unit_nav": "1.9480",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "010129",
-    "fd_name": "宝盈发展新动能股票C",
-    "yield": "-0.9246",
-    "sf_type": "1",
-    "unit_nav": "1.0073",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "007553",
-    "fd_name": "中信建投医改混合C",
-    "yield": "-0.9583",
-    "sf_type": "1",
-    "unit_nav": "1.9017",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006503",
-    "fd_name": "财通集成电路产业股票C",
-    "yield": "-0.9671",
-    "sf_type": "1",
-    "unit_nav": "1.8638",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008860",
-    "fd_name": "民生加银龙头优选股票",
-    "yield": "-0.9673",
-    "sf_type": "1",
-    "unit_nav": "1.5050",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006923",
-    "fd_name": "前海开源沪港深非周期股票A",
-    "yield": "-1.0176",
-    "sf_type": "1",
-    "unit_nav": "1.4104",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006924",
-    "fd_name": "前海开源沪港深非周期股票C",
-    "yield": "-1.0359",
-    "sf_type": "1",
-    "unit_nav": "1.4043",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001490",
-    "fd_name": "汇添富国企创新股票",
-    "yield": "-1.0455",
-    "sf_type": "1",
-    "unit_nav": "1.8930",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001410",
-    "fd_name": "信达澳银新能源产业",
-    "yield": "-1.0558",
-    "sf_type": "1",
-    "unit_nav": "3.5610",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005505",
-    "fd_name": "前海开源中药股票A",
-    "yield": "-1.0844",
-    "sf_type": "1",
-    "unit_nav": "1.7057",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005506",
-    "fd_name": "前海开源中药股票C",
-    "yield": "-1.1060",
-    "sf_type": "1",
-    "unit_nav": "1.6989",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "160127",
-    "fd_name": "南方新兴消费",
-    "yield": "-1.1208",
-    "sf_type": "1",
-    "unit_nav": "0.9770",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001072",
-    "fd_name": "华安智能装备主题",
-    "yield": "-1.1370",
-    "sf_type": "1",
-    "unit_nav": "1.9130",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "007750",
-    "fd_name": "广发优势增长股票",
-    "yield": "-1.1489",
-    "sf_type": "1",
-    "unit_nav": "1.5401",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001563",
-    "fd_name": "华富健康文娱混合",
-    "yield": "-1.1620",
-    "sf_type": "1",
-    "unit_nav": "1.4460",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006106",
-    "fd_name": "景顺长城量化港股通",
-    "yield": "-1.1635",
-    "sf_type": "1",
-    "unit_nav": "0.9684",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000711",
-    "fd_name": "嘉实医疗保健",
-    "yield": "-1.1826",
-    "sf_type": "1",
-    "unit_nav": "2.8410",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "162703",
-    "fd_name": "广发小盘成长混合（LOF）",
-    "yield": "-1.1833",
-    "sf_type": "1",
-    "unit_nav": "3.2235",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "200006",
-    "fd_name": "长城消费增值股票",
-    "yield": "-1.2514",
-    "sf_type": "1",
-    "unit_nav": "1.5466",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005259",
-    "fd_name": "建信龙头企业股票",
-    "yield": "-1.2928",
-    "sf_type": "1",
-    "unit_nav": "1.9011",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005802",
-    "fd_name": "汇添富智能制造股票",
-    "yield": "-1.2989",
-    "sf_type": "1",
-    "unit_nav": "1.6186",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000925",
-    "fd_name": "汇添富外延增长股票",
-    "yield": "-1.3133",
-    "sf_type": "1",
-    "unit_nav": "1.5780",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "519975",
-    "fd_name": "长信量化中小盘股票",
-    "yield": "-1.3230",
-    "sf_type": "1",
-    "unit_nav": "1.2680",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000339",
-    "fd_name": "长城医疗保健股票",
-    "yield": "-1.3500",
-    "sf_type": "1",
-    "unit_nav": "3.6173",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001542",
-    "fd_name": "国泰互联网+股票",
-    "yield": "-1.3649",
-    "sf_type": "1",
-    "unit_nav": "2.7460",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005707",
-    "fd_name": "富国港股通量化精选股票",
-    "yield": "-1.3757",
-    "sf_type": "1",
-    "unit_nav": "1.0467",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001696",
-    "fd_name": "南方智造股票",
-    "yield": "-1.3931",
-    "sf_type": "1",
-    "unit_nav": "1.6280",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000793",
-    "fd_name": "工银高端制造股票",
-    "yield": "-1.3951",
-    "sf_type": "1",
-    "unit_nav": "1.7670",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "002300",
-    "fd_name": "长盛医疗量化股票",
-    "yield": "-1.4072",
-    "sf_type": "1",
-    "unit_nav": "2.2420",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "003745",
-    "fd_name": "广发多元新兴股票",
-    "yield": "-1.4425",
-    "sf_type": "1",
-    "unit_nav": "2.3435",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000831",
-    "fd_name": "工银医疗保健股票",
-    "yield": "-1.4507",
-    "sf_type": "1",
-    "unit_nav": "2.9890",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006981",
-    "fd_name": "中金新医药A",
-    "yield": "-1.4833",
-    "sf_type": "1",
-    "unit_nav": "1.8597",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "519018",
-    "fd_name": "汇添富均衡增长",
-    "yield": "-1.5057",
-    "sf_type": "1",
-    "unit_nav": "0.9616",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001097",
-    "fd_name": "华泰柏瑞积极优选",
-    "yield": "-1.5081",
-    "sf_type": "1",
-    "unit_nav": "0.8490",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000696",
-    "fd_name": "汇添富环保行业股票",
-    "yield": "-1.5091",
-    "sf_type": "1",
-    "unit_nav": "1.9580",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008107",
-    "fd_name": "华商医药医疗行业股票",
-    "yield": "-1.5119",
-    "sf_type": "1",
-    "unit_nav": "1.4071",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "007005",
-    "fd_name": "中金新医药C",
-    "yield": "-1.5135",
-    "sf_type": "1",
-    "unit_nav": "1.8415",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "002387",
-    "fd_name": "工银沪港深股票A",
-    "yield": "-1.5284",
-    "sf_type": "1",
-    "unit_nav": "1.3465",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "004450",
-    "fd_name": "嘉实前沿科技沪港深",
-    "yield": "-1.5334",
-    "sf_type": "1",
-    "unit_nav": "2.1383",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001195",
-    "fd_name": "工银农业产业股票",
-    "yield": "-1.5349",
-    "sf_type": "1",
-    "unit_nav": "1.2830",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "007512",
-    "fd_name": "工银沪港深股票C",
-    "yield": "-1.5752",
-    "sf_type": "1",
-    "unit_nav": "1.3434",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001790",
-    "fd_name": "国泰智能汽车股票",
-    "yield": "-1.5992",
-    "sf_type": "1",
-    "unit_nav": "1.9690",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "217001",
-    "fd_name": "招商安泰股票",
-    "yield": "-1.6117",
-    "sf_type": "1",
-    "unit_nav": "0.5311",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001171",
-    "fd_name": "工银养老产业股票",
-    "yield": "-1.6139",
-    "sf_type": "1",
-    "unit_nav": "1.6460",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000780",
-    "fd_name": "鹏华医疗保健股票",
-    "yield": "-1.6218",
-    "sf_type": "1",
-    "unit_nav": "2.4870",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001717",
-    "fd_name": "工银前沿医疗股票",
-    "yield": "-1.6342",
-    "sf_type": "1",
-    "unit_nav": "3.4310",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000960",
-    "fd_name": "招商医药股票",
-    "yield": "-1.6426",
-    "sf_type": "1",
-    "unit_nav": "2.9340",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001396",
-    "fd_name": "建信互联网+产业升级",
-    "yield": "-1.6502",
-    "sf_type": "1",
-    "unit_nav": "1.1920",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "002980",
-    "fd_name": "华夏创新前沿股票",
-    "yield": "-1.6810",
-    "sf_type": "1",
-    "unit_nav": "2.2810",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "004075",
-    "fd_name": "交银医药创新股票",
-    "yield": "-1.7280",
-    "sf_type": "1",
-    "unit_nav": "3.1221",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "010013",
-    "fd_name": "易方达信息行业精选股票",
-    "yield": "-1.7386",
-    "sf_type": "1",
-    "unit_nav": "1.0060",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009491",
-    "fd_name": "宝盈创新驱动A",
-    "yield": "-1.7445",
-    "sf_type": "1",
-    "unit_nav": "1.0307",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009492",
-    "fd_name": "宝盈创新驱动C",
-    "yield": "-1.7849",
-    "sf_type": "1",
-    "unit_nav": "1.0290",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "003853",
-    "fd_name": "金鹰信息产业股票A",
-    "yield": "-1.7933",
-    "sf_type": "1",
-    "unit_nav": "2.8751",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005885",
-    "fd_name": "金鹰信息产业股票C",
-    "yield": "-1.8283",
-    "sf_type": "1",
-    "unit_nav": "2.8781",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009513",
-    "fd_name": "创金合信同顺创业板精选股票A",
-    "yield": "-1.8440",
-    "sf_type": "1",
-    "unit_nav": "1.0859",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009881",
-    "fd_name": "广发医疗指数（LOF）C类",
-    "yield": "-1.8443",
-    "sf_type": "1",
-    "unit_nav": "1.3305",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001766",
-    "fd_name": "上投摩根医疗健康股票",
-    "yield": "-1.8611",
-    "sf_type": "1",
-    "unit_nav": "2.3465",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001726",
-    "fd_name": "汇添富新兴消费股票",
-    "yield": "-1.8659",
-    "sf_type": "1",
-    "unit_nav": "1.6830",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009514",
-    "fd_name": "创金合信同顺创业板精选股票C",
-    "yield": "-1.8835",
-    "sf_type": "1",
-    "unit_nav": "1.0835",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001576",
-    "fd_name": "国泰智能装备股票",
-    "yield": "-1.8908",
-    "sf_type": "1",
-    "unit_nav": "2.2830",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "000979",
-    "fd_name": "景顺长城沪港深精选",
-    "yield": "-1.9035",
-    "sf_type": "1",
-    "unit_nav": "1.4430",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "200012",
-    "fd_name": "长城中小盘股票",
-    "yield": "-1.9326",
-    "sf_type": "1",
-    "unit_nav": "3.0193",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "519935",
-    "fd_name": "长信创新驱动股票",
-    "yield": "-1.9608",
-    "sf_type": "1",
-    "unit_nav": "1.7500",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "002121",
-    "fd_name": "广发沪港深新起点",
-    "yield": "-1.9896",
-    "sf_type": "1",
-    "unit_nav": "1.8079",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001956",
-    "fd_name": "国联安科技动力",
-    "yield": "-2.0136",
-    "sf_type": "1",
-    "unit_nav": "1.8930",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "010024",
-    "fd_name": "广发沪港深新起点股票C类",
-    "yield": "-2.0227",
-    "sf_type": "1",
-    "unit_nav": "1.8068",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "003069",
-    "fd_name": "光大保德信量化优选股票",
-    "yield": "-2.0231",
-    "sf_type": "1",
-    "unit_nav": "1.5352",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005620",
-    "fd_name": "中欧品质消费股票A",
-    "yield": "-2.0543",
-    "sf_type": "1",
-    "unit_nav": "2.3696",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "007527",
-    "fd_name": "融通量化多策略A",
-    "yield": "-2.0945",
-    "sf_type": "1",
-    "unit_nav": "1.7202",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "004292",
-    "fd_name": "鹏华沪深港互联网",
-    "yield": "-2.1148",
-    "sf_type": "1",
-    "unit_nav": "1.8931",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005621",
-    "fd_name": "中欧品质消费股票C",
-    "yield": "-2.1256",
-    "sf_type": "1",
-    "unit_nav": "2.3207",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "007528",
-    "fd_name": "融通量化多策略C",
-    "yield": "-2.1359",
-    "sf_type": "1",
-    "unit_nav": "1.7090",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009162",
-    "fd_name": "富国医药成长30股票",
-    "yield": "-2.1546",
-    "sf_type": "1",
-    "unit_nav": "1.0990",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "002229",
-    "fd_name": "华夏经济转型股票",
-    "yield": "-2.1978",
-    "sf_type": "1",
-    "unit_nav": "2.2250",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006002",
-    "fd_name": "工银医药健康行业股票A",
-    "yield": "-2.3319",
-    "sf_type": "1",
-    "unit_nav": "2.8104",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006003",
-    "fd_name": "工银医药健康行业股票C",
-    "yield": "-2.3809",
-    "sf_type": "1",
-    "unit_nav": "2.7676",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "006751",
-    "fd_name": "富国互联科技股票",
-    "yield": "-2.4409",
-    "sf_type": "1",
-    "unit_nav": "2.4461",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001692",
-    "fd_name": "南方国策动力",
-    "yield": "-2.4471",
-    "sf_type": "1",
-    "unit_nav": "2.0730",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009398",
-    "fd_name": "华富成长企业精选股票",
-    "yield": "-2.4757",
-    "sf_type": "1",
-    "unit_nav": "1.0242",
+    "unit_nav": "1.2921",
     "f_type": "fund"
   },
   {
     "fd_code": "002621",
     "fd_name": "中欧消费主题股票A",
-    "yield": "-2.4771",
+    "yield": "-0.7338",
     "sf_type": "1",
-    "unit_nav": "2.8740",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "008445",
-    "fd_name": "融通产业趋势先锋股票",
-    "yield": "-2.4780",
-    "sf_type": "1",
-    "unit_nav": "1.1413",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "004784",
-    "fd_name": "招商稳健优选股票",
-    "yield": "-2.5148",
-    "sf_type": "1",
-    "unit_nav": "1.9576",
+    "unit_nav": "2.8410",
     "f_type": "fund"
   },
   {
     "fd_code": "002697",
     "fd_name": "中欧消费主题股票C",
-    "yield": "-2.5196",
+    "yield": "-0.8067",
     "sf_type": "1",
-    "unit_nav": "2.8630",
+    "unit_nav": "2.8280",
     "f_type": "fund"
   },
   {
-    "fd_code": "001685",
-    "fd_name": "汇添富沪港深新价值",
-    "yield": "-2.6387",
+    "fd_code": "000893",
+    "fd_name": "工银创新动力股票",
+    "yield": "-0.8424",
     "sf_type": "1",
-    "unit_nav": "1.4390",
+    "unit_nav": "0.8240",
     "f_type": "fund"
   },
   {
-    "fd_code": "001167",
-    "fd_name": "金鹰科技创新股票",
-    "yield": "-2.6419",
+    "fd_code": "000309",
+    "fd_name": "大摩品质生活股票",
+    "yield": "-1.1084",
     "sf_type": "1",
-    "unit_nav": "0.9950",
+    "unit_nav": "3.3010",
     "f_type": "fund"
   },
   {
-    "fd_code": "007107",
-    "fd_name": "太平MSCI香港价值增强A",
-    "yield": "-2.7183",
+    "fd_code": "008283",
+    "fd_name": "易方达金融行业股票",
+    "yield": "-1.1453",
     "sf_type": "1",
-    "unit_nav": "0.8768",
+    "unit_nav": "1.2774",
     "f_type": "fund"
   },
   {
-    "fd_code": "007108",
-    "fd_name": "太平MSCI香港价值增强C",
-    "yield": "-2.7518",
+    "fd_code": "006144",
+    "fd_name": "恒生前海中证质量成长低波动指数C",
+    "yield": "-1.1514",
     "sf_type": "1",
-    "unit_nav": "0.8729",
+    "unit_nav": "1.3736",
     "f_type": "fund"
   },
   {
-    "fd_code": "001476",
-    "fd_name": "中银智能制造股票",
-    "yield": "-2.8807",
+    "fd_code": "005505",
+    "fd_name": "前海开源中药股票A",
+    "yield": "-1.2928",
     "sf_type": "1",
-    "unit_nav": "1.4160",
+    "unit_nav": "1.6950",
     "f_type": "fund"
   },
   {
-    "fd_code": "005303",
-    "fd_name": "嘉实医药健康股票A",
-    "yield": "-3.0176",
+    "fd_code": "005506",
+    "fd_name": "前海开源中药股票C",
+    "yield": "-1.3154",
     "sf_type": "1",
-    "unit_nav": "2.0826",
+    "unit_nav": "1.6880",
     "f_type": "fund"
   },
   {
-    "fd_code": "162006",
-    "fd_name": "长城久富核心成长股票",
-    "yield": "-3.0588",
+    "fd_code": "003232",
+    "fd_name": "创金合信金融地产股票A",
+    "yield": "-1.3992",
     "sf_type": "1",
-    "unit_nav": "2.0125",
+    "unit_nav": "1.1698",
     "f_type": "fund"
   },
   {
-    "fd_code": "005304",
-    "fd_name": "嘉实医药健康股票C",
-    "yield": "-3.0820",
+    "fd_code": "008134",
+    "fd_name": "鹏华优选价值股票",
+    "yield": "-1.4330",
     "sf_type": "1",
-    "unit_nav": "2.0346",
+    "unit_nav": "1.1487",
     "f_type": "fund"
   },
   {
-    "fd_code": "005777",
-    "fd_name": "广发科技动力股票",
-    "yield": "-3.0820",
+    "fd_code": "003233",
+    "fd_name": "创金合信金融地产股票C",
+    "yield": "-1.4554",
     "sf_type": "1",
-    "unit_nav": "2.0440",
+    "unit_nav": "1.1511",
     "f_type": "fund"
   },
   {
-    "fd_code": "001040",
-    "fd_name": "新华策略精选股票",
-    "yield": "-3.1858",
+    "fd_code": "001917",
+    "fd_name": "招商量化精选股票",
+    "yield": "-1.4610",
     "sf_type": "1",
-    "unit_nav": "2.1880",
+    "unit_nav": "1.5917",
     "f_type": "fund"
   },
   {
-    "fd_code": "519694",
-    "fd_name": "交银蓝筹股票",
-    "yield": "-3.1936",
+    "fd_code": "010434",
+    "fd_name": "红土创新医疗保健股票",
+    "yield": "-1.5997",
     "sf_type": "1",
-    "unit_nav": "1.0852",
+    "unit_nav": "0.9842",
     "f_type": "fund"
   },
   {
-    "fd_code": "001764",
-    "fd_name": "广发沪港深股票",
-    "yield": "-3.3624",
+    "fd_code": "003492",
+    "fd_name": "前海开源外向企业",
+    "yield": "-1.9541",
     "sf_type": "1",
-    "unit_nav": "1.5520",
+    "unit_nav": "1.3146",
     "f_type": "fund"
   },
   {
-    "fd_code": "206012",
-    "fd_name": "鹏华价值精选",
-    "yield": "-3.3729",
+    "fd_code": "001678",
+    "fd_name": "英大国企改革主题股票",
+    "yield": "-2.1437",
     "sf_type": "1",
-    "unit_nav": "2.6070",
+    "unit_nav": "1.6844",
     "f_type": "fund"
   },
   {
-    "fd_code": "006868",
-    "fd_name": "华夏科技成长股票",
-    "yield": "-3.5644",
+    "fd_code": "006138",
+    "fd_name": "国联安价值优选股票",
+    "yield": "-2.9149",
     "sf_type": "1",
-    "unit_nav": "1.8073",
+    "unit_nav": "1.8918",
     "f_type": "fund"
   },
   {
-    "fd_code": "001404",
-    "fd_name": "招商移动互联网产业",
-    "yield": "-3.5686",
+    "fd_code": "008618",
+    "fd_name": "永赢医药健康A",
+    "yield": "-3.6887",
     "sf_type": "1",
-    "unit_nav": "1.2160",
+    "unit_nav": "1.1619",
     "f_type": "fund"
   },
   {
-    "fd_code": "005962",
-    "fd_name": "宝盈人工智能主题股票A",
-    "yield": "-3.6228",
+    "fd_code": "008619",
+    "fd_name": "永赢医药健康C",
+    "yield": "-3.7092",
     "sf_type": "1",
-    "unit_nav": "2.6204",
+    "unit_nav": "1.1604",
     "f_type": "fund"
   },
   {
-    "fd_code": "005963",
-    "fd_name": "宝盈人工智能主题股票C",
-    "yield": "-3.6844",
+    "fd_code": "001208",
+    "fd_name": "诺安低碳经济股票A",
+    "yield": "-3.8100",
     "sf_type": "1",
-    "unit_nav": "2.5723",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005894",
-    "fd_name": "华夏优势精选股票",
-    "yield": "-3.7508",
-    "sf_type": "1",
-    "unit_nav": "1.7270",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "007903",
-    "fd_name": "长城量化小盘股票",
-    "yield": "-3.8222",
-    "sf_type": "1",
-    "unit_nav": "1.1902",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "003230",
-    "fd_name": "创金合信医疗保健股票A",
-    "yield": "-3.8321",
-    "sf_type": "1",
-    "unit_nav": "2.7856",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005009",
-    "fd_name": "申万菱信行业轮动",
-    "yield": "-3.8676",
-    "sf_type": "1",
-    "unit_nav": "1.4665",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "003231",
-    "fd_name": "创金合信医疗保健股票C",
-    "yield": "-3.8911",
-    "sf_type": "1",
-    "unit_nav": "2.7565",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "001915",
-    "fd_name": "宝盈医疗健康股票",
-    "yield": "-3.9120",
-    "sf_type": "1",
-    "unit_nav": "1.9650",
+    "unit_nav": "1.7420",
     "f_type": "fund"
   },
   {
@@ -4376,27 +4496,59 @@
     "f_type": "fund"
   },
   {
-    "fd_code": "160322",
-    "fd_name": "华夏港股通精选股票",
-    "yield": "-4.7747",
+    "fd_code": "009805",
+    "fd_name": "国泰医药健康股票",
+    "yield": "-4.5455",
     "sf_type": "1",
-    "unit_nav": "1.4579",
+    "unit_nav": "0.9429",
     "f_type": "fund"
   },
   {
-    "fd_code": "001663",
-    "fd_name": "中银互联网+股票",
-    "yield": "-5.1380",
+    "fd_code": "005662",
+    "fd_name": "嘉实金融精选股票A",
+    "yield": "-4.9296",
     "sf_type": "1",
-    "unit_nav": "1.2370",
+    "unit_nav": "1.3982",
     "f_type": "fund"
   },
   {
-    "fd_code": "003492",
-    "fd_name": "前海开源外向企业",
-    "yield": "-6.0862",
+    "fd_code": "005663",
+    "fd_name": "嘉实金融精选股票C",
+    "yield": "-4.9707",
     "sf_type": "1",
-    "unit_nav": "1.3332",
+    "unit_nav": "1.3784",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006818",
+    "fd_name": "安信盈利驱动股票A",
+    "yield": "-5.1242",
+    "sf_type": "1",
+    "unit_nav": "1.6423",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006819",
+    "fd_name": "安信盈利驱动股票C",
+    "yield": "-5.1548",
+    "sf_type": "1",
+    "unit_nav": "1.6302",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "006926",
+    "fd_name": "长城量化精选股票",
+    "yield": "-5.2574",
+    "sf_type": "1",
+    "unit_nav": "1.2903",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "001583",
+    "fd_name": "安信新常态股票",
+    "yield": "-5.4393",
+    "sf_type": "1",
+    "unit_nav": "1.3560",
     "f_type": "fund"
   },
   {
@@ -4468,62 +4620,6 @@
     "f_type": "fund"
   },
   {
-    "fd_code": "010409",
-    "fd_name": "富国消费精选30股票",
-    "sf_type": "1",
-    "unit_nav": "0.9991",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009852",
-    "fd_name": "银华品质消费股票",
-    "sf_type": "1",
-    "unit_nav": "1.0040",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "005433",
-    "fd_name": "申万菱信医药先锋股票",
-    "sf_type": "1",
-    "unit_nav": "1.0000",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009865",
-    "fd_name": "招商景气优选股票C",
-    "sf_type": "1",
-    "unit_nav": "1.0007",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "009864",
-    "fd_name": "招商景气优选股票A",
-    "sf_type": "1",
-    "unit_nav": "1.0010",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "010585",
-    "fd_name": "创金合信医药消费股票A",
-    "sf_type": "1",
-    "unit_nav": "1.0001",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "010586",
-    "fd_name": "创金合信医药消费股票C",
-    "sf_type": "1",
-    "unit_nav": "1.0001",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "010420",
-    "fd_name": "民生加银成长优选股票",
-    "sf_type": "1",
-    "unit_nav": "1.0053",
-    "f_type": "fund"
-  },
-  {
     "fd_code": "007354",
     "fd_name": "创金合信港股通量化股票A",
     "sf_type": "1",
@@ -4538,64 +4634,176 @@
     "f_type": "fund"
   },
   {
-    "fd_code": "010685",
-    "fd_name": "工银前沿医疗股票C",
-    "sf_type": "1",
-    "unit_nav": "3.4310",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "010687",
-    "fd_name": "工银文体产业股票C",
-    "sf_type": "1",
-    "unit_nav": "3.0810",
-    "f_type": "fund"
-  },
-  {
     "fd_code": "010341",
     "fd_name": "招商产业精选股票A",
     "sf_type": "1",
-    "unit_nav": "1.0000",
+    "unit_nav": "1.0337",
     "f_type": "fund"
   },
   {
     "fd_code": "010342",
     "fd_name": "招商产业精选股票C",
     "sf_type": "1",
-    "unit_nav": "1.0000",
+    "unit_nav": "1.0334",
     "f_type": "fund"
   },
   {
     "fd_code": "009727",
     "fd_name": "招商中证500指数增强C",
     "sf_type": "1",
-    "unit_nav": "1.0000",
+    "unit_nav": "1.0154",
     "f_type": "fund"
   },
   {
     "fd_code": "009726",
     "fd_name": "招商中证500指数增强A",
     "sf_type": "1",
-    "unit_nav": "1.0000",
-    "f_type": "fund"
-  },
-  {
-    "fd_code": "010789",
-    "fd_name": "汇添富恒生指数型证券投资基金（QDII-LOF",
-    "sf_type": "1",
-    "unit_nav": "1.0645",
+    "unit_nav": "1.0156",
     "f_type": "fund"
   },
   {
     "fd_code": "010161",
     "fd_name": "广发瑞安精选股票A",
     "sf_type": "1",
-    "unit_nav": "1.0000",
+    "unit_nav": "1.0131",
     "f_type": "fund"
   },
   {
     "fd_code": "010162",
     "fd_name": "广发瑞安精选股票C",
+    "sf_type": "1",
+    "unit_nav": "1.0129",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010606",
+    "fd_name": "创金合信鑫祥混合C",
+    "sf_type": "1",
+    "unit_nav": "1.0000",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010495",
+    "fd_name": "创金合信创新驱动股票A",
+    "sf_type": "1",
+    "unit_nav": "0.9997",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010496",
+    "fd_name": "创金合信创新驱动股票C",
+    "sf_type": "1",
+    "unit_nav": "0.9997",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010812",
+    "fd_name": "中银战略新兴C类",
+    "sf_type": "1",
+    "unit_nav": "2.7150",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010873",
+    "fd_name": "博时沪深300指数增强发起式C",
+    "sf_type": "1",
+    "unit_nav": "1.0027",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010872",
+    "fd_name": "博时沪深300指数增强发起式A",
+    "sf_type": "1",
+    "unit_nav": "1.0027",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010990",
+    "fd_name": "南方有色金属联接E",
+    "sf_type": "1",
+    "unit_nav": "1.0670",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010989",
+    "fd_name": "南方房地产联接E",
+    "sf_type": "1",
+    "unit_nav": "0.8494",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010703",
+    "fd_name": "财通智选消费股票A",
+    "sf_type": "1",
+    "unit_nav": "1.0000",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010704",
+    "fd_name": "财通智选消费股票C",
+    "sf_type": "1",
+    "unit_nav": "1.0000",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010770",
+    "fd_name": "天弘中证农业主题C",
+    "sf_type": "1",
+    "unit_nav": "1.0000",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010769",
+    "fd_name": "天弘中证农业主题A",
+    "sf_type": "1",
+    "unit_nav": "1.0000",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010709",
+    "fd_name": "安信医药健康股票A",
+    "sf_type": "1",
+    "unit_nav": "1.0000",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010710",
+    "fd_name": "安信医药健康股票C",
+    "sf_type": "1",
+    "unit_nav": "1.0000",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010956",
+    "fd_name": "天弘中证智能汽车C",
+    "sf_type": "1",
+    "unit_nav": "1.0000",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010955",
+    "fd_name": "天弘中证智能汽车A",
+    "sf_type": "1",
+    "unit_nav": "1.0000",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010524",
+    "fd_name": "银华中证5G通信联接C",
+    "sf_type": "1",
+    "unit_nav": "0.9194",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010892",
+    "fd_name": "中银证券精选行业股票A",
+    "sf_type": "1",
+    "unit_nav": "1.0000",
+    "f_type": "fund"
+  },
+  {
+    "fd_code": "010893",
+    "fd_name": "中银证券精选行业股票C",
     "sf_type": "1",
     "unit_nav": "1.0000",
     "f_type": "fund"

@@ -15,8 +15,8 @@
           "name": "美亚柏科",
           "code": "300188",
           "percent": 9.91,
-          "current_price": 23.33,
-          "change_percentage": 1.97,
+          "current_price": 22.25,
+          "change_percentage": 3.3,
           "xq_symbol": "SZ300188",
           "xq_url": "https://xueqiu.com/S/SZ300188",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "深信服",
           "code": "300454",
           "percent": 7.61,
-          "current_price": 217.55,
-          "change_percentage": 3.2,
+          "current_price": 266,
+          "change_percentage": 7.25,
           "xq_symbol": "SZ300454",
           "xq_url": "https://xueqiu.com/S/SZ300454",
           "amarket": true
@@ -43,8 +43,8 @@
           "name": "三环集团",
           "code": "300408",
           "percent": 4.61,
-          "current_price": 34.98,
-          "change_percentage": 1.75,
+          "current_price": 37.01,
+          "change_percentage": -0.64,
           "xq_symbol": "SZ300408",
           "xq_url": "https://xueqiu.com/S/SZ300408",
           "amarket": true
@@ -61,8 +61,8 @@
           "name": "思创医惠",
           "code": "300078",
           "percent": 3.53,
-          "current_price": 9.83,
-          "change_percentage": -0.71,
+          "current_price": 9,
+          "change_percentage": -0.55,
           "xq_symbol": "SZ300078",
           "xq_url": "https://xueqiu.com/S/SZ300078",
           "amarket": true
@@ -79,8 +79,8 @@
           "name": "华润微",
           "code": "688396",
           "percent": 3.43,
-          "current_price": 69.39,
-          "change_percentage": 0.59,
+          "current_price": 62.54,
+          "change_percentage": 0.08,
           "xq_symbol": "SH688396",
           "xq_url": "https://xueqiu.com/S/SH688396",
           "amarket": true
@@ -89,8 +89,8 @@
           "name": "歌尔股份",
           "code": "002241",
           "percent": 3.29,
-          "current_price": 37.16,
-          "change_percentage": -2.24,
+          "current_price": 36.74,
+          "change_percentage": -1.55,
           "xq_symbol": "SZ002241",
           "xq_url": "https://xueqiu.com/S/SZ002241",
           "amarket": true
@@ -99,8 +99,8 @@
           "name": "光环新网",
           "code": "300383",
           "percent": 3.19,
-          "current_price": 18.86,
-          "change_percentage": -0.58,
+          "current_price": 17.36,
+          "change_percentage": 1.11,
           "xq_symbol": "SZ300383",
           "xq_url": "https://xueqiu.com/S/SZ300383",
           "amarket": true
@@ -156,43 +156,43 @@
         "name": "许文星",
         "resume": "    上海交通大学计算机科学与技术,2014年 3月至 2016年 3月任光大保德信基金管理有限公司研究部行业研究员,2016年 4月至 2018年 1月任光大保德信基金管理有限公司投资经理。2018年 2月起加入中欧基金管理有限公司,拟任基金经理。2018年04月16日任中欧瑾和灵活配置混合型证券投资基金、中欧养老产业混合型证券投资基金、中欧嘉泽灵活配置混合型证券投资基金、中欧新动力混合型证券投资基金(LOF)的基金经理。",
         "college": "上海交通大学",
-        "work_year": "6",
+        "work_year": "7",
         "achievement_list": [
           {
             "fund_code": "010429",
             "fundsname": "中欧睿见混合",
             "post_date": "2020-11-06",
-            "cp_rate": 0.4
+            "cp_rate": -0.5899
           },
           {
             "fund_code": "009791",
             "fundsname": "中欧创业板两年定期开放混合C",
             "post_date": "2020-07-16",
-            "cp_rate": 5.35
+            "cp_rate": 6.74
           },
           {
             "fund_code": "166027",
             "fundsname": "中欧创业板两年定期开放混合A",
             "post_date": "2020-07-16",
-            "cp_rate": 5.59
+            "cp_rate": 7.03
           },
           {
             "fund_code": "004616",
             "fundsname": "中欧电子信息产业沪港深股票A",
             "post_date": "2020-05-18",
-            "cp_rate": 23.9596
+            "cp_rate": 29.874
           },
           {
             "fund_code": "005763",
             "fundsname": "中欧电子信息产业沪港深股票C",
             "post_date": "2020-05-18",
-            "cp_rate": 23.4121
+            "cp_rate": 29.2375
           },
           {
             "fund_code": "005421",
             "fundsname": "中欧嘉泽灵活配置混合",
             "post_date": "2018-04-16",
-            "cp_rate": 127.6256
+            "cp_rate": 133.7511
           },
           {
             "fund_code": "001174",
@@ -212,25 +212,25 @@
             "fund_code": "001955",
             "fundsname": "中欧养老产业混合",
             "post_date": "2018-04-16",
-            "cp_rate": 109.1667
+            "cp_rate": 104.6667
           },
           {
             "fund_code": "166009",
             "fundsname": "中欧新动力混合A(LOF)",
             "post_date": "2018-04-16",
-            "cp_rate": 110.8581
+            "cp_rate": 117.4466
           },
           {
             "fund_code": "004236",
             "fundsname": "中欧新动力混合C",
             "post_date": "2018-04-16",
-            "cp_rate": 108.5502
+            "cp_rate": 114.9533
           },
           {
             "fund_code": "001883",
             "fundsname": "中欧新动力混合E",
             "post_date": "2018-04-16",
-            "cp_rate": 110.7304
+            "cp_rate": 117.3112
           }
         ]
       },
@@ -242,25 +242,25 @@
             "fund_code": "010682",
             "fundsname": "中欧创新未来18个月封闭运作混合B",
             "post_date": "2020-11-23",
-            "cp_rate": -1.1196
+            "cp_rate": 0.5791
           },
           {
             "fund_code": "010316",
             "fundsname": "中欧创新未来18个月封闭运作混合C",
             "post_date": "2020-10-09",
-            "cp_rate": 2.45
+            "cp_rate": 10.84
           },
           {
             "fund_code": "005763",
             "fundsname": "中欧电子信息产业沪港深股票C",
             "post_date": "2020-08-14",
-            "cp_rate": 3.047
+            "cp_rate": 7.911
           },
           {
             "fund_code": "004616",
             "fundsname": "中欧电子信息产业沪港深股票A",
             "post_date": "2020-08-14",
-            "cp_rate": 3.3087
+            "cp_rate": 8.2378
           }
         ]
       }

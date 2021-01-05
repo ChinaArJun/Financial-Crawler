@@ -15,8 +15,8 @@
           "name": "亿纬锂能",
           "code": "300014",
           "percent": 9.4,
-          "current_price": 63.71,
-          "change_percentage": 4.17,
+          "current_price": 93.49,
+          "change_percentage": 14.71,
           "xq_symbol": "SZ300014",
           "xq_url": "https://xueqiu.com/S/SZ300014",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "紫光国微",
           "code": "002049",
           "percent": 9.38,
-          "current_price": 111.3,
-          "change_percentage": 0.45,
+          "current_price": 141.85,
+          "change_percentage": 6.01,
           "xq_symbol": "SZ002049",
           "xq_url": "https://xueqiu.com/S/SZ002049",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 8.35,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "保利地产",
           "code": "600048",
           "percent": 7.71,
-          "current_price": 16.46,
-          "change_percentage": -0.48,
+          "current_price": 15.29,
+          "change_percentage": -3.35,
           "xq_symbol": "SH600048",
           "xq_url": "https://xueqiu.com/S/SH600048",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "东方雨虹",
           "code": "002271",
           "percent": 5.83,
-          "current_price": 35.92,
-          "change_percentage": 0.25,
+          "current_price": 39.48,
+          "change_percentage": 1.75,
           "xq_symbol": "SZ002271",
           "xq_url": "https://xueqiu.com/S/SZ002271",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "中航光电",
           "code": "002179",
           "percent": 4.36,
-          "current_price": 65.41,
-          "change_percentage": 0.97,
+          "current_price": 85.39,
+          "change_percentage": 9.07,
           "xq_symbol": "SZ002179",
           "xq_url": "https://xueqiu.com/S/SZ002179",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "新城控股",
           "code": "601155",
           "percent": 3.15,
-          "current_price": 35.19,
-          "change_percentage": -0.26,
+          "current_price": 33.59,
+          "change_percentage": -3.56,
           "xq_symbol": "SH601155",
           "xq_url": "https://xueqiu.com/S/SH601155",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "巨星科技",
           "code": "002444",
           "percent": 3.05,
-          "current_price": 27.5,
-          "change_percentage": 1.33,
+          "current_price": 31.14,
+          "change_percentage": 0.1,
           "xq_symbol": "SZ002444",
           "xq_url": "https://xueqiu.com/S/SZ002444",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "一拖股份",
           "code": "601038",
           "percent": 3.04,
-          "current_price": 11.32,
-          "change_percentage": 0.09,
+          "current_price": 12.39,
+          "change_percentage": 1.81,
           "xq_symbol": "SH601038",
           "xq_url": "https://xueqiu.com/S/SH601038",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "鲁商发展",
           "code": "600223",
           "percent": 2.67,
-          "current_price": 11.15,
-          "change_percentage": 1.36,
+          "current_price": 8.48,
+          "change_percentage": -0.47,
           "xq_symbol": "SH600223",
           "xq_url": "https://xueqiu.com/S/SH600223",
           "amarket": true
@@ -176,26 +176,26 @@
     "manager_list": [
       {
         "name": "郭斐",
-        "resume": "    郭斐先生,复旦大学经济学学士,10年证券投资行业经验。2009年8月至2014年3月于高盛(亚洲)有限责任公司/高华证券公司任职。2014年加入交银施罗德基金管理有限公司,担任行业分析师。2016年1月1日至2017年9月22日任交银施罗德稳健配置混合型证券投资基金基金经理助理,2017年9月26日起任交银施罗德成长30混合型证券投资基金基金经理至今,2018年6月2日起任交银施罗德经济新动力混合型证券投资基金基金经理至今。",
-        "work_year": "11",
+        "resume": "    郭斐先生:基金经理。复旦大学经济学学士,11年证券投资行业从业经验。\n    2009年至2014年于高盛(亚洲)有限责任公司/高华证券公司任职。2014年加入交银施罗德基金管理有限公司,曾任研究部行业分析师,现任权益部基金经理。现任交银施罗德成长30混合型证券投资基金(2017年09月26日至今)、交银施罗德经济新动力混合型证券投资基金(2018年06月02日至今)、交银施罗德创新领航混合型证券投资基金(2020年02月27日至今)的基金经理。",
+        "work_year": "12",
         "achievement_list": [
           {
             "fund_code": "008955",
             "fundsname": "交银施罗德创新领航混合",
             "post_date": "2020-02-27",
-            "cp_rate": 33.55
+            "cp_rate": 49.99
           },
           {
             "fund_code": "519778",
             "fundsname": "交银经济新动力混合",
             "post_date": "2018-06-02",
-            "cp_rate": 162.9846
+            "cp_rate": 195.0736
           },
           {
             "fund_code": "519727",
             "fundsname": "交银施罗德成长30混合",
             "post_date": "2017-09-26",
-            "cp_rate": 124.4211
+            "cp_rate": 150.4779
           }
         ]
       }

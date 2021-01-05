@@ -16,8 +16,8 @@
           "name": "中国平安",
           "code": "601318",
           "percent": 4.51,
-          "current_price": 88.05,
-          "change_percentage": -2.58,
+          "current_price": 85.18,
+          "change_percentage": -2.07,
           "xq_symbol": "SH601318",
           "xq_url": "https://xueqiu.com/S/SH601318",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "招商银行",
           "code": "600036",
           "percent": 4.45,
-          "current_price": 44.26,
-          "change_percentage": -0.36,
+          "current_price": 43.17,
+          "change_percentage": -1.77,
           "xq_symbol": "SH600036",
           "xq_url": "https://xueqiu.com/S/SH600036",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 3.56,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "中国中免",
           "code": "601888",
           "percent": 2.38,
-          "current_price": 208.03,
-          "change_percentage": 0.13,
+          "current_price": 292.25,
+          "change_percentage": 3.47,
           "xq_symbol": "SH601888",
           "xq_url": "https://xueqiu.com/S/SH601888",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "万华化学",
           "code": "600309",
           "percent": 2.37,
-          "current_price": 82.99,
-          "change_percentage": -0.3,
+          "current_price": 94.12,
+          "change_percentage": 3.38,
           "xq_symbol": "SH600309",
           "xq_url": "https://xueqiu.com/S/SH600309",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 2.34,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "药明康德",
           "code": "603259",
           "percent": 1.84,
-          "current_price": 110.9,
-          "change_percentage": -0.12,
+          "current_price": 137.11,
+          "change_percentage": 1.77,
           "xq_symbol": "SH603259",
           "xq_url": "https://xueqiu.com/S/SH603259",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 1.82,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "五粮液",
           "code": "000858",
           "percent": 1.71,
-          "current_price": 272,
-          "change_percentage": 0.65,
+          "current_price": 298.05,
+          "change_percentage": 2.12,
           "xq_symbol": "SZ000858",
           "xq_url": "https://xueqiu.com/S/SZ000858",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "宁波银行",
           "code": "002142",
           "percent": 1.58,
-          "current_price": 35.74,
-          "change_percentage": 0.65,
+          "current_price": 34.94,
+          "change_percentage": -1.13,
           "xq_symbol": "SZ002142",
           "xq_url": "https://xueqiu.com/S/SZ002142",
           "amarket": true
@@ -165,49 +165,49 @@
         "name": "劳杰男",
         "resume": "    劳杰男,国籍:中国。学历:复旦大学经济学硕士。10年证券从业经验。\n    从业经历:2010年 7月加入汇添富基金管理股份有限公司,现任研究总监。2015年 7月 10日至 2018年 3月 1日任汇添富国企创新股票基金的基金经理,2015年 11月 18日至今任汇添富价值精选混合基金的基金经理,2018年 2月 13日至2019年 2月 22日任添富沪港深大盘价值混合基金的基金经理,2019年 1月 31日至今任添富 3年封闭研究优选混合基金的基金经理,2019年 4月 26日至今任添富红利增长混合基金的基金经理,2020年 7月 22日至今任汇添富开放视野中国优势六个月持有股票基金的基金经理。",
         "college": "复旦大学",
-        "work_year": "10",
+        "work_year": "11",
         "achievement_list": [
           {
             "fund_code": "010686",
             "fundsname": "汇添富创新未来18个月封闭混合B",
             "post_date": "2020-11-23",
-            "cp_rate": 0.3581
+            "cp_rate": 1.93
           },
           {
             "fund_code": "010318",
             "fundsname": "汇添富创新未来18个月封闭混合C",
             "post_date": "2020-10-13",
-            "cp_rate": 0.88
+            "cp_rate": 7.27
           },
           {
             "fund_code": "009551",
             "fundsname": "汇添富开放视野中国优势六个月持有股票C",
             "post_date": "2020-07-22",
-            "cp_rate": 7.39
+            "cp_rate": 13.8
           },
           {
             "fund_code": "009550",
             "fundsname": "汇添富开放视野中国优势六个月持有股票A",
             "post_date": "2020-07-22",
-            "cp_rate": 7.71
+            "cp_rate": 14.2
           },
           {
             "fund_code": "006260",
             "fundsname": "添富红利增长混合C",
             "post_date": "2019-04-26",
-            "cp_rate": 68.86
+            "cp_rate": 78.66
           },
           {
             "fund_code": "006259",
             "fundsname": "添富红利增长混合A",
             "post_date": "2019-04-26",
-            "cp_rate": 71.27
+            "cp_rate": 81.3
           },
           {
             "fund_code": "006696",
             "fundsname": "添富3年封闭研究优选混合",
             "post_date": "2019-01-31",
-            "cp_rate": 76.82
+            "cp_rate": 91.24
           },
           {
             "fund_code": "005504",
@@ -220,7 +220,7 @@
             "fund_code": "519069",
             "fundsname": "汇添富价值精选混合",
             "post_date": "2015-11-18",
-            "cp_rate": 112.5063
+            "cp_rate": 126.2253
           },
           {
             "fund_code": "001490",
@@ -238,8 +238,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 2,
-      "all_buy_days": 2,
-      "all_sale_days": 3
+      "all_sale_days": 3,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

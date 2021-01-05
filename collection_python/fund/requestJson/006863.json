@@ -15,8 +15,8 @@
           "name": "伊利股份",
           "code": "600887",
           "percent": 9.46,
-          "current_price": 40.68,
-          "change_percentage": 1.24,
+          "current_price": 47.36,
+          "change_percentage": 6.74,
           "xq_symbol": "SH600887",
           "xq_url": "https://xueqiu.com/S/SH600887",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "索菲亚",
           "code": "002572",
           "percent": 9.34,
-          "current_price": 27.83,
-          "change_percentage": -0.25,
+          "current_price": 26.15,
+          "change_percentage": 0.97,
           "xq_symbol": "SZ002572",
           "xq_url": "https://xueqiu.com/S/SZ002572",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "万华化学",
           "code": "600309",
           "percent": 9.29,
-          "current_price": 82.99,
-          "change_percentage": -0.3,
+          "current_price": 94.12,
+          "change_percentage": 3.38,
           "xq_symbol": "SH600309",
           "xq_url": "https://xueqiu.com/S/SH600309",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "汇川技术",
           "code": "300124",
           "percent": 8.5,
-          "current_price": 85.58,
-          "change_percentage": 1.04,
+          "current_price": 95.59,
+          "change_percentage": 2.45,
           "xq_symbol": "SZ300124",
           "xq_url": "https://xueqiu.com/S/SZ300124",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "万科A",
           "code": "000002",
           "percent": 8.05,
-          "current_price": 29.18,
-          "change_percentage": -0.78,
+          "current_price": 27.78,
+          "change_percentage": -3.21,
           "xq_symbol": "SZ000002",
           "xq_url": "https://xueqiu.com/S/SZ000002",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "华鲁恒升",
           "code": "600426",
           "percent": 6.26,
-          "current_price": 34.94,
-          "change_percentage": 1.28,
+          "current_price": 37.01,
+          "change_percentage": -0.78,
           "xq_symbol": "SH600426",
           "xq_url": "https://xueqiu.com/S/SH600426",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "长城汽车",
           "code": "601633",
           "percent": 6.1,
-          "current_price": 25.89,
-          "change_percentage": 3.39,
+          "current_price": 38.11,
+          "change_percentage": 0.79,
           "xq_symbol": "SH601633",
           "xq_url": "https://xueqiu.com/S/SH601633",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "老板电器",
           "code": "002508",
           "percent": 5.84,
-          "current_price": 40.84,
-          "change_percentage": -0.22,
+          "current_price": 41.4,
+          "change_percentage": 1.52,
           "xq_symbol": "SZ002508",
           "xq_url": "https://xueqiu.com/S/SZ002508",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "格力电器",
           "code": "000651",
           "percent": 5.78,
-          "current_price": 65.66,
-          "change_percentage": -3.44,
+          "current_price": 62.9,
+          "change_percentage": 1.55,
           "xq_symbol": "SZ000651",
           "xq_url": "https://xueqiu.com/S/SZ000651",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "海螺水泥",
           "code": "600585",
           "percent": 4.94,
-          "current_price": 53.44,
-          "change_percentage": -1.46,
+          "current_price": 52.28,
+          "change_percentage": 1.28,
           "xq_symbol": "SH600585",
           "xq_url": "https://xueqiu.com/S/SH600585",
           "amarket": true
@@ -173,31 +173,31 @@
       {
         "name": "刘斌",
         "resume": "    刘斌,硕士研究生,2004年4月至2007年8月在杭州城建设计研究院有限公司担任工程师;2007年9月至2009年8月在群益国际控股有限公司担任行业研究员。2009年8月起加入国联安基金管理有限公司,担任研究员;2013年11月起担任国联安德盛安心成长混合型证券投资基金的基金经理助理。2013年12月起至2015年3月担任国联安德盛安心成长混合型证券投资基金的基金经理,2013年12月起兼任国联安德盛稳健证券投资基金基金经理,自2014年2月起至2015年12月兼任国联安德盛精选混合型证券投资基金的基金经理,2014年6月起至2015年12月兼任国联安通盈灵活配置混合型证券投资基金基金经理,2015年4月起兼任国联安德盛优势混合型证券投资基金基金经理,2019 年4 月起兼任国联安智能制造混合型证券投资基金的基金经理,2019年7 月起兼任国联安远见成长混合型证券投资基金的基金经理。",
-        "work_year": "13",
+        "work_year": "14",
         "achievement_list": [
           {
             "fund_code": "008878",
             "fundsname": "国联安新蓝筹红利一年定开混合",
             "post_date": "2020-08-13",
-            "cp_rate": 7.99
+            "cp_rate": 17.16
           },
           {
             "fund_code": "005708",
             "fundsname": "国联安远见成长混合",
             "post_date": "2019-07-09",
-            "cp_rate": 78.3524
+            "cp_rate": 107.7668
           },
           {
             "fund_code": "006863",
             "fundsname": "国联安智能制造混合",
             "post_date": "2019-04-25",
-            "cp_rate": 77.16
+            "cp_rate": 83.38
           },
           {
             "fund_code": "257030",
             "fundsname": "国联安德盛优势混合",
             "post_date": "2015-04-28",
-            "cp_rate": 101.0436
+            "cp_rate": 105.74
           },
           {
             "fund_code": "000664",
@@ -217,7 +217,7 @@
             "fund_code": "255010",
             "fundsname": "国联安稳健混合",
             "post_date": "2013-12-28",
-            "cp_rate": 224.8903
+            "cp_rate": 235.6622
           },
           {
             "fund_code": "253010",

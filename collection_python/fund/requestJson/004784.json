@@ -16,8 +16,8 @@
           "name": "智飞生物",
           "code": "300122",
           "percent": 9.22,
-          "current_price": 139.38,
-          "change_percentage": -0.39,
+          "current_price": 143.22,
+          "change_percentage": -3.17,
           "xq_symbol": "SZ300122",
           "xq_url": "https://xueqiu.com/S/SZ300122",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "分众传媒",
           "code": "002027",
           "percent": 7.4,
-          "current_price": 10.36,
-          "change_percentage": 0.58,
+          "current_price": 10.04,
+          "change_percentage": 1.72,
           "xq_symbol": "SZ002027",
           "xq_url": "https://xueqiu.com/S/SZ002027",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 7.03,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "恩捷股份",
           "code": "002812",
           "percent": 6.76,
-          "current_price": 108,
-          "change_percentage": 0.88,
+          "current_price": 155,
+          "change_percentage": 9.32,
           "xq_symbol": "SZ002812",
           "xq_url": "https://xueqiu.com/S/SZ002812",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "歌尔股份",
           "code": "002241",
           "percent": 5.74,
-          "current_price": 37.16,
-          "change_percentage": -2.24,
+          "current_price": 36.74,
+          "change_percentage": -1.55,
           "xq_symbol": "SZ002241",
           "xq_url": "https://xueqiu.com/S/SZ002241",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 5.73,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "璞泰来",
           "code": "603659",
           "percent": 5.54,
-          "current_price": 111.38,
-          "change_percentage": 5.71,
+          "current_price": 123.63,
+          "change_percentage": 10,
           "xq_symbol": "SH603659",
           "xq_url": "https://xueqiu.com/S/SH603659",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "康泰生物",
           "code": "300601",
           "percent": 5.37,
-          "current_price": 158.41,
-          "change_percentage": -1.36,
+          "current_price": 165.98,
+          "change_percentage": -4.88,
           "xq_symbol": "SZ300601",
           "xq_url": "https://xueqiu.com/S/SZ300601",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "华海药业",
           "code": "600521",
           "percent": 4.52,
-          "current_price": 35.36,
-          "change_percentage": 2.26,
+          "current_price": 31.41,
+          "change_percentage": -7.1,
           "xq_symbol": "SH600521",
           "xq_url": "https://xueqiu.com/S/SH600521",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "普洛药业",
           "code": "000739",
           "percent": 2.99,
-          "current_price": 23.2,
-          "change_percentage": 0,
+          "current_price": 23.31,
+          "change_percentage": 0.13,
           "xq_symbol": "SZ000739",
           "xq_url": "https://xueqiu.com/S/SZ000739",
           "amarket": true
@@ -187,19 +187,19 @@
       {
         "name": "钟贇",
         "resume": "    钟贇先生,硕士。2011年7月加入国泰基金管理有限公司,任研究部行业研究员,先后从事电力设备新能源、通信设备等行业的证券研究工作;2015年9月加入招商基金管理有限公司研究部,曾任高级研究员兼中游制造组组长,现任招商安润灵活配置混合型证券投资基金基金经理(管理时间:2019年5月14日至今)、招商稳健优选股票型证券投资基金基金经理(管理时间:2020年1月4日至今)。",
-        "work_year": "8",
+        "work_year": "9",
         "achievement_list": [
           {
             "fund_code": "004784",
             "fundsname": "招商稳健优选股票",
             "post_date": "2020-01-04",
-            "cp_rate": 63.9943
+            "cp_rate": 82.5836
           },
           {
             "fund_code": "000126",
             "fundsname": "招商安润灵活配置混合",
             "post_date": "2019-05-14",
-            "cp_rate": 134.2133
+            "cp_rate": 161.741
           },
           {
             "fund_code": "000126",

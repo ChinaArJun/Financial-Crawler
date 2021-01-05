@@ -3,10 +3,47 @@
     "fund_rates": {
       "fd_code": "010141",
       "subscribe_rate": "0",
-      "declare_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
       "discount": "1.0",
       "subscribe_discount": "1.0",
       "declare_discount": "1.0",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<500万",
+          "value": "1.00"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<365天",
+          "value": "0.500"
+        },
+        {
+          "name": "365天≤持有期限<730天",
+          "value": "0.250"
+        },
+        {
+          "name": "730天≤持有期限",
+          "value": "0.000"
+        }
+      ],
       "other_rate_table": [
         {
           "name": "基金托管费",
@@ -24,40 +61,46 @@
         "resume": "    梁跃军先生,1971年出生,中国籍,中欧国际工商学院EMBA,北京大学经济学硕士。先后任职于招商银行股份有限公司北京分行,西南证券股份有限公司,大通证券股份有限公司,西部证券股份有限公司,上海朱雀投资发展中心(有限合伙),朱雀股权投资管理有限公司。现任朱雀基金总经理,2014年当选中国证监会第五届并购重组委委员,2016年当选中国证监会第六届并购重组委委员。\n    2020年6月3日至今担任朱雀企业优胜股票型证券投资基金基金经理;2020年6月29日至今担任朱雀产业臻选混合型证券投资基金基金经理;2020年9月23日至今担任朱雀企业优选股票型证券投资基金基金经理。",
         "achievement_list": [
           {
+            "fund_code": "010922",
+            "fundsname": "朱雀匠心一年持有",
+            "post_date": "2020-12-21",
+            "cp_rate": 0.44
+          },
+          {
             "fund_code": "010141",
             "fundsname": "朱雀企业优选A",
             "post_date": "2020-09-23",
-            "cp_rate": 6.53
+            "cp_rate": 19.75
           },
           {
             "fund_code": "010142",
             "fundsname": "朱雀企业优选C",
             "post_date": "2020-09-23",
-            "cp_rate": 6.36
+            "cp_rate": 19.49
           },
           {
             "fund_code": "007493",
             "fundsname": "朱雀产业臻选混合A",
             "post_date": "2020-06-29",
-            "cp_rate": 34.683
+            "cp_rate": 49.7897
           },
           {
             "fund_code": "007494",
             "fundsname": "朱雀产业臻选混合C",
             "post_date": "2020-06-29",
-            "cp_rate": 34.3259
+            "cp_rate": 49.3425
           },
           {
             "fund_code": "008294",
             "fundsname": "朱雀企业优胜A",
             "post_date": "2020-06-03",
-            "cp_rate": 36.9939
+            "cp_rate": 55.4414
           },
           {
             "fund_code": "008295",
             "fundsname": "朱雀企业优胜C",
             "post_date": "2020-06-03",
-            "cp_rate": 36.5198
+            "cp_rate": 54.8193
           }
         ]
       },
@@ -69,13 +112,13 @@
             "fund_code": "010141",
             "fundsname": "朱雀企业优选A",
             "post_date": "2020-10-29",
-            "cp_rate": 5.0074
+            "cp_rate": 18.0384
           },
           {
             "fund_code": "010142",
             "fundsname": "朱雀企业优选C",
             "post_date": "2020-10-29",
-            "cp_rate": 4.9226
+            "cp_rate": 17.8751
           }
         ]
       }

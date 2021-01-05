@@ -16,8 +16,8 @@
           "name": "长城汽车",
           "code": "601633",
           "percent": 5.55,
-          "current_price": 25.89,
-          "change_percentage": 3.39,
+          "current_price": 38.11,
+          "change_percentage": 0.79,
           "xq_symbol": "SH601633",
           "xq_url": "https://xueqiu.com/S/SH601633",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "吉比特",
           "code": "603444",
           "percent": 3.86,
-          "current_price": 410.3,
-          "change_percentage": 2.32,
+          "current_price": 437.99,
+          "change_percentage": 2.81,
           "xq_symbol": "SH603444",
           "xq_url": "https://xueqiu.com/S/SH603444",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "春秋航空",
           "code": "601021",
           "percent": 3.61,
-          "current_price": 51.71,
-          "change_percentage": 0.23,
+          "current_price": 57.28,
+          "change_percentage": 3.34,
           "xq_symbol": "SH601021",
           "xq_url": "https://xueqiu.com/S/SH601021",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "杰克股份",
           "code": "603337",
           "percent": 3.05,
-          "current_price": 29.48,
-          "change_percentage": -2.06,
+          "current_price": 28.85,
+          "change_percentage": -5.16,
           "xq_symbol": "SH603337",
           "xq_url": "https://xueqiu.com/S/SH603337",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "弘亚数控",
           "code": "002833",
           "percent": 3.04,
-          "current_price": 43.08,
-          "change_percentage": 2.74,
+          "current_price": 42,
+          "change_percentage": -3.6,
           "xq_symbol": "SZ002833",
           "xq_url": "https://xueqiu.com/S/SZ002833",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "钱江摩托",
           "code": "000913",
           "percent": 3.03,
-          "current_price": 28.03,
-          "change_percentage": 8.22,
+          "current_price": 26.56,
+          "change_percentage": 3.79,
           "xq_symbol": "SZ000913",
           "xq_url": "https://xueqiu.com/S/SZ000913",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "春风动力",
           "code": "603129",
           "percent": 2.98,
-          "current_price": 153.96,
-          "change_percentage": 6.14,
+          "current_price": 168,
+          "change_percentage": -3.55,
           "xq_symbol": "SH603129",
           "xq_url": "https://xueqiu.com/S/SH603129",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "移远通信",
           "code": "603236",
           "percent": 2.97,
-          "current_price": 187.11,
-          "change_percentage": -1.26,
+          "current_price": 191.5,
+          "change_percentage": 2.44,
           "xq_symbol": "SH603236",
           "xq_url": "https://xueqiu.com/S/SH603236",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "光线传媒",
           "code": "300251",
           "percent": 2.97,
-          "current_price": 13.36,
-          "change_percentage": -0.3,
+          "current_price": 12.32,
+          "change_percentage": 2.07,
           "xq_symbol": "SZ300251",
           "xq_url": "https://xueqiu.com/S/SZ300251",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "杭氧股份",
           "code": "002430",
           "percent": 2.83,
-          "current_price": 27.38,
-          "change_percentage": 1.71,
+          "current_price": 28.8,
+          "change_percentage": -1,
           "xq_symbol": "SZ002430",
           "xq_url": "https://xueqiu.com/S/SZ002430",
           "amarket": true
@@ -187,25 +187,25 @@
       {
         "name": "张宇帆",
         "resume": "    张宇帆女士,9年证券从业经验;2007年加入工银瑞信,现任高级研究员、基金经理,2016年3月1日起至今,担任工银瑞信物流产业股票型基金基金经理。",
-        "work_year": "13",
+        "work_year": "14",
         "achievement_list": [
           {
             "fund_code": "009707",
             "fundsname": "工银新兴制造混合A",
             "post_date": "2020-08-20",
-            "cp_rate": 9.99
+            "cp_rate": 25.26
           },
           {
             "fund_code": "009708",
             "fundsname": "工银新兴制造混合C",
             "post_date": "2020-08-20",
-            "cp_rate": 9.86
+            "cp_rate": 25.08
           },
           {
             "fund_code": "001718",
             "fundsname": "工银瑞信物流产业股票",
             "post_date": "2016-03-01",
-            "cp_rate": 174.9
+            "cp_rate": 202.3
           }
         ]
       }

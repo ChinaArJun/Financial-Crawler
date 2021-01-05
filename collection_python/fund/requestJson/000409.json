@@ -15,8 +15,8 @@
           "name": "龙马环卫",
           "code": "603686",
           "percent": 6.22,
-          "current_price": 18.01,
-          "change_percentage": -1.42,
+          "current_price": 16.31,
+          "change_percentage": 1.43,
           "xq_symbol": "SH603686",
           "xq_url": "https://xueqiu.com/S/SH603686",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 5.47,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "汇川技术",
           "code": "300124",
           "percent": 4.98,
-          "current_price": 85.58,
-          "change_percentage": 1.04,
+          "current_price": 95.59,
+          "change_percentage": 2.45,
           "xq_symbol": "SZ300124",
           "xq_url": "https://xueqiu.com/S/SZ300124",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 4.9,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "亿纬锂能",
           "code": "300014",
           "percent": 4.35,
-          "current_price": 63.71,
-          "change_percentage": 4.17,
+          "current_price": 93.49,
+          "change_percentage": 14.71,
           "xq_symbol": "SZ300014",
           "xq_url": "https://xueqiu.com/S/SZ300014",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 4.1,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "通威股份",
           "code": "600438",
           "percent": 3.46,
-          "current_price": 29.2,
-          "change_percentage": -1.85,
+          "current_price": 41.65,
+          "change_percentage": 8.35,
           "xq_symbol": "SH600438",
           "xq_url": "https://xueqiu.com/S/SH600438",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "比亚迪",
           "code": "002594",
           "percent": 3.45,
-          "current_price": 177.97,
-          "change_percentage": 1.53,
+          "current_price": 206.76,
+          "change_percentage": 6.41,
           "xq_symbol": "SZ002594",
           "xq_url": "https://xueqiu.com/S/SZ002594",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "瀚蓝环境",
           "code": "600323",
           "percent": 2.7,
-          "current_price": 24.04,
-          "change_percentage": -1.52,
+          "current_price": 24.73,
+          "change_percentage": -0.32,
           "xq_symbol": "SH600323",
           "xq_url": "https://xueqiu.com/S/SH600323",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "三花智控",
           "code": "002050",
           "percent": 2.45,
-          "current_price": 24.3,
-          "change_percentage": 2.84,
+          "current_price": 27.12,
+          "change_percentage": 10.02,
           "xq_symbol": "SZ002050",
           "xq_url": "https://xueqiu.com/S/SZ002050",
           "amarket": true
@@ -173,25 +173,25 @@
       {
         "name": "孟昊",
         "resume": "    孟昊先生,国籍中国,理学硕士,5年证券基金从业经验。2014年7月加盟鹏华基金管理有限公司,曾任研究部高级研究员,现拟任权益投资二部基金经理。2018年02月担任鹏华新科技传媒灵活配置混合型证券投资基金基金经理,2018年11月担任鹏华消费领先灵活配置混合型证券投资基金基金经理,孟昊具备基金从业资格。",
-        "work_year": "6",
+        "work_year": "7",
         "achievement_list": [
           {
             "fund_code": "006526",
             "fundsname": "鹏华优选回报混合",
             "post_date": "2020-02-29",
-            "cp_rate": 37.908
+            "cp_rate": 52.7448
           },
           {
             "fund_code": "000409",
             "fundsname": "鹏华环保产业股票",
             "post_date": "2019-07-24",
-            "cp_rate": 127.8545
+            "cp_rate": 161.5433
           },
           {
             "fund_code": "160624",
             "fundsname": "鹏华消费领先混合",
             "post_date": "2018-11-17",
-            "cp_rate": 157.1691
+            "cp_rate": 184.253
           },
           {
             "fund_code": "004514",

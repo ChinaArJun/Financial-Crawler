@@ -15,8 +15,8 @@
           "name": "美的集团",
           "code": "000333",
           "percent": 7.05,
-          "current_price": 86.7,
-          "change_percentage": -1.54,
+          "current_price": 99.01,
+          "change_percentage": 0.58,
           "xq_symbol": "SZ000333",
           "xq_url": "https://xueqiu.com/S/SZ000333",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "中信证券",
           "code": "600030",
           "percent": 6.68,
-          "current_price": 30.01,
-          "change_percentage": 0,
+          "current_price": 29.18,
+          "change_percentage": -0.75,
           "xq_symbol": "SH600030",
           "xq_url": "https://xueqiu.com/S/SH600030",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "宁波银行",
           "code": "002142",
           "percent": 5.53,
-          "current_price": 35.74,
-          "change_percentage": 0.65,
+          "current_price": 34.94,
+          "change_percentage": -1.13,
           "xq_symbol": "SZ002142",
           "xq_url": "https://xueqiu.com/S/SZ002142",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "华泰证券",
           "code": "601688",
           "percent": 5.48,
-          "current_price": 19.14,
-          "change_percentage": -0.31,
+          "current_price": 18.04,
+          "change_percentage": 0.17,
           "xq_symbol": "SH601688",
           "xq_url": "https://xueqiu.com/S/SH601688",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "招商银行",
           "code": "600036",
           "percent": 4.82,
-          "current_price": 44.26,
-          "change_percentage": -0.36,
+          "current_price": 43.17,
+          "change_percentage": -1.77,
           "xq_symbol": "SH600036",
           "xq_url": "https://xueqiu.com/S/SH600036",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "芒果超媒",
           "code": "300413",
           "percent": 4.58,
-          "current_price": 65.95,
-          "change_percentage": -1.54,
+          "current_price": 72.88,
+          "change_percentage": 0.52,
           "xq_symbol": "SZ300413",
           "xq_url": "https://xueqiu.com/S/SZ300413",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "新华保险",
           "code": "601336",
           "percent": 4.54,
-          "current_price": 62.1,
-          "change_percentage": 0.23,
+          "current_price": 56.49,
+          "change_percentage": -2.55,
           "xq_symbol": "SH601336",
           "xq_url": "https://xueqiu.com/S/SH601336",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "京东方A",
           "code": "000725",
           "percent": 4.54,
-          "current_price": 5.25,
-          "change_percentage": -0.57,
+          "current_price": 5.92,
+          "change_percentage": -1.33,
           "xq_symbol": "SZ000725",
           "xq_url": "https://xueqiu.com/S/SZ000725",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "国泰君安",
           "code": "601211",
           "percent": 4.46,
-          "current_price": 18.44,
-          "change_percentage": -0.38,
+          "current_price": 17.61,
+          "change_percentage": 0.46,
           "xq_symbol": "SH601211",
           "xq_url": "https://xueqiu.com/S/SH601211",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "三一重工",
           "code": "600031",
           "percent": 4.43,
-          "current_price": 31.48,
-          "change_percentage": -1.41,
+          "current_price": 34.8,
+          "change_percentage": -0.51,
           "xq_symbol": "SH600031",
           "xq_url": "https://xueqiu.com/S/SH600031",
           "amarket": true
@@ -174,25 +174,25 @@
         "name": "高源",
         "resume": "    高源,2005年10月至2007年3月在光大证券股份有限公司研究所工作,担任研究员;2007年4月至2010年6月在安信证券股份有限公司工作,担任研究部高级研究员;于2010年7月至2017年4月在申万菱信基金管理有限公司工作,先后担任投资管理部高级研究员、基金经理等职。2017年4月进入万家基金管理有限公司工作,现任万家瑞兴灵活配置混合型证券投资基金、万家消费成长股票型证券投资基金、万家行业优选混合型证券投资基金(LOF)、万家潜力价值灵活配置混合型证券投资基金、万家新机遇龙头企业灵活配置混合型证券投资基金、万家新机遇价值驱动灵活配置混合型证券投资基金基金经理、万家人工智能混合型证券投资基金的基金经理。",
         "college": "伦敦政治经济学院",
-        "work_year": "15",
+        "work_year": "16",
         "achievement_list": [
           {
             "fund_code": "010055",
             "fundsname": "万家健康产业混合C",
             "post_date": "2020-09-30",
-            "cp_rate": 1.75
+            "cp_rate": 0.92
           },
           {
             "fund_code": "010054",
             "fundsname": "万家健康产业混合A",
             "post_date": "2020-09-30",
-            "cp_rate": 1.84
+            "cp_rate": 1.05
           },
           {
             "fund_code": "009688",
             "fundsname": "万家鑫动力月月购一年滚动持有混合",
             "post_date": "2020-06-18",
-            "cp_rate": 10.66
+            "cp_rate": 12.83
           },
           {
             "fund_code": "501075",
@@ -212,13 +212,13 @@
             "fund_code": "006085",
             "fundsname": "万家新机遇价值驱动灵活配置混合C",
             "post_date": "2018-08-18",
-            "cp_rate": 145.476
+            "cp_rate": 153.7323
           },
           {
             "fund_code": "161910",
             "fundsname": "万家新机遇价值驱动灵活配置混合A",
             "post_date": "2018-08-18",
-            "cp_rate": 142.1154
+            "cp_rate": 150.3892
           },
           {
             "fund_code": "005821",
@@ -231,13 +231,13 @@
             "fund_code": "005401",
             "fundsname": "万家潜力价值混合C",
             "post_date": "2018-03-15",
-            "cp_rate": 115.7279
+            "cp_rate": 121.8009
           },
           {
             "fund_code": "005400",
             "fundsname": "万家潜力价值混合A",
             "post_date": "2018-03-15",
-            "cp_rate": 119.069
+            "cp_rate": 125.3022
           },
           {
             "fund_code": "161903",
@@ -250,7 +250,7 @@
             "fund_code": "519193",
             "fundsname": "万家消费成长股票",
             "post_date": "2017-11-14",
-            "cp_rate": 118.4622
+            "cp_rate": 125.0713
           },
           {
             "fund_code": "001518",

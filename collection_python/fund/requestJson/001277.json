@@ -16,8 +16,8 @@
           "name": "中国平安",
           "code": "601318",
           "percent": 2.38,
-          "current_price": 88.05,
-          "change_percentage": -2.58,
+          "current_price": 85.18,
+          "change_percentage": -2.07,
           "xq_symbol": "SH601318",
           "xq_url": "https://xueqiu.com/S/SH601318",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "平安银行",
           "code": "000001",
           "percent": 2.19,
-          "current_price": 18.71,
-          "change_percentage": -1.06,
+          "current_price": 18.6,
+          "change_percentage": -3.83,
           "xq_symbol": "SZ000001",
           "xq_url": "https://xueqiu.com/S/SZ000001",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "中国建筑",
           "code": "601668",
           "percent": 1.95,
-          "current_price": 5.17,
-          "change_percentage": -0.77,
+          "current_price": 4.91,
+          "change_percentage": -1.21,
           "xq_symbol": "SH601668",
           "xq_url": "https://xueqiu.com/S/SH601668",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "中国中铁",
           "code": "601390",
           "percent": 1.86,
-          "current_price": 5.52,
-          "change_percentage": -0.72,
+          "current_price": 5.27,
+          "change_percentage": 0,
           "xq_symbol": "SH601390",
           "xq_url": "https://xueqiu.com/S/SH601390",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "中信证券",
           "code": "600030",
           "percent": 1.38,
-          "current_price": 30.01,
-          "change_percentage": 0,
+          "current_price": 29.18,
+          "change_percentage": -0.75,
           "xq_symbol": "SH600030",
           "xq_url": "https://xueqiu.com/S/SH600030",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "中国太保",
           "code": "601601",
           "percent": 1.32,
-          "current_price": 37.67,
-          "change_percentage": -0.37,
+          "current_price": 38.35,
+          "change_percentage": -0.13,
           "xq_symbol": "SH601601",
           "xq_url": "https://xueqiu.com/S/SH601601",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "保利地产",
           "code": "600048",
           "percent": 1.28,
-          "current_price": 16.46,
-          "change_percentage": -0.48,
+          "current_price": 15.29,
+          "change_percentage": -3.35,
           "xq_symbol": "SH600048",
           "xq_url": "https://xueqiu.com/S/SH600048",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "中国中冶",
           "code": "601618",
           "percent": 1.03,
-          "current_price": 2.68,
-          "change_percentage": -0.37,
+          "current_price": 2.79,
+          "change_percentage": 2.2,
           "xq_symbol": "SH601618",
           "xq_url": "https://xueqiu.com/S/SH601618",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 0.95,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "中航光电",
           "code": "002179",
           "percent": 0.92,
-          "current_price": 65.41,
-          "change_percentage": 0.97,
+          "current_price": 85.39,
+          "change_percentage": 9.07,
           "xq_symbol": "SZ002179",
           "xq_url": "https://xueqiu.com/S/SZ002179",
           "amarket": true
@@ -196,43 +196,43 @@
         "name": "林景艺",
         "resume": "    林景艺女士,硕士。2010年从北京大学硕士研究生毕业后加入博时基金管理有限公司。历任量化分析师、高级研究员兼基金经理助理,现任博时国企改革股票基金(2015.5.20-至今)兼博时量化平衡混合基金(2017.5.4-至今)、博时量化多策略股票基金(2018.4.3-至今)、博时量化价值股票型证券投资基金(2018年6月26日—至今)的基金经理。",
         "college": "北京大学",
-        "work_year": "10",
+        "work_year": "11",
         "achievement_list": [
           {
             "fund_code": "005960",
             "fundsname": "博时量化价值股票A",
             "post_date": "2018-06-26",
-            "cp_rate": 38.77
+            "cp_rate": 40.19
           },
           {
             "fund_code": "005961",
             "fundsname": "博时量化价值股票C",
             "post_date": "2018-06-26",
-            "cp_rate": 36.07
+            "cp_rate": 37.39
           },
           {
             "fund_code": "005635",
             "fundsname": "博时量化多策略股票A",
             "post_date": "2018-04-03",
-            "cp_rate": 43.03
+            "cp_rate": 46.93
           },
           {
             "fund_code": "005636",
             "fundsname": "博时量化多策略股票C",
             "post_date": "2018-04-03",
-            "cp_rate": 39.99
+            "cp_rate": 43.73
           },
           {
             "fund_code": "004495",
             "fundsname": "博时量化平衡混合",
             "post_date": "2017-05-04",
-            "cp_rate": 34.84
+            "cp_rate": 35.13
           },
           {
             "fund_code": "001277",
             "fundsname": "博时国企改革主题股票",
             "post_date": "2015-05-20",
-            "cp_rate": -4.1502
+            "cp_rate": -0.6917
           }
         ]
       }

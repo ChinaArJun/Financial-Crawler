@@ -15,8 +15,8 @@
           "name": "中信特钢",
           "code": "000708",
           "percent": 7.53,
-          "current_price": 20.41,
-          "change_percentage": -1.73,
+          "current_price": 23.2,
+          "change_percentage": 6.47,
           "xq_symbol": "SZ000708",
           "xq_url": "https://xueqiu.com/S/SZ000708",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 6.66,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 6.36,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "紫金矿业",
           "code": "601899",
           "percent": 5.55,
-          "current_price": 8.91,
-          "change_percentage": 1.14,
+          "current_price": 10.04,
+          "change_percentage": 8.07,
           "xq_symbol": "SH601899",
           "xq_url": "https://xueqiu.com/S/SH601899",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "新宙邦",
           "code": "300037",
           "percent": 3.72,
-          "current_price": 99.89,
-          "change_percentage": 12.22,
+          "current_price": 106.5,
+          "change_percentage": 5.03,
           "xq_symbol": "SZ300037",
           "xq_url": "https://xueqiu.com/S/SZ300037",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "赤峰黄金",
           "code": "600988",
           "percent": 3.28,
-          "current_price": 18.03,
-          "change_percentage": 4.4,
+          "current_price": 18.8,
+          "change_percentage": 4.97,
           "xq_symbol": "SH600988",
           "xq_url": "https://xueqiu.com/S/SH600988",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "比亚迪",
           "code": "002594",
           "percent": 3.27,
-          "current_price": 177.97,
-          "change_percentage": 1.53,
+          "current_price": 206.76,
+          "change_percentage": 6.41,
           "xq_symbol": "SZ002594",
           "xq_url": "https://xueqiu.com/S/SZ002594",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "金山办公",
           "code": "688111",
           "percent": 3.1,
-          "current_price": 349.5,
-          "change_percentage": -2.75,
+          "current_price": 420,
+          "change_percentage": 2.19,
           "xq_symbol": "SH688111",
           "xq_url": "https://xueqiu.com/S/SH688111",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "卓胜微",
           "code": "300782",
           "percent": 3.07,
-          "current_price": 544.82,
-          "change_percentage": 2.06,
+          "current_price": 614.9,
+          "change_percentage": 7.78,
           "xq_symbol": "SZ300782",
           "xq_url": "https://xueqiu.com/S/SZ300782",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 3.04,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -161,7 +161,7 @@
       {
         "name": "沙炜",
         "resume": "    沙炜先生,硕士。2008年从中国科学院硕士研究生毕业后加入博时基金管理有限公司。历任研究员、资深研究员、基金经理助理、研究部副总经理。现任博时丝路主题股票基金(2015年5月22日至今)、博时招财一号保本基金的基金经理(2015年8月4日至今)、博时招财二号保本基金(2016年8月9日至今)的基金经理。",
-        "work_year": "12",
+        "work_year": "13",
         "achievement_list": [
           {
             "fund_code": "003055",
@@ -174,7 +174,7 @@
             "fund_code": "002556",
             "fundsname": "博时丝路主题股票C",
             "post_date": "2016-03-22",
-            "cp_rate": 148.2337
+            "cp_rate": 169.0217
           },
           {
             "fund_code": "001238",
@@ -187,7 +187,7 @@
             "fund_code": "001236",
             "fundsname": "博时丝路主题股票A",
             "post_date": "2015-05-22",
-            "cp_rate": 85.1
+            "cp_rate": 100.6
           }
         ]
       }

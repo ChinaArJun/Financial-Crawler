@@ -163,37 +163,37 @@
             "fund_code": "004098",
             "fundsname": "前海开源港股通股息率50强股票",
             "post_date": "2020-07-23",
-            "cp_rate": 3.0229
+            "cp_rate": 10.1169
           },
           {
             "fund_code": "006924",
             "fundsname": "前海开源沪港深非周期股票C",
             "post_date": "2020-07-20",
-            "cp_rate": 11.603
+            "cp_rate": 26.9173
           },
           {
             "fund_code": "006923",
             "fundsname": "前海开源沪港深非周期股票A",
             "post_date": "2020-07-20",
-            "cp_rate": 11.706
+            "cp_rate": 27.0553
           },
           {
             "fund_code": "000788",
             "fundsname": "前海开源中国成长灵活配置混合",
             "post_date": "2018-03-06",
-            "cp_rate": 89.8808
+            "cp_rate": 97.4634
           },
           {
             "fund_code": "004317",
             "fundsname": "前海开源沪港深裕鑫C",
             "post_date": "2017-03-23",
-            "cp_rate": 54.47
+            "cp_rate": 59.19
           },
           {
             "fund_code": "004316",
             "fundsname": "前海开源沪港深裕鑫A",
             "post_date": "2017-03-23",
-            "cp_rate": 55.24
+            "cp_rate": 59.99
           },
           {
             "fund_code": "004454",
@@ -213,13 +213,13 @@
             "fund_code": "001865",
             "fundsname": "前海开源事件驱动混合C",
             "post_date": "2015-10-26",
-            "cp_rate": 80.1
+            "cp_rate": 88.6
           },
           {
             "fund_code": "000423",
             "fundsname": "前海开源事件驱动混合A",
             "post_date": "2014-12-25",
-            "cp_rate": 96.131
+            "cp_rate": 105.3571
           },
           {
             "fund_code": "000656",
@@ -238,13 +238,13 @@
             "fund_code": "000690",
             "fundsname": "前海开源大海洋混合",
             "post_date": "2020-07-23",
-            "cp_rate": 19.7652
+            "cp_rate": 37.6386
           },
           {
             "fund_code": "004098",
             "fundsname": "前海开源港股通股息率50强股票",
             "post_date": "2020-07-23",
-            "cp_rate": 3.0229
+            "cp_rate": 10.1169
           }
         ]
       }

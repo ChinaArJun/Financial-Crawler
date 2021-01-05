@@ -14,8 +14,8 @@
           "name": "中信证券",
           "code": "600030",
           "percent": 2.99,
-          "current_price": 30.01,
-          "change_percentage": 0,
+          "current_price": 29.18,
+          "change_percentage": -0.75,
           "xq_symbol": "SH600030",
           "xq_url": "https://xueqiu.com/S/SH600030",
           "amarket": true
@@ -24,8 +24,8 @@
           "name": "东方财富",
           "code": "300059",
           "percent": 2.53,
-          "current_price": 28.05,
-          "change_percentage": 1.08,
+          "current_price": 32.2,
+          "change_percentage": 3.87,
           "xq_symbol": "SZ300059",
           "xq_url": "https://xueqiu.com/S/SZ300059",
           "amarket": true
@@ -34,8 +34,8 @@
           "name": "中航高科",
           "code": "600862",
           "percent": 2.08,
-          "current_price": 25.12,
-          "change_percentage": -1.49,
+          "current_price": 31.76,
+          "change_percentage": 5.51,
           "xq_symbol": "SH600862",
           "xq_url": "https://xueqiu.com/S/SH600862",
           "amarket": true
@@ -44,8 +44,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 1.95,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -54,8 +54,8 @@
           "name": "紫金矿业",
           "code": "601899",
           "percent": 1.95,
-          "current_price": 8.91,
-          "change_percentage": 1.14,
+          "current_price": 10.04,
+          "change_percentage": 8.07,
           "xq_symbol": "SH601899",
           "xq_url": "https://xueqiu.com/S/SH601899",
           "amarket": true
@@ -64,8 +64,8 @@
           "name": "中国建筑",
           "code": "601668",
           "percent": 1.88,
-          "current_price": 5.17,
-          "change_percentage": -0.77,
+          "current_price": 4.91,
+          "change_percentage": -1.21,
           "xq_symbol": "SH601668",
           "xq_url": "https://xueqiu.com/S/SH601668",
           "amarket": true
@@ -74,8 +74,8 @@
           "name": "华泰证券",
           "code": "601688",
           "percent": 1.81,
-          "current_price": 19.14,
-          "change_percentage": -0.31,
+          "current_price": 18.04,
+          "change_percentage": 0.17,
           "xq_symbol": "SH601688",
           "xq_url": "https://xueqiu.com/S/SH601688",
           "amarket": true
@@ -84,8 +84,8 @@
           "name": "航天电器",
           "code": "002025",
           "percent": 1.76,
-          "current_price": 53.01,
-          "change_percentage": 0.7,
+          "current_price": 71.1,
+          "change_percentage": 9.08,
           "xq_symbol": "SZ002025",
           "xq_url": "https://xueqiu.com/S/SZ002025",
           "amarket": true
@@ -94,8 +94,8 @@
           "name": "三一重工",
           "code": "600031",
           "percent": 1.75,
-          "current_price": 31.48,
-          "change_percentage": -1.41,
+          "current_price": 34.8,
+          "change_percentage": -0.51,
           "xq_symbol": "SH600031",
           "xq_url": "https://xueqiu.com/S/SH600031",
           "amarket": true
@@ -104,8 +104,8 @@
           "name": "佳华科技",
           "code": "688051",
           "percent": 1.68,
-          "current_price": 96.05,
-          "change_percentage": 0.73,
+          "current_price": 82.43,
+          "change_percentage": 1.54,
           "xq_symbol": "SH688051",
           "xq_url": "https://xueqiu.com/S/SH688051",
           "amarket": true
@@ -177,25 +177,25 @@
             "fund_code": "007012",
             "fundsname": "湘财长顺混合发起式A",
             "post_date": "2020-07-20",
-            "cp_rate": 12.5659
+            "cp_rate": 13.5115
           },
           {
             "fund_code": "007013",
             "fundsname": "湘财长顺混合发起式C",
             "post_date": "2020-07-20",
-            "cp_rate": 12.292
+            "cp_rate": 13.2036
           },
           {
             "fund_code": "008128",
             "fundsname": "湘财长源股票型A",
             "post_date": "2020-05-13",
-            "cp_rate": 38.8018
+            "cp_rate": 40.0413
           },
           {
             "fund_code": "008129",
             "fundsname": "湘财长源股票型C",
             "post_date": "2020-05-13",
-            "cp_rate": 38.2259
+            "cp_rate": 39.4042
           }
         ]
       }
@@ -206,8 +206,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

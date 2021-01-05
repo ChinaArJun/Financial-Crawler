@@ -15,8 +15,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 6.47,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "石头科技",
           "code": "688169",
           "percent": 6.06,
-          "current_price": 921.36,
-          "change_percentage": 1.98,
+          "current_price": 978.04,
+          "change_percentage": -5.59,
           "xq_symbol": "SH688169",
           "xq_url": "https://xueqiu.com/S/SH688169",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 4.92,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "爱尔眼科",
           "code": "300015",
           "percent": 4.06,
-          "current_price": 66.63,
-          "change_percentage": -0.25,
+          "current_price": 68.22,
+          "change_percentage": -8.91,
           "xq_symbol": "SZ300015",
           "xq_url": "https://xueqiu.com/S/SZ300015",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 4.03,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "沃森生物",
           "code": "300142",
           "percent": 3.59,
-          "current_price": 36.67,
-          "change_percentage": 0.38,
+          "current_price": 38.3,
+          "change_percentage": -0.67,
           "xq_symbol": "SZ300142",
           "xq_url": "https://xueqiu.com/S/SZ300142",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "中孚信息",
           "code": "300659",
           "percent": 3.1,
-          "current_price": 48.81,
-          "change_percentage": 1.62,
+          "current_price": 52.83,
+          "change_percentage": 7.64,
           "xq_symbol": "SZ300659",
           "xq_url": "https://xueqiu.com/S/SZ300659",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "深信服",
           "code": "300454",
           "percent": 2.68,
-          "current_price": 217.55,
-          "change_percentage": 3.2,
+          "current_price": 266,
+          "change_percentage": 7.25,
           "xq_symbol": "SZ300454",
           "xq_url": "https://xueqiu.com/S/SZ300454",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "通威股份",
           "code": "600438",
           "percent": 2.44,
-          "current_price": 29.2,
-          "change_percentage": -1.85,
+          "current_price": 41.65,
+          "change_percentage": 8.35,
           "xq_symbol": "SH600438",
           "xq_url": "https://xueqiu.com/S/SH600438",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "创业慧康",
           "code": "300451",
           "percent": 2.37,
-          "current_price": 14.66,
-          "change_percentage": 0.62,
+          "current_price": 13.64,
+          "change_percentage": 0.81,
           "xq_symbol": "SZ300451",
           "xq_url": "https://xueqiu.com/S/SZ300451",
           "amarket": true
@@ -174,37 +174,43 @@
         "name": "林晶",
         "resume": "    林晶女士,清华大学经济学硕士。2005年7月加入华夏基金管理有限公司,曾任投资研究部研究员、基金经理助理、总经理助理、副总经理、华夏兴和混合型证券投资基金基金经理(2018年1月17日至2019年3月21日期间)、华夏领先股票型证券投资基金基金经理(2019年1月14日至2020年7月21日期间)等,现任投资研究部执行总经理,华夏策略精选灵活配置混合型证券投资基金基金经理(2017年3月7日起任职)、华夏研究精选股票型证券投资基金基金经理(2017年9月6日起任职)、华夏创新前沿股票型证券投资基金基金经理(2018年1月17日起任职)、华夏成长精选6个月定期开放混合型发起式证券投资基金基金经理(2020年6月12日起任职)、华夏创业板两年定期开放混合型证券投资基金基金经理(2020年7月24日起任职)、华夏科技前沿6个月定期开放混合型证券投资基金基金经理(2020年9月1日起任职)。",
         "college": "清华大学",
-        "work_year": "15",
+        "work_year": "16",
         "achievement_list": [
+          {
+            "fund_code": "002011",
+            "fundsname": "华夏红利",
+            "post_date": "2020-12-08",
+            "cp_rate": 11.5799
+          },
           {
             "fund_code": "010017",
             "fundsname": "华夏科技前沿6个月定期开放混合C",
             "post_date": "2020-09-01",
-            "cp_rate": 1.66
+            "cp_rate": 4.88
           },
           {
             "fund_code": "010016",
             "fundsname": "华夏科技前沿6个月定期开放混合A",
             "post_date": "2020-09-01",
-            "cp_rate": 1.79
+            "cp_rate": 5.05
           },
           {
             "fund_code": "160325",
             "fundsname": "华夏创业板两年定开混合",
             "post_date": "2020-07-24",
-            "cp_rate": 3.42
+            "cp_rate": 13.42
           },
           {
             "fund_code": "009698",
             "fundsname": "华夏成长精选6个月定开混合C",
             "post_date": "2020-06-12",
-            "cp_rate": 12.67
+            "cp_rate": 26.64
           },
           {
             "fund_code": "009697",
             "fundsname": "华夏成长精选6个月定开混合A",
             "post_date": "2020-06-12",
-            "cp_rate": 12.94
+            "cp_rate": 26.99
           },
           {
             "fund_code": "001042",
@@ -217,7 +223,7 @@
             "fund_code": "002980",
             "fundsname": "华夏创新前沿股票",
             "post_date": "2018-01-17",
-            "cp_rate": 138.1002
+            "cp_rate": 160.5428
           },
           {
             "fund_code": "519918",
@@ -230,25 +236,26 @@
             "fund_code": "004686",
             "fundsname": "华夏研究精选股票",
             "post_date": "2017-09-06",
-            "cp_rate": 67.55
+            "resi_date": "2020-12-23",
+            "cp_rate": 69.58
           },
           {
             "fund_code": "002031",
             "fundsname": "华夏策略混合",
             "post_date": "2017-03-07",
-            "cp_rate": 77.5748
+            "cp_rate": 90.0544
           },
           {
             "fund_code": "001928",
             "fundsname": "华夏消费升级灵活配置混合C",
             "post_date": "2017-02-03",
-            "cp_rate": 151.5152
+            "cp_rate": 170.8225
           },
           {
             "fund_code": "001927",
             "fundsname": "华夏消费升级灵活配置混合A",
             "post_date": "2017-02-03",
-            "cp_rate": 156.3307
+            "cp_rate": 176.0551
           }
         ]
       },
@@ -260,7 +267,7 @@
             "fund_code": "002980",
             "fundsname": "华夏创新前沿股票",
             "post_date": "2020-03-23",
-            "cp_rate": 54.3302
+            "cp_rate": 68.8769
           }
         ]
       }

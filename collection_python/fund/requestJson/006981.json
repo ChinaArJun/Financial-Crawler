@@ -15,8 +15,8 @@
           "name": "智飞生物",
           "code": "300122",
           "percent": 7,
-          "current_price": 139.38,
-          "change_percentage": -0.39,
+          "current_price": 143.22,
+          "change_percentage": -3.17,
           "xq_symbol": "SZ300122",
           "xq_url": "https://xueqiu.com/S/SZ300122",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "金域医学",
           "code": "603882",
           "percent": 6.43,
-          "current_price": 99,
-          "change_percentage": 2.27,
+          "current_price": 130.68,
+          "change_percentage": 2,
           "xq_symbol": "SH603882",
           "xq_url": "https://xueqiu.com/S/SH603882",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "普利制药",
           "code": "300630",
           "percent": 6.33,
-          "current_price": 42.62,
-          "change_percentage": -0.77,
+          "current_price": 41.04,
+          "change_percentage": -2.03,
           "xq_symbol": "SZ300630",
           "xq_url": "https://xueqiu.com/S/SZ300630",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "康泰生物",
           "code": "300601",
           "percent": 5.21,
-          "current_price": 158.41,
-          "change_percentage": -1.36,
+          "current_price": 165.98,
+          "change_percentage": -4.88,
           "xq_symbol": "SZ300601",
           "xq_url": "https://xueqiu.com/S/SZ300601",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "华海药业",
           "code": "600521",
           "percent": 5.07,
-          "current_price": 35.36,
-          "change_percentage": 2.26,
+          "current_price": 31.41,
+          "change_percentage": -7.1,
           "xq_symbol": "SH600521",
           "xq_url": "https://xueqiu.com/S/SH600521",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "华兰生物",
           "code": "002007",
           "percent": 5,
-          "current_price": 43.73,
-          "change_percentage": -3.19,
+          "current_price": 41.85,
+          "change_percentage": -0.92,
           "xq_symbol": "SZ002007",
           "xq_url": "https://xueqiu.com/S/SZ002007",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "复星医药",
           "code": "600196",
           "percent": 4.71,
-          "current_price": 53.53,
-          "change_percentage": -1.02,
+          "current_price": 52.97,
+          "change_percentage": -1.89,
           "xq_symbol": "SH600196",
           "xq_url": "https://xueqiu.com/S/SH600196",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "长春高新",
           "code": "000661",
           "percent": 4.24,
-          "current_price": 388,
-          "change_percentage": 0.19,
+          "current_price": 473.45,
+          "change_percentage": 5.47,
           "xq_symbol": "SZ000661",
           "xq_url": "https://xueqiu.com/S/SZ000661",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "沃森生物",
           "code": "300142",
           "percent": 4.04,
-          "current_price": 36.67,
-          "change_percentage": 0.38,
+          "current_price": 38.3,
+          "change_percentage": -0.67,
           "xq_symbol": "SZ300142",
           "xq_url": "https://xueqiu.com/S/SZ300142",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "万孚生物",
           "code": "300482",
           "percent": 3.87,
-          "current_price": 73.65,
-          "change_percentage": 3.43,
+          "current_price": 90.13,
+          "change_percentage": 1.03,
           "xq_symbol": "SZ300482",
           "xq_url": "https://xueqiu.com/S/SZ300482",
           "amarket": true
@@ -175,26 +175,20 @@
     },
     "manager_list": [
       {
-        "name": "兰兰",
-        "resume": "    兰兰女士,临床医学学士、神经生物学硕士。历任赛诺菲、拜耳高级医药代表;华创证券、UBS、方正证券医药分析师、高级分析师;中国国际金融股份有限公司资产管理部医药分析师、投资经理助理。现任中金基金管理有限公司组合投资部副总经理。",
+        "name": "丁天宇",
+        "resume": "    丁天宇女士,历任益民基金管理有限公司研究部研究员,中国人寿资产管理有限公司权益投资部、研究部研究员。",
         "achievement_list": [
-          {
-            "fund_code": "501080",
-            "fundsname": "中金科创主题",
-            "post_date": "2019-07-11",
-            "cp_rate": 57.76
-          },
           {
             "fund_code": "006981",
             "fundsname": "中金新医药A",
-            "post_date": "2019-05-14",
-            "cp_rate": 85.97
+            "post_date": "2020-12-30",
+            "cp_rate": 0.9919
           },
           {
             "fund_code": "007005",
             "fundsname": "中金新医药C",
-            "post_date": "2019-05-14",
-            "cp_rate": 84.15
+            "post_date": "2020-12-30",
+            "cp_rate": 0.9921
           }
         ]
       }
@@ -204,9 +198,9 @@
       "buy_confirm_date": 1,
       "buy_query_date": 1,
       "sale_confirm_date": 1,
-      "sale_query_date": 3,
+      "sale_query_date": 2,
       "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 3
     }
   },
   "result_code": 0

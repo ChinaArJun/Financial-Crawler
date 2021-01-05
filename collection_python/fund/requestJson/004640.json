@@ -15,8 +15,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 7.51,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 6.34,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "福斯特",
           "code": "603806",
           "percent": 5.62,
-          "current_price": 73.08,
-          "change_percentage": 2.21,
+          "current_price": 90.74,
+          "change_percentage": 6.25,
           "xq_symbol": "SH603806",
           "xq_url": "https://xueqiu.com/S/SH603806",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "欣旺达",
           "code": "300207",
           "percent": 5.51,
-          "current_price": 29.45,
-          "change_percentage": 7.05,
+          "current_price": 31.74,
+          "change_percentage": 3.35,
           "xq_symbol": "SZ300207",
           "xq_url": "https://xueqiu.com/S/SZ300207",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 4.46,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "光威复材",
           "code": "300699",
           "percent": 4.37,
-          "current_price": 79.25,
-          "change_percentage": -1.02,
+          "current_price": 94.9,
+          "change_percentage": 6.57,
           "xq_symbol": "SZ300699",
           "xq_url": "https://xueqiu.com/S/SZ300699",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "八方股份",
           "code": "603489",
           "percent": 3.96,
-          "current_price": 171.71,
-          "change_percentage": -0.75,
+          "current_price": 185,
+          "change_percentage": -2.79,
           "xq_symbol": "SH603489",
           "xq_url": "https://xueqiu.com/S/SH603489",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "中航高科",
           "code": "600862",
           "percent": 3.5,
-          "current_price": 25.12,
-          "change_percentage": -1.49,
+          "current_price": 31.76,
+          "change_percentage": 5.51,
           "xq_symbol": "SH600862",
           "xq_url": "https://xueqiu.com/S/SH600862",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "三一重工",
           "code": "600031",
           "percent": 3.39,
-          "current_price": 31.48,
-          "change_percentage": -1.41,
+          "current_price": 34.8,
+          "change_percentage": -0.51,
           "xq_symbol": "SH600031",
           "xq_url": "https://xueqiu.com/S/SH600031",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "三花智控",
           "code": "002050",
           "percent": 3.37,
-          "current_price": 24.3,
-          "change_percentage": 2.84,
+          "current_price": 27.12,
+          "change_percentage": 10.02,
           "xq_symbol": "SZ002050",
           "xq_url": "https://xueqiu.com/S/SZ002050",
           "amarket": true
@@ -174,13 +174,13 @@
         "name": "吕佳玮",
         "resume": "    吕佳玮先生,清华大学工学硕士, 2012年7月加入华夏基金管理有限公司,任投资研究部研究员。",
         "college": "清华大学",
-        "work_year": "8",
+        "work_year": "9",
         "achievement_list": [
           {
             "fund_code": "004640",
             "fundsname": "华夏节能环保股票",
             "post_date": "2017-08-11",
-            "cp_rate": 79.89
+            "cp_rate": 111.03
           }
         ]
       }
@@ -191,8 +191,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

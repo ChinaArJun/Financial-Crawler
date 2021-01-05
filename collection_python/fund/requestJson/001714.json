@@ -15,8 +15,8 @@
           "name": "春风动力",
           "code": "603129",
           "percent": 3.94,
-          "current_price": 153.96,
-          "change_percentage": 6.14,
+          "current_price": 168,
+          "change_percentage": -3.55,
           "xq_symbol": "SH603129",
           "xq_url": "https://xueqiu.com/S/SH603129",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "伊利股份",
           "code": "600887",
           "percent": 3.8,
-          "current_price": 40.68,
-          "change_percentage": 1.24,
+          "current_price": 47.36,
+          "change_percentage": 6.74,
           "xq_symbol": "SH600887",
           "xq_url": "https://xueqiu.com/S/SH600887",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "五粮液",
           "code": "000858",
           "percent": 3.74,
-          "current_price": 272,
-          "change_percentage": 0.65,
+          "current_price": 298.05,
+          "change_percentage": 2.12,
           "xq_symbol": "SZ000858",
           "xq_url": "https://xueqiu.com/S/SZ000858",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "中国巨石",
           "code": "600176",
           "percent": 3.55,
-          "current_price": 16.68,
-          "change_percentage": 0,
+          "current_price": 20.39,
+          "change_percentage": 2.15,
           "xq_symbol": "SH600176",
           "xq_url": "https://xueqiu.com/S/SH600176",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "福耀玻璃",
           "code": "600660",
           "percent": 3.45,
-          "current_price": 38.74,
-          "change_percentage": 0,
+          "current_price": 50.95,
+          "change_percentage": 6.04,
           "xq_symbol": "SH600660",
           "xq_url": "https://xueqiu.com/S/SH600660",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "鹏鼎控股",
           "code": "002938",
           "percent": 3.44,
-          "current_price": 54.51,
-          "change_percentage": -2.14,
+          "current_price": 47.88,
+          "change_percentage": -3.6,
           "xq_symbol": "SZ002938",
           "xq_url": "https://xueqiu.com/S/SZ002938",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "分众传媒",
           "code": "002027",
           "percent": 3.03,
-          "current_price": 10.36,
-          "change_percentage": 0.58,
+          "current_price": 10.04,
+          "change_percentage": 1.72,
           "xq_symbol": "SZ002027",
           "xq_url": "https://xueqiu.com/S/SZ002027",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "吉比特",
           "code": "603444",
           "percent": 2.97,
-          "current_price": 410.3,
-          "change_percentage": 2.32,
+          "current_price": 437.99,
+          "change_percentage": 2.81,
           "xq_symbol": "SH603444",
           "xq_url": "https://xueqiu.com/S/SH603444",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "中国平安",
           "code": "601318",
           "percent": 2.83,
-          "current_price": 88.05,
-          "change_percentage": -2.58,
+          "current_price": 85.18,
+          "change_percentage": -2.07,
           "xq_symbol": "SH601318",
           "xq_url": "https://xueqiu.com/S/SH601318",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "杭氧股份",
           "code": "002430",
           "percent": 2.6,
-          "current_price": 27.38,
-          "change_percentage": 1.71,
+          "current_price": 28.8,
+          "change_percentage": -1,
           "xq_symbol": "SZ002430",
           "xq_url": "https://xueqiu.com/S/SZ002430",
           "amarket": true
@@ -176,50 +176,50 @@
     "manager_list": [
       {
         "name": "袁芳",
-        "resume": "    袁芳女士,13年证券从业经验,曾在嘉实基金担任股票交易员;2011年加入工银瑞信,现任研究部大消费研究团队负责人、基金经理,2015年 12月 30日至今,担任工银瑞信文体产业股票型证券投资基金基金经理;2018年 2月 13日至今,担任工银瑞信新生代消费灵活配置混合型证券投资基金基金经理。2019年 5月 6日至今,担任工银瑞信科技创新 3年封闭运作混合型证券投资基金基金经理。2020年 4月 23日至今,担任工银瑞信圆兴混合型证券投资基金基金经理。",
-        "work_year": "12",
+        "resume": "    袁芳女士,13年证券从业经验,曾在嘉实基金担任股票交易员;2011年加入工银瑞信,现任研究部大消费研究团队负责人、基金经理,2015年12月30日至今,担任工银瑞信文体产业股票型证券投资基金基金经理;2018年2月13日至今,担任工银瑞信新生代消费灵活配置混合型证券投资基金基金经理。2019年5月6日至今,担任工银瑞信科技创新3年封闭运作混合型证券投资基金基金经理。2020年4月23日至今,担任工银瑞信圆兴混合型证券投资基金基金经理。2020年6月18日至今,担任工银瑞信高质量成长混合型证券投资基金基金经理。",
+        "work_year": "13",
         "achievement_list": [
           {
             "fund_code": "010687",
             "fundsname": "工银瑞信文体产业股票C",
             "post_date": "2020-11-23",
-            "cp_rate": 2.6316
+            "cp_rate": 10.2265
           },
           {
             "fund_code": "009029",
             "fundsname": "工银瑞信高质量成长混合A",
             "post_date": "2020-06-18",
-            "cp_rate": 16.32
+            "cp_rate": 25.06
           },
           {
             "fund_code": "009030",
             "fundsname": "工银瑞信高质量成长混合C",
             "post_date": "2020-06-18",
-            "cp_rate": 15.89
+            "cp_rate": 24.53
           },
           {
             "fund_code": "009076",
             "fundsname": "工银瑞信圆兴混合",
             "post_date": "2020-04-23",
-            "cp_rate": 53.6668
+            "cp_rate": 67.8839
           },
           {
             "fund_code": "007353",
             "fundsname": "工银科技创新3年封闭混合",
             "post_date": "2019-05-06",
-            "cp_rate": 96.71
+            "cp_rate": 115.1
           },
           {
             "fund_code": "005526",
             "fundsname": "工银新生代消费混合",
             "post_date": "2018-02-13",
-            "cp_rate": 122.3
+            "cp_rate": 127.51
           },
           {
             "fund_code": "001714",
             "fundsname": "工银瑞信文体产业股票A",
             "post_date": "2015-12-30",
-            "cp_rate": 248.4685
+            "cp_rate": 274.3744
           }
         ]
       }

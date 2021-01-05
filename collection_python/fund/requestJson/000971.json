@@ -16,8 +16,8 @@
           "name": "迈为股份",
           "code": "300751",
           "percent": 9.42,
-          "current_price": 529,
-          "change_percentage": 0.03,
+          "current_price": 667.89,
+          "change_percentage": -1.35,
           "xq_symbol": "SZ300751",
           "xq_url": "https://xueqiu.com/S/SZ300751",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "金山办公",
           "code": "688111",
           "percent": 7.16,
-          "current_price": 349.5,
-          "change_percentage": -2.75,
+          "current_price": 420,
+          "change_percentage": 2.19,
           "xq_symbol": "SH688111",
           "xq_url": "https://xueqiu.com/S/SH688111",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "中国中免",
           "code": "601888",
           "percent": 6.97,
-          "current_price": 208.03,
-          "change_percentage": 0.13,
+          "current_price": 292.25,
+          "change_percentage": 3.47,
           "xq_symbol": "SH601888",
           "xq_url": "https://xueqiu.com/S/SH601888",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 6.3,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "豆神教育",
           "code": "300010",
           "percent": 6.25,
-          "current_price": 11.92,
-          "change_percentage": -0.83,
+          "current_price": 9.62,
+          "change_percentage": -1.43,
           "xq_symbol": "SZ300010",
           "xq_url": "https://xueqiu.com/S/SZ300010",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "利亚德",
           "code": "300296",
           "percent": 6.17,
-          "current_price": 7.44,
-          "change_percentage": 2.06,
+          "current_price": 6.4,
+          "change_percentage": 0.63,
           "xq_symbol": "SZ300296",
           "xq_url": "https://xueqiu.com/S/SZ300296",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "TCL科技",
           "code": "000100",
           "percent": 5.4,
-          "current_price": 7.16,
-          "change_percentage": 1.42,
+          "current_price": 7.18,
+          "change_percentage": 1.41,
           "xq_symbol": "SZ000100",
           "xq_url": "https://xueqiu.com/S/SZ000100",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "山西汾酒",
           "code": "600809",
           "percent": 5.03,
-          "current_price": 265.1,
-          "change_percentage": 1.54,
+          "current_price": 373.63,
+          "change_percentage": -0.44,
           "xq_symbol": "SH600809",
           "xq_url": "https://xueqiu.com/S/SH600809",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "恒生电子",
           "code": "600570",
           "percent": 4.01,
-          "current_price": 98.15,
-          "change_percentage": 1.31,
+          "current_price": 106.17,
+          "change_percentage": 1.21,
           "xq_symbol": "SH600570",
           "xq_url": "https://xueqiu.com/S/SH600570",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "药石科技",
           "code": "300725",
           "percent": 2.61,
-          "current_price": 122.8,
-          "change_percentage": 0.62,
+          "current_price": 135.4,
+          "change_percentage": -1.88,
           "xq_symbol": "SZ300725",
           "xq_url": "https://xueqiu.com/S/SZ300725",
           "amarket": true
@@ -195,25 +195,25 @@
       {
         "name": "杨琨",
         "resume": "    杨琨先生,  硕士,曾先后任职于益民基金管理有限公司、天弘基金管理有限公司,从事行业研究工作。2010年加入诺安基金管理有限公司,历任研究员、基金经理助理。2014年6月7日至2015年7月8日任诺安新动力灵活配置混合型证券投资基金基金经理。2017年5月加入诺安基金管理有限公司,任基金经理助理。现拟任诺安改革趋势灵活配置混合型证券投资基金基金经理。2019年1月起任诺安优化配置混合型证券投资基金基金经理,2019年2月起担任诺安新经济股票型证券投资基金基金经理。现拟任诺安新兴产业混合型证券投资基金基金经理,2020年3月起任诺安新兴产业混合型证券投资基金基金经理及诺安双利债券型发起式证券投资基金基金经理。",
-        "work_year": "10",
+        "work_year": "11",
         "achievement_list": [
           {
             "fund_code": "320021",
             "fundsname": "诺安双利债券发起",
             "post_date": "2020-03-24",
-            "cp_rate": 19.1958
+            "cp_rate": 20.4883
           },
           {
             "fund_code": "008328",
             "fundsname": "诺安新兴产业混合",
             "post_date": "2020-03-10",
-            "cp_rate": 33.96
+            "cp_rate": 52.29
           },
           {
             "fund_code": "000971",
             "fundsname": "诺安新经济股票",
             "post_date": "2019-02-20",
-            "cp_rate": 127.4363
+            "cp_rate": 157.8711
           },
           {
             "fund_code": "006025",
@@ -226,7 +226,7 @@
             "fund_code": "001780",
             "fundsname": "诺安改革趋势灵活配置混合",
             "post_date": "2017-08-29",
-            "cp_rate": 68.9
+            "cp_rate": 81
           },
           {
             "fund_code": "320018",
@@ -244,8 +244,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

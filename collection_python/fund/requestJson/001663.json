@@ -16,8 +16,8 @@
           "name": "恒生电子",
           "code": "600570",
           "percent": 6.71,
-          "current_price": 98.15,
-          "change_percentage": 1.31,
+          "current_price": 106.17,
+          "change_percentage": 1.21,
           "xq_symbol": "SH600570",
           "xq_url": "https://xueqiu.com/S/SH600570",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "吉比特",
           "code": "603444",
           "percent": 5.41,
-          "current_price": 410.3,
-          "change_percentage": 2.32,
+          "current_price": 437.99,
+          "change_percentage": 2.81,
           "xq_symbol": "SH603444",
           "xq_url": "https://xueqiu.com/S/SH603444",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "歌尔股份",
           "code": "002241",
           "percent": 5.15,
-          "current_price": 37.16,
-          "change_percentage": -2.24,
+          "current_price": 36.74,
+          "change_percentage": -1.55,
           "xq_symbol": "SZ002241",
           "xq_url": "https://xueqiu.com/S/SZ002241",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "京东方A",
           "code": "000725",
           "percent": 5.14,
-          "current_price": 5.25,
-          "change_percentage": -0.57,
+          "current_price": 5.92,
+          "change_percentage": -1.33,
           "xq_symbol": "SZ000725",
           "xq_url": "https://xueqiu.com/S/SZ000725",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 4.75,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "深信服",
           "code": "300454",
           "percent": 4.61,
-          "current_price": 217.55,
-          "change_percentage": 3.2,
+          "current_price": 266,
+          "change_percentage": 7.25,
           "xq_symbol": "SZ300454",
           "xq_url": "https://xueqiu.com/S/SZ300454",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "天下秀",
           "code": "600556",
           "percent": 4.37,
-          "current_price": 13.9,
-          "change_percentage": 0.51,
+          "current_price": 12.35,
+          "change_percentage": -2.37,
           "xq_symbol": "SH600556",
           "xq_url": "https://xueqiu.com/S/SH600556",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "北方华创",
           "code": "002371",
           "percent": 4.34,
-          "current_price": 172.8,
-          "change_percentage": -1.71,
+          "current_price": 192.75,
+          "change_percentage": 6.64,
           "xq_symbol": "SZ002371",
           "xq_url": "https://xueqiu.com/S/SZ002371",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "完美世界",
           "code": "002624",
           "percent": 4.21,
-          "current_price": 28.49,
-          "change_percentage": 0.49,
+          "current_price": 30.1,
+          "change_percentage": 2.03,
           "xq_symbol": "SZ002624",
           "xq_url": "https://xueqiu.com/S/SZ002624",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "奇安信",
           "code": "688561",
           "percent": 4.06,
-          "current_price": 110.62,
-          "change_percentage": -1.47,
+          "current_price": 133.18,
+          "change_percentage": 5.61,
           "xq_symbol": "SH688561",
           "xq_url": "https://xueqiu.com/S/SH688561",
           "amarket": true
@@ -203,19 +203,19 @@
       {
         "name": "欧阳力君",
         "resume": "    欧阳力君(OU Yanglijun)先生,工商管理硕士。曾任中银国际证券助理研究员,北京高华证券助理研究员。2012 年加入中银基金管理有限公司,曾任研究员。2018 年3 月至今任中银优秀企业基金基金经理,2018 年3 月至2019 年6 月任中银移动互联基金基金经理,2019 年9 月至今任中银互联网+基金基金经理。具有11 年证券从业年限。具备基金、证券从业资格。",
-        "work_year": "12",
+        "work_year": "13",
         "achievement_list": [
           {
             "fund_code": "001663",
             "fundsname": "中银互联网+股票",
             "post_date": "2019-09-18",
-            "cp_rate": 25.0758
+            "cp_rate": 29.3225
           },
           {
             "fund_code": "000432",
             "fundsname": "中银优秀企业混合",
             "post_date": "2018-03-02",
-            "cp_rate": 42.9408
+            "cp_rate": 46.4541
           },
           {
             "fund_code": "002180",

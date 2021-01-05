@@ -15,8 +15,8 @@
           "name": "三一重工",
           "code": "600031",
           "percent": 6.62,
-          "current_price": 31.48,
-          "change_percentage": -1.41,
+          "current_price": 34.8,
+          "change_percentage": -0.51,
           "xq_symbol": "SH600031",
           "xq_url": "https://xueqiu.com/S/SH600031",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "泸州老窖",
           "code": "000568",
           "percent": 4.72,
-          "current_price": 191.85,
-          "change_percentage": 0.56,
+          "current_price": 240.85,
+          "change_percentage": 6.5,
           "xq_symbol": "SZ000568",
           "xq_url": "https://xueqiu.com/S/SZ000568",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "五粮液",
           "code": "000858",
           "percent": 4.55,
-          "current_price": 272,
-          "change_percentage": 0.65,
+          "current_price": 298.05,
+          "change_percentage": 2.12,
           "xq_symbol": "SZ000858",
           "xq_url": "https://xueqiu.com/S/SZ000858",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "常熟银行",
           "code": "601128",
           "percent": 3.86,
-          "current_price": 7.34,
-          "change_percentage": -0.14,
+          "current_price": 7.15,
+          "change_percentage": -3.12,
           "xq_symbol": "SH601128",
           "xq_url": "https://xueqiu.com/S/SH601128",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 3.68,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "万华化学",
           "code": "600309",
           "percent": 3.64,
-          "current_price": 82.99,
-          "change_percentage": -0.3,
+          "current_price": 94.12,
+          "change_percentage": 3.38,
           "xq_symbol": "SH600309",
           "xq_url": "https://xueqiu.com/S/SH600309",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "仙琚制药",
           "code": "002332",
           "percent": 3.54,
-          "current_price": 14.39,
-          "change_percentage": 1.34,
+          "current_price": 13.38,
+          "change_percentage": 0.15,
           "xq_symbol": "SZ002332",
           "xq_url": "https://xueqiu.com/S/SZ002332",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "中国平安",
           "code": "601318",
           "percent": 3.53,
-          "current_price": 88.05,
-          "change_percentage": -2.58,
+          "current_price": 85.18,
+          "change_percentage": -2.07,
           "xq_symbol": "SH601318",
           "xq_url": "https://xueqiu.com/S/SH601318",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "扬农化工",
           "code": "600486",
           "percent": 3.41,
-          "current_price": 120.75,
-          "change_percentage": 0.02,
+          "current_price": 130.56,
+          "change_percentage": -1.09,
           "xq_symbol": "SH600486",
           "xq_url": "https://xueqiu.com/S/SH600486",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "先达股份",
           "code": "603086",
           "percent": 3.17,
-          "current_price": 17.97,
-          "change_percentage": 0.73,
+          "current_price": 15.58,
+          "change_percentage": 0.19,
           "xq_symbol": "SH603086",
           "xq_url": "https://xueqiu.com/S/SH603086",
           "amarket": true
@@ -181,19 +181,19 @@
       {
         "name": "饶玉涵",
         "resume": "    饶玉涵,硕士研究生,8年证券基金从业经历。2010年7月加入国泰基金管理有限公司,历任研究员和基金经理助理。2015年9月起任国泰区位优势混合型证券投资基金的基金经理,2016年1月起兼任国泰央企改革股票型证券投资基金的基金经理,2016年7月起兼任国泰金鹏蓝筹价值混合型证券投资基金的基金经理,2018年3月起兼任国泰金鼎价值精选混合型证券投资基金的基金经理。",
-        "work_year": "10",
+        "work_year": "11",
         "achievement_list": [
           {
             "fund_code": "006354",
             "fundsname": "国泰民裕进取灵活配置混合",
             "post_date": "2020-09-29",
-            "cp_rate": 1.01
+            "cp_rate": 1.83
           },
           {
             "fund_code": "519021",
             "fundsname": "国泰金鼎价值混合",
             "post_date": "2018-03-13",
-            "cp_rate": 55.5935
+            "cp_rate": 66.6035
           },
           {
             "fund_code": "020009",
@@ -206,13 +206,13 @@
             "fund_code": "001626",
             "fundsname": "国泰央企改革股票",
             "post_date": "2016-01-08",
-            "cp_rate": 138.8286
+            "cp_rate": 154.9892
           },
           {
             "fund_code": "020015",
             "fundsname": "国泰区位优势混合",
             "post_date": "2015-09-09",
-            "cp_rate": 146.3507
+            "cp_rate": 164.6578
           }
         ]
       }

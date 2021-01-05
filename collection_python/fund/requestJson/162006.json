@@ -16,8 +16,8 @@
           "name": "中材科技",
           "code": "002080",
           "percent": 9.28,
-          "current_price": 19.29,
-          "change_percentage": 0,
+          "current_price": 24.75,
+          "change_percentage": 2.36,
           "xq_symbol": "SZ002080",
           "xq_url": "https://xueqiu.com/S/SZ002080",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "联得装备",
           "code": "300545",
           "percent": 9.06,
-          "current_price": 30.21,
-          "change_percentage": 0.03,
+          "current_price": 27.51,
+          "change_percentage": 0.73,
           "xq_symbol": "SZ300545",
           "xq_url": "https://xueqiu.com/S/SZ300545",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "伯特利",
           "code": "603596",
           "percent": 8.65,
-          "current_price": 38.48,
-          "change_percentage": 2.34,
+          "current_price": 35.8,
+          "change_percentage": 4.62,
           "xq_symbol": "SH603596",
           "xq_url": "https://xueqiu.com/S/SH603596",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "建设机械",
           "code": "600984",
           "percent": 6.71,
-          "current_price": 14.92,
-          "change_percentage": 0.27,
+          "current_price": 12.6,
+          "change_percentage": 2.02,
           "xq_symbol": "SH600984",
           "xq_url": "https://xueqiu.com/S/SH600984",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "鸿路钢构",
           "code": "002541",
           "percent": 6.46,
-          "current_price": 38.19,
-          "change_percentage": 1.84,
+          "current_price": 35.85,
+          "change_percentage": -1.86,
           "xq_symbol": "SZ002541",
           "xq_url": "https://xueqiu.com/S/SZ002541",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "亚厦股份",
           "code": "002375",
           "percent": 4.34,
-          "current_price": 8.53,
-          "change_percentage": -0.23,
+          "current_price": 7.13,
+          "change_percentage": -4.17,
           "xq_symbol": "SZ002375",
           "xq_url": "https://xueqiu.com/S/SZ002375",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "华测导航",
           "code": "300627",
           "percent": 3.94,
-          "current_price": 22.72,
-          "change_percentage": -0.26,
+          "current_price": 23.2,
+          "change_percentage": 2.07,
           "xq_symbol": "SZ300627",
           "xq_url": "https://xueqiu.com/S/SZ300627",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "坚朗五金",
           "code": "002791",
           "percent": 3.85,
-          "current_price": 135.48,
-          "change_percentage": 0.73,
+          "current_price": 148.1,
+          "change_percentage": 2.85,
           "xq_symbol": "SZ002791",
           "xq_url": "https://xueqiu.com/S/SZ002791",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "安车检测",
           "code": "300572",
           "percent": 3.53,
-          "current_price": 44.07,
-          "change_percentage": 0.07,
+          "current_price": 40.41,
+          "change_percentage": -1.15,
           "xq_symbol": "SZ300572",
           "xq_url": "https://xueqiu.com/S/SZ300572",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "江山欧派",
           "code": "603208",
           "percent": 2.67,
-          "current_price": 104.11,
-          "change_percentage": -0.67,
+          "current_price": 100.4,
+          "change_percentage": -4.61,
           "xq_symbol": "SH603208",
           "xq_url": "https://xueqiu.com/S/SH603208",
           "amarket": true
@@ -184,13 +184,13 @@
         "name": "陈良栋",
         "resume": "    陈良栋先生, 清华大学工学与经济学双学士、清华大学工学硕士。2011年进入长城基金管理有限公司,曾任行业研究员、“长城消费增值股票型证券投资基金”基金经理助理。自2015年11月至2018年9月任“长城保本混合型证券投资基金”基金经理,自2015年11月至2018年11月任“长城久祥保本混合型证券投资基金”基金经理,自2016年5月至2018年11月任“长城久益保本混合型证券投资基金”基金经理,自2016年3月至2019年1月任“长城久安保本混合型证券投资基金”基金经理,自2016年8月至2019年7月任“长城久鼎保本混合型证券投资基金”基金经理。自2017年3月至今任“长城新兴产业灵活配置混合型证券投资基金”基金经理,自2018年11月至今任“长城久祥灵活配置混合型证券投资基金”基金经理,自2018年12月至今任“长城久富核心成长混合型证券投资基金(LOF)”基金经理。",
         "college": "清华大学",
-        "work_year": "9",
+        "work_year": "10",
         "achievement_list": [
           {
             "fund_code": "162006",
             "fundsname": "长城久富核心成长混合(LOF)",
             "post_date": "2018-12-28",
-            "cp_rate": 113.4583
+            "cp_rate": 121.7737
           },
           {
             "fund_code": "001613",
@@ -203,7 +203,7 @@
             "fund_code": "000976",
             "fundsname": "长城新兴产业灵活配置混合",
             "post_date": "2017-03-16",
-            "cp_rate": 91.2845
+            "cp_rate": 99.1466
           },
           {
             "fund_code": "002542",

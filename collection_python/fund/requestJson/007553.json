@@ -16,8 +16,8 @@
           "name": "欧普康视",
           "code": "300595",
           "percent": 9.6,
-          "current_price": 73.1,
-          "change_percentage": -0.41,
+          "current_price": 81.96,
+          "change_percentage": 0.05,
           "xq_symbol": "SZ300595",
           "xq_url": "https://xueqiu.com/S/SZ300595",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "九洲药业",
           "code": "603456",
           "percent": 8.54,
-          "current_price": 32.24,
-          "change_percentage": 1.9,
+          "current_price": 35,
+          "change_percentage": -2.23,
           "xq_symbol": "SH603456",
           "xq_url": "https://xueqiu.com/S/SH603456",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "长春高新",
           "code": "000661",
           "percent": 7.36,
-          "current_price": 388,
-          "change_percentage": 0.19,
+          "current_price": 473.45,
+          "change_percentage": 5.47,
           "xq_symbol": "SZ000661",
           "xq_url": "https://xueqiu.com/S/SZ000661",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "康泰生物",
           "code": "300601",
           "percent": 6.23,
-          "current_price": 158.41,
-          "change_percentage": -1.36,
+          "current_price": 165.98,
+          "change_percentage": -4.88,
           "xq_symbol": "SZ300601",
           "xq_url": "https://xueqiu.com/S/SZ300601",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "智飞生物",
           "code": "300122",
           "percent": 6.15,
-          "current_price": 139.38,
-          "change_percentage": -0.39,
+          "current_price": 143.22,
+          "change_percentage": -3.17,
           "xq_symbol": "SZ300122",
           "xq_url": "https://xueqiu.com/S/SZ300122",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 5.37,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "凯莱英",
           "code": "002821",
           "percent": 5.27,
-          "current_price": 274,
-          "change_percentage": 1.64,
+          "current_price": 297.92,
+          "change_percentage": -0.41,
           "xq_symbol": "SZ002821",
           "xq_url": "https://xueqiu.com/S/SZ002821",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "新产业",
           "code": "300832",
           "percent": 5.21,
-          "current_price": 154.6,
-          "change_percentage": 0.79,
+          "current_price": 136.71,
+          "change_percentage": 3.52,
           "xq_symbol": "SZ300832",
           "xq_url": "https://xueqiu.com/S/SZ300832",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "药明康德",
           "code": "603259",
           "percent": 5.07,
-          "current_price": 110.9,
-          "change_percentage": -0.12,
+          "current_price": 137.11,
+          "change_percentage": 1.77,
           "xq_symbol": "SH603259",
           "xq_url": "https://xueqiu.com/S/SH603259",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "心脉医疗",
           "code": "688016",
           "percent": 4.64,
-          "current_price": 239.89,
-          "change_percentage": 0.43,
+          "current_price": 251.52,
+          "change_percentage": 0.13,
           "xq_symbol": "SH688016",
           "xq_url": "https://xueqiu.com/S/SH688016",
           "amarket": true
@@ -185,37 +185,37 @@
             "fund_code": "010090",
             "fundsname": "中信建投医药健康A",
             "post_date": "2020-09-24",
-            "cp_rate": 0.14
+            "cp_rate": 2.05
           },
           {
             "fund_code": "010091",
             "fundsname": "中信建投医药健康C",
             "post_date": "2020-09-24",
-            "cp_rate": -0.02
+            "cp_rate": 1.83
           },
           {
             "fund_code": "007553",
             "fundsname": "中信建投医改灵活配置混合C",
             "post_date": "2019-06-18",
-            "cp_rate": 91.1256
+            "cp_rate": 111.1859
           },
           {
             "fund_code": "002408",
             "fundsname": "中信建投医改灵活配置混合A",
             "post_date": "2019-04-11",
-            "cp_rate": 126.2934
+            "cp_rate": 150.0991
           },
           {
             "fund_code": "006845",
             "fundsname": "中信建投聚利混合C",
             "post_date": "2019-01-04",
-            "cp_rate": 20.352
+            "cp_rate": 27.1127
           },
           {
             "fund_code": "001914",
             "fundsname": "中信建投聚利混合A",
             "post_date": "2018-06-05",
-            "cp_rate": 7.4583
+            "cp_rate": 13.5336
           }
         ]
       }

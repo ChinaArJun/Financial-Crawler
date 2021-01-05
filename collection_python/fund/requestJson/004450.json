@@ -32,8 +32,8 @@
           "name": "广联达",
           "code": "002410",
           "percent": 8.27,
-          "current_price": 70.77,
-          "change_percentage": 2.08,
+          "current_price": 80.53,
+          "change_percentage": 2.27,
           "xq_symbol": "SZ002410",
           "xq_url": "https://xueqiu.com/S/SZ002410",
           "amarket": true
@@ -50,8 +50,8 @@
           "name": "亿联网络",
           "code": "300628",
           "percent": 5.16,
-          "current_price": 76.78,
-          "change_percentage": 1.04,
+          "current_price": 71.79,
+          "change_percentage": -1.82,
           "xq_symbol": "SZ300628",
           "xq_url": "https://xueqiu.com/S/SZ300628",
           "amarket": true
@@ -60,8 +60,8 @@
           "name": "泛微网络",
           "code": "603039",
           "percent": 5.11,
-          "current_price": 94.24,
-          "change_percentage": 0.6,
+          "current_price": 101.99,
+          "change_percentage": 1.02,
           "xq_symbol": "SH603039",
           "xq_url": "https://xueqiu.com/S/SH603039",
           "amarket": true
@@ -70,8 +70,8 @@
           "name": "绿盟科技",
           "code": "300369",
           "percent": 5.04,
-          "current_price": 16.66,
-          "change_percentage": -0.48,
+          "current_price": 15.37,
+          "change_percentage": 0.59,
           "xq_symbol": "SZ300369",
           "xq_url": "https://xueqiu.com/S/SZ300369",
           "amarket": true
@@ -80,8 +80,8 @@
           "name": "新宙邦",
           "code": "300037",
           "percent": 4.81,
-          "current_price": 99.89,
-          "change_percentage": 12.22,
+          "current_price": 106.5,
+          "change_percentage": 5.03,
           "xq_symbol": "SZ300037",
           "xq_url": "https://xueqiu.com/S/SZ300037",
           "amarket": true
@@ -98,8 +98,8 @@
           "name": "长亮科技",
           "code": "300348",
           "percent": 3.73,
-          "current_price": 20.67,
-          "change_percentage": -0.34,
+          "current_price": 19.52,
+          "change_percentage": 2.74,
           "xq_symbol": "SZ300348",
           "xq_url": "https://xueqiu.com/S/SZ300348",
           "amarket": true
@@ -175,31 +175,31 @@
       {
         "name": "张丹华",
         "resume": "    张丹华先生,博士,9年证券从业经历,具有基金从业资格。2011年6月加入嘉实基金管理有限公司研究部任研究员。2017年12月30日至2019年1月10日任嘉实沪港深回报混合型证券投资基金基金经理、2017年12月30日至2019年1月10日任嘉实沪港深精选股票型证券投资基金基金经理。2015年5月15日至今任嘉实全球互联网股票型证券投资基金基金经理、2017年5月19日至今任嘉实前沿科技沪港深股票型证券投资基金基金经理、2018年5月25日至今任嘉实文体娱乐股票型证券投资基金基金经理、2018年11月1日至今任嘉实研究阿尔法股票型证券投资基金基金经理、2018年11月1日至今任嘉实研究精选混合型证券投资基金基金经理、2018年11月1日至今任嘉实研究增强灵活配置混合型证券投资基金基金经理、2020年7月21日至今任嘉实科技创新混合型证券投资基金基金经理。",
-        "work_year": "9",
+        "work_year": "10",
         "achievement_list": [
           {
             "fund_code": "009995",
             "fundsname": "嘉实创新先锋混合C",
             "post_date": "2020-10-20",
-            "cp_rate": 0.19
+            "cp_rate": 3.14
           },
           {
             "fund_code": "009994",
             "fundsname": "嘉实创新先锋混合A",
             "post_date": "2020-10-20",
-            "cp_rate": 0.24
+            "cp_rate": 3.22
           },
           {
             "fund_code": "009993",
             "fundsname": "嘉实前沿创新混合",
             "post_date": "2020-09-14",
-            "cp_rate": 2.85
+            "cp_rate": 16.39
           },
           {
             "fund_code": "007343",
             "fundsname": "嘉实科技创新混合",
             "post_date": "2020-07-21",
-            "cp_rate": 12.1996
+            "cp_rate": 21.2441
           },
           {
             "fund_code": "001758",
@@ -226,13 +226,13 @@
             "fund_code": "003054",
             "fundsname": "嘉实文体娱乐股票C",
             "post_date": "2018-05-25",
-            "cp_rate": 43.398
+            "cp_rate": 56.325
           },
           {
             "fund_code": "003053",
             "fundsname": "嘉实文体娱乐股票A",
             "post_date": "2018-05-25",
-            "cp_rate": 45.0046
+            "cp_rate": 58.2035
           },
           {
             "fund_code": "004477",
@@ -252,25 +252,25 @@
             "fund_code": "004450",
             "fundsname": "嘉实前沿科技沪港深股票",
             "post_date": "2017-05-19",
-            "cp_rate": 113.8086
+            "cp_rate": 132.8267
           },
           {
             "fund_code": "000989",
             "fundsname": "嘉实全球互联网(QDII)美元现汇",
             "post_date": "2015-05-15",
-            "cp_rate": 69.8234
+            "cp_rate": 67.817
           },
           {
             "fund_code": "000990",
             "fundsname": "嘉实全球互联网(QDII)美元现钞",
             "post_date": "2015-05-15",
-            "cp_rate": 69.8234
+            "cp_rate": 67.817
           },
           {
             "fund_code": "000988",
             "fundsname": "嘉实全球互联网(QDII)人民币",
             "post_date": "2015-05-15",
-            "cp_rate": 83.1587
+            "cp_rate": 80.4996
           }
         ]
       }

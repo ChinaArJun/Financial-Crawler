@@ -15,8 +15,8 @@
           "name": "沪硅产业",
           "code": "688126",
           "percent": 1.39,
-          "current_price": 36.12,
-          "change_percentage": 0.61,
+          "current_price": 33.66,
+          "change_percentage": 1.63,
           "xq_symbol": "SH688126",
           "xq_url": "https://xueqiu.com/S/SH688126",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "凯莱英",
           "code": "002821",
           "percent": 0.68,
-          "current_price": 274,
-          "change_percentage": 1.64,
+          "current_price": 297.92,
+          "change_percentage": -0.41,
           "xq_symbol": "SZ002821",
           "xq_url": "https://xueqiu.com/S/SZ002821",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "辽宁成大",
           "code": "600739",
           "percent": 0.63,
-          "current_price": 23.26,
-          "change_percentage": 0.48,
+          "current_price": 24.03,
+          "change_percentage": -1.19,
           "xq_symbol": "SH600739",
           "xq_url": "https://xueqiu.com/S/SH600739",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "卫宁健康",
           "code": "300253",
           "percent": 0.61,
-          "current_price": 17.31,
-          "change_percentage": 1.82,
+          "current_price": 17.29,
+          "change_percentage": -1.2,
           "xq_symbol": "SZ300253",
           "xq_url": "https://xueqiu.com/S/SZ300253",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "华测检测",
           "code": "300012",
           "percent": 0.6,
-          "current_price": 25.3,
-          "change_percentage": 1.61,
+          "current_price": 27.57,
+          "change_percentage": 0.73,
           "xq_symbol": "SZ300012",
           "xq_url": "https://xueqiu.com/S/SZ300012",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "生物股份",
           "code": "600201",
           "percent": 0.56,
-          "current_price": 23.71,
-          "change_percentage": -1.33,
+          "current_price": 21.09,
+          "change_percentage": 0.96,
           "xq_symbol": "SH600201",
           "xq_url": "https://xueqiu.com/S/SH600201",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "安琪酵母",
           "code": "600298",
           "percent": 0.55,
-          "current_price": 50.15,
-          "change_percentage": -0.89,
+          "current_price": 53,
+          "change_percentage": 3.78,
           "xq_symbol": "SH600298",
           "xq_url": "https://xueqiu.com/S/SH600298",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "欣旺达",
           "code": "300207",
           "percent": 0.54,
-          "current_price": 29.45,
-          "change_percentage": 7.05,
+          "current_price": 31.74,
+          "change_percentage": 3.35,
           "xq_symbol": "SZ300207",
           "xq_url": "https://xueqiu.com/S/SZ300207",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "人福医药",
           "code": "600079",
           "percent": 0.54,
-          "current_price": 33.6,
-          "change_percentage": -0.88,
+          "current_price": 31.84,
+          "change_percentage": -6.02,
           "xq_symbol": "SH600079",
           "xq_url": "https://xueqiu.com/S/SH600079",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "南极电商",
           "code": "002127",
           "percent": 0.53,
-          "current_price": 15.72,
-          "change_percentage": -2.84,
+          "current_price": 12.31,
+          "change_percentage": -10.01,
           "xq_symbol": "SZ002127",
           "xq_url": "https://xueqiu.com/S/SZ002127",
           "amarket": true
@@ -157,61 +157,61 @@
       {
         "name": "张羽翔",
         "resume": "    张羽翔先生,国籍中国,工学硕士,13年证券基金从业经验。曾任招商银行软件中心(原深圳市融博技术公司)数据分析师;2011年3月加盟鹏华基金管理有限公司,历任监察稽核部资深金融工程师、量化及衍生品投资部资深量化研究员,先后从事金融工程、量化研究等工作;现任量化及衍生品投资部基金经理。2015年09月担任民企ETF基金基金经理,2015年09月担任鹏华上证民企50ETF联接基金基金经理,2016年06月至2018年05月担任鹏华新丝路分级基金基金经理,2016年07月担任鹏华高铁分级基金基金经理,2016年09月担任鹏华沪深300指数(LOF)基金基金经理,2016年09月担任鹏华中证500指数(LOF)基金基金经理,2016年11月担任鹏华新能源分级基金基金经理,2016年11月担任鹏华一带一路分级基金基金经理,2018年04月担任鹏华互联网分级基金基金经理,2018年04月担任鹏华创业板分级基金基金经理,2018年05月至2018年08月担任鹏华沪深300指数增强基金基金经理,2018年05月担任鹏华钢铁分级基金基金经理,2018年05月担任鹏华香港中小企业指数(LOF)基金基金经理,2019年04月担任酒ETF基金基金经理,2019年07月担任国防ETF基金基金经理,2019年11月担任鹏华香港银行指数(LOF)基金基金经理,2019年12月担任银行FUND基金基金经理,2020年02月担任证保ETF基金基金经理,2020年03月担任传媒ETF基金基金经理。张羽翔先生具备基金从业资格。",
-        "work_year": "13",
+        "work_year": "14",
         "achievement_list": [
           {
             "fund_code": "010365",
             "fundsname": "鹏华香港银行指数C(LOF)",
             "post_date": "2020-10-27",
-            "cp_rate": 7.76
+            "cp_rate": 6.42
           },
           {
             "fund_code": "159805",
             "fundsname": "鹏华中证传媒ETF",
             "post_date": "2020-03-06",
-            "cp_rate": 13.95
+            "cp_rate": 8.26
           },
           {
             "fund_code": "515630",
             "fundsname": "鹏华中证800证券保险ETF",
             "post_date": "2020-02-28",
-            "cp_rate": 33.6897
+            "cp_rate": 32.3609
           },
           {
             "fund_code": "512730",
             "fundsname": "鹏华中证银行ETF",
             "post_date": "2019-12-19",
-            "cp_rate": 10.96
+            "cp_rate": 9.53
           },
           {
             "fund_code": "501025",
             "fundsname": "鹏华香港银行指数A(LOF)",
             "post_date": "2019-11-22",
-            "cp_rate": -13.0655
+            "cp_rate": -14.1332
           },
           {
             "fund_code": "512670",
             "fundsname": "鹏华中证国防ETF",
             "post_date": "2019-07-05",
-            "cp_rate": 78.11
+            "cp_rate": 106.72
           },
           {
             "fund_code": "512690",
             "fundsname": "鹏华中证酒ETF",
             "post_date": "2019-04-04",
-            "cp_rate": 128.973
+            "cp_rate": 169.4509
           },
           {
             "fund_code": "006938",
             "fundsname": "鹏华中证500指数(LOF)C",
             "post_date": "2019-01-22",
-            "cp_rate": 70.8
+            "cp_rate": 70.1
           },
           {
             "fund_code": "006939",
             "fundsname": "鹏华沪深300指数(LOF)C",
             "post_date": "2019-01-22",
-            "cp_rate": 78.6
+            "cp_rate": 85.4
           },
           {
             "fund_code": "502023",
@@ -224,7 +224,7 @@
             "fund_code": "501023",
             "fundsname": "鹏华香港中小企业指数(LOF)",
             "post_date": "2018-05-31",
-            "cp_rate": -12.1294
+            "cp_rate": -10.5203
           },
           {
             "fund_code": "502025",
@@ -335,13 +335,13 @@
             "fund_code": "160615",
             "fundsname": "鹏华沪深300指数(LOF)A",
             "post_date": "2016-09-24",
-            "cp_rate": 86.6692
+            "cp_rate": 93.8491
           },
           {
             "fund_code": "160616",
             "fundsname": "鹏华中证500指数(LOF)A",
             "post_date": "2016-09-24",
-            "cp_rate": 28.4695
+            "cp_rate": 27.9937
           },
           {
             "fund_code": "150278",
@@ -408,8 +408,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

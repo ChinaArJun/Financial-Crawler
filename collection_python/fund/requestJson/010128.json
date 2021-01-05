@@ -69,67 +69,67 @@
         "name": "张仲维",
         "resume": "    张仲维先生,台湾政治大学国际经营与贸易学硕士。曾任台湾元大宝来证券投资信托股份有限公司国际部研究员、基金经理,华润元大基金管理有限公司研究员、基金经理;自2015年5月加入宝盈基金管理有限公司,历任研究部研究员、投资经理,现任宝盈科技30灵活配置混合型证券投资基金、宝盈互联网沪港深灵活配置混合型证券投资基金、宝盈人工智能主题股票型证券投资基金、宝盈增强收益债券型证券投资基金、宝盈创新驱动股票型证券投资基金、宝盈发展新动能股票型证券投资基金基金经理。",
         "college": "台湾政治大学",
-        "work_year": "10",
+        "work_year": "11",
         "achievement_list": [
           {
             "fund_code": "010129",
             "fundsname": "宝盈发展新动能股票C",
             "post_date": "2020-09-27",
-            "cp_rate": 0.73
+            "cp_rate": 9.77
           },
           {
             "fund_code": "010128",
             "fundsname": "宝盈发展新动能股票A",
             "post_date": "2020-09-27",
-            "cp_rate": 0.82
+            "cp_rate": 9.91
           },
           {
             "fund_code": "009492",
             "fundsname": "宝盈创新驱动股票C",
             "post_date": "2020-08-10",
-            "cp_rate": 2.9
+            "cp_rate": 11.68
           },
           {
             "fund_code": "009491",
             "fundsname": "宝盈创新驱动股票A",
             "post_date": "2020-08-10",
-            "cp_rate": 3.07
+            "cp_rate": 11.9
           },
           {
             "fund_code": "213007",
             "fundsname": "宝盈增强收益债券A/B",
             "post_date": "2020-08-06",
-            "cp_rate": -0.8314
+            "cp_rate": 0.4717
           },
           {
             "fund_code": "213917",
             "fundsname": "宝盈增强收益债券C",
             "post_date": "2020-08-06",
-            "cp_rate": -0.98
+            "cp_rate": 0.2891
           },
           {
             "fund_code": "005963",
             "fundsname": "宝盈人工智能股票C",
             "post_date": "2018-08-15",
-            "cp_rate": 157.23
+            "cp_rate": 176.21
           },
           {
             "fund_code": "005962",
             "fundsname": "宝盈人工智能股票A",
             "post_date": "2018-08-15",
-            "cp_rate": 162.04
+            "cp_rate": 181.53
           },
           {
             "fund_code": "002482",
             "fundsname": "宝盈互联网沪港深混合",
             "post_date": "2016-09-21",
-            "cp_rate": 177.6435
+            "cp_rate": 202.719
           },
           {
             "fund_code": "000698",
             "fundsname": "宝盈科技30混合",
             "post_date": "2016-09-21",
-            "cp_rate": 86.145
+            "cp_rate": 102.3092
           },
           {
             "fund_code": "000273",
@@ -154,8 +154,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

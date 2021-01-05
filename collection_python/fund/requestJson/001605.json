@@ -24,8 +24,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 3.4,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -34,8 +34,8 @@
           "name": "卫星石化",
           "code": "002648",
           "percent": 2.98,
-          "current_price": 25.3,
-          "change_percentage": -0.67,
+          "current_price": 26,
+          "change_percentage": -0.46,
           "xq_symbol": "SZ002648",
           "xq_url": "https://xueqiu.com/S/SZ002648",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 2.55,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "龙蟒佰利",
           "code": "002601",
           "percent": 2.51,
-          "current_price": 31.77,
-          "change_percentage": 2.22,
+          "current_price": 32.23,
+          "change_percentage": 4.74,
           "xq_symbol": "SZ002601",
           "xq_url": "https://xueqiu.com/S/SZ002601",
           "amarket": true
@@ -180,67 +180,67 @@
         "name": "徐成",
         "resume": "    徐成先生,CFA,朴茨茅斯大学(英国)金融决策分析硕士。历任永丰金证券(亚洲)有限公司上海办事处研究员,新加坡东京海上国际资产管理有限公司上海办事处研究员、高级研究员、首席代表。现任国海富兰克林基金管理有限公司QDII投资副总监,国富亚洲机会股票(QDII)基金、国富大中华精选混合(QDII)基金、国富美元债定期债券(QDII)基金、国富沪港深成长精选股票基金、国富估值优势混合基金及国富全球科技互联混合(QDII)基金的基金经理。",
         "college": "朴茨茅斯大学",
-        "work_year": "14",
+        "work_year": "15",
         "achievement_list": [
           {
             "fund_code": "009846",
             "fundsname": "富兰克林国海港股通远见价值混合",
             "post_date": "2020-08-18",
-            "cp_rate": 0.69
+            "cp_rate": 7.38
           },
           {
             "fund_code": "006370",
             "fundsname": "富兰克林国海大中华精选混合美元",
             "post_date": "2019-04-15",
-            "cp_rate": 79.2208
+            "cp_rate": 86.5801
           },
           {
             "fund_code": "006374",
             "fundsname": "国富全球科技互联混合(QDII)美元现汇",
             "post_date": "2018-11-20",
-            "cp_rate": 122.4867
+            "cp_rate": 126.9981
           },
           {
             "fund_code": "006373",
             "fundsname": "国富全球科技互联混合(QDII)人民币",
             "post_date": "2018-11-20",
-            "cp_rate": 111.0289
+            "cp_rate": 114.8685
           },
           {
             "fund_code": "006039",
             "fundsname": "富兰克林国海估值优势混合",
             "post_date": "2018-08-22",
-            "cp_rate": 120.56
+            "cp_rate": 136.84
           },
           {
             "fund_code": "001605",
             "fundsname": "国富沪港深成长精选股票",
             "post_date": "2017-07-08",
-            "cp_rate": 159.3164
+            "cp_rate": 177.6185
           },
           {
             "fund_code": "003973",
             "fundsname": "国富美元债定期债券(QDII)美元现汇",
             "post_date": "2017-01-25",
-            "cp_rate": 12.2085
+            "cp_rate": 12.62
           },
           {
             "fund_code": "003972",
             "fundsname": "国富美元债定期债券(QDII)人民币",
             "post_date": "2017-01-25",
-            "cp_rate": 7.16
+            "cp_rate": 7.31
           },
           {
             "fund_code": "000934",
             "fundsname": "富兰克林国海大中华精选混合",
             "post_date": "2015-12-24",
-            "cp_rate": 175.8192
+            "cp_rate": 186.3277
           },
           {
             "fund_code": "457001",
             "fundsname": "国富亚洲机会股票(QDII)",
             "post_date": "2015-12-24",
-            "cp_rate": 109.8558
+            "cp_rate": 121.2019
           }
         ]
       }

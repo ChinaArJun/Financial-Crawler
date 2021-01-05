@@ -117,91 +117,94 @@
       {
         "name": "王朔",
         "resume": "    王朔先生,10年证券从业经验;2010年加入工银瑞信,现任固定收益部副总监。2013年11月11日至今,担任工银货币市场基金基金经理;2014年1月27日至今,担任工银薪金货币市场基金基金经理;2015年7月10日至今,担任工银瑞信添益快线货币市场基金基金经理;2015年7月10日至今,担任工银瑞信现金快线货币市场基金基金经理;2016年12月23日至今,担任工银瑞信如意货币市场基金基金经理;2019年2月26日至今,担任工银瑞信尊享短债债券型证券投资基金基金经理。2019年4月30日至今,担任工银瑞信尊利中短债债券型证券投资基金基金经理。",
-        "work_year": "10",
+        "work_year": "11",
         "achievement_list": [
           {
             "fund_code": "009443",
             "fundsname": "工银泰和39个月定开债券C",
             "post_date": "2020-07-08",
-            "cp_rate": 0.9099
+            "cp_rate": 1.1099
           },
           {
             "fund_code": "008027",
             "fundsname": "工银泰和39个月定开债券A",
             "post_date": "2020-07-08",
-            "cp_rate": 1.12
+            "cp_rate": 1.35
           },
           {
             "fund_code": "009257",
             "fundsname": "工银尊利中短债债券F",
             "post_date": "2020-04-07",
-            "cp_rate": -1.5
+            "resi_date": "2020-12-14",
+            "cp_rate": -1.36
           },
           {
             "fund_code": "007717",
             "fundsname": "工银尊享短债债券F",
             "post_date": "2019-08-05",
-            "cp_rate": 3.84
+            "cp_rate": 4.46
           },
           {
             "fund_code": "006741",
             "fundsname": "工银尊利中短债债券C",
             "post_date": "2019-04-30",
-            "cp_rate": 3.52
+            "resi_date": "2020-12-14",
+            "cp_rate": 3.66
           },
           {
             "fund_code": "006740",
             "fundsname": "工银尊利中短债债券A",
             "post_date": "2019-04-30",
-            "cp_rate": 4.18
+            "resi_date": "2020-12-14",
+            "cp_rate": 4.32
           },
           {
             "fund_code": "006835",
             "fundsname": "工银尊享短债债券C",
             "post_date": "2019-02-26",
-            "cp_rate": 4.8495
+            "cp_rate": 5.4595
           },
           {
             "fund_code": "006834",
             "fundsname": "工银尊享短债债券A",
             "post_date": "2019-02-26",
-            "cp_rate": 5.6777
+            "cp_rate": 6.3175
           },
           {
             "fund_code": "003753",
             "fundsname": "工银如意货币B",
             "post_date": "2016-12-23",
-            "cp_rate": 14.2276
+            "cp_rate": 14.4697
           },
           {
             "fund_code": "003752",
             "fundsname": "工银如意货币A",
             "post_date": "2016-12-23",
-            "cp_rate": 13.1572
+            "cp_rate": 13.377
           },
           {
             "fund_code": "000848",
             "fundsname": "工银瑞信添益快线货币",
             "post_date": "2015-07-06",
-            "cp_rate": 16.3972
+            "cp_rate": 16.5858
           },
           {
             "fund_code": "000677",
             "fundsname": "工银瑞信现金快线货币",
             "post_date": "2015-07-06",
-            "cp_rate": 16.5203
+            "cp_rate": 16.7198
           },
           {
             "fund_code": "000716",
             "fundsname": "工银薪金货币B",
             "post_date": "2014-07-03",
-            "cp_rate": 22.0085
+            "cp_rate": 22.2089
           },
           {
             "fund_code": "000528",
             "fundsname": "工银薪金货币A",
             "post_date": "2014-01-27",
-            "cp_rate": 21.7779
+            "cp_rate": 21.9619
           },
           {
             "fund_code": "485018",
@@ -221,7 +224,7 @@
             "fund_code": "482002",
             "fundsname": "工银货币",
             "post_date": "2013-11-11",
-            "cp_rate": 26.9976
+            "cp_rate": 27.1979
           }
         ]
       }

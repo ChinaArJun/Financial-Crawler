@@ -16,8 +16,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 8.69,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "新宙邦",
           "code": "300037",
           "percent": 6.82,
-          "current_price": 99.89,
-          "change_percentage": 12.22,
+          "current_price": 106.5,
+          "change_percentage": 5.03,
           "xq_symbol": "SZ300037",
           "xq_url": "https://xueqiu.com/S/SZ300037",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "欣旺达",
           "code": "300207",
           "percent": 6.24,
-          "current_price": 29.45,
-          "change_percentage": 7.05,
+          "current_price": 31.74,
+          "change_percentage": 3.35,
           "xq_symbol": "SZ300207",
           "xq_url": "https://xueqiu.com/S/SZ300207",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "银轮股份",
           "code": "002126",
           "percent": 6.12,
-          "current_price": 12.75,
-          "change_percentage": 4.59,
+          "current_price": 14.7,
+          "change_percentage": 6.75,
           "xq_symbol": "SZ002126",
           "xq_url": "https://xueqiu.com/S/SZ002126",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "科达利",
           "code": "002850",
           "percent": 5.59,
-          "current_price": 72.98,
-          "change_percentage": 3.36,
+          "current_price": 103.39,
+          "change_percentage": 10,
           "xq_symbol": "SZ002850",
           "xq_url": "https://xueqiu.com/S/SZ002850",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "当升科技",
           "code": "300073",
           "percent": 5.42,
-          "current_price": 52.55,
-          "change_percentage": 7.86,
+          "current_price": 68.94,
+          "change_percentage": 6.31,
           "xq_symbol": "SZ300073",
           "xq_url": "https://xueqiu.com/S/SZ300073",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "中科电气",
           "code": "300035",
           "percent": 5.19,
-          "current_price": 12.36,
-          "change_percentage": 2.49,
+          "current_price": 13.44,
+          "change_percentage": 9.71,
           "xq_symbol": "SZ300035",
           "xq_url": "https://xueqiu.com/S/SZ300035",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "璞泰来",
           "code": "603659",
           "percent": 3.7,
-          "current_price": 111.38,
-          "change_percentage": 5.71,
+          "current_price": 123.63,
+          "change_percentage": 10,
           "xq_symbol": "SH603659",
           "xq_url": "https://xueqiu.com/S/SH603659",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "科博达",
           "code": "603786",
           "percent": 2.87,
-          "current_price": 78.4,
-          "change_percentage": 0.32,
+          "current_price": 66.39,
+          "change_percentage": -1.82,
           "xq_symbol": "SH603786",
           "xq_url": "https://xueqiu.com/S/SH603786",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "拓普集团",
           "code": "601689",
           "percent": 2.66,
-          "current_price": 38.54,
-          "change_percentage": 3.66,
+          "current_price": 42.27,
+          "change_percentage": 9.99,
           "xq_symbol": "SH601689",
           "xq_url": "https://xueqiu.com/S/SH601689",
           "amarket": true
@@ -176,19 +176,19 @@
             "fund_code": "002844",
             "fundsname": "金鹰多元策略灵活配置混合",
             "post_date": "2020-06-20",
-            "cp_rate": 17.7416
+            "cp_rate": 30.0155
           },
           {
             "fund_code": "002586",
             "fundsname": "金鹰添利信用债债券A",
             "post_date": "2019-07-06",
-            "cp_rate": 12.8088
+            "cp_rate": 14.4556
           },
           {
             "fund_code": "002587",
             "fundsname": "金鹰添利信用债债券C",
             "post_date": "2019-07-06",
-            "cp_rate": 12.5688
+            "cp_rate": 14.1284
           },
           {
             "fund_code": "001167",
@@ -201,13 +201,13 @@
             "fund_code": "003853",
             "fundsname": "金鹰信息产业股票A",
             "post_date": "2018-10-12",
-            "cp_rate": 211.4611
+            "cp_rate": 263.7118
           },
           {
             "fund_code": "005885",
             "fundsname": "金鹰信息产业股票C",
             "post_date": "2018-10-12",
-            "cp_rate": 208.9748
+            "cp_rate": 260.73
           }
         ]
       }

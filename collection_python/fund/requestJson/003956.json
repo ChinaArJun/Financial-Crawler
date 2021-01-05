@@ -15,8 +15,8 @@
           "name": "金山办公",
           "code": "688111",
           "percent": 5.24,
-          "current_price": 349.5,
-          "change_percentage": -2.75,
+          "current_price": 420,
+          "change_percentage": 2.19,
           "xq_symbol": "SH688111",
           "xq_url": "https://xueqiu.com/S/SH688111",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "中公教育",
           "code": "002607",
           "percent": 5.15,
-          "current_price": 37,
-          "change_percentage": -1.04,
+          "current_price": 34.2,
+          "change_percentage": -2.65,
           "xq_symbol": "SZ002607",
           "xq_url": "https://xueqiu.com/S/SZ002607",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "歌尔股份",
           "code": "002241",
           "percent": 4.93,
-          "current_price": 37.16,
-          "change_percentage": -2.24,
+          "current_price": 36.74,
+          "change_percentage": -1.55,
           "xq_symbol": "SZ002241",
           "xq_url": "https://xueqiu.com/S/SZ002241",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "西部超导",
           "code": "688122",
           "percent": 4.81,
-          "current_price": 63.09,
-          "change_percentage": 3.09,
+          "current_price": 84.24,
+          "change_percentage": 5.95,
           "xq_symbol": "SH688122",
           "xq_url": "https://xueqiu.com/S/SH688122",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "三角防务",
           "code": "300775",
           "percent": 4.68,
-          "current_price": 34.39,
-          "change_percentage": 4.21,
+          "current_price": 41.55,
+          "change_percentage": 5.4,
           "xq_symbol": "SZ300775",
           "xq_url": "https://xueqiu.com/S/SZ300775",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "鸿远电子",
           "code": "603267",
           "percent": 4.34,
-          "current_price": 109.5,
-          "change_percentage": 1.01,
+          "current_price": 141.64,
+          "change_percentage": 10,
           "xq_symbol": "SH603267",
           "xq_url": "https://xueqiu.com/S/SH603267",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "爱美客",
           "code": "300896",
           "percent": 4.29,
-          "current_price": 595.8,
-          "change_percentage": 0,
+          "current_price": 706.26,
+          "change_percentage": 7.82,
           "xq_symbol": "SZ300896",
           "xq_url": "https://xueqiu.com/S/SZ300896",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 4.23,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "捷捷微电",
           "code": "300623",
           "percent": 4.06,
-          "current_price": 50.85,
-          "change_percentage": 0.59,
+          "current_price": 43.34,
+          "change_percentage": -0.37,
           "xq_symbol": "SZ300623",
           "xq_url": "https://xueqiu.com/S/SZ300623",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "亿纬锂能",
           "code": "300014",
           "percent": 4.06,
-          "current_price": 63.71,
-          "change_percentage": 4.17,
+          "current_price": 93.49,
+          "change_percentage": 14.71,
           "xq_symbol": "SZ300014",
           "xq_url": "https://xueqiu.com/S/SZ300014",
           "amarket": true
@@ -182,7 +182,7 @@
             "fund_code": "003956",
             "fundsname": "南方教育股票",
             "post_date": "2019-05-09",
-            "cp_rate": 116.5304
+            "cp_rate": 140.6764
           }
         ]
       }

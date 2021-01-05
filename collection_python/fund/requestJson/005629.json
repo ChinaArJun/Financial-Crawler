@@ -15,8 +15,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 5.72,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "赛腾股份",
           "code": "603283",
           "percent": 5.12,
-          "current_price": 41.5,
-          "change_percentage": -0.5,
+          "current_price": 39.38,
+          "change_percentage": -0.61,
           "xq_symbol": "SH603283",
           "xq_url": "https://xueqiu.com/S/SH603283",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "蓝思科技",
           "code": "300433",
           "percent": 4.65,
-          "current_price": 33.15,
-          "change_percentage": -0.93,
+          "current_price": 30.9,
+          "change_percentage": 0.95,
           "xq_symbol": "SZ300433",
           "xq_url": "https://xueqiu.com/S/SZ300433",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 4.1,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "中航沈飞",
           "code": "600760",
           "percent": 3.91,
-          "current_price": 62.1,
-          "change_percentage": -1.08,
+          "current_price": 86,
+          "change_percentage": 10,
           "xq_symbol": "SH600760",
           "xq_url": "https://xueqiu.com/S/SH600760",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "航天发展",
           "code": "000547",
           "percent": 3.72,
-          "current_price": 22.8,
-          "change_percentage": 0.31,
+          "current_price": 29.88,
+          "change_percentage": 8.65,
           "xq_symbol": "SZ000547",
           "xq_url": "https://xueqiu.com/S/SZ000547",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "云南铜业",
           "code": "000878",
           "percent": 3.69,
-          "current_price": 15.35,
-          "change_percentage": -2.23,
+          "current_price": 14.98,
+          "change_percentage": 3.52,
           "xq_symbol": "SZ000878",
           "xq_url": "https://xueqiu.com/S/SZ000878",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "中航高科",
           "code": "600862",
           "percent": 3.34,
-          "current_price": 25.12,
-          "change_percentage": -1.49,
+          "current_price": 31.76,
+          "change_percentage": 5.51,
           "xq_symbol": "SH600862",
           "xq_url": "https://xueqiu.com/S/SH600862",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "中航机电",
           "code": "002013",
           "percent": 3.32,
-          "current_price": 11.2,
-          "change_percentage": 6.16,
+          "current_price": 12.6,
+          "change_percentage": 10.04,
           "xq_symbol": "SZ002013",
           "xq_url": "https://xueqiu.com/S/SZ002013",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "国金证券",
           "code": "600109",
           "percent": 3.22,
-          "current_price": 17.76,
-          "change_percentage": 1.08,
+          "current_price": 16.23,
+          "change_percentage": -0.25,
           "xq_symbol": "SH600109",
           "xq_url": "https://xueqiu.com/S/SH600109",
           "amarket": true
@@ -170,25 +170,25 @@
         "name": "周加文",
         "resume": "    复旦大学电子信息科学与技术学士,布兰迪斯大学国际经济与金融硕士,12年证券、基金行业从业经验。2007年任职于美国对冲基金和券商从事美股和美国中概股分析工作,2010年加入华夏基金研究部从事A股行业研究,2012年加入中信产业基金金融市场部任高级行业研究员,2013年加入嘉实基金任高级分析师和股票基金经理。2018年11月加入汇安基金管理有限责任公司,任权益研究部总监、权益投资部副总监一职。2016年10月10日至2018年10月16日,任嘉实创新成长灵活配置混合型证券投资基金基金经理。",
         "college": "布兰迪斯大学",
-        "work_year": "13",
+        "work_year": "14",
         "achievement_list": [
           {
             "fund_code": "005629",
             "fundsname": "汇安趋势动力股票C",
             "post_date": "2020-06-03",
-            "cp_rate": 5.7856
+            "cp_rate": 15.2568
           },
           {
             "fund_code": "005628",
             "fundsname": "汇安趋势动力股票A",
             "post_date": "2020-06-03",
-            "cp_rate": 6.0581
+            "cp_rate": 15.5863
           },
           {
             "fund_code": "005360",
             "fundsname": "汇安资产轮动灵活配置混合",
             "post_date": "2019-03-13",
-            "cp_rate": -10.5649
+            "cp_rate": -3.0472
           },
           {
             "fund_code": "001760",

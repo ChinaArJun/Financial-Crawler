@@ -15,8 +15,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 3.47,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 3.3,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 3.13,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "良信股份",
           "code": "002706",
           "percent": 2.96,
-          "current_price": 25.8,
-          "change_percentage": 0.74,
+          "current_price": 29.79,
+          "change_percentage": -2.77,
           "xq_symbol": "SZ002706",
           "xq_url": "https://xueqiu.com/S/SZ002706",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "汇川技术",
           "code": "300124",
           "percent": 2.76,
-          "current_price": 85.58,
-          "change_percentage": 1.04,
+          "current_price": 95.59,
+          "change_percentage": 2.45,
           "xq_symbol": "SZ300124",
           "xq_url": "https://xueqiu.com/S/SZ300124",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "三角防务",
           "code": "300775",
           "percent": 2.75,
-          "current_price": 34.39,
-          "change_percentage": 4.21,
+          "current_price": 41.55,
+          "change_percentage": 5.4,
           "xq_symbol": "SZ300775",
           "xq_url": "https://xueqiu.com/S/SZ300775",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "福斯特",
           "code": "603806",
           "percent": 2.75,
-          "current_price": 73.08,
-          "change_percentage": 2.21,
+          "current_price": 90.74,
+          "change_percentage": 6.25,
           "xq_symbol": "SH603806",
           "xq_url": "https://xueqiu.com/S/SH603806",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 2.59,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "恒立液压",
           "code": "601100",
           "percent": 2.55,
-          "current_price": 96.79,
-          "change_percentage": -1.59,
+          "current_price": 112.97,
+          "change_percentage": -0.03,
           "xq_symbol": "SH601100",
           "xq_url": "https://xueqiu.com/S/SH601100",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "分众传媒",
           "code": "002027",
           "percent": 2.52,
-          "current_price": 10.36,
-          "change_percentage": 0.58,
+          "current_price": 10.04,
+          "change_percentage": 1.72,
           "xq_symbol": "SZ002027",
           "xq_url": "https://xueqiu.com/S/SZ002027",
           "amarket": true
@@ -174,25 +174,37 @@
         "name": "何以广",
         "resume": "    何以广先生,清华大学核工程与核技术学士、清华大学核科学与技术连读博士,特许金融分析师(CFA)。2011年进入长城基金管理有限公司,曾任行业研究员、“长城消费增值股票型证券投资基金”基金经理助理,现任研究部总经理。自2015年5月至2016年7月任“长城优化升级混合型证券投资基金”基金经理,自2016年9月至2018年12月任“长城久富核心成长混合型证券投资基金(LOF)”基金经理,自2017年8月至2018年12月任“长城环保主题灵活配置混合型证券投资基金”基金经理。自2015年6月至今任“长城中小盘成长混合型证券投资基金”基金经理,自2017年3月至今任“长城安心回报混合型证券投资基金”基金经理,自2018年6月至今任“长城智能产业灵活配置混合型证券投资基金”基金经理,自2019年8月至今任“长城研究精选混合型证券投资基金”基金经理。",
         "college": "清华大学",
-        "work_year": "9",
+        "work_year": "10",
         "achievement_list": [
+          {
+            "fund_code": "010411",
+            "fundsname": "长城品质成长混合C",
+            "post_date": "2020-12-30",
+            "cp_rate": 0
+          },
+          {
+            "fund_code": "010410",
+            "fundsname": "长城品质成长混合A",
+            "post_date": "2020-12-30",
+            "cp_rate": 0
+          },
           {
             "fund_code": "010602",
             "fundsname": "长城均衡优选混合",
             "post_date": "2020-12-01",
-            "cp_rate": 0.06
+            "cp_rate": 1.44
           },
           {
             "fund_code": "006769",
             "fundsname": "长城研究精选混合",
             "post_date": "2019-08-14",
-            "cp_rate": 77.76
+            "cp_rate": 93.67
           },
           {
             "fund_code": "005738",
             "fundsname": "长城智能产业混合",
             "post_date": "2018-06-08",
-            "cp_rate": 123.38
+            "cp_rate": 145.65
           },
           {
             "fund_code": "000977",
@@ -205,7 +217,7 @@
             "fund_code": "200007",
             "fundsname": "长城安心回报",
             "post_date": "2017-03-16",
-            "cp_rate": 86.4016
+            "cp_rate": 102.9969
           },
           {
             "fund_code": "162006",
@@ -218,7 +230,7 @@
             "fund_code": "200012",
             "fundsname": "长城中小盘成长混合",
             "post_date": "2015-06-04",
-            "cp_rate": 85.9175
+            "cp_rate": 101.4717
           },
           {
             "fund_code": "200015",

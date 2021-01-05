@@ -15,8 +15,8 @@
           "name": "中国中免",
           "code": "601888",
           "percent": 3.78,
-          "current_price": 208.03,
-          "change_percentage": 0.13,
+          "current_price": 292.25,
+          "change_percentage": 3.47,
           "xq_symbol": "SH601888",
           "xq_url": "https://xueqiu.com/S/SH601888",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "中国平安",
           "code": "601318",
           "percent": 3.67,
-          "current_price": 88.05,
-          "change_percentage": -2.58,
+          "current_price": 85.18,
+          "change_percentage": -2.07,
           "xq_symbol": "SH601318",
           "xq_url": "https://xueqiu.com/S/SH601318",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "工商银行",
           "code": "601398",
           "percent": 3.63,
-          "current_price": 5.12,
-          "change_percentage": -1.35,
+          "current_price": 5.01,
+          "change_percentage": 0.4,
           "xq_symbol": "SH601398",
           "xq_url": "https://xueqiu.com/S/SH601398",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "牧原股份",
           "code": "002714",
           "percent": 3.36,
-          "current_price": 78.22,
-          "change_percentage": -0.7,
+          "current_price": 84.81,
+          "change_percentage": 10,
           "xq_symbol": "SZ002714",
           "xq_url": "https://xueqiu.com/S/SZ002714",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "顺丰控股",
           "code": "002352",
           "percent": 3.35,
-          "current_price": 80.21,
-          "change_percentage": -1.88,
+          "current_price": 90.48,
+          "change_percentage": 2.55,
           "xq_symbol": "SZ002352",
           "xq_url": "https://xueqiu.com/S/SZ002352",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "海天味业",
           "code": "603288",
           "percent": 3.3,
-          "current_price": 183.5,
-          "change_percentage": 0.84,
+          "current_price": 200.52,
+          "change_percentage": -0.01,
           "xq_symbol": "SH603288",
           "xq_url": "https://xueqiu.com/S/SH603288",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "伊利股份",
           "code": "600887",
           "percent": 3.16,
-          "current_price": 40.68,
-          "change_percentage": 1.24,
+          "current_price": 47.36,
+          "change_percentage": 6.74,
           "xq_symbol": "SH600887",
           "xq_url": "https://xueqiu.com/S/SH600887",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "汇川技术",
           "code": "300124",
           "percent": 3.11,
-          "current_price": 85.58,
-          "change_percentage": 1.04,
+          "current_price": 95.59,
+          "change_percentage": 2.45,
           "xq_symbol": "SZ300124",
           "xq_url": "https://xueqiu.com/S/SZ300124",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "建设银行",
           "code": "601939",
           "percent": 2.94,
-          "current_price": 6.77,
-          "change_percentage": -2.87,
+          "current_price": 6.25,
+          "change_percentage": -0.48,
           "xq_symbol": "SH601939",
           "xq_url": "https://xueqiu.com/S/SH601939",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "同花顺",
           "code": "300033",
           "percent": 2.93,
-          "current_price": 142.22,
-          "change_percentage": 0.25,
+          "current_price": 126.03,
+          "change_percentage": 1.65,
           "xq_symbol": "SZ300033",
           "xq_url": "https://xueqiu.com/S/SZ300033",
           "amarket": true
@@ -171,19 +171,19 @@
             "fund_code": "007499",
             "fundsname": "光大保德信风格轮动混合C",
             "post_date": "2020-01-02",
-            "cp_rate": 39.3
+            "cp_rate": 40.1
           },
           {
             "fund_code": "003070",
             "fundsname": "光大保德信创业板量化优选股票C",
             "post_date": "2020-01-02",
-            "cp_rate": 40.99
+            "cp_rate": 44.91
           },
           {
             "fund_code": "002772",
             "fundsname": "光大保德信产业新动力混合",
             "post_date": "2019-08-10",
-            "cp_rate": 56.9453
+            "cp_rate": 58.3483
           },
           {
             "fund_code": "360005",
@@ -196,7 +196,7 @@
             "fund_code": "003069",
             "fundsname": "光大保德信创业板量化优选股票A",
             "post_date": "2019-05-11",
-            "cp_rate": 77.1112
+            "cp_rate": 82.1066
           },
           {
             "fund_code": "003704",
@@ -209,13 +209,13 @@
             "fund_code": "360001",
             "fundsname": "光大保德信量化股票",
             "post_date": "2019-05-11",
-            "cp_rate": 48.2573
+            "cp_rate": 55.7371
           },
           {
             "fund_code": "002305",
             "fundsname": "光大保德信风格轮动混合A",
             "post_date": "2019-05-11",
-            "cp_rate": 61.454
+            "cp_rate": 62.4143
           },
           {
             "fund_code": "005418",
@@ -277,21 +277,21 @@
       },
       {
         "name": "翟云飞",
-        "resume": "    翟云飞先生,2005年毕业于中国科学技术大学自动化系,2010年获得中国科学技术大学统计与金融系博士学位。2010年6月至2014年3月在大成基金管理有限公司任职,其中2010年6月至2011年5月任职金融工程师(负责量化投资研究),2011年5月至2012年7月任职产品设计师,2012年7月至2014年3月任职量化投资研究员、行业投资研究员;2014年4月加入光大保德信基金管理有限公司,担任金融工程师(负责量化投资研究)、高级量化研究员,2016年2月至今担任光大保德信风格轮动混合型证券投资基金的基金经理,2016年12月至今担任光大保德信量化核心证券投资基金的基金经理,2017年1月至今担任光大保德信事件驱动灵活配置混合型证券投资基金的基金经理,2018年2月至今担任光大保德信创业板量化优选股票型证券投资基金的基金经理,2019年6月至今担任光大保德信诚鑫灵活配置混合型证券投资基金的基金经理,2019年7月至今担任光大保德信睿鑫灵活配置混合型证券投资基金的基金经理,2019年8月至今担任光大保德信永鑫灵活配置混合型证券投资基金的基金经理。",
+        "resume": "    翟云飞先生,2005年毕业于中国科学技术大学自动化系,2010年获得中国科学技术大学统计与金融系博士学位。2010年6月至2014年3月在大成基金管理有限公司任职,其中2010年6月至2011年5月任职金融工程师(负责量化投资研究),2011年5月至2012年7月任职产品设计师,2012年7月至2014年3月任职量化投资研究员、行业投资研究员;2014年4月加入光大保德信基金管理有限公司,担任金融工程师(负责量化投资研究)、高级量化研究员,2016年2月至今担任光大保德信风格轮动混合型证券投资基金的基金经理,2016年12月至今担任光大保德信量化核心证券投资基金的基金经理,2017年1月至2020年7月担任光大保德信事件驱动灵活配置混合型证券投资基金的基金经理,2018年2月至今担任光大保德信创业板量化优选股票型证券投资基金的基金经理,2019年6月至今担任光大保德信诚鑫灵活配置混合型证券投资基金的基金经理,2019年7月至今担任光大保德信睿鑫灵活配置混合型证券投资基金的基金经理,2019年8月至2020年8月担任光大保德信永鑫灵活配置混合型证券投资基金的基金经理。",
         "college": "中国科学技术大学",
-        "work_year": "10",
+        "work_year": "11",
         "achievement_list": [
           {
             "fund_code": "007499",
             "fundsname": "光大保德信风格轮动混合C",
             "post_date": "2020-01-02",
-            "cp_rate": 39.3
+            "cp_rate": 40.1
           },
           {
             "fund_code": "003070",
             "fundsname": "光大保德信创业板量化优选股票C",
             "post_date": "2020-01-02",
-            "cp_rate": 40.99
+            "cp_rate": 44.91
           },
           {
             "fund_code": "003106",
@@ -311,31 +311,31 @@
             "fund_code": "002075",
             "fundsname": "光大保德信睿鑫灵活配置混合C",
             "post_date": "2019-07-17",
-            "cp_rate": 20.3867
+            "cp_rate": 22.4093
           },
           {
             "fund_code": "001939",
             "fundsname": "光大保德信睿鑫灵活配置混合A",
             "post_date": "2019-07-17",
-            "cp_rate": 20.5496
+            "cp_rate": 22.5391
           },
           {
             "fund_code": "003116",
             "fundsname": "光大保德信诚鑫灵活配置混合C",
             "post_date": "2019-06-12",
-            "cp_rate": 27.1366
+            "cp_rate": 29.1534
           },
           {
             "fund_code": "003115",
             "fundsname": "光大保德信诚鑫灵活配置混合A",
             "post_date": "2019-06-12",
-            "cp_rate": 27.7256
+            "cp_rate": 29.7767
           },
           {
             "fund_code": "003069",
             "fundsname": "光大保德信创业板量化优选股票A",
             "post_date": "2018-02-13",
-            "cp_rate": 53.52
+            "cp_rate": 57.85
           },
           {
             "fund_code": "003704",
@@ -348,13 +348,13 @@
             "fund_code": "360001",
             "fundsname": "光大保德信量化股票",
             "post_date": "2016-12-09",
-            "cp_rate": 15.3045
+            "cp_rate": 21.1217
           },
           {
             "fund_code": "002305",
             "fundsname": "光大保德信风格轮动混合A",
             "post_date": "2016-02-04",
-            "cp_rate": 17.7
+            "cp_rate": 18.4
           }
         ]
       }

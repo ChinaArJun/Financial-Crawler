@@ -1,3 +1,5 @@
 *.pyc
 .vscode/
 __pycache__
+collection_python/fund/all_funds_*.json
+collection_python/fund/requestJson/

@@ -15,8 +15,8 @@
           "name": "金域医学",
           "code": "603882",
           "percent": 7.86,
-          "current_price": 99,
-          "change_percentage": 2.27,
+          "current_price": 130.68,
+          "change_percentage": 2,
           "xq_symbol": "SH603882",
           "xq_url": "https://xueqiu.com/S/SH603882",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "人福医药",
           "code": "600079",
           "percent": 7.08,
-          "current_price": 33.6,
-          "change_percentage": -0.88,
+          "current_price": 31.84,
+          "change_percentage": -6.02,
           "xq_symbol": "SH600079",
           "xq_url": "https://xueqiu.com/S/SH600079",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "博腾股份",
           "code": "300363",
           "percent": 7.01,
-          "current_price": 34.7,
-          "change_percentage": -0.14,
+          "current_price": 37.12,
+          "change_percentage": 1.64,
           "xq_symbol": "SZ300363",
           "xq_url": "https://xueqiu.com/S/SZ300363",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "深信服",
           "code": "300454",
           "percent": 6.98,
-          "current_price": 217.55,
-          "change_percentage": 3.2,
+          "current_price": 266,
+          "change_percentage": 7.25,
           "xq_symbol": "SZ300454",
           "xq_url": "https://xueqiu.com/S/SZ300454",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "华测检测",
           "code": "300012",
           "percent": 4.56,
-          "current_price": 25.3,
-          "change_percentage": 1.61,
+          "current_price": 27.57,
+          "change_percentage": 0.73,
           "xq_symbol": "SZ300012",
           "xq_url": "https://xueqiu.com/S/SZ300012",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "天味食品",
           "code": "603317",
           "percent": 4.32,
-          "current_price": 68,
-          "change_percentage": -0.15,
+          "current_price": 76.48,
+          "change_percentage": -7,
           "xq_symbol": "SH603317",
           "xq_url": "https://xueqiu.com/S/SH603317",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "七一二",
           "code": "603712",
           "percent": 3.94,
-          "current_price": 37.75,
-          "change_percentage": 0.51,
+          "current_price": 43.45,
+          "change_percentage": 4.32,
           "xq_symbol": "SH603712",
           "xq_url": "https://xueqiu.com/S/SH603712",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "道通科技",
           "code": "688208",
           "percent": 3.68,
-          "current_price": 77.09,
-          "change_percentage": 1.31,
+          "current_price": 67.34,
+          "change_percentage": -1.71,
           "xq_symbol": "SH688208",
           "xq_url": "https://xueqiu.com/S/SH688208",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "龙马环卫",
           "code": "603686",
           "percent": 3.68,
-          "current_price": 18.01,
-          "change_percentage": -1.42,
+          "current_price": 16.31,
+          "change_percentage": 1.43,
           "xq_symbol": "SH603686",
           "xq_url": "https://xueqiu.com/S/SH603686",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "埃斯顿",
           "code": "002747",
           "percent": 3.44,
-          "current_price": 25.71,
-          "change_percentage": 3.38,
+          "current_price": 31.77,
+          "change_percentage": 6.54,
           "xq_symbol": "SZ002747",
           "xq_url": "https://xueqiu.com/S/SZ002747",
           "amarket": true
@@ -173,31 +173,31 @@
       {
         "name": "邱璟旻",
         "resume": "    邱璟旻先生,理学硕士,持有中国证券投资基金业从业证书。曾任远策投资管理有限公司研究部研究员,建信基金管理有限责任公司研究发展部研究员,广发基金管理有限公司研究发展部和权益投资一部研究员、广发行业领先混合型证券投资基金基金经理(自2017年3月29日至2018年8月6日)、广发多策略灵活配置混合型证券投资基金基金经理(自2016年4月20日至2018年8月6日)、广发医疗保健股票型证券投资基金基金经理(自2017年8月10日至2018年11月5日)。现任广发新经济混合型发起式证券投资基金基金经理(自2017年3月1日起任职)、广发聚丰混合型证券投资基金基金经理(自2018年2月2日起任职)、广发优势增长股票型证券投资基金基金经理(自2019年12月25日起任职)。",
-        "work_year": "11",
+        "work_year": "12",
         "achievement_list": [
           {
             "fund_code": "010025",
             "fundsname": "广发聚丰混合C",
             "post_date": "2020-09-25",
-            "cp_rate": 2.1436
+            "cp_rate": 11.2764
           },
           {
             "fund_code": "010134",
             "fundsname": "广发新经济混合C",
             "post_date": "2020-09-22",
-            "cp_rate": 3.7013
+            "cp_rate": 14.6802
           },
           {
             "fund_code": "007750",
             "fundsname": "广发优势增长股票",
             "post_date": "2019-12-25",
-            "cp_rate": 54.01
+            "cp_rate": 69.71
           },
           {
             "fund_code": "270005",
             "fundsname": "广发聚丰混合A",
             "post_date": "2018-02-02",
-            "cp_rate": 47.1979
+            "cp_rate": 60.4034
           },
           {
             "fund_code": "004851",
@@ -224,7 +224,7 @@
             "fund_code": "270050",
             "fundsname": "广发新经济混合A",
             "post_date": "2017-03-01",
-            "cp_rate": 153.4031
+            "cp_rate": 180.2996
           },
           {
             "fund_code": "001763",

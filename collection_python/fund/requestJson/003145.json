@@ -16,8 +16,8 @@
           "name": "鸿路钢构",
           "code": "002541",
           "percent": 6.07,
-          "current_price": 38.19,
-          "change_percentage": 1.84,
+          "current_price": 35.85,
+          "change_percentage": -1.86,
           "xq_symbol": "SZ002541",
           "xq_url": "https://xueqiu.com/S/SZ002541",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "再升科技",
           "code": "603601",
           "percent": 5.94,
-          "current_price": 15.48,
-          "change_percentage": 1.98,
+          "current_price": 13.85,
+          "change_percentage": 1.47,
           "xq_symbol": "SH603601",
           "xq_url": "https://xueqiu.com/S/SH603601",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "九强生物",
           "code": "300406",
           "percent": 5.62,
-          "current_price": 22.66,
-          "change_percentage": 3.23,
+          "current_price": 25.02,
+          "change_percentage": 0,
           "xq_symbol": "SZ300406",
           "xq_url": "https://xueqiu.com/S/SZ300406",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "中国巨石",
           "code": "600176",
           "percent": 5.44,
-          "current_price": 16.68,
-          "change_percentage": 0,
+          "current_price": 20.39,
+          "change_percentage": 2.15,
           "xq_symbol": "SH600176",
           "xq_url": "https://xueqiu.com/S/SH600176",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "智飞生物",
           "code": "300122",
           "percent": 4.96,
-          "current_price": 139.38,
-          "change_percentage": -0.39,
+          "current_price": 143.22,
+          "change_percentage": -3.17,
           "xq_symbol": "SZ300122",
           "xq_url": "https://xueqiu.com/S/SZ300122",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "雅克科技",
           "code": "002409",
           "percent": 4.86,
-          "current_price": 62.88,
-          "change_percentage": 1.01,
+          "current_price": 62.83,
+          "change_percentage": 4.56,
           "xq_symbol": "SZ002409",
           "xq_url": "https://xueqiu.com/S/SZ002409",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 4.08,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "新华保险",
           "code": "601336",
           "percent": 3.94,
-          "current_price": 62.1,
-          "change_percentage": 0.23,
+          "current_price": 56.49,
+          "change_percentage": -2.55,
           "xq_symbol": "SH601336",
           "xq_url": "https://xueqiu.com/S/SH601336",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "火炬电子",
           "code": "603678",
           "percent": 3.34,
-          "current_price": 55.23,
-          "change_percentage": -0.22,
+          "current_price": 79.1,
+          "change_percentage": 9.41,
           "xq_symbol": "SH603678",
           "xq_url": "https://xueqiu.com/S/SH603678",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 3.27,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -188,61 +188,61 @@
         "name": "柯海东",
         "resume": "    柯海东先生,中国国籍,毕业于中山大学财务与投资管理专业,硕士研究生学历,取得基金业从业人员资格。2010年7月至2013年2月曾任职于中国中投证券研究总部分析师;2013年2月至2015年8月曾任职于国泰君安证券研究所分析师;2015年9月至2018年8月曾任职于前海开源基金管理有限公司投资部副总监。2018年9月加入中融基金管理有限公司,现任权益投资部副总经理。现任中融高股息精选混合型证券投资基金(2019年9月起至今)、中融竞争优势股票型证券投资基金(2019年1月起至今)、中融策略优选混合型证券投资基金(2019年5月起至今)、中融品牌优选混合型证券投资基金(2020年5月起至今)、中融价值成长6个月持有期混合型证券投资基金(2020年8月起至今)的基金经理。",
         "college": "中山大学",
-        "work_year": "9",
+        "work_year": "10",
         "achievement_list": [
           {
             "fund_code": "009348",
             "fundsname": "中融价值成长6个月持有混合C",
             "post_date": "2020-08-05",
-            "cp_rate": -4.07
+            "cp_rate": 3.91
           },
           {
             "fund_code": "009347",
             "fundsname": "中融价值成长6个月持有混合A",
             "post_date": "2020-08-05",
-            "cp_rate": -3.81
+            "cp_rate": 4.25
           },
           {
             "fund_code": "008425",
             "fundsname": "中融品牌优选混合C",
             "post_date": "2020-05-14",
-            "cp_rate": 12.8
+            "cp_rate": 18.2
           },
           {
             "fund_code": "008424",
             "fundsname": "中融品牌优选混合A",
             "post_date": "2020-05-14",
-            "cp_rate": 13.64
+            "cp_rate": 19.19
           },
           {
             "fund_code": "006124",
             "fundsname": "中融高股息混合C",
             "post_date": "2019-09-26",
-            "cp_rate": 43.92
+            "cp_rate": 46.87
           },
           {
             "fund_code": "006123",
             "fundsname": "中融高股息混合A",
             "post_date": "2019-09-26",
-            "cp_rate": 46.48
+            "cp_rate": 49.57
           },
           {
             "fund_code": "006315",
             "fundsname": "中融策略优选混合C",
             "post_date": "2019-05-14",
-            "cp_rate": 119.9539
+            "cp_rate": 136.4537
           },
           {
             "fund_code": "006314",
             "fundsname": "中融策略优选混合A",
             "post_date": "2019-05-14",
-            "cp_rate": 122.9653
+            "cp_rate": 139.7838
           },
           {
             "fund_code": "003145",
             "fundsname": "中融竞争优势股票",
             "post_date": "2019-01-25",
-            "cp_rate": 148.5036
+            "cp_rate": 169.7137
           },
           {
             "fund_code": "001638",
@@ -307,8 +307,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

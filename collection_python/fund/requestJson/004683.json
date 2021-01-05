@@ -15,8 +15,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 6.61,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "爱尔眼科",
           "code": "300015",
           "percent": 5.61,
-          "current_price": 66.63,
-          "change_percentage": -0.25,
+          "current_price": 68.22,
+          "change_percentage": -8.91,
           "xq_symbol": "SZ300015",
           "xq_url": "https://xueqiu.com/S/SZ300015",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "睿智医药",
           "code": "300149",
           "percent": 5.5,
-          "current_price": 16.94,
-          "change_percentage": -2.08,
+          "current_price": 14.56,
+          "change_percentage": -1.15,
           "xq_symbol": "SZ300149",
           "xq_url": "https://xueqiu.com/S/SZ300149",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "智飞生物",
           "code": "300122",
           "percent": 5.09,
-          "current_price": 139.38,
-          "change_percentage": -0.39,
+          "current_price": 143.22,
+          "change_percentage": -3.17,
           "xq_symbol": "SZ300122",
           "xq_url": "https://xueqiu.com/S/SZ300122",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "美迪西",
           "code": "688202",
           "percent": 4.92,
-          "current_price": 152.6,
-          "change_percentage": 2.28,
+          "current_price": 156.11,
+          "change_percentage": -0.71,
           "xq_symbol": "SH688202",
           "xq_url": "https://xueqiu.com/S/SH688202",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "仙琚制药",
           "code": "002332",
           "percent": 4.83,
-          "current_price": 14.39,
-          "change_percentage": 1.34,
+          "current_price": 13.38,
+          "change_percentage": 0.15,
           "xq_symbol": "SZ002332",
           "xq_url": "https://xueqiu.com/S/SZ002332",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "华兰生物",
           "code": "002007",
           "percent": 4.7,
-          "current_price": 43.73,
-          "change_percentage": -3.19,
+          "current_price": 41.85,
+          "change_percentage": -0.92,
           "xq_symbol": "SZ002007",
           "xq_url": "https://xueqiu.com/S/SZ002007",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "迈克生物",
           "code": "300463",
           "percent": 4.58,
-          "current_price": 47.43,
-          "change_percentage": 2.46,
+          "current_price": 44.6,
+          "change_percentage": -4.29,
           "xq_symbol": "SZ300463",
           "xq_url": "https://xueqiu.com/S/SZ300463",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "国际医学",
           "code": "000516",
           "percent": 3.95,
-          "current_price": 9.16,
-          "change_percentage": 2.35,
+          "current_price": 12.12,
+          "change_percentage": -3.58,
           "xq_symbol": "SZ000516",
           "xq_url": "https://xueqiu.com/S/SZ000516",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "太极集团",
           "code": "600129",
           "percent": 3.92,
-          "current_price": 14.74,
-          "change_percentage": -1.4,
+          "current_price": 13.16,
+          "change_percentage": -1.28,
           "xq_symbol": "SH600129",
           "xq_url": "https://xueqiu.com/S/SH600129",
           "amarket": true
@@ -182,7 +182,7 @@
             "fund_code": "004683",
             "fundsname": "建信高端医疗股票",
             "post_date": "2017-07-18",
-            "cp_rate": 86.87
+            "cp_rate": 101.49
           },
           {
             "fund_code": "530006",

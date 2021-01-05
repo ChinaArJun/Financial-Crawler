@@ -16,8 +16,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 8.07,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "爱尔眼科",
           "code": "300015",
           "percent": 7.92,
-          "current_price": 66.63,
-          "change_percentage": -0.25,
+          "current_price": 68.22,
+          "change_percentage": -8.91,
           "xq_symbol": "SZ300015",
           "xq_url": "https://xueqiu.com/S/SZ300015",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "智飞生物",
           "code": "300122",
           "percent": 6.83,
-          "current_price": 139.38,
-          "change_percentage": -0.39,
+          "current_price": 143.22,
+          "change_percentage": -3.17,
           "xq_symbol": "SZ300122",
           "xq_url": "https://xueqiu.com/S/SZ300122",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "凯莱英",
           "code": "002821",
           "percent": 5.91,
-          "current_price": 274,
-          "change_percentage": 1.64,
+          "current_price": 297.92,
+          "change_percentage": -0.41,
           "xq_symbol": "SZ002821",
           "xq_url": "https://xueqiu.com/S/SZ002821",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "华海药业",
           "code": "600521",
           "percent": 5.85,
-          "current_price": 35.36,
-          "change_percentage": 2.26,
+          "current_price": 31.41,
+          "change_percentage": -7.1,
           "xq_symbol": "SH600521",
           "xq_url": "https://xueqiu.com/S/SH600521",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "恒瑞医药",
           "code": "600276",
           "percent": 5.63,
-          "current_price": 90.07,
-          "change_percentage": 0.21,
+          "current_price": 111.2,
+          "change_percentage": -0.23,
           "xq_symbol": "SH600276",
           "xq_url": "https://xueqiu.com/S/SH600276",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "长春高新",
           "code": "000661",
           "percent": 4.57,
-          "current_price": 388,
-          "change_percentage": 0.19,
+          "current_price": 473.45,
+          "change_percentage": 5.47,
           "xq_symbol": "SZ000661",
           "xq_url": "https://xueqiu.com/S/SZ000661",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "心脉医疗",
           "code": "688016",
           "percent": 3.93,
-          "current_price": 239.89,
-          "change_percentage": 0.43,
+          "current_price": 251.52,
+          "change_percentage": 0.13,
           "xq_symbol": "SH688016",
           "xq_url": "https://xueqiu.com/S/SH688016",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "康龙化成",
           "code": "300759",
           "percent": 3.84,
-          "current_price": 103.13,
-          "change_percentage": -0.27,
+          "current_price": 121,
+          "change_percentage": 0.5,
           "xq_symbol": "SZ300759",
           "xq_url": "https://xueqiu.com/S/SZ300759",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "健帆生物",
           "code": "300529",
           "percent": 3.17,
-          "current_price": 68.76,
-          "change_percentage": -0.28,
+          "current_price": 72.45,
+          "change_percentage": 6.83,
           "xq_symbol": "SZ300529",
           "xq_url": "https://xueqiu.com/S/SZ300529",
           "amarket": true
@@ -176,22 +176,28 @@
         "resume": "    孙笑悦,硕士,自2015年03月至2018年08月任国金证券股份有限公司上海投资咨询分公司医药资深分析师;2018年08月加入富国基金管理有限公司,自2020年4月起任富国医药成长30股票型证券投资基金、富国医疗保健行业混合型证券投资基金基金经理,2020年5月起任富国精准医疗灵活配置混合型证券投资基金基金经理。具有基金从业资格。",
         "achievement_list": [
           {
+            "fund_code": "011151",
+            "fundsname": "富国医疗保健行业混合C",
+            "post_date": "2020-12-28",
+            "cp_rate": 2.2661
+          },
+          {
             "fund_code": "005176",
             "fundsname": "富国精准医疗灵活配置混合",
             "post_date": "2020-05-26",
-            "cp_rate": 21.4442
+            "cp_rate": 33.7027
           },
           {
             "fund_code": "000220",
-            "fundsname": "富国医疗保健行业混合",
+            "fundsname": "富国医疗保健行业混合A",
             "post_date": "2020-04-13",
-            "cp_rate": 32.3677
+            "cp_rate": 45.4035
           },
           {
             "fund_code": "009162",
             "fundsname": "富国医药成长30股票",
             "post_date": "2020-04-09",
-            "cp_rate": 9.9
+            "cp_rate": 21.29
           }
         ]
       }

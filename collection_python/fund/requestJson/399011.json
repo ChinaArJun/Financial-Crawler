@@ -16,8 +16,8 @@
           "name": "通策医疗",
           "code": "600763",
           "percent": 8.95,
-          "current_price": 233.45,
-          "change_percentage": 0.45,
+          "current_price": 268,
+          "change_percentage": -3.08,
           "xq_symbol": "SH600763",
           "xq_url": "https://xueqiu.com/S/SH600763",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "药明康德",
           "code": "603259",
           "percent": 6.9,
-          "current_price": 110.9,
-          "change_percentage": -0.12,
+          "current_price": 137.11,
+          "change_percentage": 1.77,
           "xq_symbol": "SH603259",
           "xq_url": "https://xueqiu.com/S/SH603259",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 5.9,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "恒瑞医药",
           "code": "600276",
           "percent": 5.72,
-          "current_price": 90.07,
-          "change_percentage": 0.21,
+          "current_price": 111.2,
+          "change_percentage": -0.23,
           "xq_symbol": "SH600276",
           "xq_url": "https://xueqiu.com/S/SH600276",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "人福医药",
           "code": "600079",
           "percent": 4.99,
-          "current_price": 33.6,
-          "change_percentage": -0.88,
+          "current_price": 31.84,
+          "change_percentage": -6.02,
           "xq_symbol": "SH600079",
           "xq_url": "https://xueqiu.com/S/SH600079",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "长春高新",
           "code": "000661",
           "percent": 4.97,
-          "current_price": 388,
-          "change_percentage": 0.19,
+          "current_price": 473.45,
+          "change_percentage": 5.47,
           "xq_symbol": "SZ000661",
           "xq_url": "https://xueqiu.com/S/SZ000661",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "爱尔眼科",
           "code": "300015",
           "percent": 4.02,
-          "current_price": 66.63,
-          "change_percentage": -0.25,
+          "current_price": 68.22,
+          "change_percentage": -8.91,
           "xq_symbol": "SZ300015",
           "xq_url": "https://xueqiu.com/S/SZ300015",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "海尔生物",
           "code": "688139",
           "percent": 3.81,
-          "current_price": 71.34,
-          "change_percentage": -2.9,
+          "current_price": 65.41,
+          "change_percentage": 0.18,
           "xq_symbol": "SH688139",
           "xq_url": "https://xueqiu.com/S/SH688139",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "康泰生物",
           "code": "300601",
           "percent": 3.61,
-          "current_price": 158.41,
-          "change_percentage": -1.36,
+          "current_price": 165.98,
+          "change_percentage": -4.88,
           "xq_symbol": "SZ300601",
           "xq_url": "https://xueqiu.com/S/SZ300601",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "凯莱英",
           "code": "002821",
           "percent": 3.61,
-          "current_price": 274,
-          "change_percentage": 1.64,
+          "current_price": 297.92,
+          "change_percentage": -0.41,
           "xq_symbol": "SZ002821",
           "xq_url": "https://xueqiu.com/S/SZ002821",
           "amarket": true
@@ -204,37 +204,37 @@
         "name": "刘俊",
         "resume": "    刘俊先生,复旦大学金融学专业博士。历任上海申银万国证券研究所有限公司策略研究部策略分析师、海通证券股份有限公司战略合作与并购部高级项目经理。2007年3月进入中海基金管理有限公司 工作,曾任产品开发总监,现任权益投资部权益投资副总监。2010年3月至2015年8月任中海稳健收益债券型证券投资基金基金经理,2015年4月至2017年6月任中海安鑫宝1号保本混合型证券投资基金基金经理,2012年6月至2019年4月任中海优势精选灵活配置混合型证券投资基金基金经理,2013年7月至今任中海信息产业精选混合型证券投资基金基金经理,2014年5月至今任中海积极收益灵活配置混合型证券投资基金基金经理,2015年12月至今任中海顺鑫灵活配置混合型证券投资基金基金经理,2017年4月至今任中海添顺定期开放混合型证券投资基金基金经理,2018年1月至今任中海添瑞定期开放混合型证券投资基金基金经理,2018年6月至今任中海环保新能源主题灵活配置混合型证券投资基金基金经理,2020年5月至今任中海医疗保健主题股票型证券投资基金基金经理。",
         "college": "复旦大学",
-        "work_year": "13",
+        "work_year": "14",
         "achievement_list": [
           {
             "fund_code": "399011",
             "fundsname": "中海医疗保健主题股票",
             "post_date": "2020-05-30",
-            "cp_rate": 21.6098
+            "cp_rate": 33.9328
           },
           {
             "fund_code": "000166",
             "fundsname": "中海信息产业精选混合",
             "post_date": "2019-05-15",
-            "cp_rate": 61.2207
+            "cp_rate": 75.8871
           },
           {
             "fund_code": "398051",
             "fundsname": "中海环保新能源混合",
             "post_date": "2018-06-02",
-            "cp_rate": 98.6652
+            "cp_rate": 135.8176
           },
           {
             "fund_code": "005252",
             "fundsname": "中海添瑞定期开放混合",
             "post_date": "2018-01-19",
-            "cp_rate": 6.5193
+            "cp_rate": 8.0492
           },
           {
             "fund_code": "002213",
             "fundsname": "中海顺鑫灵活配置混合",
             "post_date": "2018-01-12",
-            "cp_rate": 82.8511
+            "cp_rate": 112.2327
           },
           {
             "fund_code": "000166",
@@ -247,7 +247,7 @@
             "fund_code": "004219",
             "fundsname": "中海添顺定期开放混合",
             "post_date": "2017-04-27",
-            "cp_rate": 8.11
+            "cp_rate": 8.64
           },
           {
             "fund_code": "002213",
@@ -274,7 +274,7 @@
             "fund_code": "000597",
             "fundsname": "中海积极收益灵活配置混合",
             "post_date": "2014-05-26",
-            "cp_rate": 67.93
+            "cp_rate": 73.18
           },
           {
             "fund_code": "000166",
@@ -306,8 +306,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 2,
-      "all_buy_days": 2,
-      "all_sale_days": 3
+      "all_sale_days": 3,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

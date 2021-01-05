@@ -16,8 +16,8 @@
           "name": "中国中免",
           "code": "601888",
           "percent": 7.99,
-          "current_price": 208.03,
-          "change_percentage": 0.13,
+          "current_price": 292.25,
+          "change_percentage": 3.47,
           "xq_symbol": "SH601888",
           "xq_url": "https://xueqiu.com/S/SH601888",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "长春高新",
           "code": "000661",
           "percent": 7.67,
-          "current_price": 388,
-          "change_percentage": 0.19,
+          "current_price": 473.45,
+          "change_percentage": 5.47,
           "xq_symbol": "SZ000661",
           "xq_url": "https://xueqiu.com/S/SZ000661",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 6.11,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "绝味食品",
           "code": "603517",
           "percent": 5.63,
-          "current_price": 75.39,
-          "change_percentage": -0.63,
+          "current_price": 82.41,
+          "change_percentage": 6.28,
           "xq_symbol": "SH603517",
           "xq_url": "https://xueqiu.com/S/SH603517",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "三七互娱",
           "code": "002555",
           "percent": 5.38,
-          "current_price": 29.38,
-          "change_percentage": 4,
+          "current_price": 31.94,
+          "change_percentage": 2.27,
           "xq_symbol": "SZ002555",
           "xq_url": "https://xueqiu.com/S/SZ002555",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "百润股份",
           "code": "002568",
           "percent": 5.14,
-          "current_price": 79.9,
-          "change_percentage": -0.11,
+          "current_price": 113.61,
+          "change_percentage": 8.94,
           "xq_symbol": "SZ002568",
           "xq_url": "https://xueqiu.com/S/SZ002568",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 4.92,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "健帆生物",
           "code": "300529",
           "percent": 4.45,
-          "current_price": 68.76,
-          "change_percentage": -0.28,
+          "current_price": 72.45,
+          "change_percentage": 6.83,
           "xq_symbol": "SZ300529",
           "xq_url": "https://xueqiu.com/S/SZ300529",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "涪陵榨菜",
           "code": "002507",
           "percent": 4.38,
-          "current_price": 44.06,
-          "change_percentage": 2.94,
+          "current_price": 46.53,
+          "change_percentage": 10,
           "xq_symbol": "SZ002507",
           "xq_url": "https://xueqiu.com/S/SZ002507",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "爱尔眼科",
           "code": "300015",
           "percent": 4.27,
-          "current_price": 66.63,
-          "change_percentage": -0.25,
+          "current_price": 68.22,
+          "change_percentage": -8.91,
           "xq_symbol": "SZ300015",
           "xq_url": "https://xueqiu.com/S/SZ300015",
           "amarket": true
@@ -203,19 +203,25 @@
       {
         "name": "钱亚风云",
         "resume": "    钱亚风云(QIAN Yafunfeng )先生,金融学硕士。2010 年加入中银基金管理有限公司,曾任研究员、基金经理助理。2015 年7 月至今任中银消费主题基金基金经理,2015 年11 月至2018年2 月任中银新财富基金基金经理,2015 年11 月至今任中银战略新兴产业基金基金经理,2016年2 月至2018 年2 月任中银宝利基金基金经理,2017 年4 月至2018 年12 月任中银文体娱乐基金基金经理,2019 年6 月至今任中银消费活力基金基金经理,2019 年9 月任中银增长基金基金经理。具有9 年证券从业年限。具备基金从业资格。",
-        "work_year": "10",
+        "work_year": "11",
         "achievement_list": [
+          {
+            "fund_code": "010812",
+            "fundsname": "中银战略新兴产业股票C",
+            "post_date": "2020-12-11",
+            "cp_rate": 14.5652
+          },
           {
             "fund_code": "960011",
             "fundsname": "中银持续增长混合H",
             "post_date": "2019-09-18",
-            "cp_rate": 54.9731
+            "cp_rate": 78.7858
           },
           {
             "fund_code": "163803",
             "fundsname": "中银持续增长混合A",
             "post_date": "2019-09-18",
-            "cp_rate": 54.7331
+            "cp_rate": 78.4755
           },
           {
             "fund_code": "007334",
@@ -247,9 +253,9 @@
           },
           {
             "fund_code": "001677",
-            "fundsname": "中银战略新兴产业股票",
+            "fundsname": "中银战略新兴产业股票A",
             "post_date": "2015-11-26",
-            "cp_rate": 131.9
+            "cp_rate": 163.7
           },
           {
             "fund_code": "002056",
@@ -269,7 +275,7 @@
             "fund_code": "000057",
             "fundsname": "中银消费主题混合",
             "post_date": "2015-07-27",
-            "cp_rate": 23.8095
+            "cp_rate": 37.2347
           }
         ]
       }

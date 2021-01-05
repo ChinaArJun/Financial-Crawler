@@ -15,8 +15,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 1.45,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "三一重工",
           "code": "600031",
           "percent": 1.23,
-          "current_price": 31.48,
-          "change_percentage": -1.41,
+          "current_price": 34.8,
+          "change_percentage": -0.51,
           "xq_symbol": "SH600031",
           "xq_url": "https://xueqiu.com/S/SH600031",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "宝新能源",
           "code": "000690",
           "percent": 1.22,
-          "current_price": 7.02,
-          "change_percentage": 0.14,
+          "current_price": 7.59,
+          "change_percentage": 3.97,
           "xq_symbol": "SZ000690",
           "xq_url": "https://xueqiu.com/S/SZ000690",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "华贸物流",
           "code": "603128",
           "percent": 1.16,
-          "current_price": 7.92,
-          "change_percentage": -1.12,
+          "current_price": 9.47,
+          "change_percentage": 1.94,
           "xq_symbol": "SH603128",
           "xq_url": "https://xueqiu.com/S/SH603128",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "天邦股份",
           "code": "002124",
           "percent": 1.13,
-          "current_price": 16.26,
-          "change_percentage": -0.73,
+          "current_price": 16.06,
+          "change_percentage": 10,
           "xq_symbol": "SZ002124",
           "xq_url": "https://xueqiu.com/S/SZ002124",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "中国平安",
           "code": "601318",
           "percent": 1.12,
-          "current_price": 88.05,
-          "change_percentage": -2.58,
+          "current_price": 85.18,
+          "change_percentage": -2.07,
           "xq_symbol": "SH601318",
           "xq_url": "https://xueqiu.com/S/SH601318",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "东吴证券",
           "code": "601555",
           "percent": 1.08,
-          "current_price": 10.09,
-          "change_percentage": 0,
+          "current_price": 9.87,
+          "change_percentage": 0.1,
           "xq_symbol": "SH601555",
           "xq_url": "https://xueqiu.com/S/SH601555",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "顺丰控股",
           "code": "002352",
           "percent": 1.06,
-          "current_price": 80.21,
-          "change_percentage": -1.88,
+          "current_price": 90.48,
+          "change_percentage": 2.55,
           "xq_symbol": "SZ002352",
           "xq_url": "https://xueqiu.com/S/SZ002352",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "金发科技",
           "code": "600143",
           "percent": 1.04,
-          "current_price": 17,
-          "change_percentage": -1.73,
+          "current_price": 17.93,
+          "change_percentage": 4.61,
           "xq_symbol": "SH600143",
           "xq_url": "https://xueqiu.com/S/SH600143",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "伊利股份",
           "code": "600887",
           "percent": 1.03,
-          "current_price": 40.68,
-          "change_percentage": 1.24,
+          "current_price": 47.36,
+          "change_percentage": 6.74,
           "xq_symbol": "SH600887",
           "xq_url": "https://xueqiu.com/S/SH600887",
           "amarket": true
@@ -160,68 +160,68 @@
     "manager_list": [
       {
         "name": "李国林",
-        "resume": "    李国林先生,浙江工商大学经济学硕士,曾任上银基金管理有限公司专户投资部总监兼研究总监、上海凯石益正资产管理有限公司投资总监、凯石基金管理有限公司投资事业部总监,2018年加入嘉合基金管理有限公司。2019年1月15日至今任嘉合锦程价值精选混合型证券投资基金的基金经理,2019年1月25日至今任嘉合磐通债券型证券投资基金的基金经理,2019年6月14日至今任嘉合消费升级混合型发起式证券投资基金的基金经理,2019年9月26日至今任嘉合医疗健康混合型发起式证券投资基金的基金经理,2020年5月22日至今任嘉合同顺智选股票型证券投资基金的基金经理。",
+        "resume": "    李国林先生,浙江工商大学经济学硕士,曾任上银基金管理有限公司专户投资部总监兼研究总监、上海凯石益正资产管理有限公司投资总监、凯石基金管理有限公司投资事业部总监,2018年加入嘉合基金管理有限公司。2019年1月15日至今任嘉合锦程价值精选混合型证券投资基金的基金经理,2019年1月25日至今任嘉合磐通债券型证券投资基金的基金经理,2019年6月14日至今任嘉合消费升级混合型发起式证券投资基金的基金经理,2019年9月26日至今任嘉合医疗健康混合型发起式证券投资基金的基金经理,2020年5月22日至今任嘉合同顺智选股票型证券投资基金的基金经理,2020年8月5日至今任嘉合稳健增长灵活配置混合型证券投资基金的基金经理。",
         "college": "浙江工商大学",
         "achievement_list": [
           {
             "fund_code": "007142",
             "fundsname": "嘉合稳健增长混合C",
             "post_date": "2020-08-05",
-            "cp_rate": 10.46
+            "cp_rate": 27.57
           },
           {
             "fund_code": "007141",
             "fundsname": "嘉合稳健增长混合A",
             "post_date": "2020-08-05",
-            "cp_rate": 10.69
+            "cp_rate": 27.88
           },
           {
             "fund_code": "009107",
             "fundsname": "嘉合同顺智选股票C",
             "post_date": "2020-05-22",
-            "cp_rate": 2.25
+            "cp_rate": 8.23
           },
           {
             "fund_code": "009106",
             "fundsname": "嘉合同顺智选股票A",
             "post_date": "2020-05-22",
-            "cp_rate": 2.6
+            "cp_rate": 8.64
           },
           {
             "fund_code": "007613",
             "fundsname": "嘉合医疗健康混合",
             "post_date": "2019-09-26",
-            "cp_rate": 41.94
+            "cp_rate": 54.75
           },
           {
             "fund_code": "007281",
             "fundsname": "嘉合消费升级混合",
             "post_date": "2019-06-14",
-            "cp_rate": 52.99
+            "cp_rate": 74.54
           },
           {
             "fund_code": "001958",
             "fundsname": "嘉合磐通债券C",
             "post_date": "2019-01-25",
-            "cp_rate": 12.8797
+            "cp_rate": 13.4833
           },
           {
             "fund_code": "001957",
             "fundsname": "嘉合磐通债券A",
             "post_date": "2019-01-25",
-            "cp_rate": 13.4266
+            "cp_rate": 14.0581
           },
           {
             "fund_code": "006425",
             "fundsname": "嘉合锦程混合C",
             "post_date": "2019-01-15",
-            "cp_rate": 94.2012
+            "cp_rate": 125.3949
           },
           {
             "fund_code": "006424",
             "fundsname": "嘉合锦程混合A",
             "post_date": "2019-01-15",
-            "cp_rate": 97.132
+            "cp_rate": 128.9098
           }
         ]
       },
@@ -234,31 +234,31 @@
             "fund_code": "006992",
             "fundsname": "嘉合锦创优势精选混合",
             "post_date": "2020-06-22",
-            "cp_rate": 19.7019
+            "cp_rate": 26.7964
           },
           {
             "fund_code": "009106",
             "fundsname": "嘉合同顺智选股票A",
             "post_date": "2020-05-22",
-            "cp_rate": 2.6
+            "cp_rate": 8.64
           },
           {
             "fund_code": "009107",
             "fundsname": "嘉合同顺智选股票C",
             "post_date": "2020-05-22",
-            "cp_rate": 2.25
+            "cp_rate": 8.23
           },
           {
             "fund_code": "007613",
             "fundsname": "嘉合医疗健康混合",
             "post_date": "2019-09-26",
-            "cp_rate": 41.94
+            "cp_rate": 54.75
           },
           {
             "fund_code": "007281",
             "fundsname": "嘉合消费升级混合",
             "post_date": "2019-06-14",
-            "cp_rate": 52.99
+            "cp_rate": 74.54
           }
         ]
       }

@@ -16,8 +16,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 8.93,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "京东方A",
           "code": "000725",
           "percent": 6.14,
-          "current_price": 5.25,
-          "change_percentage": -0.57,
+          "current_price": 5.92,
+          "change_percentage": -1.33,
           "xq_symbol": "SZ000725",
           "xq_url": "https://xueqiu.com/S/SZ000725",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "数据港",
           "code": "603881",
           "percent": 5.12,
-          "current_price": 69.05,
-          "change_percentage": -0.72,
+          "current_price": 60.49,
+          "change_percentage": 0.63,
           "xq_symbol": "SH603881",
           "xq_url": "https://xueqiu.com/S/SH603881",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "深信服",
           "code": "300454",
           "percent": 5.05,
-          "current_price": 217.55,
-          "change_percentage": 3.2,
+          "current_price": 266,
+          "change_percentage": 7.25,
           "xq_symbol": "SZ300454",
           "xq_url": "https://xueqiu.com/S/SZ300454",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "移远通信",
           "code": "603236",
           "percent": 4.08,
-          "current_price": 187.11,
-          "change_percentage": -1.26,
+          "current_price": 191.5,
+          "change_percentage": 2.44,
           "xq_symbol": "SH603236",
           "xq_url": "https://xueqiu.com/S/SH603236",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "金山办公",
           "code": "688111",
           "percent": 4.05,
-          "current_price": 349.5,
-          "change_percentage": -2.75,
+          "current_price": 420,
+          "change_percentage": 2.19,
           "xq_symbol": "SH688111",
           "xq_url": "https://xueqiu.com/S/SH688111",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "歌尔股份",
           "code": "002241",
           "percent": 3.89,
-          "current_price": 37.16,
-          "change_percentage": -2.24,
+          "current_price": 36.74,
+          "change_percentage": -1.55,
           "xq_symbol": "SZ002241",
           "xq_url": "https://xueqiu.com/S/SZ002241",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "新易盛",
           "code": "300502",
           "percent": 3.39,
-          "current_price": 58.26,
-          "change_percentage": 0.99,
+          "current_price": 56.32,
+          "change_percentage": 1.51,
           "xq_symbol": "SZ300502",
           "xq_url": "https://xueqiu.com/S/SZ300502",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "恒生电子",
           "code": "600570",
           "percent": 3.34,
-          "current_price": 98.15,
-          "change_percentage": 1.31,
+          "current_price": 106.17,
+          "change_percentage": 1.21,
           "xq_symbol": "SH600570",
           "xq_url": "https://xueqiu.com/S/SH600570",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "分众传媒",
           "code": "002027",
           "percent": 3.08,
-          "current_price": 10.36,
-          "change_percentage": 0.58,
+          "current_price": 10.04,
+          "change_percentage": 1.72,
           "xq_symbol": "SZ002027",
           "xq_url": "https://xueqiu.com/S/SZ002027",
           "amarket": true
@@ -184,19 +184,19 @@
             "fund_code": "010235",
             "fundsname": "广发资源优选股票C",
             "post_date": "2020-09-24",
-            "cp_rate": 8.2687
+            "cp_rate": 15.0862
           },
           {
             "fund_code": "010245",
             "fundsname": "广发品牌消费股票C",
             "post_date": "2020-09-24",
-            "cp_rate": 11.0563
+            "cp_rate": 23.919
           },
           {
             "fund_code": "010236",
             "fundsname": "广发电子信息传媒产业精选股票C",
             "post_date": "2020-09-24",
-            "cp_rate": 3.5793
+            "cp_rate": 6.5901
           },
           {
             "fund_code": "004997",
@@ -209,19 +209,19 @@
             "fund_code": "005402",
             "fundsname": "广发资源优选股票A",
             "post_date": "2019-09-11",
-            "cp_rate": 82.5032
+            "cp_rate": 94.0413
           },
           {
             "fund_code": "004995",
             "fundsname": "广发品牌消费股票A",
             "post_date": "2019-09-11",
-            "cp_rate": 83.1473
+            "cp_rate": 104.407
           },
           {
             "fund_code": "005310",
             "fundsname": "广发电子信息传媒产业精选股票A",
             "post_date": "2018-02-13",
-            "cp_rate": 85.1471
+            "cp_rate": 90.5725
           }
         ]
       },
@@ -233,13 +233,13 @@
             "fund_code": "010236",
             "fundsname": "广发电子信息传媒产业精选股票C",
             "post_date": "2020-09-24",
-            "cp_rate": 3.5793
+            "cp_rate": 6.5901
           },
           {
             "fund_code": "005310",
             "fundsname": "广发电子信息传媒产业精选股票A",
             "post_date": "2020-08-07",
-            "cp_rate": -4.567
+            "cp_rate": -1.7705
           }
         ]
       }

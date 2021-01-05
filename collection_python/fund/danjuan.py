@@ -17,6 +17,7 @@ pip3 install openpyxl -i https://pypi.doubanio.com/simple
 import collections
 import json
 import random
+import threading
 import time
 
 import pandas as pd
@@ -155,7 +156,19 @@ def save_mysql(fund_code, fund_name, managers, enddate, detail_json, type):
         detail_json=detail_json,
         type=type,
     )
-    Connection.execute(query)
+    err = Connection.execute(query)
+    print("insert:", err.is_insert)
+
+    if err.is_insert != True:
+        err = Connection.execute(db.update(Table).values(
+            fund_name=fund_name,
+            fund_code=fund_code,
+            managers=managers,
+            enddate=enddate,
+            detail_json=detail_json,
+            type=type,
+        ))
+        print("update:", err.is_insert)
 
 
 def request_and_save(fund_code, fund_name, type):
@@ -327,35 +340,67 @@ def export_all_stock_funds():
     df = pd.DataFrame.from_dict(sorted_stock_dict, orient='index')
     df.to_excel("./stock.xlsx")
 
+def startFunds(index):
+    if index == 1:
+        print("1")
+        for i in range(5):
+            crawl_all_my_funds_to_mysql(i+1)
+    elif index == 2:
+        print("2")
+        for i in range(4):
+            crawl_all_my_funds_to_mysql(i+1001)
+    elif index == 3:
+        print("3")
+        for i in range(4):
+            crawl_all_my_funds_to_mysql(i+2001)
+    else:
+        print("4")
+        crawl_all_my_funds_to_mysql(11)
 
 def main():
     # get_fund_json("007300", "汇添富中盘", True) # 单独抓取一个基金数据到文件
-    # crawl_all_my_funds_to_mysql(1) # 抓取所有我关注的雪球上的基金到 mysql
-    # crawl_all_my_funds_to_mysql(2) # 抓取所有我关注的雪球上的基金到 mysql
-    # crawl_all_my_funds_to_mysql(3) # 抓取所有我关注的雪球上的基金到 mysql
-    # crawl_all_my_funds_to_mysql(4) # 抓取所有我关注的雪球上的基金到 mysql
-    # crawl_all_my_funds_to_mysql(5) # 抓取所有我关注的雪球上的基金到 mysql
-    # crawl_all_my_funds_to_mysql(6) # 抓取所有我关注的雪球上的基金到 mysql
 
-    # crawl_all_my_funds_to_mysql(11) # 抓取所有我关注的雪球上的基金到 mysql
-    # crawl_all_my_funds_to_mysql(1001) # 抓取所有我关注的雪球上的基金到 mysql
-    # crawl_all_my_funds_to_mysql(1002) # 抓取所有我关注的雪球上的基金到 mysql
-    # crawl_all_my_funds_to_mysql(1003) # 抓取所有我关注的雪球上的基金到 mysql
-    # crawl_all_my_funds_to_mysql(1004) # 抓取所有我关注的雪球上的基金到 mysql
-    # crawl_all_my_funds_to_mysql(1005) # 抓取所有我关注的雪球上的基金到 mysql
-    #
-    # crawl_all_my_funds_to_mysql(2001) # 抓取所有我关注的雪球上的基金到 mysql
-    # crawl_all_my_funds_to_mysql(2002) # 抓取所有我关注的雪球上的基金到 mysql
-    # crawl_all_my_funds_to_mysql(2003) # 抓取所有我关注的雪球上的基金到 mysql
-    # crawl_all_my_funds_to_mysql(2004) # 抓取所有我关注的雪球上的基金到 mysql
-    #
-    # crawl_all_my_funds_to_mysql(2005) # 抓取所有我关注的雪球上的基金到 mysql
+    # t1 = threading.Thread(target=startFunds, args=[1])
+    # t1.start()
+    # t2 = threading.Thread(target=startFunds, args=[2])
+    # t2.start()
+    # t3 = threading.Thread(target=startFunds, args=[3])
+    # t3.start()
+    # t4 = threading.Thread(target=startFunds, args=[4])
+    # t4.start()
+
+    crawl_all_my_funds_to_mysql(1) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(2) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(3) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(4) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(5) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(6) # 抓取所有我关注的雪球上的基金到 mysql
+
+    crawl_all_my_funds_to_mysql(11) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(1001) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(1002) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(1003) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(1004) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(1005) # 抓取所有我关注的雪球上的基金到 mysql
+
+    crawl_all_my_funds_to_mysql(2001) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(2002) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(2003) # 抓取所有我关注的雪球上的基金到 mysql
+    crawl_all_my_funds_to_mysql(2004) # 抓取所有我关注的雪球上的基金到 mysql
+
+    crawl_all_my_funds_to_mysql(2005) # 抓取所有我关注的雪球上的基金到 mysql
 
     export_all_mysql_funds_stocks_to_excel_vertical()  # 导出基金十大重仓股
     export_all_mysql_funds_stocks_to_excel()  # 导出横版基金十大重仓
-
     export_all_stock_funds()  # 导出每个重仓股票分别被多少基金持有
 
+    # while True:
+    #     length = len(threading.enumerate())
+    #     print('当前运行的线程数为：%d' % length)
+    #     if length <= 1:
+    #         break
+    #
+    #     time.sleep(0.5)
 
 if __name__ == "__main__":
     init_conn()

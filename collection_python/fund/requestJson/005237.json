@@ -15,8 +15,8 @@
           "name": "药明康德",
           "code": "603259",
           "percent": 7.33,
-          "current_price": 110.9,
-          "change_percentage": -0.12,
+          "current_price": 137.11,
+          "change_percentage": 1.77,
           "xq_symbol": "SH603259",
           "xq_url": "https://xueqiu.com/S/SH603259",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "长春高新",
           "code": "000661",
           "percent": 6.62,
-          "current_price": 388,
-          "change_percentage": 0.19,
+          "current_price": 473.45,
+          "change_percentage": 5.47,
           "xq_symbol": "SZ000661",
           "xq_url": "https://xueqiu.com/S/SZ000661",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "恒瑞医药",
           "code": "600276",
           "percent": 4.77,
-          "current_price": 90.07,
-          "change_percentage": 0.21,
+          "current_price": 111.2,
+          "change_percentage": -0.23,
           "xq_symbol": "SH600276",
           "xq_url": "https://xueqiu.com/S/SH600276",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "智飞生物",
           "code": "300122",
           "percent": 4.22,
-          "current_price": 139.38,
-          "change_percentage": -0.39,
+          "current_price": 143.22,
+          "change_percentage": -3.17,
           "xq_symbol": "SZ300122",
           "xq_url": "https://xueqiu.com/S/SZ300122",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "药石科技",
           "code": "300725",
           "percent": 4.06,
-          "current_price": 122.8,
-          "change_percentage": 0.62,
+          "current_price": 135.4,
+          "change_percentage": -1.88,
           "xq_symbol": "SZ300725",
           "xq_url": "https://xueqiu.com/S/SZ300725",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "健帆生物",
           "code": "300529",
           "percent": 3.74,
-          "current_price": 68.76,
-          "change_percentage": -0.28,
+          "current_price": 72.45,
+          "change_percentage": 6.83,
           "xq_symbol": "SZ300529",
           "xq_url": "https://xueqiu.com/S/SZ300529",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "华兰生物",
           "code": "002007",
           "percent": 3.72,
-          "current_price": 43.73,
-          "change_percentage": -3.19,
+          "current_price": 41.85,
+          "change_percentage": -0.92,
           "xq_symbol": "SZ002007",
           "xq_url": "https://xueqiu.com/S/SZ002007",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 3.21,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "欧普康视",
           "code": "300595",
           "percent": 2.88,
-          "current_price": 73.1,
-          "change_percentage": -0.41,
+          "current_price": 81.96,
+          "change_percentage": 0.05,
           "xq_symbol": "SZ300595",
           "xq_url": "https://xueqiu.com/S/SZ300595",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "康泰生物",
           "code": "300601",
           "percent": 2.79,
-          "current_price": 158.41,
-          "change_percentage": -1.36,
+          "current_price": 165.98,
+          "change_percentage": -4.88,
           "xq_symbol": "SZ300601",
           "xq_url": "https://xueqiu.com/S/SZ300601",
           "amarket": true
@@ -176,92 +176,98 @@
     "manager_list": [
       {
         "name": "马君",
-        "resume": "    马君女士,毕业于复旦大学数学系,理学硕士。2008年7月至2009年3月任职大成基金管理有限公司助理金融工程师。2009年3月加盟银华基金管理有限公司,曾担任研究员及基金经理助理职务。自2012年9月4日起担任银华中证内地资源主题指数分级证券投资基金基金经理,2013年12月16日至2015年7月16日兼任银华消费主题分级股票型证券投资基金基金经理,2015年8月6日至2016年8月5日兼任银华中证国防安全指数分级证券投资基金基金经理,2015年8月13日至2016年8月5日兼任银华中证一带一路主题指数分级证券投资基金基金经理,自2016年1月14日起兼任银华抗通胀主题证券投资基金(LOF)基金经理。自2017年9月15日起兼任银华智能汽车量化优选股票型发起式证券投资基金基金经理,自2017年11月9日起兼任银华食品饮料量化优选股票型发起式证券投资基金、银华医疗健康量化优选股票型发起式证券投资基金基金经理,自2017年12月15日起兼任银华稳健增利灵活配置混合型发起式证券投资基金基金经理,2018年5月11日起兼任银华中小市值量化优选股票型发起式证券投资基金基金经理,自2020年1月22日起兼任银华中证5G通信主题交易型开放式指数证券投资基金基金经理,自2020年3月20日起兼任银华中证创新药产业交易型开放式指数证券投资基金基金经理,自2020年5月28日起兼任银华中证5G通信主题交易型开放式指数证券投资基金联接基金基金经理,自2020年9月22日起兼任银华信息科技量化优选股票型发起式证券投资基金基金经理。",
+        "resume": "    马君女士:复旦大学理学硕士。2009年3月加盟银华基金,历任研究部行业研究员、量化投资部金融工程分析师、量化研究员,现任基金经理。自2012年9月4日至2020年11月30日担任银华中证内地资源主题指数分级证券投资基金基金经理,2013年12月16日至2015年7月16日兼任银华消费主题分级混合型证券投资基金基金经理,2015年8月6日至2016年8月5日兼任银华中证国防安全指数分级证券投资基金基金经理,2015年8月13日至2016年8月5日兼任银华中证一带一路主题指数分级证券投资基金基金经理,自2016年1月14日起兼任银华抗通胀主题证券投资基金(LOF)基金经理。自2017年9月15日至2020年12月10日兼任银华智能汽车量化优选股票型发起式证券投资基金基金经理,自2017年11月9日起兼任银华食品饮料量化优选股票型发起式证券投资基金、银华医疗健康量化优选股票型发起式证券投资基金基金经理,自2017年12月15日起兼任银华稳健增利灵活配置混合型发起式证券投资基金基金经理,2018年5月11日起兼任银华中小市值量化优选股票型发起式证券投资基金基金经理,自2020年1月22日起兼任银华中证5G通信主题交易型开放式指数证券投资基金基金经理,自2020年3月20日起兼任银华中证创新药产业交易型开放式指数证券投资基金基金经理,自2020年5月28日起兼任银华中证5G通信主题交易型开放式指数证券投资基金联接基金基金经理,自2020年9月22日起兼任银华信息科技量化优选股票型发起式证券投资基金基金经理,自2020年9月29日起兼任银华工银南方东英标普中国新经济行业交易型开放式指数证券投资基金(QDII)基金经理,自2020年12月10日起兼任银华中证农业主题交易型开放式指数证券投资基金基金经理。",
         "college": "复旦大学",
         "achievement_list": [
+          {
+            "fund_code": "159827",
+            "fundsname": "银华中证农业主题ETF",
+            "post_date": "2020-12-10",
+            "cp_rate": 2.98
+          },
           {
             "fund_code": "159822",
             "fundsname": "银华标普中国新经济(QDII-ETF)",
             "post_date": "2020-09-29",
-            "cp_rate": 3.15
+            "cp_rate": 6.51
           },
           {
             "fund_code": "005036",
             "fundsname": "银华信息科技量化优选股票C",
             "post_date": "2020-09-22",
-            "cp_rate": 3.1983
+            "cp_rate": 3.3486
           },
           {
             "fund_code": "005035",
             "fundsname": "银华信息科技量化优选股票A",
             "post_date": "2020-09-22",
-            "cp_rate": 3.2821
+            "cp_rate": 3.4575
           },
           {
             "fund_code": "008889",
-            "fundsname": "银华中证5G通信主题ETF联接",
+            "fundsname": "银华中证5G通信主题ETF联接A",
             "post_date": "2020-05-28",
-            "cp_rate": -5.29
+            "cp_rate": -9.19
           },
           {
             "fund_code": "159992",
             "fundsname": "银华中证创新药产业ETF",
             "post_date": "2020-03-20",
-            "cp_rate": 30.277
+            "cp_rate": 39.1761
           },
           {
             "fund_code": "159994",
             "fundsname": "银华中证5GETF",
             "post_date": "2020-01-22",
-            "cp_rate": 2.71
+            "cp_rate": -1.73
           },
           {
             "fund_code": "005515",
             "fundsname": "银华中小市值量化优选股票发起式A",
             "post_date": "2018-05-11",
-            "cp_rate": 10.51
+            "cp_rate": 8.4
           },
           {
             "fund_code": "005516",
             "fundsname": "银华中小市值量化优选股票发起式C",
             "post_date": "2018-05-11",
-            "cp_rate": 12.94
+            "cp_rate": 10.77
           },
           {
             "fund_code": "005261",
             "fundsname": "银华稳健增利灵活配置混合C",
             "post_date": "2017-12-15",
-            "cp_rate": 35.5164
+            "cp_rate": 39.2761
           },
           {
             "fund_code": "005260",
             "fundsname": "银华稳健增利灵活配置混合A",
             "post_date": "2017-12-15",
-            "cp_rate": 36.6363
+            "cp_rate": 40.466
           },
           {
             "fund_code": "005236",
             "fundsname": "银华食品饮料量化股票发起式C",
             "post_date": "2017-11-09",
-            "cp_rate": 127.55
+            "cp_rate": 149.75
           },
           {
             "fund_code": "005235",
             "fundsname": "银华食品饮料量化股票发起式A",
             "post_date": "2017-11-09",
-            "cp_rate": 129.03
+            "cp_rate": 151.44
           },
           {
             "fund_code": "005238",
             "fundsname": "银华医疗健康量化股票发起式C",
             "post_date": "2017-11-09",
-            "cp_rate": 76.87
+            "cp_rate": 87.25
           },
           {
             "fund_code": "005237",
             "fundsname": "银华医疗健康量化股票发起式A",
             "post_date": "2017-11-09",
-            "cp_rate": 78.51
+            "cp_rate": 89.03
           },
           {
             "fund_code": "005034",
@@ -281,7 +287,7 @@
             "fund_code": "161815",
             "fundsname": "银华抗通胀主题(QDII-FOF-LOF)",
             "post_date": "2016-01-14",
-            "cp_rate": 3.912
+            "cp_rate": 7.335
           },
           {
             "fund_code": "150354",
@@ -376,8 +382,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

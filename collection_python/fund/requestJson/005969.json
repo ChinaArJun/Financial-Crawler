@@ -15,8 +15,8 @@
           "name": "三一重工",
           "code": "600031",
           "percent": 9.09,
-          "current_price": 31.48,
-          "change_percentage": -1.41,
+          "current_price": 34.8,
+          "change_percentage": -0.51,
           "xq_symbol": "SH600031",
           "xq_url": "https://xueqiu.com/S/SH600031",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 9.08,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 9.02,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "通威股份",
           "code": "600438",
           "percent": 8.95,
-          "current_price": 29.2,
-          "change_percentage": -1.85,
+          "current_price": 41.65,
+          "change_percentage": 8.35,
           "xq_symbol": "SH600438",
           "xq_url": "https://xueqiu.com/S/SH600438",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "东方雨虹",
           "code": "002271",
           "percent": 8.2,
-          "current_price": 35.92,
-          "change_percentage": 0.25,
+          "current_price": 39.48,
+          "change_percentage": 1.75,
           "xq_symbol": "SZ002271",
           "xq_url": "https://xueqiu.com/S/SZ002271",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "恩捷股份",
           "code": "002812",
           "percent": 6.18,
-          "current_price": 108,
-          "change_percentage": 0.88,
+          "current_price": 155,
+          "change_percentage": 9.32,
           "xq_symbol": "SZ002812",
           "xq_url": "https://xueqiu.com/S/SZ002812",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "晶澳科技",
           "code": "002459",
           "percent": 4.2,
-          "current_price": 32.99,
-          "change_percentage": 0.49,
+          "current_price": 43.1,
+          "change_percentage": 5.84,
           "xq_symbol": "SZ002459",
           "xq_url": "https://xueqiu.com/S/SZ002459",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "万华化学",
           "code": "600309",
           "percent": 4.11,
-          "current_price": 82.99,
-          "change_percentage": -0.3,
+          "current_price": 94.12,
+          "change_percentage": 3.38,
           "xq_symbol": "SH600309",
           "xq_url": "https://xueqiu.com/S/SH600309",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "中国巨石",
           "code": "600176",
           "percent": 4.04,
-          "current_price": 16.68,
-          "change_percentage": 0,
+          "current_price": 20.39,
+          "change_percentage": 2.15,
           "xq_symbol": "SH600176",
           "xq_url": "https://xueqiu.com/S/SH600176",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "龙蟒佰利",
           "code": "002601",
           "percent": 4.02,
-          "current_price": 31.77,
-          "change_percentage": 2.22,
+          "current_price": 32.23,
+          "change_percentage": 4.74,
           "xq_symbol": "SZ002601",
           "xq_url": "https://xueqiu.com/S/SZ002601",
           "amarket": true
@@ -164,28 +164,40 @@
         "college": "中南财经政法大学",
         "achievement_list": [
           {
+            "fund_code": "011142",
+            "fundsname": "创金合信新材料新能源股票A",
+            "post_date": "2020-12-30",
+            "cp_rate": 0
+          },
+          {
+            "fund_code": "011143",
+            "fundsname": "创金合信新材料新能源股票C",
+            "post_date": "2020-12-30",
+            "cp_rate": 0
+          },
+          {
             "fund_code": "005968",
             "fundsname": "创金合信工业周期股票A",
             "post_date": "2018-05-17",
-            "cp_rate": 138.32
+            "cp_rate": 181.29
           },
           {
             "fund_code": "005969",
             "fundsname": "创金合信工业周期股票C",
             "post_date": "2018-05-17",
-            "cp_rate": 134.33
+            "cp_rate": 176.47
           },
           {
             "fund_code": "003624",
             "fundsname": "创金合信资源主题精选股票A",
             "post_date": "2016-11-02",
-            "cp_rate": 81.78
+            "cp_rate": 102.79
           },
           {
             "fund_code": "003625",
             "fundsname": "创金合信资源主题精选股票C",
             "post_date": "2016-11-02",
-            "cp_rate": 77.93
+            "cp_rate": 98.44
           }
         ]
       }

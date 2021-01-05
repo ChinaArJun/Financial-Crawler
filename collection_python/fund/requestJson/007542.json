@@ -115,43 +115,43 @@
             "fund_code": "009985",
             "fundsname": "永赢迅利中高等级短债E",
             "post_date": "2020-08-07",
-            "cp_rate": 0.4233
+            "cp_rate": 0.8367
           },
           {
             "fund_code": "008722",
             "fundsname": "永赢欣益一年",
             "post_date": "2020-08-06",
-            "cp_rate": 0.2
+            "cp_rate": 0.73
           },
           {
             "fund_code": "007542",
             "fundsname": "永赢开泰中高等级中短债A",
             "post_date": "2019-09-02",
-            "cp_rate": 3.5982
+            "cp_rate": 4.058
           },
           {
             "fund_code": "007543",
             "fundsname": "永赢开泰中高等级中短债C",
             "post_date": "2019-09-02",
-            "cp_rate": 3.3487
+            "cp_rate": 3.7885
           },
           {
             "fund_code": "006852",
             "fundsname": "永赢迅利中高等级短债A",
             "post_date": "2019-01-24",
-            "cp_rate": 5.5972
+            "cp_rate": 6.057
           },
           {
             "fund_code": "000533",
             "fundsname": "永赢货币",
             "post_date": "2018-08-24",
-            "cp_rate": 6.0288
+            "cp_rate": 6.254
           },
           {
             "fund_code": "004545",
             "fundsname": "永赢天天利货币",
             "post_date": "2018-08-24",
-            "cp_rate": 6.6134
+            "cp_rate": 6.8316
           }
         ]
       }

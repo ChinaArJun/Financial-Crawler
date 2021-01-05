@@ -16,8 +16,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 6.7,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "万华化学",
           "code": "600309",
           "percent": 6.19,
-          "current_price": 82.99,
-          "change_percentage": -0.3,
+          "current_price": 94.12,
+          "change_percentage": 3.38,
           "xq_symbol": "SH600309",
           "xq_url": "https://xueqiu.com/S/SH600309",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 6.13,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "中信特钢",
           "code": "000708",
           "percent": 5.51,
-          "current_price": 20.41,
-          "change_percentage": -1.73,
+          "current_price": 23.2,
+          "change_percentage": 6.47,
           "xq_symbol": "SZ000708",
           "xq_url": "https://xueqiu.com/S/SZ000708",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "东方雨虹",
           "code": "002271",
           "percent": 5.46,
-          "current_price": 35.92,
-          "change_percentage": 0.25,
+          "current_price": 39.48,
+          "change_percentage": 1.75,
           "xq_symbol": "SZ002271",
           "xq_url": "https://xueqiu.com/S/SZ002271",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 3.74,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "新宙邦",
           "code": "300037",
           "percent": 3.74,
-          "current_price": 99.89,
-          "change_percentage": 12.22,
+          "current_price": 106.5,
+          "change_percentage": 5.03,
           "xq_symbol": "SZ300037",
           "xq_url": "https://xueqiu.com/S/SZ300037",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "紫金矿业",
           "code": "601899",
           "percent": 3.66,
-          "current_price": 8.91,
-          "change_percentage": 1.14,
+          "current_price": 10.04,
+          "change_percentage": 8.07,
           "xq_symbol": "SH601899",
           "xq_url": "https://xueqiu.com/S/SH601899",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 3.48,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "通威股份",
           "code": "600438",
           "percent": 3.17,
-          "current_price": 29.2,
-          "change_percentage": -1.85,
+          "current_price": 41.65,
+          "change_percentage": 8.35,
           "xq_symbol": "SH600438",
           "xq_url": "https://xueqiu.com/S/SH600438",
           "amarket": true
@@ -187,13 +187,13 @@
       {
         "name": "张剑峰",
         "resume": "    张剑峰先生,12年证券从业经验;曾在国信证券经济研究所担任化工行业研究员;2008年加入工银瑞信,现任研究部大宗商品研究团队负责人、基金经理。2016年9月19日至今,担任工银瑞信新材料新能源行业股票型证券投资基金基金经理。",
-        "work_year": "15",
+        "work_year": "16",
         "achievement_list": [
           {
             "fund_code": "001158",
             "fundsname": "工银新材料新能源股票",
             "post_date": "2016-09-19",
-            "cp_rate": 65.4003
+            "cp_rate": 88.0597
           }
         ]
       }

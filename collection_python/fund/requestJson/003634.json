@@ -16,8 +16,8 @@
           "name": "双汇发展",
           "code": "000895",
           "percent": 8.48,
-          "current_price": 48.4,
-          "change_percentage": 1.4,
+          "current_price": 48.01,
+          "change_percentage": 2.28,
           "xq_symbol": "SZ000895",
           "xq_url": "https://xueqiu.com/S/SZ000895",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "海大集团",
           "code": "002311",
           "percent": 8.42,
-          "current_price": 61,
-          "change_percentage": 0,
+          "current_price": 68.43,
+          "change_percentage": 4.47,
           "xq_symbol": "SZ002311",
           "xq_url": "https://xueqiu.com/S/SZ002311",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "泸州老窖",
           "code": "000568",
           "percent": 8.35,
-          "current_price": 191.85,
-          "change_percentage": 0.56,
+          "current_price": 240.85,
+          "change_percentage": 6.5,
           "xq_symbol": "SZ000568",
           "xq_url": "https://xueqiu.com/S/SZ000568",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "五粮液",
           "code": "000858",
           "percent": 8.03,
-          "current_price": 272,
-          "change_percentage": 0.65,
+          "current_price": 298.05,
+          "change_percentage": 2.12,
           "xq_symbol": "SZ000858",
           "xq_url": "https://xueqiu.com/S/SZ000858",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "隆平高科",
           "code": "000998",
           "percent": 7.92,
-          "current_price": 17.78,
-          "change_percentage": -1.93,
+          "current_price": 20.7,
+          "change_percentage": 4.49,
           "xq_symbol": "SZ000998",
           "xq_url": "https://xueqiu.com/S/SZ000998",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "新希望",
           "code": "000876",
           "percent": 6.98,
-          "current_price": 26.59,
-          "change_percentage": -1.3,
+          "current_price": 24.64,
+          "change_percentage": 10,
           "xq_symbol": "SZ000876",
           "xq_url": "https://xueqiu.com/S/SZ000876",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "妙可蓝多",
           "code": "600882",
           "percent": 4.82,
-          "current_price": 39.17,
-          "change_percentage": 0,
+          "current_price": 57,
+          "change_percentage": -0.18,
           "xq_symbol": "SH600882",
           "xq_url": "https://xueqiu.com/S/SH600882",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "大北农",
           "code": "002385",
           "percent": 4.72,
-          "current_price": 9.12,
-          "change_percentage": -1.94,
+          "current_price": 10.3,
+          "change_percentage": 6.63,
           "xq_symbol": "SZ002385",
           "xq_url": "https://xueqiu.com/S/SZ002385",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "登海种业",
           "code": "002041",
           "percent": 4.2,
-          "current_price": 17.99,
-          "change_percentage": -0.72,
+          "current_price": 23.25,
+          "change_percentage": 4.17,
           "xq_symbol": "SZ002041",
           "xq_url": "https://xueqiu.com/S/SZ002041",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "禾丰牧业",
           "code": "603609",
           "percent": 4.09,
-          "current_price": 13.6,
-          "change_percentage": 0.37,
+          "current_price": 12.74,
+          "change_percentage": 7.78,
           "xq_symbol": "SH603609",
           "xq_url": "https://xueqiu.com/S/SH603609",
           "amarket": true
@@ -213,15 +213,27 @@
     },
     "manager_list": [
       {
-        "name": "姚爽",
-        "resume": "    姚爽先生经济学硕士,8年证券基金从业经验,历任中再资产农业及食品饮料研究员,中信产业基金农业及食品行业高级研究员。2014年11月加入嘉实基金管理有限公司,现任嘉实基金农业研究员。2016年12月7日至今任嘉实农业产业股票型证券投资基金基金经理。",
-        "work_year": "11",
+        "name": "吴越",
+        "resume": "    吴越先生,5年证券从业经历, 2013年6月加入嘉实基金管理有限公司研究部任研究员一职,先后负责A股食品饮料、轻工等行业的研究工作。",
+        "work_year": "8",
         "achievement_list": [
+          {
+            "fund_code": "006604",
+            "fundsname": "嘉实消费精选股票A",
+            "post_date": "2020-12-09",
+            "cp_rate": 13.8399
+          },
+          {
+            "fund_code": "006605",
+            "fundsname": "嘉实消费精选股票C",
+            "post_date": "2020-12-09",
+            "cp_rate": 13.8047
+          },
           {
             "fund_code": "003634",
             "fundsname": "嘉实农业产业股票",
-            "post_date": "2016-12-07",
-            "cp_rate": 112.88
+            "post_date": "2020-12-09",
+            "cp_rate": 8.6212
           }
         ]
       }

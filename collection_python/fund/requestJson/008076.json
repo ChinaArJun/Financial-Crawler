@@ -16,8 +16,8 @@
           "name": "牧原股份",
           "code": "002714",
           "percent": 8.48,
-          "current_price": 78.22,
-          "change_percentage": -0.7,
+          "current_price": 84.81,
+          "change_percentage": 10,
           "xq_symbol": "SZ002714",
           "xq_url": "https://xueqiu.com/S/SZ002714",
           "amarket": true
@@ -34,8 +34,8 @@
           "name": "海大集团",
           "code": "002311",
           "percent": 7.03,
-          "current_price": 61,
-          "change_percentage": 0,
+          "current_price": 68.43,
+          "change_percentage": 4.47,
           "xq_symbol": "SZ002311",
           "xq_url": "https://xueqiu.com/S/SZ002311",
           "amarket": true
@@ -44,8 +44,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 6.08,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -54,8 +54,8 @@
           "name": "山西汾酒",
           "code": "600809",
           "percent": 5.39,
-          "current_price": 265.1,
-          "change_percentage": 1.54,
+          "current_price": 373.63,
+          "change_percentage": -0.44,
           "xq_symbol": "SH600809",
           "xq_url": "https://xueqiu.com/S/SH600809",
           "amarket": true
@@ -64,8 +64,8 @@
           "name": "华海药业",
           "code": "600521",
           "percent": 5.32,
-          "current_price": 35.36,
-          "change_percentage": 2.26,
+          "current_price": 31.41,
+          "change_percentage": -7.1,
           "xq_symbol": "SH600521",
           "xq_url": "https://xueqiu.com/S/SH600521",
           "amarket": true
@@ -74,8 +74,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 4.3,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -84,8 +84,8 @@
           "name": "艾迪精密",
           "code": "603638",
           "percent": 4.13,
-          "current_price": 59.02,
-          "change_percentage": 0.05,
+          "current_price": 69.05,
+          "change_percentage": 0.16,
           "xq_symbol": "SH603638",
           "xq_url": "https://xueqiu.com/S/SH603638",
           "amarket": true
@@ -94,8 +94,8 @@
           "name": "益丰药房",
           "code": "603939",
           "percent": 3.35,
-          "current_price": 101.02,
-          "change_percentage": -1.4,
+          "current_price": 88.92,
+          "change_percentage": -1.41,
           "xq_symbol": "SH603939",
           "xq_url": "https://xueqiu.com/S/SH603939",
           "amarket": true
@@ -104,8 +104,8 @@
           "name": "五粮液",
           "code": "000858",
           "percent": 3.19,
-          "current_price": 272,
-          "change_percentage": 0.65,
+          "current_price": 298.05,
+          "change_percentage": 2.12,
           "xq_symbol": "SZ000858",
           "xq_url": "https://xueqiu.com/S/SZ000858",
           "amarket": true
@@ -182,37 +182,37 @@
             "fund_code": "009865",
             "fundsname": "招商景气优选股票C",
             "post_date": "2020-11-18",
-            "cp_rate": 0.07
+            "cp_rate": 3.88
           },
           {
             "fund_code": "009864",
             "fundsname": "招商景气优选股票A",
             "post_date": "2020-11-18",
-            "cp_rate": 0.1
+            "cp_rate": 3.97
           },
           {
             "fund_code": "008656",
             "fundsname": "招商科技创新混合C",
             "post_date": "2020-02-12",
-            "cp_rate": 14.44
+            "cp_rate": 23.97
           },
           {
             "fund_code": "008655",
             "fundsname": "招商科技创新混合A",
             "post_date": "2020-02-12",
-            "cp_rate": 15.2
+            "cp_rate": 24.85
           },
           {
             "fund_code": "008076",
             "fundsname": "招商核心优选C",
             "post_date": "2019-12-17",
-            "cp_rate": 36.5
+            "cp_rate": 47.22
           },
           {
             "fund_code": "008075",
             "fundsname": "招商核心优选A",
             "post_date": "2019-12-17",
-            "cp_rate": 37.57
+            "cp_rate": 48.46
           },
           {
             "fund_code": "002582",
@@ -246,13 +246,13 @@
             "fund_code": "006365",
             "fundsname": "招商丰韵混合C",
             "post_date": "2019-03-19",
-            "cp_rate": 100.77
+            "cp_rate": 122.82
           },
           {
             "fund_code": "006364",
             "fundsname": "招商丰韵混合A",
             "post_date": "2019-03-19",
-            "cp_rate": 103.52
+            "cp_rate": 125.99
           },
           {
             "fund_code": "004784",
@@ -286,7 +286,7 @@
             "fund_code": "217005",
             "fundsname": "招商先锋混合",
             "post_date": "2015-01-14",
-            "cp_rate": 155.518
+            "cp_rate": 174.1333
           }
         ]
       }
@@ -297,8 +297,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

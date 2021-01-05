@@ -16,8 +16,8 @@
           "name": "安井食品",
           "code": "603345",
           "percent": 5.53,
-          "current_price": 178.99,
-          "change_percentage": -1.12,
+          "current_price": 193.58,
+          "change_percentage": 0.37,
           "xq_symbol": "SH603345",
           "xq_url": "https://xueqiu.com/S/SH603345",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "分众传媒",
           "code": "002027",
           "percent": 4.53,
-          "current_price": 10.36,
-          "change_percentage": 0.58,
+          "current_price": 10.04,
+          "change_percentage": 1.72,
           "xq_symbol": "SZ002027",
           "xq_url": "https://xueqiu.com/S/SZ002027",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "安车检测",
           "code": "300572",
           "percent": 4.48,
-          "current_price": 44.07,
-          "change_percentage": 0.07,
+          "current_price": 40.41,
+          "change_percentage": -1.15,
           "xq_symbol": "SZ300572",
           "xq_url": "https://xueqiu.com/S/SZ300572",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "绝味食品",
           "code": "603517",
           "percent": 4.41,
-          "current_price": 75.39,
-          "change_percentage": -0.63,
+          "current_price": 82.41,
+          "change_percentage": 6.28,
           "xq_symbol": "SH603517",
           "xq_url": "https://xueqiu.com/S/SH603517",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "亿纬锂能",
           "code": "300014",
           "percent": 4.19,
-          "current_price": 63.71,
-          "change_percentage": 4.17,
+          "current_price": 93.49,
+          "change_percentage": 14.71,
           "xq_symbol": "SZ300014",
           "xq_url": "https://xueqiu.com/S/SZ300014",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "恩捷股份",
           "code": "002812",
           "percent": 3.7,
-          "current_price": 108,
-          "change_percentage": 0.88,
+          "current_price": 155,
+          "change_percentage": 9.32,
           "xq_symbol": "SZ002812",
           "xq_url": "https://xueqiu.com/S/SZ002812",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "亚厦股份",
           "code": "002375",
           "percent": 3.63,
-          "current_price": 8.53,
-          "change_percentage": -0.23,
+          "current_price": 7.13,
+          "change_percentage": -4.17,
           "xq_symbol": "SZ002375",
           "xq_url": "https://xueqiu.com/S/SZ002375",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "海容冷链",
           "code": "603187",
           "percent": 3.17,
-          "current_price": 55.51,
-          "change_percentage": -0.59,
+          "current_price": 60.49,
+          "change_percentage": 0.82,
           "xq_symbol": "SH603187",
           "xq_url": "https://xueqiu.com/S/SH603187",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "华海药业",
           "code": "600521",
           "percent": 3.13,
-          "current_price": 35.36,
-          "change_percentage": 2.26,
+          "current_price": 31.41,
+          "change_percentage": -7.1,
           "xq_symbol": "SH600521",
           "xq_url": "https://xueqiu.com/S/SH600521",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "华兰生物",
           "code": "002007",
           "percent": 3.03,
-          "current_price": 43.73,
-          "change_percentage": -3.19,
+          "current_price": 41.85,
+          "change_percentage": -0.92,
           "xq_symbol": "SZ002007",
           "xq_url": "https://xueqiu.com/S/SZ002007",
           "amarket": true
@@ -211,13 +211,13 @@
       {
         "name": "潘明曦",
         "resume": "    潘明曦先生,研究生硕士。2010年7月加入国泰基金管理有限公司,曾任行业研究员、基金经理助理;2015年加入招商基金管理有限公司,现任招商安泰偏股混合型证券投资基金基金经理(管理时间:2015年10月9日至今)、招商丰美灵活配置混合型证券投资基金基金经理(管理时间:2016年11月10日至今)及招商移动互联网产业股票型证券投资基金(管理时间:2017年6月29日至今)。",
-        "work_year": "10",
+        "work_year": "11",
         "achievement_list": [
           {
             "fund_code": "217021",
             "fundsname": "招商优势企业混合",
             "post_date": "2019-06-14",
-            "cp_rate": 63.5606
+            "cp_rate": 72.0451
           },
           {
             "fund_code": "001404",
@@ -244,7 +244,7 @@
             "fund_code": "217001",
             "fundsname": "招商安泰偏股混合",
             "post_date": "2015-10-09",
-            "cp_rate": 88.6375
+            "cp_rate": 107.1427
           }
         ]
       }
@@ -255,8 +255,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

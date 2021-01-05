@@ -16,8 +16,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 8.71,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -42,8 +42,8 @@
           "name": "智飞生物",
           "code": "300122",
           "percent": 6.02,
-          "current_price": 139.38,
-          "change_percentage": -0.39,
+          "current_price": 143.22,
+          "change_percentage": -3.17,
           "xq_symbol": "SZ300122",
           "xq_url": "https://xueqiu.com/S/SZ300122",
           "amarket": true
@@ -60,8 +60,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 5.09,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -70,8 +70,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 4.16,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -80,8 +80,8 @@
           "name": "牧原股份",
           "code": "002714",
           "percent": 3.7,
-          "current_price": 78.22,
-          "change_percentage": -0.7,
+          "current_price": 84.81,
+          "change_percentage": 10,
           "xq_symbol": "SZ002714",
           "xq_url": "https://xueqiu.com/S/SZ002714",
           "amarket": true
@@ -90,8 +90,8 @@
           "name": "金科股份",
           "code": "000656",
           "percent": 3.45,
-          "current_price": 7.43,
-          "change_percentage": -2.49,
+          "current_price": 6.59,
+          "change_percentage": -7.05,
           "xq_symbol": "SZ000656",
           "xq_url": "https://xueqiu.com/S/SZ000656",
           "amarket": true
@@ -100,8 +100,8 @@
           "name": "招商银行",
           "code": "600036",
           "percent": 3.12,
-          "current_price": 44.26,
-          "change_percentage": -0.36,
+          "current_price": 43.17,
+          "change_percentage": -1.77,
           "xq_symbol": "SH600036",
           "xq_url": "https://xueqiu.com/S/SH600036",
           "amarket": true
@@ -181,44 +181,44 @@
       {
         "name": "陈叶雁南",
         "resume": "    陈叶雁南女士,硕士研究生,16年证券从业经历,特许金融分析师(CFA)。曾于华盛顿哥伦比亚特区的Pepco Energy Services任职,负责财务规划及参与能源衍生工具买卖。\n    曾任东方汇理资产管理大中华投资经理。于2015年9月加入嘉实国际,担任投资经理及股票研究团队主管。2019年2月20日至今任嘉实互通精选股票型证券投资基金基金经理、2019年8月23日至今任嘉实海外中国股票混合型证券投资基金基金经理。",
-        "work_year": "16",
+        "work_year": "17",
         "achievement_list": [
           {
             "fund_code": "070012",
             "fundsname": "嘉实海外中国股票混合(QDII)",
             "post_date": "2019-08-23",
-            "cp_rate": 35.2587
+            "cp_rate": 39.4705
           },
           {
             "fund_code": "006803",
             "fundsname": "嘉实互通精选股票",
             "post_date": "2019-02-20",
-            "cp_rate": 29.56
+            "cp_rate": 32.52
           }
         ]
       },
       {
         "name": "冯正彦",
         "resume": "    冯正彦先生,硕士研究生,14年证券从业经历,特许金融分析师(CFA),金融风险管理师(FRM),中国香港籍。曾于道富环球(State Street Global Advisors)担任基金经理,负责A股及新兴市场的主动管理策略。于2016年9月加入嘉实国际,担任投资经理,负责港股绝对回报策略、部分亚洲股票策略、系统性股票策略的投资管理。2019年2月20日至今任嘉实互通精选股票型证券投资基金基金经理、2020年3月10日至今任嘉实互融精选股票型证券投资基金基金经理、2020年3月14日至今任嘉实全球房地产证券投资基金基金经理。",
-        "work_year": "15",
+        "work_year": "16",
         "achievement_list": [
           {
             "fund_code": "070031",
             "fundsname": "嘉实全球房地产(QDII)",
             "post_date": "2020-03-14",
-            "cp_rate": 21.0327
+            "cp_rate": 21.1446
           },
           {
             "fund_code": "006603",
             "fundsname": "嘉实互融精选股票",
             "post_date": "2020-03-10",
-            "cp_rate": 20.1364
+            "cp_rate": 25.5907
           },
           {
             "fund_code": "006803",
             "fundsname": "嘉实互通精选股票",
             "post_date": "2019-02-20",
-            "cp_rate": 29.56
+            "cp_rate": 32.52
           }
         ]
       }

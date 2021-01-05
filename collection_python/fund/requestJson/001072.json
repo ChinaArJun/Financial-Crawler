@@ -16,8 +16,8 @@
           "name": "歌尔股份",
           "code": "002241",
           "percent": 4.66,
-          "current_price": 37.16,
-          "change_percentage": -2.24,
+          "current_price": 36.74,
+          "change_percentage": -1.55,
           "xq_symbol": "SZ002241",
           "xq_url": "https://xueqiu.com/S/SZ002241",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 4.32,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "华润微",
           "code": "688396",
           "percent": 3.66,
-          "current_price": 69.39,
-          "change_percentage": 0.59,
+          "current_price": 62.54,
+          "change_percentage": 0.08,
           "xq_symbol": "SH688396",
           "xq_url": "https://xueqiu.com/S/SH688396",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 3.5,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "大华股份",
           "code": "002236",
           "percent": 3.21,
-          "current_price": 20.86,
-          "change_percentage": -0.48,
+          "current_price": 20.37,
+          "change_percentage": 2.41,
           "xq_symbol": "SZ002236",
           "xq_url": "https://xueqiu.com/S/SZ002236",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "景嘉微",
           "code": "300474",
           "percent": 2.89,
-          "current_price": 62.78,
-          "change_percentage": -0.55,
+          "current_price": 73.71,
+          "change_percentage": 5.44,
           "xq_symbol": "SZ300474",
           "xq_url": "https://xueqiu.com/S/SZ300474",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "晶盛机电",
           "code": "300316",
           "percent": 2.69,
-          "current_price": 29.1,
-          "change_percentage": -2.51,
+          "current_price": 32.3,
+          "change_percentage": 7.38,
           "xq_symbol": "SZ300316",
           "xq_url": "https://xueqiu.com/S/SZ300316",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "浪潮信息",
           "code": "000977",
           "percent": 2.65,
-          "current_price": 28.3,
-          "change_percentage": -0.95,
+          "current_price": 27.3,
+          "change_percentage": 1.56,
           "xq_symbol": "SZ000977",
           "xq_url": "https://xueqiu.com/S/SZ000977",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "上能电气",
           "code": "300827",
           "percent": 2.64,
-          "current_price": 58.79,
-          "change_percentage": 3.03,
+          "current_price": 82.73,
+          "change_percentage": 2.81,
           "xq_symbol": "SZ300827",
           "xq_url": "https://xueqiu.com/S/SZ300827",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "晶澳科技",
           "code": "002459",
           "percent": 2.64,
-          "current_price": 32.99,
-          "change_percentage": 0.49,
+          "current_price": 43.1,
+          "change_percentage": 5.84,
           "xq_symbol": "SZ002459",
           "xq_url": "https://xueqiu.com/S/SZ002459",
           "amarket": true
@@ -191,37 +191,37 @@
       {
         "name": "李欣",
         "resume": "    李欣先生,曾在台达电子工业股份有限公司任产品研发工程师,华泰联合证券有限责任公司任研究员。2012年5月加入华安基金管理有限公司,历任投资研究部研究员,基金投资部基金经理助理。2015年7月起任华安智能装备主题股票型证券投资基金基金经理。2017年7月至2019年11月任华安文体健康主题灵活配置混合型证券投资基金基金经理。2018年6月起任华安中小盘成长股票型证券投资基金基金经理。2019年3月起任华安低碳生活混合型证券投资基金基金经理。2019年6月起任华安科创主题3年封闭运作灵活配置混合型证券投资基金基金经理。2019年11月起任华安科技动力混合型证券投资基金基金经理。",
-        "work_year": "10",
+        "work_year": "11",
         "achievement_list": [
           {
             "fund_code": "008635",
             "fundsname": "华安科技创新混合",
             "post_date": "2020-03-06",
-            "cp_rate": 18.91
+            "cp_rate": 27.35
           },
           {
             "fund_code": "040025",
             "fundsname": "华安科技动力混合",
             "post_date": "2019-11-08",
-            "cp_rate": 46.4142
+            "cp_rate": 54.7344
           },
           {
             "fund_code": "501073",
             "fundsname": "华安科创主题混合",
             "post_date": "2019-06-11",
-            "cp_rate": 11.9
+            "cp_rate": 13.92
           },
           {
             "fund_code": "006122",
             "fundsname": "华安低碳生活混合",
             "post_date": "2019-03-12",
-            "cp_rate": 114.31
+            "cp_rate": 131.89
           },
           {
             "fund_code": "040007",
             "fundsname": "华安中小盘成长混合",
             "post_date": "2018-06-11",
-            "cp_rate": 74.6941
+            "cp_rate": 88.4937
           },
           {
             "fund_code": "001532",
@@ -234,7 +234,7 @@
             "fund_code": "001072",
             "fundsname": "华安智能装备主题股票",
             "post_date": "2015-07-09",
-            "cp_rate": 175.8436
+            "cp_rate": 192.2771
           }
         ]
       }
@@ -245,8 +245,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

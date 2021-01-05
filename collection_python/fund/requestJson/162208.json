@@ -16,8 +16,8 @@
           "name": "五粮液",
           "code": "000858",
           "percent": 5.4,
-          "current_price": 272,
-          "change_percentage": 0.65,
+          "current_price": 298.05,
+          "change_percentage": 2.12,
           "xq_symbol": "SZ000858",
           "xq_url": "https://xueqiu.com/S/SZ000858",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "长春高新",
           "code": "000661",
           "percent": 4.87,
-          "current_price": 388,
-          "change_percentage": 0.19,
+          "current_price": 473.45,
+          "change_percentage": 5.47,
           "xq_symbol": "SZ000661",
           "xq_url": "https://xueqiu.com/S/SZ000661",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "隆平高科",
           "code": "000998",
           "percent": 3.96,
-          "current_price": 17.78,
-          "change_percentage": -1.93,
+          "current_price": 20.7,
+          "change_percentage": 4.49,
           "xq_symbol": "SZ000998",
           "xq_url": "https://xueqiu.com/S/SZ000998",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "东方雨虹",
           "code": "002271",
           "percent": 3.87,
-          "current_price": 35.92,
-          "change_percentage": 0.25,
+          "current_price": 39.48,
+          "change_percentage": 1.75,
           "xq_symbol": "SZ002271",
           "xq_url": "https://xueqiu.com/S/SZ002271",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "亿纬锂能",
           "code": "300014",
           "percent": 3.71,
-          "current_price": 63.71,
-          "change_percentage": 4.17,
+          "current_price": 93.49,
+          "change_percentage": 14.71,
           "xq_symbol": "SZ300014",
           "xq_url": "https://xueqiu.com/S/SZ300014",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 3.34,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "金山办公",
           "code": "688111",
           "percent": 3.09,
-          "current_price": 349.5,
-          "change_percentage": -2.75,
+          "current_price": 420,
+          "change_percentage": 2.19,
           "xq_symbol": "SH688111",
           "xq_url": "https://xueqiu.com/S/SH688111",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "克来机电",
           "code": "603960",
           "percent": 3.05,
-          "current_price": 40.1,
-          "change_percentage": -0.25,
+          "current_price": 49.9,
+          "change_percentage": 6.28,
           "xq_symbol": "SH603960",
           "xq_url": "https://xueqiu.com/S/SH603960",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "东方财富",
           "code": "300059",
           "percent": 2.99,
-          "current_price": 28.05,
-          "change_percentage": 1.08,
+          "current_price": 32.2,
+          "change_percentage": 3.87,
           "xq_symbol": "SZ300059",
           "xq_url": "https://xueqiu.com/S/SZ300059",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "通威股份",
           "code": "600438",
           "percent": 2.88,
-          "current_price": 29.2,
-          "change_percentage": -1.85,
+          "current_price": 41.65,
+          "change_percentage": 8.35,
           "xq_symbol": "SH600438",
           "xq_url": "https://xueqiu.com/S/SH600438",
           "amarket": true
@@ -184,7 +184,7 @@
         "name": "张勋",
         "resume": "    张勋先生:张勋先生,管理学硕士,研究部总监兼基金经理;2006年7月至2009年6月就职于天相投资顾问有限公司,担任研究组长;2009年7月至2010年4月就职于东兴证券股份有限责任公司,担任研究组长;2010年4月加入泰达宏利基金管理有限公司,曾担任研究员、高级研究员、研究部副总监,现任研究部总监兼基金经理。2014年11月21日至今担任泰达宏利首选企业股票型证券投资基金基金经理;2016年09月13日至今担任泰达宏利定宏混合型证券投资基金基金经理;2019年7月22日起至今担任泰达宏利行业精选混合型证券投资基金基金经理;2019年7月22日起至今担任泰达宏利蓝筹价值混合型证券投资基金基金经理;2020年4月13日起至今担任泰达宏利价值优化型周期类行业混合型证券投资基金基金经理;具备14年证券从业经验,14年证券投资管理经验,具有基金从业资格。",
         "college": "外经济贸易大学",
-        "work_year": "14",
+        "work_year": "15",
         "achievement_list": [
           {
             "fund_code": "162203",
@@ -197,19 +197,19 @@
             "fund_code": "162202",
             "fundsname": "泰达宏利周期混合",
             "post_date": "2020-04-13",
-            "cp_rate": 57.0534
+            "cp_rate": 81.0536
           },
           {
             "fund_code": "001267",
             "fundsname": "泰达宏利蓝筹混合",
             "post_date": "2019-07-22",
-            "cp_rate": 68.1009
+            "cp_rate": 81.8991
           },
           {
             "fund_code": "162204",
             "fundsname": "泰达宏利行业混合",
             "post_date": "2019-07-22",
-            "cp_rate": 104.7113
+            "cp_rate": 127.174
           },
           {
             "fund_code": "003104",
@@ -243,7 +243,7 @@
             "fund_code": "162208",
             "fundsname": "泰达宏利首选企业股票",
             "post_date": "2014-11-21",
-            "cp_rate": 145.9376
+            "cp_rate": 175.05
           }
         ]
       }

@@ -16,8 +16,8 @@
           "name": "海尔智家",
           "code": "600690",
           "percent": 6.35,
-          "current_price": 26.97,
-          "change_percentage": -0.19,
+          "current_price": 30.01,
+          "change_percentage": 2.74,
           "xq_symbol": "SH600690",
           "xq_url": "https://xueqiu.com/S/SH600690",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "长春高新",
           "code": "000661",
           "percent": 6.09,
-          "current_price": 388,
-          "change_percentage": 0.19,
+          "current_price": 473.45,
+          "change_percentage": 5.47,
           "xq_symbol": "SZ000661",
           "xq_url": "https://xueqiu.com/S/SZ000661",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "宋城演艺",
           "code": "300144",
           "percent": 6.03,
-          "current_price": 18.3,
-          "change_percentage": -1.19,
+          "current_price": 17.58,
+          "change_percentage": -0.79,
           "xq_symbol": "SZ300144",
           "xq_url": "https://xueqiu.com/S/SZ300144",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "中南建设",
           "code": "000961",
           "percent": 5.97,
-          "current_price": 9.52,
-          "change_percentage": -0.94,
+          "current_price": 8.21,
+          "change_percentage": -7.02,
           "xq_symbol": "SZ000961",
           "xq_url": "https://xueqiu.com/S/SZ000961",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "蓝思科技",
           "code": "300433",
           "percent": 5.42,
-          "current_price": 33.15,
-          "change_percentage": -0.93,
+          "current_price": 30.9,
+          "change_percentage": 0.95,
           "xq_symbol": "SZ300433",
           "xq_url": "https://xueqiu.com/S/SZ300433",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "联化科技",
           "code": "002250",
           "percent": 4.7,
-          "current_price": 24.42,
-          "change_percentage": -0.45,
+          "current_price": 23.7,
+          "change_percentage": -1.21,
           "xq_symbol": "SZ002250",
           "xq_url": "https://xueqiu.com/S/SZ002250",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "玉禾田",
           "code": "300815",
           "percent": 4.6,
-          "current_price": 90.8,
-          "change_percentage": -2.51,
+          "current_price": 90.81,
+          "change_percentage": -2.25,
           "xq_symbol": "SZ300815",
           "xq_url": "https://xueqiu.com/S/SZ300815",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "福斯特",
           "code": "603806",
           "percent": 4.55,
-          "current_price": 73.08,
-          "change_percentage": 2.21,
+          "current_price": 90.74,
+          "change_percentage": 6.25,
           "xq_symbol": "SH603806",
           "xq_url": "https://xueqiu.com/S/SH603806",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "紫金矿业",
           "code": "601899",
           "percent": 4.35,
-          "current_price": 8.91,
-          "change_percentage": 1.14,
+          "current_price": 10.04,
+          "change_percentage": 8.07,
           "xq_symbol": "SH601899",
           "xq_url": "https://xueqiu.com/S/SH601899",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "博汇纸业",
           "code": "600966",
           "percent": 4.09,
-          "current_price": 13.91,
-          "change_percentage": 0.36,
+          "current_price": 14.93,
+          "change_percentage": -0.67,
           "xq_symbol": "SH600966",
           "xq_url": "https://xueqiu.com/S/SH600966",
           "amarket": true
@@ -187,37 +187,37 @@
       {
         "name": "谢书英",
         "resume": "    谢书英女士,国籍中国,经济学硕士,12年证券基金从业经验。曾任职于高盛高华证券有限公司投资银行部;2009年4月加盟鹏华基金管理有限公司,历任研究部高级研究员、投资经理助理,现担任权益投资一部副总经理、基金经理。2014年04月至2017年03月担任鹏华金刚保本混合基金基金经理,2015年06月担任鹏华价值优势混合(LOF)基金基金经理,2016年01月至2019年05月担任鹏华文化传媒娱乐股票基金基金经理,2016年09月至2018年09月担任鹏华增瑞混合基金基金经理,2017年07月担任鹏华精选成长混合基金基金经理,2018年09月担任鹏华增瑞混合(LOF)基金基金经理,2019年04月担任鹏华核心优势混合基金基金经理。谢书英女士具备基金从业资格。",
-        "work_year": "12",
+        "work_year": "13",
         "achievement_list": [
           {
             "fund_code": "010490",
             "fundsname": "鹏华高质量增长混合A",
             "post_date": "2020-11-18",
-            "cp_rate": 0.05
+            "cp_rate": 0.46
           },
           {
             "fund_code": "010491",
             "fundsname": "鹏华高质量增长混合C",
             "post_date": "2020-11-18",
-            "cp_rate": 0.02
+            "cp_rate": 0.36
           },
           {
             "fund_code": "006976",
             "fundsname": "鹏华核心优势混合",
             "post_date": "2019-04-03",
-            "cp_rate": 93.43
+            "cp_rate": 98.39
           },
           {
             "fund_code": "160642",
             "fundsname": "鹏华增瑞灵活配置混合(LOF)",
             "post_date": "2018-09-21",
-            "cp_rate": 89.0303
+            "cp_rate": 94.2223
           },
           {
             "fund_code": "206002",
             "fundsname": "鹏华精选成长混合",
             "post_date": "2017-07-29",
-            "cp_rate": 121.0957
+            "cp_rate": 126.4922
           },
           {
             "fund_code": "160642",
@@ -237,7 +237,7 @@
             "fund_code": "160607",
             "fundsname": "鹏华价值优势混合(LOF)",
             "post_date": "2015-06-10",
-            "cp_rate": 59.5842
+            "cp_rate": 62.0761
           },
           {
             "fund_code": "206013",

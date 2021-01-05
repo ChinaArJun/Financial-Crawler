@@ -16,8 +16,8 @@
           "name": "东方雨虹",
           "code": "002271",
           "percent": 7.58,
-          "current_price": 35.92,
-          "change_percentage": 0.25,
+          "current_price": 39.48,
+          "change_percentage": 1.75,
           "xq_symbol": "SZ002271",
           "xq_url": "https://xueqiu.com/S/SZ002271",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "健帆生物",
           "code": "300529",
           "percent": 6.87,
-          "current_price": 68.76,
-          "change_percentage": -0.28,
+          "current_price": 72.45,
+          "change_percentage": 6.83,
           "xq_symbol": "SZ300529",
           "xq_url": "https://xueqiu.com/S/SZ300529",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 5.16,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "浙江鼎力",
           "code": "603338",
           "percent": 4.17,
-          "current_price": 103.96,
-          "change_percentage": -2.04,
+          "current_price": 103.13,
+          "change_percentage": 1.92,
           "xq_symbol": "SH603338",
           "xq_url": "https://xueqiu.com/S/SH603338",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "石头科技",
           "code": "688169",
           "percent": 3.53,
-          "current_price": 921.36,
-          "change_percentage": 1.98,
+          "current_price": 978.04,
+          "change_percentage": -5.59,
           "xq_symbol": "SH688169",
           "xq_url": "https://xueqiu.com/S/SH688169",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "泰格医药",
           "code": "300347",
           "percent": 3.42,
-          "current_price": 135.45,
-          "change_percentage": 1.84,
+          "current_price": 166.82,
+          "change_percentage": 3.22,
           "xq_symbol": "SZ300347",
           "xq_url": "https://xueqiu.com/S/SZ300347",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "帝尔激光",
           "code": "300776",
           "percent": 3.3,
-          "current_price": 125.08,
-          "change_percentage": -0.54,
+          "current_price": 158.54,
+          "change_percentage": 5.55,
           "xq_symbol": "SZ300776",
           "xq_url": "https://xueqiu.com/S/SZ300776",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "玉禾田",
           "code": "300815",
           "percent": 3.22,
-          "current_price": 90.8,
-          "change_percentage": -2.51,
+          "current_price": 90.81,
+          "change_percentage": -2.25,
           "xq_symbol": "SZ300815",
           "xq_url": "https://xueqiu.com/S/SZ300815",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "中国巨石",
           "code": "600176",
           "percent": 2.94,
-          "current_price": 16.68,
-          "change_percentage": 0,
+          "current_price": 20.39,
+          "change_percentage": 2.15,
           "xq_symbol": "SH600176",
           "xq_url": "https://xueqiu.com/S/SH600176",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "赣锋锂业",
           "code": "002460",
           "percent": 2.86,
-          "current_price": 82.24,
-          "change_percentage": 3.06,
+          "current_price": 111.32,
+          "change_percentage": 10,
           "xq_symbol": "SZ002460",
           "xq_url": "https://xueqiu.com/S/SZ002460",
           "amarket": true
@@ -191,37 +191,37 @@
       {
         "name": "郭锐",
         "resume": "    郭锐,男,硕士。2007年7月起先后任职于易方达基金管理有限公司及华夏基金管理有限公司,任行业研究员,从事钢铁、有色金属、建筑建材等行业的研究工作。2011年加入招商基金管理有限公司,曾任首席行业研究员、助理基金经理,现任招商核心价值混合型证券投资基金基金经理(管理时间:2015年2月10日至今)、招商大盘蓝筹混合型证券投资基金基金经理(管理时间:2015年4月1日至今)、招商境远保本混合型证券投资基金基金经理(管理时间:2016年3月2日至今)及招商瑞庆灵活配置混合型证券投资基金基金经理(管理时间:2016年8月24日)。及招商境远灵活配置混合型证券投资基金基金经理(管理时间:2017年12月16日至今)。",
-        "work_year": "13",
+        "work_year": "14",
         "achievement_list": [
           {
             "fund_code": "009363",
             "fundsname": "招商丰盈积极配置混合C",
             "post_date": "2020-07-29",
-            "cp_rate": 3.42
+            "cp_rate": 7.84
           },
           {
             "fund_code": "009362",
             "fundsname": "招商丰盈积极配置混合A",
             "post_date": "2020-07-29",
-            "cp_rate": 3.72
+            "cp_rate": 8.21
           },
           {
             "fund_code": "009696",
             "fundsname": "招商成长精选一年定期开放混合C",
             "post_date": "2020-06-19",
-            "cp_rate": 11.61
+            "cp_rate": 18.37
           },
           {
             "fund_code": "009695",
             "fundsname": "招商成长精选一年定期开放混合A",
             "post_date": "2020-06-19",
-            "cp_rate": 12.02
+            "cp_rate": 18.88
           },
           {
             "fund_code": "002249",
             "fundsname": "招商境远灵活配置混合",
             "post_date": "2017-12-16",
-            "cp_rate": 120.8805
+            "cp_rate": 136.1212
           },
           {
             "fund_code": "002574",
@@ -248,13 +248,13 @@
             "fund_code": "217010",
             "fundsname": "招商大盘蓝筹混合",
             "post_date": "2015-04-01",
-            "cp_rate": 84.4127
+            "cp_rate": 97.9561
           },
           {
             "fund_code": "217009",
             "fundsname": "招商核心价值混合",
             "post_date": "2015-02-10",
-            "cp_rate": 128.9029
+            "cp_rate": 144.9787
           },
           {
             "fund_code": "217021",

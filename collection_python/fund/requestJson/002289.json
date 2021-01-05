@@ -16,8 +16,8 @@
           "name": "中信证券",
           "code": "600030",
           "percent": 7.12,
-          "current_price": 30.01,
-          "change_percentage": 0,
+          "current_price": 29.18,
+          "change_percentage": -0.75,
           "xq_symbol": "SH600030",
           "xq_url": "https://xueqiu.com/S/SH600030",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 7.11,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "京东方A",
           "code": "000725",
           "percent": 5.82,
-          "current_price": 5.25,
-          "change_percentage": -0.57,
+          "current_price": 5.92,
+          "change_percentage": -1.33,
           "xq_symbol": "SZ000725",
           "xq_url": "https://xueqiu.com/S/SZ000725",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "东方财富",
           "code": "300059",
           "percent": 5.69,
-          "current_price": 28.05,
-          "change_percentage": 1.08,
+          "current_price": 32.2,
+          "change_percentage": 3.87,
           "xq_symbol": "SZ300059",
           "xq_url": "https://xueqiu.com/S/SZ300059",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "海通证券",
           "code": "600837",
           "percent": 5.03,
-          "current_price": 13.24,
-          "change_percentage": -0.68,
+          "current_price": 12.96,
+          "change_percentage": 0.78,
           "xq_symbol": "SH600837",
           "xq_url": "https://xueqiu.com/S/SH600837",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "华泰证券",
           "code": "601688",
           "percent": 4.87,
-          "current_price": 19.14,
-          "change_percentage": -0.31,
+          "current_price": 18.04,
+          "change_percentage": 0.17,
           "xq_symbol": "SH601688",
           "xq_url": "https://xueqiu.com/S/SH601688",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "兴业证券",
           "code": "601377",
           "percent": 3.93,
-          "current_price": 8.73,
-          "change_percentage": 0.11,
+          "current_price": 8.75,
+          "change_percentage": 0.81,
           "xq_symbol": "SH601377",
           "xq_url": "https://xueqiu.com/S/SH601377",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "招商证券",
           "code": "600999",
           "percent": 3.84,
-          "current_price": 23.1,
-          "change_percentage": 0.79,
+          "current_price": 23.63,
+          "change_percentage": 1.24,
           "xq_symbol": "SH600999",
           "xq_url": "https://xueqiu.com/S/SH600999",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "歌尔股份",
           "code": "002241",
           "percent": 3.83,
-          "current_price": 37.16,
-          "change_percentage": -2.24,
+          "current_price": 36.74,
+          "change_percentage": -1.55,
           "xq_symbol": "SZ002241",
           "xq_url": "https://xueqiu.com/S/SZ002241",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "国金证券",
           "code": "600109",
           "percent": 3.62,
-          "current_price": 17.76,
-          "change_percentage": 1.08,
+          "current_price": 16.23,
+          "change_percentage": -0.25,
           "xq_symbol": "SH600109",
           "xq_url": "https://xueqiu.com/S/SH600109",
           "amarket": true
@@ -186,37 +186,43 @@
     "manager_list": [
       {
         "name": "李双全",
-        "resume": "    李双全,男,中国籍,经济学硕士,具有基金从业资格。2007年8月至2010年4月就职于SK能源公司从事财务工作;2010年4月加入华商基金管理有限公司,曾任行业研究员;2014年8月1日至2015年4月7日担任华商领先企业混合型开放式证券投资基金基金经理助理;2015年4月8日起至今担任华商领先企业混合型开放式证券投资基金基金经理;2015年7月8日起至今担任华商双驱优选灵活配置混合型证券投资基金基金经理;2018年3月2日起至今担任华商改革创新股票型证券投资基金基金经理;2019年8月23日起至今担任华商未来主题混合型证券投资基金基金经理;2020年5月22日起至今担任华商龙头优势混合型证券投资基金基金经理;现任投资管理部副总经理、公司公募业务权益投资决策委员会委员。",
+        "resume": "    李双全:男,中国籍,经济学硕士,具有基金从业资格。2007年8月至2010年4月就职于SK能源公司从事财务工作;2010年4月加入华商基金管理有限公司,曾任行业研究员;2014年8月1日至2015年4月7日担任华商领先企业混合型开放式证券投资基金基金经理助理;2015年4月8日起至今担任华商领先企业混合型开放式证券投资基金基金经理;2015年7月8日起至今担任华商双驱优选灵活配置混合型证券投资基金基金经理;2018年3月2日起至今担任华商改革创新股票型证券投资基金基金经理;2019年8月23日起至今担任华商未来主题混合型证券投资基金基金经理;2020年5月22日起至今担任华商龙头优势混合型证券投资基金基金经理;2020年12月16日起至今担任华商景气优选混合型证券投资基金基金经理;现任投资管理部副总经理、公司公募业务权益投资决策委员会委员。",
         "achievement_list": [
+          {
+            "fund_code": "010403",
+            "fundsname": "华商景气优选混合",
+            "post_date": "2020-12-16",
+            "cp_rate": 6.63
+          },
           {
             "fund_code": "008555",
             "fundsname": "华商龙头优势混合",
             "post_date": "2020-05-22",
-            "cp_rate": 12.58
+            "cp_rate": 11.11
           },
           {
             "fund_code": "000800",
             "fundsname": "华商未来主题混合",
             "post_date": "2019-08-23",
-            "cp_rate": 35.5623
+            "cp_rate": 34.9544
           },
           {
             "fund_code": "002289",
             "fundsname": "华商改革创新股票",
             "post_date": "2018-03-02",
-            "cp_rate": 81.93
+            "cp_rate": 95.29
           },
           {
             "fund_code": "001449",
             "fundsname": "华商双驱优选灵活配置混合",
             "post_date": "2015-07-08",
-            "cp_rate": 82.6447
+            "cp_rate": 89.1417
           },
           {
             "fund_code": "630001",
             "fundsname": "华商领先企业混合",
             "post_date": "2015-04-08",
-            "cp_rate": -15.1594
+            "cp_rate": -14.3339
           }
         ]
       }

@@ -15,8 +15,8 @@
           "name": "美的集团",
           "code": "000333",
           "percent": 8.28,
-          "current_price": 86.7,
-          "change_percentage": -1.54,
+          "current_price": 99.01,
+          "change_percentage": 0.58,
           "xq_symbol": "SZ000333",
           "xq_url": "https://xueqiu.com/S/SZ000333",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "顾家家居",
           "code": "603816",
           "percent": 8.17,
-          "current_price": 75.45,
-          "change_percentage": -2.29,
+          "current_price": 70.74,
+          "change_percentage": 0.33,
           "xq_symbol": "SH603816",
           "xq_url": "https://xueqiu.com/S/SH603816",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "海尔智家",
           "code": "600690",
           "percent": 8.09,
-          "current_price": 26.97,
-          "change_percentage": -0.19,
+          "current_price": 30.01,
+          "change_percentage": 2.74,
           "xq_symbol": "SH600690",
           "xq_url": "https://xueqiu.com/S/SH600690",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "格力电器",
           "code": "000651",
           "percent": 8.04,
-          "current_price": 65.66,
-          "change_percentage": -3.44,
+          "current_price": 62.9,
+          "change_percentage": 1.55,
           "xq_symbol": "SZ000651",
           "xq_url": "https://xueqiu.com/S/SZ000651",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "志邦家居",
           "code": "603801",
           "percent": 7.98,
-          "current_price": 37.03,
-          "change_percentage": -1.12,
+          "current_price": 32.33,
+          "change_percentage": -6.32,
           "xq_symbol": "SH603801",
           "xq_url": "https://xueqiu.com/S/SH603801",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "安车检测",
           "code": "300572",
           "percent": 7.03,
-          "current_price": 44.07,
-          "change_percentage": 0.07,
+          "current_price": 40.41,
+          "change_percentage": -1.15,
           "xq_symbol": "SZ300572",
           "xq_url": "https://xueqiu.com/S/SZ300572",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "永新股份",
           "code": "002014",
           "percent": 5.4,
-          "current_price": 10.54,
-          "change_percentage": 0.09,
+          "current_price": 9.87,
+          "change_percentage": 0.61,
           "xq_symbol": "SZ002014",
           "xq_url": "https://xueqiu.com/S/SZ002014",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "金牌厨柜",
           "code": "603180",
           "percent": 5.22,
-          "current_price": 55.69,
-          "change_percentage": -1.92,
+          "current_price": 48.18,
+          "change_percentage": -3.54,
           "xq_symbol": "SH603180",
           "xq_url": "https://xueqiu.com/S/SH603180",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "苏垦农发",
           "code": "601952",
           "percent": 5.16,
-          "current_price": 12.17,
-          "change_percentage": -2.48,
+          "current_price": 14.52,
+          "change_percentage": 3.27,
           "xq_symbol": "SH601952",
           "xq_url": "https://xueqiu.com/S/SH601952",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "大亚圣象",
           "code": "000910",
           "percent": 5.06,
-          "current_price": 17.36,
-          "change_percentage": -2.8,
+          "current_price": 14.18,
+          "change_percentage": 1.58,
           "xq_symbol": "SZ000910",
           "xq_url": "https://xueqiu.com/S/SZ000910",
           "amarket": true
@@ -177,25 +177,25 @@
       {
         "name": "田俊维",
         "resume": "    田俊维先生,理学及经济学双学士,10年证券从业经验。历任申银万国证券研究所传媒与互联网行业研究员、安信证券股份有限公司传媒与互联网行业研究员;2013年6月加盟天弘基金管理有限公司,历任TMT行业研究员、天弘互联网灵活配置混合型证券投资基金基金经理(2015年6月至2018年3月)、天弘价值精选灵活配置混合型发起式证券投资基金基金经理(2018年12月至2019年12月)。现任天弘文化新兴产业股票型证券投资基金基金经理、天弘永定价值成长混合型证券投资基金基金经理、天弘安康颐养混合型证券投资基金基金经理。",
-        "work_year": "10",
+        "work_year": "11",
         "achievement_list": [
           {
             "fund_code": "420009",
             "fundsname": "天弘安康颐养混合A",
             "post_date": "2020-06-12",
-            "cp_rate": 9.532
+            "cp_rate": 9.4178
           },
           {
             "fund_code": "009308",
             "fundsname": "天弘安康颐养混合C",
             "post_date": "2020-06-12",
-            "cp_rate": 9.3719
+            "cp_rate": 9.2722
           },
           {
             "fund_code": "420003",
             "fundsname": "天弘永定价值成长混合",
             "post_date": "2019-08-03",
-            "cp_rate": 60.4982
+            "cp_rate": 72.4909
           },
           {
             "fund_code": "002639",
@@ -208,7 +208,7 @@
             "fund_code": "164205",
             "fundsname": "天弘文化新兴产业股票",
             "post_date": "2017-08-09",
-            "cp_rate": 122.7184
+            "cp_rate": 123.5417
           },
           {
             "fund_code": "001210",
@@ -226,8 +226,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

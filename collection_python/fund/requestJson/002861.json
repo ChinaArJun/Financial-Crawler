@@ -15,8 +15,8 @@
           "name": "海康威视",
           "code": "002415",
           "percent": 7.29,
-          "current_price": 44.28,
-          "change_percentage": -1.16,
+          "current_price": 49.8,
+          "change_percentage": 2.66,
           "xq_symbol": "SZ002415",
           "xq_url": "https://xueqiu.com/S/SZ002415",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 6.67,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "璞泰来",
           "code": "603659",
           "percent": 5.57,
-          "current_price": 111.38,
-          "change_percentage": 5.71,
+          "current_price": 123.63,
+          "change_percentage": 10,
           "xq_symbol": "SH603659",
           "xq_url": "https://xueqiu.com/S/SH603659",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "弘亚数控",
           "code": "002833",
           "percent": 5.19,
-          "current_price": 43.08,
-          "change_percentage": 2.74,
+          "current_price": 42,
+          "change_percentage": -3.6,
           "xq_symbol": "SZ002833",
           "xq_url": "https://xueqiu.com/S/SZ002833",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "金山办公",
           "code": "688111",
           "percent": 4.9,
-          "current_price": 349.5,
-          "change_percentage": -2.75,
+          "current_price": 420,
+          "change_percentage": 2.19,
           "xq_symbol": "SH688111",
           "xq_url": "https://xueqiu.com/S/SH688111",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "鹏鼎控股",
           "code": "002938",
           "percent": 4.77,
-          "current_price": 54.51,
-          "change_percentage": -2.14,
+          "current_price": 47.88,
+          "change_percentage": -3.6,
           "xq_symbol": "SZ002938",
           "xq_url": "https://xueqiu.com/S/SZ002938",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "长春高新",
           "code": "000661",
           "percent": 4.24,
-          "current_price": 388,
-          "change_percentage": 0.19,
+          "current_price": 473.45,
+          "change_percentage": 5.47,
           "xq_symbol": "SZ000661",
           "xq_url": "https://xueqiu.com/S/SZ000661",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "克来机电",
           "code": "603960",
           "percent": 4.19,
-          "current_price": 40.1,
-          "change_percentage": -0.25,
+          "current_price": 49.9,
+          "change_percentage": 6.28,
           "xq_symbol": "SH603960",
           "xq_url": "https://xueqiu.com/S/SH603960",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "吉比特",
           "code": "603444",
           "percent": 4.15,
-          "current_price": 410.3,
-          "change_percentage": 2.32,
+          "current_price": 437.99,
+          "change_percentage": 2.81,
           "xq_symbol": "SH603444",
           "xq_url": "https://xueqiu.com/S/SH603444",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "三花智控",
           "code": "002050",
           "percent": 3.99,
-          "current_price": 24.3,
-          "change_percentage": 2.84,
+          "current_price": 27.12,
+          "change_percentage": 10.02,
           "xq_symbol": "SZ002050",
           "xq_url": "https://xueqiu.com/S/SZ002050",
           "amarket": true
@@ -182,7 +182,7 @@
             "fund_code": "001721",
             "fundsname": "工银新增益混合",
             "post_date": "2020-06-11",
-            "cp_rate": 12.058
+            "cp_rate": 16.5005
           },
           {
             "fund_code": "481010",
@@ -195,7 +195,7 @@
             "fund_code": "002861",
             "fundsname": "工银瑞信智能制造股票",
             "post_date": "2018-06-22",
-            "cp_rate": 102.7673
+            "cp_rate": 126.9182
           }
         ]
       }

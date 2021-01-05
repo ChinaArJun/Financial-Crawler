@@ -14,8 +14,8 @@
           "name": "片仔癀",
           "code": "600436",
           "percent": 9.22,
-          "current_price": 227.97,
-          "change_percentage": 0.29,
+          "current_price": 279.98,
+          "change_percentage": 4.66,
           "xq_symbol": "SH600436",
           "xq_url": "https://xueqiu.com/S/SH600436",
           "amarket": true
@@ -24,8 +24,8 @@
           "name": "美的集团",
           "code": "000333",
           "percent": 8.83,
-          "current_price": 86.7,
-          "change_percentage": -1.54,
+          "current_price": 99.01,
+          "change_percentage": 0.58,
           "xq_symbol": "SZ000333",
           "xq_url": "https://xueqiu.com/S/SZ000333",
           "amarket": true
@@ -34,8 +34,8 @@
           "name": "招商银行",
           "code": "600036",
           "percent": 7.49,
-          "current_price": 44.26,
-          "change_percentage": -0.36,
+          "current_price": 43.17,
+          "change_percentage": -1.77,
           "xq_symbol": "SH600036",
           "xq_url": "https://xueqiu.com/S/SH600036",
           "amarket": true
@@ -44,8 +44,8 @@
           "name": "中国人寿",
           "code": "601628",
           "percent": 5.55,
-          "current_price": 41.81,
-          "change_percentage": -0.21,
+          "current_price": 37.83,
+          "change_percentage": -1.46,
           "xq_symbol": "SH601628",
           "xq_url": "https://xueqiu.com/S/SH601628",
           "amarket": true
@@ -54,8 +54,8 @@
           "name": "中信证券",
           "code": "600030",
           "percent": 5.31,
-          "current_price": 30.01,
-          "change_percentage": 0,
+          "current_price": 29.18,
+          "change_percentage": -0.75,
           "xq_symbol": "SH600030",
           "xq_url": "https://xueqiu.com/S/SH600030",
           "amarket": true
@@ -64,8 +64,8 @@
           "name": "宁波银行",
           "code": "002142",
           "percent": 4.93,
-          "current_price": 35.74,
-          "change_percentage": 0.65,
+          "current_price": 34.94,
+          "change_percentage": -1.13,
           "xq_symbol": "SZ002142",
           "xq_url": "https://xueqiu.com/S/SZ002142",
           "amarket": true
@@ -74,8 +74,8 @@
           "name": "三钢闽光",
           "code": "002110",
           "percent": 4.57,
-          "current_price": 6.93,
-          "change_percentage": -0.43,
+          "current_price": 6.67,
+          "change_percentage": -0.89,
           "xq_symbol": "SZ002110",
           "xq_url": "https://xueqiu.com/S/SZ002110",
           "amarket": true
@@ -84,8 +84,8 @@
           "name": "兴业银行",
           "code": "601166",
           "percent": 4.11,
-          "current_price": 20.26,
-          "change_percentage": -1.17,
+          "current_price": 19.65,
+          "change_percentage": -5.85,
           "xq_symbol": "SH601166",
           "xq_url": "https://xueqiu.com/S/SH601166",
           "amarket": true
@@ -94,8 +94,8 @@
           "name": "晨光文具",
           "code": "603899",
           "percent": 3.77,
-          "current_price": 79.4,
-          "change_percentage": -1.79,
+          "current_price": 91.5,
+          "change_percentage": 3.32,
           "xq_symbol": "SH603899",
           "xq_url": "https://xueqiu.com/S/SH603899",
           "amarket": true
@@ -104,8 +104,8 @@
           "name": "南京银行",
           "code": "601009",
           "percent": 3.67,
-          "current_price": 8.2,
-          "change_percentage": -1.2,
+          "current_price": 8.02,
+          "change_percentage": -0.74,
           "xq_symbol": "SH601009",
           "xq_url": "https://xueqiu.com/S/SH601009",
           "amarket": true
@@ -174,85 +174,85 @@
             "fund_code": "004404",
             "fundsname": "平安股息精选沪港深C",
             "post_date": "2020-06-24",
-            "cp_rate": 31.5013
+            "cp_rate": 37.1622
           },
           {
             "fund_code": "004403",
             "fundsname": "平安股息精选沪港深A",
             "post_date": "2020-06-24",
-            "cp_rate": 31.9762
+            "cp_rate": 37.7278
           },
           {
             "fund_code": "159988",
             "fundsname": "平安中债-0-5年广东地方政府债ETF",
             "post_date": "2020-04-29",
-            "cp_rate": -0.17
+            "cp_rate": 0.27
           },
           {
             "fund_code": "009013",
             "fundsname": "平安创业板ETF联接C",
             "post_date": "2020-03-25",
-            "cp_rate": 37.14
+            "cp_rate": 48.6
           },
           {
             "fund_code": "009012",
             "fundsname": "平安创业板ETF联接A",
             "post_date": "2020-03-25",
-            "cp_rate": 37.52
+            "cp_rate": 49.06
           },
           {
             "fund_code": "512970",
             "fundsname": "粤港澳大湾区ETF",
             "post_date": "2019-09-23",
-            "cp_rate": 52.3469
+            "cp_rate": 57.2195
           },
           {
             "fund_code": "511030",
             "fundsname": "平安中债-中高等级公司债利差因子ETF",
             "post_date": "2019-07-30",
-            "cp_rate": 3.8386
+            "cp_rate": 4.4751
           },
           {
             "fund_code": "511020",
             "fundsname": "平安中证5-10年期国债活跃券ETF",
             "post_date": "2019-07-30",
-            "cp_rate": 3.0306
+            "cp_rate": 3.9388
           },
           {
             "fund_code": "159964",
             "fundsname": "平安创业板ETF",
             "post_date": "2019-03-15",
-            "cp_rate": 64.54
+            "cp_rate": 79.14
           },
           {
             "fund_code": "006215",
             "fundsname": "平安中证500ETF联接C",
             "post_date": "2018-09-05",
-            "cp_rate": 39.13
+            "cp_rate": 38.54
           },
           {
             "fund_code": "006214",
             "fundsname": "平安中证500ETF联接A",
             "post_date": "2018-09-05",
-            "cp_rate": 39.45
+            "cp_rate": 38.87
           },
           {
             "fund_code": "005868",
             "fundsname": "平安MSCI中国A股国际ETF联接A",
             "post_date": "2018-06-21",
-            "cp_rate": 60.71
+            "cp_rate": 68.21
           },
           {
             "fund_code": "005869",
             "fundsname": "平安MSCI中国A股国际ETF联接C",
             "post_date": "2018-06-21",
-            "cp_rate": 60.15
+            "cp_rate": 67.62
           },
           {
             "fund_code": "512360",
             "fundsname": "平安MSCI中国A股国际交易ETF",
             "post_date": "2018-06-15",
-            "cp_rate": 60.7604
+            "cp_rate": 68.8744
           },
           {
             "fund_code": "512390",
@@ -265,25 +265,25 @@
             "fund_code": "005640",
             "fundsname": "平安300ETF联接C",
             "post_date": "2018-04-04",
-            "cp_rate": 35.96
+            "cp_rate": 40.83
           },
           {
             "fund_code": "005639",
             "fundsname": "平安300ETF联接A",
             "post_date": "2018-04-04",
-            "cp_rate": 37.44
+            "cp_rate": 42.4
           },
           {
             "fund_code": "510590",
             "fundsname": "平安中证500ETF",
             "post_date": "2018-03-23",
-            "cp_rate": 14.5
+            "cp_rate": 14.02
           },
           {
             "fund_code": "510390",
             "fundsname": "平安沪深300ETF",
             "post_date": "2017-12-25",
-            "cp_rate": 29.65
+            "cp_rate": 34.77
           }
         ]
       },
@@ -296,49 +296,49 @@
             "fund_code": "006458",
             "fundsname": "平安估值优势混合C",
             "post_date": "2020-08-17",
-            "cp_rate": 1.8249
+            "cp_rate": 3.5099
           },
           {
             "fund_code": "006457",
             "fundsname": "平安估值优势混合A",
             "post_date": "2020-08-17",
-            "cp_rate": 1.9195
+            "cp_rate": 3.627
           },
           {
             "fund_code": "005487",
             "fundsname": "平安量化精选混合C",
             "post_date": "2020-07-15",
-            "cp_rate": -2.2082
+            "cp_rate": 6.8247
           },
           {
             "fund_code": "005486",
             "fundsname": "平安量化精选混合A",
             "post_date": "2020-07-15",
-            "cp_rate": -1.8995
+            "cp_rate": 7.2138
           },
           {
             "fund_code": "004404",
             "fundsname": "平安股息精选沪港深C",
             "post_date": "2020-06-24",
-            "cp_rate": 31.5013
+            "cp_rate": 37.1622
           },
           {
             "fund_code": "004403",
             "fundsname": "平安股息精选沪港深A",
             "post_date": "2020-06-24",
-            "cp_rate": 31.9762
+            "cp_rate": 37.7278
           },
           {
             "fund_code": "009337",
             "fundsname": "平安中证500指数增强C",
             "post_date": "2020-06-01",
-            "cp_rate": 19.6839
+            "cp_rate": 22.0944
           },
           {
             "fund_code": "009336",
             "fundsname": "平安中证500指数增强A",
             "post_date": "2020-06-01",
-            "cp_rate": 19.992
+            "cp_rate": 22.4422
           },
           {
             "fund_code": "005085",
@@ -358,31 +358,31 @@
             "fund_code": "007663",
             "fundsname": "平安安享灵活配置混合C",
             "post_date": "2020-05-09",
-            "cp_rate": 11.7157
+            "cp_rate": 13.6288
           },
           {
             "fund_code": "002282",
             "fundsname": "平安安享灵活配置混合A",
             "post_date": "2020-05-09",
-            "cp_rate": 11.7761
+            "cp_rate": 13.6978
           },
           {
             "fund_code": "005114",
             "fundsname": "平安沪深300指数量化增强C",
             "post_date": "2020-05-09",
-            "cp_rate": 34.726
+            "cp_rate": 41.5189
           },
           {
             "fund_code": "005113",
             "fundsname": "平安沪深300指数量化增强A",
             "post_date": "2020-05-09",
-            "cp_rate": 35.101
+            "cp_rate": 41.9616
           },
           {
             "fund_code": "700002",
             "fundsname": "平安深证300指数增强",
             "post_date": "2020-05-09",
-            "cp_rate": 35.1903
+            "cp_rate": 42.781
           }
         ]
       }

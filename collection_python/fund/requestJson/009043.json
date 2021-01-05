@@ -15,8 +15,8 @@
           "name": "安靠智电",
           "code": "300617",
           "percent": 0.61,
-          "current_price": 46.55,
-          "change_percentage": -0.17,
+          "current_price": 56.3,
+          "change_percentage": 13.21,
           "xq_symbol": "SZ300617",
           "xq_url": "https://xueqiu.com/S/SZ300617",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "振德医疗",
           "code": "603301",
           "percent": 0.6,
-          "current_price": 58.2,
-          "change_percentage": -0.95,
+          "current_price": 63.9,
+          "change_percentage": 2.19,
           "xq_symbol": "SH603301",
           "xq_url": "https://xueqiu.com/S/SH603301",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "英科医疗",
           "code": "300677",
           "percent": 0.6,
-          "current_price": 141,
-          "change_percentage": 1.49,
+          "current_price": 162.26,
+          "change_percentage": -3.5,
           "xq_symbol": "SZ300677",
           "xq_url": "https://xueqiu.com/S/SZ300677",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "理邦仪器",
           "code": "300206",
           "percent": 0.6,
-          "current_price": 17.06,
-          "change_percentage": -0.81,
+          "current_price": 17.9,
+          "change_percentage": -1.92,
           "xq_symbol": "SZ300206",
           "xq_url": "https://xueqiu.com/S/SZ300206",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "博汇纸业",
           "code": "600966",
           "percent": 0.6,
-          "current_price": 13.91,
-          "change_percentage": 0.36,
+          "current_price": 14.93,
+          "change_percentage": -0.67,
           "xq_symbol": "SH600966",
           "xq_url": "https://xueqiu.com/S/SH600966",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "中国重汽",
           "code": "000951",
           "percent": 0.6,
-          "current_price": 34.31,
-          "change_percentage": 0.7,
+          "current_price": 31.88,
+          "change_percentage": 1.34,
           "xq_symbol": "SZ000951",
           "xq_url": "https://xueqiu.com/S/SZ000951",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "司太立",
           "code": "603520",
           "percent": 0.59,
-          "current_price": 71.37,
-          "change_percentage": 1.45,
+          "current_price": 65.76,
+          "change_percentage": -0.11,
           "xq_symbol": "SH603520",
           "xq_url": "https://xueqiu.com/S/SH603520",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "棒杰股份",
           "code": "002634",
           "percent": 0.59,
-          "current_price": 7.72,
-          "change_percentage": -1.28,
+          "current_price": 6.44,
+          "change_percentage": -0.31,
           "xq_symbol": "SZ002634",
           "xq_url": "https://xueqiu.com/S/SZ002634",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "昌红科技",
           "code": "300151",
           "percent": 0.59,
-          "current_price": 28.08,
-          "change_percentage": 6.77,
+          "current_price": 27.87,
+          "change_percentage": 1.64,
           "xq_symbol": "SZ300151",
           "xq_url": "https://xueqiu.com/S/SZ300151",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "欣龙控股",
           "code": "000955",
           "percent": 0.59,
-          "current_price": 7.44,
-          "change_percentage": 0.81,
+          "current_price": 7.95,
+          "change_percentage": -0.87,
           "xq_symbol": "SZ000955",
           "xq_url": "https://xueqiu.com/S/SZ000955",
           "amarket": true
@@ -178,55 +178,55 @@
         "name": "孟亚强",
         "resume": "    孟亚强先生,南开大学保险精算硕士,中国籍,具有基金从业资格。11年证券从业经历。历任博时基金管理有限公司研究员、基金经理助理、投资经理。2015年8月加入九泰基金管理有限公司,曾任九泰久稳灵活配置混合型证券投资基金(原九泰久稳保本混合型证券投资基金,2016年6月7日至2018年11月26日)、九泰鸿祥服务升级灵活配置混合型证券投资基金(2017年8月16日至2020年3月23日)的基金经理,现任九泰久盛量化先锋灵活配置混合型证券投资基金(2016年6月7日至今)、九泰天富改革新动力灵活配置混合型证券投资基金(2016年12月26日至今)、九泰久兴灵活配置混合型证券投资基金(2017年2月10日至今)、九泰天辰量化新动力股票型证券投资基金(2020年3月12日至今)、九泰久远量化驱动股票型证券投资基金(2020年4月22日至今)、九泰久信量化股票型证券投资基金(2020年5月20日至今)、九泰天奕量化价值混合型证券投资基金(2020年5月29日至今)、九泰久睿量化股票型证券投资基金(2020年8月14日至今)的基金经理。",
         "college": "南开大学",
-        "work_year": "11",
+        "work_year": "12",
         "achievement_list": [
           {
             "fund_code": "009912",
             "fundsname": "九泰天富改革混合C",
             "post_date": "2020-09-18",
-            "cp_rate": -2.963
+            "cp_rate": -0.5291
           },
           {
             "fund_code": "009874",
             "fundsname": "九泰久睿量化",
             "post_date": "2020-08-14",
-            "cp_rate": -9.5
+            "cp_rate": -7.56
           },
           {
             "fund_code": "008137",
             "fundsname": "九泰天奕量化价值混合C",
             "post_date": "2020-05-29",
-            "cp_rate": 16.68
+            "cp_rate": 24.37
           },
           {
             "fund_code": "008077",
             "fundsname": "九泰天奕量化价值混合A",
             "post_date": "2020-05-29",
-            "cp_rate": 17.19
+            "cp_rate": 24.97
           },
           {
             "fund_code": "009043",
             "fundsname": "九泰久信量化",
             "post_date": "2020-05-20",
-            "cp_rate": 20.26
+            "cp_rate": 19.69
           },
           {
             "fund_code": "009040",
             "fundsname": "九泰久远量化驱动股票C",
             "post_date": "2020-04-22",
-            "cp_rate": 21.55
+            "cp_rate": 18.7
           },
           {
             "fund_code": "009039",
             "fundsname": "九泰久远量化驱动股票A",
             "post_date": "2020-04-22",
-            "cp_rate": 22.15
+            "cp_rate": 19.36
           },
           {
             "fund_code": "008230",
             "fundsname": "九泰天辰量化新动力股票",
             "post_date": "2020-03-12",
-            "cp_rate": 31.83
+            "cp_rate": 29.16
           },
           {
             "fund_code": "002454",
@@ -253,7 +253,7 @@
             "fund_code": "004510",
             "fundsname": "九泰久盛量化先锋混合C",
             "post_date": "2017-05-16",
-            "cp_rate": 48.2292
+            "cp_rate": 46.7803
           },
           {
             "fund_code": "001839",
@@ -266,7 +266,7 @@
             "fund_code": "001305",
             "fundsname": "九泰天富改革混合A",
             "post_date": "2016-12-26",
-            "cp_rate": 39.0909
+            "cp_rate": 42.7273
           },
           {
             "fund_code": "002453",
@@ -286,7 +286,7 @@
             "fund_code": "001897",
             "fundsname": "九泰久盛量化先锋混合A",
             "post_date": "2016-06-07",
-            "cp_rate": 72.1744
+            "cp_rate": 70.5167
           }
         ]
       }

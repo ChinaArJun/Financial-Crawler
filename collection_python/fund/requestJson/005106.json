@@ -15,8 +15,8 @@
           "name": "海大集团",
           "code": "002311",
           "percent": 7.75,
-          "current_price": 61,
-          "change_percentage": 0,
+          "current_price": 68.43,
+          "change_percentage": 4.47,
           "xq_symbol": "SZ002311",
           "xq_url": "https://xueqiu.com/S/SZ002311",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "五粮液",
           "code": "000858",
           "percent": 6.51,
-          "current_price": 272,
-          "change_percentage": 0.65,
+          "current_price": 298.05,
+          "change_percentage": 2.12,
           "xq_symbol": "SZ000858",
           "xq_url": "https://xueqiu.com/S/SZ000858",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "牧原股份",
           "code": "002714",
           "percent": 5.19,
-          "current_price": 78.22,
-          "change_percentage": -0.7,
+          "current_price": 84.81,
+          "change_percentage": 10,
           "xq_symbol": "SZ002714",
           "xq_url": "https://xueqiu.com/S/SZ002714",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "苏垦农发",
           "code": "601952",
           "percent": 4.51,
-          "current_price": 12.17,
-          "change_percentage": -2.48,
+          "current_price": 14.52,
+          "change_percentage": 3.27,
           "xq_symbol": "SH601952",
           "xq_url": "https://xueqiu.com/S/SH601952",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "大北农",
           "code": "002385",
           "percent": 4.42,
-          "current_price": 9.12,
-          "change_percentage": -1.94,
+          "current_price": 10.3,
+          "change_percentage": 6.63,
           "xq_symbol": "SZ002385",
           "xq_url": "https://xueqiu.com/S/SZ002385",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "盐津铺子",
           "code": "002847",
           "percent": 3.73,
-          "current_price": 121.88,
-          "change_percentage": -0.91,
+          "current_price": 114.36,
+          "change_percentage": 3.76,
           "xq_symbol": "SZ002847",
           "xq_url": "https://xueqiu.com/S/SZ002847",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "湘佳股份",
           "code": "002982",
           "percent": 3.37,
-          "current_price": 82.11,
-          "change_percentage": 0.16,
+          "current_price": 71.83,
+          "change_percentage": 10,
           "xq_symbol": "SZ002982",
           "xq_url": "https://xueqiu.com/S/SZ002982",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "洽洽食品",
           "code": "002557",
           "percent": 3.15,
-          "current_price": 58.61,
-          "change_percentage": -0.26,
+          "current_price": 55.55,
+          "change_percentage": 3.16,
           "xq_symbol": "SZ002557",
           "xq_url": "https://xueqiu.com/S/SZ002557",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "新希望",
           "code": "000876",
           "percent": 3.08,
-          "current_price": 26.59,
-          "change_percentage": -1.3,
+          "current_price": 24.64,
+          "change_percentage": 10,
           "xq_symbol": "SZ000876",
           "xq_url": "https://xueqiu.com/S/SZ000876",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "安井食品",
           "code": "603345",
           "percent": 2.94,
-          "current_price": 178.99,
-          "change_percentage": -1.12,
+          "current_price": 193.58,
+          "change_percentage": 0.37,
           "xq_symbol": "SH603345",
           "xq_url": "https://xueqiu.com/S/SH603345",
           "amarket": true
@@ -182,19 +182,25 @@
         "name": "王翔",
         "resume": "    王翔先生,清华大学工程硕士,2011年1月加入银华基金,历任助理行业研究员、行业研究员、投资经理助理、投资经理、基金经理助理,现任投资管理二部基金经理。自2017年3月2日起担任银华体育文化灵活配置混合型证券投资基金基金经理,自2017年9月28日起兼任银华农业产业股票型发起式证券投资基金基金经理。",
         "college": "清华大学",
-        "work_year": "9",
+        "work_year": "10",
         "achievement_list": [
+          {
+            "fund_code": "009859",
+            "fundsname": "银华乐享混合",
+            "post_date": "2020-12-23",
+            "cp_rate": 0.51
+          },
           {
             "fund_code": "005106",
             "fundsname": "银华农业产业股票发起式",
             "post_date": "2017-09-28",
-            "cp_rate": 120.72
+            "cp_rate": 128.19
           },
           {
             "fund_code": "003397",
             "fundsname": "银华体育文化灵活配置混合",
             "post_date": "2017-03-02",
-            "cp_rate": 66.0714
+            "cp_rate": 76.3889
           }
         ]
       }

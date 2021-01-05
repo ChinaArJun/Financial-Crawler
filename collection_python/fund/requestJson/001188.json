@@ -15,8 +15,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 9.89,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 5.28,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "宝信软件",
           "code": "600845",
           "percent": 4.88,
-          "current_price": 64.06,
-          "change_percentage": 0.13,
+          "current_price": 69.8,
+          "change_percentage": 1.19,
           "xq_symbol": "SH600845",
           "xq_url": "https://xueqiu.com/S/SH600845",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 4.49,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "长春高新",
           "code": "000661",
           "percent": 4.41,
-          "current_price": 388,
-          "change_percentage": 0.19,
+          "current_price": 473.45,
+          "change_percentage": 5.47,
           "xq_symbol": "SZ000661",
           "xq_url": "https://xueqiu.com/S/SZ000661",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 4.1,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "药明康德",
           "code": "603259",
           "percent": 3.88,
-          "current_price": 110.9,
-          "change_percentage": -0.12,
+          "current_price": 137.11,
+          "change_percentage": 1.77,
           "xq_symbol": "SH603259",
           "xq_url": "https://xueqiu.com/S/SH603259",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 3.85,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "五粮液",
           "code": "000858",
           "percent": 3.75,
-          "current_price": 272,
-          "change_percentage": 0.65,
+          "current_price": 298.05,
+          "change_percentage": 2.12,
           "xq_symbol": "SZ000858",
           "xq_url": "https://xueqiu.com/S/SZ000858",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "澜起科技",
           "code": "688008",
           "percent": 3.23,
-          "current_price": 83.08,
-          "change_percentage": 1.56,
+          "current_price": 81.05,
+          "change_percentage": -2.21,
           "xq_symbol": "SH688008",
           "xq_url": "https://xueqiu.com/S/SH688008",
           "amarket": true
@@ -173,31 +173,31 @@
       {
         "name": "袁航",
         "resume": "    袁航先生,国籍中国,经济学硕士,11年证券基金从业经验。2009年6月加盟鹏华基金管理有限公司,从事行业研究及投资助理相关工作,担任研究部资深研究员、投资经理助理,现任权益投资一部副总经理、基金经理。2014年11月担任鹏华先进制造股票基金基金经理,2015年02月至2017年02月担任鹏华弘盛混合基金基金经理,2015年04月至2017年02月担任鹏华弘泽混合基金基金经理,2015年05月至2017年02月担任鹏华弘实混合基金基金经理,2015年05月至2017年02月担任鹏华弘信混合基金基金经理,2015年06月至2017年09月担任鹏华弘锐混合基金基金经理,2015年08月担任鹏华策略优选混合基金基金经理,2018年05月至2019年12月担任鹏华产业精选基金基金经理,2019年12月担任鹏华改革红利股票基金基金经理。袁航先生具备基金从业资格。",
-        "work_year": "10",
+        "work_year": "11",
         "achievement_list": [
           {
             "fund_code": "009234",
             "fundsname": "鹏华优质企业混合",
             "post_date": "2020-06-11",
-            "cp_rate": 28.81
+            "cp_rate": 44.89
           },
           {
             "fund_code": "001188",
             "fundsname": "鹏华改革红利股票",
             "post_date": "2019-12-31",
-            "cp_rate": 24.2728
+            "cp_rate": 37.7131
           },
           {
             "fund_code": "206002",
             "fundsname": "鹏华精选成长混合",
             "post_date": "2018-08-07",
-            "cp_rate": 116.1471
+            "cp_rate": 121.4229
           },
           {
             "fund_code": "160607",
             "fundsname": "鹏华价值优势混合(LOF)",
             "post_date": "2018-08-07",
-            "cp_rate": 89.5084
+            "cp_rate": 92.4677
           },
           {
             "fund_code": "005812",
@@ -210,7 +210,7 @@
             "fund_code": "160627",
             "fundsname": "鹏华策略优选灵活配置混合",
             "post_date": "2015-08-13",
-            "cp_rate": 98.014
+            "cp_rate": 105.911
           },
           {
             "fund_code": "001493",
@@ -286,7 +286,7 @@
             "fund_code": "000778",
             "fundsname": "鹏华先进制造股票",
             "post_date": "2014-11-04",
-            "cp_rate": 221.9219
+            "cp_rate": 235.4354
           }
         ]
       },
@@ -298,13 +298,13 @@
             "fund_code": "004986",
             "fundsname": "鹏华策略回报混合",
             "post_date": "2020-08-11",
-            "cp_rate": 12.7315
+            "cp_rate": 26.1943
           },
           {
             "fund_code": "001188",
             "fundsname": "鹏华改革红利股票",
             "post_date": "2020-06-23",
-            "cp_rate": 19.9419
+            "cp_rate": 32.9138
           }
         ]
       }

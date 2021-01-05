@@ -15,8 +15,8 @@
           "name": "亿纬锂能",
           "code": "300014",
           "percent": 6.08,
-          "current_price": 63.71,
-          "change_percentage": 4.17,
+          "current_price": 93.49,
+          "change_percentage": 14.71,
           "xq_symbol": "SZ300014",
           "xq_url": "https://xueqiu.com/S/SZ300014",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "天赐材料",
           "code": "002709",
           "percent": 5.07,
-          "current_price": 84.25,
-          "change_percentage": 10,
+          "current_price": 114.03,
+          "change_percentage": 9.86,
           "xq_symbol": "SZ002709",
           "xq_url": "https://xueqiu.com/S/SZ002709",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "当升科技",
           "code": "300073",
           "percent": 4.59,
-          "current_price": 52.55,
-          "change_percentage": 7.86,
+          "current_price": 68.94,
+          "change_percentage": 6.31,
           "xq_symbol": "SZ300073",
           "xq_url": "https://xueqiu.com/S/SZ300073",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 3.95,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "拓普集团",
           "code": "601689",
           "percent": 3.87,
-          "current_price": 38.54,
-          "change_percentage": 3.66,
+          "current_price": 42.27,
+          "change_percentage": 9.99,
           "xq_symbol": "SH601689",
           "xq_url": "https://xueqiu.com/S/SH601689",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "键凯科技",
           "code": "688356",
           "percent": 3.56,
-          "current_price": 107.1,
-          "change_percentage": 0.7,
+          "current_price": 103.14,
+          "change_percentage": -6.08,
           "xq_symbol": "SH688356",
           "xq_url": "https://xueqiu.com/S/SH688356",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "中国中免",
           "code": "601888",
           "percent": 3.53,
-          "current_price": 208.03,
-          "change_percentage": 0.13,
+          "current_price": 292.25,
+          "change_percentage": 3.47,
           "xq_symbol": "SH601888",
           "xq_url": "https://xueqiu.com/S/SH601888",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "恩捷股份",
           "code": "002812",
           "percent": 3.3,
-          "current_price": 108,
-          "change_percentage": 0.88,
+          "current_price": 155,
+          "change_percentage": 9.32,
           "xq_symbol": "SZ002812",
           "xq_url": "https://xueqiu.com/S/SZ002812",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "通威股份",
           "code": "600438",
           "percent": 3.26,
-          "current_price": 29.2,
-          "change_percentage": -1.85,
+          "current_price": 41.65,
+          "change_percentage": 8.35,
           "xq_symbol": "SH600438",
           "xq_url": "https://xueqiu.com/S/SH600438",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "晶盛机电",
           "code": "300316",
           "percent": 3.15,
-          "current_price": 29.1,
-          "change_percentage": -2.51,
+          "current_price": 32.3,
+          "change_percentage": 7.38,
           "xq_symbol": "SZ300316",
           "xq_url": "https://xueqiu.com/S/SZ300316",
           "amarket": true
@@ -190,13 +190,31 @@
         "name": "王鹏",
         "resume": "    王鹏先生,清华大学工学硕士;2012年7月至2014年3月,任职于中邮创业基金管理有限公司,担任TMT行业研究员;2014年3月至2015年6月,任职于上海磐信投资管理有限公司,担任电子行业研究员;2015年6月,加入泰达宏利基金管理有限公司,任职于研究部,先后担任研究员、基金经理等职;2017年11月7日至今担任泰达宏利市值优选混合型证券投资基金基金经理;2017年12月19日至今担任泰达宏利转型机遇股票型证券投资基金基金经理;具有7年证券从业经验,具有基金从业资格。",
         "college": "清华大学",
-        "work_year": "8",
+        "work_year": "9",
         "achievement_list": [
+          {
+            "fund_code": "162201",
+            "fundsname": "泰达宏利成长混合",
+            "post_date": "2020-12-28",
+            "cp_rate": 3.9858
+          },
+          {
+            "fund_code": "010135",
+            "fundsname": "泰达宏利高研发创新6个月持有期混合A",
+            "post_date": "2020-12-28",
+            "cp_rate": 3.0486
+          },
+          {
+            "fund_code": "010136",
+            "fundsname": "泰达宏利高研发创新6个月持有期混合C",
+            "post_date": "2020-12-28",
+            "cp_rate": 3.051
+          },
           {
             "fund_code": "000828",
             "fundsname": "泰达宏利转型机遇股票",
             "post_date": "2017-12-19",
-            "cp_rate": 105.6597
+            "cp_rate": 145.4858
           },
           {
             "fund_code": "162209",

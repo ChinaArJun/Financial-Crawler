@@ -15,8 +15,8 @@
           "name": "五粮液",
           "code": "000858",
           "percent": 7.51,
-          "current_price": 272,
-          "change_percentage": 0.65,
+          "current_price": 298.05,
+          "change_percentage": 2.12,
           "xq_symbol": "SZ000858",
           "xq_url": "https://xueqiu.com/S/SZ000858",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 7.1,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "中国中免",
           "code": "601888",
           "percent": 6.49,
-          "current_price": 208.03,
-          "change_percentage": 0.13,
+          "current_price": 292.25,
+          "change_percentage": 3.47,
           "xq_symbol": "SH601888",
           "xq_url": "https://xueqiu.com/S/SH601888",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 5.94,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "安井食品",
           "code": "603345",
           "percent": 4.51,
-          "current_price": 178.99,
-          "change_percentage": -1.12,
+          "current_price": 193.58,
+          "change_percentage": 0.37,
           "xq_symbol": "SH603345",
           "xq_url": "https://xueqiu.com/S/SH603345",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "爱尔眼科",
           "code": "300015",
           "percent": 3.67,
-          "current_price": 66.63,
-          "change_percentage": -0.25,
+          "current_price": 68.22,
+          "change_percentage": -8.91,
           "xq_symbol": "SZ300015",
           "xq_url": "https://xueqiu.com/S/SZ300015",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 3.61,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "通策医疗",
           "code": "600763",
           "percent": 3.4,
-          "current_price": 233.45,
-          "change_percentage": 0.45,
+          "current_price": 268,
+          "change_percentage": -3.08,
           "xq_symbol": "SH600763",
           "xq_url": "https://xueqiu.com/S/SH600763",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 2.86,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "泸州老窖",
           "code": "000568",
           "percent": 2.37,
-          "current_price": 191.85,
-          "change_percentage": 0.56,
+          "current_price": 240.85,
+          "change_percentage": 6.5,
           "xq_symbol": "SZ000568",
           "xq_url": "https://xueqiu.com/S/SZ000568",
           "amarket": true
@@ -182,49 +182,49 @@
             "fund_code": "002398",
             "fundsname": "华安安禧灵活配置混合A",
             "post_date": "2020-07-06",
-            "cp_rate": 6.0302
+            "cp_rate": 8.7471
           },
           {
             "fund_code": "002399",
             "fundsname": "华安安禧灵活配置混合C",
             "post_date": "2020-07-06",
-            "cp_rate": 5.7496
+            "cp_rate": 8.4241
           },
           {
             "fund_code": "008359",
             "fundsname": "华安医疗创新混合",
             "post_date": "2020-04-15",
-            "cp_rate": 24.56
+            "cp_rate": 39.21
           },
           {
             "fund_code": "001532",
             "fundsname": "华安文体健康混合",
             "post_date": "2019-11-08",
-            "cp_rate": 80.4012
+            "cp_rate": 93.5185
           },
           {
             "fund_code": "002350",
             "fundsname": "华安安华灵活配置混合",
             "post_date": "2019-11-08",
-            "cp_rate": 29.3733
+            "cp_rate": 32.4582
           },
           {
             "fund_code": "501073",
             "fundsname": "华安科创主题混合",
             "post_date": "2019-06-11",
-            "cp_rate": 11.9
+            "cp_rate": 13.92
           },
           {
             "fund_code": "006121",
             "fundsname": "华安双核驱动混合",
             "post_date": "2019-03-08",
-            "cp_rate": 113.6
+            "cp_rate": 143.82
           },
           {
             "fund_code": "001104",
             "fundsname": "华安新丝路主题股票",
             "post_date": "2018-10-31",
-            "cp_rate": 173.4322
+            "cp_rate": 210.8894
           }
         ]
       }
@@ -235,8 +235,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

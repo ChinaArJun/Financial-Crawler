@@ -16,8 +16,8 @@
           "name": "顺丰控股",
           "code": "002352",
           "percent": 9.28,
-          "current_price": 80.21,
-          "change_percentage": -1.88,
+          "current_price": 90.48,
+          "change_percentage": 2.55,
           "xq_symbol": "SZ002352",
           "xq_url": "https://xueqiu.com/S/SZ002352",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "海容冷链",
           "code": "603187",
           "percent": 8.99,
-          "current_price": 55.51,
-          "change_percentage": -0.59,
+          "current_price": 60.49,
+          "change_percentage": 0.82,
           "xq_symbol": "SH603187",
           "xq_url": "https://xueqiu.com/S/SH603187",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "科锐国际",
           "code": "300662",
           "percent": 7.54,
-          "current_price": 52.58,
-          "change_percentage": -0.79,
+          "current_price": 52.17,
+          "change_percentage": -3.57,
           "xq_symbol": "SZ300662",
           "xq_url": "https://xueqiu.com/S/SZ300662",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "芒果超媒",
           "code": "300413",
           "percent": 5.55,
-          "current_price": 65.95,
-          "change_percentage": -1.54,
+          "current_price": 72.88,
+          "change_percentage": 0.52,
           "xq_symbol": "SZ300413",
           "xq_url": "https://xueqiu.com/S/SZ300413",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "锦江酒店",
           "code": "600754",
           "percent": 5.12,
-          "current_price": 51.28,
-          "change_percentage": -0.95,
+          "current_price": 50.72,
+          "change_percentage": -1.57,
           "xq_symbol": "SH600754",
           "xq_url": "https://xueqiu.com/S/SH600754",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "荣盛石化",
           "code": "002493",
           "percent": 4.53,
-          "current_price": 25.98,
-          "change_percentage": 1.48,
+          "current_price": 27.44,
+          "change_percentage": -0.62,
           "xq_symbol": "SZ002493",
           "xq_url": "https://xueqiu.com/S/SZ002493",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "宁波银行",
           "code": "002142",
           "percent": 3.78,
-          "current_price": 35.74,
-          "change_percentage": 0.65,
+          "current_price": 34.94,
+          "change_percentage": -1.13,
           "xq_symbol": "SZ002142",
           "xq_url": "https://xueqiu.com/S/SZ002142",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "紫金矿业",
           "code": "601899",
           "percent": 3.24,
-          "current_price": 8.91,
-          "change_percentage": 1.14,
+          "current_price": 10.04,
+          "change_percentage": 8.07,
           "xq_symbol": "SH601899",
           "xq_url": "https://xueqiu.com/S/SH601899",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "海大集团",
           "code": "002311",
           "percent": 3.17,
-          "current_price": 61,
-          "change_percentage": 0,
+          "current_price": 68.43,
+          "change_percentage": 4.47,
           "xq_symbol": "SZ002311",
           "xq_url": "https://xueqiu.com/S/SZ002311",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "道通科技",
           "code": "688208",
           "percent": 3.12,
-          "current_price": 77.09,
-          "change_percentage": 1.31,
+          "current_price": 67.34,
+          "change_percentage": -1.71,
           "xq_symbol": "SH688208",
           "xq_url": "https://xueqiu.com/S/SH688208",
           "amarket": true
@@ -175,13 +175,19 @@
         "name": "林庆",
         "resume": "    林庆,博士,曾任好望角投资管理有限公司行业研究员;自2011年2月至2015年5月任富国基金管理有限公司任研究员、高级行业研究员,2015年5月起任富国文体健康股票型证券投资基金基金经理。具有基金从业资格。",
         "college": "复旦大学",
-        "work_year": "11",
+        "work_year": "12",
         "achievement_list": [
           {
+            "fund_code": "011125",
+            "fundsname": "富国文体健康股票C",
+            "post_date": "2020-12-28",
+            "cp_rate": 1.2414
+          },
+          {
             "fund_code": "001186",
-            "fundsname": "富国文体健康股票",
+            "fundsname": "富国文体健康股票A",
             "post_date": "2015-05-06",
-            "cp_rate": 116.6
+            "cp_rate": 120.1
           }
         ]
       }

@@ -16,8 +16,8 @@
           "name": "当升科技",
           "code": "300073",
           "percent": 10.04,
-          "current_price": 52.55,
-          "change_percentage": 7.86,
+          "current_price": 68.94,
+          "change_percentage": 6.31,
           "xq_symbol": "SZ300073",
           "xq_url": "https://xueqiu.com/S/SZ300073",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 9.92,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "天赐材料",
           "code": "002709",
           "percent": 9.28,
-          "current_price": 84.25,
-          "change_percentage": 10,
+          "current_price": 114.03,
+          "change_percentage": 9.86,
           "xq_symbol": "SZ002709",
           "xq_url": "https://xueqiu.com/S/SZ002709",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "先导智能",
           "code": "300450",
           "percent": 7.7,
-          "current_price": 67.6,
-          "change_percentage": 0.6,
+          "current_price": 87.5,
+          "change_percentage": 4.18,
           "xq_symbol": "SZ300450",
           "xq_url": "https://xueqiu.com/S/SZ300450",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "东方日升",
           "code": "300118",
           "percent": 5.82,
-          "current_price": 18.4,
-          "change_percentage": 1.21,
+          "current_price": 29.52,
+          "change_percentage": 2.39,
           "xq_symbol": "SZ300118",
           "xq_url": "https://xueqiu.com/S/SZ300118",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "赣锋锂业",
           "code": "002460",
           "percent": 5.06,
-          "current_price": 82.24,
-          "change_percentage": 3.06,
+          "current_price": 111.32,
+          "change_percentage": 10,
           "xq_symbol": "SZ002460",
           "xq_url": "https://xueqiu.com/S/SZ002460",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "华友钴业",
           "code": "603799",
           "percent": 4.06,
-          "current_price": 55.38,
-          "change_percentage": 1.63,
+          "current_price": 87.1,
+          "change_percentage": 9.84,
           "xq_symbol": "SH603799",
           "xq_url": "https://xueqiu.com/S/SH603799",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "三花智控",
           "code": "002050",
           "percent": 3.86,
-          "current_price": 24.3,
-          "change_percentage": 2.84,
+          "current_price": 27.12,
+          "change_percentage": 10.02,
           "xq_symbol": "SZ002050",
           "xq_url": "https://xueqiu.com/S/SZ002050",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "亿纬锂能",
           "code": "300014",
           "percent": 3.67,
-          "current_price": 63.71,
-          "change_percentage": 4.17,
+          "current_price": 93.49,
+          "change_percentage": 14.71,
           "xq_symbol": "SZ300014",
           "xq_url": "https://xueqiu.com/S/SZ300014",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "璞泰来",
           "code": "603659",
           "percent": 3.52,
-          "current_price": 111.38,
-          "change_percentage": 5.71,
+          "current_price": 123.63,
+          "change_percentage": 10,
           "xq_symbol": "SH603659",
           "xq_url": "https://xueqiu.com/S/SH603659",
           "amarket": true
@@ -202,7 +202,7 @@
             "fund_code": "003834",
             "fundsname": "华夏能源革新股票",
             "post_date": "2017-06-07",
-            "cp_rate": 107
+            "cp_rate": 170.3
           }
         ]
       }
@@ -213,8 +213,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

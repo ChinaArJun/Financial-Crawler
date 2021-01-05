@@ -15,8 +15,8 @@
           "name": "长江电力",
           "code": "600900",
           "percent": 0.14,
-          "current_price": 19.83,
-          "change_percentage": 0.15,
+          "current_price": 18.9,
+          "change_percentage": -1.36,
           "xq_symbol": "SH600900",
           "xq_url": "https://xueqiu.com/S/SH600900",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "山西汾酒",
           "code": "600809",
           "percent": 0.06,
-          "current_price": 265.1,
-          "change_percentage": 1.54,
+          "current_price": 373.63,
+          "change_percentage": -0.44,
           "xq_symbol": "SH600809",
           "xq_url": "https://xueqiu.com/S/SH600809",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "用友网络",
           "code": "600588",
           "percent": 0.05,
-          "current_price": 46.29,
-          "change_percentage": 0.67,
+          "current_price": 45.71,
+          "change_percentage": 4.19,
           "xq_symbol": "SH600588",
           "xq_url": "https://xueqiu.com/S/SH600588",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "光大证券",
           "code": "601788",
           "percent": 0.04,
-          "current_price": 18.83,
-          "change_percentage": -0.48,
+          "current_price": 18.29,
+          "change_percentage": -1.24,
           "xq_symbol": "SH601788",
           "xq_url": "https://xueqiu.com/S/SH601788",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "福耀玻璃",
           "code": "600660",
           "percent": 0.04,
-          "current_price": 38.74,
-          "change_percentage": 0,
+          "current_price": 50.95,
+          "change_percentage": 6.04,
           "xq_symbol": "SH600660",
           "xq_url": "https://xueqiu.com/S/SH600660",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "华夏幸福",
           "code": "600340",
           "percent": 0.02,
-          "current_price": 14.53,
-          "change_percentage": 0.28,
+          "current_price": 12.67,
+          "change_percentage": -2.01,
           "xq_symbol": "SH600340",
           "xq_url": "https://xueqiu.com/S/SH600340",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "南方航空",
           "code": "600029",
           "percent": 0.02,
-          "current_price": 6.16,
-          "change_percentage": -1.12,
+          "current_price": 5.9,
+          "change_percentage": -1.01,
           "xq_symbol": "SH600029",
           "xq_url": "https://xueqiu.com/S/SH600029",
           "amarket": true
@@ -86,7 +86,7 @@
           "code": "600010",
           "percent": 0.02,
           "current_price": 1.18,
-          "change_percentage": -0.84,
+          "change_percentage": 0.85,
           "xq_symbol": "SH600010",
           "xq_url": "https://xueqiu.com/S/SH600010",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "国电电力",
           "code": "600795",
           "percent": 0.02,
-          "current_price": 2.17,
-          "change_percentage": -0.46,
+          "current_price": 2.21,
+          "change_percentage": -1.78,
           "xq_symbol": "SH600795",
           "xq_url": "https://xueqiu.com/S/SH600795",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "中航资本",
           "code": "600705",
           "percent": 0.02,
-          "current_price": 4.45,
-          "change_percentage": -1.11,
+          "current_price": 4.66,
+          "change_percentage": 6.39,
           "xq_symbol": "SH600705",
           "xq_url": "https://xueqiu.com/S/SH600705",
           "amarket": true
@@ -158,55 +158,55 @@
         "name": "黄欣",
         "resume": "    黄欣先生,伦敦经济学院会计金融专业硕士。2003年10月起加入国联安基金管理有限公司,先后担任产品开发部经理助理、总经理特别助理、投资组合管理部债券投资助理等。2010年4月起担任国联安双禧中证100指数分级证券投资基金基金经理,2010年5月起至2012年9月兼任国联安德盛安心成长混合型证券投资基金基金经理,2010年11月起兼任上证大宗商品股票交易型开放式指数证券投资基金基金经理,2010年12月起兼任国联安上证大宗商品股票交易型开放式指数证券投资基金联接基金基金经理,2013年6月起至2017年6月兼任国联安中证股债动态策略指数证券投资基金基金经理,2016年8月起兼任国联安双力中小板综指证券投资基金(LOF)和国联安中证医药100指数证券投资基金基金经理,2018年3月起兼任国联安添鑫灵活配置混合型证券投资基金基金经理,2019年5月起兼任国联安中证全指半导体产品与设备交易型开放式指数证券投资基金的基金经理,2019年6月起兼任国联安中证全指半导体产品与设备交易型开放式指数证券投资基金联接基金的基金经理,2019年11月起兼任国联安沪深300交易型开放式指数证券投资基金的基金经理,2019年12月起兼任国联安沪深300交易型开放式指数证券投资基金联接基金的基金经理。",
         "college": "伦敦经济学院",
-        "work_year": "18",
+        "work_year": "19",
         "achievement_list": [
           {
             "fund_code": "162509",
             "fundsname": "国联安中证100指数(LOF)",
             "post_date": "2020-12-04",
-            "cp_rate": -0.9
+            "cp_rate": 2.7
           },
           {
             "fund_code": "008391",
             "fundsname": "国联安沪深300ETF联接C",
             "post_date": "2019-12-25",
-            "cp_rate": 30.46
+            "cp_rate": 35.19
           },
           {
             "fund_code": "008390",
             "fundsname": "国联安沪深300ETF联接A",
             "post_date": "2019-12-25",
-            "cp_rate": 30.48
+            "cp_rate": 35.23
           },
           {
             "fund_code": "515660",
             "fundsname": "国联安沪深300ETF",
             "post_date": "2019-11-25",
-            "cp_rate": 36.93
+            "cp_rate": 42.25
           },
           {
             "fund_code": "007300",
             "fundsname": "国联安中证全指半导体ETF联接A",
             "post_date": "2019-06-26",
-            "cp_rate": 116.7683
+            "cp_rate": 104.8995
           },
           {
             "fund_code": "007301",
             "fundsname": "国联安中证全指半导体ETF联接C",
             "post_date": "2019-06-26",
-            "cp_rate": 115.4685
+            "cp_rate": 103.6296
           },
           {
             "fund_code": "512480",
             "fundsname": "国联安中证全指半导体ETF",
             "post_date": "2019-05-08",
-            "cp_rate": 122.3
+            "cp_rate": 109.26
           },
           {
             "fund_code": "006569",
             "fundsname": "国联安中证医药100C",
             "post_date": "2018-10-26",
-            "cp_rate": 82.1607
+            "cp_rate": 81.7144
           },
           {
             "fund_code": "001654",
@@ -226,7 +226,7 @@
             "fund_code": "000059",
             "fundsname": "国联安中证医药100A",
             "post_date": "2016-08-19",
-            "cp_rate": 31.0371
+            "cp_rate": 30.748
           },
           {
             "fund_code": "150070",
@@ -242,7 +242,7 @@
             "fund_code": "162510",
             "fundsname": "国联安双力中小板(LOF)",
             "post_date": "2016-08-19",
-            "cp_rate": 1.0926
+            "cp_rate": 0.4532
           },
           {
             "fund_code": "000060",
@@ -255,13 +255,13 @@
             "fund_code": "257060",
             "fundsname": "国联安上证商品ETF联接",
             "post_date": "2010-12-01",
-            "cp_rate": -24.4444
+            "cp_rate": -21.7417
           },
           {
             "fund_code": "510170",
             "fundsname": "国联安上证商品ETF",
             "post_date": "2010-11-26",
-            "cp_rate": -24.9549
+            "cp_rate": -22.0963
           },
           {
             "fund_code": "253010",
@@ -302,37 +302,37 @@
             "fund_code": "007301",
             "fundsname": "国联安中证全指半导体ETF联接C",
             "post_date": "2020-08-13",
-            "cp_rate": -2.3695
+            "cp_rate": -7.7338
           },
           {
             "fund_code": "008391",
             "fundsname": "国联安沪深300ETF联接C",
             "post_date": "2020-08-13",
-            "cp_rate": 8.7167
+            "cp_rate": 12.6583
           },
           {
             "fund_code": "008390",
             "fundsname": "国联安沪深300ETF联接A",
             "post_date": "2020-08-13",
-            "cp_rate": 8.7877
+            "cp_rate": 12.748
           },
           {
             "fund_code": "007300",
             "fundsname": "国联安中证全指半导体ETF联接A",
             "post_date": "2020-08-13",
-            "cp_rate": -2.294
+            "cp_rate": -7.6438
           },
           {
             "fund_code": "512480",
             "fundsname": "国联安中证全指半导体ETF",
             "post_date": "2020-08-13",
-            "cp_rate": -2.913
+            "cp_rate": -8.6081
           },
           {
             "fund_code": "515660",
             "fundsname": "国联安沪深300ETF",
             "post_date": "2020-05-06",
-            "cp_rate": 34.5485
+            "cp_rate": 39.776
           },
           {
             "fund_code": "002955",

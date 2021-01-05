@@ -16,8 +16,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 9.61,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "中国中免",
           "code": "601888",
           "percent": 8.32,
-          "current_price": 208.03,
-          "change_percentage": 0.13,
+          "current_price": 292.25,
+          "change_percentage": 3.47,
           "xq_symbol": "SH601888",
           "xq_url": "https://xueqiu.com/S/SH601888",
           "amarket": true
@@ -44,8 +44,8 @@
           "name": "五粮液",
           "code": "000858",
           "percent": 5.6,
-          "current_price": 272,
-          "change_percentage": 0.65,
+          "current_price": 298.05,
+          "change_percentage": 2.12,
           "xq_symbol": "SZ000858",
           "xq_url": "https://xueqiu.com/S/SZ000858",
           "amarket": true
@@ -54,8 +54,8 @@
           "name": "分众传媒",
           "code": "002027",
           "percent": 5.12,
-          "current_price": 10.36,
-          "change_percentage": 0.58,
+          "current_price": 10.04,
+          "change_percentage": 1.72,
           "xq_symbol": "SZ002027",
           "xq_url": "https://xueqiu.com/S/SZ002027",
           "amarket": true
@@ -72,8 +72,8 @@
           "name": "爱尔眼科",
           "code": "300015",
           "percent": 3.32,
-          "current_price": 66.63,
-          "change_percentage": -0.25,
+          "current_price": 68.22,
+          "change_percentage": -8.91,
           "xq_symbol": "SZ300015",
           "xq_url": "https://xueqiu.com/S/SZ300015",
           "amarket": true
@@ -82,8 +82,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 2.89,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -92,8 +92,8 @@
           "name": "伊利股份",
           "code": "600887",
           "percent": 2.66,
-          "current_price": 40.68,
-          "change_percentage": 1.24,
+          "current_price": 47.36,
+          "change_percentage": 6.74,
           "xq_symbol": "SH600887",
           "xq_url": "https://xueqiu.com/S/SH600887",
           "amarket": true
@@ -102,8 +102,8 @@
           "name": "泸州老窖",
           "code": "000568",
           "percent": 2.61,
-          "current_price": 191.85,
-          "change_percentage": 0.56,
+          "current_price": 240.85,
+          "change_percentage": 6.5,
           "xq_symbol": "SZ000568",
           "xq_url": "https://xueqiu.com/S/SZ000568",
           "amarket": true
@@ -183,43 +183,43 @@
       {
         "name": "赵鹏飞",
         "resume": "    赵鹏飞先生,12年证券基金从业经验,曾任职于日信证券、光大证券和太平洋资产,担任高级投资经理等岗位。2015年8月加入汇添富基金。2016年6月3日至今任汇添富多策略定开混合基金的基金经理,2017年3月20日至今任汇添富高端制造股票基金的基金经理,2017年9月27日至今任汇添富民丰回报基金的基金经理,2017年9月29日至2019年8月28日任汇添富弘安混合基金的基金经理,2017年9月29日至2019年9月17日任汇添富睿丰混合(LOF)基金的基金经理,2018年3月19日至2019年9月17日任添富民安增益定开混合基金的基金经理,2018年4月23日至今任添富智能制造股票基金的基金经理,2019年1月31日至今任添富悦享定开混合基金的基金经理,2019年7月31日至今任汇添富内需增长股票基金的基金经理,2019年9月4日至今任汇添富3年封闭竞争优势混合基金的基金经理。",
-        "work_year": "12",
+        "work_year": "13",
         "achievement_list": [
           {
             "fund_code": "009737",
             "fundsname": "汇添富稳健收益混合C",
             "post_date": "2020-07-23",
-            "cp_rate": 0.34
+            "cp_rate": 2.4
           },
           {
             "fund_code": "009736",
             "fundsname": "汇添富稳健收益混合A",
             "post_date": "2020-07-23",
-            "cp_rate": 0.49
+            "cp_rate": 2.58
           },
           {
             "fund_code": "009536",
             "fundsname": "汇添富稳健增益一年持有混合",
             "post_date": "2020-05-22",
-            "cp_rate": 2.5897
+            "cp_rate": 3.3397
           },
           {
             "fund_code": "007639",
             "fundsname": "汇添富3年封闭竞争优势混合",
             "post_date": "2019-09-04",
-            "cp_rate": 29.9
+            "cp_rate": 34.59
           },
           {
             "fund_code": "007523",
             "fundsname": "汇添富内需增长股票A",
             "post_date": "2019-07-31",
-            "cp_rate": 70.49
+            "cp_rate": 81.17
           },
           {
             "fund_code": "007524",
             "fundsname": "汇添富内需增长股票C",
             "post_date": "2019-07-31",
-            "cp_rate": 68.82
+            "cp_rate": 79.32
           },
           {
             "fund_code": "501042",
@@ -253,13 +253,13 @@
             "fund_code": "501063",
             "fundsname": "汇添富悦享定期开放混合",
             "post_date": "2019-01-31",
-            "cp_rate": 41.06
+            "cp_rate": 45.94
           },
           {
             "fund_code": "005802",
             "fundsname": "添富智能制造股票",
             "post_date": "2018-04-23",
-            "cp_rate": 61.86
+            "cp_rate": 69.92
           },
           {
             "fund_code": "005330",
@@ -307,25 +307,25 @@
             "fund_code": "004271",
             "fundsname": "汇添富民丰回报混合C",
             "post_date": "2017-09-27",
-            "cp_rate": 32.49
+            "cp_rate": 42.23
           },
           {
             "fund_code": "004270",
             "fundsname": "汇添富民丰回报混合A",
             "post_date": "2017-09-27",
-            "cp_rate": 32.93
+            "cp_rate": 42.72
           },
           {
             "fund_code": "001725",
             "fundsname": "汇添富高端制造股票",
             "post_date": "2017-03-20",
-            "cp_rate": 123.5
+            "cp_rate": 136.2
           },
           {
             "fund_code": "002746",
             "fundsname": "汇添富多策略定开混合",
             "post_date": "2016-06-03",
-            "cp_rate": 72.6
+            "cp_rate": 81.9
           }
         ]
       },
@@ -333,25 +333,25 @@
         "name": "郑慧莲",
         "resume": "    郑慧莲女士,国籍:中国。复旦大学会计学硕士,中国注册会计师,8年证券从业经历。2010年7月加入汇添富基金管理股份有限公司,历任行业研究员、高级研究员。2017年5月18日至2017年12月11日任汇添富年年丰定开混合基金和汇添富6月红定开债基金的基金经理助理,2017年5月18日至2017年12月25日任汇添富年年益定开混合基金的基金经理助理。2017年12月12日至今任汇添富双利增强债券、汇添富双利债券、添富年年丰定开混合、添富年年泰定开混合、汇添富6月红定期开放债券的基金经理,2017年12月26日至今任汇添富多元收益债券、添富年年益定开混合的基金经理,2018年3月1日至今担任添富熙和混合的基金经理,2018年4月2日至今任汇添富安鑫智选混合的基金经理,2018年7月6日至今任汇添富达欣混合的基金经理,2018年9月21日至今任添富全球消费混合(QDII)的基金经理,2018年12月21日至今任添富消费升级混合的基金经理,2019年1月30日至今任汇添富盈鑫混合(原汇添富盈鑫保本混合)的基金经理。2019年7月31日至今任汇添富内需增长股票的基金经理。",
         "college": "复旦大学",
-        "work_year": "10",
+        "work_year": "11",
         "achievement_list": [
           {
             "fund_code": "010298",
             "fundsname": "汇添富品牌驱动六个月持有期混合",
             "post_date": "2020-10-19",
-            "cp_rate": 4.25
+            "cp_rate": 9.15
           },
           {
             "fund_code": "007524",
             "fundsname": "汇添富内需增长股票C",
             "post_date": "2019-07-31",
-            "cp_rate": 68.82
+            "cp_rate": 79.32
           },
           {
             "fund_code": "007523",
             "fundsname": "汇添富内需增长股票A",
             "post_date": "2019-07-31",
-            "cp_rate": 70.49
+            "cp_rate": 81.17
           },
           {
             "fund_code": "002420",
@@ -371,25 +371,25 @@
             "fund_code": "006408",
             "fundsname": "汇添富消费升级混合",
             "post_date": "2018-12-21",
-            "cp_rate": 125.47
+            "cp_rate": 149.61
           },
           {
             "fund_code": "006308",
             "fundsname": "添富全球消费混合(QDII)人民币A",
             "post_date": "2018-09-21",
-            "cp_rate": 164.91
+            "cp_rate": 176.99
           },
           {
             "fund_code": "006309",
             "fundsname": "添富全球消费混合(QDII)人民币C",
             "post_date": "2018-09-21",
-            "cp_rate": 158.78
+            "cp_rate": 170.38
           },
           {
             "fund_code": "006310",
             "fundsname": "添富全球消费混合(QDII)美元现汇",
             "post_date": "2018-09-21",
-            "cp_rate": 176.14
+            "cp_rate": 189.53
           },
           {
             "fund_code": "002165",
@@ -437,13 +437,13 @@
             "fund_code": "004535",
             "fundsname": "添富年年益定开混合C",
             "post_date": "2017-12-26",
-            "cp_rate": 25.5237
+            "cp_rate": 27.0946
           },
           {
             "fund_code": "004534",
             "fundsname": "添富年年益定开混合A",
             "post_date": "2017-12-26",
-            "cp_rate": 26.9491
+            "cp_rate": 28.5645
           },
           {
             "fund_code": "470011",
@@ -463,7 +463,7 @@
             "fund_code": "004452",
             "fundsname": "添富年年丰定开混合C",
             "post_date": "2017-12-12",
-            "cp_rate": 24.7759
+            "cp_rate": 25.6437
           },
           {
             "fund_code": "000407",
@@ -511,19 +511,19 @@
             "fund_code": "004436",
             "fundsname": "添富年年泰定开混合A",
             "post_date": "2017-12-12",
-            "cp_rate": 30.5061
+            "cp_rate": 31.3779
           },
           {
             "fund_code": "004437",
             "fundsname": "添富年年泰定开混合C",
             "post_date": "2017-12-12",
-            "cp_rate": 28.2044
+            "cp_rate": 29.0037
           },
           {
             "fund_code": "004451",
             "fundsname": "添富年年丰定开混合A",
             "post_date": "2017-12-12",
-            "cp_rate": 26.2913
+            "cp_rate": 27.2044
           }
         ]
       }

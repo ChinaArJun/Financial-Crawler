@@ -16,8 +16,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 7.34,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "恒生电子",
           "code": "600570",
           "percent": 7.23,
-          "current_price": 98.15,
-          "change_percentage": 1.31,
+          "current_price": 106.17,
+          "change_percentage": 1.21,
           "xq_symbol": "SH600570",
           "xq_url": "https://xueqiu.com/S/SH600570",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "阳光电源",
           "code": "300274",
           "percent": 5.78,
-          "current_price": 51.88,
-          "change_percentage": 6.31,
+          "current_price": 78.19,
+          "change_percentage": 8.18,
           "xq_symbol": "SZ300274",
           "xq_url": "https://xueqiu.com/S/SZ300274",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "歌尔股份",
           "code": "002241",
           "percent": 4.53,
-          "current_price": 37.16,
-          "change_percentage": -2.24,
+          "current_price": 36.74,
+          "change_percentage": -1.55,
           "xq_symbol": "SZ002241",
           "xq_url": "https://xueqiu.com/S/SZ002241",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "万华化学",
           "code": "600309",
           "percent": 4.47,
-          "current_price": 82.99,
-          "change_percentage": -0.3,
+          "current_price": 94.12,
+          "change_percentage": 3.38,
           "xq_symbol": "SH600309",
           "xq_url": "https://xueqiu.com/S/SH600309",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 4.42,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 4.28,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "芒果超媒",
           "code": "300413",
           "percent": 3.69,
-          "current_price": 65.95,
-          "change_percentage": -1.54,
+          "current_price": 72.88,
+          "change_percentage": 0.52,
           "xq_symbol": "SZ300413",
           "xq_url": "https://xueqiu.com/S/SZ300413",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "恒瑞医药",
           "code": "600276",
           "percent": 3.67,
-          "current_price": 90.07,
-          "change_percentage": 0.21,
+          "current_price": 111.2,
+          "change_percentage": -0.23,
           "xq_symbol": "SH600276",
           "xq_url": "https://xueqiu.com/S/SH600276",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "完美世界",
           "code": "002624",
           "percent": 3.37,
-          "current_price": 28.49,
-          "change_percentage": 0.49,
+          "current_price": 30.1,
+          "change_percentage": 2.03,
           "xq_symbol": "SZ002624",
           "xq_url": "https://xueqiu.com/S/SZ002624",
           "amarket": true
@@ -186,86 +186,98 @@
     "manager_list": [
       {
         "name": "单文",
-        "resume": "    单文先生,9年证券从业经验;先后在KPMG担任助理经理,在嘉实基金担任中级研究员;2014年加入工银瑞信,现任研究部TMT研究团队负责人、基金经理,2016年6月22日至今,担任工银瑞信互联网加股票型证券投资基金基金经理;2017年7月25日至今,担任工银瑞信信息产业混合型证券投资基金基金经理。",
-        "work_year": "11",
+        "resume": "    单文先生,11年证券从业经验;先后在KPMG担任助理经理,在嘉实基金担任中级研究员;2014年加入工银瑞信,现任研究部TMT研究团队负责人、基金经理,2016年6月22日至2018年8月28日,担任工银瑞信互联网加股票型证券投资基金基金经理;2017年7月25日至今,担任工银瑞信信息产业混合型证券投资基金基金经理;2020年9月10日至今,担任工银瑞信创新精选一年定期开放混合型证券投资基金基金经理;2020年12月2日至今,担任工银瑞信互联网加股票型证券投资基金基金经理;2020年12月21日至今,担任工银瑞信红利优享灵活配置混合型证券投资基金基金经理。",
+        "work_year": "12",
         "achievement_list": [
+          {
+            "fund_code": "005833",
+            "fundsname": "工银瑞信红利优享灵活配置混合A",
+            "post_date": "2020-12-21",
+            "cp_rate": 6.1281
+          },
+          {
+            "fund_code": "005834",
+            "fundsname": "工银瑞信红利优享灵活配置混合C",
+            "post_date": "2020-12-21",
+            "cp_rate": 6.1157
+          },
           {
             "fund_code": "001409",
             "fundsname": "工银瑞信互联网加股票",
             "post_date": "2020-12-02",
-            "cp_rate": 2.2989
+            "cp_rate": 12.3153
           },
           {
             "fund_code": "009867",
             "fundsname": "工银创新精选一年定开混合A",
             "post_date": "2020-09-10",
-            "cp_rate": 12.32
+            "cp_rate": 24.07
           },
           {
             "fund_code": "009868",
             "fundsname": "工银创新精选一年定开混合C",
             "post_date": "2020-09-10",
-            "cp_rate": 12.11
+            "cp_rate": 23.76
           },
           {
             "fund_code": "000263",
             "fundsname": "工银信息产业混合",
             "post_date": "2017-07-25",
-            "cp_rate": 179.0786
+            "cp_rate": 204.2227
           }
         ]
       },
       {
         "name": "张继圣",
-        "resume": "    张继圣先生,23年证券从业经验。先后在友邦证券投资信托股份有限公司担任分析师,在统一证券投资信托股份有限公司担任分析师、专业副总。2018年加入工银瑞信基金管理有限公司,现任权益投资部权益投资能力七中心负责人、基金经理,2018年 12月 19日至今,担任工银瑞信互联网加股票型证券投资基金基金经理;2019年 5月 6日至今,担任工银瑞信科技创新 3年封闭运作混合型证券投资基金基金经理;2020年 4月 7日至今,担任工银瑞信沪港深股票型证券投资基金基金经理。",
+        "resume": "    张继圣先生,23年证券从业经验。先后在友邦证券投资信托股份有限公司担任分析师,在统一证券投资信托股份有限公司担任分析师、专业副总。2018年加入工银瑞信基金管理有限公司,现任权益投资部权益投资能力七中心负责人、基金经理,2018年12月19日至今,担任工银瑞信互联网加股票型证券投资基金基金经理;2019年5月6日至今,担任工银瑞信科技创新3年封闭运作混合型证券投资基金基金经理;2020年4月7日至今,担任工银瑞信沪港深股票型证券投资基金基金经理;2020年5月20日至今,担任工银瑞信科技创新6个月定期开放混合型证券投资基金基金经理;2020年6月18日至今,担任工银瑞信高质量成长混合型证券投资基金基金经理。",
         "achievement_list": [
           {
             "fund_code": "009029",
             "fundsname": "工银瑞信高质量成长混合A",
             "post_date": "2020-06-18",
-            "cp_rate": 16.32
+            "cp_rate": 25.06
           },
           {
             "fund_code": "009030",
             "fundsname": "工银瑞信高质量成长混合C",
             "post_date": "2020-06-18",
-            "cp_rate": 15.89
+            "cp_rate": 24.53
           },
           {
             "fund_code": "009364",
             "fundsname": "工银科技创新6个月定开混合A",
             "post_date": "2020-05-20",
-            "cp_rate": 16
+            "cp_rate": 25.63
           },
           {
             "fund_code": "009365",
             "fundsname": "工银科技创新6个月定开混合C",
             "post_date": "2020-05-20",
-            "cp_rate": 15.5
+            "cp_rate": 25.01
           },
           {
             "fund_code": "002387",
             "fundsname": "工银瑞信沪港深股票A",
             "post_date": "2020-04-07",
-            "cp_rate": 28.8136
+            "cp_rate": 37.1439
           },
           {
             "fund_code": "007512",
             "fundsname": "工银瑞信沪港深股票C",
             "post_date": "2020-04-07",
-            "cp_rate": 28.2972
+            "cp_rate": 36.539
           },
           {
             "fund_code": "007353",
             "fundsname": "工银科技创新3年封闭混合",
             "post_date": "2019-05-06",
-            "cp_rate": 96.71
+            "cp_rate": 115.1
           },
           {
             "fund_code": "001409",
             "fundsname": "工银瑞信互联网加股票",
             "post_date": "2018-12-19",
-            "cp_rate": 140.5405
+            "cp_rate": 164.0927
           }
         ]
       }
@@ -276,8 +288,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

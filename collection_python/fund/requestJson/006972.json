@@ -16,8 +16,8 @@
           "name": "浙商银行",
           "code": "601916",
           "percent": 2.68,
-          "current_price": 4.12,
-          "change_percentage": -0.24,
+          "current_price": 4.05,
+          "change_percentage": -0.74,
           "xq_symbol": "SH601916",
           "xq_url": "https://xueqiu.com/S/SH601916",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "玲珑轮胎",
           "code": "601966",
           "percent": 2.36,
-          "current_price": 33.4,
-          "change_percentage": -2.34,
+          "current_price": 38.68,
+          "change_percentage": 9.98,
           "xq_symbol": "SH601966",
           "xq_url": "https://xueqiu.com/S/SH601966",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "科达利",
           "code": "002850",
           "percent": 1.91,
-          "current_price": 72.98,
-          "change_percentage": 3.36,
+          "current_price": 103.39,
+          "change_percentage": 10,
           "xq_symbol": "SZ002850",
           "xq_url": "https://xueqiu.com/S/SZ002850",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "中国平安",
           "code": "601318",
           "percent": 1.6,
-          "current_price": 88.05,
-          "change_percentage": -2.58,
+          "current_price": 85.18,
+          "change_percentage": -2.07,
           "xq_symbol": "SH601318",
           "xq_url": "https://xueqiu.com/S/SH601318",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "杭州银行",
           "code": "600926",
           "percent": 1.59,
-          "current_price": 14.32,
-          "change_percentage": 0.07,
+          "current_price": 14.02,
+          "change_percentage": -6.03,
           "xq_symbol": "SH600926",
           "xq_url": "https://xueqiu.com/S/SH600926",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "中科电气",
           "code": "300035",
           "percent": 1.17,
-          "current_price": 12.36,
-          "change_percentage": 2.49,
+          "current_price": 13.44,
+          "change_percentage": 9.71,
           "xq_symbol": "SZ300035",
           "xq_url": "https://xueqiu.com/S/SZ300035",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "当升科技",
           "code": "300073",
           "percent": 1.08,
-          "current_price": 52.55,
-          "change_percentage": 7.86,
+          "current_price": 68.94,
+          "change_percentage": 6.31,
           "xq_symbol": "SZ300073",
           "xq_url": "https://xueqiu.com/S/SZ300073",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "博汇纸业",
           "code": "600966",
           "percent": 1.08,
-          "current_price": 13.91,
-          "change_percentage": 0.36,
+          "current_price": 14.93,
+          "change_percentage": -0.67,
           "xq_symbol": "SH600966",
           "xq_url": "https://xueqiu.com/S/SH600966",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "中国巨石",
           "code": "600176",
           "percent": 1.08,
-          "current_price": 16.68,
-          "change_percentage": 0,
+          "current_price": 20.39,
+          "change_percentage": 2.15,
           "xq_symbol": "SH600176",
           "xq_url": "https://xueqiu.com/S/SH600176",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "双汇发展",
           "code": "000895",
           "percent": 0.96,
-          "current_price": 48.4,
-          "change_percentage": 1.4,
+          "current_price": 48.01,
+          "change_percentage": 2.28,
           "xq_symbol": "SZ000895",
           "xq_url": "https://xueqiu.com/S/SZ000895",
           "amarket": true
@@ -260,55 +260,55 @@
             "fund_code": "007735",
             "fundsname": "金鹰民安回报一年定期开放混合C",
             "post_date": "2019-08-29",
-            "cp_rate": 28.63
+            "cp_rate": 32.88
           },
           {
             "fund_code": "006972",
             "fundsname": "金鹰民安回报一年定期开放混合A",
             "post_date": "2019-08-29",
-            "cp_rate": 29.28
+            "cp_rate": 33.6
           },
           {
             "fund_code": "007233",
             "fundsname": "金鹰鑫益灵活配置混合E",
             "post_date": "2019-04-10",
-            "cp_rate": 13.14
+            "cp_rate": 14.45
           },
           {
             "fund_code": "002490",
             "fundsname": "金鹰元祺信用债债券",
             "post_date": "2018-06-02",
-            "cp_rate": 21.3507
+            "cp_rate": 25.2494
           },
           {
             "fund_code": "004265",
             "fundsname": "金鹰民丰回报混合",
             "post_date": "2018-06-02",
-            "cp_rate": 32.9611
+            "cp_rate": 37.5061
           },
           {
             "fund_code": "210014",
             "fundsname": "金鹰元丰债券",
             "post_date": "2018-05-17",
-            "cp_rate": 41.3333
+            "cp_rate": 47.2904
           },
           {
             "fund_code": "002513",
             "fundsname": "金鹰元安混合C",
             "post_date": "2018-05-17",
-            "cp_rate": 43.7027
+            "cp_rate": 45.9944
           },
           {
             "fund_code": "000110",
             "fundsname": "金鹰元安混合A",
             "post_date": "2018-05-17",
-            "cp_rate": 39.4142
+            "cp_rate": 41.6428
           },
           {
             "fund_code": "004267",
             "fundsname": "金鹰持久增利债券(LOF)E",
             "post_date": "2018-05-17",
-            "cp_rate": 34.9154
+            "cp_rate": 38.9474
           },
           {
             "fund_code": "003733",
@@ -321,19 +321,19 @@
             "fund_code": "003485",
             "fundsname": "金鹰鑫益灵活配置混合C",
             "post_date": "2018-05-17",
-            "cp_rate": 16.235
+            "cp_rate": 17.6088
           },
           {
             "fund_code": "003484",
             "fundsname": "金鹰鑫益灵活配置混合A",
             "post_date": "2018-05-17",
-            "cp_rate": 16.2233
+            "cp_rate": 17.6
           },
           {
             "fund_code": "162105",
             "fundsname": "金鹰持久增利债券(LOF)C",
             "post_date": "2018-05-17",
-            "cp_rate": 32.5648
+            "cp_rate": 36.485
           },
           {
             "fund_code": "150078",

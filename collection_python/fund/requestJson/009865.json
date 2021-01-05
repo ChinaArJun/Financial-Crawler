@@ -32,37 +32,37 @@
             "fund_code": "009865",
             "fundsname": "招商景气优选股票C",
             "post_date": "2020-11-18",
-            "cp_rate": 0.07
+            "cp_rate": 3.88
           },
           {
             "fund_code": "009864",
             "fundsname": "招商景气优选股票A",
             "post_date": "2020-11-18",
-            "cp_rate": 0.1
+            "cp_rate": 3.97
           },
           {
             "fund_code": "008656",
             "fundsname": "招商科技创新混合C",
             "post_date": "2020-02-12",
-            "cp_rate": 14.44
+            "cp_rate": 23.97
           },
           {
             "fund_code": "008655",
             "fundsname": "招商科技创新混合A",
             "post_date": "2020-02-12",
-            "cp_rate": 15.2
+            "cp_rate": 24.85
           },
           {
             "fund_code": "008076",
             "fundsname": "招商核心优选C",
             "post_date": "2019-12-17",
-            "cp_rate": 36.5
+            "cp_rate": 47.22
           },
           {
             "fund_code": "008075",
             "fundsname": "招商核心优选A",
             "post_date": "2019-12-17",
-            "cp_rate": 37.57
+            "cp_rate": 48.46
           },
           {
             "fund_code": "002582",
@@ -96,13 +96,13 @@
             "fund_code": "006365",
             "fundsname": "招商丰韵混合C",
             "post_date": "2019-03-19",
-            "cp_rate": 100.77
+            "cp_rate": 122.82
           },
           {
             "fund_code": "006364",
             "fundsname": "招商丰韵混合A",
             "post_date": "2019-03-19",
-            "cp_rate": 103.52
+            "cp_rate": 125.99
           },
           {
             "fund_code": "004784",
@@ -136,7 +136,7 @@
             "fund_code": "217005",
             "fundsname": "招商先锋混合",
             "post_date": "2015-01-14",
-            "cp_rate": 155.518
+            "cp_rate": 174.1333
           }
         ]
       }
@@ -147,8 +147,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

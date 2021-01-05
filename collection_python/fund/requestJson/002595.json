@@ -15,8 +15,8 @@
           "name": "鸿远电子",
           "code": "603267",
           "percent": 6.83,
-          "current_price": 109.5,
-          "change_percentage": 1.01,
+          "current_price": 141.64,
+          "change_percentage": 10,
           "xq_symbol": "SH603267",
           "xq_url": "https://xueqiu.com/S/SH603267",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "菲利华",
           "code": "300395",
           "percent": 4.13,
-          "current_price": 49.35,
-          "change_percentage": -0.1,
+          "current_price": 62.26,
+          "change_percentage": 4.06,
           "xq_symbol": "SZ300395",
           "xq_url": "https://xueqiu.com/S/SZ300395",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "亿纬锂能",
           "code": "300014",
           "percent": 4.03,
-          "current_price": 63.71,
-          "change_percentage": 4.17,
+          "current_price": 93.49,
+          "change_percentage": 14.71,
           "xq_symbol": "SZ300014",
           "xq_url": "https://xueqiu.com/S/SZ300014",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 3.86,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "*ST湘电",
           "code": "600416",
           "percent": 3.79,
-          "current_price": 17.75,
-          "change_percentage": -0.73,
+          "current_price": 21.55,
+          "change_percentage": 2.72,
           "xq_symbol": "SH600416",
           "xq_url": "https://xueqiu.com/S/SH600416",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "明阳智能",
           "code": "601615",
           "percent": 3.34,
-          "current_price": 17.21,
-          "change_percentage": -0.81,
+          "current_price": 20,
+          "change_percentage": 5.37,
           "xq_symbol": "SH601615",
           "xq_url": "https://xueqiu.com/S/SH601615",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "得邦照明",
           "code": "603303",
           "percent": 3.26,
-          "current_price": 12.02,
-          "change_percentage": 0.08,
+          "current_price": 11.55,
+          "change_percentage": 8.76,
           "xq_symbol": "SH603303",
           "xq_url": "https://xueqiu.com/S/SH603303",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "芒果超媒",
           "code": "300413",
           "percent": 3.25,
-          "current_price": 65.95,
-          "change_percentage": -1.54,
+          "current_price": 72.88,
+          "change_percentage": 0.52,
           "xq_symbol": "SZ300413",
           "xq_url": "https://xueqiu.com/S/SZ300413",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "雪龙集团",
           "code": "603949",
           "percent": 2.98,
-          "current_price": 16.9,
-          "change_percentage": 0.9,
+          "current_price": 15.32,
+          "change_percentage": 1.26,
           "xq_symbol": "SH603949",
           "xq_url": "https://xueqiu.com/S/SH603949",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "领益智造",
           "code": "002600",
           "percent": 2.94,
-          "current_price": 14.36,
-          "change_percentage": 0,
+          "current_price": 11.77,
+          "change_percentage": -1.83,
           "xq_symbol": "SZ002600",
           "xq_url": "https://xueqiu.com/S/SZ002600",
           "amarket": true
@@ -178,31 +178,43 @@
         "name": "兰乔",
         "resume": "    兰乔先生,硕士。2010年从清华大学硕士研究生毕业后加入博时基金管理有限公司。\n    历任研究员、高级研究员、资深研究员、基金经理助理、资本品组组长、博时回报灵活配置混合型证券投资基金(2015年11月30日-2017年1月10日)、博时卓越品牌混合型证券投资基金(LOF)(2015年12月23日-2017年1月10日)的基金经理。现任博时工业4.0主题股票型证券投资基金(2016年7月4日—至今)、博时军工主题股票型证券投资基金(2017年7月4日—至今)、博时产业新趋势灵活配置混合型证券投资基金(2020年2月17日—至今)的基金经理。",
         "college": "清华大学",
-        "work_year": "10",
+        "work_year": "11",
         "achievement_list": [
+          {
+            "fund_code": "010665",
+            "fundsname": "博时高端装备混合A",
+            "post_date": "2020-12-08",
+            "cp_rate": 6.03
+          },
+          {
+            "fund_code": "010666",
+            "fundsname": "博时高端装备混合C",
+            "post_date": "2020-12-08",
+            "cp_rate": 5.99
+          },
           {
             "fund_code": "008866",
             "fundsname": "博时产业新趋势混合A",
             "post_date": "2020-02-17",
-            "cp_rate": 12.33
+            "cp_rate": 20.96
           },
           {
             "fund_code": "008867",
             "fundsname": "博时产业新趋势混合C",
             "post_date": "2020-02-17",
-            "cp_rate": 11.79
+            "cp_rate": 20.33
           },
           {
             "fund_code": "004698",
             "fundsname": "博时军工主题股票",
             "post_date": "2017-07-04",
-            "cp_rate": 74.7
+            "cp_rate": 102.9
           },
           {
             "fund_code": "002595",
             "fundsname": "博时工业4.0主题股票",
             "post_date": "2016-07-04",
-            "cp_rate": 107.1845
+            "cp_rate": 129.4175
           },
           {
             "fund_code": "160512",
@@ -227,8 +239,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

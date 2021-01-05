@@ -102,25 +102,25 @@
         "name": "李炳智",
         "resume": "    李炳智先生,中国国籍,南开大学金融学本科学位。历任天津信唐货币经纪有限公司货币经纪人,中航证券投资经理助理、交易员。2016 年 6 月加入前海开源基金管理有限公司,现任前海开源嘉鑫灵活配置混合型证券投资基金基金经理、前海开源鼎瑞债券型证券投资基金基金经理、前海开源瑞和债券型证券投资基金基金经理、前海开源中债3-5年国开行债券指数证券投资基金基金经理、前海开源中债 1-3 年国开行债券指数证券投资基金基金经理、前海开源鼎康债券型证券投资基金基金经理、前海开源景鑫灵活配置混合型证券投资基金基金经理、前海开源惠泽两年定期开放债券型发起式证券投资基金基金经理。李炳智先生具备基金从业资格。",
         "college": "南开大学",
-        "work_year": "7",
+        "work_year": "8",
         "achievement_list": [
           {
             "fund_code": "005302",
             "fundsname": "前海开源弘泽债券C",
             "post_date": "2020-09-01",
-            "cp_rate": -5.5478
+            "cp_rate": -6.1405
           },
           {
             "fund_code": "005301",
             "fundsname": "前海开源弘泽债券A",
             "post_date": "2020-09-01",
-            "cp_rate": -5.4449
+            "cp_rate": -6.0149
           },
           {
             "fund_code": "009894",
             "fundsname": "前海开源惠盈39个月定开债券",
             "post_date": "2020-08-24",
-            "cp_rate": 0.8
+            "cp_rate": 1.06
           },
           {
             "fund_code": "005301",
@@ -140,67 +140,67 @@
             "fund_code": "009788",
             "fundsname": "前海开源惠泽两年定开债券",
             "post_date": "2020-07-07",
-            "cp_rate": 0.9
+            "cp_rate": 1.1
           },
           {
             "fund_code": "006090",
             "fundsname": "前海开源鼎康债券A",
             "post_date": "2019-12-05",
-            "cp_rate": 2.9293
+            "cp_rate": 3.4864
           },
           {
             "fund_code": "006091",
             "fundsname": "前海开源鼎康债券C",
             "post_date": "2019-12-05",
-            "cp_rate": 2.7084
+            "cp_rate": 3.2482
           },
           {
             "fund_code": "007766",
             "fundsname": "前海开源1-3年国开债C",
             "post_date": "2019-08-28",
-            "cp_rate": 3.1097
+            "cp_rate": 3.8296
           },
           {
             "fund_code": "007765",
             "fundsname": "前海开源1-3年国开债A",
             "post_date": "2019-08-28",
-            "cp_rate": 3.1597
+            "cp_rate": 3.8796
           },
           {
             "fund_code": "007764",
             "fundsname": "前海开源3-5年国开债C",
             "post_date": "2019-08-26",
-            "cp_rate": 2.79
+            "cp_rate": 3.51
           },
           {
             "fund_code": "007763",
             "fundsname": "前海开源3-5年国开债A",
             "post_date": "2019-08-26",
-            "cp_rate": 2.95
+            "cp_rate": 4.13
           },
           {
             "fund_code": "003361",
             "fundsname": "前海开源瑞和债券C",
             "post_date": "2018-09-26",
-            "cp_rate": 10.8506
+            "cp_rate": 12.7663
           },
           {
             "fund_code": "003360",
             "fundsname": "前海开源瑞和债券A",
             "post_date": "2018-09-26",
-            "cp_rate": 11.8402
+            "cp_rate": 13.7993
           },
           {
             "fund_code": "003168",
             "fundsname": "前海开源鼎瑞债券C",
             "post_date": "2018-09-26",
-            "cp_rate": 10.2274
+            "cp_rate": 12.1777
           },
           {
             "fund_code": "003167",
             "fundsname": "前海开源鼎瑞债券A",
             "post_date": "2018-09-26",
-            "cp_rate": 11.2202
+            "cp_rate": 13.2113
           },
           {
             "fund_code": "005541",
@@ -234,13 +234,13 @@
             "fund_code": "001770",
             "fundsname": "前海开源嘉鑫混合C",
             "post_date": "2017-01-25",
-            "cp_rate": 38.1555
+            "cp_rate": 40.1396
           },
           {
             "fund_code": "001765",
             "fundsname": "前海开源嘉鑫混合A",
             "post_date": "2017-01-25",
-            "cp_rate": 39.0728
+            "cp_rate": 41.1665
           }
         ]
       }

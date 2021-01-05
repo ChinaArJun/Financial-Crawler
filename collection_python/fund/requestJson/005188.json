@@ -16,8 +16,8 @@
           "name": "华海药业",
           "code": "600521",
           "percent": 1.83,
-          "current_price": 35.36,
-          "change_percentage": 2.26,
+          "current_price": 31.41,
+          "change_percentage": -7.1,
           "xq_symbol": "SH600521",
           "xq_url": "https://xueqiu.com/S/SH600521",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "吉比特",
           "code": "603444",
           "percent": 1.78,
-          "current_price": 410.3,
-          "change_percentage": 2.32,
+          "current_price": 437.99,
+          "change_percentage": 2.81,
           "xq_symbol": "SH603444",
           "xq_url": "https://xueqiu.com/S/SH603444",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "安琪酵母",
           "code": "600298",
           "percent": 1.76,
-          "current_price": 50.15,
-          "change_percentage": -0.89,
+          "current_price": 53,
+          "change_percentage": 3.78,
           "xq_symbol": "SH600298",
           "xq_url": "https://xueqiu.com/S/SH600298",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "恒力石化",
           "code": "600346",
           "percent": 1.72,
-          "current_price": 25.16,
-          "change_percentage": -2.1,
+          "current_price": 28.45,
+          "change_percentage": 1.72,
           "xq_symbol": "SH600346",
           "xq_url": "https://xueqiu.com/S/SH600346",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "长春高新",
           "code": "000661",
           "percent": 1.72,
-          "current_price": 388,
-          "change_percentage": 0.19,
+          "current_price": 473.45,
+          "change_percentage": 5.47,
           "xq_symbol": "SZ000661",
           "xq_url": "https://xueqiu.com/S/SZ000661",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "日月股份",
           "code": "603218",
           "percent": 1.69,
-          "current_price": 26.4,
-          "change_percentage": -0.94,
+          "current_price": 32.46,
+          "change_percentage": 7.31,
           "xq_symbol": "SH603218",
           "xq_url": "https://xueqiu.com/S/SH603218",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "鹏鼎控股",
           "code": "002938",
           "percent": 1.66,
-          "current_price": 54.51,
-          "change_percentage": -2.14,
+          "current_price": 47.88,
+          "change_percentage": -3.6,
           "xq_symbol": "SZ002938",
           "xq_url": "https://xueqiu.com/S/SZ002938",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "大参林",
           "code": "603233",
           "percent": 1.66,
-          "current_price": 87.64,
-          "change_percentage": 0.62,
+          "current_price": 76.99,
+          "change_percentage": -1.74,
           "xq_symbol": "SH603233",
           "xq_url": "https://xueqiu.com/S/SH603233",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "洽洽食品",
           "code": "002557",
           "percent": 1.66,
-          "current_price": 58.61,
-          "change_percentage": -0.26,
+          "current_price": 55.55,
+          "change_percentage": 3.16,
           "xq_symbol": "SZ002557",
           "xq_url": "https://xueqiu.com/S/SZ002557",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "晶盛机电",
           "code": "300316",
           "percent": 1.65,
-          "current_price": 29.1,
-          "change_percentage": -2.51,
+          "current_price": 32.3,
+          "change_percentage": 7.38,
           "xq_symbol": "SZ300316",
           "xq_url": "https://xueqiu.com/S/SZ300316",
           "amarket": true
@@ -181,37 +181,37 @@
             "fund_code": "005189",
             "fundsname": "海富通量化前锋股票A",
             "post_date": "2020-07-03",
-            "cp_rate": 14.2907
+            "cp_rate": 18.5154
           },
           {
             "fund_code": "005188",
             "fundsname": "海富通量化前锋股票C",
             "post_date": "2020-07-03",
-            "cp_rate": 14.0898
+            "cp_rate": 18.2736
           },
           {
             "fund_code": "519034",
             "fundsname": "海富通中证500指数增强A",
             "post_date": "2020-07-03",
-            "cp_rate": 11.589
+            "cp_rate": 13.5215
           },
           {
             "fund_code": "009004",
             "fundsname": "海富通中证500指数增强C",
             "post_date": "2020-07-03",
-            "cp_rate": 11.4641
+            "cp_rate": 13.3737
           },
           {
             "fund_code": "510120",
             "fundsname": "海富通上证非周期ETF",
             "post_date": "2020-06-05",
-            "cp_rate": 26.3839
+            "cp_rate": 36.1035
           },
           {
             "fund_code": "510110",
             "fundsname": "海富通上证周期ETF",
             "post_date": "2020-06-05",
-            "cp_rate": 20.4779
+            "cp_rate": 19.9157
           }
         ]
       }

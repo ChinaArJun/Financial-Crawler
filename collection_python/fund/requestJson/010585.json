@@ -6,9 +6,9 @@
       "subscribe_rate": "0",
       "declare_rate": "1.50",
       "withdraw_rate": "1.500",
-      "discount": "1",
+      "discount": "0.1",
       "subscribe_discount": "1",
-      "declare_discount": "1",
+      "declare_discount": "0.1",
       "declare_rate_table": [
         {
           "name": "买入金额<100万",
@@ -66,31 +66,32 @@
             "fund_code": "010585",
             "fundsname": "创金合信医药消费股票A",
             "post_date": "2020-12-03",
-            "cp_rate": 0.01
+            "cp_rate": 4.41
           },
           {
             "fund_code": "010586",
             "fundsname": "创金合信医药消费股票C",
             "post_date": "2020-12-03",
-            "cp_rate": 0.01
+            "cp_rate": 4.37
           },
           {
             "fund_code": "001662",
             "fundsname": "创金合信沪港深研究精选灵活混合",
             "post_date": "2019-09-25",
-            "cp_rate": 53.1915
+            "resi_date": "2020-12-18",
+            "cp_rate": 59.0909
           },
           {
             "fund_code": "003230",
             "fundsname": "创金合信医疗保健股票A",
             "post_date": "2018-10-31",
-            "cp_rate": 178.56
+            "cp_rate": 197.23
           },
           {
             "fund_code": "003231",
             "fundsname": "创金合信医疗保健股票C",
             "post_date": "2018-10-31",
-            "cp_rate": 175.65
+            "cp_rate": 193.99
           }
         ]
       }
@@ -100,9 +101,9 @@
       "buy_confirm_date": 1,
       "buy_query_date": 1,
       "sale_confirm_date": 1,
-      "sale_query_date": 3,
+      "sale_query_date": 2,
       "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 3
     }
   },
   "result_code": 0

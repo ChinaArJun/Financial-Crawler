@@ -15,8 +15,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 7.41,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "智飞生物",
           "code": "300122",
           "percent": 6.36,
-          "current_price": 139.38,
-          "change_percentage": -0.39,
+          "current_price": 143.22,
+          "change_percentage": -3.17,
           "xq_symbol": "SZ300122",
           "xq_url": "https://xueqiu.com/S/SZ300122",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "长春高新",
           "code": "000661",
           "percent": 5.62,
-          "current_price": 388,
-          "change_percentage": 0.19,
+          "current_price": 473.45,
+          "change_percentage": 5.47,
           "xq_symbol": "SZ000661",
           "xq_url": "https://xueqiu.com/S/SZ000661",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "健帆生物",
           "code": "300529",
           "percent": 5.3,
-          "current_price": 68.76,
-          "change_percentage": -0.28,
+          "current_price": 72.45,
+          "change_percentage": 6.83,
           "xq_symbol": "SZ300529",
           "xq_url": "https://xueqiu.com/S/SZ300529",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "康泰生物",
           "code": "300601",
           "percent": 5.26,
-          "current_price": 158.41,
-          "change_percentage": -1.36,
+          "current_price": 165.98,
+          "change_percentage": -4.88,
           "xq_symbol": "SZ300601",
           "xq_url": "https://xueqiu.com/S/SZ300601",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "恒瑞医药",
           "code": "600276",
           "percent": 4.75,
-          "current_price": 90.07,
-          "change_percentage": 0.21,
+          "current_price": 111.2,
+          "change_percentage": -0.23,
           "xq_symbol": "SH600276",
           "xq_url": "https://xueqiu.com/S/SH600276",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "药明康德",
           "code": "603259",
           "percent": 4.63,
-          "current_price": 110.9,
-          "change_percentage": -0.12,
+          "current_price": 137.11,
+          "change_percentage": 1.77,
           "xq_symbol": "SH603259",
           "xq_url": "https://xueqiu.com/S/SH603259",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "英科医疗",
           "code": "300677",
           "percent": 4.59,
-          "current_price": 141,
-          "change_percentage": 1.49,
+          "current_price": 162.26,
+          "change_percentage": -3.5,
           "xq_symbol": "SZ300677",
           "xq_url": "https://xueqiu.com/S/SZ300677",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "九洲药业",
           "code": "603456",
           "percent": 4.24,
-          "current_price": 32.24,
-          "change_percentage": 1.9,
+          "current_price": 35,
+          "change_percentage": -2.23,
           "xq_symbol": "SH603456",
           "xq_url": "https://xueqiu.com/S/SH603456",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "博腾股份",
           "code": "300363",
           "percent": 3.92,
-          "current_price": 34.7,
-          "change_percentage": -0.14,
+          "current_price": 37.12,
+          "change_percentage": 1.64,
           "xq_symbol": "SZ300363",
           "xq_url": "https://xueqiu.com/S/SZ300363",
           "amarket": true
@@ -177,25 +177,25 @@
       {
         "name": "赵蓓",
         "resume": "    赵蓓女士,12年证券从业经验;曾在中再资产管理股份有限公司担任投资经理助理。\n    2010年加入工银瑞信,现任研究部副总监、医疗保健研究团队负责人,2014年11月18日至今,担任工银瑞信医疗保健行业股票型证券投资基金基金经理;2015年4月28日至今,担任工银瑞信养老产业股票型证券投资基金基金经理;2016年2月3日至今,担任工银瑞信前沿医疗股票型证券投资基金基金经理;2018年7月30日至2019年12月23日,担任工银瑞信医药健康行业股票型证券投资基金基金经理。",
-        "work_year": "12",
+        "work_year": "13",
         "achievement_list": [
           {
             "fund_code": "010685",
             "fundsname": "工银瑞信前沿医疗股票C",
             "post_date": "2020-11-23",
-            "cp_rate": 7.6223
+            "cp_rate": 19.6989
           },
           {
             "fund_code": "009364",
             "fundsname": "工银科技创新6个月定开混合A",
             "post_date": "2020-05-20",
-            "cp_rate": 16
+            "cp_rate": 25.63
           },
           {
             "fund_code": "009365",
             "fundsname": "工银科技创新6个月定开混合C",
             "post_date": "2020-05-20",
-            "cp_rate": 15.5
+            "cp_rate": 25.01
           },
           {
             "fund_code": "006002",
@@ -215,19 +215,19 @@
             "fund_code": "001717",
             "fundsname": "工银瑞信前沿医疗股票A",
             "post_date": "2016-02-03",
-            "cp_rate": 243.1
+            "cp_rate": 281.6
           },
           {
             "fund_code": "001171",
             "fundsname": "工银养老产业股票",
             "post_date": "2015-04-28",
-            "cp_rate": 64.1077
+            "cp_rate": 80.7577
           },
           {
             "fund_code": "000831",
             "fundsname": "工银瑞信医疗保健行业股票",
             "post_date": "2014-11-18",
-            "cp_rate": 198.9
+            "cp_rate": 233.2
           }
         ]
       }

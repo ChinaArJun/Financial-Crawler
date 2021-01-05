@@ -16,8 +16,8 @@
           "name": "芒果超媒",
           "code": "300413",
           "percent": 7.56,
-          "current_price": 65.95,
-          "change_percentage": -1.54,
+          "current_price": 72.88,
+          "change_percentage": 0.52,
           "xq_symbol": "SZ300413",
           "xq_url": "https://xueqiu.com/S/SZ300413",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "分众传媒",
           "code": "002027",
           "percent": 7.1,
-          "current_price": 10.36,
-          "change_percentage": 0.58,
+          "current_price": 10.04,
+          "change_percentage": 1.72,
           "xq_symbol": "SZ002027",
           "xq_url": "https://xueqiu.com/S/SZ002027",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 6.89,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "长春高新",
           "code": "000661",
           "percent": 4.81,
-          "current_price": 388,
-          "change_percentage": 0.19,
+          "current_price": 473.45,
+          "change_percentage": 5.47,
           "xq_symbol": "SZ000661",
           "xq_url": "https://xueqiu.com/S/SZ000661",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "华兰生物",
           "code": "002007",
           "percent": 4.05,
-          "current_price": 43.73,
-          "change_percentage": -3.19,
+          "current_price": 41.85,
+          "change_percentage": -0.92,
           "xq_symbol": "SZ002007",
           "xq_url": "https://xueqiu.com/S/SZ002007",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "牧原股份",
           "code": "002714",
           "percent": 4.03,
-          "current_price": 78.22,
-          "change_percentage": -0.7,
+          "current_price": 84.81,
+          "change_percentage": 10,
           "xq_symbol": "SZ002714",
           "xq_url": "https://xueqiu.com/S/SZ002714",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "南极电商",
           "code": "002127",
           "percent": 3.75,
-          "current_price": 15.72,
-          "change_percentage": -2.84,
+          "current_price": 12.31,
+          "change_percentage": -10.01,
           "xq_symbol": "SZ002127",
           "xq_url": "https://xueqiu.com/S/SZ002127",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "吉比特",
           "code": "603444",
           "percent": 3.48,
-          "current_price": 410.3,
-          "change_percentage": 2.32,
+          "current_price": 437.99,
+          "change_percentage": 2.81,
           "xq_symbol": "SH603444",
           "xq_url": "https://xueqiu.com/S/SH603444",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 3.36,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "金山办公",
           "code": "688111",
           "percent": 3,
-          "current_price": 349.5,
-          "change_percentage": -2.75,
+          "current_price": 420,
+          "change_percentage": 2.19,
           "xq_symbol": "SH688111",
           "xq_url": "https://xueqiu.com/S/SH688111",
           "amarket": true
@@ -225,31 +225,31 @@
             "fund_code": "009781",
             "fundsname": "南方产业优势两年混合C",
             "post_date": "2020-08-14",
-            "cp_rate": 1.22
+            "cp_rate": 4.66
           },
           {
             "fund_code": "008546",
             "fundsname": "南方产业优势两年混合A",
             "post_date": "2020-08-14",
-            "cp_rate": 1.41
+            "cp_rate": 4.9
           },
           {
             "fund_code": "009153",
             "fundsname": "南方瑞盛三年混合C",
             "post_date": "2020-04-17",
-            "cp_rate": 20.08
+            "cp_rate": 24.88
           },
           {
             "fund_code": "009152",
             "fundsname": "南方瑞盛三年混合A",
             "post_date": "2020-04-17",
-            "cp_rate": 20.16
+            "cp_rate": 24.97
           },
           {
             "fund_code": "000955",
             "fundsname": "南方产业活力股票",
             "post_date": "2019-03-15",
-            "cp_rate": 83.9836
+            "cp_rate": 93.0185
           },
           {
             "fund_code": "160142",
@@ -275,13 +275,13 @@
             "fund_code": "202007",
             "fundsname": "南方隆元",
             "post_date": "2015-07-24",
-            "cp_rate": 80.8926
+            "cp_rate": 89.5009
           },
           {
             "fund_code": "160133",
             "fundsname": "南方天元(LOF)",
             "post_date": "2015-06-16",
-            "cp_rate": 85.6277
+            "cp_rate": 94.8709
           },
           {
             "fund_code": "150050",

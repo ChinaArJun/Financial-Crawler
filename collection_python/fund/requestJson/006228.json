@@ -15,8 +15,8 @@
           "name": "凯莱英",
           "code": "002821",
           "percent": 6.88,
-          "current_price": 274,
-          "change_percentage": 1.64,
+          "current_price": 297.92,
+          "change_percentage": -0.41,
           "xq_symbol": "SZ002821",
           "xq_url": "https://xueqiu.com/S/SZ002821",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "爱尔眼科",
           "code": "300015",
           "percent": 6.74,
-          "current_price": 66.63,
-          "change_percentage": -0.25,
+          "current_price": 68.22,
+          "change_percentage": -8.91,
           "xq_symbol": "SZ300015",
           "xq_url": "https://xueqiu.com/S/SZ300015",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "药明康德",
           "code": "603259",
           "percent": 6.02,
-          "current_price": 110.9,
-          "change_percentage": -0.12,
+          "current_price": 137.11,
+          "change_percentage": 1.77,
           "xq_symbol": "SH603259",
           "xq_url": "https://xueqiu.com/S/SH603259",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "恒瑞医药",
           "code": "600276",
           "percent": 5.35,
-          "current_price": 90.07,
-          "change_percentage": 0.21,
+          "current_price": 111.2,
+          "change_percentage": -0.23,
           "xq_symbol": "SH600276",
           "xq_url": "https://xueqiu.com/S/SH600276",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "智飞生物",
           "code": "300122",
           "percent": 5.26,
-          "current_price": 139.38,
-          "change_percentage": -0.39,
+          "current_price": 143.22,
+          "change_percentage": -3.17,
           "xq_symbol": "SZ300122",
           "xq_url": "https://xueqiu.com/S/SZ300122",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "长春高新",
           "code": "000661",
           "percent": 5.08,
-          "current_price": 388,
-          "change_percentage": 0.19,
+          "current_price": 473.45,
+          "change_percentage": 5.47,
           "xq_symbol": "SZ000661",
           "xq_url": "https://xueqiu.com/S/SZ000661",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "英科医疗",
           "code": "300677",
           "percent": 4.46,
-          "current_price": 141,
-          "change_percentage": 1.49,
+          "current_price": 162.26,
+          "change_percentage": -3.5,
           "xq_symbol": "SZ300677",
           "xq_url": "https://xueqiu.com/S/SZ300677",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "泰格医药",
           "code": "300347",
           "percent": 4.46,
-          "current_price": 135.45,
-          "change_percentage": 1.84,
+          "current_price": 166.82,
+          "change_percentage": 3.22,
           "xq_symbol": "SZ300347",
           "xq_url": "https://xueqiu.com/S/SZ300347",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "通策医疗",
           "code": "600763",
           "percent": 4.21,
-          "current_price": 233.45,
-          "change_percentage": 0.45,
+          "current_price": 268,
+          "change_percentage": -3.08,
           "xq_symbol": "SH600763",
           "xq_url": "https://xueqiu.com/S/SH600763",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "华海药业",
           "code": "600521",
           "percent": 4.13,
-          "current_price": 35.36,
-          "change_percentage": 2.26,
+          "current_price": 31.41,
+          "change_percentage": -7.1,
           "xq_symbol": "SH600521",
           "xq_url": "https://xueqiu.com/S/SH600521",
           "amarket": true
@@ -172,51 +172,51 @@
     "manager_list": [
       {
         "name": "葛兰",
-        "resume": "    清华大学本科、美国西北大学生物医学工程专业博士,5年以上证券及基金从业经验。历任国金证券股份有限公司研究所研究员,民生加银基金管理有限公司研究员。2014年10月加入中欧基金管理有限公司,历任任研究员、中欧明睿新起点混合型证券投资基金基金经理,中欧瑾泉灵活配置混合型证券投资基金基金经理、中欧瑾源灵活配置混合型证券投资基金基金经理、中欧瑾和灵活配置混合型证券投资基金基金经理,现任中欧医疗健康混合型证券投资基金基金经理。",
+        "resume": "    清华大学本科、美国西北大学生物医学工程专业博士,5年以上证券及基金从业经验。历任国金证券股份有限公司研究所研究员,民生加银基金管理有限公司研究员。2014年10月加入中欧基金管理有限公司,历任任研究员、中欧医疗健康混合型证券投资基金(2016年09月29日)、中欧瑾和灵活配置混合型证券投资基金 (2015年04月13日-2016年04月22日)、中欧瑾源灵活配置混合型证券投资基金 (2015年03月31日-2016年04月22日)、中欧瑾泉灵活配置混合型证券投资基金( 2015年03月16日-2016年04月22日)、中欧明睿新起点混合型证券投资基金( 2015年01月29日-2016年04月22日)、中欧明睿新起点混合型证券投资基金( 2018年07月12日)、中欧医疗创新股票型证券投资基金( 2019年02月28日)、中欧阿尔法混合型证券投资基金 (2020年08月20日)",
         "college": "美国西北大学",
-        "work_year": "8",
+        "work_year": "9",
         "achievement_list": [
           {
             "fund_code": "009777",
             "fundsname": "中欧阿尔法混合C",
             "post_date": "2020-08-20",
-            "cp_rate": 2.42
+            "cp_rate": 14.81
           },
           {
             "fund_code": "009776",
             "fundsname": "中欧阿尔法混合A",
             "post_date": "2020-08-20",
-            "cp_rate": 2.57
+            "cp_rate": 15.01
           },
           {
             "fund_code": "006229",
             "fundsname": "中欧医疗创新股票C",
             "post_date": "2019-02-28",
-            "cp_rate": 124.71
+            "cp_rate": 150.51
           },
           {
             "fund_code": "006228",
             "fundsname": "中欧医疗创新股票A",
             "post_date": "2019-02-28",
-            "cp_rate": 127.76
+            "cp_rate": 154.04
           },
           {
             "fund_code": "001000",
             "fundsname": "中欧明睿新起点混合",
             "post_date": "2018-07-12",
-            "cp_rate": 84.0535
+            "cp_rate": 113.9918
           },
           {
             "fund_code": "003095",
             "fundsname": "中欧医疗健康混合A",
             "post_date": "2016-09-29",
-            "cp_rate": 224.22
+            "cp_rate": 263.22
           },
           {
             "fund_code": "003096",
             "fundsname": "中欧医疗健康混合C",
             "post_date": "2016-09-29",
-            "cp_rate": 221.73
+            "cp_rate": 260.31
           },
           {
             "fund_code": "001173",
@@ -269,8 +269,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 4,
-      "all_buy_days": 2,
-      "all_sale_days": 5
+      "all_sale_days": 5,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

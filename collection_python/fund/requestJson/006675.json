@@ -47,8 +47,8 @@
           "name": "牧原股份",
           "code": "002714",
           "percent": 9.18,
-          "current_price": 78.22,
-          "change_percentage": -0.7,
+          "current_price": 84.81,
+          "change_percentage": 10,
           "xq_symbol": "SZ002714",
           "xq_url": "https://xueqiu.com/S/SZ002714",
           "amarket": true
@@ -57,8 +57,8 @@
           "name": "新希望",
           "code": "000876",
           "percent": 9.1,
-          "current_price": 26.59,
-          "change_percentage": -1.3,
+          "current_price": 24.64,
+          "change_percentage": 10,
           "xq_symbol": "SZ000876",
           "xq_url": "https://xueqiu.com/S/SZ000876",
           "amarket": true
@@ -67,8 +67,8 @@
           "name": "五粮液",
           "code": "000858",
           "percent": 7.61,
-          "current_price": 272,
-          "change_percentage": 0.65,
+          "current_price": 298.05,
+          "change_percentage": 2.12,
           "xq_symbol": "SZ000858",
           "xq_url": "https://xueqiu.com/S/SZ000858",
           "amarket": true
@@ -77,8 +77,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 6.78,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "招商积余",
           "code": "001914",
           "percent": 4.69,
-          "current_price": 24.03,
-          "change_percentage": -1.48,
+          "current_price": 20.65,
+          "change_percentage": -4.09,
           "xq_symbol": "SZ001914",
           "xq_url": "https://xueqiu.com/S/SZ001914",
           "amarket": true
@@ -176,79 +176,79 @@
         "name": "肖肖",
         "resume": "    肖肖先生,北京大学金融学硕士。2008年7月至2015年2月先后在联合证券有限责任公司、民生证券有限责任公司和方正证券股份有限公司担任研究员,自2015年2月加入宝盈基金管理有限公司研究部,曾任研究员、研究部副总经理(主持工作),现任权益投资部总经理,宝盈优势产业灵活配置混合型证券投资基金、宝盈新锐灵活配置混合型证券投资基金、宝盈资源优选混合型证券投资基金、宝盈新价值灵活配置混合型证券投资基金、宝盈品牌消费股票型证券投资基金、宝盈龙头优选股票型证券投资基金、宝盈现代服务业混合型证券投资基金基金经理。",
         "college": "北京大学",
-        "work_year": "12",
+        "work_year": "13",
         "achievement_list": [
           {
             "fund_code": "009224",
             "fundsname": "宝盈现代服务业混合C",
             "post_date": "2020-07-17",
-            "cp_rate": -0.13
+            "cp_rate": 5.68
           },
           {
             "fund_code": "009223",
             "fundsname": "宝盈现代服务业混合A",
             "post_date": "2020-07-17",
-            "cp_rate": 0.06
+            "cp_rate": 5.92
           },
           {
             "fund_code": "008304",
             "fundsname": "宝盈龙头优选股票C",
             "post_date": "2020-03-25",
-            "cp_rate": 9.37
+            "cp_rate": 12.58
           },
           {
             "fund_code": "008303",
             "fundsname": "宝盈龙头优选股票A",
             "post_date": "2020-03-25",
-            "cp_rate": 9.99
+            "cp_rate": 13.28
           },
           {
             "fund_code": "007578",
             "fundsname": "宝盈新锐混合C",
             "post_date": "2019-07-01",
-            "cp_rate": 77.0681
+            "cp_rate": 89.5377
           },
           {
             "fund_code": "007574",
             "fundsname": "宝盈新价值混合C",
             "post_date": "2019-07-01",
-            "cp_rate": 72.8304
+            "cp_rate": 75.3004
           },
           {
             "fund_code": "006676",
             "fundsname": "宝盈品牌消费股票C",
             "post_date": "2019-06-06",
-            "cp_rate": 33.75
+            "cp_rate": 37.99
           },
           {
             "fund_code": "006675",
             "fundsname": "宝盈品牌消费股票A",
             "post_date": "2019-06-06",
-            "cp_rate": 35.38
+            "cp_rate": 39.74
           },
           {
             "fund_code": "000574",
             "fundsname": "宝盈新价值混合A",
             "post_date": "2017-12-15",
-            "cp_rate": 85.3804
+            "cp_rate": 88.065
           },
           {
             "fund_code": "213008",
             "fundsname": "宝盈资源优选混合",
             "post_date": "2017-07-29",
-            "cp_rate": 58.6102
+            "cp_rate": 70.8123
           },
           {
             "fund_code": "001487",
             "fundsname": "宝盈优势产业灵活配置混合",
             "post_date": "2017-01-07",
-            "cp_rate": 107.7931
+            "cp_rate": 112.7348
           },
           {
             "fund_code": "001543",
             "fundsname": "宝盈新锐混合A",
             "post_date": "2017-01-07",
-            "cp_rate": 185.7143
+            "cp_rate": 206.0253
           }
         ]
       }

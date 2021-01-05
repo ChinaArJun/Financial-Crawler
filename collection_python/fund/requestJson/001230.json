@@ -15,8 +15,8 @@
           "name": "爱尔眼科",
           "code": "300015",
           "percent": 9.97,
-          "current_price": 66.63,
-          "change_percentage": -0.25,
+          "current_price": 68.22,
+          "change_percentage": -8.91,
           "xq_symbol": "SZ300015",
           "xq_url": "https://xueqiu.com/S/SZ300015",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "恒瑞医药",
           "code": "600276",
           "percent": 9.5,
-          "current_price": 90.07,
-          "change_percentage": 0.21,
+          "current_price": 111.2,
+          "change_percentage": -0.23,
           "xq_symbol": "SH600276",
           "xq_url": "https://xueqiu.com/S/SH600276",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "药明康德",
           "code": "603259",
           "percent": 9.42,
-          "current_price": 110.9,
-          "change_percentage": -0.12,
+          "current_price": 137.11,
+          "change_percentage": 1.77,
           "xq_symbol": "SH603259",
           "xq_url": "https://xueqiu.com/S/SH603259",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 9.32,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "长春高新",
           "code": "000661",
           "percent": 8.18,
-          "current_price": 388,
-          "change_percentage": 0.19,
+          "current_price": 473.45,
+          "change_percentage": 5.47,
           "xq_symbol": "SZ000661",
           "xq_url": "https://xueqiu.com/S/SZ000661",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "泰格医药",
           "code": "300347",
           "percent": 5.71,
-          "current_price": 135.45,
-          "change_percentage": 1.84,
+          "current_price": 166.82,
+          "change_percentage": 3.22,
           "xq_symbol": "SZ300347",
           "xq_url": "https://xueqiu.com/S/SZ300347",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "凯莱英",
           "code": "002821",
           "percent": 5.58,
-          "current_price": 274,
-          "change_percentage": 1.64,
+          "current_price": 297.92,
+          "change_percentage": -0.41,
           "xq_symbol": "SZ002821",
           "xq_url": "https://xueqiu.com/S/SZ002821",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "通策医疗",
           "code": "600763",
           "percent": 5.03,
-          "current_price": 233.45,
-          "change_percentage": 0.45,
+          "current_price": 268,
+          "change_percentage": -3.08,
           "xq_symbol": "SH600763",
           "xq_url": "https://xueqiu.com/S/SH600763",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "金陵体育",
           "code": "300651",
           "percent": 4.87,
-          "current_price": 45.4,
-          "change_percentage": -0.87,
+          "current_price": 45.13,
+          "change_percentage": 0.92,
           "xq_symbol": "SZ300651",
           "xq_url": "https://xueqiu.com/S/SZ300651",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "康龙化成",
           "code": "300759",
           "percent": 4.83,
-          "current_price": 103.13,
-          "change_percentage": -0.27,
+          "current_price": 121,
+          "change_percentage": 0.5,
           "xq_symbol": "SZ300759",
           "xq_url": "https://xueqiu.com/S/SZ300759",
           "amarket": true
@@ -177,13 +177,13 @@
       {
         "name": "金笑非",
         "resume": "    金笑非先生,国籍中国,经济学硕士,8年证券基金从业经验。2012年7月加盟鹏华基金管理有限公司,从事行业研究工作,历任研究部基金经理助理/高级研究员,现任权益投资二部基金经理。2016年06月担任鹏华医药科技股票基金基金经理,2017年07月至2020年03月担任鹏华医疗保健股票基金基金经理,2019年06月担任鹏华科创3年封闭混合基金基金经理。金笑非先生具备基金从业资格。",
-        "work_year": "8",
+        "work_year": "9",
         "achievement_list": [
           {
             "fund_code": "501076",
             "fundsname": "鹏华科创3年封闭混合",
             "post_date": "2019-06-10",
-            "cp_rate": 52.39
+            "cp_rate": 63.31
           },
           {
             "fund_code": "000780",
@@ -196,7 +196,7 @@
             "fund_code": "001230",
             "fundsname": "鹏华医药科技股票",
             "post_date": "2016-06-24",
-            "cp_rate": 125.0493
+            "cp_rate": 155.2268
           }
         ]
       }

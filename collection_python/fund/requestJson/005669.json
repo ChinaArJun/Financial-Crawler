@@ -16,8 +16,8 @@
           "name": "晶澳科技",
           "code": "002459",
           "percent": 9.14,
-          "current_price": 32.99,
-          "change_percentage": 0.49,
+          "current_price": 43.1,
+          "change_percentage": 5.84,
           "xq_symbol": "SZ002459",
           "xq_url": "https://xueqiu.com/S/SZ002459",
           "amarket": true
@@ -34,8 +34,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 9,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -44,8 +44,8 @@
           "name": "长江电力",
           "code": "600900",
           "percent": 7.97,
-          "current_price": 19.83,
-          "change_percentage": 0.15,
+          "current_price": 18.9,
+          "change_percentage": -1.36,
           "xq_symbol": "SH600900",
           "xq_url": "https://xueqiu.com/S/SH600900",
           "amarket": true
@@ -54,8 +54,8 @@
           "name": "中科电气",
           "code": "300035",
           "percent": 7.71,
-          "current_price": 12.36,
-          "change_percentage": 2.49,
+          "current_price": 13.44,
+          "change_percentage": 9.71,
           "xq_symbol": "SZ300035",
           "xq_url": "https://xueqiu.com/S/SZ300035",
           "amarket": true
@@ -64,8 +64,8 @@
           "name": "宏川智慧",
           "code": "002930",
           "percent": 5.84,
-          "current_price": 22.71,
-          "change_percentage": 0.13,
+          "current_price": 19.28,
+          "change_percentage": -1.18,
           "xq_symbol": "SZ002930",
           "xq_url": "https://xueqiu.com/S/SZ002930",
           "amarket": true
@@ -74,8 +74,8 @@
           "name": "上海机场",
           "code": "600009",
           "percent": 5.29,
-          "current_price": 78.89,
-          "change_percentage": -0.97,
+          "current_price": 77.49,
+          "change_percentage": 2.42,
           "xq_symbol": "SH600009",
           "xq_url": "https://xueqiu.com/S/SH600009",
           "amarket": true
@@ -84,8 +84,8 @@
           "name": "通威股份",
           "code": "600438",
           "percent": 5.23,
-          "current_price": 29.2,
-          "change_percentage": -1.85,
+          "current_price": 41.65,
+          "change_percentage": 8.35,
           "xq_symbol": "SH600438",
           "xq_url": "https://xueqiu.com/S/SH600438",
           "amarket": true
@@ -94,8 +94,8 @@
           "name": "阳光电源",
           "code": "300274",
           "percent": 5.22,
-          "current_price": 51.88,
-          "change_percentage": 6.31,
+          "current_price": 78.19,
+          "change_percentage": 8.18,
           "xq_symbol": "SZ300274",
           "xq_url": "https://xueqiu.com/S/SZ300274",
           "amarket": true
@@ -104,8 +104,8 @@
           "name": "瀚蓝环境",
           "code": "600323",
           "percent": 3.78,
-          "current_price": 24.04,
-          "change_percentage": -1.52,
+          "current_price": 24.73,
+          "change_percentage": -0.32,
           "xq_symbol": "SH600323",
           "xq_url": "https://xueqiu.com/S/SH600323",
           "amarket": true
@@ -190,25 +190,25 @@
             "fund_code": "000689",
             "fundsname": "前海开源新经济混合",
             "post_date": "2020-10-27",
-            "cp_rate": 7.7096
+            "cp_rate": 26.3434
           },
           {
             "fund_code": "005669",
             "fundsname": "前海开源公用事业行业股票",
             "post_date": "2020-07-20",
-            "cp_rate": 30.872
+            "cp_rate": 56.2788
           },
           {
             "fund_code": "006923",
             "fundsname": "前海开源沪港深非周期股票A",
             "post_date": "2020-07-20",
-            "cp_rate": 11.706
+            "cp_rate": 27.0553
           },
           {
             "fund_code": "006924",
             "fundsname": "前海开源沪港深非周期股票C",
             "post_date": "2020-07-20",
-            "cp_rate": 11.603
+            "cp_rate": 26.9173
           }
         ]
       }

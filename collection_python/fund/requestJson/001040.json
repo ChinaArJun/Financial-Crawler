@@ -15,8 +15,8 @@
           "name": "凯普生物",
           "code": "300639",
           "percent": 8.08,
-          "current_price": 37.35,
-          "change_percentage": 2.05,
+          "current_price": 36.49,
+          "change_percentage": -2.9,
           "xq_symbol": "SZ300639",
           "xq_url": "https://xueqiu.com/S/SZ300639",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "浙江鼎力",
           "code": "603338",
           "percent": 6.92,
-          "current_price": 103.96,
-          "change_percentage": -2.04,
+          "current_price": 103.13,
+          "change_percentage": 1.92,
           "xq_symbol": "SH603338",
           "xq_url": "https://xueqiu.com/S/SH603338",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "海尔生物",
           "code": "688139",
           "percent": 5.94,
-          "current_price": 71.34,
-          "change_percentage": -2.9,
+          "current_price": 65.41,
+          "change_percentage": 0.18,
           "xq_symbol": "SH688139",
           "xq_url": "https://xueqiu.com/S/SH688139",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "恒立液压",
           "code": "601100",
           "percent": 4.86,
-          "current_price": 96.79,
-          "change_percentage": -1.59,
+          "current_price": 112.97,
+          "change_percentage": -0.03,
           "xq_symbol": "SH601100",
           "xq_url": "https://xueqiu.com/S/SH601100",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "金科股份",
           "code": "000656",
           "percent": 3.94,
-          "current_price": 7.43,
-          "change_percentage": -2.49,
+          "current_price": 6.59,
+          "change_percentage": -7.05,
           "xq_symbol": "SZ000656",
           "xq_url": "https://xueqiu.com/S/SZ000656",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "美的集团",
           "code": "000333",
           "percent": 3.21,
-          "current_price": 86.7,
-          "change_percentage": -1.54,
+          "current_price": 99.01,
+          "change_percentage": 0.58,
           "xq_symbol": "SZ000333",
           "xq_url": "https://xueqiu.com/S/SZ000333",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "理邦仪器",
           "code": "300206",
           "percent": 3.09,
-          "current_price": 17.06,
-          "change_percentage": -0.81,
+          "current_price": 17.9,
+          "change_percentage": -1.92,
           "xq_symbol": "SZ300206",
           "xq_url": "https://xueqiu.com/S/SZ300206",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "大博医疗",
           "code": "002901",
           "percent": 2.97,
-          "current_price": 72.78,
-          "change_percentage": -0.56,
+          "current_price": 75.16,
+          "change_percentage": 1.94,
           "xq_symbol": "SZ002901",
           "xq_url": "https://xueqiu.com/S/SZ002901",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "国瓷材料",
           "code": "300285",
           "percent": 2.87,
-          "current_price": 41.47,
-          "change_percentage": 2.4,
+          "current_price": 47.79,
+          "change_percentage": 5.94,
           "xq_symbol": "SZ300285",
           "xq_url": "https://xueqiu.com/S/SZ300285",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "凯利泰",
           "code": "300326",
           "percent": 2.82,
-          "current_price": 15.31,
-          "change_percentage": -0.26,
+          "current_price": 15.95,
+          "change_percentage": 0.63,
           "xq_symbol": "SZ300326",
           "xq_url": "https://xueqiu.com/S/SZ300326",
           "amarket": true
@@ -178,31 +178,31 @@
         "name": "赵强",
         "resume": "    强先生,管理学硕士,17年证券从业经验。历任国金基金高级研究员、英大基金基金经理、中欧基金投资经理,2016年11月加入新华基金管理股份有限公司,现任权益投资部总监,新华优选分红混合型证券投资基金基金经理、新华策略精选股票型证券投资基金基金经理、新华行业轮换灵活配置混合型证券投资基金基金经理。",
         "college": "南开大学",
-        "work_year": "17",
+        "work_year": "18",
         "achievement_list": [
           {
             "fund_code": "519157",
             "fundsname": "新华行业灵活配置混合C",
             "post_date": "2020-05-26",
-            "cp_rate": 40.8322
+            "cp_rate": 46.1638
           },
           {
             "fund_code": "519156",
             "fundsname": "新华行业灵活配置混合A",
             "post_date": "2020-05-26",
-            "cp_rate": 40.964
+            "cp_rate": 46.2841
           },
           {
             "fund_code": "519087",
             "fundsname": "新华优选分红混合",
             "post_date": "2017-05-17",
-            "cp_rate": 117.1911
+            "cp_rate": 125.4387
           },
           {
             "fund_code": "001040",
             "fundsname": "新华策略精选股票",
             "post_date": "2017-05-17",
-            "cp_rate": 132.2718
+            "cp_rate": 140.8705
           },
           {
             "fund_code": "000458",

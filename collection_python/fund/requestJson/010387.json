@@ -72,43 +72,43 @@
       {
         "name": "杨桢霄",
         "resume": "    杨桢霄先生,理学博士。曾任易方达基金管理有限公司行业研究员、易方达新兴成长灵活配置混合型证券投资基金基金经理助理、易方达科讯混合型证券投资基金基金经理助理。现任易方达基金管理有限公司易方达医疗保健行业混合型证券投资基金基金经理(自2016年8月20日起任职)、易方达大健康主题灵活配置混合型证券投资基金基金经理(自2017年9月27日起任职),兼行业研究员。",
-        "work_year": "9",
+        "work_year": "10",
         "achievement_list": [
           {
             "fund_code": "010387",
             "fundsname": "易方达医药生物股票A",
             "post_date": "2020-11-04",
-            "cp_rate": 0.35
+            "cp_rate": 3.06
           },
           {
             "fund_code": "010388",
             "fundsname": "易方达医药生物股票C",
             "post_date": "2020-11-04",
-            "cp_rate": 0.31
+            "cp_rate": 3
           },
           {
             "fund_code": "008284",
             "fundsname": "易方达全球医药行业混合(QDII)人民币",
             "post_date": "2020-01-20",
-            "cp_rate": 25.36
+            "cp_rate": 39.59
           },
           {
             "fund_code": "008285",
             "fundsname": "易方达全球医药行业混合(QDII)美元",
             "post_date": "2020-01-20",
-            "cp_rate": 31.7275
+            "cp_rate": 47.075
           },
           {
             "fund_code": "001898",
             "fundsname": "易方达大健康主题灵活配置混合",
             "post_date": "2017-09-27",
-            "cp_rate": 114.9
+            "cp_rate": 135.2
           },
           {
             "fund_code": "110023",
             "fundsname": "易方达医疗保健行业混合",
             "post_date": "2016-08-20",
-            "cp_rate": 171.9178
+            "cp_rate": 191.933
           }
         ]
       }
@@ -119,8 +119,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

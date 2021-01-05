@@ -15,8 +15,8 @@
           "name": "伊利股份",
           "code": "600887",
           "percent": 6.88,
-          "current_price": 40.68,
-          "change_percentage": 1.24,
+          "current_price": 47.36,
+          "change_percentage": 6.74,
           "xq_symbol": "SH600887",
           "xq_url": "https://xueqiu.com/S/SH600887",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 5.66,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "吉比特",
           "code": "603444",
           "percent": 5.3,
-          "current_price": 410.3,
-          "change_percentage": 2.32,
+          "current_price": 437.99,
+          "change_percentage": 2.81,
           "xq_symbol": "SH603444",
           "xq_url": "https://xueqiu.com/S/SH603444",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "五粮液",
           "code": "000858",
           "percent": 4.59,
-          "current_price": 272,
-          "change_percentage": 0.65,
+          "current_price": 298.05,
+          "change_percentage": 2.12,
           "xq_symbol": "SZ000858",
           "xq_url": "https://xueqiu.com/S/SZ000858",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "分众传媒",
           "code": "002027",
           "percent": 4.54,
-          "current_price": 10.36,
-          "change_percentage": 0.58,
+          "current_price": 10.04,
+          "change_percentage": 1.72,
           "xq_symbol": "SZ002027",
           "xq_url": "https://xueqiu.com/S/SZ002027",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 4.25,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 4.11,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 3.96,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "天赐材料",
           "code": "002709",
           "percent": 3.84,
-          "current_price": 84.25,
-          "change_percentage": 10,
+          "current_price": 114.03,
+          "change_percentage": 9.86,
           "xq_symbol": "SZ002709",
           "xq_url": "https://xueqiu.com/S/SZ002709",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "爱旭股份",
           "code": "600732",
           "percent": 3.83,
-          "current_price": 16.44,
-          "change_percentage": 0.55,
+          "current_price": 17.57,
+          "change_percentage": 10.02,
           "xq_symbol": "SH600732",
           "xq_url": "https://xueqiu.com/S/SH600732",
           "amarket": true
@@ -177,25 +177,25 @@
       {
         "name": "薄官辉",
         "resume": "    薄官辉先生,硕士学位。2004年7月至2006年5月任职于长江证券股份有限公司研究所,任研究员,从事农业、食品饮料行业研究。2006年6月至2009年5月,任职于中信证券股份有限公司研究部,任高级研究员,从事农业、食品饮料行业研究。2009年6月加入银华基金管理有限公司研究部,曾任消费组食品饮料行业研究员、大宗商品组研究主管、研究部总监助理、研究部副总监。自2015年4月29日起担任银华中国梦30股票型证券投资基金基金经理,自2016年11月7日起兼任银华高端制造业灵活配置混合型证券投资基金基金经理,自2018年6月15日至2019年12月26日兼任银华消费主题分级混合型证券投资基金基金经理,自2019年8月1日起兼任银华兴盛股票型证券投资基金基金经理,自2019年12月18日起兼任银华优势企业证券投资基金基金经理,自2019年12月27日起兼任银华消费主题混合型证券投资基金基金经理。",
-        "work_year": "15",
+        "work_year": "16",
         "achievement_list": [
           {
             "fund_code": "161818",
             "fundsname": "银华消费主题混合",
             "post_date": "2019-12-27",
-            "cp_rate": 74.4859
+            "cp_rate": 97.7276
           },
           {
             "fund_code": "180001",
             "fundsname": "银华优势企业混合",
             "post_date": "2019-12-18",
-            "cp_rate": 40.4223
+            "cp_rate": 49.6974
           },
           {
             "fund_code": "006251",
             "fundsname": "银华兴盛股票",
             "post_date": "2019-08-01",
-            "cp_rate": 71.42
+            "cp_rate": 98.36
           },
           {
             "fund_code": "150047",
@@ -222,32 +222,32 @@
             "fund_code": "000823",
             "fundsname": "银华高端制造业灵活配置混合",
             "post_date": "2016-11-07",
-            "cp_rate": 75.2823
+            "cp_rate": 90.7152
           },
           {
             "fund_code": "001163",
             "fundsname": "银华中国梦30股票",
             "post_date": "2015-04-29",
-            "cp_rate": 122.8
+            "cp_rate": 139.1
           }
         ]
       },
       {
         "name": "王浩",
         "resume": "    王浩先生:硕士学位。2009年1月至今任职于银华基金管理有限公司,历任研究部助理研究员、研究员、专户投资经理助理,现任投资管理二部基金经理,自2015年11月18日起担任银华互联网主题灵活配置混合型证券投资基金基金经理。",
-        "work_year": "11",
+        "work_year": "12",
         "achievement_list": [
           {
             "fund_code": "006251",
             "fundsname": "银华兴盛股票",
             "post_date": "2020-04-21",
-            "cp_rate": 50.9112
+            "cp_rate": 74.628
           },
           {
             "fund_code": "001808",
             "fundsname": "银华互联网主题灵活配置混合",
             "post_date": "2015-11-18",
-            "cp_rate": 71.6135
+            "cp_rate": 97.6096
           }
         ]
       }

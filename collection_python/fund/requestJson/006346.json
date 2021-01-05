@@ -16,8 +16,8 @@
           "name": "鱼跃医疗",
           "code": "002223",
           "percent": 1.17,
-          "current_price": 28.15,
-          "change_percentage": -0.85,
+          "current_price": 28.46,
+          "change_percentage": 0.89,
           "xq_symbol": "SZ002223",
           "xq_url": "https://xueqiu.com/S/SZ002223",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "山东章鼓",
           "code": "002598",
           "percent": 1.12,
-          "current_price": 6.91,
-          "change_percentage": -1,
+          "current_price": 6.28,
+          "change_percentage": 1.29,
           "xq_symbol": "SZ002598",
           "xq_url": "https://xueqiu.com/S/SZ002598",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "同济科技",
           "code": "600846",
           "percent": 1.1,
-          "current_price": 8.48,
-          "change_percentage": -0.12,
+          "current_price": 8.31,
+          "change_percentage": 0.61,
           "xq_symbol": "SH600846",
           "xq_url": "https://xueqiu.com/S/SH600846",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "森霸传感",
           "code": "300701",
           "percent": 1.05,
-          "current_price": 33.63,
-          "change_percentage": 0.15,
+          "current_price": 29.31,
+          "change_percentage": 0.86,
           "xq_symbol": "SZ300701",
           "xq_url": "https://xueqiu.com/S/SZ300701",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "丰山集团",
           "code": "603810",
           "percent": 1.04,
-          "current_price": 27.15,
-          "change_percentage": -0.73,
+          "current_price": 24.79,
+          "change_percentage": 4.38,
           "xq_symbol": "SH603810",
           "xq_url": "https://xueqiu.com/S/SH603810",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "再升科技",
           "code": "603601",
           "percent": 1.04,
-          "current_price": 15.48,
-          "change_percentage": 1.98,
+          "current_price": 13.85,
+          "change_percentage": 1.47,
           "xq_symbol": "SH603601",
           "xq_url": "https://xueqiu.com/S/SH603601",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "广弘控股",
           "code": "000529",
           "percent": 1.04,
-          "current_price": 7.23,
-          "change_percentage": 1.12,
+          "current_price": 7.02,
+          "change_percentage": 3.54,
           "xq_symbol": "SZ000529",
           "xq_url": "https://xueqiu.com/S/SZ000529",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "理邦仪器",
           "code": "300206",
           "percent": 1,
-          "current_price": 17.06,
-          "change_percentage": -0.81,
+          "current_price": 17.9,
+          "change_percentage": -1.92,
           "xq_symbol": "SZ300206",
           "xq_url": "https://xueqiu.com/S/SZ300206",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "集泰股份",
           "code": "002909",
           "percent": 0.97,
-          "current_price": 11.07,
-          "change_percentage": -2.89,
+          "current_price": 10.5,
+          "change_percentage": 1.94,
           "xq_symbol": "SZ002909",
           "xq_url": "https://xueqiu.com/S/SZ002909",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "牧高笛",
           "code": "603908",
           "percent": 0.96,
-          "current_price": 27.53,
-          "change_percentage": -0.4,
+          "current_price": 23.75,
+          "change_percentage": 2.06,
           "xq_symbol": "SH603908",
           "xq_url": "https://xueqiu.com/S/SH603908",
           "amarket": true
@@ -239,25 +239,25 @@
             "fund_code": "006346",
             "fundsname": "安信量化优选股票A",
             "post_date": "2020-01-13",
-            "cp_rate": 35.135
+            "cp_rate": 34.2262
           },
           {
             "fund_code": "006347",
             "fundsname": "安信量化优选股票C",
             "post_date": "2020-01-13",
-            "cp_rate": 34.6198
+            "cp_rate": 33.6737
           },
           {
             "fund_code": "167506",
             "fundsname": "安信深圳科技指数(LOF)A",
             "post_date": "2020-01-13",
-            "cp_rate": 29.8247
+            "cp_rate": 30.7147
           },
           {
             "fund_code": "167507",
             "fundsname": "安信深圳科技指数(LOF)C",
             "post_date": "2020-01-13",
-            "cp_rate": 29.5331
+            "cp_rate": 30.3961
           }
         ]
       }

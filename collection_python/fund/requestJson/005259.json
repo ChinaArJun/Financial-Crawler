@@ -15,8 +15,8 @@
           "name": "五粮液",
           "code": "000858",
           "percent": 9.5,
-          "current_price": 272,
-          "change_percentage": 0.65,
+          "current_price": 298.05,
+          "change_percentage": 2.12,
           "xq_symbol": "SZ000858",
           "xq_url": "https://xueqiu.com/S/SZ000858",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 7.39,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 6.81,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "中国巨石",
           "code": "600176",
           "percent": 6.53,
-          "current_price": 16.68,
-          "change_percentage": 0,
+          "current_price": 20.39,
+          "change_percentage": 2.15,
           "xq_symbol": "SH600176",
           "xq_url": "https://xueqiu.com/S/SH600176",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "海康威视",
           "code": "002415",
           "percent": 6.5,
-          "current_price": 44.28,
-          "change_percentage": -1.16,
+          "current_price": 49.8,
+          "change_percentage": 2.66,
           "xq_symbol": "SZ002415",
           "xq_url": "https://xueqiu.com/S/SZ002415",
           "amarket": true
@@ -73,8 +73,8 @@
           "name": "美的集团",
           "code": "000333",
           "percent": 5.24,
-          "current_price": 86.7,
-          "change_percentage": -1.54,
+          "current_price": 99.01,
+          "change_percentage": 0.58,
           "xq_symbol": "SZ000333",
           "xq_url": "https://xueqiu.com/S/SZ000333",
           "amarket": true
@@ -83,8 +83,8 @@
           "name": "中国中免",
           "code": "601888",
           "percent": 4.69,
-          "current_price": 208.03,
-          "change_percentage": 0.13,
+          "current_price": 292.25,
+          "change_percentage": 3.47,
           "xq_symbol": "SH601888",
           "xq_url": "https://xueqiu.com/S/SH601888",
           "amarket": true
@@ -93,8 +93,8 @@
           "name": "福耀玻璃",
           "code": "600660",
           "percent": 4.41,
-          "current_price": 38.74,
-          "change_percentage": 0,
+          "current_price": 50.95,
+          "change_percentage": 6.04,
           "xq_symbol": "SH600660",
           "xq_url": "https://xueqiu.com/S/SH600660",
           "amarket": true
@@ -174,19 +174,19 @@
         "name": "刘克飞",
         "resume": "    刘克飞先生,硕士。2012年6月毕业于中国人民大学金融工程专业,同年7月加入建信基金,历任助理研究员、初级研究员、研究员、研究部总经理助理。2018年3月6日起任建信龙头企业股票型证券投资基金的基金经理;2019年11月28日起任建信社会责任混合型证券投资基金的基金经理。",
         "college": "中国人民大学",
-        "work_year": "8",
+        "work_year": "9",
         "achievement_list": [
           {
             "fund_code": "530019",
             "fundsname": "建信社会责任混合",
             "post_date": "2019-11-28",
-            "cp_rate": 55.7573
+            "cp_rate": 73.3402
           },
           {
             "fund_code": "005259",
             "fundsname": "建信龙头企业股票",
             "post_date": "2018-03-06",
-            "cp_rate": 94.8248
+            "cp_rate": 120.1988
           }
         ]
       }

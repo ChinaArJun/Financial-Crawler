@@ -16,8 +16,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 5.28,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "赣锋锂业",
           "code": "002460",
           "percent": 4.69,
-          "current_price": 82.24,
-          "change_percentage": 3.06,
+          "current_price": 111.32,
+          "change_percentage": 10,
           "xq_symbol": "SZ002460",
           "xq_url": "https://xueqiu.com/S/SZ002460",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "鹏鼎控股",
           "code": "002938",
           "percent": 3.96,
-          "current_price": 54.51,
-          "change_percentage": -2.14,
+          "current_price": 47.88,
+          "change_percentage": -3.6,
           "xq_symbol": "SZ002938",
           "xq_url": "https://xueqiu.com/S/SZ002938",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "TCL科技",
           "code": "000100",
           "percent": 3.89,
-          "current_price": 7.16,
-          "change_percentage": 1.42,
+          "current_price": 7.18,
+          "change_percentage": 1.41,
           "xq_symbol": "SZ000100",
           "xq_url": "https://xueqiu.com/S/SZ000100",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "歌尔股份",
           "code": "002241",
           "percent": 3.56,
-          "current_price": 37.16,
-          "change_percentage": -2.24,
+          "current_price": 36.74,
+          "change_percentage": -1.55,
           "xq_symbol": "SZ002241",
           "xq_url": "https://xueqiu.com/S/SZ002241",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "京东方A",
           "code": "000725",
           "percent": 3.39,
-          "current_price": 5.25,
-          "change_percentage": -0.57,
+          "current_price": 5.92,
+          "change_percentage": -1.33,
           "xq_symbol": "SZ000725",
           "xq_url": "https://xueqiu.com/S/SZ000725",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 3.04,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "中兴通讯",
           "code": "000063",
           "percent": 3.03,
-          "current_price": 33.8,
-          "change_percentage": -0.03,
+          "current_price": 34.33,
+          "change_percentage": 2.02,
           "xq_symbol": "SZ000063",
           "xq_url": "https://xueqiu.com/S/SZ000063",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "新宙邦",
           "code": "300037",
           "percent": 2.88,
-          "current_price": 99.89,
-          "change_percentage": 12.22,
+          "current_price": 106.5,
+          "change_percentage": 5.03,
           "xq_symbol": "SZ300037",
           "xq_url": "https://xueqiu.com/S/SZ300037",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "通富微电",
           "code": "002156",
           "percent": 2.83,
-          "current_price": 29.33,
-          "change_percentage": 2.37,
+          "current_price": 25.43,
+          "change_percentage": 0.75,
           "xq_symbol": "SZ002156",
           "xq_url": "https://xueqiu.com/S/SZ002156",
           "amarket": true
@@ -190,16 +190,28 @@
         "college": "清华大学,中国科学院",
         "achievement_list": [
           {
+            "fund_code": "010495",
+            "fundsname": "创金合信创新驱动股票A",
+            "post_date": "2020-12-30",
+            "cp_rate": 0
+          },
+          {
+            "fund_code": "010496",
+            "fundsname": "创金合信创新驱动股票C",
+            "post_date": "2020-12-30",
+            "cp_rate": 0
+          },
+          {
             "fund_code": "005495",
             "fundsname": "创金合信科技成长股票A",
             "post_date": "2017-12-28",
-            "cp_rate": 83.3
+            "cp_rate": 91.05
           },
           {
             "fund_code": "005496",
             "fundsname": "创金合信科技成长股票C",
             "post_date": "2017-12-28",
-            "cp_rate": 80.14
+            "cp_rate": 87.69
           }
         ]
       }

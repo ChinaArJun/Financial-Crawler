@@ -16,8 +16,8 @@
           "name": "美的集团",
           "code": "000333",
           "percent": 4.99,
-          "current_price": 86.7,
-          "change_percentage": -1.54,
+          "current_price": 99.01,
+          "change_percentage": 0.58,
           "xq_symbol": "SZ000333",
           "xq_url": "https://xueqiu.com/S/SZ000333",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "荣盛石化",
           "code": "002493",
           "percent": 4.65,
-          "current_price": 25.98,
-          "change_percentage": 1.48,
+          "current_price": 27.44,
+          "change_percentage": -0.62,
           "xq_symbol": "SZ002493",
           "xq_url": "https://xueqiu.com/S/SZ002493",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "分众传媒",
           "code": "002027",
           "percent": 4.64,
-          "current_price": 10.36,
-          "change_percentage": 0.58,
+          "current_price": 10.04,
+          "change_percentage": 1.72,
           "xq_symbol": "SZ002027",
           "xq_url": "https://xueqiu.com/S/SZ002027",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "汇川技术",
           "code": "300124",
           "percent": 4.12,
-          "current_price": 85.58,
-          "change_percentage": 1.04,
+          "current_price": 95.59,
+          "change_percentage": 2.45,
           "xq_symbol": "SZ300124",
           "xq_url": "https://xueqiu.com/S/SZ300124",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "紫金矿业",
           "code": "601899",
           "percent": 3.29,
-          "current_price": 8.91,
-          "change_percentage": 1.14,
+          "current_price": 10.04,
+          "change_percentage": 8.07,
           "xq_symbol": "SH601899",
           "xq_url": "https://xueqiu.com/S/SH601899",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "伊利股份",
           "code": "600887",
           "percent": 2.11,
-          "current_price": 40.68,
-          "change_percentage": 1.24,
+          "current_price": 47.36,
+          "change_percentage": 6.74,
           "xq_symbol": "SH600887",
           "xq_url": "https://xueqiu.com/S/SH600887",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "华鲁恒升",
           "code": "600426",
           "percent": 2.03,
-          "current_price": 34.94,
-          "change_percentage": 1.28,
+          "current_price": 37.01,
+          "change_percentage": -0.78,
           "xq_symbol": "SH600426",
           "xq_url": "https://xueqiu.com/S/SH600426",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "万华化学",
           "code": "600309",
           "percent": 1.54,
-          "current_price": 82.99,
-          "change_percentage": -0.3,
+          "current_price": 94.12,
+          "change_percentage": 3.38,
           "xq_symbol": "SH600309",
           "xq_url": "https://xueqiu.com/S/SH600309",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "长城汽车",
           "code": "601633",
           "percent": 1.31,
-          "current_price": 25.89,
-          "change_percentage": 3.39,
+          "current_price": 38.11,
+          "change_percentage": 0.79,
           "xq_symbol": "SH601633",
           "xq_url": "https://xueqiu.com/S/SH601633",
           "amarket": true
@@ -196,43 +196,49 @@
     "manager_list": [
       {
         "name": "李元博",
-        "resume": "    李元博,硕士,自2009年9月至2010年12月在湘财证券有限责任公司任研究员;自2010年12月至2011年9月在天治基金管理有限公司任研究员;自2011年9月至2015年7月在汇丰晋信基金管理有限公司任研究员、基金经理;2015年7月加入富国基金管理有限公司,2015年11月起任富国高新技术产业混合型证券投资基金基金经理,2016年6月起任富国创新科技混合型证券投资基金基金经理。2019年5月起任富国科技创新灵活配置混合型证券投资基金基金经理。具有基金从业资格。",
+        "resume": "    李元博,硕士,自2009年9月至2010年12月在湘财证券有限责任公司任研究员;自2010年12月至2011年9月在天治基金管理有限公司任研究员;自2011年9月至2015年7月在汇丰晋信基金管理有限公司任研究员、基金经理;2015年7月加入富国基金管理有限公司,2015年11月起任富国高新技术产业混合型证券投资基金基金经理,2016年6月起任富国创新科技混合型证券投资基金基金经理,2019年5月起任富国科技创新灵活配置混合型证券投资基金基金经理,2019年6月起任富国科创主题3年封闭运作灵活配置混合型证券投资基金基金经理。具有基金从业资格。",
         "achievement_list": [
+          {
+            "fund_code": "011120",
+            "fundsname": "富国创新科技混合C",
+            "post_date": "2020-12-28",
+            "cp_rate": 4.7885
+          },
           {
             "fund_code": "506003",
             "fundsname": "富国科创板两年定期开放混合",
             "post_date": "2020-07-29",
-            "cp_rate": -5.03
+            "cp_rate": -4.87
           },
           {
             "fund_code": "009863",
             "fundsname": "富国创新趋势股票",
             "post_date": "2020-07-27",
-            "cp_rate": 14.31
+            "cp_rate": 22.95
           },
           {
             "fund_code": "501077",
             "fundsname": "富国科创主题3年封闭运作灵活配置混合",
             "post_date": "2019-06-11",
-            "cp_rate": 123.08
+            "cp_rate": 138.79
           },
           {
             "fund_code": "007345",
             "fundsname": "富国科技创新灵活配置混合",
             "post_date": "2019-05-06",
-            "cp_rate": 122.65
+            "cp_rate": 132.61
           },
           {
             "fund_code": "002692",
-            "fundsname": "富国创新科技混合",
+            "fundsname": "富国创新科技混合A",
             "post_date": "2016-06-16",
-            "cp_rate": 156.9
+            "cp_rate": 162.7
           },
           {
             "fund_code": "100060",
             "fundsname": "富国高新技术产业混合",
             "post_date": "2015-11-23",
-            "cp_rate": 130.1639
+            "cp_rate": 143.9596
           },
           {
             "fund_code": "540010",

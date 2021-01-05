@@ -15,8 +15,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 5.18,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "中国平安",
           "code": "601318",
           "percent": 4.03,
-          "current_price": 88.05,
-          "change_percentage": -2.58,
+          "current_price": 85.18,
+          "change_percentage": -2.07,
           "xq_symbol": "SH601318",
           "xq_url": "https://xueqiu.com/S/SH601318",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "华泰证券",
           "code": "601688",
           "percent": 3.7,
-          "current_price": 19.14,
-          "change_percentage": -0.31,
+          "current_price": 18.04,
+          "change_percentage": 0.17,
           "xq_symbol": "SH601688",
           "xq_url": "https://xueqiu.com/S/SH601688",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "国泰君安",
           "code": "601211",
           "percent": 3.45,
-          "current_price": 18.44,
-          "change_percentage": -0.38,
+          "current_price": 17.61,
+          "change_percentage": 0.46,
           "xq_symbol": "SH601211",
           "xq_url": "https://xueqiu.com/S/SH601211",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "上海银行",
           "code": "601229",
           "percent": 3.17,
-          "current_price": 8.07,
-          "change_percentage": 0.37,
+          "current_price": 7.78,
+          "change_percentage": -0.77,
           "xq_symbol": "SH601229",
           "xq_url": "https://xueqiu.com/S/SH601229",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "美的集团",
           "code": "000333",
           "percent": 2.68,
-          "current_price": 86.7,
-          "change_percentage": -1.54,
+          "current_price": 99.01,
+          "change_percentage": 0.58,
           "xq_symbol": "SZ000333",
           "xq_url": "https://xueqiu.com/S/SZ000333",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "伊利股份",
           "code": "600887",
           "percent": 2.25,
-          "current_price": 40.68,
-          "change_percentage": 1.24,
+          "current_price": 47.36,
+          "change_percentage": 6.74,
           "xq_symbol": "SH600887",
           "xq_url": "https://xueqiu.com/S/SH600887",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "京东方A",
           "code": "000725",
           "percent": 1.87,
-          "current_price": 5.25,
-          "change_percentage": -0.57,
+          "current_price": 5.92,
+          "change_percentage": -1.33,
           "xq_symbol": "SZ000725",
           "xq_url": "https://xueqiu.com/S/SZ000725",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "华菱钢铁",
           "code": "000932",
           "percent": 1.64,
-          "current_price": 5.12,
-          "change_percentage": -0.78,
+          "current_price": 4.79,
+          "change_percentage": 0.21,
           "xq_symbol": "SZ000932",
           "xq_url": "https://xueqiu.com/S/SZ000932",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "长春高新",
           "code": "000661",
           "percent": 1.63,
-          "current_price": 388,
-          "change_percentage": 0.19,
+          "current_price": 473.45,
+          "change_percentage": 5.47,
           "xq_symbol": "SZ000661",
           "xq_url": "https://xueqiu.com/S/SZ000661",
           "amarket": true
@@ -178,43 +178,43 @@
         "name": "崔俊杰",
         "resume": "    2008年7月1日至2019年12月任职于鹏华基金管理有限公司, 先后担任产品规划部产品设计师、量化投资部量化研究员、量化及衍生品投资部总经理助理兼基金经理、副总经理兼基金经理;自2019年12月加入景顺长城基金管理有限公司,自2020年7月起担任ETF投资部基金经理,现任ETF投资部投资总监兼基金经理。",
         "college": "中国科学技术大学",
-        "work_year": "12",
+        "work_year": "13",
         "achievement_list": [
           {
             "fund_code": "000688",
             "fundsname": "景顺长城研究精选股票型",
             "post_date": "2020-11-26",
-            "cp_rate": 1.3788
+            "cp_rate": 7.6899
           },
           {
             "fund_code": "260117",
             "fundsname": "景顺长城支柱产业混合",
             "post_date": "2020-10-22",
-            "cp_rate": 5.4628
+            "cp_rate": 10.5778
           },
           {
             "fund_code": "512220",
-            "fundsname": "景顺长城中证TMT150ETF",
+            "fundsname": "景顺长城中证科技传媒通信150ETF",
             "post_date": "2020-07-25",
-            "cp_rate": 0.9174
+            "cp_rate": -1.0713
           },
           {
             "fund_code": "001361",
-            "fundsname": "景顺长城中证150ETF联接",
+            "fundsname": "景顺长城中证科技传媒通信150ETF联接",
             "post_date": "2020-07-25",
-            "cp_rate": 0.9563
+            "cp_rate": -0.9563
           },
           {
             "fund_code": "004719",
             "fundsname": "景顺长城睿成灵活配置混合C",
             "post_date": "2020-07-07",
-            "cp_rate": 8.6447
+            "cp_rate": 11.0281
           },
           {
             "fund_code": "004707",
             "fundsname": "景顺长城睿成灵活配置混合A",
             "post_date": "2020-07-07",
-            "cp_rate": 8.7884
+            "cp_rate": 11.2017
           },
           {
             "fund_code": "005632",
@@ -359,61 +359,65 @@
             "fund_code": "004719",
             "fundsname": "景顺长城睿成灵活配置混合C",
             "post_date": "2020-04-18",
-            "cp_rate": 19.5887
+            "cp_rate": 22.2121
           },
           {
             "fund_code": "004707",
             "fundsname": "景顺长城睿成灵活配置混合A",
             "post_date": "2020-04-18",
-            "cp_rate": 19.8113
+            "cp_rate": 22.4692
           },
           {
             "fund_code": "000688",
             "fundsname": "景顺长城研究精选股票型",
             "post_date": "2020-04-18",
-            "cp_rate": 26.1247
+            "cp_rate": 33.9763
           },
           {
             "fund_code": "512220",
-            "fundsname": "景顺长城中证TMT150ETF",
+            "fundsname": "景顺长城中证科技传媒通信150ETF",
             "post_date": "2019-11-19",
-            "cp_rate": 32.7586
+            "resi_date": "2020-12-15",
+            "cp_rate": 28.4558
           },
           {
             "fund_code": "512280",
             "fundsname": "景顺长城MSCI中国A股国际通ETF",
             "post_date": "2019-11-19",
-            "cp_rate": 40.138
+            "resi_date": "2020-12-15",
+            "cp_rate": 39.1215
           },
           {
             "fund_code": "005832",
             "fundsname": "景顺长城MSCIETF联接",
             "post_date": "2019-11-19",
-            "cp_rate": 36.4153
+            "resi_date": "2020-12-15",
+            "cp_rate": 35.5019
           },
           {
             "fund_code": "001361",
-            "fundsname": "景顺长城中证150ETF联接",
+            "fundsname": "景顺长城中证科技传媒通信150ETF联接",
             "post_date": "2019-11-19",
-            "cp_rate": 30.7965
+            "resi_date": "2020-12-15",
+            "cp_rate": 26.7257
           },
           {
             "fund_code": "007760",
             "fundsname": "景顺沪港深红利成长低波动指数C",
             "post_date": "2019-09-06",
-            "cp_rate": 1.13
+            "cp_rate": -1.87
           },
           {
             "fund_code": "007751",
             "fundsname": "景顺沪港深红利成长低波动指数A",
             "post_date": "2019-09-06",
-            "cp_rate": 1.44
+            "cp_rate": -1.56
           },
           {
             "fund_code": "003318",
             "fundsname": "景顺长城中证500行业中性低波动指数",
             "post_date": "2019-07-16",
-            "cp_rate": 27.9082
+            "cp_rate": 25.4101
           },
           {
             "fund_code": "001455",

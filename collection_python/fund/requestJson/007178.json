@@ -159,61 +159,61 @@
             "fund_code": "009354",
             "fundsname": "浙商科技创新一个月滚动持有混合C",
             "post_date": "2020-09-29",
-            "cp_rate": 6.68
+            "cp_rate": 11.99
           },
           {
             "fund_code": "009353",
             "fundsname": "浙商科技创新一个月滚动持有混合A",
             "post_date": "2020-09-29",
-            "cp_rate": 6.73
+            "cp_rate": 12.07
           },
           {
             "fund_code": "009569",
             "fundsname": "浙商智多宝稳健一年持有期C",
             "post_date": "2020-07-23",
-            "cp_rate": 2.3
+            "cp_rate": 2.89
           },
           {
             "fund_code": "009568",
             "fundsname": "浙商智多宝稳健一年持有期A",
             "post_date": "2020-07-23",
-            "cp_rate": 2.49
+            "cp_rate": 3.12
           },
           {
             "fund_code": "009181",
             "fundsname": "浙商智多兴稳健回报一年持有期混合A",
             "post_date": "2020-06-04",
-            "cp_rate": 4.69
+            "cp_rate": 6.72
           },
           {
             "fund_code": "009182",
             "fundsname": "浙商智多兴稳健回报一年持有期混合C",
             "post_date": "2020-06-04",
-            "cp_rate": 4.42
+            "cp_rate": 6.42
           },
           {
             "fund_code": "007216",
             "fundsname": "浙商中华预期高股息指数增强C",
             "post_date": "2019-10-30",
-            "cp_rate": -7.34
+            "cp_rate": -4.83
           },
           {
             "fund_code": "007178",
             "fundsname": "浙商中华预期高股息指数增强A",
             "post_date": "2019-10-30",
-            "cp_rate": -6.99
+            "cp_rate": -4.46
           },
           {
             "fund_code": "007217",
             "fundsname": "浙商智能行业优选混合C",
             "post_date": "2019-09-27",
-            "cp_rate": 60.94
+            "cp_rate": 73.87
           },
           {
             "fund_code": "007177",
             "fundsname": "浙商智能行业优选混合A",
             "post_date": "2019-09-27",
-            "cp_rate": 61.91
+            "cp_rate": 74.97
           },
           {
             "fund_code": "166801",
@@ -261,7 +261,7 @@
             "fund_code": "002967",
             "fundsname": "浙商大数据智选消费灵活配置混合",
             "post_date": "2017-01-11",
-            "cp_rate": 146.2
+            "cp_rate": 156.2
           },
           {
             "fund_code": "680001",
@@ -294,39 +294,51 @@
         ]
       },
       {
-        "name": "刘宏达",
-        "resume": "    刘宏达先生,1983年生,上海交通大学会计学硕士。历任永灵通金融有限公司助理分析师、投资分析师和基金经理岗位。2017年6月加入浙商基金管理有限公司。已任浙商全景消费混合型证券投资基金、浙商沪港深精选混合型证券投资基金、浙商港股通中华交易服务预期高股息指数增强型证券投资基金的基金经理。",
-        "college": "上海交通大学",
+        "name": "贾腾",
+        "resume": "    贾腾先生,1988年生,复旦大学管理学院DDIM项目国际商务硕士。曾任博时基金管理有限公司行业研究员。2015年8月加入浙商基金管理有限公司。\n    已任浙商丰利增强债券型证券投资基金、浙商聚潮产业成长混合型证券投资基金、浙商全景消费混合型证券投资基金的基金经理。",
+        "college": "复旦大学",
         "achievement_list": [
           {
             "fund_code": "007178",
             "fundsname": "浙商中华预期高股息指数增强A",
-            "post_date": "2019-10-30",
-            "cp_rate": -6.99
+            "post_date": "2020-12-10",
+            "cp_rate": 3.1415
           },
           {
             "fund_code": "007216",
             "fundsname": "浙商中华预期高股息指数增强C",
-            "post_date": "2019-10-30",
-            "cp_rate": -7.34
+            "post_date": "2020-12-10",
+            "cp_rate": 3.1318
           },
           {
             "fund_code": "007368",
             "fundsname": "浙商沪港深精选混合A",
-            "post_date": "2019-06-27",
-            "cp_rate": 52.8
+            "post_date": "2020-12-02",
+            "cp_rate": 13.2024
           },
           {
             "fund_code": "007369",
             "fundsname": "浙商沪港深精选混合C",
-            "post_date": "2019-06-27",
-            "cp_rate": 51.48
+            "post_date": "2020-12-02",
+            "cp_rate": 13.1517
           },
           {
             "fund_code": "005335",
             "fundsname": "浙商全景消费混合",
-            "post_date": "2017-12-29",
-            "cp_rate": 80.53
+            "post_date": "2019-07-31",
+            "cp_rate": 74.8677
+          },
+          {
+            "fund_code": "006102",
+            "fundsname": "浙商丰利增强债券",
+            "post_date": "2019-02-28",
+            "cp_rate": 41.047
+          },
+          {
+            "fund_code": "688888",
+            "fundsname": "浙商聚潮产业成长混合",
+            "post_date": "2019-02-21",
+            "cp_rate": 84.4986
           }
         ]
       }
@@ -337,8 +349,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 4,
-      "all_buy_days": 2,
-      "all_sale_days": 5
+      "all_sale_days": 5,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

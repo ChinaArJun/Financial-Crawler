@@ -16,8 +16,8 @@
           "name": "华宇软件",
           "code": "300271",
           "percent": 6.85,
-          "current_price": 26.08,
-          "change_percentage": -0.72,
+          "current_price": 24.86,
+          "change_percentage": 4.15,
           "xq_symbol": "SZ300271",
           "xq_url": "https://xueqiu.com/S/SZ300271",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "美年健康",
           "code": "002044",
           "percent": 5.82,
-          "current_price": 12.75,
-          "change_percentage": -1.24,
+          "current_price": 11.59,
+          "change_percentage": 2.29,
           "xq_symbol": "SZ002044",
           "xq_url": "https://xueqiu.com/S/SZ002044",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "南洋股份",
           "code": "002212",
           "percent": 5.55,
-          "current_price": 21.4,
-          "change_percentage": 0.33,
+          "current_price": 21.84,
+          "change_percentage": 3.95,
           "xq_symbol": "SZ002212",
           "xq_url": "https://xueqiu.com/S/SZ002212",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "信维通信",
           "code": "300136",
           "percent": 4.99,
-          "current_price": 44.67,
-          "change_percentage": -1.33,
+          "current_price": 36.17,
+          "change_percentage": 0.81,
           "xq_symbol": "SZ300136",
           "xq_url": "https://xueqiu.com/S/SZ300136",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "中科创达",
           "code": "300496",
           "percent": 4.56,
-          "current_price": 98.5,
-          "change_percentage": 0.92,
+          "current_price": 120.78,
+          "change_percentage": 3.23,
           "xq_symbol": "SZ300496",
           "xq_url": "https://xueqiu.com/S/SZ300496",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "华兰生物",
           "code": "002007",
           "percent": 3.52,
-          "current_price": 43.73,
-          "change_percentage": -3.19,
+          "current_price": 41.85,
+          "change_percentage": -0.92,
           "xq_symbol": "SZ002007",
           "xq_url": "https://xueqiu.com/S/SZ002007",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "比亚迪",
           "code": "002594",
           "percent": 3.46,
-          "current_price": 177.97,
-          "change_percentage": 1.53,
+          "current_price": 206.76,
+          "change_percentage": 6.41,
           "xq_symbol": "SZ002594",
           "xq_url": "https://xueqiu.com/S/SZ002594",
           "amarket": true
@@ -86,7 +86,7 @@
           "name": "华域汽车",
           "code": "600741",
           "percent": 3.32,
-          "current_price": 30.5,
+          "current_price": 29.31,
           "change_percentage": 1.7,
           "xq_symbol": "SH600741",
           "xq_url": "https://xueqiu.com/S/SH600741",
@@ -96,8 +96,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 3.27,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "金科股份",
           "code": "000656",
           "percent": 3.22,
-          "current_price": 7.43,
-          "change_percentage": -2.49,
+          "current_price": 6.59,
+          "change_percentage": -7.05,
           "xq_symbol": "SZ000656",
           "xq_url": "https://xueqiu.com/S/SZ000656",
           "amarket": true
@@ -208,13 +208,13 @@
         "name": "王品",
         "resume": "    王品女士,中国药科大学理学硕士。历任申华实业股份有限公司投资部项目经理;中智富投资产管理有限公司研究员;兴业证券研发中心医药行业研究员/研究报告内核组组长;中银国际基金管理公司医药、化工、石化行业研究员;汇丰晋信基金管理有限公司医药、房地产行业高级研究员/基金经理/投资副总监。2016年5月加入兴全基金管理有限公司,曾任专户投资部总监助理兼投资经理。现任兴全全球视野股票型证券投资基金基金经理(2017年9月19日起至今)。",
         "college": "中国药科大学",
-        "work_year": "21",
+        "work_year": "22",
         "achievement_list": [
           {
             "fund_code": "340006",
             "fundsname": "兴全全球视野股票",
             "post_date": "2017-09-19",
-            "cp_rate": 79.1158
+            "cp_rate": 85.7983
           },
           {
             "fund_code": "540002",

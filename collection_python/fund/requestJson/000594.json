@@ -15,8 +15,8 @@
           "name": "荣盛石化",
           "code": "002493",
           "percent": 8.32,
-          "current_price": 25.98,
-          "change_percentage": 1.48,
+          "current_price": 27.44,
+          "change_percentage": -0.62,
           "xq_symbol": "SZ002493",
           "xq_url": "https://xueqiu.com/S/SZ002493",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "玲珑轮胎",
           "code": "601966",
           "percent": 7.96,
-          "current_price": 33.4,
-          "change_percentage": -2.34,
+          "current_price": 38.68,
+          "change_percentage": 9.98,
           "xq_symbol": "SH601966",
           "xq_url": "https://xueqiu.com/S/SH601966",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "桐昆股份",
           "code": "601233",
           "percent": 7.37,
-          "current_price": 19.27,
-          "change_percentage": -1.63,
+          "current_price": 20.13,
+          "change_percentage": -2.23,
           "xq_symbol": "SH601233",
           "xq_url": "https://xueqiu.com/S/SH601233",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "山东黄金",
           "code": "600547",
           "percent": 6.66,
-          "current_price": 24.5,
-          "change_percentage": 1.79,
+          "current_price": 24.17,
+          "change_percentage": 2.33,
           "xq_symbol": "SH600547",
           "xq_url": "https://xueqiu.com/S/SH600547",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "恒力石化",
           "code": "600346",
           "percent": 5.87,
-          "current_price": 25.16,
-          "change_percentage": -2.1,
+          "current_price": 28.45,
+          "change_percentage": 1.72,
           "xq_symbol": "SH600346",
           "xq_url": "https://xueqiu.com/S/SH600346",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "银泰黄金",
           "code": "000975",
           "percent": 5.75,
-          "current_price": 9.32,
-          "change_percentage": 2.42,
+          "current_price": 8.91,
+          "change_percentage": 3.48,
           "xq_symbol": "SZ000975",
           "xq_url": "https://xueqiu.com/S/SZ000975",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "分众传媒",
           "code": "002027",
           "percent": 5.47,
-          "current_price": 10.36,
-          "change_percentage": 0.58,
+          "current_price": 10.04,
+          "change_percentage": 1.72,
           "xq_symbol": "SZ002027",
           "xq_url": "https://xueqiu.com/S/SZ002027",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "中国平安",
           "code": "601318",
           "percent": 4.12,
-          "current_price": 88.05,
-          "change_percentage": -2.58,
+          "current_price": 85.18,
+          "change_percentage": -2.07,
           "xq_symbol": "SH601318",
           "xq_url": "https://xueqiu.com/S/SH601318",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "金禾实业",
           "code": "002597",
           "percent": 4,
-          "current_price": 32.02,
-          "change_percentage": -0.62,
+          "current_price": 35.67,
+          "change_percentage": 9.99,
           "xq_symbol": "SZ002597",
           "xq_url": "https://xueqiu.com/S/SZ002597",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "新洋丰",
           "code": "000902",
           "percent": 3.83,
-          "current_price": 13.79,
-          "change_percentage": -0.07,
+          "current_price": 16.22,
+          "change_percentage": 1.38,
           "xq_symbol": "SZ000902",
           "xq_url": "https://xueqiu.com/S/SZ000902",
           "amarket": true
@@ -174,19 +174,19 @@
         "name": "朱睿",
         "resume": "    朱睿先生,厦门大学工商管理硕士,7 年证券行业从业经历。曾任海通证券股份有限公司化工行业研究员 ,2014 年 10 月加入摩根士丹利华鑫基金管理有限公司,历任研究员,基金经理助理,现任研究管理部基金经理兼研究员。2019 年 4 月起担任摩根士丹利华鑫基础行业股票型证券投资基金经理和摩根士丹利华鑫进取优选股票型证券投资基金基金经理。",
         "college": "厦门大学",
-        "work_year": "8",
+        "work_year": "9",
         "achievement_list": [
           {
             "fund_code": "000594",
             "fundsname": "大摩进取优选股票",
             "post_date": "2019-04-20",
-            "cp_rate": 78.5
+            "cp_rate": 82.6875
           },
           {
             "fund_code": "233001",
             "fundsname": "大摩基础行业混合",
             "post_date": "2019-04-20",
-            "cp_rate": 73.9671
+            "cp_rate": 79.4637
           }
         ]
       }

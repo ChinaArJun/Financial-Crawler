@@ -16,8 +16,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 8.96,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -34,8 +34,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 5.13,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -52,8 +52,8 @@
           "name": "宝信软件",
           "code": "600845",
           "percent": 4.96,
-          "current_price": 64.06,
-          "change_percentage": 0.13,
+          "current_price": 69.8,
+          "change_percentage": 1.19,
           "xq_symbol": "SH600845",
           "xq_url": "https://xueqiu.com/S/SH600845",
           "amarket": true
@@ -62,8 +62,8 @@
           "name": "亿联网络",
           "code": "300628",
           "percent": 4.89,
-          "current_price": 76.78,
-          "change_percentage": 1.04,
+          "current_price": 71.79,
+          "change_percentage": -1.82,
           "xq_symbol": "SZ300628",
           "xq_url": "https://xueqiu.com/S/SZ300628",
           "amarket": true
@@ -72,8 +72,8 @@
           "name": "歌尔股份",
           "code": "002241",
           "percent": 4.21,
-          "current_price": 37.16,
-          "change_percentage": -2.24,
+          "current_price": 36.74,
+          "change_percentage": -1.55,
           "xq_symbol": "SZ002241",
           "xq_url": "https://xueqiu.com/S/SZ002241",
           "amarket": true
@@ -82,8 +82,8 @@
           "name": "金山办公",
           "code": "688111",
           "percent": 4.04,
-          "current_price": 349.5,
-          "change_percentage": -2.75,
+          "current_price": 420,
+          "change_percentage": 2.19,
           "xq_symbol": "SH688111",
           "xq_url": "https://xueqiu.com/S/SH688111",
           "amarket": true
@@ -92,8 +92,8 @@
           "name": "韦尔股份",
           "code": "603501",
           "percent": 3.89,
-          "current_price": 218,
-          "change_percentage": 0.53,
+          "current_price": 230.05,
+          "change_percentage": -0.45,
           "xq_symbol": "SH603501",
           "xq_url": "https://xueqiu.com/S/SH603501",
           "amarket": true
@@ -102,8 +102,8 @@
           "name": "芒果超媒",
           "code": "300413",
           "percent": 3.16,
-          "current_price": 65.95,
-          "change_percentage": -1.54,
+          "current_price": 72.88,
+          "change_percentage": 0.52,
           "xq_symbol": "SZ300413",
           "xq_url": "https://xueqiu.com/S/SZ300413",
           "amarket": true
@@ -173,20 +173,26 @@
     "manager_list": [
       {
         "name": "许炎",
-        "resume": "    许炎,硕士,曾任兴业证券研究员;2015年6月加入富国基金管理有限公司,历任行业研究员,2016年8月起任富国天益价值混合型证券投资基金(原富国天益价值证券投资基金)基金经理。具有基金从业资格。",
-        "work_year": "7",
+        "resume": "    许炎,硕士,曾任兴业证券股份有限公司研究员;2015年6月加入富国基金管理有限公司,历任行业研究员,2016年8月至2019年8月任富国天益价值混合型证券投资基金(原富国天益价值证券投资基金)基金经理,2019年3月起任富国互联科技股票型证券投资基金基金经理。具有基金从业资格。",
+        "work_year": "8",
         "achievement_list": [
+          {
+            "fund_code": "011126",
+            "fundsname": "富国互联科技股票C",
+            "post_date": "2020-12-30",
+            "cp_rate": 0
+          },
           {
             "fund_code": "009892",
             "fundsname": "富国成长策略混合",
             "post_date": "2020-08-11",
-            "cp_rate": 1.1
+            "cp_rate": 11.95
           },
           {
             "fund_code": "006751",
-            "fundsname": "富国互联科技股票",
+            "fundsname": "富国互联科技股票A",
             "post_date": "2019-03-26",
-            "cp_rate": 144.61
+            "cp_rate": 162.85
           },
           {
             "fund_code": "100020",

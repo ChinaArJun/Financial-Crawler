@@ -15,8 +15,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 8.46,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "恒瑞医药",
           "code": "600276",
           "percent": 8.15,
-          "current_price": 90.07,
-          "change_percentage": 0.21,
+          "current_price": 111.2,
+          "change_percentage": -0.23,
           "xq_symbol": "SH600276",
           "xq_url": "https://xueqiu.com/S/SH600276",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "凯莱英",
           "code": "002821",
           "percent": 8.12,
-          "current_price": 274,
-          "change_percentage": 1.64,
+          "current_price": 297.92,
+          "change_percentage": -0.41,
           "xq_symbol": "SZ002821",
           "xq_url": "https://xueqiu.com/S/SZ002821",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "中公教育",
           "code": "002607",
           "percent": 6.3,
-          "current_price": 37,
-          "change_percentage": -1.04,
+          "current_price": 34.2,
+          "change_percentage": -2.65,
           "xq_symbol": "SZ002607",
           "xq_url": "https://xueqiu.com/S/SZ002607",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "金域医学",
           "code": "603882",
           "percent": 5.64,
-          "current_price": 99,
-          "change_percentage": 2.27,
+          "current_price": 130.68,
+          "change_percentage": 2,
           "xq_symbol": "SH603882",
           "xq_url": "https://xueqiu.com/S/SH603882",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "健友股份",
           "code": "603707",
           "percent": 5.1,
-          "current_price": 39.3,
-          "change_percentage": 1.34,
+          "current_price": 34.21,
+          "change_percentage": -2.62,
           "xq_symbol": "SH603707",
           "xq_url": "https://xueqiu.com/S/SH603707",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "爱尔眼科",
           "code": "300015",
           "percent": 4.73,
-          "current_price": 66.63,
-          "change_percentage": -0.25,
+          "current_price": 68.22,
+          "change_percentage": -8.91,
           "xq_symbol": "SZ300015",
           "xq_url": "https://xueqiu.com/S/SZ300015",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "药明康德",
           "code": "603259",
           "percent": 4.68,
-          "current_price": 110.9,
-          "change_percentage": -0.12,
+          "current_price": 137.11,
+          "change_percentage": 1.77,
           "xq_symbol": "SH603259",
           "xq_url": "https://xueqiu.com/S/SH603259",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "通策医疗",
           "code": "600763",
           "percent": 4.53,
-          "current_price": 233.45,
-          "change_percentage": 0.45,
+          "current_price": 268,
+          "change_percentage": -3.08,
           "xq_symbol": "SH600763",
           "xq_url": "https://xueqiu.com/S/SH600763",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "南微医学",
           "code": "688029",
           "percent": 3.31,
-          "current_price": 188.95,
-          "change_percentage": -0.14,
+          "current_price": 183.4,
+          "change_percentage": -0.33,
           "xq_symbol": "SH688029",
           "xq_url": "https://xueqiu.com/S/SH688029",
           "amarket": true
@@ -182,13 +182,13 @@
             "fund_code": "001766",
             "fundsname": "上投摩根医疗健康股票",
             "post_date": "2019-08-16",
-            "cp_rate": 91.2388
+            "cp_rate": 108.3048
           },
           {
             "fund_code": "001984",
             "fundsname": "上投摩根中国生物医药混合(QDII)",
             "post_date": "2019-02-22",
-            "cp_rate": 104.66
+            "cp_rate": 124.24
           },
           {
             "fund_code": "001984",
@@ -206,8 +206,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

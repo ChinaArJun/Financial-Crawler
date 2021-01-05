@@ -15,8 +15,8 @@
           "name": "微芯生物",
           "code": "688321",
           "percent": 3.13,
-          "current_price": 39.83,
-          "change_percentage": -11.92,
+          "current_price": 36.95,
+          "change_percentage": -0.16,
           "xq_symbol": "SH688321",
           "xq_url": "https://xueqiu.com/S/SH688321",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "鱼跃医疗",
           "code": "002223",
           "percent": 2.06,
-          "current_price": 28.15,
-          "change_percentage": -0.85,
+          "current_price": 28.46,
+          "change_percentage": 0.89,
           "xq_symbol": "SZ002223",
           "xq_url": "https://xueqiu.com/S/SZ002223",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "万科A",
           "code": "000002",
           "percent": 1.87,
-          "current_price": 29.18,
-          "change_percentage": -0.78,
+          "current_price": 27.78,
+          "change_percentage": -3.21,
           "xq_symbol": "SZ000002",
           "xq_url": "https://xueqiu.com/S/SZ000002",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "新宝股份",
           "code": "002705",
           "percent": 1.71,
-          "current_price": 41.98,
-          "change_percentage": 0.19,
+          "current_price": 43.73,
+          "change_percentage": 3.5,
           "xq_symbol": "SZ002705",
           "xq_url": "https://xueqiu.com/S/SZ002705",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "晨光生物",
           "code": "300138",
           "percent": 1.7,
-          "current_price": 17.64,
-          "change_percentage": -2.49,
+          "current_price": 19.78,
+          "change_percentage": 3.29,
           "xq_symbol": "SZ300138",
           "xq_url": "https://xueqiu.com/S/SZ300138",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "富祥药业",
           "code": "300497",
           "percent": 1.63,
-          "current_price": 14.98,
-          "change_percentage": 0.67,
+          "current_price": 14.07,
+          "change_percentage": -1.4,
           "xq_symbol": "SZ300497",
           "xq_url": "https://xueqiu.com/S/SZ300497",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "美的集团",
           "code": "000333",
           "percent": 1.62,
-          "current_price": 86.7,
-          "change_percentage": -1.54,
+          "current_price": 99.01,
+          "change_percentage": 0.58,
           "xq_symbol": "SZ000333",
           "xq_url": "https://xueqiu.com/S/SZ000333",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "普洛药业",
           "code": "000739",
           "percent": 1.44,
-          "current_price": 23.2,
-          "change_percentage": 0,
+          "current_price": 23.31,
+          "change_percentage": 0.13,
           "xq_symbol": "SZ000739",
           "xq_url": "https://xueqiu.com/S/SZ000739",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "安琪酵母",
           "code": "600298",
           "percent": 1.4,
-          "current_price": 50.15,
-          "change_percentage": -0.89,
+          "current_price": 53,
+          "change_percentage": 3.78,
           "xq_symbol": "SH600298",
           "xq_url": "https://xueqiu.com/S/SH600298",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "中顺洁柔",
           "code": "002511",
           "percent": 1.36,
-          "current_price": 21.33,
-          "change_percentage": -1.57,
+          "current_price": 22.14,
+          "change_percentage": 6.09,
           "xq_symbol": "SZ002511",
           "xq_url": "https://xueqiu.com/S/SZ002511",
           "amarket": true
@@ -178,85 +178,85 @@
         "name": "叶乐天",
         "resume": "    叶乐天先生,金融工程及指数投资部副总经理,博士。2008年5月至2011年9月就职于中国国际金融有限公司,历任市场风险管理分析员、量化分析经理,从事风险模型、量化研究与投资。2011年9月加入建信基金管理有限责任公司,历任基金经理助理、基金经理、金融工程及指数投资部总经理助理、副总经理,2012年3月21日至2016年7月20日任上证社会责任交易型开放式指数证券投资基金及其联接基金的基金经理;2013年3月28日起任建信央视财经50指数分级发起式证券投资基金的基金经理;2014年1月27日起任建信中证500指数增强型证券投资基金的基金经理;2015年8月26日起任建信精工制造指数增强型证券投资基金的基金经理;2016年8月9日起任建信多因子量化股票型证券投资基金的基金经理;2017年4月18日起任建信民丰回报定期开放混合型证券投资基金的基金经理;2017年5月22日起任建信鑫荣回报灵活配置混合型证券投资基金的基金经理;2018年1月10日起任建信鑫利回报灵活配置混合型证券投资基金的基金经理;2018年8月24日起任建信量化优享定期开放灵活配置混合型证券投资基金的基金经理;2018年11月22日起任建信中证1000指数增强型发起式证券投资基金的基金经理;2019年11月13日起任建信MSCI中国A股指数增强型证券投资基金的基金经理。",
         "college": "北京大学",
-        "work_year": "12",
+        "work_year": "13",
         "achievement_list": [
           {
             "fund_code": "007807",
             "fundsname": "建信MSCI中国A股指数增强C",
             "post_date": "2019-11-13",
-            "cp_rate": 42.84
+            "cp_rate": 49.52
           },
           {
             "fund_code": "007806",
             "fundsname": "建信MSCI中国A股指数增强A",
             "post_date": "2019-11-13",
-            "cp_rate": 43.43
+            "cp_rate": 50.19
           },
           {
             "fund_code": "006166",
             "fundsname": "建信中证1000指数增强C",
             "post_date": "2018-11-22",
-            "cp_rate": 80.53
+            "cp_rate": 77.4
           },
           {
             "fund_code": "006165",
             "fundsname": "建信中证1000指数增强A",
             "post_date": "2018-11-22",
-            "cp_rate": 81.98
+            "cp_rate": 78.88
           },
           {
             "fund_code": "004546",
             "fundsname": "建信量化优享定期开放灵活配置混合",
             "post_date": "2018-08-24",
-            "cp_rate": 29.17
+            "cp_rate": 28.88
           },
           {
             "fund_code": "005633",
             "fundsname": "建信中证500指数增强C",
             "post_date": "2018-03-16",
-            "cp_rate": 9.3566
+            "cp_rate": 8.9644
           },
           {
             "fund_code": "004653",
             "fundsname": "建信鑫利回报灵活配置混合C",
             "post_date": "2018-01-10",
-            "cp_rate": 38.15
+            "cp_rate": 40.92
           },
           {
             "fund_code": "004652",
             "fundsname": "建信鑫利回报灵活配置混合A",
             "post_date": "2018-01-10",
-            "cp_rate": 36.35
+            "cp_rate": 39.12
           },
           {
             "fund_code": "001498",
             "fundsname": "建信鑫荣回报灵活配置混合",
             "post_date": "2017-05-22",
-            "cp_rate": 93.33
+            "cp_rate": 95.6028
           },
           {
             "fund_code": "004413",
             "fundsname": "建信民丰回报定期开放混合",
             "post_date": "2017-04-18",
-            "cp_rate": 20.0859
+            "cp_rate": 20.0759
           },
           {
             "fund_code": "002952",
             "fundsname": "建信多因子量化股票",
             "post_date": "2016-08-09",
-            "cp_rate": 37.405
+            "cp_rate": 42.597
           },
           {
             "fund_code": "001397",
             "fundsname": "建信精工制造指数增强",
             "post_date": "2015-08-26",
-            "cp_rate": 69.01
+            "cp_rate": 77.42
           },
           {
             "fund_code": "000478",
             "fundsname": "建信中证500指数增强A",
             "post_date": "2014-01-27",
-            "cp_rate": 162.9974
+            "cp_rate": 162.1476
           },
           {
             "fund_code": "150124",
@@ -302,8 +302,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

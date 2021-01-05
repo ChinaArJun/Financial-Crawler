@@ -16,8 +16,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 0.57,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "汇川技术",
           "code": "300124",
           "percent": 0.53,
-          "current_price": 85.58,
-          "change_percentage": 1.04,
+          "current_price": 95.59,
+          "change_percentage": 2.45,
           "xq_symbol": "SZ300124",
           "xq_url": "https://xueqiu.com/S/SZ300124",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "新华保险",
           "code": "601336",
           "percent": 0.47,
-          "current_price": 62.1,
-          "change_percentage": 0.23,
+          "current_price": 56.49,
+          "change_percentage": -2.55,
           "xq_symbol": "SH601336",
           "xq_url": "https://xueqiu.com/S/SH601336",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "五粮液",
           "code": "000858",
           "percent": 0.46,
-          "current_price": 272,
-          "change_percentage": 0.65,
+          "current_price": 298.05,
+          "change_percentage": 2.12,
           "xq_symbol": "SZ000858",
           "xq_url": "https://xueqiu.com/S/SZ000858",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "中国人寿",
           "code": "601628",
           "percent": 0.44,
-          "current_price": 41.81,
-          "change_percentage": -0.21,
+          "current_price": 37.83,
+          "change_percentage": -1.46,
           "xq_symbol": "SH601628",
           "xq_url": "https://xueqiu.com/S/SH601628",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 0.42,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 0.38,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "分众传媒",
           "code": "002027",
           "percent": 0.37,
-          "current_price": 10.36,
-          "change_percentage": 0.58,
+          "current_price": 10.04,
+          "change_percentage": 1.72,
           "xq_symbol": "SZ002027",
           "xq_url": "https://xueqiu.com/S/SZ002027",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "山西汾酒",
           "code": "600809",
           "percent": 0.36,
-          "current_price": 265.1,
-          "change_percentage": 1.54,
+          "current_price": 373.63,
+          "change_percentage": -0.44,
           "xq_symbol": "SH600809",
           "xq_url": "https://xueqiu.com/S/SH600809",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "歌尔股份",
           "code": "002241",
           "percent": 0.35,
-          "current_price": 37.16,
-          "change_percentage": -2.24,
+          "current_price": 36.74,
+          "change_percentage": -1.55,
           "xq_symbol": "SZ002241",
           "xq_url": "https://xueqiu.com/S/SZ002241",
           "amarket": true
@@ -200,19 +200,19 @@
             "fund_code": "009158",
             "fundsname": "中金衡利1年",
             "post_date": "2020-06-03",
-            "cp_rate": -2.12
+            "cp_rate": -1.69
           },
           {
             "fund_code": "007697",
             "fundsname": "中金衡益A",
             "post_date": "2019-09-18",
-            "cp_rate": 7.18
+            "cp_rate": 8.9
           },
           {
             "fund_code": "007698",
             "fundsname": "中金衡益C",
             "post_date": "2019-09-18",
-            "cp_rate": 6.66
+            "cp_rate": 8.34
           },
           {
             "fund_code": "007421",
@@ -232,13 +232,13 @@
             "fund_code": "005489",
             "fundsname": "中金衡优灵活配置混合A",
             "post_date": "2018-12-21",
-            "cp_rate": 33.2479
+            "cp_rate": 38.9535
           },
           {
             "fund_code": "005490",
             "fundsname": "中金衡优灵活配置混合C",
             "post_date": "2018-12-21",
-            "cp_rate": 32.128
+            "cp_rate": 37.7452
           }
         ]
       }

@@ -24,8 +24,8 @@
           "name": "三一重工",
           "code": "600031",
           "percent": 8.24,
-          "current_price": 31.48,
-          "change_percentage": -1.41,
+          "current_price": 34.8,
+          "change_percentage": -0.51,
           "xq_symbol": "SH600031",
           "xq_url": "https://xueqiu.com/S/SH600031",
           "amarket": true
@@ -34,8 +34,8 @@
           "name": "招商银行",
           "code": "600036",
           "percent": 7.71,
-          "current_price": 44.26,
-          "change_percentage": -0.36,
+          "current_price": 43.17,
+          "change_percentage": -1.77,
           "xq_symbol": "SH600036",
           "xq_url": "https://xueqiu.com/S/SH600036",
           "amarket": true
@@ -44,8 +44,8 @@
           "name": "盈趣科技",
           "code": "002925",
           "percent": 7.21,
-          "current_price": 63.82,
-          "change_percentage": 0.22,
+          "current_price": 61.2,
+          "change_percentage": -4.87,
           "xq_symbol": "SZ002925",
           "xq_url": "https://xueqiu.com/S/SZ002925",
           "amarket": true
@@ -70,8 +70,8 @@
           "name": "春秋航空",
           "code": "601021",
           "percent": 4.93,
-          "current_price": 51.71,
-          "change_percentage": 0.23,
+          "current_price": 57.28,
+          "change_percentage": 3.34,
           "xq_symbol": "SH601021",
           "xq_url": "https://xueqiu.com/S/SH601021",
           "amarket": true
@@ -80,8 +80,8 @@
           "name": "双汇发展",
           "code": "000895",
           "percent": 4.25,
-          "current_price": 48.4,
-          "change_percentage": 1.4,
+          "current_price": 48.01,
+          "change_percentage": 2.28,
           "xq_symbol": "SZ000895",
           "xq_url": "https://xueqiu.com/S/SZ000895",
           "amarket": true
@@ -90,8 +90,8 @@
           "name": "鸿路钢构",
           "code": "002541",
           "percent": 4.18,
-          "current_price": 38.19,
-          "change_percentage": 1.84,
+          "current_price": 35.85,
+          "change_percentage": -1.86,
           "xq_symbol": "SZ002541",
           "xq_url": "https://xueqiu.com/S/SZ002541",
           "amarket": true
@@ -100,8 +100,8 @@
           "name": "万华化学",
           "code": "600309",
           "percent": 4.15,
-          "current_price": 82.99,
-          "change_percentage": -0.3,
+          "current_price": 94.12,
+          "change_percentage": 3.38,
           "xq_symbol": "SH600309",
           "xq_url": "https://xueqiu.com/S/SH600309",
           "amarket": true
@@ -189,37 +189,49 @@
       {
         "name": "谭丽",
         "resume": "    谭丽女士,硕士研究生,18年证券从业经历,具有基金从业资格。曾在北京海问投资咨询有限公司、国信证券股份有限公司及泰达荷银基金管理有限公司任研究员、基金经理助理职务。2007年 9月加入嘉实基金管理有限公司,曾任研究员、投资经理。2017年 6月 21日至 2019年 1月 10日任嘉实沪港深回报混合型证券投资基金基金经理。2017年 4月 11日至今任嘉实新消费股票型证券投资基金基金经理、2017年 11月 6日至今任嘉实价值精选股票型证券投资基金基金经理、2017年 11月 14日至今任嘉实价值优势混合型证券投资基金基金经理、2018年 9月 5日至今任嘉实丰和灵活配置混合型证券投资基金基金经理、2020年1月 8日至今任嘉实 3年封闭运作战略配售灵活配置混合型证券投资基金(LOF)基金经理、2020年 9月 21日至今任嘉实价值发现三个月定期开放混合型发起式证券投资基金基金经理。",
-        "work_year": "18",
+        "work_year": "19",
         "achievement_list": [
+          {
+            "fund_code": "010273",
+            "fundsname": "嘉实价值长青混合A",
+            "post_date": "2020-12-24",
+            "cp_rate": 1.14
+          },
+          {
+            "fund_code": "010274",
+            "fundsname": "嘉实价值长青混合C",
+            "post_date": "2020-12-24",
+            "cp_rate": 1.13
+          },
           {
             "fund_code": "010190",
             "fundsname": "嘉实价值发现三个月定期混合",
             "post_date": "2020-09-21",
-            "cp_rate": 13.33
+            "cp_rate": 19.37
           },
           {
             "fund_code": "501189",
             "fundsname": "嘉实3年封闭运作战略配售(LOF)",
             "post_date": "2020-01-08",
-            "cp_rate": 9.9652
+            "cp_rate": 11.319
           },
           {
             "fund_code": "004355",
             "fundsname": "嘉实丰和灵活配置混合",
             "post_date": "2018-09-05",
-            "cp_rate": 112.0587
+            "cp_rate": 125.1544
           },
           {
             "fund_code": "070019",
             "fundsname": "嘉实价值优势混合",
             "post_date": "2017-11-14",
-            "cp_rate": 88.669
+            "cp_rate": 99.0994
           },
           {
             "fund_code": "005267",
             "fundsname": "嘉实价值精选股票",
             "post_date": "2017-11-06",
-            "cp_rate": 89.95
+            "cp_rate": 107.75
           },
           {
             "fund_code": "004477",
@@ -232,7 +244,7 @@
             "fund_code": "001044",
             "fundsname": "嘉实新消费股票",
             "post_date": "2017-04-11",
-            "cp_rate": 141.1826
+            "cp_rate": 150.5014
           }
         ]
       }

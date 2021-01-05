@@ -75,44 +75,44 @@
             "fund_code": "010323",
             "fundsname": "华安平衡养老三年(FOF)",
             "post_date": "2020-12-01",
-            "cp_rate": 0
+            "cp_rate": 0.42
           },
           {
             "fund_code": "007643",
             "fundsname": "华安稳健养老目标一年持有期混合(FOF)",
             "post_date": "2019-11-26",
-            "cp_rate": 8.23
+            "cp_rate": 9.45
           },
           {
             "fund_code": "006575",
             "fundsname": "华安养老2030三年",
             "post_date": "2019-04-26",
-            "cp_rate": 20.05
+            "cp_rate": 22.02
           }
         ]
       },
       {
         "name": "杨志远",
         "resume": "    杨志远女士,9年证券、基金从业经历,硕士研究生,特许金融分析师(CFA)。\n    历任中银基金管理有限公司产品研发部高级产品经理、东海基金管理有限责任公司产品研发部产品经理、上海证券有限责任公司创新与发展部基金评价与研究中心分析师。2016年加入华安基金管理有限公司,现任基金组合投资部基金经理,全球资产配置投资决策委员会委员。2019年 4月起,担任华安养老目标日期 2030三年持有期混合型发起式基金中基金(FOF)的基金经理。2019年 11月起,同时担任华安稳健养老目标一年持有期混合型发起式基金中基金(FOF)的基金经理。",
-        "work_year": "8",
+        "work_year": "9",
         "achievement_list": [
           {
             "fund_code": "010323",
             "fundsname": "华安平衡养老三年(FOF)",
             "post_date": "2020-12-01",
-            "cp_rate": 0
+            "cp_rate": 0.42
           },
           {
             "fund_code": "007643",
             "fundsname": "华安稳健养老目标一年持有期混合(FOF)",
             "post_date": "2019-11-26",
-            "cp_rate": 8.23
+            "cp_rate": 9.45
           },
           {
             "fund_code": "006575",
             "fundsname": "华安养老2030三年",
             "post_date": "2019-04-26",
-            "cp_rate": 20.05
+            "cp_rate": 22.02
           }
         ]
       }
@@ -123,8 +123,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

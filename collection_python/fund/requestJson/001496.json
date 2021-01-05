@@ -15,8 +15,8 @@
           "name": "分众传媒",
           "code": "002027",
           "percent": 8.72,
-          "current_price": 10.36,
-          "change_percentage": 0.58,
+          "current_price": 10.04,
+          "change_percentage": 1.72,
           "xq_symbol": "SZ002027",
           "xq_url": "https://xueqiu.com/S/SZ002027",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "百润股份",
           "code": "002568",
           "percent": 5.67,
-          "current_price": 79.9,
-          "change_percentage": -0.11,
+          "current_price": 113.61,
+          "change_percentage": 8.94,
           "xq_symbol": "SZ002568",
           "xq_url": "https://xueqiu.com/S/SZ002568",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "泰格医药",
           "code": "300347",
           "percent": 5.56,
-          "current_price": 135.45,
-          "change_percentage": 1.84,
+          "current_price": 166.82,
+          "change_percentage": 3.22,
           "xq_symbol": "SZ300347",
           "xq_url": "https://xueqiu.com/S/SZ300347",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "五粮液",
           "code": "000858",
           "percent": 4.71,
-          "current_price": 272,
-          "change_percentage": 0.65,
+          "current_price": 298.05,
+          "change_percentage": 2.12,
           "xq_symbol": "SZ000858",
           "xq_url": "https://xueqiu.com/S/SZ000858",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 4.52,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "药明康德",
           "code": "603259",
           "percent": 4.51,
-          "current_price": 110.9,
-          "change_percentage": -0.12,
+          "current_price": 137.11,
+          "change_percentage": 1.77,
           "xq_symbol": "SH603259",
           "xq_url": "https://xueqiu.com/S/SH603259",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "吉比特",
           "code": "603444",
           "percent": 4.39,
-          "current_price": 410.3,
-          "change_percentage": 2.32,
+          "current_price": 437.99,
+          "change_percentage": 2.81,
           "xq_symbol": "SH603444",
           "xq_url": "https://xueqiu.com/S/SH603444",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "九洲药业",
           "code": "603456",
           "percent": 3.63,
-          "current_price": 32.24,
-          "change_percentage": 1.9,
+          "current_price": 35,
+          "change_percentage": -2.23,
           "xq_symbol": "SH603456",
           "xq_url": "https://xueqiu.com/S/SH603456",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "千禾味业",
           "code": "603027",
           "percent": 3.59,
-          "current_price": 37.95,
-          "change_percentage": -0.39,
+          "current_price": 38.43,
+          "change_percentage": 2.81,
           "xq_symbol": "SH603027",
           "xq_url": "https://xueqiu.com/S/SH603027",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "歌尔股份",
           "code": "002241",
           "percent": 3.49,
-          "current_price": 37.16,
-          "change_percentage": -2.24,
+          "current_price": 36.74,
+          "change_percentage": -1.55,
           "xq_symbol": "SZ002241",
           "xq_url": "https://xueqiu.com/S/SZ002241",
           "amarket": true
@@ -178,19 +178,31 @@
         "name": "王筱苓",
         "resume": "    王筱苓女士,23年证券从业经验;曾任中国银行全球金融市场部首席交易员;2005年加入工银瑞信,曾任工银核心价值混合基金、工银精选平衡混合型基金、工银稳健成长混合基金基金经理、专户投资部专户投资经理,现任权益投资部副总监,2011年10月11日至2017年7月19日,担任工银瑞信中小盘成长混合型证券投资基金基金经理;2012年12月5日至今,担任工银瑞信大盘蓝筹混合型证券投资基金基金经理;2014年6月26日至2017年8月8日,担任工银瑞信绝对收益混合型基金基金经理;2014年12月30日至今,担任工银瑞信消费服务行业混合型证券投资基金基金经理;2015年8月6日至今,担任工银瑞信新蓝筹股票型基金基金经理;2016年4月20日至2017年8月8日,担任工银瑞信沪港深股票型证券投资基金基金经理;2016年10月27日至今,担任工银瑞信现代服务业灵活配置混合型证券投资基金基金经理,2018年1月23日至今,担任工银瑞信聚焦30股票型证券投资基金基金经理。",
         "college": "清华大学",
-        "work_year": "23",
+        "work_year": "24",
         "achievement_list": [
+          {
+            "fund_code": "010745",
+            "fundsname": "工银灵动价值混合C",
+            "post_date": "2020-12-25",
+            "cp_rate": 0.05
+          },
+          {
+            "fund_code": "010744",
+            "fundsname": "工银灵动价值混合A",
+            "post_date": "2020-12-25",
+            "cp_rate": 0.05
+          },
           {
             "fund_code": "001496",
             "fundsname": "工银聚焦30股票",
             "post_date": "2018-01-23",
-            "cp_rate": 84.3061
+            "cp_rate": 102.594
           },
           {
             "fund_code": "002594",
             "fundsname": "工银现代服务业混合",
             "post_date": "2016-10-27",
-            "cp_rate": 101.5
+            "cp_rate": 115.9
           },
           {
             "fund_code": "002387",
@@ -203,13 +215,13 @@
             "fund_code": "001651",
             "fundsname": "工银瑞信新蓝筹股票",
             "post_date": "2015-08-06",
-            "cp_rate": 151.1
+            "cp_rate": 157.7
           },
           {
             "fund_code": "481013",
             "fundsname": "工银消费服务混合",
             "post_date": "2014-12-30",
-            "cp_rate": 209.4728
+            "cp_rate": 225.0043
           },
           {
             "fund_code": "000672",
@@ -229,7 +241,7 @@
             "fund_code": "481008",
             "fundsname": "工银大盘蓝筹混合",
             "post_date": "2012-12-05",
-            "cp_rate": 278.5067
+            "cp_rate": 285.0671
           },
           {
             "fund_code": "481010",
@@ -264,19 +276,19 @@
       {
         "name": "胡志利",
         "resume": "    胡志利先生,7年证券从业经验;2012年加入工银瑞信,现任权益投资部基金经理,2015年8月18日至2017年12月26日,担任工银瑞信绝对收益策略混合型发起式证券投资基金基金经理;2016年10月10日至2018年2月23日,担任工银瑞信新焦点灵活配置混合型证券投资基金基金经理;2017年1月25日至今,担任工银瑞信优质精选混合型证券投资基金基金经理;2017年4月14日至2018年6月12日,担任工银瑞信新机遇灵活配置混合型证券投资基金基金经理; 2017年4月27日至2018年8月28日,担任工银瑞信新价值灵活配置混合型证券投资基金基金经理;2018年2月27日至2019年8月14日,担任工银瑞信国家战略主题股票型证券投资基金基金经理。2019年11月7日至今,担任工银瑞信聚焦30股票型证券投资基金基金经理;2019年11月7日至今,担任工银瑞信现代服务业灵活配置混合型证券投资基金基金经理。",
-        "work_year": "8",
+        "work_year": "9",
         "achievement_list": [
           {
             "fund_code": "002594",
             "fundsname": "工银现代服务业混合",
             "post_date": "2019-11-07",
-            "cp_rate": 71.198
+            "cp_rate": 83.4325
           },
           {
             "fund_code": "001496",
             "fundsname": "工银聚焦30股票",
             "post_date": "2019-11-07",
-            "cp_rate": 86.728
+            "cp_rate": 105.2562
           },
           {
             "fund_code": "001719",
@@ -310,7 +322,7 @@
             "fund_code": "487021",
             "fundsname": "工银瑞信优质精选混合",
             "post_date": "2017-01-25",
-            "cp_rate": 118.8395
+            "cp_rate": 133.4527
           },
           {
             "fund_code": "001998",

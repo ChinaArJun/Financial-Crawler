@@ -15,8 +15,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 9.97,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "五粮液",
           "code": "000858",
           "percent": 8.95,
-          "current_price": 272,
-          "change_percentage": 0.65,
+          "current_price": 298.05,
+          "change_percentage": 2.12,
           "xq_symbol": "SZ000858",
           "xq_url": "https://xueqiu.com/S/SZ000858",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "长春高新",
           "code": "000661",
           "percent": 8.02,
-          "current_price": 388,
-          "change_percentage": 0.19,
+          "current_price": 473.45,
+          "change_percentage": 5.47,
           "xq_symbol": "SZ000661",
           "xq_url": "https://xueqiu.com/S/SZ000661",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 6.19,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 4.5,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "中国中免",
           "code": "601888",
           "percent": 4.45,
-          "current_price": 208.03,
-          "change_percentage": 0.13,
+          "current_price": 292.25,
+          "change_percentage": 3.47,
           "xq_symbol": "SH601888",
           "xq_url": "https://xueqiu.com/S/SH601888",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "安井食品",
           "code": "603345",
           "percent": 3.73,
-          "current_price": 178.99,
-          "change_percentage": -1.12,
+          "current_price": 193.58,
+          "change_percentage": 0.37,
           "xq_symbol": "SH603345",
           "xq_url": "https://xueqiu.com/S/SH603345",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "宝信软件",
           "code": "600845",
           "percent": 3.61,
-          "current_price": 64.06,
-          "change_percentage": 0.13,
+          "current_price": 69.8,
+          "change_percentage": 1.19,
           "xq_symbol": "SH600845",
           "xq_url": "https://xueqiu.com/S/SH600845",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "浙江鼎力",
           "code": "603338",
           "percent": 3.52,
-          "current_price": 103.96,
-          "change_percentage": -2.04,
+          "current_price": 103.13,
+          "change_percentage": 1.92,
           "xq_symbol": "SH603338",
           "xq_url": "https://xueqiu.com/S/SH603338",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 3.12,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -182,37 +182,37 @@
             "fund_code": "008681",
             "fundsname": "鹏华价值成长混合",
             "post_date": "2020-02-10",
-            "cp_rate": 32.06
+            "cp_rate": 43.59
           },
           {
             "fund_code": "160603",
             "fundsname": "鹏华普天收益混合",
             "post_date": "2018-11-19",
-            "cp_rate": 134.7269
+            "cp_rate": 153.0872
           },
           {
             "fund_code": "002259",
             "fundsname": "鹏华健康环保灵活配置混合",
             "post_date": "2018-11-19",
-            "cp_rate": 134.9904
+            "cp_rate": 159.6558
           },
           {
             "fund_code": "160611",
             "fundsname": "鹏华优质治理混合(LOF)",
             "post_date": "2018-08-01",
-            "cp_rate": 129.1269
+            "cp_rate": 150.8607
           },
           {
             "fund_code": "005268",
             "fundsname": "鹏华优势企业",
             "post_date": "2017-11-29",
-            "cp_rate": 109.07
+            "cp_rate": 134.29
           },
           {
             "fund_code": "001222",
             "fundsname": "鹏华外延成长灵活配置混合",
             "post_date": "2016-03-29",
-            "cp_rate": 201.683
+            "cp_rate": 234.0813
           }
         ]
       }

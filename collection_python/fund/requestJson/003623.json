@@ -15,8 +15,8 @@
           "name": "吉祥航空",
           "code": "603885",
           "percent": 9.8,
-          "current_price": 11.66,
-          "change_percentage": -0.43,
+          "current_price": 11.16,
+          "change_percentage": -1.85,
           "xq_symbol": "SH603885",
           "xq_url": "https://xueqiu.com/S/SH603885",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "金风科技",
           "code": "002202",
           "percent": 9.2,
-          "current_price": 12.51,
-          "change_percentage": 0.89,
+          "current_price": 15.3,
+          "change_percentage": 7.37,
           "xq_symbol": "SZ002202",
           "xq_url": "https://xueqiu.com/S/SZ002202",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "烽火通信",
           "code": "600498",
           "percent": 9.1,
-          "current_price": 24.38,
-          "change_percentage": 0.45,
+          "current_price": 24.6,
+          "change_percentage": 2.16,
           "xq_symbol": "SH600498",
           "xq_url": "https://xueqiu.com/S/SH600498",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "长安汽车",
           "code": "000625",
           "percent": 9.07,
-          "current_price": 25.2,
-          "change_percentage": 5.7,
+          "current_price": 21.75,
+          "change_percentage": -0.59,
           "xq_symbol": "SZ000625",
           "xq_url": "https://xueqiu.com/S/SZ000625",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "中国国航",
           "code": "601111",
           "percent": 8.92,
-          "current_price": 7.77,
-          "change_percentage": -1.65,
+          "current_price": 7.4,
+          "change_percentage": -1.2,
           "xq_symbol": "SH601111",
           "xq_url": "https://xueqiu.com/S/SH601111",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "江铃汽车",
           "code": "000550",
           "percent": 8.92,
-          "current_price": 19.58,
-          "change_percentage": 3.43,
+          "current_price": 20.18,
+          "change_percentage": -2.23,
           "xq_symbol": "SZ000550",
           "xq_url": "https://xueqiu.com/S/SZ000550",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "三特索道",
           "code": "002159",
           "percent": 8.9,
-          "current_price": 13.02,
-          "change_percentage": 0.08,
+          "current_price": 11.88,
+          "change_percentage": -0.75,
           "xq_symbol": "SZ002159",
           "xq_url": "https://xueqiu.com/S/SZ002159",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "春秋航空",
           "code": "601021",
           "percent": 7.74,
-          "current_price": 51.71,
-          "change_percentage": 0.23,
+          "current_price": 57.28,
+          "change_percentage": 3.34,
           "xq_symbol": "SH601021",
           "xq_url": "https://xueqiu.com/S/SH601021",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "东方航空",
           "code": "600115",
           "percent": 7.11,
-          "current_price": 4.93,
-          "change_percentage": -0.6,
+          "current_price": 4.62,
+          "change_percentage": -1.28,
           "xq_symbol": "SH600115",
           "xq_url": "https://xueqiu.com/S/SH600115",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "南方航空",
           "code": "600029",
           "percent": 7.09,
-          "current_price": 6.16,
-          "change_percentage": -1.12,
+          "current_price": 5.9,
+          "change_percentage": -1.01,
           "xq_symbol": "SH600029",
           "xq_url": "https://xueqiu.com/S/SH600029",
           "amarket": true
@@ -129,8 +129,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 2,
-      "all_buy_days": 2,
-      "all_sale_days": 3
+      "all_sale_days": 3,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

@@ -15,8 +15,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 5.18,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "中国平安",
           "code": "601318",
           "percent": 3.98,
-          "current_price": 88.05,
-          "change_percentage": -2.58,
+          "current_price": 85.18,
+          "change_percentage": -2.07,
           "xq_symbol": "SH601318",
           "xq_url": "https://xueqiu.com/S/SH601318",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "江苏银行",
           "code": "600919",
           "percent": 3.15,
-          "current_price": 5.93,
-          "change_percentage": -2.31,
+          "current_price": 5.43,
+          "change_percentage": -0.55,
           "xq_symbol": "SH600919",
           "xq_url": "https://xueqiu.com/S/SH600919",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "中信证券",
           "code": "600030",
           "percent": 2.96,
-          "current_price": 30.01,
-          "change_percentage": 0,
+          "current_price": 29.18,
+          "change_percentage": -0.75,
           "xq_symbol": "SH600030",
           "xq_url": "https://xueqiu.com/S/SH600030",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "伊利股份",
           "code": "600887",
           "percent": 2.92,
-          "current_price": 40.68,
-          "change_percentage": 1.24,
+          "current_price": 47.36,
+          "change_percentage": 6.74,
           "xq_symbol": "SH600887",
           "xq_url": "https://xueqiu.com/S/SH600887",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "美的集团",
           "code": "000333",
           "percent": 2.85,
-          "current_price": 86.7,
-          "change_percentage": -1.54,
+          "current_price": 99.01,
+          "change_percentage": 0.58,
           "xq_symbol": "SZ000333",
           "xq_url": "https://xueqiu.com/S/SZ000333",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "国泰君安",
           "code": "601211",
           "percent": 2.77,
-          "current_price": 18.44,
-          "change_percentage": -0.38,
+          "current_price": 17.61,
+          "change_percentage": 0.46,
           "xq_symbol": "SH601211",
           "xq_url": "https://xueqiu.com/S/SH601211",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 2.55,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "中国中冶",
           "code": "601618",
           "percent": 2.25,
-          "current_price": 2.68,
-          "change_percentage": -0.37,
+          "current_price": 2.79,
+          "change_percentage": 2.2,
           "xq_symbol": "SH601618",
           "xq_url": "https://xueqiu.com/S/SH601618",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "华泰证券",
           "code": "601688",
           "percent": 2.2,
-          "current_price": 19.14,
-          "change_percentage": -0.31,
+          "current_price": 18.04,
+          "change_percentage": 0.17,
           "xq_symbol": "SH601688",
           "xq_url": "https://xueqiu.com/S/SH601688",
           "amarket": true
@@ -177,37 +177,37 @@
       {
         "name": "徐喻军",
         "resume": "    徐喻军先生,理学硕士。曾担任安信证券风险管理部风险管理专员。2012年3月加入景顺长城基金管理有限公司,担任量化及ETF投资部ETF专员;自2014年4月起担任量化及ETF投资部基金经理。具有9年证券、基金行业从业经验。兼任景顺长城中证500交易型开放式指数证券投资基金、景顺长城中证500交易型开放式指数证券投资基金联接基金、景顺长城公司治理混合型证券投资基金、景顺长城研究精选股票型证券投资基金、景顺长城中证500行业中性低波动指数型证券投资基金、景顺长城领先回报灵活配置混合型证券投资基金、景顺长城优质成长股票型证券投资基金、景顺长城睿成灵活配置混合型证券投资基金、景顺长城量化平衡灵活配置混合型证券投资基金、景顺长城泰恒回报灵活配置混合型证券投资基金、景顺长城MSCI中国A股国际通交易型开放式指数证券投资基金、景顺长城MSCI中国A股国际通交易型开放式指数证券投资基金联接基金、景顺长城中证TMT150交易型开放式指数证券投资基金、景顺长城中证TMT150交易型开放式指数证券投资基金联接基金和景顺长城中证500指数增强型证券投资基金基金经理。",
-        "work_year": "10",
+        "work_year": "11",
         "achievement_list": [
           {
             "fund_code": "006063",
             "fundsname": "景顺长城MSCI中国A股国际通",
             "post_date": "2020-07-02",
-            "cp_rate": 13.748
+            "cp_rate": 19.2954
           },
           {
             "fund_code": "007760",
             "fundsname": "景顺沪港深红利成长低波动指数C",
             "post_date": "2019-09-06",
-            "cp_rate": 1.13
+            "cp_rate": -1.87
           },
           {
             "fund_code": "007751",
             "fundsname": "景顺沪港深红利成长低波动指数A",
             "post_date": "2019-09-06",
-            "cp_rate": 1.44
+            "cp_rate": -1.56
           },
           {
             "fund_code": "006201",
             "fundsname": "景顺长城量化先锋混合",
             "post_date": "2019-07-16",
-            "cp_rate": 41.1883
+            "cp_rate": 46.2822
           },
           {
             "fund_code": "006682",
             "fundsname": "景顺长城中证500指数增强",
             "post_date": "2019-03-25",
-            "cp_rate": 32.41
+            "cp_rate": 33.48
           },
           {
             "fund_code": "001361",
@@ -241,19 +241,19 @@
             "fund_code": "005326",
             "fundsname": "景顺长城泰恒回报混合C",
             "post_date": "2018-03-06",
-            "cp_rate": 39.8106
+            "cp_rate": 42.3809
           },
           {
             "fund_code": "005325",
             "fundsname": "景顺长城泰恒回报混合A",
             "post_date": "2018-03-06",
-            "cp_rate": 40.7633
+            "cp_rate": 43.372
           },
           {
             "fund_code": "005258",
             "fundsname": "景顺长城量化平衡混合",
             "post_date": "2017-12-27",
-            "cp_rate": 39.89
+            "cp_rate": 45.33
           },
           {
             "fund_code": "004719",
@@ -273,19 +273,19 @@
             "fund_code": "000411",
             "fundsname": "景顺长城优质成长",
             "post_date": "2017-12-05",
-            "cp_rate": 47.8576
+            "cp_rate": 54.7685
           },
           {
             "fund_code": "001379",
             "fundsname": "景顺长城领先回报灵活配置混合C",
             "post_date": "2017-06-10",
-            "cp_rate": 38.0408
+            "cp_rate": 40.4389
           },
           {
             "fund_code": "001362",
             "fundsname": "景顺长城领先回报灵活配置混合A",
             "post_date": "2017-06-10",
-            "cp_rate": 38.9661
+            "cp_rate": 41.4973
           },
           {
             "fund_code": "003318",

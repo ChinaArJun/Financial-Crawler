@@ -16,8 +16,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 6.45,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "广联达",
           "code": "002410",
           "percent": 5.46,
-          "current_price": 70.77,
-          "change_percentage": 2.08,
+          "current_price": 80.53,
+          "change_percentage": 2.27,
           "xq_symbol": "SZ002410",
           "xq_url": "https://xueqiu.com/S/SZ002410",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "石基信息",
           "code": "002153",
           "percent": 5.26,
-          "current_price": 34.23,
-          "change_percentage": -0.49,
+          "current_price": 32.1,
+          "change_percentage": 3.25,
           "xq_symbol": "SZ002153",
           "xq_url": "https://xueqiu.com/S/SZ002153",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "金山办公",
           "code": "688111",
           "percent": 4,
-          "current_price": 349.5,
-          "change_percentage": -2.75,
+          "current_price": 420,
+          "change_percentage": 2.19,
           "xq_symbol": "SH688111",
           "xq_url": "https://xueqiu.com/S/SH688111",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "深信服",
           "code": "300454",
           "percent": 3.87,
-          "current_price": 217.55,
-          "change_percentage": 3.2,
+          "current_price": 266,
+          "change_percentage": 7.25,
           "xq_symbol": "SZ300454",
           "xq_url": "https://xueqiu.com/S/SZ300454",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "石头科技",
           "code": "688169",
           "percent": 3.69,
-          "current_price": 921.36,
-          "change_percentage": 1.98,
+          "current_price": 978.04,
+          "change_percentage": -5.59,
           "xq_symbol": "SH688169",
           "xq_url": "https://xueqiu.com/S/SH688169",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 3.33,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "恒生电子",
           "code": "600570",
           "percent": 3.03,
-          "current_price": 98.15,
-          "change_percentage": 1.31,
+          "current_price": 106.17,
+          "change_percentage": 1.21,
           "xq_symbol": "SH600570",
           "xq_url": "https://xueqiu.com/S/SH600570",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "春风动力",
           "code": "603129",
           "percent": 2.89,
-          "current_price": 153.96,
-          "change_percentage": 6.14,
+          "current_price": 168,
+          "change_percentage": -3.55,
           "xq_symbol": "SH603129",
           "xq_url": "https://xueqiu.com/S/SH603129",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "芒果超媒",
           "code": "300413",
           "percent": 2.81,
-          "current_price": 65.95,
-          "change_percentage": -1.54,
+          "current_price": 72.88,
+          "change_percentage": 0.52,
           "xq_symbol": "SZ300413",
           "xq_url": "https://xueqiu.com/S/SZ300413",
           "amarket": true
@@ -188,31 +188,31 @@
             "fund_code": "010180",
             "fundsname": "华夏科技龙头两年定开混合",
             "post_date": "2020-10-26",
-            "cp_rate": 0.3
+            "cp_rate": 9.91
           },
           {
             "fund_code": "001042",
             "fundsname": "华夏领先股票",
             "post_date": "2020-07-21",
-            "cp_rate": 0.1284
+            "cp_rate": 12.1951
           },
           {
             "fund_code": "002891",
             "fundsname": "华夏移动互联混合(QDII)人民币",
             "post_date": "2016-12-14",
-            "cp_rate": 133.3333
+            "cp_rate": 160.479
           },
           {
             "fund_code": "002892",
             "fundsname": "华夏移动互联混合(QDII)美元现汇",
             "post_date": "2016-12-14",
-            "cp_rate": 147.5035
+            "cp_rate": 177.0458
           },
           {
             "fund_code": "002893",
             "fundsname": "华夏移动互联混合(QDII)美元现钞",
             "post_date": "2016-12-14",
-            "cp_rate": 147.5035
+            "cp_rate": 177.0458
           },
           {
             "fund_code": "000021",

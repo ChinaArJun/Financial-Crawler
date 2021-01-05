@@ -15,8 +15,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 9.92,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "恒瑞医药",
           "code": "600276",
           "percent": 9.28,
-          "current_price": 90.07,
-          "change_percentage": 0.21,
+          "current_price": 111.2,
+          "change_percentage": -0.23,
           "xq_symbol": "SH600276",
           "xq_url": "https://xueqiu.com/S/SH600276",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "长春高新",
           "code": "000661",
           "percent": 8.71,
-          "current_price": 388,
-          "change_percentage": 0.19,
+          "current_price": 473.45,
+          "change_percentage": 5.47,
           "xq_symbol": "SZ000661",
           "xq_url": "https://xueqiu.com/S/SZ000661",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "药明康德",
           "code": "603259",
           "percent": 8.62,
-          "current_price": 110.9,
-          "change_percentage": -0.12,
+          "current_price": 137.11,
+          "change_percentage": 1.77,
           "xq_symbol": "SH603259",
           "xq_url": "https://xueqiu.com/S/SH603259",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "凯莱英",
           "code": "002821",
           "percent": 6.26,
-          "current_price": 274,
-          "change_percentage": 1.64,
+          "current_price": 297.92,
+          "change_percentage": -0.41,
           "xq_symbol": "SZ002821",
           "xq_url": "https://xueqiu.com/S/SZ002821",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "片仔癀",
           "code": "600436",
           "percent": 5.84,
-          "current_price": 227.97,
-          "change_percentage": 0.29,
+          "current_price": 279.98,
+          "change_percentage": 4.66,
           "xq_symbol": "SH600436",
           "xq_url": "https://xueqiu.com/S/SH600436",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "泰格医药",
           "code": "300347",
           "percent": 5.75,
-          "current_price": 135.45,
-          "change_percentage": 1.84,
+          "current_price": 166.82,
+          "change_percentage": 3.22,
           "xq_symbol": "SZ300347",
           "xq_url": "https://xueqiu.com/S/SZ300347",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "大参林",
           "code": "603233",
           "percent": 4.51,
-          "current_price": 87.64,
-          "change_percentage": 0.62,
+          "current_price": 76.99,
+          "change_percentage": -1.74,
           "xq_symbol": "SH603233",
           "xq_url": "https://xueqiu.com/S/SH603233",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "华兰生物",
           "code": "002007",
           "percent": 4.46,
-          "current_price": 43.73,
-          "change_percentage": -3.19,
+          "current_price": 41.85,
+          "change_percentage": -0.92,
           "xq_symbol": "SZ002007",
           "xq_url": "https://xueqiu.com/S/SZ002007",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "康龙化成",
           "code": "300759",
           "percent": 3.23,
-          "current_price": 103.13,
-          "change_percentage": -0.27,
+          "current_price": 121,
+          "change_percentage": 0.5,
           "xq_symbol": "SZ300759",
           "xq_url": "https://xueqiu.com/S/SZ300759",
           "amarket": true
@@ -178,7 +178,7 @@
             "fund_code": "000780",
             "fundsname": "鹏华医疗保健股票",
             "post_date": "2018-04-12",
-            "cp_rate": 90.8672
+            "cp_rate": 113.8143
           }
         ]
       }

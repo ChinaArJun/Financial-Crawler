@@ -47,8 +47,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 4.91,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "恒生电子",
           "code": "600570",
           "percent": 4.78,
-          "current_price": 98.15,
-          "change_percentage": 1.31,
+          "current_price": 106.17,
+          "change_percentage": 1.21,
           "xq_symbol": "SH600570",
           "xq_url": "https://xueqiu.com/S/SH600570",
           "amarket": true
@@ -83,8 +83,8 @@
           "name": "爱尔眼科",
           "code": "300015",
           "percent": 4.12,
-          "current_price": 66.63,
-          "change_percentage": -0.25,
+          "current_price": 68.22,
+          "change_percentage": -8.91,
           "xq_symbol": "SZ300015",
           "xq_url": "https://xueqiu.com/S/SZ300015",
           "amarket": true
@@ -93,8 +93,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 3.87,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -171,19 +171,19 @@
             "fund_code": "001685",
             "fundsname": "汇添富沪港深新价值股票",
             "post_date": "2019-01-18",
-            "cp_rate": 45.7953
+            "cp_rate": 60.9929
           },
           {
             "fund_code": "470888",
             "fundsname": "汇添富香港优势精选混合(QDII)",
             "post_date": "2019-01-01",
-            "cp_rate": 50.2314
+            "cp_rate": 56.8153
           },
           {
             "fund_code": "005228",
             "fundsname": "汇添富港股通专注成长混合",
             "post_date": "2019-01-01",
-            "cp_rate": 44.9752
+            "cp_rate": 57.0552
           }
         ]
       }

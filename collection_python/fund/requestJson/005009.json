@@ -15,8 +15,8 @@
           "name": "通威股份",
           "code": "600438",
           "percent": 7.97,
-          "current_price": 29.2,
-          "change_percentage": -1.85,
+          "current_price": 41.65,
+          "change_percentage": 8.35,
           "xq_symbol": "SH600438",
           "xq_url": "https://xueqiu.com/S/SH600438",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 7.64,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "亿纬锂能",
           "code": "300014",
           "percent": 7.34,
-          "current_price": 63.71,
-          "change_percentage": 4.17,
+          "current_price": 93.49,
+          "change_percentage": 14.71,
           "xq_symbol": "SZ300014",
           "xq_url": "https://xueqiu.com/S/SZ300014",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "歌尔股份",
           "code": "002241",
           "percent": 6.36,
-          "current_price": 37.16,
-          "change_percentage": -2.24,
+          "current_price": 36.74,
+          "change_percentage": -1.55,
           "xq_symbol": "SZ002241",
           "xq_url": "https://xueqiu.com/S/SZ002241",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "三花智控",
           "code": "002050",
           "percent": 6.08,
-          "current_price": 24.3,
-          "change_percentage": 2.84,
+          "current_price": 27.12,
+          "change_percentage": 10.02,
           "xq_symbol": "SZ002050",
           "xq_url": "https://xueqiu.com/S/SZ002050",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 5.88,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "中信证券",
           "code": "600030",
           "percent": 5.87,
-          "current_price": 30.01,
-          "change_percentage": 0,
+          "current_price": 29.18,
+          "change_percentage": -0.75,
           "xq_symbol": "SH600030",
           "xq_url": "https://xueqiu.com/S/SH600030",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 5.84,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "锦浪科技",
           "code": "300763",
           "percent": 5.26,
-          "current_price": 117.3,
-          "change_percentage": 10.91,
+          "current_price": 150.5,
+          "change_percentage": 1.01,
           "xq_symbol": "SZ300763",
           "xq_url": "https://xueqiu.com/S/SZ300763",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "中国中免",
           "code": "601888",
           "percent": 4.65,
-          "current_price": 208.03,
-          "change_percentage": 0.13,
+          "current_price": 292.25,
+          "change_percentage": 3.47,
           "xq_symbol": "SH601888",
           "xq_url": "https://xueqiu.com/S/SH601888",
           "amarket": true
@@ -173,19 +173,19 @@
       {
         "name": "林博程",
         "resume": "    林博程先生,硕士研究生。2012年起从事金融相关工作,曾任职于永诚财产保险股份有限公司、招商证券股份有限公司、华泰证券股份有限公司。2015年10月加入申万菱信基金管理有限公司,曾任行业研究员、基金经理助理,申万菱信新动力混合型证券投资基金基金经理,现任申万菱信新经济混合型证券投资基金、申万菱信行业轮动股票型证券投资基金基金经理。",
-        "work_year": "9",
+        "work_year": "10",
         "achievement_list": [
           {
             "fund_code": "005009",
             "fundsname": "申万菱信行业轮动股票",
             "post_date": "2020-05-14",
-            "cp_rate": 42.6973
+            "cp_rate": 61.8177
           },
           {
             "fund_code": "310358",
             "fundsname": "申万菱信新经济混合",
             "post_date": "2019-02-28",
-            "cp_rate": 57.4919
+            "cp_rate": 71.4422
           },
           {
             "fund_code": "310328",
@@ -203,8 +203,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

@@ -15,8 +15,8 @@
           "name": "博腾股份",
           "code": "300363",
           "percent": 8.63,
-          "current_price": 34.7,
-          "change_percentage": -0.14,
+          "current_price": 37.12,
+          "change_percentage": 1.64,
           "xq_symbol": "SZ300363",
           "xq_url": "https://xueqiu.com/S/SZ300363",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "歌尔股份",
           "code": "002241",
           "percent": 8.02,
-          "current_price": 37.16,
-          "change_percentage": -2.24,
+          "current_price": 36.74,
+          "change_percentage": -1.55,
           "xq_symbol": "SZ002241",
           "xq_url": "https://xueqiu.com/S/SZ002241",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "石基信息",
           "code": "002153",
           "percent": 6.43,
-          "current_price": 34.23,
-          "change_percentage": -0.49,
+          "current_price": 32.1,
+          "change_percentage": 3.25,
           "xq_symbol": "SZ002153",
           "xq_url": "https://xueqiu.com/S/SZ002153",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "兆易创新",
           "code": "603986",
           "percent": 6.37,
-          "current_price": 213.5,
-          "change_percentage": -0.23,
+          "current_price": 198.62,
+          "change_percentage": 0.57,
           "xq_symbol": "SH603986",
           "xq_url": "https://xueqiu.com/S/SH603986",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "紫金矿业",
           "code": "601899",
           "percent": 5.94,
-          "current_price": 8.91,
-          "change_percentage": 1.14,
+          "current_price": 10.04,
+          "change_percentage": 8.07,
           "xq_symbol": "SH601899",
           "xq_url": "https://xueqiu.com/S/SH601899",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "山东黄金",
           "code": "600547",
           "percent": 4.73,
-          "current_price": 24.5,
-          "change_percentage": 1.79,
+          "current_price": 24.17,
+          "change_percentage": 2.33,
           "xq_symbol": "SH600547",
           "xq_url": "https://xueqiu.com/S/SH600547",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "中国人寿",
           "code": "601628",
           "percent": 4.09,
-          "current_price": 41.81,
-          "change_percentage": -0.21,
+          "current_price": 37.83,
+          "change_percentage": -1.46,
           "xq_symbol": "SH601628",
           "xq_url": "https://xueqiu.com/S/SH601628",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "当升科技",
           "code": "300073",
           "percent": 3.25,
-          "current_price": 52.55,
-          "change_percentage": 7.86,
+          "current_price": 68.94,
+          "change_percentage": 6.31,
           "xq_symbol": "SZ300073",
           "xq_url": "https://xueqiu.com/S/SZ300073",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "大华股份",
           "code": "002236",
           "percent": 3.15,
-          "current_price": 20.86,
-          "change_percentage": -0.48,
+          "current_price": 20.37,
+          "change_percentage": 2.41,
           "xq_symbol": "SZ002236",
           "xq_url": "https://xueqiu.com/S/SZ002236",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "益丰药房",
           "code": "603939",
           "percent": 2.84,
-          "current_price": 101.02,
-          "change_percentage": -1.4,
+          "current_price": 88.92,
+          "change_percentage": -1.41,
           "xq_symbol": "SH603939",
           "xq_url": "https://xueqiu.com/S/SH603939",
           "amarket": true
@@ -183,31 +183,31 @@
             "fund_code": "009398",
             "fundsname": "华富成长企业精选股票",
             "post_date": "2020-06-18",
-            "cp_rate": 2.42
+            "cp_rate": 3.89
           },
           {
             "fund_code": "003152",
             "fundsname": "华富天鑫灵活配置混合A",
             "post_date": "2019-01-25",
-            "cp_rate": 107.5578
+            "cp_rate": 118.16
           },
           {
             "fund_code": "003153",
             "fundsname": "华富天鑫灵活配置混合C",
             "post_date": "2019-01-25",
-            "cp_rate": 104.6597
+            "cp_rate": 114.998
           },
           {
             "fund_code": "002064",
             "fundsname": "华富产业升级灵活配置混合",
             "post_date": "2017-05-08",
-            "cp_rate": 88.37
+            "cp_rate": 99.42
           },
           {
             "fund_code": "410003",
             "fundsname": "华富成长趋势混合",
             "post_date": "2017-03-14",
-            "cp_rate": 91.4414
+            "cp_rate": 96.1372
           },
           {
             "fund_code": "001563",
@@ -227,7 +227,7 @@
             "fund_code": "410007",
             "fundsname": "华富价值增长混合",
             "post_date": "2014-09-26",
-            "cp_rate": 254.2261
+            "cp_rate": 269.6959
           }
         ]
       }
@@ -238,8 +238,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

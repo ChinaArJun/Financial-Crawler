@@ -15,8 +15,8 @@
           "name": "恒瑞医药",
           "code": "600276",
           "percent": 5.42,
-          "current_price": 90.07,
-          "change_percentage": 0.21,
+          "current_price": 111.2,
+          "change_percentage": -0.23,
           "xq_symbol": "SH600276",
           "xq_url": "https://xueqiu.com/S/SH600276",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "爱尔眼科",
           "code": "300015",
           "percent": 5.35,
-          "current_price": 66.63,
-          "change_percentage": -0.25,
+          "current_price": 68.22,
+          "change_percentage": -8.91,
           "xq_symbol": "SZ300015",
           "xq_url": "https://xueqiu.com/S/SZ300015",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "泰格医药",
           "code": "300347",
           "percent": 4.3,
-          "current_price": 135.45,
-          "change_percentage": 1.84,
+          "current_price": 166.82,
+          "change_percentage": 3.22,
           "xq_symbol": "SZ300347",
           "xq_url": "https://xueqiu.com/S/SZ300347",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "长春高新",
           "code": "000661",
           "percent": 4.09,
-          "current_price": 388,
-          "change_percentage": 0.19,
+          "current_price": 473.45,
+          "change_percentage": 5.47,
           "xq_symbol": "SZ000661",
           "xq_url": "https://xueqiu.com/S/SZ000661",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 4.05,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "通策医疗",
           "code": "600763",
           "percent": 3.86,
-          "current_price": 233.45,
-          "change_percentage": 0.45,
+          "current_price": 268,
+          "change_percentage": -3.08,
           "xq_symbol": "SH600763",
           "xq_url": "https://xueqiu.com/S/SH600763",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "凯莱英",
           "code": "002821",
           "percent": 3.73,
-          "current_price": 274,
-          "change_percentage": 1.64,
+          "current_price": 297.92,
+          "change_percentage": -0.41,
           "xq_symbol": "SZ002821",
           "xq_url": "https://xueqiu.com/S/SZ002821",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "康泰生物",
           "code": "300601",
           "percent": 3.64,
-          "current_price": 158.41,
-          "change_percentage": -1.36,
+          "current_price": 165.98,
+          "change_percentage": -4.88,
           "xq_symbol": "SZ300601",
           "xq_url": "https://xueqiu.com/S/SZ300601",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "药明康德",
           "code": "603259",
           "percent": 3.57,
-          "current_price": 110.9,
-          "change_percentage": -0.12,
+          "current_price": 137.11,
+          "change_percentage": 1.77,
           "xq_symbol": "SH603259",
           "xq_url": "https://xueqiu.com/S/SH603259",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "我武生物",
           "code": "300357",
           "percent": 3.42,
-          "current_price": 66.06,
-          "change_percentage": -1.11,
+          "current_price": 76.27,
+          "change_percentage": -0.56,
           "xq_symbol": "SZ300357",
           "xq_url": "https://xueqiu.com/S/SZ300357",
           "amarket": true
@@ -161,31 +161,31 @@
       {
         "name": "吴兴武",
         "resume": "    吴兴武先生,理学硕士,持有中国证券投资基金业从业证书。曾任摩根士丹利华鑫基金管理有限公司研究员,广发基金管理有限公司研究发展部、权益投资一部研究员、广发多元新兴股票型证券投资基金基金经理(自2017年4月25日至2019年4月16日)、广发核心精选混合型证券投资基金基金经理(自2015年2月17日至2020年2月10日)、广发鑫瑞混合型证券投资基金(LOF)基金经理(自2019年4月16日至2020年7月29日)、广发再融资主题灵活配置混合型证券投资基金(LOF)基金经理(自2019年4月16日至2020年7月31日)。现任广发轮动配置混合型证券投资基金基金经理(自2015年2月12日起任职)、广发医疗保健股票型证券投资基金基金经理(自2018年10月16日起任职)、广发主题领先灵活配置混合型证券投资基金基金经理(自2020年1月7日起任职)、广发医药健康混合型证券投资基金基金经理(自2020年10月21日起任职)。",
-        "work_year": "11",
+        "work_year": "12",
         "achievement_list": [
           {
             "fund_code": "010111",
             "fundsname": "广发医药健康混合C",
             "post_date": "2020-10-21",
-            "cp_rate": -0.28
+            "cp_rate": 0.66
           },
           {
             "fund_code": "010110",
             "fundsname": "广发医药健康混合A",
             "post_date": "2020-10-21",
-            "cp_rate": -0.23
+            "cp_rate": 0.73
           },
           {
             "fund_code": "009163",
             "fundsname": "广发医疗保健股票C",
             "post_date": "2020-03-18",
-            "cp_rate": 66.7333
+            "cp_rate": 82.937
           },
           {
             "fund_code": "000477",
             "fundsname": "广发主题领先混合",
             "post_date": "2020-01-07",
-            "cp_rate": 60.8641
+            "cp_rate": 75.1409
           },
           {
             "fund_code": "162718",
@@ -205,7 +205,7 @@
             "fund_code": "004851",
             "fundsname": "广发医疗保健股票A",
             "post_date": "2018-10-16",
-            "cp_rate": 221.4946
+            "cp_rate": 252.8323
           },
           {
             "fund_code": "003745",
@@ -225,7 +225,7 @@
             "fund_code": "000117",
             "fundsname": "广发轮动配置混合",
             "post_date": "2015-02-12",
-            "cp_rate": 175.827
+            "cp_rate": 200.1696
           }
         ]
       }

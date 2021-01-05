@@ -15,8 +15,8 @@
           "name": "重庆啤酒",
           "code": "600132",
           "percent": 7.59,
-          "current_price": 117.03,
-          "change_percentage": 0.2,
+          "current_price": 120.59,
+          "change_percentage": 1.34,
           "xq_symbol": "SH600132",
           "xq_url": "https://xueqiu.com/S/SH600132",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "通策医疗",
           "code": "600763",
           "percent": 6.42,
-          "current_price": 233.45,
-          "change_percentage": 0.45,
+          "current_price": 268,
+          "change_percentage": -3.08,
           "xq_symbol": "SH600763",
           "xq_url": "https://xueqiu.com/S/SH600763",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "吉比特",
           "code": "603444",
           "percent": 5.52,
-          "current_price": 410.3,
-          "change_percentage": 2.32,
+          "current_price": 437.99,
+          "change_percentage": 2.81,
           "xq_symbol": "SH603444",
           "xq_url": "https://xueqiu.com/S/SH603444",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "中国中免",
           "code": "601888",
           "percent": 5.24,
-          "current_price": 208.03,
-          "change_percentage": 0.13,
+          "current_price": 292.25,
+          "change_percentage": 3.47,
           "xq_symbol": "SH601888",
           "xq_url": "https://xueqiu.com/S/SH601888",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "建设机械",
           "code": "600984",
           "percent": 4.94,
-          "current_price": 14.92,
-          "change_percentage": 0.27,
+          "current_price": 12.6,
+          "change_percentage": 2.02,
           "xq_symbol": "SH600984",
           "xq_url": "https://xueqiu.com/S/SH600984",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 4.7,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "良信股份",
           "code": "002706",
           "percent": 4.69,
-          "current_price": 25.8,
-          "change_percentage": 0.74,
+          "current_price": 29.79,
+          "change_percentage": -2.77,
           "xq_symbol": "SZ002706",
           "xq_url": "https://xueqiu.com/S/SZ002706",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "长春高新",
           "code": "000661",
           "percent": 3.91,
-          "current_price": 388,
-          "change_percentage": 0.19,
+          "current_price": 473.45,
+          "change_percentage": 5.47,
           "xq_symbol": "SZ000661",
           "xq_url": "https://xueqiu.com/S/SZ000661",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "华海药业",
           "code": "600521",
           "percent": 3.84,
-          "current_price": 35.36,
-          "change_percentage": 2.26,
+          "current_price": 31.41,
+          "change_percentage": -7.1,
           "xq_symbol": "SH600521",
           "xq_url": "https://xueqiu.com/S/SH600521",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "坚朗五金",
           "code": "002791",
           "percent": 3.8,
-          "current_price": 135.48,
-          "change_percentage": 0.73,
+          "current_price": 148.1,
+          "change_percentage": 2.85,
           "xq_symbol": "SZ002791",
           "xq_url": "https://xueqiu.com/S/SZ002791",
           "amarket": true
@@ -178,25 +178,25 @@
         "name": "龙宇飞",
         "resume": "龙宇飞先生,吉林大学理学学士、中国科学院连读博士。曾就职于中信建投证券股份有限公司、中国人寿资产管理有限公司、中欧基金管理有限公司。2017年进入长城基金管理有限公司,曾任“长城久嘉创新成长灵活配置混合型证券投资基金”基金经理助理。自2017年10月至今任“长城久嘉创新成长灵活配置混合型证券投资基金”、“长城消费增值混合型证券投资基金”基金经理,自2018年4月至今任“长城双动力混合型证券投资基金”基金经理。",
         "college": "中国科学院",
-        "work_year": "9",
+        "work_year": "10",
         "achievement_list": [
           {
             "fund_code": "200010",
             "fundsname": "长城双动力混合",
             "post_date": "2018-04-27",
-            "cp_rate": 21.1051
+            "cp_rate": 19.8377
           },
           {
             "fund_code": "200006",
             "fundsname": "长城消费增值混合",
             "post_date": "2017-10-18",
-            "cp_rate": 70.258
+            "cp_rate": 78.9194
           },
           {
             "fund_code": "004666",
             "fundsname": "长城久嘉创新成长混合",
             "post_date": "2017-10-18",
-            "cp_rate": 42.2504
+            "cp_rate": 37.2693
           }
         ]
       }
@@ -207,8 +207,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

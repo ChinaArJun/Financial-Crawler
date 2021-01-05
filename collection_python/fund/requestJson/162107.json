@@ -15,8 +15,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 6.37,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 5.55,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "宝信软件",
           "code": "600845",
           "percent": 5.44,
-          "current_price": 64.06,
-          "change_percentage": 0.13,
+          "current_price": 69.8,
+          "change_percentage": 1.19,
           "xq_symbol": "SH600845",
           "xq_url": "https://xueqiu.com/S/SH600845",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "新宝股份",
           "code": "002705",
           "percent": 5.09,
-          "current_price": 41.98,
-          "change_percentage": 0.19,
+          "current_price": 43.73,
+          "change_percentage": 3.5,
           "xq_symbol": "SZ002705",
           "xq_url": "https://xueqiu.com/S/SZ002705",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "中简科技",
           "code": "300777",
           "percent": 5.08,
-          "current_price": 49.89,
-          "change_percentage": 4.15,
+          "current_price": 55.42,
+          "change_percentage": 9.5,
           "xq_symbol": "SZ300777",
           "xq_url": "https://xueqiu.com/S/SZ300777",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "艾迪精密",
           "code": "603638",
           "percent": 4.62,
-          "current_price": 59.02,
-          "change_percentage": 0.05,
+          "current_price": 69.05,
+          "change_percentage": 0.16,
           "xq_symbol": "SH603638",
           "xq_url": "https://xueqiu.com/S/SH603638",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "海天味业",
           "code": "603288",
           "percent": 4.43,
-          "current_price": 183.5,
-          "change_percentage": 0.84,
+          "current_price": 200.52,
+          "change_percentage": -0.01,
           "xq_symbol": "SH603288",
           "xq_url": "https://xueqiu.com/S/SH603288",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "高德红外",
           "code": "002414",
           "percent": 4.37,
-          "current_price": 38.54,
-          "change_percentage": 2.64,
+          "current_price": 44,
+          "change_percentage": 5.39,
           "xq_symbol": "SZ002414",
           "xq_url": "https://xueqiu.com/S/SZ002414",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "天山铝业",
           "code": "002532",
           "percent": 4.27,
-          "current_price": 8.18,
-          "change_percentage": -2.5,
+          "current_price": 7.79,
+          "change_percentage": 2.91,
           "xq_symbol": "SZ002532",
           "xq_url": "https://xueqiu.com/S/SZ002532",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "牧原股份",
           "code": "002714",
           "percent": 4.21,
-          "current_price": 78.22,
-          "change_percentage": -0.7,
+          "current_price": 84.81,
+          "change_percentage": 10,
           "xq_symbol": "SZ002714",
           "xq_url": "https://xueqiu.com/S/SZ002714",
           "amarket": true
@@ -172,9 +172,9 @@
     "manager_list": [
       {
         "name": "乔春",
-        "resume": "    乔春先生,中南大学环境工程专业工学学士、南开大学金融学硕士,2010年进入长城基金管理有限公司,曾任研究部行业研究员,长城安心回报混合型证券投资基金基金经理助理,2014年9月16日至2017年7月担任久嘉证券投资基金基金经理。2015年4月至2017年8月任长城环保主题灵活配置混合型证券投资基金基金经理。2017年3月至2017年8月任长城双动力混合型证券投资基金基金经理。2017年7月至2017年8月担任长城久嘉创新成长灵活配置混合型证券投资基金基金经理。2017年9月加入金鹰基金管理有限公司,担任基金经理助理。2019年4月起任金鹰科技创新股票型证券投资基金基金经理。",
+        "resume": "    乔春先生,中南大学环境工程专业工学学士、南开大学金融学硕士,2010年进入长城基金管理有限公司,曾任研究部行业研究员,长城安心回报混合型证券投资基金基金经理助理,2014年9月16日至2017年7月担任久嘉证券投资基金基金经理。2015年4月至2017年8月任长城环保主题灵活配置混合型证券投资基金基金经理。2017年3月至2017年8月任长城双动力混合型证券投资基金基金经理。2017年7月至2017年8月担任长城久嘉创新成长灵活配置混合型证券投资基金基金经理。2017年9月加入金鹰基金管理有限公司,担任基金经理助理。2019年4月起任金鹰科技创新股票型证券投资基金基金经理,2020年4月起任金鹰量化精选股票型证券投资基金(LOF)基金经理。",
         "college": "南开大学",
-        "work_year": "10",
+        "work_year": "11",
         "achievement_list": [
           {
             "fund_code": "150088",
@@ -190,13 +190,13 @@
             "fund_code": "162107",
             "fundsname": "金鹰量化精选股票(LOF)",
             "post_date": "2020-04-28",
-            "cp_rate": 22.9511
+            "cp_rate": 31.7339
           },
           {
             "fund_code": "001167",
             "fundsname": "金鹰科技创新股票",
             "post_date": "2019-04-17",
-            "cp_rate": 60.4839
+            "cp_rate": 79.8387
           },
           {
             "fund_code": "004666",
@@ -225,6 +225,55 @@
             "post_date": "2014-09-16",
             "resi_date": "2017-07-05",
             "cp_rate": 35.9117
+          }
+        ]
+      },
+      {
+        "name": "杨刚",
+        "resume": "    杨刚先生,1996年7月至2001年4月就职于大鹏证券综合研究所,先后负责行业研究、宏观策略研究和协助研究所管理工作,历任高级研究员和部门主管;2001年5月至2009年3月就职于平安证券综合研究所,负责行业研究、宏观策略研究及研究管理,历任高级研究员、部门主管和副所长等职务;2009年4月至2010年4月就职于平安证券资产管理部,担任执行总经理。杨刚先生于2010年5月加入金鹰基金管理有限公司,担任研究发展部研究总监,2014年9月至2015年12月担任金鹰元安保本混合型证券投资基金基金经理,2014年11月至2015年12月担任金鹰核心资源股票型证券投资基金基金经理,现任研究部总经理、金鹰量化精选股票型证券投资基金(LOF)基金经理。",
+        "work_year": "25",
+        "achievement_list": [
+          {
+            "fund_code": "002196",
+            "fundsname": "金鹰技术领先灵活配置混合C",
+            "post_date": "2020-12-31",
+            "cp_rate": 0
+          },
+          {
+            "fund_code": "210007",
+            "fundsname": "金鹰技术领先灵活配置混合A",
+            "post_date": "2020-12-31",
+            "cp_rate": 0
+          },
+          {
+            "fund_code": "150088",
+            "fundsname": "金鹰500A",
+            "post_date": "2020-12-29"
+          },
+          {
+            "fund_code": "150089",
+            "fundsname": "金鹰500B",
+            "post_date": "2020-12-29"
+          },
+          {
+            "fund_code": "162107",
+            "fundsname": "金鹰量化精选股票(LOF)",
+            "post_date": "2020-12-29",
+            "cp_rate": 3.883
+          },
+          {
+            "fund_code": "210009",
+            "fundsname": "金鹰核心资源混合",
+            "post_date": "2014-11-19",
+            "resi_date": "2015-12-24",
+            "cp_rate": 57.2368
+          },
+          {
+            "fund_code": "000110",
+            "fundsname": "金鹰元安保本混合A",
+            "post_date": "2014-09-30",
+            "resi_date": "2015-12-24",
+            "cp_rate": 18.3637
           }
         ]
       }

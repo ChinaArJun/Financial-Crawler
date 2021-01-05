@@ -16,8 +16,8 @@
           "name": "新洋丰",
           "code": "000902",
           "percent": 1.13,
-          "current_price": 13.79,
-          "change_percentage": -0.07,
+          "current_price": 16.22,
+          "change_percentage": 1.38,
           "xq_symbol": "SZ000902",
           "xq_url": "https://xueqiu.com/S/SZ000902",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "国光股份",
           "code": "002749",
           "percent": 1.12,
-          "current_price": 12.57,
-          "change_percentage": 0.16,
+          "current_price": 10.87,
+          "change_percentage": -0.46,
           "xq_symbol": "SZ002749",
           "xq_url": "https://xueqiu.com/S/SZ002749",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "兴业银行",
           "code": "601166",
           "percent": 1.05,
-          "current_price": 20.26,
-          "change_percentage": -1.17,
+          "current_price": 19.65,
+          "change_percentage": -5.85,
           "xq_symbol": "SH601166",
           "xq_url": "https://xueqiu.com/S/SH601166",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "新疆交建",
           "code": "002941",
           "percent": 0.6,
-          "current_price": 13.03,
-          "change_percentage": 0.08,
+          "current_price": 11.2,
+          "change_percentage": 1.82,
           "xq_symbol": "SZ002941",
           "xq_url": "https://xueqiu.com/S/SZ002941",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "浙江美大",
           "code": "002677",
           "percent": 0.56,
-          "current_price": 17.33,
-          "change_percentage": -0.06,
+          "current_price": 16.7,
+          "change_percentage": 4.83,
           "xq_symbol": "SZ002677",
           "xq_url": "https://xueqiu.com/S/SZ002677",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "青松建化",
           "code": "600425",
           "percent": 0.53,
-          "current_price": 3.93,
-          "change_percentage": -1.01,
+          "current_price": 3.79,
+          "change_percentage": 2.43,
           "xq_symbol": "SH600425",
           "xq_url": "https://xueqiu.com/S/SH600425",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "华荣股份",
           "code": "603855",
           "percent": 0.46,
-          "current_price": 16.16,
-          "change_percentage": -2.18,
+          "current_price": 16.46,
+          "change_percentage": 1.98,
           "xq_symbol": "SH603855",
           "xq_url": "https://xueqiu.com/S/SH603855",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "一汽富维",
           "code": "600742",
           "percent": 0.44,
-          "current_price": 10.93,
-          "change_percentage": 1.2,
+          "current_price": 9.98,
+          "change_percentage": -0.6,
           "xq_symbol": "SH600742",
           "xq_url": "https://xueqiu.com/S/SH600742",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "博实股份",
           "code": "002698",
           "percent": 0.42,
-          "current_price": 11.87,
-          "change_percentage": 0,
+          "current_price": 12.27,
+          "change_percentage": 1.24,
           "xq_symbol": "SZ002698",
           "xq_url": "https://xueqiu.com/S/SZ002698",
           "amarket": true
@@ -106,7 +106,7 @@
           "name": "羚锐制药",
           "code": "600285",
           "percent": 0.39,
-          "current_price": 9.31,
+          "current_price": 8.47,
           "change_percentage": 0,
           "xq_symbol": "SH600285",
           "xq_url": "https://xueqiu.com/S/SH600285",
@@ -203,61 +203,61 @@
       {
         "name": "余芽芳",
         "resume": "    余芽芳女士,博士。2012年7月加入华创证券有限责任公司,曾任宏观助理分析师、宏观分析师,对国内宏观经济有较全面的研究经验;2016年4月加入招商基金管理有限公司,曾任固定收益投资部高级研究员,从事宏观经济研究工作,现任招商瑞庆灵活配置混合型证券投资基金基金经理(管理时间:2017年4月13日至今)、招商丰茂灵活配置混合型发起式证券投资基金基金经理(管理时间:2019年3月21日至今)、招商瑞文混合型证券投资基金基金经理(管理时间:2019年9月11日至今)、招商瑞恒一年持有期混合型证券投资基金基金经理(管理时间:2020年5月22日至今)、招商瑞信稳健配置混合型证券投资基金基金经理(管理时间:2020年6月2日至今)。",
-        "work_year": "7",
+        "work_year": "8",
         "achievement_list": [
           {
             "fund_code": "009424",
             "fundsname": "招商瑞信稳健配置混合C",
             "post_date": "2020-06-02",
-            "cp_rate": 6.42
+            "cp_rate": 6.74
           },
           {
             "fund_code": "009423",
             "fundsname": "招商瑞信稳健配置混合A",
             "post_date": "2020-06-02",
-            "cp_rate": 6.7
+            "cp_rate": 7.05
           },
           {
             "fund_code": "009378",
             "fundsname": "招商瑞恒一年持有期混合C",
             "post_date": "2020-05-22",
-            "cp_rate": 4.6
+            "cp_rate": 5.22
           },
           {
             "fund_code": "009377",
             "fundsname": "招商瑞恒一年持有期混合A",
             "post_date": "2020-05-22",
-            "cp_rate": 4.83
+            "cp_rate": 5.47
           },
           {
             "fund_code": "007725",
             "fundsname": "招商瑞文混合A",
             "post_date": "2019-09-11",
-            "cp_rate": 16.12
+            "cp_rate": 16.77
           },
           {
             "fund_code": "007726",
             "fundsname": "招商瑞文混合C",
             "post_date": "2019-09-11",
-            "cp_rate": 15.69
+            "cp_rate": 16.31
           },
           {
             "fund_code": "005907",
             "fundsname": "招商丰茂灵活混合发起式C",
             "post_date": "2019-03-21",
-            "cp_rate": 6.6152
+            "cp_rate": 7.1052
           },
           {
             "fund_code": "005906",
             "fundsname": "招商丰茂灵活混合发起式A",
             "post_date": "2019-03-21",
-            "cp_rate": 8.0727
+            "cp_rate": 8.6252
           },
           {
             "fund_code": "007085",
             "fundsname": "招商瑞庆灵活配置混合C",
             "post_date": "2019-03-08",
-            "cp_rate": 19.5197
+            "cp_rate": 19.9789
           },
           {
             "fund_code": "002517",
@@ -333,7 +333,7 @@
             "fund_code": "002574",
             "fundsname": "招商瑞庆灵活配置混合A",
             "post_date": "2017-04-13",
-            "cp_rate": 45.8216
+            "cp_rate": 46.4629
           }
         ]
       },
@@ -345,61 +345,61 @@
             "fund_code": "005907",
             "fundsname": "招商丰茂灵活混合发起式C",
             "post_date": "2020-09-10",
-            "cp_rate": 0.8917
+            "cp_rate": 1.3554
           },
           {
             "fund_code": "005906",
             "fundsname": "招商丰茂灵活混合发起式A",
             "post_date": "2020-09-10",
-            "cp_rate": 1.0862
+            "cp_rate": 1.603
           },
           {
             "fund_code": "009424",
             "fundsname": "招商瑞信稳健配置混合C",
             "post_date": "2020-06-02",
-            "cp_rate": 6.42
+            "cp_rate": 6.74
           },
           {
             "fund_code": "009423",
             "fundsname": "招商瑞信稳健配置混合A",
             "post_date": "2020-06-02",
-            "cp_rate": 6.7
+            "cp_rate": 7.05
           },
           {
             "fund_code": "009378",
             "fundsname": "招商瑞恒一年持有期混合C",
             "post_date": "2020-05-22",
-            "cp_rate": 4.6
+            "cp_rate": 5.22
           },
           {
             "fund_code": "009377",
             "fundsname": "招商瑞恒一年持有期混合A",
             "post_date": "2020-05-22",
-            "cp_rate": 4.83
+            "cp_rate": 5.47
           },
           {
             "fund_code": "007726",
             "fundsname": "招商瑞文混合C",
             "post_date": "2019-09-11",
-            "cp_rate": 15.69
+            "cp_rate": 16.31
           },
           {
             "fund_code": "007725",
             "fundsname": "招商瑞文混合A",
             "post_date": "2019-09-11",
-            "cp_rate": 16.12
+            "cp_rate": 16.77
           },
           {
             "fund_code": "007085",
             "fundsname": "招商瑞庆灵活配置混合C",
             "post_date": "2019-03-08",
-            "cp_rate": 19.5197
+            "cp_rate": 19.9789
           },
           {
             "fund_code": "002103",
             "fundsname": "招商康泰混合",
             "post_date": "2018-11-15",
-            "cp_rate": 25.5212
+            "cp_rate": 29.9324
           },
           {
             "fund_code": "001531",
@@ -412,7 +412,7 @@
             "fund_code": "002574",
             "fundsname": "招商瑞庆灵活配置混合A",
             "post_date": "2018-09-14",
-            "cp_rate": 28.7648
+            "cp_rate": 29.3311
           }
         ]
       }
@@ -423,8 +423,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

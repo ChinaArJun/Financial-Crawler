@@ -15,8 +15,8 @@
           "name": "海尔智家",
           "code": "600690",
           "percent": 3.94,
-          "current_price": 26.97,
-          "change_percentage": -0.19,
+          "current_price": 30.01,
+          "change_percentage": 2.74,
           "xq_symbol": "SH600690",
           "xq_url": "https://xueqiu.com/S/SH600690",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "顺鑫农业",
           "code": "000860",
           "percent": 2.63,
-          "current_price": 64.72,
-          "change_percentage": 3.39,
+          "current_price": 74.88,
+          "change_percentage": 3.23,
           "xq_symbol": "SZ000860",
           "xq_url": "https://xueqiu.com/S/SZ000860",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "航天电器",
           "code": "002025",
           "percent": 2.43,
-          "current_price": 53.01,
-          "change_percentage": 0.7,
+          "current_price": 71.1,
+          "change_percentage": 9.08,
           "xq_symbol": "SZ002025",
           "xq_url": "https://xueqiu.com/S/SZ002025",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "顺丰控股",
           "code": "002352",
           "percent": 2.39,
-          "current_price": 80.21,
-          "change_percentage": -1.88,
+          "current_price": 90.48,
+          "change_percentage": 2.55,
           "xq_symbol": "SZ002352",
           "xq_url": "https://xueqiu.com/S/SZ002352",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "中国中免",
           "code": "601888",
           "percent": 2.27,
-          "current_price": 208.03,
-          "change_percentage": 0.13,
+          "current_price": 292.25,
+          "change_percentage": 3.47,
           "xq_symbol": "SH601888",
           "xq_url": "https://xueqiu.com/S/SH601888",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "九阳股份",
           "code": "002242",
           "percent": 2.22,
-          "current_price": 33.12,
-          "change_percentage": -2.85,
+          "current_price": 31.4,
+          "change_percentage": -2,
           "xq_symbol": "SZ002242",
           "xq_url": "https://xueqiu.com/S/SZ002242",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "伊利股份",
           "code": "600887",
           "percent": 2.14,
-          "current_price": 40.68,
-          "change_percentage": 1.24,
+          "current_price": 47.36,
+          "change_percentage": 6.74,
           "xq_symbol": "SH600887",
           "xq_url": "https://xueqiu.com/S/SH600887",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "正泰电器",
           "code": "601877",
           "percent": 2.1,
-          "current_price": 32.64,
-          "change_percentage": -0.46,
+          "current_price": 40.45,
+          "change_percentage": 3.29,
           "xq_symbol": "SH601877",
           "xq_url": "https://xueqiu.com/S/SH601877",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 2.01,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "中航高科",
           "code": "600862",
           "percent": 2,
-          "current_price": 25.12,
-          "change_percentage": -1.49,
+          "current_price": 31.76,
+          "change_percentage": 5.51,
           "xq_symbol": "SH600862",
           "xq_url": "https://xueqiu.com/S/SH600862",
           "amarket": true
@@ -181,49 +181,49 @@
       {
         "name": "魏庆国",
         "resume": "    魏庆国:经济学硕士。证券从业年限10年。2010年7月至2012年11月任华夏基金管理有限公司研究部研究员。2012年12月至2013年3月任平安大华基金研究部研究员。2013年5月加入大成基金管理有限公司,曾担任大成财富管理2020生命周期证券投资基金基金经理助理。2015年4月7日起任大成中小盘混合型证券投资基金(LOF)基金经理(更名前为大成中小盘股票型证券投资基金(LOF))。2015年4月7日至2016年8月19日任大成精选增值混合型证券投资基金基金经理。2015年7月28日至2016年8月19日任大成创新成长混合型证券投资基金(LOF)基金经理。2016年3月22日起任大成趋势回报灵活配置混合型证券投资基金基金经理。2020年1月2日起任大成盛世精选灵活配置混合型证券投资基金基金经理。2020年3月23日起任大成行业先锋混合型证券投资基金基金经理。2020年4月29日起任大成科技创新混合型证券投资基金基金经理。具有基金从业资格。国籍:中国",
-        "work_year": "10",
+        "work_year": "11",
         "achievement_list": [
           {
             "fund_code": "008935",
             "fundsname": "大成科技消费股票C",
             "post_date": "2020-07-16",
-            "cp_rate": 1.6723
+            "cp_rate": 8.7923
           },
           {
             "fund_code": "008934",
             "fundsname": "大成科技消费股票A",
             "post_date": "2020-07-16",
-            "cp_rate": 1.9928
+            "cp_rate": 9.1929
           },
           {
             "fund_code": "008989",
             "fundsname": "大成科技创新混合C",
             "post_date": "2020-04-29",
-            "cp_rate": 35.72
+            "cp_rate": 49.47
           },
           {
             "fund_code": "008988",
             "fundsname": "大成科技创新混合A",
             "post_date": "2020-04-29",
-            "cp_rate": 36.04
+            "cp_rate": 49.87
           },
           {
             "fund_code": "008275",
             "fundsname": "大成行业先锋混合C",
             "post_date": "2020-03-23",
-            "cp_rate": 46.9
+            "cp_rate": 62.4
           },
           {
             "fund_code": "008274",
             "fundsname": "大成行业先锋混合A",
             "post_date": "2020-03-23",
-            "cp_rate": 47.32
+            "cp_rate": 62.9
           },
           {
             "fund_code": "002945",
             "fundsname": "大成盛世精选灵活配置混合",
             "post_date": "2020-01-02",
-            "cp_rate": 63.2805
+            "cp_rate": 80.5219
           },
           {
             "fund_code": "002383",
@@ -243,7 +243,7 @@
             "fund_code": "160918",
             "fundsname": "大成中小盘混合(LOF)",
             "post_date": "2015-04-07",
-            "cp_rate": 182.8158
+            "cp_rate": 210.0461
           },
           {
             "fund_code": "090004",
@@ -261,8 +261,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 2,
-      "all_buy_days": 2,
-      "all_sale_days": 3
+      "all_sale_days": 3,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

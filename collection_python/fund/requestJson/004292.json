@@ -39,8 +39,8 @@
           "name": "东方财富",
           "code": "300059",
           "percent": 6.73,
-          "current_price": 28.05,
-          "change_percentage": 1.08,
+          "current_price": 32.2,
+          "change_percentage": 3.87,
           "xq_symbol": "SZ300059",
           "xq_url": "https://xueqiu.com/S/SZ300059",
           "amarket": true
@@ -49,8 +49,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 3.62,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -59,8 +59,8 @@
           "name": "恒生电子",
           "code": "600570",
           "percent": 3.37,
-          "current_price": 98.15,
-          "change_percentage": 1.31,
+          "current_price": 106.17,
+          "change_percentage": 1.21,
           "xq_symbol": "SH600570",
           "xq_url": "https://xueqiu.com/S/SH600570",
           "amarket": true
@@ -69,8 +69,8 @@
           "name": "通威股份",
           "code": "600438",
           "percent": 2.96,
-          "current_price": 29.2,
-          "change_percentage": -1.85,
+          "current_price": 41.65,
+          "change_percentage": 8.35,
           "xq_symbol": "SH600438",
           "xq_url": "https://xueqiu.com/S/SH600438",
           "amarket": true
@@ -79,8 +79,8 @@
           "name": "广联达",
           "code": "002410",
           "percent": 2.7,
-          "current_price": 70.77,
-          "change_percentage": 2.08,
+          "current_price": 80.53,
+          "change_percentage": 2.27,
           "xq_symbol": "SZ002410",
           "xq_url": "https://xueqiu.com/S/SZ002410",
           "amarket": true
@@ -97,8 +97,8 @@
           "name": "用友网络",
           "code": "600588",
           "percent": 2.43,
-          "current_price": 46.29,
-          "change_percentage": 0.67,
+          "current_price": 45.71,
+          "change_percentage": 4.19,
           "xq_symbol": "SH600588",
           "xq_url": "https://xueqiu.com/S/SH600588",
           "amarket": true
@@ -169,68 +169,68 @@
       {
         "name": "聂毅翔",
         "resume": "    聂毅翔先生,国籍中国,理学博士,10年证券从业经验。历任美国风暴通讯咨询公司高级项目经理,美国罗根斯通资本对冲基金公司交易员,美国期货交易监管委员会助理经济学家,鹏华基金国际业务部投资经理,中银国际证券投资主办人,国海富兰克林基金国际业务副总监,天弘基金基金经理;2017年1月加盟鹏华基金管理有限公司,任职于研究部,现担任研究部副总经理/基金经理。2017年08月担任鹏华沪深港互联网基金基金经理,2018年06月担任鹏华创新驱动混合基金基金经理,2018年09月担任鹏华研究驱动混合基金基金经理,2019年11月担任鹏华香港银行指数(LOF)基金基金经理。聂毅翔先生具备基金从业资格。",
-        "work_year": "10",
+        "work_year": "11",
         "achievement_list": [
           {
             "fund_code": "010365",
             "fundsname": "鹏华香港银行指数C(LOF)",
             "post_date": "2020-10-27",
-            "cp_rate": 7.76
+            "cp_rate": 6.42
           },
           {
             "fund_code": "501025",
             "fundsname": "鹏华香港银行指数A(LOF)",
             "post_date": "2019-11-20",
-            "cp_rate": -13.698
+            "cp_rate": -14.7579
           },
           {
             "fund_code": "006230",
             "fundsname": "鹏华研究驱动混合",
             "post_date": "2018-09-14",
-            "cp_rate": 86.92
+            "cp_rate": 92.83
           },
           {
             "fund_code": "005967",
             "fundsname": "鹏华创新驱动混合",
             "post_date": "2018-06-06",
-            "cp_rate": 77.09
+            "cp_rate": 79.87
           },
           {
             "fund_code": "004292",
             "fundsname": "鹏华沪深港互联网股票",
             "post_date": "2017-08-03",
-            "cp_rate": 80.4671
+            "cp_rate": 95.9485
           }
         ]
       },
       {
         "name": "王海青",
         "resume": "    王海青女士,国籍中国,经济学硕士,8年证券基金从业经验。曾任中国中投证券有限责任公司高级研究员,2015年10月加盟鹏华基金管理有限公司,现担任研究部总经理助理。",
-        "work_year": "8",
+        "work_year": "9",
         "achievement_list": [
           {
             "fund_code": "009861",
             "fundsname": "鹏华新兴成长混合A",
             "post_date": "2020-07-17",
-            "cp_rate": 2.05
+            "cp_rate": 2.27
           },
           {
             "fund_code": "009862",
             "fundsname": "鹏华新兴成长混合C",
             "post_date": "2020-07-17",
-            "cp_rate": 1.85
+            "cp_rate": 2.04
           },
           {
             "fund_code": "004292",
             "fundsname": "鹏华沪深港互联网股票",
             "post_date": "2020-01-07",
-            "cp_rate": 58.7638
+            "cp_rate": 72.3834
           },
           {
             "fund_code": "005028",
             "fundsname": "鹏华研究精选混合",
             "post_date": "2018-02-03",
-            "cp_rate": 125.2173
+            "cp_rate": 144.5199
           }
         ]
       }

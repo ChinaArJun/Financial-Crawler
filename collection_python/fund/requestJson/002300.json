@@ -15,8 +15,8 @@
           "name": "药明康德",
           "code": "603259",
           "percent": 6.66,
-          "current_price": 110.9,
-          "change_percentage": -0.12,
+          "current_price": 137.11,
+          "change_percentage": 1.77,
           "xq_symbol": "SH603259",
           "xq_url": "https://xueqiu.com/S/SH603259",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 6.1,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "华海药业",
           "code": "600521",
           "percent": 5.56,
-          "current_price": 35.36,
-          "change_percentage": 2.26,
+          "current_price": 31.41,
+          "change_percentage": -7.1,
           "xq_symbol": "SH600521",
           "xq_url": "https://xueqiu.com/S/SH600521",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "智飞生物",
           "code": "300122",
           "percent": 5.54,
-          "current_price": 139.38,
-          "change_percentage": -0.39,
+          "current_price": 143.22,
+          "change_percentage": -3.17,
           "xq_symbol": "SZ300122",
           "xq_url": "https://xueqiu.com/S/SZ300122",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "通策医疗",
           "code": "600763",
           "percent": 5.14,
-          "current_price": 233.45,
-          "change_percentage": 0.45,
+          "current_price": 268,
+          "change_percentage": -3.08,
           "xq_symbol": "SH600763",
           "xq_url": "https://xueqiu.com/S/SH600763",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "康泰生物",
           "code": "300601",
           "percent": 4.87,
-          "current_price": 158.41,
-          "change_percentage": -1.36,
+          "current_price": 165.98,
+          "change_percentage": -4.88,
           "xq_symbol": "SZ300601",
           "xq_url": "https://xueqiu.com/S/SZ300601",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "凯莱英",
           "code": "002821",
           "percent": 4.84,
-          "current_price": 274,
-          "change_percentage": 1.64,
+          "current_price": 297.92,
+          "change_percentage": -0.41,
           "xq_symbol": "SZ002821",
           "xq_url": "https://xueqiu.com/S/SZ002821",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "司太立",
           "code": "603520",
           "percent": 4.79,
-          "current_price": 71.37,
-          "change_percentage": 1.45,
+          "current_price": 65.76,
+          "change_percentage": -0.11,
           "xq_symbol": "SH603520",
           "xq_url": "https://xueqiu.com/S/SH603520",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "长春高新",
           "code": "000661",
           "percent": 4.6,
-          "current_price": 388,
-          "change_percentage": 0.19,
+          "current_price": 473.45,
+          "change_percentage": 5.47,
           "xq_symbol": "SZ000661",
           "xq_url": "https://xueqiu.com/S/SZ000661",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "金域医学",
           "code": "603882",
           "percent": 4.58,
-          "current_price": 99,
-          "change_percentage": 2.27,
+          "current_price": 130.68,
+          "change_percentage": 2,
           "xq_symbol": "SH603882",
           "xq_url": "https://xueqiu.com/S/SH603882",
           "amarket": true
@@ -177,31 +177,31 @@
       {
         "name": "周思聪",
         "resume": "    周思聪女士:硕士学位。2008年7月加入银华基金管理有限公司,历任行业研究员、行业研究组长及基金经理助理职务。自2014年1月13日起担任银华消费主题分级混合型证券投资基金基金经理,自2016年11月17日起兼任银华体育文化灵活配置混合型证券投资基金基金经理,自2017年9月28日起兼任银华智荟内在价值灵活配置混合型发起式证券投资基金基金经理。2018年10月加入长盛基金管理有限公司,自2019年3月22日起任长盛养老健康产业灵活配置混合型证券投资基金基金经理,自2019年5月22日起兼任长盛医疗行业量化配置股票型证券投资基金基金经理。",
-        "work_year": "12",
+        "work_year": "13",
         "achievement_list": [
           {
             "fund_code": "008412",
             "fundsname": "长盛竞争优势股票A",
             "post_date": "2020-07-23",
-            "cp_rate": -0.45
+            "cp_rate": 9.81
           },
           {
             "fund_code": "008413",
             "fundsname": "长盛竞争优势股票C",
             "post_date": "2020-07-23",
-            "cp_rate": -0.75
+            "cp_rate": 9.42
           },
           {
             "fund_code": "002300",
             "fundsname": "长盛医疗行业量化配置股票",
             "post_date": "2019-05-22",
-            "cp_rate": 111.3101
+            "cp_rate": 133.5533
           },
           {
             "fund_code": "000684",
             "fundsname": "长盛养老健康产业灵活配置混合",
             "post_date": "2019-03-22",
-            "cp_rate": 72.8493
+            "cp_rate": 90.4499
           },
           {
             "fund_code": "005119",

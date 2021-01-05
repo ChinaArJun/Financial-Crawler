@@ -98,7 +98,7 @@
             "fund_code": "217019",
             "fundsname": "招商深证TMT50ETF联接A",
             "post_date": "2020-08-11",
-            "cp_rate": 1.8571
+            "cp_rate": 4.8641
           },
           {
             "fund_code": "150200",
@@ -118,25 +118,25 @@
             "fund_code": "004407",
             "fundsname": "招商上证消费80ETF联接C",
             "post_date": "2020-08-11",
-            "cp_rate": 6.3532
+            "cp_rate": 18.0516
           },
           {
             "fund_code": "510150",
             "fundsname": "招商上证消费80ETF",
             "post_date": "2020-08-11",
-            "cp_rate": 6.8575
+            "cp_rate": 19.3407
           },
           {
             "fund_code": "217017",
             "fundsname": "招商上证消费80ETF联接A",
             "post_date": "2020-08-11",
-            "cp_rate": 6.49
+            "cp_rate": 18.2305
           },
           {
             "fund_code": "501067",
             "fundsname": "招商富时A-H50指数A",
             "post_date": "2020-08-11",
-            "cp_rate": 7.0227
+            "cp_rate": 12.2455
           },
           {
             "fund_code": "150145",
@@ -156,13 +156,13 @@
             "fund_code": "159991",
             "fundsname": "招商创业板大盘ETF",
             "post_date": "2020-08-11",
-            "cp_rate": 4.7068
+            "cp_rate": 16.1082
           },
           {
             "fund_code": "513990",
             "fundsname": "招商上证港股通ETF",
             "post_date": "2020-08-11",
-            "cp_rate": 1.9015
+            "cp_rate": 4.6938
           },
           {
             "fund_code": "161720",
@@ -182,19 +182,19 @@
             "fund_code": "159909",
             "fundsname": "深证TMT50ETF",
             "post_date": "2020-08-11",
-            "cp_rate": 1.9837
+            "cp_rate": 5.115
           },
           {
             "fund_code": "004409",
             "fundsname": "招商深证TMT50ETF联接C",
             "post_date": "2020-08-11",
-            "cp_rate": 1.7224
+            "cp_rate": 4.6992
           },
           {
             "fund_code": "501068",
             "fundsname": "招商富时A-H50指数C",
             "post_date": "2020-08-11",
-            "cp_rate": 6.8919
+            "cp_rate": 12.0683
           },
           {
             "fund_code": "161718",
@@ -221,31 +221,31 @@
             "fund_code": "159815",
             "fundsname": "招商中证浙江100ETF",
             "post_date": "2020-08-03",
-            "cp_rate": 5.41
+            "cp_rate": 9.4
           },
           {
             "fund_code": "008237",
             "fundsname": "招商深证100ETF联接C",
             "post_date": "2020-06-12",
-            "cp_rate": 23.35
+            "cp_rate": 31.11
           },
           {
             "fund_code": "008236",
             "fundsname": "招商深证100ETF联接A",
             "post_date": "2020-06-12",
-            "cp_rate": 21.49
+            "cp_rate": 29.15
           },
           {
             "fund_code": "515080",
             "fundsname": "招商中证红利ETF",
             "post_date": "2019-11-28",
-            "cp_rate": 34.33
+            "cp_rate": 29.32
           },
           {
             "fund_code": "159975",
             "fundsname": "招商深证100ETF",
             "post_date": "2019-11-07",
-            "cp_rate": 55.48
+            "cp_rate": 65.88
           }
         ]
       }
@@ -256,8 +256,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

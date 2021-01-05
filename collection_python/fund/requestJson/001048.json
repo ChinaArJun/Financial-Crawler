@@ -16,8 +16,8 @@
           "name": "金山办公",
           "code": "688111",
           "percent": 2.97,
-          "current_price": 349.5,
-          "change_percentage": -2.75,
+          "current_price": 420,
+          "change_percentage": 2.19,
           "xq_symbol": "SH688111",
           "xq_url": "https://xueqiu.com/S/SH688111",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "广联达",
           "code": "002410",
           "percent": 2.97,
-          "current_price": 70.77,
-          "change_percentage": 2.08,
+          "current_price": 80.53,
+          "change_percentage": 2.27,
           "xq_symbol": "SZ002410",
           "xq_url": "https://xueqiu.com/S/SZ002410",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "捷佳伟创",
           "code": "300724",
           "percent": 2.77,
-          "current_price": 124.78,
-          "change_percentage": 0.58,
+          "current_price": 148.05,
+          "change_percentage": 1.68,
           "xq_symbol": "SZ300724",
           "xq_url": "https://xueqiu.com/S/SZ300724",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 2.73,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 2.6,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "韦尔股份",
           "code": "603501",
           "percent": 2.49,
-          "current_price": 218,
-          "change_percentage": 0.53,
+          "current_price": 230.05,
+          "change_percentage": -0.45,
           "xq_symbol": "SH603501",
           "xq_url": "https://xueqiu.com/S/SH603501",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "健帆生物",
           "code": "300529",
           "percent": 2.38,
-          "current_price": 68.76,
-          "change_percentage": -0.28,
+          "current_price": 72.45,
+          "change_percentage": 6.83,
           "xq_symbol": "SZ300529",
           "xq_url": "https://xueqiu.com/S/SZ300529",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "智飞生物",
           "code": "300122",
           "percent": 2.28,
-          "current_price": 139.38,
-          "change_percentage": -0.39,
+          "current_price": 143.22,
+          "change_percentage": -3.17,
           "xq_symbol": "SZ300122",
           "xq_url": "https://xueqiu.com/S/SZ300122",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "恒生电子",
           "code": "600570",
           "percent": 2.12,
-          "current_price": 98.15,
-          "change_percentage": 1.31,
+          "current_price": 106.17,
+          "change_percentage": 1.21,
           "xq_symbol": "SH600570",
           "xq_url": "https://xueqiu.com/S/SH600570",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "福斯特",
           "code": "603806",
           "percent": 2.11,
-          "current_price": 73.08,
-          "change_percentage": 2.21,
+          "current_price": 90.74,
+          "change_percentage": 6.25,
           "xq_symbol": "SH603806",
           "xq_url": "https://xueqiu.com/S/SH603806",
           "amarket": true
@@ -183,19 +183,19 @@
       {
         "name": "方纬",
         "resume": "    方纬先生,经济学硕士。2003年9月至2005年1月任上海金信研究所研究员;2005年1月至2007年2月任万家基金管理有限公司高级研究员;2007年2月加入华泰柏瑞基金管理有限公司,历任研究员、高级研究员、基金经理助理。2014年8月起任华泰柏瑞价值增长混合型证券投资基金的基金经理。2015年4月至2016年8月任华泰柏瑞新利灵活配置混合型证券投资基金的基金经理。2015年5月起任华泰柏瑞消费成长灵活配置混合型证券投资基金的基金经理。2015年5月至2016年8月任华泰柏瑞惠利灵活配置混合型证券投资基金的基金经理。2015年8月至2016年11月任华泰柏瑞中国制造2025灵活配置混合型证券投资基金的基金经理。2016年3月至2017年6月任华泰柏瑞精选回报灵活配置混合型证券投资基金的基金经理。2016年9月至2019年12月任华泰柏瑞多策略灵活配置混合型证券投资基金的基金经理 ; 2020年3月加入富国基金管理有限公司,2020年7月起任富国新兴产业股票型证券投资基金基金经理。",
-        "work_year": "17",
+        "work_year": "18",
         "achievement_list": [
           {
             "fund_code": "010109",
             "fundsname": "富国价值增长混合",
             "post_date": "2020-09-14",
-            "cp_rate": 1.66
+            "cp_rate": 8.67
           },
           {
             "fund_code": "001048",
             "fundsname": "富国新兴产业股票",
             "post_date": "2020-07-03",
-            "cp_rate": 19.2911
+            "cp_rate": 31.8337
           },
           {
             "fund_code": "003175",
@@ -276,8 +276,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

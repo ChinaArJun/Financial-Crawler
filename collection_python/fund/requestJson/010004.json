@@ -48,37 +48,37 @@
       {
         "name": "杨锐文",
         "resume": "    杨锐文先生,工学硕士、理学硕士。曾担任上海常春藤衍生投资公司高级分析师。2010年11月加入景顺长城基金管理有限公司,担任研究部研究员,自2014年10月起担任股票投资部基金经理,现任股票投资部投资副总监兼基金经理。具有9年证券、基金行业从业经验。",
-        "work_year": "10",
+        "work_year": "11",
         "achievement_list": [
           {
             "fund_code": "010004",
             "fundsname": "景顺长城电子信息产业股票C",
             "post_date": "2020-09-09",
-            "cp_rate": 6.24
+            "cp_rate": 10.49
           },
           {
             "fund_code": "010003",
             "fundsname": "景顺长城电子信息产业股票A",
             "post_date": "2020-09-09",
-            "cp_rate": 6.34
+            "cp_rate": 10.63
           },
           {
             "fund_code": "260111",
             "fundsname": "景顺长城公司治理混合",
             "post_date": "2020-07-25",
-            "cp_rate": 22.4117
+            "cp_rate": 29.2236
           },
           {
             "fund_code": "009376",
             "fundsname": "景顺长城成长领航混合",
             "post_date": "2020-05-28",
-            "cp_rate": 18.66
+            "cp_rate": 24.65
           },
           {
             "fund_code": "006435",
             "fundsname": "景顺长城创新成长混合",
             "post_date": "2019-10-17",
-            "cp_rate": 68.9
+            "cp_rate": 79.68
           },
           {
             "fund_code": "003505",
@@ -105,7 +105,7 @@
             "fund_code": "001975",
             "fundsname": "景顺长城环保优势股票",
             "post_date": "2016-03-15",
-            "cp_rate": 216.7
+            "cp_rate": 235.7
           },
           {
             "fund_code": "162607",
@@ -125,7 +125,7 @@
             "fund_code": "260101",
             "fundsname": "景顺长城优选混合",
             "post_date": "2014-10-25",
-            "cp_rate": 246.361
+            "cp_rate": 264.9398
           }
         ]
       }

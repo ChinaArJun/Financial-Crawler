@@ -15,8 +15,8 @@
           "name": "通威股份",
           "code": "600438",
           "percent": 4.31,
-          "current_price": 29.2,
-          "change_percentage": -1.85,
+          "current_price": 41.65,
+          "change_percentage": 8.35,
           "xq_symbol": "SH600438",
           "xq_url": "https://xueqiu.com/S/SH600438",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "扬农化工",
           "code": "600486",
           "percent": 3.62,
-          "current_price": 120.75,
-          "change_percentage": 0.02,
+          "current_price": 130.56,
+          "change_percentage": -1.09,
           "xq_symbol": "SH600486",
           "xq_url": "https://xueqiu.com/S/SH600486",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "中旗股份",
           "code": "300575",
           "percent": 3.42,
-          "current_price": 40.16,
-          "change_percentage": -0.62,
+          "current_price": 38.98,
+          "change_percentage": 1.51,
           "xq_symbol": "SZ300575",
           "xq_url": "https://xueqiu.com/S/SZ300575",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "西部超导",
           "code": "688122",
           "percent": 3.36,
-          "current_price": 63.09,
-          "change_percentage": 3.09,
+          "current_price": 84.24,
+          "change_percentage": 5.95,
           "xq_symbol": "SH688122",
           "xq_url": "https://xueqiu.com/S/SH688122",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "新洋丰",
           "code": "000902",
           "percent": 3.01,
-          "current_price": 13.79,
-          "change_percentage": -0.07,
+          "current_price": 16.22,
+          "change_percentage": 1.38,
           "xq_symbol": "SZ000902",
           "xq_url": "https://xueqiu.com/S/SZ000902",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "中航高科",
           "code": "600862",
           "percent": 2.75,
-          "current_price": 25.12,
-          "change_percentage": -1.49,
+          "current_price": 31.76,
+          "change_percentage": 5.51,
           "xq_symbol": "SH600862",
           "xq_url": "https://xueqiu.com/S/SH600862",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "海大集团",
           "code": "002311",
           "percent": 2.53,
-          "current_price": 61,
-          "change_percentage": 0,
+          "current_price": 68.43,
+          "change_percentage": 4.47,
           "xq_symbol": "SZ002311",
           "xq_url": "https://xueqiu.com/S/SZ002311",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "旺能环境",
           "code": "002034",
           "percent": 2.52,
-          "current_price": 16.16,
-          "change_percentage": -1.22,
+          "current_price": 16.11,
+          "change_percentage": 1.19,
           "xq_symbol": "SZ002034",
           "xq_url": "https://xueqiu.com/S/SZ002034",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "苏垦农发",
           "code": "601952",
           "percent": 2.48,
-          "current_price": 12.17,
-          "change_percentage": -2.48,
+          "current_price": 14.52,
+          "change_percentage": 3.27,
           "xq_symbol": "SH601952",
           "xq_url": "https://xueqiu.com/S/SH601952",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "索通发展",
           "code": "603612",
           "percent": 2.47,
-          "current_price": 15.87,
-          "change_percentage": -3,
+          "current_price": 13.82,
+          "change_percentage": 1.1,
           "xq_symbol": "SH603612",
           "xq_url": "https://xueqiu.com/S/SH603612",
           "amarket": true
@@ -177,43 +177,44 @@
       {
         "name": "童立",
         "resume": "    童立:男,中国籍,经济学硕士,具有基金从业资格。2011年7月加入华商基金管理有限公司,曾任行业研究员;2015年7月21日至2016年4月11日担任华商价值共享灵活配置混合型发起式证券投资基金基金经理助理;2016年4月12日至2017年4月21日担任华商价值共享灵活配置混合型发起式证券投资基金基金经理;2016年12月23日起至今担任华商新锐产业灵活配置混合型证券投资基金基金经理;2017年12月21日起至今担任华商研究精选灵活配置混合型证券投资基金基金经理;2017年12月27日起至今担任华商上游产业股票型证券投资基金基金经理;2019年3月8日起至今担任华商主题精选混合型证券投资基金基金经理;2019年12月10日起至今担任华商高端装备制造股票型证券投资基金基金经理;2020年3月6日起至今担任华商科技创新混合型证券投资基金基金经理;现任研究发展部副总经理、公司投资决策委员会委员、公司公募业务权益投资决策委员会委员。",
-        "work_year": "9",
+        "work_year": "10",
         "achievement_list": [
           {
             "fund_code": "008961",
             "fundsname": "华商科技创新混合",
             "post_date": "2020-03-06",
-            "cp_rate": 27.74
+            "cp_rate": 43.29
           },
           {
             "fund_code": "008009",
             "fundsname": "华商高端装备制造股票",
             "post_date": "2019-12-10",
-            "cp_rate": 75.74
+            "resi_date": "2020-12-25",
+            "cp_rate": 84.13
           },
           {
             "fund_code": "630011",
             "fundsname": "华商主题精选混合",
             "post_date": "2019-03-08",
-            "cp_rate": 69.2082
+            "cp_rate": 82.0137
           },
           {
             "fund_code": "005161",
             "fundsname": "华商上游产业股票",
             "post_date": "2017-12-27",
-            "cp_rate": 47.15
+            "cp_rate": 60.41
           },
           {
             "fund_code": "004423",
             "fundsname": "华商研究精选灵活配置混合",
             "post_date": "2017-12-21",
-            "cp_rate": 111.542
+            "cp_rate": 127.4238
           },
           {
             "fund_code": "000654",
             "fundsname": "华商新锐产业灵活配置混合",
             "post_date": "2016-12-23",
-            "cp_rate": 14.6501
+            "cp_rate": 23.1367
           },
           {
             "fund_code": "630016",
@@ -231,8 +232,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

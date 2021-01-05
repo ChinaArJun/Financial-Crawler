@@ -16,8 +16,8 @@
           "name": "吉比特",
           "code": "603444",
           "percent": 9.88,
-          "current_price": 410.3,
-          "change_percentage": 2.32,
+          "current_price": 437.99,
+          "change_percentage": 2.81,
           "xq_symbol": "SH603444",
           "xq_url": "https://xueqiu.com/S/SH603444",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "格力电器",
           "code": "000651",
           "percent": 9.19,
-          "current_price": 65.66,
-          "change_percentage": -3.44,
+          "current_price": 62.9,
+          "change_percentage": 1.55,
           "xq_symbol": "SZ000651",
           "xq_url": "https://xueqiu.com/S/SZ000651",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "汤臣倍健",
           "code": "300146",
           "percent": 7.12,
-          "current_price": 25.43,
-          "change_percentage": -1.59,
+          "current_price": 23.68,
+          "change_percentage": -1.95,
           "xq_symbol": "SZ300146",
           "xq_url": "https://xueqiu.com/S/SZ300146",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "掌趣科技",
           "code": "300315",
           "percent": 5.61,
-          "current_price": 6.19,
-          "change_percentage": -0.64,
+          "current_price": 5.11,
+          "change_percentage": 0,
           "xq_symbol": "SZ300315",
           "xq_url": "https://xueqiu.com/S/SZ300315",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "金地集团",
           "code": "600383",
           "percent": 5.14,
-          "current_price": 14.17,
-          "change_percentage": -0.56,
+          "current_price": 12.88,
+          "change_percentage": -4.59,
           "xq_symbol": "SH600383",
           "xq_url": "https://xueqiu.com/S/SH600383",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "京东方A",
           "code": "000725",
           "percent": 5.05,
-          "current_price": 5.25,
-          "change_percentage": -0.57,
+          "current_price": 5.92,
+          "change_percentage": -1.33,
           "xq_symbol": "SZ000725",
           "xq_url": "https://xueqiu.com/S/SZ000725",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "TCL科技",
           "code": "000100",
           "percent": 4.94,
-          "current_price": 7.16,
-          "change_percentage": 1.42,
+          "current_price": 7.18,
+          "change_percentage": 1.41,
           "xq_symbol": "SZ000100",
           "xq_url": "https://xueqiu.com/S/SZ000100",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "永辉超市",
           "code": "601933",
           "percent": 4.15,
-          "current_price": 7.75,
-          "change_percentage": -1.02,
+          "current_price": 7.09,
+          "change_percentage": -1.25,
           "xq_symbol": "SH601933",
           "xq_url": "https://xueqiu.com/S/SH601933",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "招商银行",
           "code": "600036",
           "percent": 3.75,
-          "current_price": 44.26,
-          "change_percentage": -0.36,
+          "current_price": 43.17,
+          "change_percentage": -1.77,
           "xq_symbol": "SH600036",
           "xq_url": "https://xueqiu.com/S/SH600036",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "金科股份",
           "code": "000656",
           "percent": 3.68,
-          "current_price": 7.43,
-          "change_percentage": -2.49,
+          "current_price": 6.59,
+          "change_percentage": -7.05,
           "xq_symbol": "SZ000656",
           "xq_url": "https://xueqiu.com/S/SZ000656",
           "amarket": true
@@ -203,13 +203,13 @@
       {
         "name": "邱杰",
         "resume": "    邱杰先生,经济学硕士,国籍:中国。历任南方基金管理有限公司研究部行业研究员、中小盘股票研究员、制造业组组长;建信基金管理有限公司研究员。现任前海开源基金管理有限公司董事总经理、联席投资总监、投资部联席行政负责人,前海开源股息率100强等权重股票型证券投资基金基金经理、前海开源再融资主题精选股票型证券投资基金基金经理、前海开源清洁能源主题精选灵活配置混合型证券投资基金基金经理、前海开源恒远灵活配置混合型证券投资基金基金经理、前海开源祥和债券型证券投资基金基金经理、前海开源港股通股息率50强股票型证券投资基金基金经理、前海开源工业革命4.0灵活配置混合型证券投资基金基金经理、前海开源价值成长灵活配置混合型证券投资基金基金经理、前海开源沪港深创新成长灵活配置混合型证券投资基金基金经理、前海开源优质成长混合型证券投资基金基金经理、前海开源沪港深创新成长灵活配置混合型证券投资基金、前海开源优质成长混合型证券投资基金基金经理。邱杰先生具备基金从业资格。",
-        "work_year": "12",
+        "work_year": "13",
         "achievement_list": [
           {
             "fund_code": "008188",
             "fundsname": "前海开源稳健增长三年混合",
             "post_date": "2020-03-18",
-            "cp_rate": 11.02
+            "cp_rate": 11.67
           },
           {
             "fund_code": "002667",
@@ -227,31 +227,31 @@
             "fund_code": "006775",
             "fundsname": "前海开源优质成长混合",
             "post_date": "2019-04-09",
-            "cp_rate": 29.43
+            "cp_rate": 29.9
           },
           {
             "fund_code": "006217",
             "fundsname": "前海开源价值成长混合C",
             "post_date": "2018-09-19",
-            "cp_rate": 93.73
+            "cp_rate": 95.8
           },
           {
             "fund_code": "006216",
             "fundsname": "前海开源价值成长混合A",
             "post_date": "2018-09-19",
-            "cp_rate": 94.15
+            "cp_rate": 96.23
           },
           {
             "fund_code": "001103",
             "fundsname": "前海开源工业革命4.0混合",
             "post_date": "2018-05-07",
-            "cp_rate": 88.9394
+            "cp_rate": 94.5375
           },
           {
             "fund_code": "002407",
             "fundsname": "前海开源恒远混合",
             "post_date": "2018-04-04",
-            "cp_rate": 97.1083
+            "cp_rate": 99.7768
           },
           {
             "fund_code": "004291",
@@ -299,19 +299,19 @@
             "fund_code": "002360",
             "fundsname": "前海开源清洁能源混合C",
             "post_date": "2016-01-18",
-            "cp_rate": 112.79
+            "cp_rate": 114.26
           },
           {
             "fund_code": "001278",
             "fundsname": "前海开源清洁能源混合A",
             "post_date": "2015-06-16",
-            "cp_rate": 113.51
+            "cp_rate": 114.98
           },
           {
             "fund_code": "001178",
             "fundsname": "前海开源再融资股票",
             "post_date": "2015-05-18",
-            "cp_rate": 132.4675
+            "cp_rate": 133.7363
           },
           {
             "fund_code": "000916",

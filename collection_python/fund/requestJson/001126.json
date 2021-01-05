@@ -16,8 +16,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 8.46,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 7.49,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 6.1,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 5.85,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "亿纬锂能",
           "code": "300014",
           "percent": 5.4,
-          "current_price": 63.71,
-          "change_percentage": 4.17,
+          "current_price": 93.49,
+          "change_percentage": 14.71,
           "xq_symbol": "SZ300014",
           "xq_url": "https://xueqiu.com/S/SZ300014",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "中国中免",
           "code": "601888",
           "percent": 5.06,
-          "current_price": 208.03,
-          "change_percentage": 0.13,
+          "current_price": 292.25,
+          "change_percentage": 3.47,
           "xq_symbol": "SH601888",
           "xq_url": "https://xueqiu.com/S/SH601888",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "恒瑞医药",
           "code": "600276",
           "percent": 4.6,
-          "current_price": 90.07,
-          "change_percentage": 0.21,
+          "current_price": 111.2,
+          "change_percentage": -0.23,
           "xq_symbol": "SH600276",
           "xq_url": "https://xueqiu.com/S/SH600276",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "药明康德",
           "code": "603259",
           "percent": 4.1,
-          "current_price": 110.9,
-          "change_percentage": -0.12,
+          "current_price": 137.11,
+          "change_percentage": 1.77,
           "xq_symbol": "SH603259",
           "xq_url": "https://xueqiu.com/S/SH603259",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "拓普集团",
           "code": "601689",
           "percent": 3.7,
-          "current_price": 38.54,
-          "change_percentage": 3.66,
+          "current_price": 42.27,
+          "change_percentage": 9.99,
           "xq_symbol": "SH601689",
           "xq_url": "https://xueqiu.com/S/SH601689",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "五粮液",
           "code": "000858",
           "percent": 3.55,
-          "current_price": 272,
-          "change_percentage": 0.65,
+          "current_price": 298.05,
+          "change_percentage": 2.12,
           "xq_symbol": "SZ000858",
           "xq_url": "https://xueqiu.com/S/SZ000858",
           "amarket": true
@@ -188,37 +188,37 @@
         "name": "李德辉",
         "resume": "    李德辉先生,上海交通大学生物医学工程博士,自2012年7月至2014年7月,在农银汇理基金管理有限公司担任研究员;自2014年8月起加入上投摩根基金管理有限公司,先后担任研究员、行业专家兼基金经理助理、基金经理,自2016年11月起担任上投摩根科技前沿灵活配置混合型证券投资基金基金经理。\n    自2018年3月至2019年7月同时担任上投摩根安全战略股票型证券投资基金基金经理及上投摩根双核平衡混合型证券投资基金基金经理,自2018年6月起同时担任上投摩根卓越制造股票型证券投资基金基金经理,自2019年3月起同时担任上投摩根智选30混合型证券投资基金基金经理,自2020年1月起同时担任上投摩根慧选成长股票型证券投资基金基金经理,自2020年9月起同时担任上投摩根慧见两年持有期混合型证券投资基金基金经理。",
         "college": "上海交通大学",
-        "work_year": "8",
+        "work_year": "9",
         "achievement_list": [
           {
             "fund_code": "009998",
             "fundsname": "上投摩根慧见两年持有期混合",
             "post_date": "2020-09-17",
-            "cp_rate": 4.19
+            "cp_rate": 10.98
           },
           {
             "fund_code": "008314",
             "fundsname": "上投摩根慧选成长A",
             "post_date": "2020-01-22",
-            "cp_rate": 68.07
+            "cp_rate": 84.71
           },
           {
             "fund_code": "008315",
             "fundsname": "上投摩根慧选成长C",
             "post_date": "2020-01-22",
-            "cp_rate": 66.92
+            "cp_rate": 83.36
           },
           {
             "fund_code": "370027",
             "fundsname": "上投摩根智选30混合",
             "post_date": "2019-03-29",
-            "cp_rate": 120.9332
+            "cp_rate": 147.5346
           },
           {
             "fund_code": "001126",
             "fundsname": "上投摩根卓越制造股票",
             "post_date": "2018-06-15",
-            "cp_rate": 149.9538
+            "cp_rate": 185.0615
           },
           {
             "fund_code": "001009",
@@ -238,7 +238,7 @@
             "fund_code": "001538",
             "fundsname": "上投摩根科技前沿灵活配置混合",
             "post_date": "2016-11-18",
-            "cp_rate": 178.8593
+            "cp_rate": 217.2921
           }
         ]
       }
@@ -249,8 +249,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

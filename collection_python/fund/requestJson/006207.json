@@ -16,8 +16,8 @@
           "name": "光线传媒",
           "code": "300251",
           "percent": 2.29,
-          "current_price": 13.36,
-          "change_percentage": -0.3,
+          "current_price": 12.32,
+          "change_percentage": 2.07,
           "xq_symbol": "SZ300251",
           "xq_url": "https://xueqiu.com/S/SZ300251",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "中信证券",
           "code": "600030",
           "percent": 1.29,
-          "current_price": 30.01,
-          "change_percentage": 0,
+          "current_price": 29.18,
+          "change_percentage": -0.75,
           "xq_symbol": "SH600030",
           "xq_url": "https://xueqiu.com/S/SH600030",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "宁波银行",
           "code": "002142",
           "percent": 0.96,
-          "current_price": 35.74,
-          "change_percentage": 0.65,
+          "current_price": 34.94,
+          "change_percentage": -1.13,
           "xq_symbol": "SZ002142",
           "xq_url": "https://xueqiu.com/S/SZ002142",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "海容冷链",
           "code": "603187",
           "percent": 0.86,
-          "current_price": 55.51,
-          "change_percentage": -0.59,
+          "current_price": 60.49,
+          "change_percentage": 0.82,
           "xq_symbol": "SH603187",
           "xq_url": "https://xueqiu.com/S/SH603187",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "芒果超媒",
           "code": "300413",
           "percent": 0.76,
-          "current_price": 65.95,
-          "change_percentage": -1.54,
+          "current_price": 72.88,
+          "change_percentage": 0.52,
           "xq_symbol": "SZ300413",
           "xq_url": "https://xueqiu.com/S/SZ300413",
           "amarket": true
@@ -74,8 +74,8 @@
           "name": "平安银行",
           "code": "000001",
           "percent": 0.75,
-          "current_price": 18.71,
-          "change_percentage": -1.06,
+          "current_price": 18.6,
+          "change_percentage": -3.83,
           "xq_symbol": "SZ000001",
           "xq_url": "https://xueqiu.com/S/SZ000001",
           "amarket": true
@@ -84,8 +84,8 @@
           "name": "星宇股份",
           "code": "601799",
           "percent": 0.65,
-          "current_price": 186.12,
-          "change_percentage": -2.43,
+          "current_price": 198.32,
+          "change_percentage": -1.09,
           "xq_symbol": "SH601799",
           "xq_url": "https://xueqiu.com/S/SH601799",
           "amarket": true
@@ -94,8 +94,8 @@
           "name": "中信特钢",
           "code": "000708",
           "percent": 0.56,
-          "current_price": 20.41,
-          "change_percentage": -1.73,
+          "current_price": 23.2,
+          "change_percentage": 6.47,
           "xq_symbol": "SZ000708",
           "xq_url": "https://xueqiu.com/S/SZ000708",
           "amarket": true
@@ -104,8 +104,8 @@
           "name": "中国太保",
           "code": "601601",
           "percent": 0.55,
-          "current_price": 37.67,
-          "change_percentage": -0.37,
+          "current_price": 38.35,
+          "change_percentage": -0.13,
           "xq_symbol": "SH601601",
           "xq_url": "https://xueqiu.com/S/SH601601",
           "amarket": true
@@ -255,13 +255,13 @@
             "fund_code": "006979",
             "fundsname": "泰康安欣纯债债券C",
             "post_date": "2019-09-17",
-            "cp_rate": 1.26
+            "cp_rate": 2
           },
           {
             "fund_code": "006978",
             "fundsname": "泰康安欣纯债债券A",
             "post_date": "2019-09-17",
-            "cp_rate": 1.51
+            "cp_rate": 2.26
           },
           {
             "fund_code": "002767",
@@ -302,43 +302,43 @@
             "fund_code": "007004",
             "fundsname": "泰康安业政金债债券C",
             "post_date": "2019-05-27",
-            "cp_rate": 2.27
+            "cp_rate": 2.98
           },
           {
             "fund_code": "007003",
             "fundsname": "泰康安业政金债债券A",
             "post_date": "2019-05-27",
-            "cp_rate": 4.46
+            "cp_rate": 5.19
           },
           {
             "fund_code": "006208",
             "fundsname": "泰康裕泰债券C",
             "post_date": "2019-03-14",
-            "cp_rate": 12.44
+            "cp_rate": 14.04
           },
           {
             "fund_code": "006207",
             "fundsname": "泰康裕泰债券A",
             "post_date": "2019-03-14",
-            "cp_rate": 12.65
+            "cp_rate": 14.26
           },
           {
             "fund_code": "006865",
             "fundsname": "泰康安惠纯债债券C",
             "post_date": "2019-01-18",
-            "cp_rate": 5.3013
+            "cp_rate": 5.7173
           },
           {
             "fund_code": "005054",
             "fundsname": "泰康瑞坤纯债债券",
             "post_date": "2017-12-27",
-            "cp_rate": 14.5
+            "cp_rate": 15.26
           },
           {
             "fund_code": "005172",
             "fundsname": "泰康安悦纯债3月定开债券",
             "post_date": "2017-11-01",
-            "cp_rate": 15.49
+            "cp_rate": 16.26
           },
           {
             "fund_code": "001910",
@@ -358,62 +358,62 @@
             "fund_code": "003078",
             "fundsname": "泰康安惠纯债债券A",
             "post_date": "2016-12-26",
-            "cp_rate": 16.9
+            "cp_rate": 17.38
           },
           {
             "fund_code": "002529",
             "fundsname": "泰康安益纯债债券C",
             "post_date": "2016-08-30",
-            "cp_rate": 29.97
+            "cp_rate": 30.67
           },
           {
             "fund_code": "002528",
             "fundsname": "泰康安益纯债债券A",
             "post_date": "2016-08-30",
-            "cp_rate": 15.77
+            "cp_rate": 16.42
           },
           {
             "fund_code": "002331",
             "fundsname": "泰康安泰回报混合",
             "post_date": "2016-03-23",
-            "cp_rate": 33.29
+            "cp_rate": 36.04
           }
         ]
       },
       {
         "name": "陈怡",
         "resume": "    陈怡女士,金融学硕士。2016年5月加入泰康资产,现任泰康资产管理有限责任公司公募事业部股票投资高级经理,2017年4月19日至今担任泰康丰盈债券型证券投资基金、泰康宏泰回报混合型证券投资基金基金经理,2017年10月13日至今担任泰康金泰回报3个月定期开放混合型证券投资基金基金经理,2017年11月9日至今担任泰康安泰回报混合型证券投资基金基金经理,2017年11月28日至今担任泰康新回报灵活配置混合型证券投资基金基金经理,2018年1月19日至今担任泰康均衡优选混合型证券投资基金基金经理。2018年8月23日至今担任泰康弘实3个月定期开放混合型发起式证券投资基金基金经理,2019年3月22日至今担任泰康裕泰债券型证券投资基金基金经理。曾任职万家基金管理有限公司研究部研究员,平安养老保险股份有限公司权益投资部研究员、行业投资经理。",
-        "work_year": "8",
+        "work_year": "9",
         "achievement_list": [
           {
             "fund_code": "009449",
             "fundsname": "泰康申润一年持有期混合C",
             "post_date": "2020-06-30",
-            "cp_rate": 1.68
+            "cp_rate": 3.26
           },
           {
             "fund_code": "009448",
             "fundsname": "泰康申润一年持有期混合A",
             "post_date": "2020-06-30",
-            "cp_rate": 1.95
+            "cp_rate": 3.58
           },
           {
             "fund_code": "006208",
             "fundsname": "泰康裕泰债券C",
             "post_date": "2019-03-22",
-            "cp_rate": 12.4063
+            "cp_rate": 14.0058
           },
           {
             "fund_code": "006207",
             "fundsname": "泰康裕泰债券A",
             "post_date": "2019-03-22",
-            "cp_rate": 12.6162
+            "cp_rate": 14.2257
           },
           {
             "fund_code": "006111",
             "fundsname": "泰康弘实3个月定期开放混合",
             "post_date": "2018-08-23",
-            "cp_rate": 95.45
+            "cp_rate": 110.41
           },
           {
             "fund_code": "005474",
@@ -433,31 +433,31 @@
             "fund_code": "001799",
             "fundsname": "泰康新回报灵活配置混合C",
             "post_date": "2017-11-28",
-            "cp_rate": 69.9253
+            "cp_rate": 79.8431
           },
           {
             "fund_code": "001798",
             "fundsname": "泰康新回报灵活配置混合A",
             "post_date": "2017-11-28",
-            "cp_rate": 71.5945
+            "cp_rate": 81.6564
           },
           {
             "fund_code": "002331",
             "fundsname": "泰康安泰回报混合",
             "post_date": "2017-11-09",
-            "cp_rate": 29.9249
+            "cp_rate": 32.6055
           },
           {
             "fund_code": "003813",
             "fundsname": "泰康金泰3月定开混合",
             "post_date": "2017-10-13",
-            "cp_rate": 19.7231
+            "cp_rate": 21.0783
           },
           {
             "fund_code": "002986",
             "fundsname": "泰康丰盈债券",
             "post_date": "2017-04-19",
-            "cp_rate": 25.4266
+            "cp_rate": 26.7937
           },
           {
             "fund_code": "002767",
@@ -475,8 +475,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

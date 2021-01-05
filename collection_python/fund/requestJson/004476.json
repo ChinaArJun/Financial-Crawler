@@ -39,8 +39,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 4.09,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "鹏鼎控股",
           "code": "002938",
           "percent": 3.18,
-          "current_price": 54.51,
-          "change_percentage": -2.14,
+          "current_price": 47.88,
+          "change_percentage": -3.6,
           "xq_symbol": "SZ002938",
           "xq_url": "https://xueqiu.com/S/SZ002938",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "南极电商",
           "code": "002127",
           "percent": 2.75,
-          "current_price": 15.72,
-          "change_percentage": -2.84,
+          "current_price": 12.31,
+          "change_percentage": -10.01,
           "xq_symbol": "SZ002127",
           "xq_url": "https://xueqiu.com/S/SZ002127",
           "amarket": true
@@ -93,8 +93,8 @@
           "name": "三七互娱",
           "code": "002555",
           "percent": 2.46,
-          "current_price": 29.38,
-          "change_percentage": 4,
+          "current_price": 31.94,
+          "change_percentage": 2.27,
           "xq_symbol": "SZ002555",
           "xq_url": "https://xueqiu.com/S/SZ002555",
           "amarket": true
@@ -165,37 +165,37 @@
       {
         "name": "詹成",
         "resume": "    詹成先生,通信电子工程博士。曾担任英国诺基亚研发中心研究员。2011年7月加入景顺长城基金管理有限公司,历任研究部研究员、专户投资部投资经理,自2015年12月起担任股票投资部基金经理。具有8年证券、基金行业从业经验。",
-        "work_year": "9",
+        "work_year": "10",
         "achievement_list": [
           {
             "fund_code": "009598",
             "fundsname": "景顺长城科技创新三年定期开放混合",
             "post_date": "2020-06-30",
-            "cp_rate": 2.75
+            "cp_rate": 10.93
           },
           {
             "fund_code": "008657",
             "fundsname": "景顺长城科技创新混合",
             "post_date": "2020-03-18",
-            "cp_rate": 41.8642
+            "cp_rate": 56.8157
           },
           {
             "fund_code": "005914",
             "fundsname": "景顺长城智能生活混合",
             "post_date": "2019-01-31",
-            "cp_rate": 103.67
+            "cp_rate": 123.83
           },
           {
             "fund_code": "004476",
             "fundsname": "景顺长城沪港深领先科技股票",
             "post_date": "2017-07-07",
-            "cp_rate": 105.9
+            "cp_rate": 123.3
           },
           {
             "fund_code": "000020",
             "fundsname": "景顺长城品质投资混合",
             "post_date": "2015-12-29",
-            "cp_rate": 120.7592
+            "cp_rate": 135.039
           }
         ]
       }

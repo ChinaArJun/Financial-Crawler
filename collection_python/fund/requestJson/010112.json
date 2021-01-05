@@ -4,10 +4,51 @@
     "fund_rates": {
       "fd_code": "010112",
       "subscribe_rate": "0",
-      "declare_rate": "0",
+      "declare_rate": "1.50",
+      "withdraw_rate": "1.500",
       "discount": "0.1",
       "subscribe_discount": "1.0",
       "declare_discount": "0.1",
+      "declare_rate_table": [
+        {
+          "name": "买入金额<100万",
+          "value": "1.50"
+        },
+        {
+          "name": "100万≤买入金额<300万",
+          "value": "0.90"
+        },
+        {
+          "name": "300万≤买入金额<500万",
+          "value": "0.30"
+        },
+        {
+          "name": "500万≤买入金额",
+          "value": "1000.00"
+        }
+      ],
+      "withdraw_rate_table": [
+        {
+          "name": "0天<持有期限<7天",
+          "value": "1.500"
+        },
+        {
+          "name": "7天≤持有期限<30天",
+          "value": "0.750"
+        },
+        {
+          "name": "30天≤持有期限<180天",
+          "value": "0.500"
+        },
+        {
+          "name": "180天≤持有期限<365天",
+          "value": "0.300"
+        },
+        {
+          "name": "365天≤持有期限",
+          "value": "0.000"
+        }
+      ],
       "other_rate_table": [
         {
           "name": "基金托管费",
@@ -28,49 +69,49 @@
             "fund_code": "010112",
             "fundsname": "广发研究精选股票A",
             "post_date": "2020-11-04",
-            "cp_rate": 0.53
+            "cp_rate": 1.93
           },
           {
             "fund_code": "010113",
             "fundsname": "广发研究精选股票C",
             "post_date": "2020-11-04",
-            "cp_rate": 0.5
+            "cp_rate": 1.86
           },
           {
             "fund_code": "010235",
             "fundsname": "广发资源优选股票C",
             "post_date": "2020-09-24",
-            "cp_rate": 8.2687
+            "cp_rate": 15.0862
           },
           {
             "fund_code": "010245",
             "fundsname": "广发品牌消费股票C",
             "post_date": "2020-09-24",
-            "cp_rate": 11.0563
+            "cp_rate": 23.919
           },
           {
             "fund_code": "010160",
             "fundsname": "广发高端制造股票C",
             "post_date": "2020-09-16",
-            "cp_rate": 15.7919
+            "cp_rate": 20.6706
           },
           {
             "fund_code": "004997",
             "fundsname": "广发高端制造股票A",
             "post_date": "2019-04-11",
-            "cp_rate": 185.2339
+            "cp_rate": 197.3347
           },
           {
             "fund_code": "005402",
             "fundsname": "广发资源优选股票A",
             "post_date": "2017-12-14",
-            "cp_rate": 82.85
+            "cp_rate": 94.41
           },
           {
             "fund_code": "004995",
             "fundsname": "广发品牌消费股票A",
             "post_date": "2017-12-14",
-            "cp_rate": 93.66
+            "cp_rate": 116.14
           }
         ]
       }
@@ -81,8 +122,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

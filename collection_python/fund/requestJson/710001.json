@@ -16,8 +16,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 9.33,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "上海医药",
           "code": "601607",
           "percent": 7.88,
-          "current_price": 19.65,
-          "change_percentage": -1.26,
+          "current_price": 19.09,
+          "change_percentage": -0.57,
           "xq_symbol": "SH601607",
           "xq_url": "https://xueqiu.com/S/SH601607",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "科蓝软件",
           "code": "300663",
           "percent": 7.03,
-          "current_price": 24.83,
-          "change_percentage": -0.28,
+          "current_price": 23.35,
+          "change_percentage": 2.55,
           "xq_symbol": "SZ300663",
           "xq_url": "https://xueqiu.com/S/SZ300663",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "博实股份",
           "code": "002698",
           "percent": 5.67,
-          "current_price": 11.87,
-          "change_percentage": 0,
+          "current_price": 12.27,
+          "change_percentage": 1.24,
           "xq_symbol": "SZ002698",
           "xq_url": "https://xueqiu.com/S/SZ002698",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "昆药集团",
           "code": "600422",
           "percent": 5,
-          "current_price": 9.42,
-          "change_percentage": -0.11,
+          "current_price": 8.67,
+          "change_percentage": 0.23,
           "xq_symbol": "SH600422",
           "xq_url": "https://xueqiu.com/S/SH600422",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "中航电测",
           "code": "300114",
           "percent": 4.06,
-          "current_price": 14.97,
-          "change_percentage": 0.2,
+          "current_price": 15.76,
+          "change_percentage": 5.42,
           "xq_symbol": "SZ300114",
           "xq_url": "https://xueqiu.com/S/SZ300114",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "顺丰控股",
           "code": "002352",
           "percent": 4.03,
-          "current_price": 80.21,
-          "change_percentage": -1.88,
+          "current_price": 90.48,
+          "change_percentage": 2.55,
           "xq_symbol": "SZ002352",
           "xq_url": "https://xueqiu.com/S/SZ002352",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "康弘药业",
           "code": "002773",
           "percent": 3.89,
-          "current_price": 42.58,
-          "change_percentage": -1.44,
+          "current_price": 46.2,
+          "change_percentage": -4.05,
           "xq_symbol": "SZ002773",
           "xq_url": "https://xueqiu.com/S/SZ002773",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "海康威视",
           "code": "002415",
           "percent": 3.1,
-          "current_price": 44.28,
-          "change_percentage": -1.16,
+          "current_price": 49.8,
+          "change_percentage": 2.66,
           "xq_symbol": "SZ002415",
           "xq_url": "https://xueqiu.com/S/SZ002415",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "长春高新",
           "code": "000661",
           "percent": 3,
-          "current_price": 388,
-          "change_percentage": 0.19,
+          "current_price": 473.45,
+          "change_percentage": 5.47,
           "xq_symbol": "SZ000661",
           "xq_url": "https://xueqiu.com/S/SZ000661",
           "amarket": true
@@ -184,31 +184,37 @@
         "name": "吴战峰",
         "resume": "    吴战峰先生,1968年8月出生,硕士研究生。历任中大投资公司投资部经理,平安证券资产管理部投资经理,招商证券研发中心高级分析师,国信证券研究所首席分析师,国投瑞银基金高级组合经理,国泰基金基金经理,天治基金总经理助理兼研究总监。现任富安达基金管理有限公司研究发展部总监、富安达优势成长混合型证券投资基金、富安达消费主题灵活配置混合型证券投资基金、富安达科技领航混合型证券投资基金基金经理。",
         "college": "清华大学",
-        "work_year": "25",
+        "work_year": "26",
         "achievement_list": [
+          {
+            "fund_code": "010746",
+            "fundsname": "富安达长三角区域主题混合",
+            "post_date": "2020-12-22",
+            "cp_rate": 0.5
+          },
           {
             "fund_code": "009789",
             "fundsname": "富安达科技创新混合",
             "post_date": "2020-09-18",
-            "cp_rate": 6.1
+            "cp_rate": 11.55
           },
           {
             "fund_code": "009380",
             "fundsname": "富安达科技领航混合",
             "post_date": "2020-06-17",
-            "cp_rate": -0.45
+            "cp_rate": 13.74
           },
           {
             "fund_code": "004549",
             "fundsname": "富安达消费主题混合",
             "post_date": "2017-08-01",
-            "cp_rate": 69.74
+            "cp_rate": 78.76
           },
           {
             "fund_code": "710001",
             "fundsname": "富安达优势成长混合",
             "post_date": "2016-01-09",
-            "cp_rate": 69.1294
+            "cp_rate": 77.9471
           },
           {
             "fund_code": "163503",

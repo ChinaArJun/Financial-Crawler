@@ -20,8 +20,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 2,
       "sale_query_date": 2,
-      "all_buy_days": 3,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 3
     }
   },
   "result_code": 0

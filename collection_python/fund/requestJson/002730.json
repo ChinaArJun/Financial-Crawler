@@ -16,8 +16,8 @@
           "name": "辽宁成大",
           "code": "600739",
           "percent": 1.01,
-          "current_price": 23.26,
-          "change_percentage": 0.48,
+          "current_price": 24.03,
+          "change_percentage": -1.19,
           "xq_symbol": "SH600739",
           "xq_url": "https://xueqiu.com/S/SH600739",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "生物股份",
           "code": "600201",
           "percent": 0.86,
-          "current_price": 23.71,
-          "change_percentage": -1.33,
+          "current_price": 21.09,
+          "change_percentage": 0.96,
           "xq_symbol": "SH600201",
           "xq_url": "https://xueqiu.com/S/SH600201",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "人福医药",
           "code": "600079",
           "percent": 0.86,
-          "current_price": 33.6,
-          "change_percentage": -0.88,
+          "current_price": 31.84,
+          "change_percentage": -6.02,
           "xq_symbol": "SH600079",
           "xq_url": "https://xueqiu.com/S/SH600079",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "安琪酵母",
           "code": "600298",
           "percent": 0.85,
-          "current_price": 50.15,
-          "change_percentage": -0.89,
+          "current_price": 53,
+          "change_percentage": 3.78,
           "xq_symbol": "SH600298",
           "xq_url": "https://xueqiu.com/S/SH600298",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "金发科技",
           "code": "600143",
           "percent": 0.8,
-          "current_price": 17,
-          "change_percentage": -1.73,
+          "current_price": 17.93,
+          "change_percentage": 4.61,
           "xq_symbol": "SH600143",
           "xq_url": "https://xueqiu.com/S/SH600143",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "华鲁恒升",
           "code": "600426",
           "percent": 0.79,
-          "current_price": 34.94,
-          "change_percentage": 1.28,
+          "current_price": 37.01,
+          "change_percentage": -0.78,
           "xq_symbol": "SH600426",
           "xq_url": "https://xueqiu.com/S/SH600426",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "太平洋",
           "code": "601099",
           "percent": 0.78,
-          "current_price": 3.99,
-          "change_percentage": 0,
+          "current_price": 4.06,
+          "change_percentage": -0.49,
           "xq_symbol": "SH601099",
           "xq_url": "https://xueqiu.com/S/SH601099",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "吉比特",
           "code": "603444",
           "percent": 0.76,
-          "current_price": 410.3,
-          "change_percentage": 2.32,
+          "current_price": 437.99,
+          "change_percentage": 2.81,
           "xq_symbol": "SH603444",
           "xq_url": "https://xueqiu.com/S/SH603444",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "绝味食品",
           "code": "603517",
           "percent": 0.71,
-          "current_price": 75.39,
-          "change_percentage": -0.63,
+          "current_price": 82.41,
+          "change_percentage": 6.28,
           "xq_symbol": "SH603517",
           "xq_url": "https://xueqiu.com/S/SH603517",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "重庆啤酒",
           "code": "600132",
           "percent": 0.71,
-          "current_price": 117.03,
-          "change_percentage": 0.2,
+          "current_price": 120.59,
+          "change_percentage": 1.34,
           "xq_symbol": "SH600132",
           "xq_url": "https://xueqiu.com/S/SH600132",
           "amarket": true
@@ -200,31 +200,31 @@
         "name": "尹培俊",
         "resume": "    尹培俊先生,兰州大学工商管理硕士,研究生学历,证券从业年限十四年。曾任上海君创财经顾问有限公司顾问部项目经理、上海远东资信评估有限公司集团部高级分析师、新华财经有限公司信用评级部高级分析师、上海新世纪资信评估投资服务有限公司高级分析师、德邦证券有限责任公司固定收益部高级经理。2012年加入华富基金管理有限公司,曾任固定收益部信用研究员、固定收益部总监助理、固定收益部副总监,2016年5月5日至2018年9月4日(9.5基金合同终止)任华富诚鑫灵活配置混合型基金基金经理、2014年3月6日至2019年6月20日任华富货币市场基金基金经理。现任华富收益增强债券型基金基金经理、华富可转债债券型基金基金经理、华富强化回报债券型基金基金经理、华富安享债券型基金基金经理、华富华鑫灵活配置混合型基金基金经理、固定收益部总监、公司公募投资决策委员会委员。",
         "college": "兰州大学",
-        "work_year": "14",
+        "work_year": "15",
         "achievement_list": [
           {
             "fund_code": "410004",
             "fundsname": "华富收益增强债券A",
             "post_date": "2018-08-28",
-            "cp_rate": 12.822
+            "cp_rate": 13.2715
           },
           {
             "fund_code": "410005",
             "fundsname": "华富收益增强债券B",
             "post_date": "2018-08-28",
-            "cp_rate": 11.7992
+            "cp_rate": 12.2158
           },
           {
             "fund_code": "005793",
             "fundsname": "华富可转债债券",
             "post_date": "2018-08-28",
-            "cp_rate": 28.6511
+            "cp_rate": 29.9562
           },
           {
             "fund_code": "002280",
             "fundsname": "华富安享债券",
             "post_date": "2018-01-30",
-            "cp_rate": 29.3216
+            "cp_rate": 30.069
           },
           {
             "fund_code": "003994",
@@ -237,13 +237,13 @@
             "fund_code": "002731",
             "fundsname": "华富华鑫灵活配置混合C",
             "post_date": "2016-11-11",
-            "cp_rate": 51.46
+            "cp_rate": 51.87
           },
           {
             "fund_code": "002730",
             "fundsname": "华富华鑫灵活配置混合A",
             "post_date": "2016-11-11",
-            "cp_rate": 52.37
+            "cp_rate": 52.88
           },
           {
             "fund_code": "002727",
@@ -270,7 +270,7 @@
             "fund_code": "164105",
             "fundsname": "华富强化回报债券(LOF)",
             "post_date": "2014-03-06",
-            "cp_rate": 99.1735
+            "cp_rate": 101.2398
           },
           {
             "fund_code": "410002",
@@ -288,8 +288,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

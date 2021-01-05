@@ -16,8 +16,8 @@
           "name": "浪潮信息",
           "code": "000977",
           "percent": 5.25,
-          "current_price": 28.3,
-          "change_percentage": -0.95,
+          "current_price": 27.3,
+          "change_percentage": 1.56,
           "xq_symbol": "SZ000977",
           "xq_url": "https://xueqiu.com/S/SZ000977",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "天赐材料",
           "code": "002709",
           "percent": 4.57,
-          "current_price": 84.25,
-          "change_percentage": 10,
+          "current_price": 114.03,
+          "change_percentage": 9.86,
           "xq_symbol": "SZ002709",
           "xq_url": "https://xueqiu.com/S/SZ002709",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "环旭电子",
           "code": "601231",
           "percent": 2.82,
-          "current_price": 21.62,
-          "change_percentage": -0.46,
+          "current_price": 19.53,
+          "change_percentage": 0.98,
           "xq_symbol": "SH601231",
           "xq_url": "https://xueqiu.com/S/SH601231",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "顺网科技",
           "code": "300113",
           "percent": 2.39,
-          "current_price": 18.2,
-          "change_percentage": 3.7,
+          "current_price": 17.29,
+          "change_percentage": 0.82,
           "xq_symbol": "SZ300113",
           "xq_url": "https://xueqiu.com/S/SZ300113",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "中环股份",
           "code": "002129",
           "percent": 1.8,
-          "current_price": 23.74,
-          "change_percentage": -1.58,
+          "current_price": 26.72,
+          "change_percentage": 4.78,
           "xq_symbol": "SZ002129",
           "xq_url": "https://xueqiu.com/S/SZ002129",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "长春高新",
           "code": "000661",
           "percent": 1.75,
-          "current_price": 388,
-          "change_percentage": 0.19,
+          "current_price": 473.45,
+          "change_percentage": 5.47,
           "xq_symbol": "SZ000661",
           "xq_url": "https://xueqiu.com/S/SZ000661",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "鹏鼎控股",
           "code": "002938",
           "percent": 1.74,
-          "current_price": 54.51,
-          "change_percentage": -2.14,
+          "current_price": 47.88,
+          "change_percentage": -3.6,
           "xq_symbol": "SZ002938",
           "xq_url": "https://xueqiu.com/S/SZ002938",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "浙江鼎力",
           "code": "603338",
           "percent": 1.51,
-          "current_price": 103.96,
-          "change_percentage": -2.04,
+          "current_price": 103.13,
+          "change_percentage": 1.92,
           "xq_symbol": "SH603338",
           "xq_url": "https://xueqiu.com/S/SH603338",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "歌尔股份",
           "code": "002241",
           "percent": 1.49,
-          "current_price": 37.16,
-          "change_percentage": -2.24,
+          "current_price": 36.74,
+          "change_percentage": -1.55,
           "xq_symbol": "SZ002241",
           "xq_url": "https://xueqiu.com/S/SZ002241",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "天山股份",
           "code": "000877",
           "percent": 1.26,
-          "current_price": 15.78,
-          "change_percentage": 0.19,
+          "current_price": 15.19,
+          "change_percentage": 0.6,
           "xq_symbol": "SZ000877",
           "xq_url": "https://xueqiu.com/S/SZ000877",
           "amarket": true
@@ -219,7 +219,7 @@
       {
         "name": "翁启森",
         "resume": "    翁启森先生,工业工程学硕士,22年证券、基金行业从业经历,具有中国大陆基金从业资格。曾在台湾JP证券任金融产业分析师及投资经理,台湾摩根富林明投信投资管理部任基金经理,台湾中信证券投资总监助理,台湾保德信投信任基金经理。2008 年4 月加入华安基金管理有限公司,任全球投资部总监。2010年9月起担任华安香港精选股票型证券投资基金的基金经理。2011 年5 月起同时担任华安大中华升级股票型证券投资基金的基金经理。2014年6月起担任基金投资部兼全球投资部高级总监。2014年3月至2016 年9 月同时担任华安宏利混合型证券投资基金的基金经理。2014 年4 月起同时担任华安大国新经济股票型证券投资基金的基金经理。2014 年6 月起担任基金投资部兼全球投资部高级总监。2015 年2 月至2016年9 月同时担任华安安顺灵活配置混合型证券投资基金的基金经理。2015年 3 月起担任公司总经理助理。2015年3 月起同时担任华安物联网主题股票型证券投资基金的基金经理。2015年6月至2016 年9 月同时担任华安宝利配置证券投资基金、华安生态优先混合型证券投资基金的基金经理。",
-        "work_year": "24",
+        "work_year": "25",
         "achievement_list": [
           {
             "fund_code": "040004",
@@ -239,7 +239,7 @@
             "fund_code": "001028",
             "fundsname": "华安物联网主题股票",
             "post_date": "2015-03-17",
-            "cp_rate": 20.2
+            "cp_rate": 24.1
           },
           {
             "fund_code": "519909",
@@ -252,7 +252,7 @@
             "fund_code": "000549",
             "fundsname": "华安大国新经济股票",
             "post_date": "2014-04-15",
-            "cp_rate": 206
+            "cp_rate": 216.8
           },
           {
             "fund_code": "040005",
@@ -265,13 +265,13 @@
             "fund_code": "040021",
             "fundsname": "华安大中华升级股票(QDII)",
             "post_date": "2011-05-17",
-            "cp_rate": 58.6
+            "cp_rate": 71.5
           },
           {
             "fund_code": "040018",
             "fundsname": "华安香港精选股票(QDII)",
             "post_date": "2010-09-19",
-            "cp_rate": 103
+            "cp_rate": 120.4
           }
         ]
       }
@@ -282,8 +282,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

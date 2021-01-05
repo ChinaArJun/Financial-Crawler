@@ -15,8 +15,8 @@
           "name": "阳光电源",
           "code": "300274",
           "percent": 6.81,
-          "current_price": 51.88,
-          "change_percentage": 6.31,
+          "current_price": 78.19,
+          "change_percentage": 8.18,
           "xq_symbol": "SZ300274",
           "xq_url": "https://xueqiu.com/S/SZ300274",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "林洋能源",
           "code": "601222",
           "percent": 4.73,
-          "current_price": 7.26,
-          "change_percentage": -0.27,
+          "current_price": 8.71,
+          "change_percentage": 9.97,
           "xq_symbol": "SH601222",
           "xq_url": "https://xueqiu.com/S/SH601222",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "坚朗五金",
           "code": "002791",
           "percent": 3.74,
-          "current_price": 135.48,
-          "change_percentage": 0.73,
+          "current_price": 148.1,
+          "change_percentage": 2.85,
           "xq_symbol": "SZ002791",
           "xq_url": "https://xueqiu.com/S/SZ002791",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "青松股份",
           "code": "300132",
           "percent": 2.58,
-          "current_price": 21.75,
-          "change_percentage": 0.37,
+          "current_price": 19.52,
+          "change_percentage": 3.89,
           "xq_symbol": "SZ300132",
           "xq_url": "https://xueqiu.com/S/SZ300132",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "慈文传媒",
           "code": "002343",
           "percent": 2.57,
-          "current_price": 7.16,
-          "change_percentage": -1.92,
+          "current_price": 6.48,
+          "change_percentage": 0.62,
           "xq_symbol": "SZ002343",
           "xq_url": "https://xueqiu.com/S/SZ002343",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "火炬电子",
           "code": "603678",
           "percent": 2.45,
-          "current_price": 55.23,
-          "change_percentage": -0.22,
+          "current_price": 79.1,
+          "change_percentage": 9.41,
           "xq_symbol": "SH603678",
           "xq_url": "https://xueqiu.com/S/SH603678",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "分众传媒",
           "code": "002027",
           "percent": 2.34,
-          "current_price": 10.36,
-          "change_percentage": 0.58,
+          "current_price": 10.04,
+          "change_percentage": 1.72,
           "xq_symbol": "SZ002027",
           "xq_url": "https://xueqiu.com/S/SZ002027",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "金山办公",
           "code": "688111",
           "percent": 2.33,
-          "current_price": 349.5,
-          "change_percentage": -2.75,
+          "current_price": 420,
+          "change_percentage": 2.19,
           "xq_symbol": "SH688111",
           "xq_url": "https://xueqiu.com/S/SH688111",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "泰和新材",
           "code": "002254",
           "percent": 2.33,
-          "current_price": 16.59,
-          "change_percentage": -0.72,
+          "current_price": 14.7,
+          "change_percentage": -3.86,
           "xq_symbol": "SZ002254",
           "xq_url": "https://xueqiu.com/S/SZ002254",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "晶澳科技",
           "code": "002459",
           "percent": 2.3,
-          "current_price": 32.99,
-          "change_percentage": 0.49,
+          "current_price": 43.1,
+          "change_percentage": 5.84,
           "xq_symbol": "SZ002459",
           "xq_url": "https://xueqiu.com/S/SZ002459",
           "amarket": true
@@ -177,49 +177,49 @@
       {
         "name": "杜洋",
         "resume": "    杜洋先生,10年证券从业经验;2010年加入工银瑞信,现任研究部能源设施研究团队负责人、基金经理。 2015年2月16日至今,担任工银瑞信战略转型主题股票型证券投资基金基金经理;2016年11月2日至2018年10月12日,担任工银瑞信瑞盈18个月定期开放债券型证券投资基金基金经理;2017年1月25日至2018年6月11日,担任工银瑞信瑞盈半年定期开放债券型证券投资基金基金经理;2018年3月22日至今,担任工银瑞信稳健成长混合型证券投资基金基金经理;2018年11月14日至今,担任工银瑞信新能源汽车主题混合型证券投资基金基金经理;2019年4月24日至今,担任工银瑞信战略新兴产业混合型证券投资基金基金经理;2019年12月25日至今,担任工银瑞信产业升级股票型证券投资基金基金经理。",
-        "work_year": "10",
+        "work_year": "11",
         "achievement_list": [
           {
             "fund_code": "007675",
             "fundsname": "工银产业升级股票C",
             "post_date": "2019-12-25",
-            "cp_rate": 28.44
+            "cp_rate": 31.61
           },
           {
             "fund_code": "007674",
             "fundsname": "工银产业升级股票A",
             "post_date": "2019-12-25",
-            "cp_rate": 29.43
+            "cp_rate": 32.69
           },
           {
             "fund_code": "001718",
             "fundsname": "工银瑞信物流产业股票",
             "post_date": "2019-05-20",
-            "cp_rate": 108.732
+            "cp_rate": 129.5368
           },
           {
             "fund_code": "006616",
             "fundsname": "工银战略新兴产业混合C",
             "post_date": "2019-04-24",
-            "cp_rate": 145.08
+            "cp_rate": 164.01
           },
           {
             "fund_code": "006615",
             "fundsname": "工银战略新兴产业混合A",
             "post_date": "2019-04-24",
-            "cp_rate": 147.27
+            "cp_rate": 166.44
           },
           {
             "fund_code": "005940",
             "fundsname": "工银瑞信新能源汽车主题混合C",
             "post_date": "2018-11-14",
-            "cp_rate": 130.11
+            "cp_rate": 172.74
           },
           {
             "fund_code": "005939",
             "fundsname": "工银瑞信新能源汽车主题混合A",
             "post_date": "2018-11-14",
-            "cp_rate": 134.13
+            "cp_rate": 177.57
           },
           {
             "fund_code": "960023",
@@ -231,7 +231,7 @@
             "fund_code": "481004",
             "fundsname": "工银稳健成长混合A",
             "post_date": "2018-03-22",
-            "cp_rate": 57.5386
+            "cp_rate": 64.9123
           },
           {
             "fund_code": "003639",
@@ -251,7 +251,7 @@
             "fund_code": "000991",
             "fundsname": "工银战略转型股票",
             "post_date": "2015-02-16",
-            "cp_rate": 202.9
+            "cp_rate": 207.4
           }
         ]
       }

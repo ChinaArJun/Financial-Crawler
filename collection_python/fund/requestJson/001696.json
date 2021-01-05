@@ -16,8 +16,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 7.03,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 5.54,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 3.59,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "沃森生物",
           "code": "300142",
           "percent": 3.56,
-          "current_price": 36.67,
-          "change_percentage": 0.38,
+          "current_price": 38.3,
+          "change_percentage": -0.67,
           "xq_symbol": "SZ300142",
           "xq_url": "https://xueqiu.com/S/SZ300142",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "晶澳科技",
           "code": "002459",
           "percent": 3.36,
-          "current_price": 32.99,
-          "change_percentage": 0.49,
+          "current_price": 43.1,
+          "change_percentage": 5.84,
           "xq_symbol": "SZ002459",
           "xq_url": "https://xueqiu.com/S/SZ002459",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "福斯特",
           "code": "603806",
           "percent": 3.31,
-          "current_price": 73.08,
-          "change_percentage": 2.21,
+          "current_price": 90.74,
+          "change_percentage": 6.25,
           "xq_symbol": "SH603806",
           "xq_url": "https://xueqiu.com/S/SH603806",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "东方雨虹",
           "code": "002271",
           "percent": 3.31,
-          "current_price": 35.92,
-          "change_percentage": 0.25,
+          "current_price": 39.48,
+          "change_percentage": 1.75,
           "xq_symbol": "SZ002271",
           "xq_url": "https://xueqiu.com/S/SZ002271",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "安图生物",
           "code": "603658",
           "percent": 3.12,
-          "current_price": 152.75,
-          "change_percentage": 1.65,
+          "current_price": 132,
+          "change_percentage": -9.08,
           "xq_symbol": "SH603658",
           "xq_url": "https://xueqiu.com/S/SH603658",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 3.04,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "司太立",
           "code": "603520",
           "percent": 3.02,
-          "current_price": 71.37,
-          "change_percentage": 1.45,
+          "current_price": 65.76,
+          "change_percentage": -0.11,
           "xq_symbol": "SH603520",
           "xq_url": "https://xueqiu.com/S/SH603520",
           "amarket": true
@@ -196,19 +196,31 @@
         "name": "应帅",
         "resume": "    应帅先生,北大光华管理学院管理学硕士,具有基金从业资格。曾担任长城基金管理公司行业研究员,2007年加入南方基金,2007年5月至2009年2月,任南方宝元基金经理;2007年5月至2012年11月,任南方成份基金经理;2010年12月至2016年3月,任南方宝元基金经理;2012年11月至今,任南方稳健基金经理;2012年11月至今,任南稳贰号基金经理;2016年3月至今,任南方驱动基金经理。2017年8月至今,任南方智造股票基金经理。",
         "college": "北大光华管理学院",
-        "work_year": "19",
+        "work_year": "20",
         "achievement_list": [
+          {
+            "fund_code": "010300",
+            "fundsname": "南方产业升级混合C",
+            "post_date": "2020-12-07",
+            "cp_rate": 5.99
+          },
+          {
+            "fund_code": "010299",
+            "fundsname": "南方产业升级混合A",
+            "post_date": "2020-12-07",
+            "cp_rate": 6.03
+          },
           {
             "fund_code": "160143",
             "fundsname": "南方创业板2年定期开放混合LOF",
             "post_date": "2020-09-01",
-            "cp_rate": 3.91
+            "cp_rate": 14.48
           },
           {
             "fund_code": "001696",
             "fundsname": "南方智造未来股票",
             "post_date": "2017-08-03",
-            "cp_rate": 90.66
+            "cp_rate": 111.04
           },
           {
             "fund_code": "202213",
@@ -221,19 +233,19 @@
             "fund_code": "002160",
             "fundsname": "南方转型驱动灵活配置混合",
             "post_date": "2016-03-23",
-            "cp_rate": 186
-          },
-          {
-            "fund_code": "202001",
-            "fundsname": "南方稳健成长混合",
-            "post_date": "2012-11-23",
-            "cp_rate": 230.4569
+            "cp_rate": 218.6
           },
           {
             "fund_code": "202002",
             "fundsname": "南方稳健成长贰号混合",
             "post_date": "2012-11-23",
-            "cp_rate": 232.0734
+            "cp_rate": 263.8325
+          },
+          {
+            "fund_code": "202001",
+            "fundsname": "南方稳健成长混合",
+            "post_date": "2012-11-23",
+            "cp_rate": 261.8165
           },
           {
             "fund_code": "202101",

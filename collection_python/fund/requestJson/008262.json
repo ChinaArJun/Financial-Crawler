@@ -16,8 +16,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 8.5,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "长江电力",
           "code": "600900",
           "percent": 7.14,
-          "current_price": 19.83,
-          "change_percentage": 0.15,
+          "current_price": 18.9,
+          "change_percentage": -1.36,
           "xq_symbol": "SH600900",
           "xq_url": "https://xueqiu.com/S/SH600900",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "海大集团",
           "code": "002311",
           "percent": 4.28,
-          "current_price": 61,
-          "change_percentage": 0,
+          "current_price": 68.43,
+          "change_percentage": 4.47,
           "xq_symbol": "SZ002311",
           "xq_url": "https://xueqiu.com/S/SZ002311",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "中国国航",
           "code": "601111",
           "percent": 3.34,
-          "current_price": 7.77,
-          "change_percentage": -1.65,
+          "current_price": 7.4,
+          "change_percentage": -1.2,
           "xq_symbol": "SH601111",
           "xq_url": "https://xueqiu.com/S/SH601111",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "通威股份",
           "code": "600438",
           "percent": 2.99,
-          "current_price": 29.2,
-          "change_percentage": -1.85,
+          "current_price": 41.65,
+          "change_percentage": 8.35,
           "xq_symbol": "SH600438",
           "xq_url": "https://xueqiu.com/S/SH600438",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "泰格医药",
           "code": "300347",
           "percent": 2.78,
-          "current_price": 135.45,
-          "change_percentage": 1.84,
+          "current_price": 166.82,
+          "change_percentage": 3.22,
           "xq_symbol": "SZ300347",
           "xq_url": "https://xueqiu.com/S/SZ300347",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "东方航空",
           "code": "600115",
           "percent": 2.72,
-          "current_price": 4.93,
-          "change_percentage": -0.6,
+          "current_price": 4.62,
+          "change_percentage": -1.28,
           "xq_symbol": "SH600115",
           "xq_url": "https://xueqiu.com/S/SH600115",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "通策医疗",
           "code": "600763",
           "percent": 2.04,
-          "current_price": 233.45,
-          "change_percentage": 0.45,
+          "current_price": 268,
+          "change_percentage": -3.08,
           "xq_symbol": "SH600763",
           "xq_url": "https://xueqiu.com/S/SH600763",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "鸿路钢构",
           "code": "002541",
           "percent": 1.71,
-          "current_price": 38.19,
-          "change_percentage": 1.84,
+          "current_price": 35.85,
+          "change_percentage": -1.86,
           "xq_symbol": "SZ002541",
           "xq_url": "https://xueqiu.com/S/SZ002541",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "东方雨虹",
           "code": "002271",
           "percent": 1.47,
-          "current_price": 35.92,
-          "change_percentage": 0.25,
+          "current_price": 39.48,
+          "change_percentage": 1.75,
           "xq_symbol": "SZ002271",
           "xq_url": "https://xueqiu.com/S/SZ002271",
           "amarket": true
@@ -195,43 +195,55 @@
       {
         "name": "贾成东",
         "resume": "    贾成东先生,理学硕士。2008 年加入国泰基金管理有限公司,先后任宏观策略研究员、基金经理;2015 年加入招商基金管理有限公司,现任投资管理四部总监兼招商行业精选股票型证券投资基金基金经理(管理时间:2016 年 12 月 31 日至今)、招商优质成长混合型证券投资基金(LOF)基金经理(管理时间:2017 年 6 月 29 日至今)、招商研究优选股票型证券投资基金基金经理(管理时间:2020 年 4 月 21 日至今)、招商财经大数据策略股票型证券投资基金基金经理(管理时间:2020 年 8 月 1 日至今)、招商科技动力 3 个月滚动持有股票型证券投资基金基金经理(管理时间:2020 年 9 月 14 日至今)。",
-        "work_year": "12",
+        "work_year": "13",
         "achievement_list": [
+          {
+            "fund_code": "010342",
+            "fundsname": "招商产业精选股票C",
+            "post_date": "2020-12-16",
+            "cp_rate": 3.34
+          },
+          {
+            "fund_code": "010341",
+            "fundsname": "招商产业精选股票A",
+            "post_date": "2020-12-16",
+            "cp_rate": 3.37
+          },
           {
             "fund_code": "009602",
             "fundsname": "招商科技动力3个月滚动持有股票C",
             "post_date": "2020-09-14",
-            "cp_rate": -0.27
+            "cp_rate": 6.38
           },
           {
             "fund_code": "009601",
             "fundsname": "招商科技动力3个月滚动持有股票A",
             "post_date": "2020-09-14",
-            "cp_rate": -0.09
-          },
-          {
-            "fund_code": "003416",
-            "fundsname": "招商财经大数据股票A",
-            "post_date": "2020-08-01",
-            "cp_rate": 5.9248
+            "cp_rate": 6.64
           },
           {
             "fund_code": "007952",
             "fundsname": "招商财经大数据股票C",
             "post_date": "2020-08-01",
-            "cp_rate": 5.72
+            "cp_rate": 14.163
+          },
+          {
+            "fund_code": "003416",
+            "fundsname": "招商财经大数据股票A",
+            "post_date": "2020-08-01",
+            "cp_rate": 14.4422
           },
           {
             "fund_code": "008262",
             "fundsname": "招商研究优选股票C",
             "post_date": "2020-04-21",
-            "cp_rate": 34.69
+            "cp_rate": 41.82
           },
           {
             "fund_code": "008261",
             "fundsname": "招商研究优选股票A",
             "post_date": "2020-04-21",
-            "cp_rate": 35.36
+            "cp_rate": 42.61
           },
           {
             "fund_code": "217020",
@@ -244,13 +256,13 @@
             "fund_code": "161706",
             "fundsname": "招商优质成长混合(LOF)",
             "post_date": "2017-06-29",
-            "cp_rate": 153.6336
+            "cp_rate": 172.473
           },
           {
             "fund_code": "000746",
             "fundsname": "招商行业精选股票",
             "post_date": "2016-12-31",
-            "cp_rate": 213.4494
+            "cp_rate": 237.1835
           },
           {
             "fund_code": "217024",
@@ -288,18 +300,11 @@
             "cp_rate": 33.83
           },
           {
-            "fund_code": "150131",
-            "fundsname": "国泰医药B",
+            "fund_code": "020022",
+            "fundsname": "国泰保本混合",
             "post_date": "2014-06-24",
             "resi_date": "2015-04-07",
-            "cp_rate": 106.9229
-          },
-          {
-            "fund_code": "150130",
-            "fundsname": "国泰医药A",
-            "post_date": "2014-06-24",
-            "resi_date": "2015-04-07",
-            "cp_rate": 5.3855
+            "cp_rate": 19.1502
           },
           {
             "fund_code": "160219",
@@ -309,11 +314,18 @@
             "cp_rate": 54.5436
           },
           {
-            "fund_code": "020022",
-            "fundsname": "国泰保本混合",
+            "fund_code": "150130",
+            "fundsname": "国泰医药A",
             "post_date": "2014-06-24",
             "resi_date": "2015-04-07",
-            "cp_rate": 19.1502
+            "cp_rate": 5.3855
+          },
+          {
+            "fund_code": "150131",
+            "fundsname": "国泰医药B",
+            "post_date": "2014-06-24",
+            "resi_date": "2015-04-07",
+            "cp_rate": 106.9229
           },
           {
             "fund_code": "020005",

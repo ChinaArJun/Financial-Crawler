@@ -15,8 +15,8 @@
           "name": "万科A",
           "code": "000002",
           "percent": 4.7,
-          "current_price": 29.18,
-          "change_percentage": -0.78,
+          "current_price": 27.78,
+          "change_percentage": -3.21,
           "xq_symbol": "SZ000002",
           "xq_url": "https://xueqiu.com/S/SZ000002",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "富奥股份",
           "code": "000030",
           "percent": 4.05,
-          "current_price": 7.4,
-          "change_percentage": 0.95,
+          "current_price": 7.5,
+          "change_percentage": 2.18,
           "xq_symbol": "SZ000030",
           "xq_url": "https://xueqiu.com/S/SZ000030",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 3.77,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "保利地产",
           "code": "600048",
           "percent": 3.73,
-          "current_price": 16.46,
-          "change_percentage": -0.48,
+          "current_price": 15.29,
+          "change_percentage": -3.35,
           "xq_symbol": "SH600048",
           "xq_url": "https://xueqiu.com/S/SH600048",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "璞泰来",
           "code": "603659",
           "percent": 3.64,
-          "current_price": 111.38,
-          "change_percentage": 5.71,
+          "current_price": 123.63,
+          "change_percentage": 10,
           "xq_symbol": "SH603659",
           "xq_url": "https://xueqiu.com/S/SH603659",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 3.51,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "美的集团",
           "code": "000333",
           "percent": 3.29,
-          "current_price": 86.7,
-          "change_percentage": -1.54,
+          "current_price": 99.01,
+          "change_percentage": 0.58,
           "xq_symbol": "SZ000333",
           "xq_url": "https://xueqiu.com/S/SZ000333",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "通威股份",
           "code": "600438",
           "percent": 3.21,
-          "current_price": 29.2,
-          "change_percentage": -1.85,
+          "current_price": 41.65,
+          "change_percentage": 8.35,
           "xq_symbol": "SH600438",
           "xq_url": "https://xueqiu.com/S/SH600438",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "新泉股份",
           "code": "603179",
           "percent": 3.14,
-          "current_price": 29.58,
-          "change_percentage": -0.74,
+          "current_price": 37.29,
+          "change_percentage": 10,
           "xq_symbol": "SH603179",
           "xq_url": "https://xueqiu.com/S/SH603179",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "海大集团",
           "code": "002311",
           "percent": 2.78,
-          "current_price": 61,
-          "change_percentage": 0,
+          "current_price": 68.43,
+          "change_percentage": 4.47,
           "xq_symbol": "SZ002311",
           "xq_url": "https://xueqiu.com/S/SZ002311",
           "amarket": true
@@ -182,13 +182,13 @@
             "fund_code": "001577",
             "fundsname": "嘉实低价策略股票",
             "post_date": "2020-10-19",
-            "cp_rate": 10.3722
+            "cp_rate": 14.0943
           },
           {
             "fund_code": "070003",
             "fundsname": "嘉实稳健混合",
             "post_date": "2020-08-08",
-            "cp_rate": 9.738
+            "cp_rate": 13.2962
           }
         ]
       }

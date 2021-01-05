@@ -15,8 +15,8 @@
           "name": "振华科技",
           "code": "000733",
           "percent": 9.79,
-          "current_price": 44.79,
-          "change_percentage": -3.99,
+          "current_price": 62.37,
+          "change_percentage": 5.98,
           "xq_symbol": "SZ000733",
           "xq_url": "https://xueqiu.com/S/SZ000733",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "中孚信息",
           "code": "300659",
           "percent": 9.03,
-          "current_price": 48.81,
-          "change_percentage": 1.62,
+          "current_price": 52.83,
+          "change_percentage": 7.64,
           "xq_symbol": "SZ300659",
           "xq_url": "https://xueqiu.com/S/SZ300659",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "金山办公",
           "code": "688111",
           "percent": 8.74,
-          "current_price": 349.5,
-          "change_percentage": -2.75,
+          "current_price": 420,
+          "change_percentage": 2.19,
           "xq_symbol": "SH688111",
           "xq_url": "https://xueqiu.com/S/SH688111",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "东方通",
           "code": "300379",
           "percent": 7.57,
-          "current_price": 38.84,
-          "change_percentage": -0.56,
+          "current_price": 46.51,
+          "change_percentage": 1.77,
           "xq_symbol": "SZ300379",
           "xq_url": "https://xueqiu.com/S/SZ300379",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "诚迈科技",
           "code": "300598",
           "percent": 7.41,
-          "current_price": 121.22,
-          "change_percentage": 0.38,
+          "current_price": 123.17,
+          "change_percentage": 2.74,
           "xq_symbol": "SZ300598",
           "xq_url": "https://xueqiu.com/S/SZ300598",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "鸿远电子",
           "code": "603267",
           "percent": 7.32,
-          "current_price": 109.5,
-          "change_percentage": 1.01,
+          "current_price": 141.64,
+          "change_percentage": 10,
           "xq_symbol": "SH603267",
           "xq_url": "https://xueqiu.com/S/SH603267",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "西部超导",
           "code": "688122",
           "percent": 6.93,
-          "current_price": 63.09,
-          "change_percentage": 3.09,
+          "current_price": 84.24,
+          "change_percentage": 5.95,
           "xq_symbol": "SH688122",
           "xq_url": "https://xueqiu.com/S/SH688122",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "中科曙光",
           "code": "603019",
           "percent": 5.53,
-          "current_price": 34.44,
-          "change_percentage": -1.4,
+          "current_price": 34.75,
+          "change_percentage": 1.52,
           "xq_symbol": "SH603019",
           "xq_url": "https://xueqiu.com/S/SH603019",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "紫光国微",
           "code": "002049",
           "percent": 4.81,
-          "current_price": 111.3,
-          "change_percentage": 0.45,
+          "current_price": 141.85,
+          "change_percentage": 6.01,
           "xq_symbol": "SZ002049",
           "xq_url": "https://xueqiu.com/S/SZ002049",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "红相股份",
           "code": "300427",
           "percent": 3.86,
-          "current_price": 23.81,
-          "change_percentage": -0.17,
+          "current_price": 26,
+          "change_percentage": 6.6,
           "xq_symbol": "SZ300427",
           "xq_url": "https://xueqiu.com/S/SZ300427",
           "amarket": true
@@ -162,49 +162,49 @@
         "name": "吕越超",
         "resume": "    吕越超先生,泰达周期基金基金经理,金融学硕士。2010 年 7 月至 2010 年 12 月就职于长江证券, 担任机械行业分析师; 2010 年 12 月加盟泰达宏利基金管理有限公司, 担任研究员;2014 年 11 月 21 日起担任周期类行业混合型证券投资基金基金经理;5 年证券从业经验,2014年11月至2016年7月任泰达宏利周期混合基金经理,2015年6月至2016年7月兼任泰达宏利创益混合基金经理。2016年7月加入海富通基金管理有限公司,拟任基金经理。,具有基金从业资格。",
         "college": "上海财经大学",
-        "work_year": "10",
+        "work_year": "11",
         "achievement_list": [
           {
             "fund_code": "009652",
             "fundsname": "海富通成长甄选混合C",
             "post_date": "2020-09-27",
-            "cp_rate": 1.3501
+            "cp_rate": 12.7113
           },
           {
             "fund_code": "009651",
             "fundsname": "海富通成长甄选混合A",
             "post_date": "2020-09-27",
-            "cp_rate": 1.4301
+            "cp_rate": 12.8313
           },
           {
             "fund_code": "009024",
             "fundsname": "海富通科技创新混合C",
             "post_date": "2020-03-10",
-            "cp_rate": 3.55
+            "cp_rate": 18.33
           },
           {
             "fund_code": "009025",
             "fundsname": "海富通科技创新混合A",
             "post_date": "2020-03-10",
-            "cp_rate": 4.16
+            "cp_rate": 19.1
           },
           {
             "fund_code": "008084",
             "fundsname": "海富通先进制造股票C",
             "post_date": "2019-12-17",
-            "cp_rate": 3.42
+            "cp_rate": 19.2
           },
           {
             "fund_code": "008085",
             "fundsname": "海富通先进制造股票A",
             "post_date": "2019-12-17",
-            "cp_rate": 3.82
+            "cp_rate": 19.69
           },
           {
             "fund_code": "519005",
             "fundsname": "海富通股票混合",
             "post_date": "2016-11-25",
-            "cp_rate": 70.0484
+            "cp_rate": 95.0874
           },
           {
             "fund_code": "002273",

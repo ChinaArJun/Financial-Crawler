@@ -15,8 +15,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 8.95,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "五粮液",
           "code": "000858",
           "percent": 8.72,
-          "current_price": 272,
-          "change_percentage": 0.65,
+          "current_price": 298.05,
+          "change_percentage": 2.12,
           "xq_symbol": "SZ000858",
           "xq_url": "https://xueqiu.com/S/SZ000858",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 7.05,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 6.8,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "欣旺达",
           "code": "300207",
           "percent": 6.59,
-          "current_price": 29.45,
-          "change_percentage": 7.05,
+          "current_price": 31.74,
+          "change_percentage": 3.35,
           "xq_symbol": "SZ300207",
           "xq_url": "https://xueqiu.com/S/SZ300207",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "太平鸟",
           "code": "603877",
           "percent": 5.87,
-          "current_price": 34,
-          "change_percentage": -3.74,
+          "current_price": 30.5,
+          "change_percentage": 1.67,
           "xq_symbol": "SH603877",
           "xq_url": "https://xueqiu.com/S/SH603877",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "泸州老窖",
           "code": "000568",
           "percent": 5.22,
-          "current_price": 191.85,
-          "change_percentage": 0.56,
+          "current_price": 240.85,
+          "change_percentage": 6.5,
           "xq_symbol": "SZ000568",
           "xq_url": "https://xueqiu.com/S/SZ000568",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 5.14,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "宝丰能源",
           "code": "600989",
           "percent": 4.49,
-          "current_price": 12.32,
-          "change_percentage": 0.08,
+          "current_price": 12.04,
+          "change_percentage": 2.91,
           "xq_symbol": "SH600989",
           "xq_url": "https://xueqiu.com/S/SH600989",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "歌尔股份",
           "code": "002241",
           "percent": 4.17,
-          "current_price": 37.16,
-          "change_percentage": -2.24,
+          "current_price": 36.74,
+          "change_percentage": -1.55,
           "xq_symbol": "SZ002241",
           "xq_url": "https://xueqiu.com/S/SZ002241",
           "amarket": true
@@ -182,13 +182,13 @@
             "fund_code": "000994",
             "fundsname": "建信睿盈灵活配置混合A",
             "post_date": "2020-07-17",
-            "cp_rate": 13.3232
+            "cp_rate": 22.0288
           },
           {
             "fund_code": "000995",
             "fundsname": "建信睿盈灵活配置混合C",
             "post_date": "2020-07-17",
-            "cp_rate": 12.9777
+            "cp_rate": 21.6561
           },
           {
             "fund_code": "004653",
@@ -208,7 +208,7 @@
             "fund_code": "001396",
             "fundsname": "建信互联网+产业升级股票",
             "post_date": "2015-06-23",
-            "cp_rate": 22.76
+            "cp_rate": 31.3079
           },
           {
             "fund_code": "001205",
@@ -226,8 +226,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

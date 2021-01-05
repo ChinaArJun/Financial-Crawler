@@ -16,8 +16,8 @@
           "name": "星宇股份",
           "code": "601799",
           "percent": 5.9,
-          "current_price": 186.12,
-          "change_percentage": -2.43,
+          "current_price": 198.32,
+          "change_percentage": -1.09,
           "xq_symbol": "SH601799",
           "xq_url": "https://xueqiu.com/S/SH601799",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "杭氧股份",
           "code": "002430",
           "percent": 4.79,
-          "current_price": 27.38,
-          "change_percentage": 1.71,
+          "current_price": 28.8,
+          "change_percentage": -1,
           "xq_symbol": "SZ002430",
           "xq_url": "https://xueqiu.com/S/SZ002430",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 4.08,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "绿盟科技",
           "code": "300369",
           "percent": 4.01,
-          "current_price": 16.66,
-          "change_percentage": -0.48,
+          "current_price": 15.37,
+          "change_percentage": 0.59,
           "xq_symbol": "SZ300369",
           "xq_url": "https://xueqiu.com/S/SZ300369",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "华测检测",
           "code": "300012",
           "percent": 3.99,
-          "current_price": 25.3,
-          "change_percentage": 1.61,
+          "current_price": 27.57,
+          "change_percentage": 0.73,
           "xq_symbol": "SZ300012",
           "xq_url": "https://xueqiu.com/S/SZ300012",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "晶丰明源",
           "code": "688368",
           "percent": 3.84,
-          "current_price": 196.46,
-          "change_percentage": -2.26,
+          "current_price": 173.29,
+          "change_percentage": 0.7,
           "xq_symbol": "SH688368",
           "xq_url": "https://xueqiu.com/S/SH688368",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "福耀玻璃",
           "code": "600660",
           "percent": 3.77,
-          "current_price": 38.74,
-          "change_percentage": 0,
+          "current_price": 50.95,
+          "change_percentage": 6.04,
           "xq_symbol": "SH600660",
           "xq_url": "https://xueqiu.com/S/SH600660",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "中科创达",
           "code": "300496",
           "percent": 3.54,
-          "current_price": 98.5,
-          "change_percentage": 0.92,
+          "current_price": 120.78,
+          "change_percentage": 3.23,
           "xq_symbol": "SZ300496",
           "xq_url": "https://xueqiu.com/S/SZ300496",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "新泉股份",
           "code": "603179",
           "percent": 3.42,
-          "current_price": 29.58,
-          "change_percentage": -0.74,
+          "current_price": 37.29,
+          "change_percentage": 10,
           "xq_symbol": "SH603179",
           "xq_url": "https://xueqiu.com/S/SH603179",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 3.35,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -195,13 +195,13 @@
       {
         "name": "张淼",
         "resume": "    张淼女士,硕士研究生,12年证券从业经历。曾就职于东方基金管理有限公司研究部。2007年9月加入嘉实基金管理有限公司,先后担任研究员、研究部副总监和基金经理助理职务,具有基金从业资格。2015年2月17日至今任嘉实稳健混合基金经理,2015年4月24日至今担任嘉实先进制造股票型证券投资基金基金经理。",
-        "work_year": "15",
+        "work_year": "16",
         "achievement_list": [
           {
             "fund_code": "001039",
             "fundsname": "嘉实先进制造股票",
             "post_date": "2015-04-24",
-            "cp_rate": 72.1
+            "cp_rate": 86.1
           },
           {
             "fund_code": "070003",

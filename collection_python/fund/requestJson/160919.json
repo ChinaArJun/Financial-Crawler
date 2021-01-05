@@ -15,8 +15,8 @@
           "name": "圣农发展",
           "code": "002299",
           "percent": 6.27,
-          "current_price": 28.45,
-          "change_percentage": 2.37,
+          "current_price": 28.17,
+          "change_percentage": 6.14,
           "xq_symbol": "SZ002299",
           "xq_url": "https://xueqiu.com/S/SZ002299",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "光威复材",
           "code": "300699",
           "percent": 5.25,
-          "current_price": 79.25,
-          "change_percentage": -1.02,
+          "current_price": 94.9,
+          "change_percentage": 6.57,
           "xq_symbol": "SZ300699",
           "xq_url": "https://xueqiu.com/S/SZ300699",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "长城汽车",
           "code": "601633",
           "percent": 5.16,
-          "current_price": 25.89,
-          "change_percentage": 3.39,
+          "current_price": 38.11,
+          "change_percentage": 0.79,
           "xq_symbol": "SH601633",
           "xq_url": "https://xueqiu.com/S/SH601633",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "高德红外",
           "code": "002414",
           "percent": 5.1,
-          "current_price": 38.54,
-          "change_percentage": 2.64,
+          "current_price": 44,
+          "change_percentage": 5.39,
           "xq_symbol": "SZ002414",
           "xq_url": "https://xueqiu.com/S/SZ002414",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "蓝晓科技",
           "code": "300487",
           "percent": 4.86,
-          "current_price": 48,
-          "change_percentage": 4.01,
+          "current_price": 45.49,
+          "change_percentage": 2.22,
           "xq_symbol": "SZ300487",
           "xq_url": "https://xueqiu.com/S/SZ300487",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "西部超导",
           "code": "688122",
           "percent": 4.74,
-          "current_price": 63.09,
-          "change_percentage": 3.09,
+          "current_price": 84.24,
+          "change_percentage": 5.95,
           "xq_symbol": "SH688122",
           "xq_url": "https://xueqiu.com/S/SH688122",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "海尔生物",
           "code": "688139",
           "percent": 4.67,
-          "current_price": 71.34,
-          "change_percentage": -2.9,
+          "current_price": 65.41,
+          "change_percentage": 0.18,
           "xq_symbol": "SH688139",
           "xq_url": "https://xueqiu.com/S/SH688139",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "应流股份",
           "code": "603308",
           "percent": 4.61,
-          "current_price": 25.07,
-          "change_percentage": -1.42,
+          "current_price": 31.48,
+          "change_percentage": 5.99,
           "xq_symbol": "SH603308",
           "xq_url": "https://xueqiu.com/S/SH603308",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "火炬电子",
           "code": "603678",
           "percent": 4.24,
-          "current_price": 55.23,
-          "change_percentage": -0.22,
+          "current_price": 79.1,
+          "change_percentage": 9.41,
           "xq_symbol": "SH603678",
           "xq_url": "https://xueqiu.com/S/SH603678",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "先导智能",
           "code": "300450",
           "percent": 4.08,
-          "current_price": 67.6,
-          "change_percentage": 0.6,
+          "current_price": 87.5,
+          "change_percentage": 4.18,
           "xq_symbol": "SZ300450",
           "xq_url": "https://xueqiu.com/S/SZ300450",
           "amarket": true
@@ -181,25 +181,25 @@
       {
         "name": "李林益",
         "resume": "    工学硕士。证券从业年限9年。2011年6月加入大成基金管理有限公司,曾担任研究部研究员、基金经理助理。2015年7月7日起任大成产业升级股票型证券投资基金(LOF)基金经理。2017年9月12日起任大成价值增长证券投资基金基金经理。2020年10月15日起任大成国家安全主题灵活配置混合型证券投资基金基金经理。具有基金从业资格。",
-        "work_year": "9",
+        "work_year": "10",
         "achievement_list": [
           {
             "fund_code": "002567",
             "fundsname": "大成国家安全主题灵活配置混合",
             "post_date": "2020-10-15",
-            "cp_rate": 1.0818
+            "cp_rate": 8.384
           },
           {
             "fund_code": "090001",
             "fundsname": "大成价值增长混合",
             "post_date": "2017-09-12",
-            "cp_rate": 39.2084
+            "cp_rate": 53.5234
           },
           {
             "fund_code": "160919",
             "fundsname": "大成产业升级股票(LOF)",
             "post_date": "2015-07-07",
-            "cp_rate": 83.727
+            "cp_rate": 95.4806
           }
         ]
       }

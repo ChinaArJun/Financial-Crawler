@@ -15,8 +15,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 8.99,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 8.5,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "通威股份",
           "code": "600438",
           "percent": 7.09,
-          "current_price": 29.2,
-          "change_percentage": -1.85,
+          "current_price": 41.65,
+          "change_percentage": 8.35,
           "xq_symbol": "SH600438",
           "xq_url": "https://xueqiu.com/S/SH600438",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "璞泰来",
           "code": "603659",
           "percent": 4.8,
-          "current_price": 111.38,
-          "change_percentage": 5.71,
+          "current_price": 123.63,
+          "change_percentage": 10,
           "xq_symbol": "SH603659",
           "xq_url": "https://xueqiu.com/S/SH603659",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "福斯特",
           "code": "603806",
           "percent": 4.49,
-          "current_price": 73.08,
-          "change_percentage": 2.21,
+          "current_price": 90.74,
+          "change_percentage": 6.25,
           "xq_symbol": "SH603806",
           "xq_url": "https://xueqiu.com/S/SH603806",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "迈为股份",
           "code": "300751",
           "percent": 4.33,
-          "current_price": 529,
-          "change_percentage": 0.03,
+          "current_price": 667.89,
+          "change_percentage": -1.35,
           "xq_symbol": "SZ300751",
           "xq_url": "https://xueqiu.com/S/SZ300751",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "福莱特",
           "code": "601865",
           "percent": 4.31,
-          "current_price": 32.18,
-          "change_percentage": 2.13,
+          "current_price": 43.89,
+          "change_percentage": 10,
           "xq_symbol": "SH601865",
           "xq_url": "https://xueqiu.com/S/SH601865",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "比亚迪",
           "code": "002594",
           "percent": 4.25,
-          "current_price": 177.97,
-          "change_percentage": 1.53,
+          "current_price": 206.76,
+          "change_percentage": 6.41,
           "xq_symbol": "SZ002594",
           "xq_url": "https://xueqiu.com/S/SZ002594",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "恩捷股份",
           "code": "002812",
           "percent": 3.88,
-          "current_price": 108,
-          "change_percentage": 0.88,
+          "current_price": 155,
+          "change_percentage": 9.32,
           "xq_symbol": "SZ002812",
           "xq_url": "https://xueqiu.com/S/SZ002812",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "长城汽车",
           "code": "601633",
           "percent": 3.7,
-          "current_price": 25.89,
-          "change_percentage": 3.39,
+          "current_price": 38.11,
+          "change_percentage": 0.79,
           "xq_symbol": "SH601633",
           "xq_url": "https://xueqiu.com/S/SH601633",
           "amarket": true
@@ -174,19 +174,19 @@
         "name": "卢纯青",
         "resume": "    卢纯青女士,中欧基金管理有限公司分管投资副总经理, 兼任中欧基金管理有限公司研究总监、事业部负责人,中国籍。加拿大圣玛丽大学金融学硕士,11年以上基金从业经验。历任北京毕马威华振会计师事务所审计,中信基金管理有限责任公司研究员,银华基金管理有限公司研究员、行业主管、研究总监助理、研究副总监。",
         "college": "加拿大圣玛丽大学",
-        "work_year": "15",
+        "work_year": "16",
         "achievement_list": [
           {
             "fund_code": "004812",
             "fundsname": "中欧先进制造股票A",
             "post_date": "2020-06-24",
-            "cp_rate": 47.2101
+            "cp_rate": 78.8999
           },
           {
             "fund_code": "004813",
             "fundsname": "中欧先进制造股票C",
             "post_date": "2020-06-24",
-            "cp_rate": 46.6843
+            "cp_rate": 78.18
           }
         ]
       }

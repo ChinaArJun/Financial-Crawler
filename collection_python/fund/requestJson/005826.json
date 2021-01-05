@@ -15,8 +15,8 @@
           "name": "五粮液",
           "code": "000858",
           "percent": 7.76,
-          "current_price": 272,
-          "change_percentage": 0.65,
+          "current_price": 298.05,
+          "change_percentage": 2.12,
           "xq_symbol": "SZ000858",
           "xq_url": "https://xueqiu.com/S/SZ000858",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 6.03,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "东方雨虹",
           "code": "002271",
           "percent": 5.83,
-          "current_price": 35.92,
-          "change_percentage": 0.25,
+          "current_price": 39.48,
+          "change_percentage": 1.75,
           "xq_symbol": "SZ002271",
           "xq_url": "https://xueqiu.com/S/SZ002271",
           "amarket": true
@@ -53,8 +53,8 @@
           "name": "三一重工",
           "code": "600031",
           "percent": 5.09,
-          "current_price": 31.48,
-          "change_percentage": -1.41,
+          "current_price": 34.8,
+          "change_percentage": -0.51,
           "xq_symbol": "SH600031",
           "xq_url": "https://xueqiu.com/S/SH600031",
           "amarket": true
@@ -63,8 +63,8 @@
           "name": "福耀玻璃",
           "code": "600660",
           "percent": 4.71,
-          "current_price": 38.74,
-          "change_percentage": 0,
+          "current_price": 50.95,
+          "change_percentage": 6.04,
           "xq_symbol": "SH600660",
           "xq_url": "https://xueqiu.com/S/SH600660",
           "amarket": true
@@ -73,8 +73,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 4.06,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -83,8 +83,8 @@
           "name": "中国中免",
           "code": "601888",
           "percent": 3.67,
-          "current_price": 208.03,
-          "change_percentage": 0.13,
+          "current_price": 292.25,
+          "change_percentage": 3.47,
           "xq_symbol": "SH601888",
           "xq_url": "https://xueqiu.com/S/SH601888",
           "amarket": true
@@ -101,8 +101,8 @@
           "name": "通威股份",
           "code": "600438",
           "percent": 3.23,
-          "current_price": 29.2,
-          "change_percentage": -1.85,
+          "current_price": 41.65,
+          "change_percentage": 8.35,
           "xq_symbol": "SH600438",
           "xq_url": "https://xueqiu.com/S/SH600438",
           "amarket": true
@@ -174,13 +174,13 @@
             "fund_code": "008308",
             "fundsname": "华夏见龙精选混合",
             "post_date": "2020-05-15",
-            "cp_rate": 39.9
+            "cp_rate": 62.02
           },
           {
             "fund_code": "005826",
             "fundsname": "华夏潜龙精选股票",
             "post_date": "2018-09-27",
-            "cp_rate": 90.68
+            "cp_rate": 118.02
           }
         ]
       },
@@ -192,7 +192,7 @@
             "fund_code": "005826",
             "fundsname": "华夏潜龙精选股票",
             "post_date": "2019-08-15",
-            "cp_rate": 53.8362
+            "cp_rate": 75.8935
           }
         ]
       }
@@ -203,8 +203,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

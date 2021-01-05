@@ -15,8 +15,8 @@
           "name": "焦点科技",
           "code": "002315",
           "percent": 8.84,
-          "current_price": 18.15,
-          "change_percentage": -0.27,
+          "current_price": 16.46,
+          "change_percentage": -0.36,
           "xq_symbol": "SZ002315",
           "xq_url": "https://xueqiu.com/S/SZ002315",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "海尔智家",
           "code": "600690",
           "percent": 6.81,
-          "current_price": 26.97,
-          "change_percentage": -0.19,
+          "current_price": 30.01,
+          "change_percentage": 2.74,
           "xq_symbol": "SH600690",
           "xq_url": "https://xueqiu.com/S/SH600690",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "宝钢包装",
           "code": "601968",
           "percent": 6.5,
-          "current_price": 8.3,
-          "change_percentage": 0.73,
+          "current_price": 8.23,
+          "change_percentage": 1.6,
           "xq_symbol": "SH601968",
           "xq_url": "https://xueqiu.com/S/SH601968",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "电科院",
           "code": "300215",
           "percent": 6.27,
-          "current_price": 8.25,
-          "change_percentage": -1.55,
+          "current_price": 7.35,
+          "change_percentage": 2.37,
           "xq_symbol": "SZ300215",
           "xq_url": "https://xueqiu.com/S/SZ300215",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "惠发食品",
           "code": "603536",
           "percent": 5.75,
-          "current_price": 20.94,
-          "change_percentage": -1.51,
+          "current_price": 18.06,
+          "change_percentage": -0.39,
           "xq_symbol": "SH603536",
           "xq_url": "https://xueqiu.com/S/SH603536",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "汉王科技",
           "code": "002362",
           "percent": 5.27,
-          "current_price": 26.06,
-          "change_percentage": -1.06,
+          "current_price": 25.81,
+          "change_percentage": 5.61,
           "xq_symbol": "SZ002362",
           "xq_url": "https://xueqiu.com/S/SZ002362",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "中亚股份",
           "code": "300512",
           "percent": 4.64,
-          "current_price": 13.25,
-          "change_percentage": -1.05,
+          "current_price": 11.64,
+          "change_percentage": 1.84,
           "xq_symbol": "SZ300512",
           "xq_url": "https://xueqiu.com/S/SZ300512",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "一拖股份",
           "code": "601038",
           "percent": 3.95,
-          "current_price": 11.32,
-          "change_percentage": 0.09,
+          "current_price": 12.39,
+          "change_percentage": 1.81,
           "xq_symbol": "SH601038",
           "xq_url": "https://xueqiu.com/S/SH601038",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "紫光国微",
           "code": "002049",
           "percent": 3.14,
-          "current_price": 111.3,
-          "change_percentage": 0.45,
+          "current_price": 141.85,
+          "change_percentage": 6.01,
           "xq_symbol": "SZ002049",
           "xq_url": "https://xueqiu.com/S/SZ002049",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "贵州轮胎",
           "code": "000589",
           "percent": 2.93,
-          "current_price": 6.5,
-          "change_percentage": 0,
+          "current_price": 6.77,
+          "change_percentage": 2.89,
           "xq_symbol": "SZ000589",
           "xq_url": "https://xueqiu.com/S/SZ000589",
           "amarket": true
@@ -168,13 +168,14 @@
     "manager_list": [
       {
         "name": "杨金金",
-        "resume": "    历任长江证券研究部高级分析师,华泰柏瑞基金管理有限公司研究员。 2017年加入交银施罗德基金管理有限公司,担任行业分析师。",
+        "resume": "    杨金金先生:基金经理。复旦大学金融学硕士、华东理工大学材料工程学士,6年证券投资行业从业经验。2014年至2015年任长江证券研究部高级分析师,2015年至2017年华泰柏瑞基金管理有限公司研究员。2017年加入交银施罗德基金管理有限公司,曾任研究部行业分析师,现任权益部基金经理。现任交银施罗德趋势优先混合型证券投资基金(2020年05月06日至今)的基金经理。",
+        "college": "复旦大学",
         "achievement_list": [
           {
             "fund_code": "519702",
             "fundsname": "交银施罗德趋势优先混合",
             "post_date": "2020-05-06",
-            "cp_rate": 54.9594
+            "cp_rate": 52.5062
           }
         ]
       }
@@ -185,8 +186,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

@@ -16,8 +16,8 @@
           "name": "比亚迪",
           "code": "002594",
           "percent": 9.62,
-          "current_price": 177.97,
-          "change_percentage": 1.53,
+          "current_price": 206.76,
+          "change_percentage": 6.41,
           "xq_symbol": "SZ002594",
           "xq_url": "https://xueqiu.com/S/SZ002594",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "新泉股份",
           "code": "603179",
           "percent": 9.13,
-          "current_price": 29.58,
-          "change_percentage": -0.74,
+          "current_price": 37.29,
+          "change_percentage": 10,
           "xq_symbol": "SH603179",
           "xq_url": "https://xueqiu.com/S/SH603179",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "宏发股份",
           "code": "600885",
           "percent": 8.99,
-          "current_price": 50.51,
-          "change_percentage": 0.3,
+          "current_price": 58.27,
+          "change_percentage": 7.47,
           "xq_symbol": "SH600885",
           "xq_url": "https://xueqiu.com/S/SH600885",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 7.36,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "法拉电子",
           "code": "600563",
           "percent": 6.86,
-          "current_price": 93.6,
-          "change_percentage": 6.42,
+          "current_price": 113.99,
+          "change_percentage": 5.99,
           "xq_symbol": "SH600563",
           "xq_url": "https://xueqiu.com/S/SH600563",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "科博达",
           "code": "603786",
           "percent": 6.11,
-          "current_price": 78.4,
-          "change_percentage": 0.32,
+          "current_price": 66.39,
+          "change_percentage": -1.82,
           "xq_symbol": "SH603786",
           "xq_url": "https://xueqiu.com/S/SH603786",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "中科电气",
           "code": "300035",
           "percent": 5.71,
-          "current_price": 12.36,
-          "change_percentage": 2.49,
+          "current_price": 13.44,
+          "change_percentage": 9.71,
           "xq_symbol": "SZ300035",
           "xq_url": "https://xueqiu.com/S/SZ300035",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "新宙邦",
           "code": "300037",
           "percent": 5.42,
-          "current_price": 99.89,
-          "change_percentage": 12.22,
+          "current_price": 106.5,
+          "change_percentage": 5.03,
           "xq_symbol": "SZ300037",
           "xq_url": "https://xueqiu.com/S/SZ300037",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "赣锋锂业",
           "code": "002460",
           "percent": 5.39,
-          "current_price": 82.24,
-          "change_percentage": 3.06,
+          "current_price": 111.32,
+          "change_percentage": 10,
           "xq_symbol": "SZ002460",
           "xq_url": "https://xueqiu.com/S/SZ002460",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "三花智控",
           "code": "002050",
           "percent": 5.23,
-          "current_price": 24.3,
-          "change_percentage": 2.84,
+          "current_price": 27.12,
+          "change_percentage": 10.02,
           "xq_symbol": "SZ002050",
           "xq_url": "https://xueqiu.com/S/SZ002050",
           "amarket": true
@@ -204,19 +204,19 @@
             "fund_code": "001790",
             "fundsname": "国泰智能汽车股票",
             "post_date": "2019-08-15",
-            "cp_rate": 151.7903
+            "cp_rate": 193.8619
           },
           {
             "fund_code": "005726",
             "fundsname": "国泰价值精选灵活配置混合",
             "post_date": "2019-08-15",
-            "cp_rate": 98.2789
+            "cp_rate": 104.5428
           },
           {
             "fund_code": "001576",
             "fundsname": "国泰智能装备股票",
             "post_date": "2018-11-13",
-            "cp_rate": 147.6139
+            "cp_rate": 169.5228
           }
         ]
       }

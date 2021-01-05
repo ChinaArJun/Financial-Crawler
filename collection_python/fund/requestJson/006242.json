@@ -110,31 +110,43 @@
         "name": "杨献忠",
         "resume": "    杨献忠先生,中国人民大学经济学硕士。曾在中国工商银行总行金融市场部从事债券投资、研究及交易等工作。自2016年11月加入宝盈基金管理有限公司,曾任固定收益部研究员、基金经理助理,现任宝盈货币市场证券投资基金基金经理、宝盈聚享纯债定期开放债券型发起式证券投资基金、宝盈盈润纯债债券型证券投资基金基金经理。",
         "college": "中国人民大学",
-        "work_year": "7",
+        "work_year": "8",
         "achievement_list": [
+          {
+            "fund_code": "010139",
+            "fundsname": "宝盈盈沛纯债债券A",
+            "post_date": "2020-12-17",
+            "cp_rate": 0.03
+          },
+          {
+            "fund_code": "010140",
+            "fundsname": "宝盈盈沛纯债债券C",
+            "post_date": "2020-12-17",
+            "cp_rate": 2.48
+          },
           {
             "fund_code": "006242",
             "fundsname": "宝盈盈润纯债债券",
             "post_date": "2019-08-16",
-            "cp_rate": 5.45
+            "cp_rate": 5.85
           },
           {
             "fund_code": "006946",
             "fundsname": "宝盈聚享定期开放债券",
             "post_date": "2019-05-08",
-            "cp_rate": 4.43
+            "cp_rate": 5.06
           },
           {
             "fund_code": "213009",
             "fundsname": "宝盈货币A",
             "post_date": "2018-04-21",
-            "cp_rate": 6.5382
+            "cp_rate": 6.715
           },
           {
             "fund_code": "213909",
             "fundsname": "宝盈货币B",
             "post_date": "2018-04-21",
-            "cp_rate": 7.2127
+            "cp_rate": 7.4076
           }
         ]
       }

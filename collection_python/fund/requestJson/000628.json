@@ -15,8 +15,8 @@
           "name": "凌霄泵业",
           "code": "002884",
           "percent": 9.04,
-          "current_price": 25.73,
-          "change_percentage": 0,
+          "current_price": 23.33,
+          "change_percentage": -2.38,
           "xq_symbol": "SZ002884",
           "xq_url": "https://xueqiu.com/S/SZ002884",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "正泰电器",
           "code": "601877",
           "percent": 7.36,
-          "current_price": 32.64,
-          "change_percentage": -0.46,
+          "current_price": 40.45,
+          "change_percentage": 3.29,
           "xq_symbol": "SH601877",
           "xq_url": "https://xueqiu.com/S/SH601877",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "海尔智家",
           "code": "600690",
           "percent": 6.93,
-          "current_price": 26.97,
-          "change_percentage": -0.19,
+          "current_price": 30.01,
+          "change_percentage": 2.74,
           "xq_symbol": "SH600690",
           "xq_url": "https://xueqiu.com/S/SH600690",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 6.84,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "顺鑫农业",
           "code": "000860",
           "percent": 5.9,
-          "current_price": 64.72,
-          "change_percentage": 3.39,
+          "current_price": 74.88,
+          "change_percentage": 3.23,
           "xq_symbol": "SZ000860",
           "xq_url": "https://xueqiu.com/S/SZ000860",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "美的集团",
           "code": "000333",
           "percent": 5.21,
-          "current_price": 86.7,
-          "change_percentage": -1.54,
+          "current_price": 99.01,
+          "change_percentage": 0.58,
           "xq_symbol": "SZ000333",
           "xq_url": "https://xueqiu.com/S/SZ000333",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "陕西煤业",
           "code": "601225",
           "percent": 4.88,
-          "current_price": 9.91,
-          "change_percentage": 0,
+          "current_price": 9.59,
+          "change_percentage": 2.68,
           "xq_symbol": "SH601225",
           "xq_url": "https://xueqiu.com/S/SH601225",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "杰克股份",
           "code": "603337",
           "percent": 4.77,
-          "current_price": 29.48,
-          "change_percentage": -2.06,
+          "current_price": 28.85,
+          "change_percentage": -5.16,
           "xq_symbol": "SH603337",
           "xq_url": "https://xueqiu.com/S/SH603337",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "万科A",
           "code": "000002",
           "percent": 4.58,
-          "current_price": 29.18,
-          "change_percentage": -0.78,
+          "current_price": 27.78,
+          "change_percentage": -3.21,
           "xq_symbol": "SZ000002",
           "xq_url": "https://xueqiu.com/S/SZ000002",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "海容冷链",
           "code": "603187",
           "percent": 4.21,
-          "current_price": 55.51,
-          "change_percentage": -0.59,
+          "current_price": 60.49,
+          "change_percentage": 0.82,
           "xq_symbol": "SH603187",
           "xq_url": "https://xueqiu.com/S/SH603187",
           "amarket": true
@@ -181,55 +181,61 @@
       {
         "name": "刘旭",
         "resume": "    刘旭:管理学硕士。证券从业年限9年。2009年至2010年在毕马威华振会计师事务所任审计师。2011年2月至2013年5月任广发证券研究所研究员。2013年5月加入大成基金管理有限公司,曾担任研究部研究员、基金经理助理,现任股票投资部副总监。2015年7月29日起任大成高新技术产业股票型证券投资基金基金经理。2016年8月20日起任大成创新成长混合型证券投资基金(LOF)基金经理。2019年12月24日起任大成优势企业混合型证券投资基金基金经理。2020年6月5日起任大成睿裕六个月持有期股票型证券投资基金基金经理。具有基金从业资格。国籍:中国",
-        "work_year": "9",
+        "work_year": "10",
         "achievement_list": [
+          {
+            "fund_code": "011066",
+            "fundsname": "大成高新技术产业股票型C",
+            "post_date": "2020-12-25",
+            "cp_rate": 2.7553
+          },
           {
             "fund_code": "009069",
             "fundsname": "大成睿鑫股票A",
             "post_date": "2020-08-11",
-            "cp_rate": 5.37
+            "cp_rate": 7.96
           },
           {
             "fund_code": "009070",
             "fundsname": "大成睿鑫股票C",
             "post_date": "2020-08-11",
-            "cp_rate": 5.24
+            "cp_rate": 7.79
           },
           {
             "fund_code": "008871",
             "fundsname": "大成睿裕六个月持有期股票A",
             "post_date": "2020-06-05",
-            "cp_rate": 20.05
+            "cp_rate": 22.28
           },
           {
             "fund_code": "008872",
             "fundsname": "大成睿裕六个月持有期股票C",
             "post_date": "2020-06-05",
-            "cp_rate": 19.68
+            "cp_rate": 21.86
           },
           {
             "fund_code": "008271",
             "fundsname": "大成优势企业混合A",
             "post_date": "2019-12-24",
-            "cp_rate": 64.47
+            "cp_rate": 69.06
           },
           {
             "fund_code": "008272",
             "fundsname": "大成优势企业混合C",
             "post_date": "2019-12-24",
-            "cp_rate": 63.22
+            "cp_rate": 67.69
           },
           {
             "fund_code": "160910",
             "fundsname": "大成创新成长混合(LOF)",
             "post_date": "2016-08-20",
-            "cp_rate": 92.6621
+            "cp_rate": 95.9898
           },
           {
             "fund_code": "000628",
-            "fundsname": "大成高新技术产业股票型",
+            "fundsname": "大成高新技术产业股票型A",
             "post_date": "2015-07-29",
-            "cp_rate": 190.1701
+            "cp_rate": 199.6219
           }
         ]
       }
@@ -240,8 +246,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 2,
-      "all_buy_days": 2,
-      "all_sale_days": 3
+      "all_sale_days": 3,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

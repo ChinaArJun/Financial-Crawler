@@ -15,8 +15,8 @@
           "name": "安车检测",
           "code": "300572",
           "percent": 2.71,
-          "current_price": 44.07,
-          "change_percentage": 0.07,
+          "current_price": 40.41,
+          "change_percentage": -1.15,
           "xq_symbol": "SZ300572",
           "xq_url": "https://xueqiu.com/S/SZ300572",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "欣旺达",
           "code": "300207",
           "percent": 2.59,
-          "current_price": 29.45,
-          "change_percentage": 7.05,
+          "current_price": 31.74,
+          "change_percentage": 3.35,
           "xq_symbol": "SZ300207",
           "xq_url": "https://xueqiu.com/S/SZ300207",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "中国巨石",
           "code": "600176",
           "percent": 2.55,
-          "current_price": 16.68,
-          "change_percentage": 0,
+          "current_price": 20.39,
+          "change_percentage": 2.15,
           "xq_symbol": "SH600176",
           "xq_url": "https://xueqiu.com/S/SH600176",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "亿华通",
           "code": "688339",
           "percent": 2.35,
-          "current_price": 238,
-          "change_percentage": -0.62,
+          "current_price": 270.09,
+          "change_percentage": -0.82,
           "xq_symbol": "SH688339",
           "xq_url": "https://xueqiu.com/S/SH688339",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "博汇纸业",
           "code": "600966",
           "percent": 2.16,
-          "current_price": 13.91,
-          "change_percentage": 0.36,
+          "current_price": 14.93,
+          "change_percentage": -0.67,
           "xq_symbol": "SH600966",
           "xq_url": "https://xueqiu.com/S/SH600966",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "顾家家居",
           "code": "603816",
           "percent": 1.93,
-          "current_price": 75.45,
-          "change_percentage": -2.29,
+          "current_price": 70.74,
+          "change_percentage": 0.33,
           "xq_symbol": "SH603816",
           "xq_url": "https://xueqiu.com/S/SH603816",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "晨光文具",
           "code": "603899",
           "percent": 1.74,
-          "current_price": 79.4,
-          "change_percentage": -1.79,
+          "current_price": 91.5,
+          "change_percentage": 3.32,
           "xq_symbol": "SH603899",
           "xq_url": "https://xueqiu.com/S/SH603899",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "亿嘉和",
           "code": "603666",
           "percent": 1.71,
-          "current_price": 87,
-          "change_percentage": 0.18,
+          "current_price": 99.68,
+          "change_percentage": 3.95,
           "xq_symbol": "SH603666",
           "xq_url": "https://xueqiu.com/S/SH603666",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "京东方A",
           "code": "000725",
           "percent": 1.7,
-          "current_price": 5.25,
-          "change_percentage": -0.57,
+          "current_price": 5.92,
+          "change_percentage": -1.33,
           "xq_symbol": "SZ000725",
           "xq_url": "https://xueqiu.com/S/SZ000725",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "裕同科技",
           "code": "002831",
           "percent": 1.63,
-          "current_price": 28.05,
-          "change_percentage": -1.58,
+          "current_price": 30.48,
+          "change_percentage": -0.46,
           "xq_symbol": "SZ002831",
           "xq_url": "https://xueqiu.com/S/SZ002831",
           "amarket": true
@@ -176,20 +176,20 @@
     "manager_list": [
       {
         "name": "王创练",
-        "resume": "    王创练先生,博士。曾先后就职于特区证券研究所、南方证券研究所、长城基金管理有限公司。2008年3月加入诺安基金管理有限公司,历任诺安基金管理有限公司研究部副总监、研究部总监,首席策略师(总助级)。2017年3月至2018年6月任诺安平衡证券投资基金基金经理。2015年3月起任诺安研究精选股票型证券投资基金基金经理,2018年3月起任诺安安鑫灵活配置混合型证券投资基金基金经理,2018年6月起任诺安成长混合型证券投资基金基金经理,2019年1月起任诺安价值增长混合型证券投资基金基金经理。",
-        "work_year": "23",
+        "resume": "    王创练先生,博士,曾先后就职于特区证券研究所,南方证券研究所,长城基金管理有限公司。2008年3月加入诺安基金管理有限公司,历任研究部副总监。现任研究部总监、首席策略师(总助级),2017年3月至2018年6月任诺安平衡证券投资基金基金经理,2018年6月至2020年5月任诺安成长混合型证券投资基金基金经理。2015年3月起任诺安研究精选股票型证券投资基金基金经理,2018年3月起任诺安安鑫灵活配置混合型证券投资基金基金经理,2019年1月起任诺安价值增长混合型证券投资基金基金经理,2020年5月起任诺安研究优选混合型证券投资基金基金经理。",
+        "work_year": "24",
         "achievement_list": [
           {
             "fund_code": "008185",
             "fundsname": "诺安研究优选混合",
             "post_date": "2020-05-09",
-            "cp_rate": 17.4117
+            "cp_rate": 24.3224
           },
           {
             "fund_code": "320005",
             "fundsname": "诺安价值增长混合",
             "post_date": "2019-01-22",
-            "cp_rate": 81.4217
+            "cp_rate": 98.3146
           },
           {
             "fund_code": "320007",
@@ -202,7 +202,7 @@
             "fund_code": "002291",
             "fundsname": "诺安安鑫灵活配置混合",
             "post_date": "2018-03-13",
-            "cp_rate": 93.1487
+            "cp_rate": 116.2964
           },
           {
             "fund_code": "320001",
@@ -215,7 +215,7 @@
             "fund_code": "320022",
             "fundsname": "诺安研究精选股票",
             "post_date": "2015-03-30",
-            "cp_rate": 119
+            "cp_rate": 127.4
           }
         ]
       }

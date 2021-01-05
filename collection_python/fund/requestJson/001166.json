@@ -15,8 +15,8 @@
           "name": "通威股份",
           "code": "600438",
           "percent": 7.02,
-          "current_price": 29.2,
-          "change_percentage": -1.85,
+          "current_price": 41.65,
+          "change_percentage": 8.35,
           "xq_symbol": "SH600438",
           "xq_url": "https://xueqiu.com/S/SH600438",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "汇川技术",
           "code": "300124",
           "percent": 6.8,
-          "current_price": 85.58,
-          "change_percentage": 1.04,
+          "current_price": 95.59,
+          "change_percentage": 2.45,
           "xq_symbol": "SZ300124",
           "xq_url": "https://xueqiu.com/S/SZ300124",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "林洋能源",
           "code": "601222",
           "percent": 5.4,
-          "current_price": 7.26,
-          "change_percentage": -0.27,
+          "current_price": 8.71,
+          "change_percentage": 9.97,
           "xq_symbol": "SH601222",
           "xq_url": "https://xueqiu.com/S/SH601222",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 5.28,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "三花智控",
           "code": "002050",
           "percent": 5.08,
-          "current_price": 24.3,
-          "change_percentage": 2.84,
+          "current_price": 27.12,
+          "change_percentage": 10.02,
           "xq_symbol": "SZ002050",
           "xq_url": "https://xueqiu.com/S/SZ002050",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 4.91,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "国瓷材料",
           "code": "300285",
           "percent": 4.58,
-          "current_price": 41.47,
-          "change_percentage": 2.4,
+          "current_price": 47.79,
+          "change_percentage": 5.94,
           "xq_symbol": "SZ300285",
           "xq_url": "https://xueqiu.com/S/SZ300285",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "国电南瑞",
           "code": "600406",
           "percent": 4.05,
-          "current_price": 22.62,
-          "change_percentage": 0.53,
+          "current_price": 26.69,
+          "change_percentage": 0.45,
           "xq_symbol": "SH600406",
           "xq_url": "https://xueqiu.com/S/SH600406",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "瀚蓝环境",
           "code": "600323",
           "percent": 3.94,
-          "current_price": 24.04,
-          "change_percentage": -1.52,
+          "current_price": 24.73,
+          "change_percentage": -0.32,
           "xq_symbol": "SH600323",
           "xq_url": "https://xueqiu.com/S/SH600323",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "碧水源",
           "code": "300070",
           "percent": 3.83,
-          "current_price": 8.62,
-          "change_percentage": -0.23,
+          "current_price": 7.51,
+          "change_percentage": -1.83,
           "xq_symbol": "SZ300070",
           "xq_url": "https://xueqiu.com/S/SZ300070",
           "amarket": true
@@ -178,31 +178,31 @@
         "name": "姜锋",
         "resume": "    姜锋先生,硕士,权益投资部执行投资官。2007年7月加入建信基金管理有限责任公司,历任研究员、基金经理、资深基金经理、权益投资部执行投资官。2011年7月11日起任建信优势动力封闭基金的基金经理,该基金于2013年3月19日起转型为建信优势动力股票型证券投资基金(LOF),姜锋继续担任该基金的基金经理;2014年3月21日起任建信健康民生混合型证券投资基金基金经理;2015年4月22日起任建信环保产业股票型证券投资基金基金经理。",
         "college": "中国人民银行研究生部",
-        "work_year": "13",
+        "work_year": "14",
         "achievement_list": [
           {
             "fund_code": "501098",
             "fundsname": "建信科技创新3年封闭混合",
             "post_date": "2020-04-14",
-            "cp_rate": 18.7962
+            "cp_rate": 25.9048
           },
           {
             "fund_code": "001166",
             "fundsname": "建信环保产业股票",
             "post_date": "2015-04-22",
-            "cp_rate": 11.2
+            "cp_rate": 29.5
           },
           {
             "fund_code": "000547",
             "fundsname": "建信健康民生混合",
             "post_date": "2014-03-21",
-            "cp_rate": 351.1
+            "cp_rate": 386.3
           },
           {
             "fund_code": "165313",
             "fundsname": "建信优势动力混合(LOF)",
             "post_date": "2013-03-19",
-            "cp_rate": 186.0294
+            "cp_rate": 214.3908
           },
           {
             "fund_code": "150003",

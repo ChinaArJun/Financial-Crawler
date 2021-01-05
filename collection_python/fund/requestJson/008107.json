@@ -16,8 +16,8 @@
           "name": "沃森生物",
           "code": "300142",
           "percent": 7.78,
-          "current_price": 36.67,
-          "change_percentage": 0.38,
+          "current_price": 38.3,
+          "change_percentage": -0.67,
           "xq_symbol": "SZ300142",
           "xq_url": "https://xueqiu.com/S/SZ300142",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "恒瑞医药",
           "code": "600276",
           "percent": 6.11,
-          "current_price": 90.07,
-          "change_percentage": 0.21,
+          "current_price": 111.2,
+          "change_percentage": -0.23,
           "xq_symbol": "SH600276",
           "xq_url": "https://xueqiu.com/S/SH600276",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 5.92,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "智飞生物",
           "code": "300122",
           "percent": 4.74,
-          "current_price": 139.38,
-          "change_percentage": -0.39,
+          "current_price": 143.22,
+          "change_percentage": -3.17,
           "xq_symbol": "SZ300122",
           "xq_url": "https://xueqiu.com/S/SZ300122",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "泰格医药",
           "code": "300347",
           "percent": 4.55,
-          "current_price": 135.45,
-          "change_percentage": 1.84,
+          "current_price": 166.82,
+          "change_percentage": 3.22,
           "xq_symbol": "SZ300347",
           "xq_url": "https://xueqiu.com/S/SZ300347",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "华海药业",
           "code": "600521",
           "percent": 4.36,
-          "current_price": 35.36,
-          "change_percentage": 2.26,
+          "current_price": 31.41,
+          "change_percentage": -7.1,
           "xq_symbol": "SH600521",
           "xq_url": "https://xueqiu.com/S/SH600521",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "康泰生物",
           "code": "300601",
           "percent": 4.33,
-          "current_price": 158.41,
-          "change_percentage": -1.36,
+          "current_price": 165.98,
+          "change_percentage": -4.88,
           "xq_symbol": "SZ300601",
           "xq_url": "https://xueqiu.com/S/SZ300601",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "药明康德",
           "code": "603259",
           "percent": 4.17,
-          "current_price": 110.9,
-          "change_percentage": -0.12,
+          "current_price": 137.11,
+          "change_percentage": 1.77,
           "xq_symbol": "SH603259",
           "xq_url": "https://xueqiu.com/S/SH603259",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "华兰生物",
           "code": "002007",
           "percent": 3.88,
-          "current_price": 43.73,
-          "change_percentage": -3.19,
+          "current_price": 41.85,
+          "change_percentage": -0.92,
           "xq_symbol": "SZ002007",
           "xq_url": "https://xueqiu.com/S/SZ002007",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "海普瑞",
           "code": "002399",
           "percent": 3.86,
-          "current_price": 19.15,
-          "change_percentage": -0.67,
+          "current_price": 17.46,
+          "change_percentage": 1.39,
           "xq_symbol": "SZ002399",
           "xq_url": "https://xueqiu.com/S/SZ002399",
           "amarket": true
@@ -186,20 +186,20 @@
     "manager_list": [
       {
         "name": "陈恒",
-        "resume": "    陈恒,男,中国籍,工学、经济学双学士,具有基金从业资格。2005年7月至2006年9月,就职于汇源集团,任研发员;2008年7月至2010年4月,就职于天相投资顾问有限公司,任行业研究组组长;2010年4月至2014年5月,就职于东兴证券股份有限公司,任研究总监;2014年5月加入华商基金管理有限公司,曾任研究员;2016年10月20日至2017年7月25日担任华商价值精选混合型证券投资基金基金经理助理;2017年7月26日起至今担任华商价值精选混合型证券投资基金基金经理;2018年7月12日起至今担任华商新动力灵活配置混合型证券投资基金基金经理。",
-        "work_year": "12",
+        "resume": "    陈恒:男,中国籍,工学、经济学双学士,具有基金从业资格。2005年7月至2006年9月,就职于汇源集团,任研发员;2008年7月至2010年4月,就职于天相投资顾问有限公司,任行业研究组组长;2010年4月至2014年5月,就职于东兴证券股份有限公司,任研究总监;2014年5月加入华商基金管理有限公司,曾任研究员;2016年10月20日至2017年7月25日担任华商价值精选混合型证券投资基金基金经理助理;2017年7月26日至2020年1月8日担任华商价值精选混合型证券投资基金基金经理;2018年7月12日至2020年12月7日担任华商新动力灵活配置混合型证券投资基金基金经理;2019年12月27日起至今担任华商医药医疗行业股票型证券投资基金基金经理;2020年12月8日起至今担任华商新动力混合型证券投资基金基金经理。",
+        "work_year": "13",
         "achievement_list": [
           {
             "fund_code": "008107",
             "fundsname": "华商医药医疗行业股票",
             "post_date": "2019-12-27",
-            "cp_rate": 40.71
+            "cp_rate": 46.03
           },
           {
             "fund_code": "001723",
-            "fundsname": "华商新动力灵活配置混合",
+            "fundsname": "华商新动力混合",
             "post_date": "2018-07-12",
-            "cp_rate": 24.3464
+            "cp_rate": 35.768
           },
           {
             "fund_code": "630010",

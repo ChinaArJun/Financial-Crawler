@@ -16,8 +16,8 @@
           "name": "中国平安",
           "code": "601318",
           "percent": 4.27,
-          "current_price": 88.05,
-          "change_percentage": -2.58,
+          "current_price": 85.18,
+          "change_percentage": -2.07,
           "xq_symbol": "SH601318",
           "xq_url": "https://xueqiu.com/S/SH601318",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 3.88,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "招商银行",
           "code": "600036",
           "percent": 3.76,
-          "current_price": 44.26,
-          "change_percentage": -0.36,
+          "current_price": 43.17,
+          "change_percentage": -1.77,
           "xq_symbol": "SH600036",
           "xq_url": "https://xueqiu.com/S/SH600036",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 3.04,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "中信证券",
           "code": "600030",
           "percent": 3.02,
-          "current_price": 30.01,
-          "change_percentage": 0,
+          "current_price": 29.18,
+          "change_percentage": -0.75,
           "xq_symbol": "SH600030",
           "xq_url": "https://xueqiu.com/S/SH600030",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "中国中免",
           "code": "601888",
           "percent": 2.87,
-          "current_price": 208.03,
-          "change_percentage": 0.13,
+          "current_price": 292.25,
+          "change_percentage": 3.47,
           "xq_symbol": "SH601888",
           "xq_url": "https://xueqiu.com/S/SH601888",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "伊利股份",
           "code": "600887",
           "percent": 2.41,
-          "current_price": 40.68,
-          "change_percentage": 1.24,
+          "current_price": 47.36,
+          "change_percentage": 6.74,
           "xq_symbol": "SH600887",
           "xq_url": "https://xueqiu.com/S/SH600887",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "三一重工",
           "code": "600031",
           "percent": 2.36,
-          "current_price": 31.48,
-          "change_percentage": -1.41,
+          "current_price": 34.8,
+          "change_percentage": -0.51,
           "xq_symbol": "SH600031",
           "xq_url": "https://xueqiu.com/S/SH600031",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "东方财富",
           "code": "300059",
           "percent": 2.33,
-          "current_price": 28.05,
-          "change_percentage": 1.08,
+          "current_price": 32.2,
+          "change_percentage": 3.87,
           "xq_symbol": "SZ300059",
           "xq_url": "https://xueqiu.com/S/SZ300059",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "海天味业",
           "code": "603288",
           "percent": 2.26,
-          "current_price": 183.5,
-          "change_percentage": 0.84,
+          "current_price": 200.52,
+          "change_percentage": -0.01,
           "xq_symbol": "SH603288",
           "xq_url": "https://xueqiu.com/S/SH603288",
           "amarket": true
@@ -192,13 +192,13 @@
         "name": "左金保",
         "resume": "    左金保 量化投资部兼量化研究部总监、基金经理 自2018年3月7日起至今 经济学硕士,武汉大学金融工程专业研究生毕业。2010年7月加入长信基金管理有限责任公司,从事量化投资研究和风险绩效分析工作。历任公司数量分析研究员和风险与绩效评估研究员、长信中证中央企业100指数证券投资基金(LOF)、长信量化多策略股票型证券投资基金、长信中证一带一路主题指数分级证券投资基金、长信中证上海改革发展主题指数型证券投资基金(LOF)、长信量化优选混合型证券投资基金(LOF)、长信利泰灵活配置混合型证券投资基金、长信国防军工量化灵活配置混合型证券投资基金、长信利发债券型证券投资基金、长信先锐债券型证券投资基金、长信量化价值精选混合型证券投资基金、长信先机两年定期开放灵活配置混合型证券投资基金、长信先利半年定期开放混合型证券投资基金和长信沪深300指数增强型证券投资基金的基金经理。现任量化投资部兼量化研究部总监和投资决策委员会执行委员、长信医疗保健行业灵活配置混合型证券投资基金(LOF)、长信量化先锋混合型证券投资基金、长信量化中小盘股票型证券投资基金、长信电子信息行业量化灵活配置混合型证券投资基金、长信低碳环保行业量化股票型证券投资基金、长信消费精选行业量化股票型证券投资基金、长信量化价值驱动混合型证券投资基金和长信量化多策略股票型证券投资基金的基金经理。",
         "college": "武汉大学",
-        "work_year": "10",
+        "work_year": "11",
         "achievement_list": [
           {
             "fund_code": "009669",
             "fundsname": "长信量化价值驱动混合C",
             "post_date": "2020-06-09",
-            "cp_rate": 30.6041
+            "cp_rate": 41.044
           },
           {
             "fund_code": "007448",
@@ -218,19 +218,19 @@
             "fund_code": "519965",
             "fundsname": "长信量化多策略股票A",
             "post_date": "2018-08-30",
-            "cp_rate": 69.1205
+            "cp_rate": 82.218
           },
           {
             "fund_code": "004858",
             "fundsname": "长信量化多策略股票C",
             "post_date": "2018-08-30",
-            "cp_rate": 65.8631
+            "cp_rate": 78.6885
           },
           {
             "fund_code": "005399",
             "fundsname": "长信量化价值驱动混合A",
             "post_date": "2018-08-09",
-            "cp_rate": 68.72
+            "cp_rate": 82.25
           },
           {
             "fund_code": "005137",
@@ -243,7 +243,7 @@
             "fund_code": "004805",
             "fundsname": "长信消费精选行业量化股票",
             "post_date": "2018-03-07",
-            "cp_rate": 92.21
+            "cp_rate": 114.81
           },
           {
             "fund_code": "004806",
@@ -256,7 +256,7 @@
             "fund_code": "004925",
             "fundsname": "长信低碳环保行业量化股票",
             "post_date": "2017-11-09",
-            "cp_rate": 57.18
+            "cp_rate": 87.8
           },
           {
             "fund_code": "501003",
@@ -276,7 +276,7 @@
             "fund_code": "004221",
             "fundsname": "长信量化先锋混合C",
             "post_date": "2017-01-09",
-            "cp_rate": 3.3815
+            "cp_rate": 4.6733
           },
           {
             "fund_code": "002983",
@@ -296,7 +296,7 @@
             "fund_code": "519929",
             "fundsname": "长信电子信息行业量化混合",
             "post_date": "2016-07-27",
-            "cp_rate": 37.6
+            "cp_rate": 40.5
           },
           {
             "fund_code": "519933",
@@ -344,19 +344,19 @@
             "fund_code": "163001",
             "fundsname": "长信医疗保健混合(LOF)",
             "post_date": "2015-07-20",
-            "cp_rate": 77.9371
+            "cp_rate": 94.0675
           },
           {
             "fund_code": "519975",
             "fundsname": "长信量化中小盘股票",
             "post_date": "2015-03-13",
-            "cp_rate": 69.3288
+            "cp_rate": 66.9261
           },
           {
             "fund_code": "519983",
             "fundsname": "长信量化先锋混合A",
             "post_date": "2015-03-13",
-            "cp_rate": 105.8414
+            "cp_rate": 108.5931
           },
           {
             "fund_code": "163001",
@@ -374,8 +374,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

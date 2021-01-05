@@ -16,8 +16,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 3.74,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 3.01,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "东方财富",
           "code": "300059",
           "percent": 2.47,
-          "current_price": 28.05,
-          "change_percentage": 1.08,
+          "current_price": 32.2,
+          "change_percentage": 3.87,
           "xq_symbol": "SZ300059",
           "xq_url": "https://xueqiu.com/S/SZ300059",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "爱尔眼科",
           "code": "300015",
           "percent": 2.43,
-          "current_price": 66.63,
-          "change_percentage": -0.25,
+          "current_price": 68.22,
+          "change_percentage": -8.91,
           "xq_symbol": "SZ300015",
           "xq_url": "https://xueqiu.com/S/SZ300015",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "蓝思科技",
           "code": "300433",
           "percent": 2.03,
-          "current_price": 33.15,
-          "change_percentage": -0.93,
+          "current_price": 30.9,
+          "change_percentage": 0.95,
           "xq_symbol": "SZ300433",
           "xq_url": "https://xueqiu.com/S/SZ300433",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "汇川技术",
           "code": "300124",
           "percent": 1.47,
-          "current_price": 85.58,
-          "change_percentage": 1.04,
+          "current_price": 95.59,
+          "change_percentage": 2.45,
           "xq_symbol": "SZ300124",
           "xq_url": "https://xueqiu.com/S/SZ300124",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "智飞生物",
           "code": "300122",
           "percent": 1.44,
-          "current_price": 139.38,
-          "change_percentage": -0.39,
+          "current_price": 143.22,
+          "change_percentage": -3.17,
           "xq_symbol": "SZ300122",
           "xq_url": "https://xueqiu.com/S/SZ300122",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "沃森生物",
           "code": "300142",
           "percent": 1.09,
-          "current_price": 36.67,
-          "change_percentage": 0.38,
+          "current_price": 38.3,
+          "change_percentage": -0.67,
           "xq_symbol": "SZ300142",
           "xq_url": "https://xueqiu.com/S/SZ300142",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "信维通信",
           "code": "300136",
           "percent": 1.08,
-          "current_price": 44.67,
-          "change_percentage": -1.33,
+          "current_price": 36.17,
+          "change_percentage": 0.81,
           "xq_symbol": "SZ300136",
           "xq_url": "https://xueqiu.com/S/SZ300136",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "温氏股份",
           "code": "300498",
           "percent": 1.07,
-          "current_price": 19.84,
-          "change_percentage": -0.75,
+          "current_price": 19.4,
+          "change_percentage": 6.42,
           "xq_symbol": "SZ300498",
           "xq_url": "https://xueqiu.com/S/SZ300498",
           "amarket": true
@@ -193,25 +193,25 @@
             "fund_code": "009514",
             "fundsname": "创金合信同顺创业板精选股票C",
             "post_date": "2020-08-26",
-            "cp_rate": -1.5984
+            "cp_rate": 3.5873
           },
           {
             "fund_code": "009513",
             "fundsname": "创金合信同顺创业板精选股票A",
             "post_date": "2020-08-26",
-            "cp_rate": -1.461
+            "cp_rate": 3.7659
           },
           {
             "fund_code": "008769",
             "fundsname": "创金合信上证超大盘量化C",
             "post_date": "2019-12-27",
-            "cp_rate": 16.12
+            "cp_rate": 20.46
           },
           {
             "fund_code": "008768",
             "fundsname": "创金合信上证超大盘量化A",
             "post_date": "2019-12-27",
-            "cp_rate": 16.67
+            "cp_rate": 21.07
           },
           {
             "fund_code": "002463",
@@ -231,61 +231,61 @@
             "fund_code": "003647",
             "fundsname": "创金合信中证1000指数增强C",
             "post_date": "2019-07-05",
-            "cp_rate": 45.3228
+            "cp_rate": 46.5512
           },
           {
             "fund_code": "003646",
             "fundsname": "创金合信中证1000指数增强A",
             "post_date": "2019-07-05",
-            "cp_rate": 45.8768
+            "cp_rate": 47.119
           },
           {
             "fund_code": "004360",
             "fundsname": "创金合信量化核心混合C",
             "post_date": "2019-07-05",
-            "cp_rate": 52.3814
+            "cp_rate": 58.7432
           },
           {
             "fund_code": "004359",
             "fundsname": "创金合信量化核心混合A",
             "post_date": "2019-07-05",
-            "cp_rate": 54.1381
+            "cp_rate": 60.656
           },
           {
             "fund_code": "003865",
             "fundsname": "创金合信量化多因子股票C",
             "post_date": "2019-07-05",
-            "cp_rate": 46.9323
+            "cp_rate": 47.193
           },
           {
             "fund_code": "003242",
             "fundsname": "创金合信量化发现灵活配置混合C",
             "post_date": "2019-07-05",
-            "cp_rate": 55.4843
+            "cp_rate": 57.8941
           },
           {
             "fund_code": "003241",
             "fundsname": "创金合信量化发现灵活配置混合A",
             "post_date": "2019-07-05",
-            "cp_rate": 57.2804
+            "cp_rate": 59.8097
           },
           {
             "fund_code": "002210",
             "fundsname": "创金合信量化多因子股票A",
             "post_date": "2019-07-05",
-            "cp_rate": 48.4352
+            "cp_rate": 48.7738
           },
           {
             "fund_code": "002316",
             "fundsname": "创金合信中证500指数增强型C",
             "post_date": "2019-07-05",
-            "cp_rate": 44.012
+            "cp_rate": 45.9474
           },
           {
             "fund_code": "002311",
             "fundsname": "创金合信中证500指数增强型A",
             "post_date": "2019-07-05",
-            "cp_rate": 44.3133
+            "cp_rate": 46.2661
           },
           {
             "fund_code": "005799",
@@ -305,13 +305,13 @@
             "fund_code": "002315",
             "fundsname": "创金合信沪深300指数增强型C",
             "post_date": "2018-11-19",
-            "cp_rate": 77.2481
+            "cp_rate": 86.6647
           },
           {
             "fund_code": "002310",
             "fundsname": "创金合信沪深300指数增强型A",
             "post_date": "2018-11-19",
-            "cp_rate": 77.1681
+            "cp_rate": 86.5846
           },
           {
             "fund_code": "000313",
@@ -338,7 +338,7 @@
             "fund_code": "009972",
             "fundsname": "创金合信核心价值混合C",
             "post_date": "2020-09-24",
-            "cp_rate": 5.52
+            "cp_rate": 5.49
           },
           {
             "fund_code": "009971",
@@ -350,73 +350,73 @@
             "fund_code": "005568",
             "fundsname": "创金合信MSCI中国A股国际指数C",
             "post_date": "2020-07-07",
-            "cp_rate": 8.1571
+            "cp_rate": 12.8215
           },
           {
             "fund_code": "005567",
             "fundsname": "创金合信MSCI中国A股国际指数A",
             "post_date": "2020-07-07",
-            "cp_rate": 8.2406
+            "cp_rate": 12.9323
           },
           {
             "fund_code": "005562",
             "fundsname": "创金合信中证红利低波动指数C",
             "post_date": "2020-07-07",
-            "cp_rate": 8.9594
+            "cp_rate": 4.6737
           },
           {
             "fund_code": "005561",
             "fundsname": "创金合信中证红利低波动指数A",
             "post_date": "2020-07-07",
-            "cp_rate": 9.0454
+            "cp_rate": 4.7774
           },
           {
             "fund_code": "009514",
             "fundsname": "创金合信同顺创业板精选股票C",
             "post_date": "2020-06-29",
-            "cp_rate": 8.35
+            "cp_rate": 14.06
           },
           {
             "fund_code": "009513",
             "fundsname": "创金合信同顺创业板精选股票A",
             "post_date": "2020-06-29",
-            "cp_rate": 8.59
+            "cp_rate": 14.35
           },
           {
             "fund_code": "002102",
             "fundsname": "创金合信转债精选债券C",
             "post_date": "2020-04-09",
-            "cp_rate": 1.0268
+            "cp_rate": -0.0088
           },
           {
             "fund_code": "002101",
             "fundsname": "创金合信转债精选债券A",
             "post_date": "2020-04-09",
-            "cp_rate": 1.2308
+            "cp_rate": 0.2095
           },
           {
             "fund_code": "009006",
             "fundsname": "创金合信鑫祺混合C",
             "post_date": "2020-03-04",
-            "cp_rate": 17.14
+            "cp_rate": 17.45
           },
           {
             "fund_code": "009005",
             "fundsname": "创金合信鑫祺混合A",
             "post_date": "2020-03-04",
-            "cp_rate": 17.41
+            "cp_rate": 17.75
           },
           {
             "fund_code": "008894",
             "fundsname": "创金合信鑫利混合C",
             "post_date": "2020-01-17",
-            "cp_rate": 21
+            "cp_rate": 26.53
           },
           {
             "fund_code": "008893",
             "fundsname": "创金合信鑫利混合A",
             "post_date": "2020-01-17",
-            "cp_rate": 21.43
+            "cp_rate": 27.02
           },
           {
             "fund_code": "005404",
@@ -436,13 +436,13 @@
             "fund_code": "004360",
             "fundsname": "创金合信量化核心混合C",
             "post_date": "2019-08-20",
-            "cp_rate": 54.1266
+            "cp_rate": 60.5613
           },
           {
             "fund_code": "004359",
             "fundsname": "创金合信量化核心混合A",
             "post_date": "2019-08-20",
-            "cp_rate": 55.7444
+            "cp_rate": 62.3302
           }
         ]
       }

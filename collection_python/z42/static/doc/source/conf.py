@@ -226,7 +226,7 @@ latex_documents = [
 # -- Options for manual page output ---------------------------------------
 
 # One entry per manual page. List of tuples
-# (source start file, name, description, authors, manual section).
+# (source start file, name, description, authors, manual Process&Threading).
 man_pages = [
     ('index', '42web', u'42WEB Documentation',
      [u'ZUROC'], 1)

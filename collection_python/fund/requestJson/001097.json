@@ -15,8 +15,8 @@
           "name": "宝信软件",
           "code": "600845",
           "percent": 7.93,
-          "current_price": 64.06,
-          "change_percentage": 0.13,
+          "current_price": 69.8,
+          "change_percentage": 1.19,
           "xq_symbol": "SH600845",
           "xq_url": "https://xueqiu.com/S/SH600845",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "恒生电子",
           "code": "600570",
           "percent": 7.49,
-          "current_price": 98.15,
-          "change_percentage": 1.31,
+          "current_price": 106.17,
+          "change_percentage": 1.21,
           "xq_symbol": "SH600570",
           "xq_url": "https://xueqiu.com/S/SH600570",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 5.86,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "广联达",
           "code": "002410",
           "percent": 5.58,
-          "current_price": 70.77,
-          "change_percentage": 2.08,
+          "current_price": 80.53,
+          "change_percentage": 2.27,
           "xq_symbol": "SZ002410",
           "xq_url": "https://xueqiu.com/S/SZ002410",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "福斯特",
           "code": "603806",
           "percent": 5.31,
-          "current_price": 73.08,
-          "change_percentage": 2.21,
+          "current_price": 90.74,
+          "change_percentage": 6.25,
           "xq_symbol": "SH603806",
           "xq_url": "https://xueqiu.com/S/SH603806",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "移远通信",
           "code": "603236",
           "percent": 4.95,
-          "current_price": 187.11,
-          "change_percentage": -1.26,
+          "current_price": 191.5,
+          "change_percentage": 2.44,
           "xq_symbol": "SH603236",
           "xq_url": "https://xueqiu.com/S/SH603236",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "中科创达",
           "code": "300496",
           "percent": 4.75,
-          "current_price": 98.5,
-          "change_percentage": 0.92,
+          "current_price": 120.78,
+          "change_percentage": 3.23,
           "xq_symbol": "SZ300496",
           "xq_url": "https://xueqiu.com/S/SZ300496",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "用友网络",
           "code": "600588",
           "percent": 4.01,
-          "current_price": 46.29,
-          "change_percentage": 0.67,
+          "current_price": 45.71,
+          "change_percentage": 4.19,
           "xq_symbol": "SH600588",
           "xq_url": "https://xueqiu.com/S/SH600588",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "海康威视",
           "code": "002415",
           "percent": 3.95,
-          "current_price": 44.28,
-          "change_percentage": -1.16,
+          "current_price": 49.8,
+          "change_percentage": 2.66,
           "xq_symbol": "SZ002415",
           "xq_url": "https://xueqiu.com/S/SZ002415",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "深信服",
           "code": "300454",
           "percent": 3.93,
-          "current_price": 217.55,
-          "change_percentage": 3.2,
+          "current_price": 266,
+          "change_percentage": 7.25,
           "xq_symbol": "SZ300454",
           "xq_url": "https://xueqiu.com/S/SZ300454",
           "amarket": true
@@ -182,7 +182,7 @@
             "fund_code": "001097",
             "fundsname": "华泰柏瑞积极优选股票",
             "post_date": "2020-08-26",
-            "cp_rate": 0.8314
+            "cp_rate": 9.7387
           }
         ]
       }

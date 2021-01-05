@@ -45,55 +45,55 @@
         "name": "赖中立",
         "resume": "    赖中立先生,国籍:中国,1983年出生,北京大学中国经济研究中心金融学硕士,10年证券从业经验。曾任泰达宏利基金管理有限公司风险管理分析师。2010年8月加入汇添富基金管理股份有限公司,历任金融工程部分析师、基金经理助理。2012年11月1日至今任汇添富黄金及贵金属基金(LOF)的基金经理,2014年3月6日至今任汇添富恒生指数分级(QDII)基金的基金经理,2015年1月6日至今任汇添富深证300ETF基金、汇添富深证300ETF基金联接基金的基金经理,2015年5月26日至2016年7月13日任汇添富香港优势混合基金的基金经理,2016年12月29日至今任汇添富中证环境治理指数(LOF)基金的基金经理,2017年5月18日至今任汇添富优选回报混合基金的基金经理,2017年11月24日至今任汇添富中证港股通高股息投资指数(LOF)基金的基金经理。",
         "college": "北京大学",
-        "work_year": "13",
+        "work_year": "14",
         "achievement_list": [
           {
             "fund_code": "010789",
             "fundsname": "汇添富恒生指数(QDII-LOF)C",
             "post_date": "2020-12-01",
-            "cp_rate": -1.3713
+            "cp_rate": 0.593
           },
           {
             "fund_code": "164705",
             "fundsname": "汇添富恒生指数(QDII-LOF)A",
             "post_date": "2020-12-01",
-            "cp_rate": -1.0649
+            "cp_rate": 0.9104
           },
           {
             "fund_code": "501306",
             "fundsname": "汇添富中证港股通高股息投资指数(LOF)C",
             "post_date": "2017-11-24",
-            "cp_rate": -18.01
+            "cp_rate": -16.58
           },
           {
             "fund_code": "501305",
             "fundsname": "汇添富中证港股通高股息投资指数(LOF)A",
             "post_date": "2017-11-24",
-            "cp_rate": -17.05
+            "cp_rate": -15.59
           },
           {
             "fund_code": "002418",
             "fundsname": "汇添富优选回报灵活配置混合C",
             "post_date": "2017-05-18",
-            "cp_rate": 72.2
+            "cp_rate": 85.4
           },
           {
             "fund_code": "470021",
             "fundsname": "汇添富优选回报灵活配置混合A",
             "post_date": "2017-05-18",
-            "cp_rate": 73.8431
+            "cp_rate": 87.2233
           },
           {
             "fund_code": "501031",
             "fundsname": "汇添富中证环境治理指数(LOF)C",
             "post_date": "2016-12-29",
-            "cp_rate": -41.52
+            "cp_rate": -45.24
           },
           {
             "fund_code": "501030",
             "fundsname": "汇添富中证环境治理指数(LOF)A",
             "post_date": "2016-12-29",
-            "cp_rate": -41.25
+            "cp_rate": -44.98
           },
           {
             "fund_code": "470888",
@@ -106,13 +106,13 @@
             "fund_code": "470068",
             "fundsname": "汇添富深证300ETF联接",
             "post_date": "2015-01-06",
-            "cp_rate": 50.4088
+            "cp_rate": 56.7168
           },
           {
             "fund_code": "159912",
             "fundsname": "汇添富深证300ETF",
             "post_date": "2015-01-06",
-            "cp_rate": 55.7164
+            "cp_rate": 62.6104
           },
           {
             "fund_code": "150170",
@@ -139,7 +139,7 @@
             "fund_code": "164701",
             "fundsname": "汇添富黄金及贵金属(QDII-LOF-FOF)",
             "post_date": "2012-11-01",
-            "cp_rate": -13.9309
+            "cp_rate": -11.7711
           }
         ]
       }
@@ -150,8 +150,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

@@ -16,8 +16,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 9.22,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 6.78,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "通威股份",
           "code": "600438",
           "percent": 6.48,
-          "current_price": 29.2,
-          "change_percentage": -1.85,
+          "current_price": 41.65,
+          "change_percentage": 8.35,
           "xq_symbol": "SH600438",
           "xq_url": "https://xueqiu.com/S/SH600438",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "天赐材料",
           "code": "002709",
           "percent": 4.6,
-          "current_price": 84.25,
-          "change_percentage": 10,
+          "current_price": 114.03,
+          "change_percentage": 9.86,
           "xq_symbol": "SZ002709",
           "xq_url": "https://xueqiu.com/S/SZ002709",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "德赛电池",
           "code": "000049",
           "percent": 3.95,
-          "current_price": 52.69,
-          "change_percentage": 1.04,
+          "current_price": 71.49,
+          "change_percentage": 5.75,
           "xq_symbol": "SZ000049",
           "xq_url": "https://xueqiu.com/S/SZ000049",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "璞泰来",
           "code": "603659",
           "percent": 3.92,
-          "current_price": 111.38,
-          "change_percentage": 5.71,
+          "current_price": 123.63,
+          "change_percentage": 10,
           "xq_symbol": "SH603659",
           "xq_url": "https://xueqiu.com/S/SH603659",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "宇信科技",
           "code": "300674",
           "percent": 3.87,
-          "current_price": 37.57,
-          "change_percentage": -1.11,
+          "current_price": 33.69,
+          "change_percentage": -0.71,
           "xq_symbol": "SZ300674",
           "xq_url": "https://xueqiu.com/S/SZ300674",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "新宙邦",
           "code": "300037",
           "percent": 3.84,
-          "current_price": 99.89,
-          "change_percentage": 12.22,
+          "current_price": 106.5,
+          "change_percentage": 5.03,
           "xq_symbol": "SZ300037",
           "xq_url": "https://xueqiu.com/S/SZ300037",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "新泉股份",
           "code": "603179",
           "percent": 3.3,
-          "current_price": 29.58,
-          "change_percentage": -0.74,
+          "current_price": 37.29,
+          "change_percentage": 10,
           "xq_symbol": "SH603179",
           "xq_url": "https://xueqiu.com/S/SH603179",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "思创医惠",
           "code": "300078",
           "percent": 3.01,
-          "current_price": 9.83,
-          "change_percentage": -0.71,
+          "current_price": 9,
+          "change_percentage": -0.55,
           "xq_symbol": "SZ300078",
           "xq_url": "https://xueqiu.com/S/SZ300078",
           "amarket": true
@@ -219,49 +219,49 @@
       {
         "name": "姚志鹏",
         "resume": "    姚志鹏先生,硕士研究生,6年证券从业经历,具有基金从业资格。2011年加入嘉实基金管理有限公司,曾任股票研究部研究员一职。2016年12月28日至今任嘉实新收益混合基金经理。2017年3月16日至今任嘉实新能源新材料股票基金经理。2016年4月30日至今任嘉实智能汽车股票型证券投资基金基金经理。2016年12月28日至今任嘉实新收益灵活配置混合型证券投资基金基金经理、2017年3月16日至今任嘉实新能源新材料股票型证券投资基金基金经理、2018年3月21日至今任嘉实环保低碳股票型证券投资基金基金经理",
-        "work_year": "9",
+        "work_year": "10",
         "achievement_list": [
           {
             "fund_code": "009910",
             "fundsname": "嘉实动力先锋混合C",
             "post_date": "2020-11-23",
-            "cp_rate": -0.16
+            "cp_rate": 4.77
           },
           {
             "fund_code": "009909",
             "fundsname": "嘉实动力先锋混合A",
             "post_date": "2020-11-23",
-            "cp_rate": -0.13
+            "cp_rate": 4.86
           },
           {
             "fund_code": "009870",
             "fundsname": "嘉实产业先锋混合C",
             "post_date": "2020-07-21",
-            "cp_rate": 6.43
+            "cp_rate": 14.57
           },
           {
             "fund_code": "009869",
             "fundsname": "嘉实产业先锋混合A",
             "post_date": "2020-07-21",
-            "cp_rate": 6.75
+            "cp_rate": 14.98
           },
           {
             "fund_code": "001616",
             "fundsname": "嘉实环保低碳股票",
             "post_date": "2018-03-21",
-            "cp_rate": 95.9211
+            "cp_rate": 124.2105
           },
           {
             "fund_code": "003985",
             "fundsname": "嘉实新能源新材料股票C",
             "post_date": "2017-03-16",
-            "cp_rate": 140.72
+            "cp_rate": 178.51
           },
           {
             "fund_code": "003984",
             "fundsname": "嘉实新能源新材料股票A",
             "post_date": "2017-03-16",
-            "cp_rate": 143.66
+            "cp_rate": 181.99
           },
           {
             "fund_code": "000870",
@@ -281,7 +281,7 @@
             "fund_code": "002168",
             "fundsname": "嘉实智能汽车股票",
             "post_date": "2016-04-30",
-            "cp_rate": 171.875
+            "cp_rate": 221.1607
           }
         ]
       }
@@ -292,8 +292,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

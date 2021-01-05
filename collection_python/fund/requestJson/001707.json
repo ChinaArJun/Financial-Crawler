@@ -15,8 +15,8 @@
           "name": "中航重机",
           "code": "600765",
           "percent": 9.68,
-          "current_price": 19.51,
-          "change_percentage": 0.26,
+          "current_price": 25.5,
+          "change_percentage": 2,
           "xq_symbol": "SH600765",
           "xq_url": "https://xueqiu.com/S/SH600765",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "上汽集团",
           "code": "600104",
           "percent": 9.6,
-          "current_price": 24.36,
-          "change_percentage": 0.08,
+          "current_price": 23.55,
+          "change_percentage": -3.64,
           "xq_symbol": "SH600104",
           "xq_url": "https://xueqiu.com/S/SH600104",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "汉邦高科",
           "code": "300449",
           "percent": 9.36,
-          "current_price": 12.58,
-          "change_percentage": -3.75,
+          "current_price": 13.18,
+          "change_percentage": -0.53,
           "xq_symbol": "SZ300449",
           "xq_url": "https://xueqiu.com/S/SZ300449",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "金运激光",
           "code": "300220",
           "percent": 8.43,
-          "current_price": 28.22,
-          "change_percentage": 1.26,
+          "current_price": 18.5,
+          "change_percentage": -0.11,
           "xq_symbol": "SZ300220",
           "xq_url": "https://xueqiu.com/S/SZ300220",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "美好置业",
           "code": "000667",
           "percent": 8.43,
-          "current_price": 3.96,
-          "change_percentage": -1.74,
+          "current_price": 3.87,
+          "change_percentage": -0.26,
           "xq_symbol": "SZ000667",
           "xq_url": "https://xueqiu.com/S/SZ000667",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "华达科技",
           "code": "603358",
           "percent": 8.11,
-          "current_price": 18.57,
-          "change_percentage": 3.22,
+          "current_price": 19.05,
+          "change_percentage": 0.79,
           "xq_symbol": "SH603358",
           "xq_url": "https://xueqiu.com/S/SH603358",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "凌云股份",
           "code": "600480",
           "percent": 7.48,
-          "current_price": 8.9,
-          "change_percentage": 0.11,
+          "current_price": 9.55,
+          "change_percentage": 10.02,
           "xq_symbol": "SH600480",
           "xq_url": "https://xueqiu.com/S/SH600480",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "中国天楹",
           "code": "000035",
           "percent": 7.1,
-          "current_price": 4.51,
-          "change_percentage": -0.44,
+          "current_price": 4.1,
+          "change_percentage": -0.24,
           "xq_symbol": "SZ000035",
           "xq_url": "https://xueqiu.com/S/SZ000035",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "海螺水泥",
           "code": "600585",
           "percent": 5.96,
-          "current_price": 53.44,
-          "change_percentage": -1.46,
+          "current_price": 52.28,
+          "change_percentage": 1.28,
           "xq_symbol": "SH600585",
           "xq_url": "https://xueqiu.com/S/SH600585",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "华新水泥",
           "code": "600801",
           "percent": 5.11,
-          "current_price": 23.77,
-          "change_percentage": -1.45,
+          "current_price": 20.88,
+          "change_percentage": 1.21,
           "xq_symbol": "SH600801",
           "xq_url": "https://xueqiu.com/S/SH600801",
           "amarket": true
@@ -175,34 +175,14 @@
     },
     "manager_list": [
       {
-        "name": "史高飞",
-        "resume": "    史高飞先生,硕士,具有基金从业资格。自2009年7月至2010年1月在中邮创业基金管理有限公司任研究员。2010年4月加入诺安基金管理有限公司任基金经理助理。2015年4月至2017年11月任诺安成长混合型证券投资基金基金经理。2015年1月起任诺安新经济股票型证券投资基金基金经理,2017年6月起任诺安高端制造股票型证券投资基金基金经理,2019 年 3 月起任诺安利鑫灵活配置混合型证券投资基金基金经理。",
+        "name": "童宇",
+        "resume": "    曾任职江苏熔盛重工项目经理、平安国际融资租赁有限公司业务经理、海通证券股份有限公司研究员。 2017年11月加入诺安基金管理有限公司,历任研究员。",
         "achievement_list": [
-          {
-            "fund_code": "002137",
-            "fundsname": "诺安利鑫灵活配置混合",
-            "post_date": "2019-03-14",
-            "cp_rate": 27.5207
-          },
           {
             "fund_code": "001707",
             "fundsname": "诺安高端制造股票",
-            "post_date": "2017-06-08",
-            "cp_rate": 52.4
-          },
-          {
-            "fund_code": "320007",
-            "fundsname": "诺安成长混合",
-            "post_date": "2015-04-04",
-            "resi_date": "2017-11-17",
-            "cp_rate": -30.2905
-          },
-          {
-            "fund_code": "000971",
-            "fundsname": "诺安新经济股票",
-            "post_date": "2015-01-26",
-            "resi_date": "2019-02-20",
-            "cp_rate": -33.4331
+            "post_date": "2020-12-31",
+            "cp_rate": 0
           }
         ]
       }

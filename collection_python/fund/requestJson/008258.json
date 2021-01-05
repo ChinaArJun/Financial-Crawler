@@ -15,8 +15,8 @@
           "name": "星宇股份",
           "code": "601799",
           "percent": 0.02,
-          "current_price": 186.12,
-          "change_percentage": -2.43,
+          "current_price": 198.32,
+          "change_percentage": -1.09,
           "xq_symbol": "SH601799",
           "xq_url": "https://xueqiu.com/S/SH601799",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "辽宁成大",
           "code": "600739",
           "percent": 0.02,
-          "current_price": 23.26,
-          "change_percentage": 0.48,
+          "current_price": 24.03,
+          "change_percentage": -1.19,
           "xq_symbol": "SH600739",
           "xq_url": "https://xueqiu.com/S/SH600739",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "璞泰来",
           "code": "603659",
           "percent": 0.01,
-          "current_price": 111.38,
-          "change_percentage": 5.71,
+          "current_price": 123.63,
+          "change_percentage": 10,
           "xq_symbol": "SH603659",
           "xq_url": "https://xueqiu.com/S/SH603659",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "金发科技",
           "code": "600143",
           "percent": 0.01,
-          "current_price": 17,
-          "change_percentage": -1.73,
+          "current_price": 17.93,
+          "change_percentage": 4.61,
           "xq_symbol": "SH600143",
           "xq_url": "https://xueqiu.com/S/SH600143",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "华鲁恒升",
           "code": "600426",
           "percent": 0.01,
-          "current_price": 34.94,
-          "change_percentage": 1.28,
+          "current_price": 37.01,
+          "change_percentage": -0.78,
           "xq_symbol": "SH600426",
           "xq_url": "https://xueqiu.com/S/SH600426",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "安琪酵母",
           "code": "600298",
           "percent": 0.01,
-          "current_price": 50.15,
-          "change_percentage": -0.89,
+          "current_price": 53,
+          "change_percentage": 3.78,
           "xq_symbol": "SH600298",
           "xq_url": "https://xueqiu.com/S/SH600298",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "生物股份",
           "code": "600201",
           "percent": 0.01,
-          "current_price": 23.71,
-          "change_percentage": -1.33,
+          "current_price": 21.09,
+          "change_percentage": 0.96,
           "xq_symbol": "SH600201",
           "xq_url": "https://xueqiu.com/S/SH600201",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "太平洋",
           "code": "601099",
           "percent": 0.01,
-          "current_price": 3.99,
-          "change_percentage": 0,
+          "current_price": 4.06,
+          "change_percentage": -0.49,
           "xq_symbol": "SH601099",
           "xq_url": "https://xueqiu.com/S/SH601099",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "天坛生物",
           "code": "600161",
           "percent": 0.01,
-          "current_price": 41.12,
-          "change_percentage": -3.18,
+          "current_price": 40.81,
+          "change_percentage": -2.13,
           "xq_symbol": "SH600161",
           "xq_url": "https://xueqiu.com/S/SH600161",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "人福医药",
           "code": "600079",
           "percent": 0.01,
-          "current_price": 33.6,
-          "change_percentage": -0.88,
+          "current_price": 31.84,
+          "change_percentage": -6.02,
           "xq_symbol": "SH600079",
           "xq_url": "https://xueqiu.com/S/SH600079",
           "amarket": true
@@ -168,37 +168,37 @@
     "manager_list": [
       {
         "name": "阳桦",
-        "resume": "    阳桦,硕士研究生。2008年7月至2009年6月任职于富邦证券(上海代表处),担任行业研究员;2009年7月至2010年6月任职于中山证券有限责任公司,担任行业研究员;2010年6月加入中银国际证券股份有限公司,担任行业研究员、投资经理,现任中银证券祥瑞混合型证券投资基金、中银证券价值精选灵活配置混合型证券投资基金、中银证券科技创新3年封闭运作灵活配置混合型证券投资基金基金经理、中银证券中证500交易型开放式指数证券投资基金、中银证券中证500交易型开放式指数证券投资基金联接基金基金基金经理。",
+        "resume": "    阳桦,硕士研究生。2008年7月至2009年6月任职于富邦证券(上海代表处),担任行业研究员;2009年7月至2010年6月任职于中山证券有限责任公司,担任行业研究员;2010年6月加入中银国际证券股份有限公司,担任行业研究员、投资经理,历任中银证券价值精选灵活配置混合型证券投资基金基金经理。现任中银证券祥瑞混合型证券投资基金基金经理、中银证券价值精选灵活配置混合型证券投资基金基金经理、中银证券科技创新 3 年封闭运作灵活配置混合型证券投资基金、中银证券中证500交易型开放式指数证券投资基金、中银证券中证500交易型开放式指数证券投资基金联接基金、中银证券创业板交易型开放式指数证券投资基金基金经理。",
         "achievement_list": [
           {
             "fund_code": "159821",
             "fundsname": "中银证券创业板ETF",
             "post_date": "2020-09-29",
-            "cp_rate": 1.66
+            "cp_rate": 10.54
           },
           {
             "fund_code": "008258",
             "fundsname": "中银证券中证500ETF联接A",
             "post_date": "2020-05-14",
-            "cp_rate": 23.34
+            "cp_rate": 22.35
           },
           {
             "fund_code": "008259",
             "fundsname": "中银证券中证500ETF联接C",
             "post_date": "2020-05-14",
-            "cp_rate": 23.2
+            "cp_rate": 22.19
           },
           {
             "fund_code": "515190",
             "fundsname": "中银证券中证500ETF",
             "post_date": "2020-04-30",
-            "cp_rate": 26.86
+            "cp_rate": 25.84
           },
           {
             "fund_code": "501095",
             "fundsname": "中银证券科技创新3年封闭混合",
             "post_date": "2020-03-12",
-            "cp_rate": 18.33
+            "cp_rate": 15.62
           },
           {
             "fund_code": "002601",
@@ -211,43 +211,43 @@
             "fund_code": "004917",
             "fundsname": "中银证券祥瑞混合A",
             "post_date": "2019-08-21",
-            "cp_rate": 32.5831
+            "cp_rate": 29.1008
           },
           {
             "fund_code": "004918",
             "fundsname": "中银证券祥瑞混合C",
             "post_date": "2019-08-21",
-            "cp_rate": 30.3885
+            "cp_rate": 26.9399
           }
         ]
       },
       {
         "name": "张艺敏",
-        "resume": "    张艺敏,硕士研究生。2017年7月至2020年5月任职于汇安基金管理有限责任公司,历任产品及创新业务部产品经理、ETF投资部基金经理助理,2020年5月加入中银国际证券股份有限公司,现任中银证券中证500交易型开放式指数证券投资基金、中银证券中证500交易型开放式指数证券投资基金联接基金基金基金经理。",
+        "resume": "    张艺敏,硕士研究生。2017年7月至2020年5月任职于汇安基金管理有限责任公司,历任产品及创新业务部产品经理、ETF投资部基金经理助理,2020年5月加入中银国际证券股份有限公司,现任中银证券中证500交易型开放式指数证券投资基金、中银证券中证500交易型开放式指数证券投资基金联接基金基金、中银证券创业板交易型开放式指数证券投资基金基金经理。",
         "achievement_list": [
           {
             "fund_code": "159821",
             "fundsname": "中银证券创业板ETF",
             "post_date": "2020-11-05",
-            "cp_rate": -2.2406
+            "cp_rate": 6.2987
           },
           {
             "fund_code": "515190",
             "fundsname": "中银证券中证500ETF",
             "post_date": "2020-09-15",
-            "cp_rate": 1.5855
+            "cp_rate": 0.7687
           },
           {
             "fund_code": "008258",
             "fundsname": "中银证券中证500ETF联接A",
             "post_date": "2020-09-15",
-            "cp_rate": 1.3309
+            "cp_rate": 0.5176
           },
           {
             "fund_code": "008259",
             "fundsname": "中银证券中证500ETF联接C",
             "post_date": "2020-09-15",
-            "cp_rate": 1.2825
+            "cp_rate": 0.4522
           }
         ]
       }

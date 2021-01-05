@@ -15,8 +15,8 @@
           "name": "家家悦",
           "code": "603708",
           "percent": 9.8,
-          "current_price": 24.62,
-          "change_percentage": -1.91,
+          "current_price": 21.61,
+          "change_percentage": 1.46,
           "xq_symbol": "SH603708",
           "xq_url": "https://xueqiu.com/S/SH603708",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "新宝股份",
           "code": "002705",
           "percent": 9.77,
-          "current_price": 41.98,
-          "change_percentage": 0.19,
+          "current_price": 43.73,
+          "change_percentage": 3.5,
           "xq_symbol": "SZ002705",
           "xq_url": "https://xueqiu.com/S/SZ002705",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "口子窖",
           "code": "603589",
           "percent": 8.92,
-          "current_price": 65.09,
-          "change_percentage": 3.15,
+          "current_price": 72.22,
+          "change_percentage": 4.82,
           "xq_symbol": "SH603589",
           "xq_url": "https://xueqiu.com/S/SH603589",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "中国中免",
           "code": "601888",
           "percent": 7.28,
-          "current_price": 208.03,
-          "change_percentage": 0.13,
+          "current_price": 292.25,
+          "change_percentage": 3.47,
           "xq_symbol": "SH601888",
           "xq_url": "https://xueqiu.com/S/SH601888",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "新希望",
           "code": "000876",
           "percent": 6.72,
-          "current_price": 26.59,
-          "change_percentage": -1.3,
+          "current_price": 24.64,
+          "change_percentage": 10,
           "xq_symbol": "SZ000876",
           "xq_url": "https://xueqiu.com/S/SZ000876",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "太阳纸业",
           "code": "002078",
           "percent": 6.08,
-          "current_price": 15.22,
-          "change_percentage": -0.13,
+          "current_price": 14.54,
+          "change_percentage": 0.76,
           "xq_symbol": "SZ002078",
           "xq_url": "https://xueqiu.com/S/SZ002078",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "安井食品",
           "code": "603345",
           "percent": 5.97,
-          "current_price": 178.99,
-          "change_percentage": -1.12,
+          "current_price": 193.58,
+          "change_percentage": 0.37,
           "xq_symbol": "SH603345",
           "xq_url": "https://xueqiu.com/S/SH603345",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "海信视像",
           "code": "600060",
           "percent": 4.8,
-          "current_price": 11.44,
-          "change_percentage": -0.26,
+          "current_price": 11.39,
+          "change_percentage": -0.78,
           "xq_symbol": "SH600060",
           "xq_url": "https://xueqiu.com/S/SH600060",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "芒果超媒",
           "code": "300413",
           "percent": 4.41,
-          "current_price": 65.95,
-          "change_percentage": -1.54,
+          "current_price": 72.88,
+          "change_percentage": 0.52,
           "xq_symbol": "SZ300413",
           "xq_url": "https://xueqiu.com/S/SZ300413",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "顺丰控股",
           "code": "002352",
           "percent": 4.29,
-          "current_price": 80.21,
-          "change_percentage": -1.88,
+          "current_price": 90.48,
+          "change_percentage": 2.55,
           "xq_symbol": "SZ002352",
           "xq_url": "https://xueqiu.com/S/SZ002352",
           "amarket": true
@@ -172,7 +172,7 @@
     "manager_list": [
       {
         "name": "郭睿",
-        "resume": "    郭睿先生, 中欧品质消费股票型发起式证券投资基金拟任基金经理, 中国籍。\n    东北财经大学金融学学士,7年以上证券从业经验。历任中国国际金融股份有限公司研究部高级经理。2015年 7月加入中欧基金管理有限公司,历任研究员。",
+        "resume": "    郭睿先生, 中欧品质消费股票型发起式证券投资基金拟任基金经理, 中国籍。\n    东北财经大学金融学学士,7年以上证券从业经验。历任中国国际金融股份有限公司研究部高级经理。2015年 7月加入中欧基金管理有限公司,历任研究员。\n本基金经理所管理基金具体情况 产品名称 起任日期 离任日期 \n1 中欧品质消费股票型发起式证券投资基金 2018年02月11日 \n2 中欧睿达定期开放混合型发起式证券投资基金 2018年07月12日 2019年07月23日 \n3 中欧睿尚定期开放混合型发起式证券投资基金 2018年07月12日 2019年07月23日 \n4 中欧消费主题股票型证券投资基金 2018年07月12日",
         "achievement_list": [
           {
             "fund_code": "000894",
@@ -185,13 +185,13 @@
             "fund_code": "002621",
             "fundsname": "中欧消费主题股票A",
             "post_date": "2018-07-12",
-            "cp_rate": 121.5883
+            "cp_rate": 115.7286
           },
           {
             "fund_code": "002697",
             "fundsname": "中欧消费主题股票C",
             "post_date": "2018-07-12",
-            "cp_rate": 118.7166
+            "cp_rate": 112.7578
           },
           {
             "fund_code": "001615",
@@ -204,13 +204,13 @@
             "fund_code": "005620",
             "fundsname": "中欧品质消费股票A",
             "post_date": "2018-02-11",
-            "cp_rate": 136.8889
+            "cp_rate": 132.8601
           },
           {
             "fund_code": "005621",
             "fundsname": "中欧品质消费股票C",
             "post_date": "2018-02-11",
-            "cp_rate": 132.0236
+            "cp_rate": 127.9544
           }
         ]
       }

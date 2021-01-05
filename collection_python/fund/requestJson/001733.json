@@ -15,8 +15,8 @@
           "name": "中国平安",
           "code": "601318",
           "percent": 4.75,
-          "current_price": 88.05,
-          "change_percentage": -2.58,
+          "current_price": 85.18,
+          "change_percentage": -2.07,
           "xq_symbol": "SH601318",
           "xq_url": "https://xueqiu.com/S/SH601318",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 4.69,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "招商银行",
           "code": "600036",
           "percent": 2.94,
-          "current_price": 44.26,
-          "change_percentage": -0.36,
+          "current_price": 43.17,
+          "change_percentage": -1.77,
           "xq_symbol": "SH600036",
           "xq_url": "https://xueqiu.com/S/SH600036",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "美的集团",
           "code": "000333",
           "percent": 2.74,
-          "current_price": 86.7,
-          "change_percentage": -1.54,
+          "current_price": 99.01,
+          "change_percentage": 0.58,
           "xq_symbol": "SZ000333",
           "xq_url": "https://xueqiu.com/S/SZ000333",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "中信证券",
           "code": "600030",
           "percent": 2.47,
-          "current_price": 30.01,
-          "change_percentage": 0,
+          "current_price": 29.18,
+          "change_percentage": -0.75,
           "xq_symbol": "SH600030",
           "xq_url": "https://xueqiu.com/S/SH600030",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "伊利股份",
           "code": "600887",
           "percent": 2.32,
-          "current_price": 40.68,
-          "change_percentage": 1.24,
+          "current_price": 47.36,
+          "change_percentage": 6.74,
           "xq_symbol": "SH600887",
           "xq_url": "https://xueqiu.com/S/SH600887",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "中国中免",
           "code": "601888",
           "percent": 2.12,
-          "current_price": 208.03,
-          "change_percentage": 0.13,
+          "current_price": 292.25,
+          "change_percentage": 3.47,
           "xq_symbol": "SH601888",
           "xq_url": "https://xueqiu.com/S/SH601888",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "恒瑞医药",
           "code": "600276",
           "percent": 2,
-          "current_price": 90.07,
-          "change_percentage": 0.21,
+          "current_price": 111.2,
+          "change_percentage": -0.23,
           "xq_symbol": "SH600276",
           "xq_url": "https://xueqiu.com/S/SH600276",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "京东方A",
           "code": "000725",
           "percent": 1.75,
-          "current_price": 5.25,
-          "change_percentage": -0.57,
+          "current_price": 5.92,
+          "change_percentage": -1.33,
           "xq_symbol": "SZ000725",
           "xq_url": "https://xueqiu.com/S/SZ000725",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "海螺水泥",
           "code": "600585",
           "percent": 1.73,
-          "current_price": 53.44,
-          "change_percentage": -1.46,
+          "current_price": 52.28,
+          "change_percentage": 1.28,
           "xq_symbol": "SH600585",
           "xq_url": "https://xueqiu.com/S/SH600585",
           "amarket": true
@@ -187,73 +187,73 @@
             "fund_code": "009195",
             "fundsname": "泰达宏利中证绩优指数C",
             "post_date": "2020-07-17",
-            "cp_rate": 9.82
+            "cp_rate": 20.41
           },
           {
             "fund_code": "009194",
             "fundsname": "泰达宏利中证绩优指数A",
             "post_date": "2020-07-17",
-            "cp_rate": 9.99
+            "cp_rate": 20.63
           },
           {
             "fund_code": "008929",
             "fundsname": "泰达消费红利指数C",
             "post_date": "2020-03-26",
-            "cp_rate": 55.05
+            "cp_rate": 55.2
           },
           {
             "fund_code": "008928",
             "fundsname": "泰达消费红利指数A",
             "post_date": "2020-03-26",
-            "cp_rate": 55.32
+            "cp_rate": 55.48
           },
           {
             "fund_code": "003912",
             "fundsname": "泰达宏利启富混合A",
             "post_date": "2019-11-20",
-            "cp_rate": 15.1378
+            "cp_rate": 19.3374
           },
           {
             "fund_code": "003913",
             "fundsname": "泰达宏利启富混合C",
             "post_date": "2019-11-20",
-            "cp_rate": 14.7947
+            "cp_rate": 18.954
           },
           {
             "fund_code": "162216",
             "fundsname": "泰达宏利中证500指数增强(LOF)",
             "post_date": "2019-11-06",
-            "cp_rate": 42.9955
+            "cp_rate": 44.6031
           },
           {
             "fund_code": "003548",
             "fundsname": "泰达宏利沪深300指数C",
             "post_date": "2019-01-09",
-            "cp_rate": 89.1462
+            "cp_rate": 97.8463
           },
           {
             "fund_code": "162213",
             "fundsname": "泰达宏利沪深300指数A",
             "post_date": "2019-01-09",
-            "cp_rate": 89.5169
+            "cp_rate": 98.2817
           },
           {
             "fund_code": "004484",
             "fundsname": "泰达宏利业绩股票A",
             "post_date": "2019-01-09",
-            "cp_rate": 89.3998
+            "cp_rate": 99.2861
           },
           {
             "fund_code": "004485",
             "fundsname": "泰达宏利业绩股票C",
             "post_date": "2019-01-09",
-            "cp_rate": 87.3186
+            "cp_rate": 97.0369
           },
           {
             "fund_code": "002314",
             "fundsname": "泰达宏利新思路混合B",
             "post_date": "2019-01-09",
-            "cp_rate": 82.2021
+            "cp_rate": 85.7143
           },
           {
             "fund_code": "162210",
@@ -280,7 +280,7 @@
             "fund_code": "001733",
             "fundsname": "泰达宏利量化增强股票",
             "post_date": "2019-01-09",
-            "cp_rate": 67.4476
+            "cp_rate": 74.5993
           },
           {
             "fund_code": "150053",
@@ -300,7 +300,7 @@
             "fund_code": "001419",
             "fundsname": "泰达宏利新思路混合A",
             "post_date": "2019-01-09",
-            "cp_rate": 82.4284
+            "cp_rate": 85.9405
           },
           {
             "fund_code": "162211",
@@ -318,8 +318,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 2,
-      "all_buy_days": 2,
-      "all_sale_days": 3
+      "all_sale_days": 3,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

@@ -15,8 +15,8 @@
           "name": "药明康德",
           "code": "603259",
           "percent": 7.15,
-          "current_price": 110.9,
-          "change_percentage": -0.12,
+          "current_price": 137.11,
+          "change_percentage": 1.77,
           "xq_symbol": "SH603259",
           "xq_url": "https://xueqiu.com/S/SH603259",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "赣锋锂业",
           "code": "002460",
           "percent": 5.6,
-          "current_price": 82.24,
-          "change_percentage": 3.06,
+          "current_price": 111.32,
+          "change_percentage": 10,
           "xq_symbol": "SZ002460",
           "xq_url": "https://xueqiu.com/S/SZ002460",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "长春高新",
           "code": "000661",
           "percent": 5.17,
-          "current_price": 388,
-          "change_percentage": 0.19,
+          "current_price": 473.45,
+          "change_percentage": 5.47,
           "xq_symbol": "SZ000661",
           "xq_url": "https://xueqiu.com/S/SZ000661",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "中国中免",
           "code": "601888",
           "percent": 4.84,
-          "current_price": 208.03,
-          "change_percentage": 0.13,
+          "current_price": 292.25,
+          "change_percentage": 3.47,
           "xq_symbol": "SH601888",
           "xq_url": "https://xueqiu.com/S/SH601888",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "芒果超媒",
           "code": "300413",
           "percent": 4.69,
-          "current_price": 65.95,
-          "change_percentage": -1.54,
+          "current_price": 72.88,
+          "change_percentage": 0.52,
           "xq_symbol": "SZ300413",
           "xq_url": "https://xueqiu.com/S/SZ300413",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 3.95,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "建设机械",
           "code": "600984",
           "percent": 3.95,
-          "current_price": 14.92,
-          "change_percentage": 0.27,
+          "current_price": 12.6,
+          "change_percentage": 2.02,
           "xq_symbol": "SH600984",
           "xq_url": "https://xueqiu.com/S/SH600984",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "克来机电",
           "code": "603960",
           "percent": 3.85,
-          "current_price": 40.1,
-          "change_percentage": -0.25,
+          "current_price": 49.9,
+          "change_percentage": 6.28,
           "xq_symbol": "SH603960",
           "xq_url": "https://xueqiu.com/S/SH603960",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 3.38,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "司太立",
           "code": "603520",
           "percent": 3.36,
-          "current_price": 71.37,
-          "change_percentage": 1.45,
+          "current_price": 65.76,
+          "change_percentage": -0.11,
           "xq_symbol": "SH603520",
           "xq_url": "https://xueqiu.com/S/SH603520",
           "amarket": true
@@ -178,31 +178,31 @@
         "name": "郭晨",
         "resume": "    郭晨先生,自2007年5月至2008年4月在平安资产管理有限公司担任分析师;2008年4月至2009年11月在东吴基金管理有限公司担任研究员;2009年11月至2014年10月在华富基金管理有限公司先后担任基金经理助理、基金经理,自2014年10月起加入上投摩根基金管理有限公司,自2015年1月起担任上投摩根中小盘股票型证券投资基金基金经理,自2015年6月起同时担任上投摩根智慧互联股票型证券投资基金基金经理,自2015年8月起同时担任上投摩根新兴服务股票型证券投资基金基金经理,自2019年3月起同时担任上投摩根创新商业模式灵活配置混合型证券投资基金基金经理。",
         "college": "四川大学",
-        "work_year": "13",
+        "work_year": "14",
         "achievement_list": [
           {
             "fund_code": "005593",
             "fundsname": "上投摩根创新商业模式灵活配置混合",
             "post_date": "2019-03-29",
-            "cp_rate": 92.5028
+            "cp_rate": 112.9147
           },
           {
             "fund_code": "001482",
             "fundsname": "上投摩根新兴服务股票",
             "post_date": "2015-08-06",
-            "cp_rate": 101.91
+            "cp_rate": 119.88
           },
           {
             "fund_code": "001313",
             "fundsname": "上投摩根智慧互联股票",
             "post_date": "2015-06-09",
-            "cp_rate": 18.3897
+            "cp_rate": 30.9145
           },
           {
             "fund_code": "379010",
             "fundsname": "上投摩根中小盘混合",
             "post_date": "2015-01-30",
-            "cp_rate": 114.8924
+            "cp_rate": 137.3435
           },
           {
             "fund_code": "410006",

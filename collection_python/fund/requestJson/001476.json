@@ -16,8 +16,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 9.45,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "通威股份",
           "code": "600438",
           "percent": 9.16,
-          "current_price": 29.2,
-          "change_percentage": -1.85,
+          "current_price": 41.65,
+          "change_percentage": 8.35,
           "xq_symbol": "SH600438",
           "xq_url": "https://xueqiu.com/S/SH600438",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "锦浪科技",
           "code": "300763",
           "percent": 8.73,
-          "current_price": 117.3,
-          "change_percentage": 10.91,
+          "current_price": 150.5,
+          "change_percentage": 1.01,
           "xq_symbol": "SZ300763",
           "xq_url": "https://xueqiu.com/S/SZ300763",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "亿纬锂能",
           "code": "300014",
           "percent": 8.09,
-          "current_price": 63.71,
-          "change_percentage": 4.17,
+          "current_price": 93.49,
+          "change_percentage": 14.71,
           "xq_symbol": "SZ300014",
           "xq_url": "https://xueqiu.com/S/SZ300014",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "歌尔股份",
           "code": "002241",
           "percent": 5.33,
-          "current_price": 37.16,
-          "change_percentage": -2.24,
+          "current_price": 36.74,
+          "change_percentage": -1.55,
           "xq_symbol": "SZ002241",
           "xq_url": "https://xueqiu.com/S/SZ002241",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 5.32,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 5.09,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "拓普集团",
           "code": "601689",
           "percent": 5.08,
-          "current_price": 38.54,
-          "change_percentage": 3.66,
+          "current_price": 42.27,
+          "change_percentage": 9.99,
           "xq_symbol": "SH601689",
           "xq_url": "https://xueqiu.com/S/SH601689",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "福莱特",
           "code": "601865",
           "percent": 4.1,
-          "current_price": 32.18,
-          "change_percentage": 2.13,
+          "current_price": 43.89,
+          "change_percentage": 10,
           "xq_symbol": "SH601865",
           "xq_url": "https://xueqiu.com/S/SH601865",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "三一重工",
           "code": "600031",
           "percent": 3.99,
-          "current_price": 31.48,
-          "change_percentage": -1.41,
+          "current_price": 34.8,
+          "change_percentage": -0.51,
           "xq_symbol": "SH600031",
           "xq_url": "https://xueqiu.com/S/SH600031",
           "amarket": true
@@ -243,25 +243,25 @@
       {
         "name": "王伟",
         "resume": "    王伟(WANGWei)先生,中银基金管理有限公司助理副总裁(AVP),工学硕士。2010年加入中银基金管理有限公司,曾任研究员、基金经理助理。2015年2月至今任中银美丽中国基金基金经理,2015年3月至今任中银中小盘基金基金经理,2015年5月至今任中银优选基金基金经理,2015年6月至今任中银智能制造基金基金经理。具有9年证券从业年限。具备基金从业资格。",
-        "work_year": "10",
+        "work_year": "11",
         "achievement_list": [
           {
             "fund_code": "001476",
             "fundsname": "中银智能制造股票",
             "post_date": "2015-06-19",
-            "cp_rate": 41.6
+            "cp_rate": 61
           },
           {
             "fund_code": "163807",
             "fundsname": "中银优选混合",
             "post_date": "2015-05-28",
-            "cp_rate": 55.3987
+            "cp_rate": 65.6932
           },
           {
             "fund_code": "163818",
             "fundsname": "中银中小盘成长混合",
             "post_date": "2015-03-23",
-            "cp_rate": 45.6395
+            "cp_rate": 57.093
           },
           {
             "fund_code": "000120",
@@ -279,8 +279,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 2,
-      "all_buy_days": 2,
-      "all_sale_days": 3
+      "all_sale_days": 3,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

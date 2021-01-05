@@ -16,8 +16,8 @@
           "name": "恒瑞医药",
           "code": "600276",
           "percent": 5,
-          "current_price": 90.07,
-          "change_percentage": 0.21,
+          "current_price": 111.2,
+          "change_percentage": -0.23,
           "xq_symbol": "SH600276",
           "xq_url": "https://xueqiu.com/S/SH600276",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "大参林",
           "code": "603233",
           "percent": 4.4,
-          "current_price": 87.64,
-          "change_percentage": 0.62,
+          "current_price": 76.99,
+          "change_percentage": -1.74,
           "xq_symbol": "SH603233",
           "xq_url": "https://xueqiu.com/S/SH603233",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "伊利股份",
           "code": "600887",
           "percent": 4.2,
-          "current_price": 40.68,
-          "change_percentage": 1.24,
+          "current_price": 47.36,
+          "change_percentage": 6.74,
           "xq_symbol": "SH600887",
           "xq_url": "https://xueqiu.com/S/SH600887",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "云南白药",
           "code": "000538",
           "percent": 3.71,
-          "current_price": 99.84,
-          "change_percentage": -0.32,
+          "current_price": 124.96,
+          "change_percentage": 10,
           "xq_symbol": "SZ000538",
           "xq_url": "https://xueqiu.com/S/SZ000538",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 3.52,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "智飞生物",
           "code": "300122",
           "percent": 3.45,
-          "current_price": 139.38,
-          "change_percentage": -0.39,
+          "current_price": 143.22,
+          "change_percentage": -3.17,
           "xq_symbol": "SZ300122",
           "xq_url": "https://xueqiu.com/S/SZ300122",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "海尔智家",
           "code": "600690",
           "percent": 3.17,
-          "current_price": 26.97,
-          "change_percentage": -0.19,
+          "current_price": 30.01,
+          "change_percentage": 2.74,
           "xq_symbol": "SH600690",
           "xq_url": "https://xueqiu.com/S/SH600690",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "金域医学",
           "code": "603882",
           "percent": 3,
-          "current_price": 99,
-          "change_percentage": 2.27,
+          "current_price": 130.68,
+          "change_percentage": 2,
           "xq_symbol": "SH603882",
           "xq_url": "https://xueqiu.com/S/SH603882",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "复星医药",
           "code": "600196",
           "percent": 2.73,
-          "current_price": 53.53,
-          "change_percentage": -1.02,
+          "current_price": 52.97,
+          "change_percentage": -1.89,
           "xq_symbol": "SH600196",
           "xq_url": "https://xueqiu.com/S/SH600196",
           "amarket": true
@@ -202,37 +202,37 @@
             "fund_code": "010500",
             "fundsname": "中银创新医疗混合C",
             "post_date": "2020-10-30",
-            "cp_rate": -2.4937
+            "cp_rate": 5.3229
           },
           {
             "fund_code": "010321",
             "fundsname": "中银大健康股票C",
             "post_date": "2020-10-16",
-            "cp_rate": -1.0004
+            "cp_rate": 5.0517
           },
           {
             "fund_code": "010159",
             "fundsname": "中银医疗保健灵活配置混合C",
             "post_date": "2020-09-07",
-            "cp_rate": -0.5409
+            "cp_rate": 6.0481
           },
           {
             "fund_code": "009414",
             "fundsname": "中银大健康股票A",
             "post_date": "2020-05-27",
-            "cp_rate": 19.78
+            "cp_rate": 27.13
           },
           {
             "fund_code": "007718",
             "fundsname": "中银创新医疗混合A",
             "post_date": "2019-11-13",
-            "cp_rate": 74.42
+            "cp_rate": 88.45
           },
           {
             "fund_code": "005689",
             "fundsname": "中银医疗保健灵活配置混合A",
             "post_date": "2018-06-13",
-            "cp_rate": 181.02
+            "cp_rate": 199.74
           }
         ]
       }

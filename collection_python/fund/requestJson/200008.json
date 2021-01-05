@@ -16,8 +16,8 @@
           "name": "五粮液",
           "code": "000858",
           "percent": 9.46,
-          "current_price": 272,
-          "change_percentage": 0.65,
+          "current_price": 298.05,
+          "change_percentage": 2.12,
           "xq_symbol": "SZ000858",
           "xq_url": "https://xueqiu.com/S/SZ000858",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 8.99,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "泸州老窖",
           "code": "000568",
           "percent": 8.05,
-          "current_price": 191.85,
-          "change_percentage": 0.56,
+          "current_price": 240.85,
+          "change_percentage": 6.5,
           "xq_symbol": "SZ000568",
           "xq_url": "https://xueqiu.com/S/SZ000568",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "山西汾酒",
           "code": "600809",
           "percent": 7.54,
-          "current_price": 265.1,
-          "change_percentage": 1.54,
+          "current_price": 373.63,
+          "change_percentage": -0.44,
           "xq_symbol": "SH600809",
           "xq_url": "https://xueqiu.com/S/SH600809",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "古井贡酒",
           "code": "000596",
           "percent": 5.95,
-          "current_price": 229.01,
-          "change_percentage": 0.04,
+          "current_price": 279.66,
+          "change_percentage": 2.82,
           "xq_symbol": "SZ000596",
           "xq_url": "https://xueqiu.com/S/SZ000596",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "中国中免",
           "code": "601888",
           "percent": 4.63,
-          "current_price": 208.03,
-          "change_percentage": 0.13,
+          "current_price": 292.25,
+          "change_percentage": 3.47,
           "xq_symbol": "SH601888",
           "xq_url": "https://xueqiu.com/S/SH601888",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 3.89,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "青岛啤酒",
           "code": "600600",
           "percent": 3.82,
-          "current_price": 98.2,
-          "change_percentage": -0.32,
+          "current_price": 102.48,
+          "change_percentage": 3.1,
           "xq_symbol": "SH600600",
           "xq_url": "https://xueqiu.com/S/SH600600",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "良信股份",
           "code": "002706",
           "percent": 3.04,
-          "current_price": 25.8,
-          "change_percentage": 0.74,
+          "current_price": 29.79,
+          "change_percentage": -2.77,
           "xq_symbol": "SZ002706",
           "xq_url": "https://xueqiu.com/S/SZ002706",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "今世缘",
           "code": "603369",
           "percent": 3.02,
-          "current_price": 51.8,
-          "change_percentage": 1.11,
+          "current_price": 59.85,
+          "change_percentage": 4.3,
           "xq_symbol": "SH603369",
           "xq_url": "https://xueqiu.com/S/SH603369",
           "amarket": true
@@ -184,25 +184,25 @@
         "name": "杨建华",
         "resume": "    杨建华先生,北京大学理学学士、经济学硕士,注册会计师。曾就职于大庆石油管理局、华为技术有限公司、深圳市和君创业投资公司、长城证券有限责任公司投资银行部。2001年10月进入长城基金管理公司,曾任基金投资部基金经理助理、研究部总经理和公司总经理助理,现任长城基金管理有限公司副总经理、投资总监兼基金管理部总经理,自2007年9月至2009年1月任“长城安心回报混合型证券投资基金”基金经理,自2011年1月至2013年6月任“长城中小盘成长股票型证券投资基金”基金经理,自2009年9月至2016年9月任“长城久富核心成长混合型证券投资基金(LOF)”基金经理,自2017年6月至2018年8月任“长城久兆中小板300指数分级证券投资基金”基金经理,自2017年8月至2019年2月任“长城久嘉创新成长灵活配置混合型证券投资基金”基金经理,自2018年8月至2018年11月任“长城中证500指数增强型证券投资基金”基金经理。自2004年5月至今任“长城久泰沪深300指数证券投资基金”基金经理,自2013年6月至今任“长城品牌优选混合型证券投资基金”基金经理,自2019年4月至今任“长城核心优势混合型证券投资基金”基金经理,自2020年3月至今任“长城价值优选混合型证券投资基金”基金经理。",
         "college": "北京大学",
-        "work_year": "20",
+        "work_year": "21",
         "achievement_list": [
           {
             "fund_code": "008260",
             "fundsname": "长城价值优选混合",
             "post_date": "2020-03-18",
-            "cp_rate": 59.99
+            "cp_rate": 80.51
           },
           {
             "fund_code": "007047",
             "fundsname": "长城核心优势混合",
             "post_date": "2019-04-16",
-            "cp_rate": 104.63
+            "cp_rate": 131.38
           },
           {
             "fund_code": "006912",
             "fundsname": "长城久泰沪深300指数C",
             "post_date": "2019-01-18",
-            "cp_rate": 68.8574
+            "cp_rate": 76.3707
           },
           {
             "fund_code": "006048",
@@ -243,7 +243,7 @@
             "fund_code": "200008",
             "fundsname": "长城品牌优选混合",
             "post_date": "2013-06-18",
-            "cp_rate": 252.6773
+            "cp_rate": 299.972
           },
           {
             "fund_code": "200012",
@@ -270,7 +270,7 @@
             "fund_code": "200002",
             "fundsname": "长城久泰沪深300指数A",
             "post_date": "2004-05-21",
-            "cp_rate": 519.96
+            "cp_rate": 547.69
           }
         ]
       }

@@ -16,8 +16,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 6,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 3.4,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 3.16,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 2.87,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "五粮液",
           "code": "000858",
           "percent": 2.7,
-          "current_price": 272,
-          "change_percentage": 0.65,
+          "current_price": 298.05,
+          "change_percentage": 2.12,
           "xq_symbol": "SZ000858",
           "xq_url": "https://xueqiu.com/S/SZ000858",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 2.17,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "中信建投",
           "code": "601066",
           "percent": 1.89,
-          "current_price": 42.79,
-          "change_percentage": -1.5,
+          "current_price": 41.9,
+          "change_percentage": -0.24,
           "xq_symbol": "SH601066",
           "xq_url": "https://xueqiu.com/S/SH601066",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "恒立液压",
           "code": "601100",
           "percent": 1.86,
-          "current_price": 96.79,
-          "change_percentage": -1.59,
+          "current_price": 112.97,
+          "change_percentage": -0.03,
           "xq_symbol": "SH601100",
           "xq_url": "https://xueqiu.com/S/SH601100",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "东方财富",
           "code": "300059",
           "percent": 1.86,
-          "current_price": 28.05,
-          "change_percentage": 1.08,
+          "current_price": 32.2,
+          "change_percentage": 3.87,
           "xq_symbol": "SZ300059",
           "xq_url": "https://xueqiu.com/S/SZ300059",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "华测检测",
           "code": "300012",
           "percent": 1.69,
-          "current_price": 25.3,
-          "change_percentage": 1.61,
+          "current_price": 27.57,
+          "change_percentage": 0.73,
           "xq_symbol": "SZ300012",
           "xq_url": "https://xueqiu.com/S/SZ300012",
           "amarket": true
@@ -239,32 +239,32 @@
             "fund_code": "001416",
             "fundsname": "嘉实事件驱动股票",
             "post_date": "2015-06-09",
-            "cp_rate": 19.2423
+            "cp_rate": 30.5085
           },
           {
             "fund_code": "000043",
             "fundsname": "嘉实美国成长股票(QDII)人民币",
             "post_date": "2013-06-14",
-            "cp_rate": 169.6
+            "cp_rate": 176.1
           },
           {
             "fund_code": "000044",
             "fundsname": "嘉实美国成长股票(QDII)美元现汇",
             "post_date": "2013-06-14",
-            "cp_rate": 151.1
+            "cp_rate": 157.8
           }
         ]
       },
       {
         "name": "张楠",
         "resume": "    张楠先生,硕士学位,6年证券从业经历。2012年1月加入嘉实基金管理有限公司,从事投资模型研究和投资组合管理工作。2018年1月5日至今任嘉实量化阿尔法混合基金经理。2018年7月13日至今任嘉实中小企业量化活力灵活配置混合型证券投资基金基金经理、2019年1月17日至今任嘉实事件驱动股票型证券投资基金基金经理。",
-        "work_year": "8",
+        "work_year": "9",
         "achievement_list": [
           {
             "fund_code": "001416",
             "fundsname": "嘉实事件驱动股票",
             "post_date": "2019-01-17",
-            "cp_rate": 112.0567
+            "cp_rate": 132.0922
           },
           {
             "fund_code": "004536",

@@ -15,8 +15,8 @@
           "name": "康华生物",
           "code": "300841",
           "percent": 1.72,
-          "current_price": 470.93,
-          "change_percentage": -0.23,
+          "current_price": 499.01,
+          "change_percentage": 6.57,
           "xq_symbol": "SZ300841",
           "xq_url": "https://xueqiu.com/S/SZ300841",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "卓胜微",
           "code": "300782",
           "percent": 1.31,
-          "current_price": 544.82,
-          "change_percentage": 2.06,
+          "current_price": 614.9,
+          "change_percentage": 7.78,
           "xq_symbol": "SZ300782",
           "xq_url": "https://xueqiu.com/S/SZ300782",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "迈为股份",
           "code": "300751",
           "percent": 1.17,
-          "current_price": 529,
-          "change_percentage": 0.03,
+          "current_price": 667.89,
+          "change_percentage": -1.35,
           "xq_symbol": "SZ300751",
           "xq_url": "https://xueqiu.com/S/SZ300751",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "圣邦股份",
           "code": "300661",
           "percent": 1.04,
-          "current_price": 291.81,
-          "change_percentage": -1.48,
+          "current_price": 284.6,
+          "change_percentage": 7.88,
           "xq_symbol": "SZ300661",
           "xq_url": "https://xueqiu.com/S/SZ300661",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "片仔癀",
           "code": "600436",
           "percent": 0.84,
-          "current_price": 227.97,
-          "change_percentage": 0.29,
+          "current_price": 279.98,
+          "change_percentage": 4.66,
           "xq_symbol": "SH600436",
           "xq_url": "https://xueqiu.com/S/SH600436",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "中国中免",
           "code": "601888",
           "percent": 0.77,
-          "current_price": 208.03,
-          "change_percentage": 0.13,
+          "current_price": 292.25,
+          "change_percentage": 3.47,
           "xq_symbol": "SH601888",
           "xq_url": "https://xueqiu.com/S/SH601888",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "五粮液",
           "code": "000858",
           "percent": 0.76,
-          "current_price": 272,
-          "change_percentage": 0.65,
+          "current_price": 298.05,
+          "change_percentage": 2.12,
           "xq_symbol": "SZ000858",
           "xq_url": "https://xueqiu.com/S/SZ000858",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "古井贡酒",
           "code": "000596",
           "percent": 0.75,
-          "current_price": 229.01,
-          "change_percentage": 0.04,
+          "current_price": 279.66,
+          "change_percentage": 2.82,
           "xq_symbol": "SZ000596",
           "xq_url": "https://xueqiu.com/S/SZ000596",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "通策医疗",
           "code": "600763",
           "percent": 0.74,
-          "current_price": 233.45,
-          "change_percentage": 0.45,
+          "current_price": 268,
+          "change_percentage": -3.08,
           "xq_symbol": "SH600763",
           "xq_url": "https://xueqiu.com/S/SH600763",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "深信服",
           "code": "300454",
           "percent": 0.73,
-          "current_price": 217.55,
-          "change_percentage": 3.2,
+          "current_price": 266,
+          "change_percentage": 7.25,
           "xq_symbol": "SZ300454",
           "xq_url": "https://xueqiu.com/S/SZ300454",
           "amarket": true
@@ -174,55 +174,55 @@
         "name": "宫雪",
         "resume": "    宫雪女士,博士,毕业于中国科学院数学与系统科学研究院,管理科学与工程专业。2008年7月至2011年11月在博时基金管理有限公司股票投资部工作,任产业分析师。2012年2月加盟国金通用基金管理有限公司(2015年7月起更名为国金基金管理有限公司),历任产品经理、行业分析师、产品与金融工程部总经理、指数投资部副总经理、指数投资事业部总经理;2016年4月起任量化投资事业三部总经理。截至本招募说明书更新公布之日,宫雪女士同时兼任国金沪深300指数增强证券投资基金、国金鑫新灵活配置混合型证券投资基金(LOF)、国金鑫安保本混合型证券投资基金、国金鑫瑞灵活配置混合型证券投资基金的基金经理。",
         "college": "中国科学院数学与系统科学研究院",
-        "work_year": "14",
+        "work_year": "15",
         "achievement_list": [
           {
             "fund_code": "006189",
             "fundsname": "国金量化添利定期开放债券",
             "post_date": "2020-06-29",
-            "cp_rate": 1.0683
+            "cp_rate": 0.2947
           },
           {
             "fund_code": "006195",
             "fundsname": "国金量化多因子",
             "post_date": "2020-06-10",
-            "cp_rate": 21.4439
+            "cp_rate": 23.6185
           },
           {
             "fund_code": "005443",
             "fundsname": "国金量化多策略",
             "post_date": "2020-06-10",
-            "cp_rate": 21.4631
+            "cp_rate": 22.3311
           },
           {
             "fund_code": "502020",
             "fundsname": "国金上证50指数增强(LOF)",
             "post_date": "2019-10-14",
-            "cp_rate": 24.3721
+            "cp_rate": 29.7096
           },
           {
             "fund_code": "501072",
             "fundsname": "国金红利增强",
             "post_date": "2019-06-05",
-            "cp_rate": 3.56
+            "cp_rate": -0.06
           },
           {
             "fund_code": "002155",
             "fundsname": "国金鑫瑞灵活配置混合",
             "post_date": "2017-09-13",
-            "cp_rate": 21.0679
+            "cp_rate": 22.3478
           },
           {
             "fund_code": "167601",
             "fundsname": "国金沪深300指数增强",
             "post_date": "2017-09-01",
-            "cp_rate": 19.8158
+            "cp_rate": 26.488
           },
           {
             "fund_code": "501000",
             "fundsname": "国金鑫新灵活配置(LOF)",
             "post_date": "2015-07-03",
-            "cp_rate": -1.5
+            "cp_rate": -1
           },
           {
             "fund_code": "001465",
@@ -291,19 +291,19 @@
             "fund_code": "005443",
             "fundsname": "国金量化多策略",
             "post_date": "2020-09-03",
-            "cp_rate": 0.6059
+            "cp_rate": 1.3248
           },
           {
             "fund_code": "006195",
             "fundsname": "国金量化多因子",
             "post_date": "2020-09-03",
-            "cp_rate": -0.2562
+            "cp_rate": 1.5299
           },
           {
             "fund_code": "006189",
             "fundsname": "国金量化添利定期开放债券",
             "post_date": "2020-09-03",
-            "cp_rate": -0.1728
+            "cp_rate": -0.937
           }
         ]
       }
@@ -314,8 +314,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

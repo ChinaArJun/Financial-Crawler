@@ -15,8 +15,8 @@
           "name": "恒立液压",
           "code": "601100",
           "percent": 10.47,
-          "current_price": 96.79,
-          "change_percentage": -1.59,
+          "current_price": 112.97,
+          "change_percentage": -0.03,
           "xq_symbol": "SH601100",
           "xq_url": "https://xueqiu.com/S/SH601100",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 10.19,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "三一重工",
           "code": "600031",
           "percent": 10.07,
-          "current_price": 31.48,
-          "change_percentage": -1.41,
+          "current_price": 34.8,
+          "change_percentage": -0.51,
           "xq_symbol": "SH600031",
           "xq_url": "https://xueqiu.com/S/SH600031",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "潍柴动力",
           "code": "000338",
           "percent": 9.89,
-          "current_price": 16.54,
-          "change_percentage": -0.84,
+          "current_price": 16.02,
+          "change_percentage": 1.46,
           "xq_symbol": "SZ000338",
           "xq_url": "https://xueqiu.com/S/SZ000338",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "华新水泥",
           "code": "600801",
           "percent": 8.74,
-          "current_price": 23.77,
-          "change_percentage": -1.45,
+          "current_price": 20.88,
+          "change_percentage": 1.21,
           "xq_symbol": "SH600801",
           "xq_url": "https://xueqiu.com/S/SH600801",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "中国重汽",
           "code": "000951",
           "percent": 7.74,
-          "current_price": 34.31,
-          "change_percentage": 0.7,
+          "current_price": 31.88,
+          "change_percentage": 1.34,
           "xq_symbol": "SZ000951",
           "xq_url": "https://xueqiu.com/S/SZ000951",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "海螺水泥",
           "code": "600585",
           "percent": 7.68,
-          "current_price": 53.44,
-          "change_percentage": -1.46,
+          "current_price": 52.28,
+          "change_percentage": 1.28,
           "xq_symbol": "SH600585",
           "xq_url": "https://xueqiu.com/S/SH600585",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "三棵树",
           "code": "603737",
           "percent": 7.53,
-          "current_price": 142.39,
-          "change_percentage": -2.11,
+          "current_price": 153.11,
+          "change_percentage": 1.06,
           "xq_symbol": "SH603737",
           "xq_url": "https://xueqiu.com/S/SH603737",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "歌尔股份",
           "code": "002241",
           "percent": 4.96,
-          "current_price": 37.16,
-          "change_percentage": -2.24,
+          "current_price": 36.74,
+          "change_percentage": -1.55,
           "xq_symbol": "SZ002241",
           "xq_url": "https://xueqiu.com/S/SZ002241",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "中国中免",
           "code": "601888",
           "percent": 3.71,
-          "current_price": 208.03,
-          "change_percentage": 0.13,
+          "current_price": 292.25,
+          "change_percentage": 3.47,
           "xq_symbol": "SH601888",
           "xq_url": "https://xueqiu.com/S/SH601888",
           "amarket": true
@@ -178,31 +178,31 @@
         "name": "邹曦",
         "resume": "    邹曦先生,中国人民银行研究生部金融学硕士,19年证券、基金行业从业经历,具有基金从业资格。2001年5月加入融通基金管理有限公司,曾任行业研究员、基金经理、研究部总经理、权益投资部总经理、融通行业景气证券投资基金基金经理(2007年6月25日至2012年1月18日)、融通内需驱动混合型证券投资基金基金经理(2009年4月22日至2011年1月21日)、融通新能源汽车主题精选灵活配置混合型证券投资基金基金经理(2018年6月15日至2019年6月19日),现任公司副总经理兼权益投资总监、融通行业景气证券投资基金基金经理(2012年7月3日起至今)、融通领先成长混合型证券投资基金(LOF)基金经理(2017年2月18日起至今)、融通通乾研究精选灵活配置混合型证券投资基金基金经理(2020年1月2日起至今)、融通产业趋势股票型证券投资基金基金经理(2020年5月9日起至今)。",
         "college": "中国人民银行研究生部",
-        "work_year": "19",
+        "work_year": "20",
         "achievement_list": [
           {
             "fund_code": "009277",
             "fundsname": "融通行业景气混合C",
             "post_date": "2020-05-13",
-            "cp_rate": 30.5314
+            "cp_rate": 38.6473
           },
           {
             "fund_code": "008382",
             "fundsname": "融通产业趋势股票",
             "post_date": "2020-05-09",
-            "cp_rate": 19.5556
+            "cp_rate": 27.4884
           },
           {
             "fund_code": "009241",
             "fundsname": "融通领先成长混合(LOF)C",
             "post_date": "2020-04-01",
-            "cp_rate": 52.749
+            "cp_rate": 64.6215
           },
           {
             "fund_code": "002989",
             "fundsname": "融通通乾研究精选混合",
             "post_date": "2020-01-02",
-            "cp_rate": 51.1235
+            "cp_rate": 59.8179
           },
           {
             "fund_code": "005668",
@@ -215,13 +215,13 @@
             "fund_code": "161610",
             "fundsname": "融通领先成长混合(LOF)A/B",
             "post_date": "2017-02-18",
-            "cp_rate": 122.8531
+            "cp_rate": 140.3679
           },
           {
             "fund_code": "161606",
             "fundsname": "融通行业景气混合A/B",
             "post_date": "2012-07-03",
-            "cp_rate": 292.0462
+            "cp_rate": 316.5024
           },
           {
             "fund_code": "161611",
@@ -239,8 +239,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

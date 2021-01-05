@@ -15,8 +15,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 6.34,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "比亚迪",
           "code": "002594",
           "percent": 6.01,
-          "current_price": 177.97,
-          "change_percentage": 1.53,
+          "current_price": 206.76,
+          "change_percentage": 6.41,
           "xq_symbol": "SZ002594",
           "xq_url": "https://xueqiu.com/S/SZ002594",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "三花智控",
           "code": "002050",
           "percent": 4.65,
-          "current_price": 24.3,
-          "change_percentage": 2.84,
+          "current_price": 27.12,
+          "change_percentage": 10.02,
           "xq_symbol": "SZ002050",
           "xq_url": "https://xueqiu.com/S/SZ002050",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "汇川技术",
           "code": "300124",
           "percent": 4.28,
-          "current_price": 85.58,
-          "change_percentage": 1.04,
+          "current_price": 95.59,
+          "change_percentage": 2.45,
           "xq_symbol": "SZ300124",
           "xq_url": "https://xueqiu.com/S/SZ300124",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "亿纬锂能",
           "code": "300014",
           "percent": 4.1,
-          "current_price": 63.71,
-          "change_percentage": 4.17,
+          "current_price": 93.49,
+          "change_percentage": 14.71,
           "xq_symbol": "SZ300014",
           "xq_url": "https://xueqiu.com/S/SZ300014",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "宏发股份",
           "code": "600885",
           "percent": 3.72,
-          "current_price": 50.51,
-          "change_percentage": 0.3,
+          "current_price": 58.27,
+          "change_percentage": 7.47,
           "xq_symbol": "SH600885",
           "xq_url": "https://xueqiu.com/S/SH600885",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "欣旺达",
           "code": "300207",
           "percent": 3.56,
-          "current_price": 29.45,
-          "change_percentage": 7.05,
+          "current_price": 31.74,
+          "change_percentage": 3.35,
           "xq_symbol": "SZ300207",
           "xq_url": "https://xueqiu.com/S/SZ300207",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "伟明环保",
           "code": "603568",
           "percent": 3.51,
-          "current_price": 21.38,
-          "change_percentage": -0.23,
+          "current_price": 18.92,
+          "change_percentage": -0.05,
           "xq_symbol": "SH603568",
           "xq_url": "https://xueqiu.com/S/SH603568",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "赣锋锂业",
           "code": "002460",
           "percent": 2.99,
-          "current_price": 82.24,
-          "change_percentage": 3.06,
+          "current_price": 111.32,
+          "change_percentage": 10,
           "xq_symbol": "SZ002460",
           "xq_url": "https://xueqiu.com/S/SZ002460",
           "amarket": true
@@ -105,7 +105,7 @@
           "name": "华域汽车",
           "code": "600741",
           "percent": 2.71,
-          "current_price": 30.5,
+          "current_price": 29.31,
           "change_percentage": 1.7,
           "xq_symbol": "SH600741",
           "xq_url": "https://xueqiu.com/S/SH600741",
@@ -183,7 +183,7 @@
             "fund_code": "000696",
             "fundsname": "汇添富环保行业股票型",
             "post_date": "2020-05-20",
-            "cp_rate": 55.7677
+            "cp_rate": 78.043
           }
         ]
       }

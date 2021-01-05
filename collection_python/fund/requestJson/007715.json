@@ -107,13 +107,13 @@
             "fund_code": "009535",
             "fundsname": "南方升元中短利率债C",
             "post_date": "2020-06-16",
-            "cp_rate": 0.8597
+            "cp_rate": 1.6795
           },
           {
             "fund_code": "009534",
             "fundsname": "南方升元中短利率债A",
             "post_date": "2020-06-16",
-            "cp_rate": 1
+            "cp_rate": 1.83
           },
           {
             "fund_code": "008772",
@@ -125,55 +125,55 @@
             "fund_code": "008771",
             "fundsname": "南方昭元债券A",
             "post_date": "2020-06-12",
-            "cp_rate": 1.03
+            "cp_rate": 1.85
           },
           {
             "fund_code": "008744",
             "fundsname": "南方集利18个月债券C",
             "post_date": "2020-03-26",
-            "cp_rate": 2.59
+            "cp_rate": 3.28
           },
           {
             "fund_code": "008743",
             "fundsname": "南方集利18个月债券A",
             "post_date": "2020-03-26",
-            "cp_rate": 2.87
+            "cp_rate": 3.6
           },
           {
             "fund_code": "008039",
             "fundsname": "南方创利3个月定开债",
             "post_date": "2020-01-02",
-            "cp_rate": 0.8
+            "cp_rate": 1.3
           },
           {
             "fund_code": "005393",
             "fundsname": "南方卓利A",
             "post_date": "2019-11-20",
-            "cp_rate": 2.4143
+            "cp_rate": 3.0544
           },
           {
             "fund_code": "007715",
             "fundsname": "南方贺元利率债C",
             "post_date": "2019-08-30",
-            "cp_rate": 3.5
+            "cp_rate": 4.22
           },
           {
             "fund_code": "007714",
             "fundsname": "南方贺元利率债A",
             "post_date": "2019-08-30",
-            "cp_rate": 4.0296
+            "cp_rate": 4.7795
           },
           {
             "fund_code": "006996",
             "fundsname": "南方惠利C",
             "post_date": "2019-03-26",
-            "cp_rate": 5.51
+            "cp_rate": 6.47
           },
           {
             "fund_code": "006995",
             "fundsname": "南方惠利A",
             "post_date": "2019-03-26",
-            "cp_rate": 6.22
+            "cp_rate": 7.22
           },
           {
             "fund_code": "005470",
@@ -227,25 +227,25 @@
             "fund_code": "001988",
             "fundsname": "南方纯元债券A",
             "post_date": "2017-07-28",
-            "cp_rate": 13.9445
+            "cp_rate": 14.7572
           },
           {
             "fund_code": "001989",
             "fundsname": "南方纯元债券C",
             "post_date": "2017-07-28",
-            "cp_rate": 11.9643
+            "cp_rate": 12.748
           },
           {
             "fund_code": "202108",
             "fundsname": "南方润元纯债债券A/B",
             "post_date": "2017-07-28",
-            "cp_rate": 13.0711
+            "cp_rate": 14.0402
           },
           {
             "fund_code": "202110",
             "fundsname": "南方润元纯债债券C",
             "post_date": "2017-07-28",
-            "cp_rate": 11.5401
+            "cp_rate": 12.4699
           },
           {
             "fund_code": "004443",
@@ -263,8 +263,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

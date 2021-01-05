@@ -15,8 +15,8 @@
           "name": "鸿远电子",
           "code": "603267",
           "percent": 6.35,
-          "current_price": 109.5,
-          "change_percentage": 1.01,
+          "current_price": 141.64,
+          "change_percentage": 10,
           "xq_symbol": "SH603267",
           "xq_url": "https://xueqiu.com/S/SH603267",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "金山办公",
           "code": "688111",
           "percent": 5.22,
-          "current_price": 349.5,
-          "change_percentage": -2.75,
+          "current_price": 420,
+          "change_percentage": 2.19,
           "xq_symbol": "SH688111",
           "xq_url": "https://xueqiu.com/S/SH688111",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 5.09,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "恒生电子",
           "code": "600570",
           "percent": 5.03,
-          "current_price": 98.15,
-          "change_percentage": 1.31,
+          "current_price": 106.17,
+          "change_percentage": 1.21,
           "xq_symbol": "SH600570",
           "xq_url": "https://xueqiu.com/S/SH600570",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "东方财富",
           "code": "300059",
           "percent": 4.95,
-          "current_price": 28.05,
-          "change_percentage": 1.08,
+          "current_price": 32.2,
+          "change_percentage": 3.87,
           "xq_symbol": "SZ300059",
           "xq_url": "https://xueqiu.com/S/SZ300059",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "航发动力",
           "code": "600893",
           "percent": 4.91,
-          "current_price": 46.99,
-          "change_percentage": -1.49,
+          "current_price": 65.29,
+          "change_percentage": 10.01,
           "xq_symbol": "SH600893",
           "xq_url": "https://xueqiu.com/S/SH600893",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "航天发展",
           "code": "000547",
           "percent": 4.91,
-          "current_price": 22.8,
-          "change_percentage": 0.31,
+          "current_price": 29.88,
+          "change_percentage": 8.65,
           "xq_symbol": "SZ000547",
           "xq_url": "https://xueqiu.com/S/SZ000547",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "同花顺",
           "code": "300033",
           "percent": 4.88,
-          "current_price": 142.22,
-          "change_percentage": 0.25,
+          "current_price": 126.03,
+          "change_percentage": 1.65,
           "xq_symbol": "SZ300033",
           "xq_url": "https://xueqiu.com/S/SZ300033",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "招商证券",
           "code": "600999",
           "percent": 4.73,
-          "current_price": 23.1,
-          "change_percentage": 0.79,
+          "current_price": 23.63,
+          "change_percentage": 1.24,
           "xq_symbol": "SH600999",
           "xq_url": "https://xueqiu.com/S/SH600999",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "兴业证券",
           "code": "601377",
           "percent": 4.72,
-          "current_price": 8.73,
-          "change_percentage": 0.11,
+          "current_price": 8.75,
+          "change_percentage": 0.81,
           "xq_symbol": "SH601377",
           "xq_url": "https://xueqiu.com/S/SH601377",
           "amarket": true
@@ -174,25 +174,25 @@
         "name": "龙宇飞",
         "resume": "龙宇飞先生,吉林大学理学学士、中国科学院连读博士。曾就职于中信建投证券股份有限公司、中国人寿资产管理有限公司、中欧基金管理有限公司。2017年进入长城基金管理有限公司,曾任“长城久嘉创新成长灵活配置混合型证券投资基金”基金经理助理。自2017年10月至今任“长城久嘉创新成长灵活配置混合型证券投资基金”、“长城消费增值混合型证券投资基金”基金经理,自2018年4月至今任“长城双动力混合型证券投资基金”基金经理。",
         "college": "中国科学院",
-        "work_year": "9",
+        "work_year": "10",
         "achievement_list": [
           {
             "fund_code": "200010",
             "fundsname": "长城双动力混合",
             "post_date": "2018-04-27",
-            "cp_rate": 21.1051
+            "cp_rate": 19.8377
           },
           {
             "fund_code": "200006",
             "fundsname": "长城消费增值混合",
             "post_date": "2017-10-18",
-            "cp_rate": 70.258
+            "cp_rate": 78.9194
           },
           {
             "fund_code": "004666",
             "fundsname": "长城久嘉创新成长混合",
             "post_date": "2017-10-18",
-            "cp_rate": 42.2504
+            "cp_rate": 37.2693
           }
         ]
       },
@@ -200,19 +200,19 @@
         "name": "尤国梁",
         "resume": "    尤国梁先生,山东轻工业学院工学学士。曾就职于民生证券济南营业部、申万宏源证券济南营业部、上海宏流投资管理有限公司、天元天财(北京)资产管理有限公司、北京中金众鑫投资管理有限公司。2019年8月加入长城基金管理有限公司,曾任北京投资管理部研究员。自2019年10月至今任“长城双动力混合型证券投资基金”、“长城久嘉创新成长灵活配置混合型证券投资基金”基金经理。",
         "college": "山东轻工业学院",
-        "work_year": "10",
+        "work_year": "11",
         "achievement_list": [
           {
             "fund_code": "200010",
             "fundsname": "长城双动力混合",
             "post_date": "2019-10-24",
-            "cp_rate": 9.5716
+            "cp_rate": 8.4249
           },
           {
             "fund_code": "004666",
             "fundsname": "长城久嘉创新成长混合",
             "post_date": "2019-10-24",
-            "cp_rate": 58.1118
+            "cp_rate": 52.5753
           }
         ]
       }

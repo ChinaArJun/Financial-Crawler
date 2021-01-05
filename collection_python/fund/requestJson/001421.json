@@ -15,8 +15,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 1.81,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "中信建投",
           "code": "601066",
           "percent": 1.79,
-          "current_price": 42.79,
-          "change_percentage": -1.5,
+          "current_price": 41.9,
+          "change_percentage": -0.24,
           "xq_symbol": "SH601066",
           "xq_url": "https://xueqiu.com/S/SH601066",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 1.72,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "歌尔股份",
           "code": "002241",
           "percent": 1.64,
-          "current_price": 37.16,
-          "change_percentage": -2.24,
+          "current_price": 36.74,
+          "change_percentage": -1.55,
           "xq_symbol": "SZ002241",
           "xq_url": "https://xueqiu.com/S/SZ002241",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "东方财富",
           "code": "300059",
           "percent": 1.59,
-          "current_price": 28.05,
-          "change_percentage": 1.08,
+          "current_price": 32.2,
+          "change_percentage": 3.87,
           "xq_symbol": "SZ300059",
           "xq_url": "https://xueqiu.com/S/SZ300059",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "上海机场",
           "code": "600009",
           "percent": 1.58,
-          "current_price": 78.89,
-          "change_percentage": -0.97,
+          "current_price": 77.49,
+          "change_percentage": 2.42,
           "xq_symbol": "SH600009",
           "xq_url": "https://xueqiu.com/S/SH600009",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "璞泰来",
           "code": "603659",
           "percent": 1.51,
-          "current_price": 111.38,
-          "change_percentage": 5.71,
+          "current_price": 123.63,
+          "change_percentage": 10,
           "xq_symbol": "SH603659",
           "xq_url": "https://xueqiu.com/S/SH603659",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "浙商证券",
           "code": "601878",
           "percent": 1.5,
-          "current_price": 16.22,
-          "change_percentage": 0.12,
+          "current_price": 15.17,
+          "change_percentage": -0.85,
           "xq_symbol": "SH601878",
           "xq_url": "https://xueqiu.com/S/SH601878",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "移远通信",
           "code": "603236",
           "percent": 1.49,
-          "current_price": 187.11,
-          "change_percentage": -1.26,
+          "current_price": 191.5,
+          "change_percentage": 2.44,
           "xq_symbol": "SH603236",
           "xq_url": "https://xueqiu.com/S/SH603236",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "中国中免",
           "code": "601888",
           "percent": 1.46,
-          "current_price": 208.03,
-          "change_percentage": 0.13,
+          "current_price": 292.25,
+          "change_percentage": 3.47,
           "xq_symbol": "SH601888",
           "xq_url": "https://xueqiu.com/S/SH601888",
           "amarket": true
@@ -178,19 +178,19 @@
         "name": "李佳亮",
         "resume": "    李佳亮先生,美国南加州大学金融工程硕士,注册金融分析师(CFA),具有基金从业资格。2012年8月加入南方基金,任数量化投资部研究员;2015年5月至2016年8月,任量化投资经理助理;2017年4月至2018年9月,任南方荣优基金经理;2016年8月至2019年1月,任南方消费基金经理;2017年11月至2019年6月,任大数据100、大数据300基金经理;2016年11月至今,任南方中证500增强基金经理;2016年12月至今,任南方绝对收益基金经理;2017年11月至今,任南方量化成长基金经理。",
         "college": "美国南加州大学",
-        "work_year": "8",
+        "work_year": "9",
         "achievement_list": [
           {
             "fund_code": "008057",
             "fundsname": "南方上证50指数增强C",
             "post_date": "2020-04-23",
-            "cp_rate": 34.06
+            "cp_rate": 47.42
           },
           {
             "fund_code": "008056",
             "fundsname": "南方上证50指数增强A",
             "post_date": "2020-04-23",
-            "cp_rate": 34.4
+            "cp_rate": 47.83
           },
           {
             "fund_code": "004344",
@@ -217,7 +217,7 @@
             "fund_code": "001421",
             "fundsname": "南方量化成长",
             "post_date": "2017-11-09",
-            "cp_rate": 17.9803
+            "cp_rate": 29.064
           },
           {
             "fund_code": "001113",
@@ -244,19 +244,19 @@
             "fund_code": "000844",
             "fundsname": "南方绝对收益策略定期开放混合",
             "post_date": "2016-12-30",
-            "cp_rate": 29.7309
+            "cp_rate": 32.7391
           },
           {
             "fund_code": "002907",
             "fundsname": "南方中证500增强C",
             "post_date": "2016-11-23",
-            "cp_rate": 26.8
+            "cp_rate": 31.3
           },
           {
             "fund_code": "002906",
             "fundsname": "南方中证500增强A",
             "post_date": "2016-11-23",
-            "cp_rate": 28.1
+            "cp_rate": 32.7
           },
           {
             "fund_code": "150050",

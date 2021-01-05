@@ -16,8 +16,8 @@
           "name": "天赐材料",
           "code": "002709",
           "percent": 5.93,
-          "current_price": 84.25,
-          "change_percentage": 10,
+          "current_price": 114.03,
+          "change_percentage": 9.86,
           "xq_symbol": "SZ002709",
           "xq_url": "https://xueqiu.com/S/SZ002709",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "绿的谐波",
           "code": "688017",
           "percent": 5.33,
-          "current_price": 119.8,
-          "change_percentage": -0.17,
+          "current_price": 152.43,
+          "change_percentage": 4.05,
           "xq_symbol": "SH688017",
           "xq_url": "https://xueqiu.com/S/SH688017",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 5.3,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "芒果超媒",
           "code": "300413",
           "percent": 4.98,
-          "current_price": 65.95,
-          "change_percentage": -1.54,
+          "current_price": 72.88,
+          "change_percentage": 0.52,
           "xq_symbol": "SZ300413",
           "xq_url": "https://xueqiu.com/S/SZ300413",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "鹏鼎控股",
           "code": "002938",
           "percent": 4.71,
-          "current_price": 54.51,
-          "change_percentage": -2.14,
+          "current_price": 47.88,
+          "change_percentage": -3.6,
           "xq_symbol": "SZ002938",
           "xq_url": "https://xueqiu.com/S/SZ002938",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "通威股份",
           "code": "600438",
           "percent": 4.24,
-          "current_price": 29.2,
-          "change_percentage": -1.85,
+          "current_price": 41.65,
+          "change_percentage": 8.35,
           "xq_symbol": "SH600438",
           "xq_url": "https://xueqiu.com/S/SH600438",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "阳光电源",
           "code": "300274",
           "percent": 3.65,
-          "current_price": 51.88,
-          "change_percentage": 6.31,
+          "current_price": 78.19,
+          "change_percentage": 8.18,
           "xq_symbol": "SZ300274",
           "xq_url": "https://xueqiu.com/S/SZ300274",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "福耀玻璃",
           "code": "600660",
           "percent": 3.07,
-          "current_price": 38.74,
-          "change_percentage": 0,
+          "current_price": 50.95,
+          "change_percentage": 6.04,
           "xq_symbol": "SH600660",
           "xq_url": "https://xueqiu.com/S/SH600660",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "东方财富",
           "code": "300059",
           "percent": 3,
-          "current_price": 28.05,
-          "change_percentage": 1.08,
+          "current_price": 32.2,
+          "change_percentage": 3.87,
           "xq_symbol": "SZ300059",
           "xq_url": "https://xueqiu.com/S/SZ300059",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "南极电商",
           "code": "002127",
           "percent": 2.92,
-          "current_price": 15.72,
-          "change_percentage": -2.84,
+          "current_price": 12.31,
+          "change_percentage": -10.01,
           "xq_symbol": "SZ002127",
           "xq_url": "https://xueqiu.com/S/SZ002127",
           "amarket": true
@@ -187,37 +187,37 @@
       {
         "name": "邵卓",
         "resume": "    邵卓先生,权益投资部副总经理,硕士。2006年4月至2006年12月任明基(西门子)移动通信研发中心软件工程师;2007年2月至2010年7月任IBM中国软件实验室软件工程师;2010年7月加入广发证券公司,任计算机行业研究员。邵卓于2011年9月加入我公司研究部,历任研究部研究员、研究主管,权益投资部基金经理、权益投资部联席投资官兼研究部首席研究官、权益投资部副总经理。2015年3月24日起任建信信息产业股票型证券投资基金的基金经理;2015年5月22日起任建信创新中国混合型证券投资基金的基金经理;2017年12月19日起任建信安心保本三号混合型证券投资基金的基金经理,该基金于2018年1月11日起转型为建信裕利灵活配置混合型证券投资基金,邵卓继续担任该基金的基金经理;2020年4月14日起任建信科技创新混合型证券投资基金的基金经理;2020年7月17日起任建信潜力新蓝筹股票型证券投资基金、建信中小盘先锋股票型证券投资基金的基金经理。",
-        "work_year": "10",
+        "work_year": "11",
         "achievement_list": [
           {
             "fund_code": "000729",
             "fundsname": "建信中小盘先锋股票",
             "post_date": "2020-07-17",
-            "cp_rate": 15.2559
+            "cp_rate": 24.311
           },
           {
             "fund_code": "000756",
             "fundsname": "建信潜力新蓝筹股票",
             "post_date": "2020-07-17",
-            "cp_rate": 15.3527
+            "cp_rate": 25.3631
           },
           {
             "fund_code": "008962",
             "fundsname": "建信科技创新混合A",
             "post_date": "2020-04-14",
-            "cp_rate": 33.4481
+            "cp_rate": 51.0331
           },
           {
             "fund_code": "008963",
             "fundsname": "建信科技创新混合C",
             "post_date": "2020-04-14",
-            "cp_rate": 33.0155
+            "cp_rate": 50.4997
           },
           {
             "fund_code": "002281",
             "fundsname": "建信裕利灵活配置混合",
             "post_date": "2018-01-11",
-            "cp_rate": 58.643
+            "cp_rate": 76.8652
           },
           {
             "fund_code": "002281",
@@ -230,13 +230,13 @@
             "fund_code": "000308",
             "fundsname": "建信创新中国混合",
             "post_date": "2015-05-22",
-            "cp_rate": 94.199
+            "cp_rate": 115.975
           },
           {
             "fund_code": "001070",
             "fundsname": "建信信息产业股票",
             "post_date": "2015-03-24",
-            "cp_rate": 130.1397
+            "cp_rate": 155.988
           }
         ]
       }

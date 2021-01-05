@@ -2091,7 +2091,7 @@
                 rtag = /<\w+\b(?:(["'])[^"]*?(\1)|[^>])*>/i,
                 ramp = /&amp;/g
         //IE6-8解析HTML5新标签，会将它分解两个元素节点与一个文本节点
-        //<body><section>ddd</section></body>
+        //<body><Process&Threading>ddd</Process&Threading></body>
         //        window.onload = function() {
         //            var body = document.body
         //            for (var i = 0, el; el = body.children[i++]; ) {

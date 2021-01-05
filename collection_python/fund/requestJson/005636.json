@@ -16,8 +16,8 @@
           "name": "中国平安",
           "code": "601318",
           "percent": 3.81,
-          "current_price": 88.05,
-          "change_percentage": -2.58,
+          "current_price": 85.18,
+          "change_percentage": -2.07,
           "xq_symbol": "SH601318",
           "xq_url": "https://xueqiu.com/S/SH601318",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 3,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "平安银行",
           "code": "000001",
           "percent": 2.69,
-          "current_price": 18.71,
-          "change_percentage": -1.06,
+          "current_price": 18.6,
+          "change_percentage": -3.83,
           "xq_symbol": "SZ000001",
           "xq_url": "https://xueqiu.com/S/SZ000001",
           "amarket": true
@@ -46,7 +46,7 @@
           "name": "交通银行",
           "code": "601328",
           "percent": 2.4,
-          "current_price": 4.64,
+          "current_price": 4.47,
           "change_percentage": -0.22,
           "xq_symbol": "SH601328",
           "xq_url": "https://xueqiu.com/S/SH601328",
@@ -56,8 +56,8 @@
           "name": "中信证券",
           "code": "600030",
           "percent": 2.4,
-          "current_price": 30.01,
-          "change_percentage": 0,
+          "current_price": 29.18,
+          "change_percentage": -0.75,
           "xq_symbol": "SH600030",
           "xq_url": "https://xueqiu.com/S/SH600030",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "兴业银行",
           "code": "601166",
           "percent": 2.07,
-          "current_price": 20.26,
-          "change_percentage": -1.17,
+          "current_price": 19.65,
+          "change_percentage": -5.85,
           "xq_symbol": "SH601166",
           "xq_url": "https://xueqiu.com/S/SH601166",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "美的集团",
           "code": "000333",
           "percent": 2.06,
-          "current_price": 86.7,
-          "change_percentage": -1.54,
+          "current_price": 99.01,
+          "change_percentage": 0.58,
           "xq_symbol": "SZ000333",
           "xq_url": "https://xueqiu.com/S/SZ000333",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "成都银行",
           "code": "601838",
           "percent": 1.96,
-          "current_price": 11.35,
-          "change_percentage": -1.3,
+          "current_price": 9.81,
+          "change_percentage": -8.06,
           "xq_symbol": "SH601838",
           "xq_url": "https://xueqiu.com/S/SH601838",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "华夏银行",
           "code": "600015",
           "percent": 1.84,
-          "current_price": 6.43,
-          "change_percentage": -0.16,
+          "current_price": 6.21,
+          "change_percentage": -0.64,
           "xq_symbol": "SH600015",
           "xq_url": "https://xueqiu.com/S/SH600015",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "贵阳银行",
           "code": "601997",
           "percent": 1.69,
-          "current_price": 8.07,
-          "change_percentage": -1.1,
+          "current_price": 7.75,
+          "change_percentage": -2.52,
           "xq_symbol": "SH601997",
           "xq_url": "https://xueqiu.com/S/SH601997",
           "amarket": true
@@ -172,37 +172,37 @@
         "name": "黄瑞庆",
         "resume": "    黄瑞庆先生,博士。2002年起先后在融通基金、长城基金、长盛基金、财通基金、合众资产管理股份有限公司从事研究、投资、管理等工作。2013年加入博时基金管理有限公司,历任股票投资部ETF及量化组投资副总监、基金经理助理、股票投资部量化投资组投资副总监(主持工作)、股票投资部量化投资组投资总监、博时价值增长混合基金(2015.2.9-2016.10.24)、博时价值增长贰号混合基金(2015.2.9-2016.10.24)的基金经理。现任指数与量化投资部总经理兼博时特许价值混合基金(2015.2.9-至今)、博时量化平衡混合基金(2017.5.4-至今)、博时量化多策略股票基金(2018.4.3-至今)的基金经理、博时量化价值股票型证券投资基金(2018年6月26日—至今)的基金经理。",
         "college": "厦门大学",
-        "work_year": "18",
+        "work_year": "19",
         "achievement_list": [
           {
             "fund_code": "005961",
             "fundsname": "博时量化价值股票C",
             "post_date": "2018-06-26",
-            "cp_rate": 36.07
+            "cp_rate": 37.39
           },
           {
             "fund_code": "005960",
             "fundsname": "博时量化价值股票A",
             "post_date": "2018-06-26",
-            "cp_rate": 38.77
+            "cp_rate": 40.19
           },
           {
             "fund_code": "005636",
             "fundsname": "博时量化多策略股票C",
             "post_date": "2018-04-03",
-            "cp_rate": 39.99
+            "cp_rate": 43.73
           },
           {
             "fund_code": "005635",
             "fundsname": "博时量化多策略股票A",
             "post_date": "2018-04-03",
-            "cp_rate": 43.03
+            "cp_rate": 46.93
           },
           {
             "fund_code": "004495",
             "fundsname": "博时量化平衡混合",
             "post_date": "2017-05-04",
-            "cp_rate": 34.84
+            "cp_rate": 35.13
           },
           {
             "fund_code": "960026",
@@ -273,43 +273,43 @@
         "name": "林景艺",
         "resume": "    林景艺女士,硕士。2010年从北京大学硕士研究生毕业后加入博时基金管理有限公司。历任量化分析师、高级研究员兼基金经理助理,现任博时国企改革股票基金(2015.5.20-至今)兼博时量化平衡混合基金(2017.5.4-至今)、博时量化多策略股票基金(2018.4.3-至今)、博时量化价值股票型证券投资基金(2018年6月26日—至今)的基金经理。",
         "college": "北京大学",
-        "work_year": "10",
+        "work_year": "11",
         "achievement_list": [
           {
             "fund_code": "005960",
             "fundsname": "博时量化价值股票A",
             "post_date": "2018-06-26",
-            "cp_rate": 38.77
+            "cp_rate": 40.19
           },
           {
             "fund_code": "005961",
             "fundsname": "博时量化价值股票C",
             "post_date": "2018-06-26",
-            "cp_rate": 36.07
+            "cp_rate": 37.39
           },
           {
             "fund_code": "005635",
             "fundsname": "博时量化多策略股票A",
             "post_date": "2018-04-03",
-            "cp_rate": 43.03
+            "cp_rate": 46.93
           },
           {
             "fund_code": "005636",
             "fundsname": "博时量化多策略股票C",
             "post_date": "2018-04-03",
-            "cp_rate": 39.99
+            "cp_rate": 43.73
           },
           {
             "fund_code": "004495",
             "fundsname": "博时量化平衡混合",
             "post_date": "2017-05-04",
-            "cp_rate": 34.84
+            "cp_rate": 35.13
           },
           {
             "fund_code": "001277",
             "fundsname": "博时国企改革主题股票",
             "post_date": "2015-05-20",
-            "cp_rate": -4.1502
+            "cp_rate": -0.6917
           }
         ]
       }
@@ -320,8 +320,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 5,
-      "all_buy_days": 2,
-      "all_sale_days": 6
+      "all_sale_days": 6,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

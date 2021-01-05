@@ -15,8 +15,8 @@
           "name": "顺丰控股",
           "code": "002352",
           "percent": 8.73,
-          "current_price": 80.21,
-          "change_percentage": -1.88,
+          "current_price": 90.48,
+          "change_percentage": 2.55,
           "xq_symbol": "SZ002352",
           "xq_url": "https://xueqiu.com/S/SZ002352",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "先达股份",
           "code": "603086",
           "percent": 8.64,
-          "current_price": 17.97,
-          "change_percentage": 0.73,
+          "current_price": 15.58,
+          "change_percentage": 0.19,
           "xq_symbol": "SH603086",
           "xq_url": "https://xueqiu.com/S/SH603086",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "嘉友国际",
           "code": "603871",
           "percent": 8.27,
-          "current_price": 23.39,
-          "change_percentage": -2.17,
+          "current_price": 21.52,
+          "change_percentage": 0.05,
           "xq_symbol": "SH603871",
           "xq_url": "https://xueqiu.com/S/SH603871",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "尚品宅配",
           "code": "300616",
           "percent": 8.19,
-          "current_price": 73.09,
-          "change_percentage": 0.49,
+          "current_price": 90,
+          "change_percentage": 12.98,
           "xq_symbol": "SZ300616",
           "xq_url": "https://xueqiu.com/S/SZ300616",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "中旗股份",
           "code": "300575",
           "percent": 8.07,
-          "current_price": 40.16,
-          "change_percentage": -0.62,
+          "current_price": 38.98,
+          "change_percentage": 1.51,
           "xq_symbol": "SZ300575",
           "xq_url": "https://xueqiu.com/S/SZ300575",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "传音控股",
           "code": "688036",
           "percent": 7.95,
-          "current_price": 142.88,
-          "change_percentage": 4.51,
+          "current_price": 159.61,
+          "change_percentage": 4.91,
           "xq_symbol": "SH688036",
           "xq_url": "https://xueqiu.com/S/SH688036",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "我爱我家",
           "code": "000560",
           "percent": 7.16,
-          "current_price": 3.76,
-          "change_percentage": -1.57,
+          "current_price": 3.9,
+          "change_percentage": -3.94,
           "xq_symbol": "SZ000560",
           "xq_url": "https://xueqiu.com/S/SZ000560",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "佩蒂股份",
           "code": "300673",
           "percent": 5.58,
-          "current_price": 34.21,
-          "change_percentage": -0.55,
+          "current_price": 33.1,
+          "change_percentage": 5.78,
           "xq_symbol": "SZ300673",
           "xq_url": "https://xueqiu.com/S/SZ300673",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "中宠股份",
           "code": "002891",
           "percent": 5.48,
-          "current_price": 56.1,
-          "change_percentage": 1.23,
+          "current_price": 62.99,
+          "change_percentage": 9.57,
           "xq_symbol": "SZ002891",
           "xq_url": "https://xueqiu.com/S/SZ002891",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "新泉股份",
           "code": "603179",
           "percent": 5.44,
-          "current_price": 29.58,
-          "change_percentage": -0.74,
+          "current_price": 37.29,
+          "change_percentage": 10,
           "xq_symbol": "SH603179",
           "xq_url": "https://xueqiu.com/S/SH603179",
           "amarket": true
@@ -173,19 +173,19 @@
       {
         "name": "彭凌志",
         "resume": "    彭凌志,硕士研究生,12年证券基金从业经历。2002年7月至2004年7月在上海良友集团有限责任公司任资产管理部科员,2004年9月至2007年3月在上海交通大学学习,2007年3月至2015年8月在平安资产管理有限责任公司任投资经理。2015年9月加入国泰基金管理有限公司,2015年12月起任国泰互联网+股票型证券投资基金和国泰新经济灵活配置混合型证券投资基金的基金经理,2016年6月至2017年9月任国泰金鹿保本增值混合证券投资基金的基金经理,2017年1月至2018年4月任国泰金泰灵活配置混合型证券投资基金(由国泰金泰平衡混合型证券投资基金变更注册而来)的基金经理,2018年5月起兼任国泰优势行业混合型证券投资基金的基金经理,2019年1月起兼任国泰消费优选股票型证券投资基金的基金经理。",
-        "work_year": "13",
+        "work_year": "14",
         "achievement_list": [
           {
             "fund_code": "005970",
             "fundsname": "国泰消费优选股票",
             "post_date": "2019-01-17",
-            "cp_rate": 84.14
+            "cp_rate": 87.14
           },
           {
             "fund_code": "005819",
             "fundsname": "国泰优势行业混合",
             "post_date": "2018-05-17",
-            "cp_rate": 95.35
+            "cp_rate": 118.71
           },
           {
             "fund_code": "519020",
@@ -212,13 +212,13 @@
             "fund_code": "000742",
             "fundsname": "国泰新经济灵活配置混合",
             "post_date": "2015-12-01",
-            "cp_rate": 129.5084
+            "cp_rate": 155.624
           },
           {
             "fund_code": "001542",
             "fundsname": "国泰互联网+股票",
             "post_date": "2015-12-01",
-            "cp_rate": 147.7705
+            "cp_rate": 177.2705
           }
         ]
       },
@@ -226,19 +226,19 @@
         "name": "李海",
         "resume": "    李海,硕士研究生,9年证券基金从业经历。2005年7月至2007年3月在中国银行中山分行工作。2008年9月至2011年7月在中国人民大学学习。2011年7月加入国泰基金管理有限公司,历任研究员和基金经理助理。2016年6月至2019年1月任国泰金鹿保本增值混合证券投资基金的基金经理,2017年1月起兼任国泰金泰灵活配置混合型证券投资基金(由国泰金泰平衡混合型证券投资基金变更注册而来)的基金经理,2017年8月至2019年8月任国泰智能汽车股票型证券投资基金的基金经理,2017年12月起兼任国泰可转债债券型证券投资基金的基金经理,2019年1月起兼任国泰金鹿混合型证券投资基金(由国泰金鹿保本增值混合证券投资基金转型而来)的基金经理,2019年8月起兼任国泰消费优选股票型证券投资基金的基金经理。",
         "college": "中国人民大学",
-        "work_year": "9",
+        "work_year": "10",
         "achievement_list": [
           {
             "fund_code": "005970",
             "fundsname": "国泰消费优选股票",
             "post_date": "2019-08-15",
-            "cp_rate": 69.9806
+            "cp_rate": 72.7499
           },
           {
             "fund_code": "020018",
             "fundsname": "国泰金鹿混合",
             "post_date": "2019-01-15",
-            "cp_rate": 102.5517
+            "cp_rate": 108.5399
           },
           {
             "fund_code": "005246",
@@ -258,13 +258,13 @@
             "fund_code": "519020",
             "fundsname": "国泰金泰灵活配置混合A",
             "post_date": "2017-01-24",
-            "cp_rate": 89.1117
+            "cp_rate": 91.5149
           },
           {
             "fund_code": "519022",
             "fundsname": "国泰金泰灵活配置混合C",
             "post_date": "2017-01-24",
-            "cp_rate": 90.9744
+            "cp_rate": 93.3812
           },
           {
             "fund_code": "020018",

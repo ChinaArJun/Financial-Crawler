@@ -15,8 +15,8 @@
           "name": "美的集团",
           "code": "000333",
           "percent": 7.29,
-          "current_price": 86.7,
-          "change_percentage": -1.54,
+          "current_price": 99.01,
+          "change_percentage": 0.58,
           "xq_symbol": "SZ000333",
           "xq_url": "https://xueqiu.com/S/SZ000333",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 6.73,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "亿纬锂能",
           "code": "300014",
           "percent": 5.9,
-          "current_price": 63.71,
-          "change_percentage": 4.17,
+          "current_price": 93.49,
+          "change_percentage": 14.71,
           "xq_symbol": "SZ300014",
           "xq_url": "https://xueqiu.com/S/SZ300014",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "海尔智家",
           "code": "600690",
           "percent": 5.05,
-          "current_price": 26.97,
-          "change_percentage": -0.19,
+          "current_price": 30.01,
+          "change_percentage": 2.74,
           "xq_symbol": "SH600690",
           "xq_url": "https://xueqiu.com/S/SH600690",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "康泰生物",
           "code": "300601",
           "percent": 4.67,
-          "current_price": 158.41,
-          "change_percentage": -1.36,
+          "current_price": 165.98,
+          "change_percentage": -4.88,
           "xq_symbol": "SZ300601",
           "xq_url": "https://xueqiu.com/S/SZ300601",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "长春高新",
           "code": "000661",
           "percent": 4.18,
-          "current_price": 388,
-          "change_percentage": 0.19,
+          "current_price": 473.45,
+          "change_percentage": 5.47,
           "xq_symbol": "SZ000661",
           "xq_url": "https://xueqiu.com/S/SZ000661",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "歌尔股份",
           "code": "002241",
           "percent": 3.58,
-          "current_price": 37.16,
-          "change_percentage": -2.24,
+          "current_price": 36.74,
+          "change_percentage": -1.55,
           "xq_symbol": "SZ002241",
           "xq_url": "https://xueqiu.com/S/SZ002241",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "智飞生物",
           "code": "300122",
           "percent": 3.51,
-          "current_price": 139.38,
-          "change_percentage": -0.39,
+          "current_price": 143.22,
+          "change_percentage": -3.17,
           "xq_symbol": "SZ300122",
           "xq_url": "https://xueqiu.com/S/SZ300122",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "欧派家居",
           "code": "603833",
           "percent": 3.29,
-          "current_price": 131,
-          "change_percentage": -0.56,
+          "current_price": 130.32,
+          "change_percentage": -3.11,
           "xq_symbol": "SH603833",
           "xq_url": "https://xueqiu.com/S/SH603833",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "五粮液",
           "code": "000858",
           "percent": 2.86,
-          "current_price": 272,
-          "change_percentage": 0.65,
+          "current_price": 298.05,
+          "change_percentage": 2.12,
           "xq_symbol": "SZ000858",
           "xq_url": "https://xueqiu.com/S/SZ000858",
           "amarket": true
@@ -162,31 +162,31 @@
         "name": "高松",
         "resume": "    高松先生:北京大学医学部博士,加拿大多伦多大学医学院博士后,10年证券从业经历,曾于国金通用基金公司(筹)研究部担任研究员;于方正富邦基金管理有限公司研究部、投资部先后担任研究员、基金经理、权益资产条线投资决策委员会成员。2016年7月加入民生加银基金管理有限公司,担任基金经理一职。自2016年12月至今担任民生加银养老服务灵活配置混合型证券投资基金基金经理;自2017年3月至今担任民生加银品牌蓝筹灵活配置混合型证券投资基金基金经理;自2019年8月至今担任民生加银优选股票型证券投资基金基金经理;自2020年4月至今担任民生加银品质消费股票型证券投资基金基金经理;自2019年3月至2020年5月担任民生加银信用双利债券型证券投资基金基金经理。",
         "college": "多伦多大学",
-        "work_year": "10",
+        "work_year": "11",
         "achievement_list": [
           {
             "fund_code": "009898",
             "fundsname": "民生加银医药健康股票",
             "post_date": "2020-08-28",
-            "cp_rate": 0
+            "cp_rate": 3.01
           },
           {
             "fund_code": "007965",
             "fundsname": "民生加银品质消费股票A",
             "post_date": "2020-04-23",
-            "cp_rate": 37.28
+            "cp_rate": 52.38
           },
           {
             "fund_code": "007966",
             "fundsname": "民生加银品质消费股票C",
             "post_date": "2020-04-23",
-            "cp_rate": 36.94
+            "cp_rate": 51.96
           },
           {
             "fund_code": "000884",
             "fundsname": "民生加银优选股票",
             "post_date": "2019-08-12",
-            "cp_rate": 92.963
+            "cp_rate": 113.7704
           },
           {
             "fund_code": "690006",
@@ -206,13 +206,13 @@
             "fund_code": "690001",
             "fundsname": "民生加银品牌蓝筹混合",
             "post_date": "2017-03-31",
-            "cp_rate": 104.4201
+            "cp_rate": 124.8849
           },
           {
             "fund_code": "002547",
             "fundsname": "民生养老服务",
             "post_date": "2016-12-05",
-            "cp_rate": 137.2763
+            "cp_rate": 164.4135
           },
           {
             "fund_code": "730002",

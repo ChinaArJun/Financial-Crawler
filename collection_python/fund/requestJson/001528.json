@@ -15,8 +15,8 @@
           "name": "玲珑轮胎",
           "code": "601966",
           "percent": 5.62,
-          "current_price": 33.4,
-          "change_percentage": -2.34,
+          "current_price": 38.68,
+          "change_percentage": 9.98,
           "xq_symbol": "SH601966",
           "xq_url": "https://xueqiu.com/S/SH601966",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "伊利股份",
           "code": "600887",
           "percent": 5.3,
-          "current_price": 40.68,
-          "change_percentage": 1.24,
+          "current_price": 47.36,
+          "change_percentage": 6.74,
           "xq_symbol": "SH600887",
           "xq_url": "https://xueqiu.com/S/SH600887",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "美的集团",
           "code": "000333",
           "percent": 4.7,
-          "current_price": 86.7,
-          "change_percentage": -1.54,
+          "current_price": 99.01,
+          "change_percentage": 0.58,
           "xq_symbol": "SZ000333",
           "xq_url": "https://xueqiu.com/S/SZ000333",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "克明面业",
           "code": "002661",
           "percent": 4.39,
-          "current_price": 20.52,
-          "change_percentage": -0.48,
+          "current_price": 18.86,
+          "change_percentage": 5.96,
           "xq_symbol": "SZ002661",
           "xq_url": "https://xueqiu.com/S/SZ002661",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "拓邦股份",
           "code": "002139",
           "percent": 4.16,
-          "current_price": 8.42,
-          "change_percentage": 0,
+          "current_price": 8.18,
+          "change_percentage": 0.86,
           "xq_symbol": "SZ002139",
           "xq_url": "https://xueqiu.com/S/SZ002139",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "索菲亚",
           "code": "002572",
           "percent": 4.09,
-          "current_price": 27.83,
-          "change_percentage": -0.25,
+          "current_price": 26.15,
+          "change_percentage": 0.97,
           "xq_symbol": "SZ002572",
           "xq_url": "https://xueqiu.com/S/SZ002572",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "双汇发展",
           "code": "000895",
           "percent": 3.98,
-          "current_price": 48.4,
-          "change_percentage": 1.4,
+          "current_price": 48.01,
+          "change_percentage": 2.28,
           "xq_symbol": "SZ000895",
           "xq_url": "https://xueqiu.com/S/SZ000895",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "云南白药",
           "code": "000538",
           "percent": 3.98,
-          "current_price": 99.84,
-          "change_percentage": -0.32,
+          "current_price": 124.96,
+          "change_percentage": 10,
           "xq_symbol": "SZ000538",
           "xq_url": "https://xueqiu.com/S/SZ000538",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "大华股份",
           "code": "002236",
           "percent": 3.95,
-          "current_price": 20.86,
-          "change_percentage": -0.48,
+          "current_price": 20.37,
+          "change_percentage": 2.41,
           "xq_symbol": "SZ002236",
           "xq_url": "https://xueqiu.com/S/SZ002236",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "惠达卫浴",
           "code": "603385",
           "percent": 3.73,
-          "current_price": 12.39,
-          "change_percentage": -2.44,
+          "current_price": 11.25,
+          "change_percentage": 3.31,
           "xq_symbol": "SH603385",
           "xq_url": "https://xueqiu.com/S/SH603385",
           "amarket": true
@@ -182,25 +182,25 @@
             "fund_code": "006429",
             "fundsname": "诺安恒鑫混合",
             "post_date": "2019-04-30",
-            "cp_rate": 48.56
+            "cp_rate": 53.11
           },
           {
             "fund_code": "320015",
             "fundsname": "诺安行业轮动混合",
             "post_date": "2017-06-23",
-            "cp_rate": 82.89
+            "cp_rate": 88.23
           },
           {
             "fund_code": "320011",
             "fundsname": "诺安中小盘精选混合",
             "post_date": "2016-09-13",
-            "cp_rate": 68.0103
+            "cp_rate": 70.3704
           },
           {
             "fund_code": "001528",
             "fundsname": "诺安先进制造股票",
             "post_date": "2015-11-05",
-            "cp_rate": 128.3716
+            "cp_rate": 134.3656
           }
         ]
       }

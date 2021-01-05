@@ -14,8 +14,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 0.43,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -24,8 +24,8 @@
           "name": "亿纬锂能",
           "code": "300014",
           "percent": 0.34,
-          "current_price": 63.71,
-          "change_percentage": 4.17,
+          "current_price": 93.49,
+          "change_percentage": 14.71,
           "xq_symbol": "SZ300014",
           "xq_url": "https://xueqiu.com/S/SZ300014",
           "amarket": true
@@ -34,8 +34,8 @@
           "name": "汇川技术",
           "code": "300124",
           "percent": 0.29,
-          "current_price": 85.58,
-          "change_percentage": 1.04,
+          "current_price": 95.59,
+          "change_percentage": 2.45,
           "xq_symbol": "SZ300124",
           "xq_url": "https://xueqiu.com/S/SZ300124",
           "amarket": true
@@ -44,8 +44,8 @@
           "name": "长盈精密",
           "code": "300115",
           "percent": 0.24,
-          "current_price": 25.9,
-          "change_percentage": -0.35,
+          "current_price": 28.16,
+          "change_percentage": 14.24,
           "xq_symbol": "SZ300115",
           "xq_url": "https://xueqiu.com/S/SZ300115",
           "amarket": true
@@ -107,69 +107,69 @@
     "manager_list": [
       {
         "name": "钱晶",
-        "resume": "    钱晶先生,美国纽约大学理工学院硕士。曾先后担任国信证券股份有限公司量化分析师、华安基金管理有限公司基金经理。2017年10月加入平安基金管理有限公司,任资产配置事业部ETF指数部投资经理。现任平安中证沪港深高股息精选指数型证券投资基金(2018-03-26至今)、平安MSCI中国A股低波动交易型开放式指数证券投资基金(2018-06-20至今)、平安港股通恒生中国企业交易型开放式指数证券投资基金(2018-11-06至今)、平安MSCI中国A股国际交易型开放式指数证券投资基金联接基金(2019-02-28至今)、平安MSCI中国A股国际交易型开放式指数证券投资基金(2019-02-28至今)、平安创业板交易型开放式指数证券投资基金(2019-03-15至今)基金经理、平安中证人工智能主题交易型开放式指数证券投资基金(2019-07-12至今)基金经理。",
+        "resume": "    钱晶先生,美国纽约大学理工学院硕士。曾先后担任国信证券股份有限公司量化分析师、华安基金管理有限公司基金经理。2017年10月加入平安基金管理有限公司,曾任资产配置事业部ETF指数部投资经理。现担任ETF指数中心投资副总监,同时担任平安MSCI中国A股低波动交易型开放式指数证券投资基金(2018-06-20至今)、平安港股通恒生中国企业交易型开放式指数证券投资基金(2018-11-06至今)、平安MSCI中国A股国际交易型开放式指数证券投资基金联接基金(2019-02-28至今)、平安MSCI中国A股国际交易型开放式指数证券投资基金(2019-02-28至今)、平安创业板交易型开放式指数证券投资基金(2019-03-15至今)、平安中证人工智能主题交易型开放式指数证券投资基金(2019-07-12至今)、平安中证新能源汽车产业交易型开放式指数证券投资基金(2019-12-31至今)、平安创业板交易型开放式指数证券投资基金联接基金(2020-03-25至今)基金经理。",
         "college": "纽约大学",
-        "work_year": "8",
+        "work_year": "9",
         "achievement_list": [
           {
             "fund_code": "009013",
             "fundsname": "平安创业板ETF联接C",
             "post_date": "2020-03-25",
-            "cp_rate": 37.14
+            "cp_rate": 48.6
           },
           {
             "fund_code": "009012",
             "fundsname": "平安创业板ETF联接A",
             "post_date": "2020-03-25",
-            "cp_rate": 37.52
+            "cp_rate": 49.06
           },
           {
             "fund_code": "515700",
             "fundsname": "平安中证新能源汽车产业ETF",
             "post_date": "2019-12-31",
-            "cp_rate": 73.5479
+            "cp_rate": 108.1576
           },
           {
             "fund_code": "512930",
             "fundsname": "平安人工智能ETF",
             "post_date": "2019-07-12",
-            "cp_rate": 55.4
+            "cp_rate": 49.45
           },
           {
             "fund_code": "159964",
             "fundsname": "平安创业板ETF",
             "post_date": "2019-03-15",
-            "cp_rate": 64.54
+            "cp_rate": 79.14
           },
           {
             "fund_code": "005868",
             "fundsname": "平安MSCI中国A股国际ETF联接A",
             "post_date": "2019-02-28",
-            "cp_rate": 51.7564
+            "cp_rate": 58.8385
           },
           {
             "fund_code": "512360",
             "fundsname": "平安MSCI中国A股国际交易ETF",
             "post_date": "2019-02-28",
-            "cp_rate": 57.4985
+            "cp_rate": 65.448
           },
           {
             "fund_code": "005869",
             "fundsname": "平安MSCI中国A股国际ETF联接C",
             "post_date": "2019-02-28",
-            "cp_rate": 51.3848
+            "cp_rate": 58.446
           },
           {
             "fund_code": "159960",
             "fundsname": "平安港股通恒生中国企业ETF",
             "post_date": "2018-11-06",
-            "cp_rate": 0.0809
+            "cp_rate": 2.8227
           },
           {
             "fund_code": "512390",
             "fundsname": "平安MSCI中国A股低波动ETF",
             "post_date": "2018-06-20",
-            "cp_rate": 47.9699
+            "cp_rate": 50.6492
           },
           {
             "fund_code": "003702",
@@ -301,85 +301,85 @@
             "fund_code": "004404",
             "fundsname": "平安股息精选沪港深C",
             "post_date": "2020-06-24",
-            "cp_rate": 31.5013
+            "cp_rate": 37.1622
           },
           {
             "fund_code": "004403",
             "fundsname": "平安股息精选沪港深A",
             "post_date": "2020-06-24",
-            "cp_rate": 31.9762
+            "cp_rate": 37.7278
           },
           {
             "fund_code": "159988",
             "fundsname": "平安中债-0-5年广东地方政府债ETF",
             "post_date": "2020-04-29",
-            "cp_rate": -0.17
+            "cp_rate": 0.27
           },
           {
             "fund_code": "009013",
             "fundsname": "平安创业板ETF联接C",
             "post_date": "2020-03-25",
-            "cp_rate": 37.14
+            "cp_rate": 48.6
           },
           {
             "fund_code": "009012",
             "fundsname": "平安创业板ETF联接A",
             "post_date": "2020-03-25",
-            "cp_rate": 37.52
+            "cp_rate": 49.06
           },
           {
             "fund_code": "512970",
             "fundsname": "粤港澳大湾区ETF",
             "post_date": "2019-09-23",
-            "cp_rate": 52.3469
+            "cp_rate": 57.2195
           },
           {
             "fund_code": "511030",
             "fundsname": "平安中债-中高等级公司债利差因子ETF",
             "post_date": "2019-07-30",
-            "cp_rate": 3.8386
+            "cp_rate": 4.4751
           },
           {
             "fund_code": "511020",
             "fundsname": "平安中证5-10年期国债活跃券ETF",
             "post_date": "2019-07-30",
-            "cp_rate": 3.0306
+            "cp_rate": 3.9388
           },
           {
             "fund_code": "159964",
             "fundsname": "平安创业板ETF",
             "post_date": "2019-03-15",
-            "cp_rate": 64.54
+            "cp_rate": 79.14
           },
           {
             "fund_code": "006215",
             "fundsname": "平安中证500ETF联接C",
             "post_date": "2018-09-05",
-            "cp_rate": 39.13
+            "cp_rate": 38.54
           },
           {
             "fund_code": "006214",
             "fundsname": "平安中证500ETF联接A",
             "post_date": "2018-09-05",
-            "cp_rate": 39.45
+            "cp_rate": 38.87
           },
           {
             "fund_code": "005868",
             "fundsname": "平安MSCI中国A股国际ETF联接A",
             "post_date": "2018-06-21",
-            "cp_rate": 60.71
+            "cp_rate": 68.21
           },
           {
             "fund_code": "005869",
             "fundsname": "平安MSCI中国A股国际ETF联接C",
             "post_date": "2018-06-21",
-            "cp_rate": 60.15
+            "cp_rate": 67.62
           },
           {
             "fund_code": "512360",
             "fundsname": "平安MSCI中国A股国际交易ETF",
             "post_date": "2018-06-15",
-            "cp_rate": 60.7604
+            "cp_rate": 68.8744
           },
           {
             "fund_code": "512390",
@@ -392,25 +392,25 @@
             "fund_code": "005640",
             "fundsname": "平安300ETF联接C",
             "post_date": "2018-04-04",
-            "cp_rate": 35.96
+            "cp_rate": 40.83
           },
           {
             "fund_code": "005639",
             "fundsname": "平安300ETF联接A",
             "post_date": "2018-04-04",
-            "cp_rate": 37.44
+            "cp_rate": 42.4
           },
           {
             "fund_code": "510590",
             "fundsname": "平安中证500ETF",
             "post_date": "2018-03-23",
-            "cp_rate": 14.5
+            "cp_rate": 14.02
           },
           {
             "fund_code": "510390",
             "fundsname": "平安沪深300ETF",
             "post_date": "2017-12-25",
-            "cp_rate": 29.65
+            "cp_rate": 34.77
           }
         ]
       }
@@ -421,8 +421,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

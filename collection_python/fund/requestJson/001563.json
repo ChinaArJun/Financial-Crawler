@@ -16,8 +16,8 @@
           "name": "凯莱英",
           "code": "002821",
           "percent": 6.84,
-          "current_price": 274,
-          "change_percentage": 1.64,
+          "current_price": 297.92,
+          "change_percentage": -0.41,
           "xq_symbol": "SZ002821",
           "xq_url": "https://xueqiu.com/S/SZ002821",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "恒瑞医药",
           "code": "600276",
           "percent": 6.07,
-          "current_price": 90.07,
-          "change_percentage": 0.21,
+          "current_price": 111.2,
+          "change_percentage": -0.23,
           "xq_symbol": "SH600276",
           "xq_url": "https://xueqiu.com/S/SH600276",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "益丰药房",
           "code": "603939",
           "percent": 5.29,
-          "current_price": 101.02,
-          "change_percentage": -1.4,
+          "current_price": 88.92,
+          "change_percentage": -1.41,
           "xq_symbol": "SH603939",
           "xq_url": "https://xueqiu.com/S/SH603939",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "华兰生物",
           "code": "002007",
           "percent": 5.27,
-          "current_price": 43.73,
-          "change_percentage": -3.19,
+          "current_price": 41.85,
+          "change_percentage": -0.92,
           "xq_symbol": "SZ002007",
           "xq_url": "https://xueqiu.com/S/SZ002007",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "长春高新",
           "code": "000661",
           "percent": 5.25,
-          "current_price": 388,
-          "change_percentage": 0.19,
+          "current_price": 473.45,
+          "change_percentage": 5.47,
           "xq_symbol": "SZ000661",
           "xq_url": "https://xueqiu.com/S/SZ000661",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 4.82,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "泸州老窖",
           "code": "000568",
           "percent": 4.59,
-          "current_price": 191.85,
-          "change_percentage": 0.56,
+          "current_price": 240.85,
+          "change_percentage": 6.5,
           "xq_symbol": "SZ000568",
           "xq_url": "https://xueqiu.com/S/SZ000568",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "药石科技",
           "code": "300725",
           "percent": 4.27,
-          "current_price": 122.8,
-          "change_percentage": 0.62,
+          "current_price": 135.4,
+          "change_percentage": -1.88,
           "xq_symbol": "SZ300725",
           "xq_url": "https://xueqiu.com/S/SZ300725",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "心脉医疗",
           "code": "688016",
           "percent": 4.19,
-          "current_price": 239.89,
-          "change_percentage": 0.43,
+          "current_price": 251.52,
+          "change_percentage": 0.13,
           "xq_symbol": "SH688016",
           "xq_url": "https://xueqiu.com/S/SH688016",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "大参林",
           "code": "603233",
           "percent": 4.1,
-          "current_price": 87.64,
-          "change_percentage": 0.62,
+          "current_price": 76.99,
+          "change_percentage": -1.74,
           "xq_symbol": "SH603233",
           "xq_url": "https://xueqiu.com/S/SH603233",
           "amarket": true
@@ -188,7 +188,7 @@
         "name": "高靖瑜",
         "resume": "    高靖瑜女士,复旦大学金融学硕士,本科学历,证券从业年限二十年。历任金鼎综合证券(维京)股份有限公司上海代表处研究员、上海天相投资咨询有限公司研究员,2007年7月加入华富基金管理有限公司,任行业研究员,2013年3月1日至2014年12月14日任华富价值增长混合型基金基金经理助理,2014年12月15日至2016年1月12日任华富策略精选灵活配置混合型基金基金经理,2017年9月12日至2019年7月17日任华富中证100指数基金基金经理,2017年9月12日至2019年7月17日任华富中小板指数增强基金基金经理。现任华富智慧城市灵活配置混合型基金基金经理、华富健康文娱灵活配置混合型基金基金经理、华富策略精选灵活配置混合型基金基金经理。",
         "college": "复旦大学",
-        "work_year": "20",
+        "work_year": "21",
         "achievement_list": [
           {
             "fund_code": "410008",
@@ -208,19 +208,19 @@
             "fund_code": "410006",
             "fundsname": "华富策略精选",
             "post_date": "2017-05-09",
-            "cp_rate": 34.1975
+            "cp_rate": 45.9842
           },
           {
             "fund_code": "000757",
             "fundsname": "华富智慧城市灵活配置混合",
             "post_date": "2017-05-09",
-            "cp_rate": 47.7277
+            "cp_rate": 63.1951
           },
           {
             "fund_code": "001563",
             "fundsname": "华富健康文娱灵活配置混合",
             "post_date": "2015-08-04",
-            "cp_rate": 65.4
+            "cp_rate": 69.18
           }
         ]
       }

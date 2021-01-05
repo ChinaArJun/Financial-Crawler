@@ -15,8 +15,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 9.22,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -33,8 +33,8 @@
           "name": "恒瑞医药",
           "code": "600276",
           "percent": 7.28,
-          "current_price": 90.07,
-          "change_percentage": 0.21,
+          "current_price": 111.2,
+          "change_percentage": -0.23,
           "xq_symbol": "SH600276",
           "xq_url": "https://xueqiu.com/S/SH600276",
           "amarket": true
@@ -43,8 +43,8 @@
           "name": "格力电器",
           "code": "000651",
           "percent": 5.89,
-          "current_price": 65.66,
-          "change_percentage": -3.44,
+          "current_price": 62.9,
+          "change_percentage": 1.55,
           "xq_symbol": "SZ000651",
           "xq_url": "https://xueqiu.com/S/SZ000651",
           "amarket": true
@@ -69,8 +69,8 @@
           "name": "三一重工",
           "code": "600031",
           "percent": 3.4,
-          "current_price": 31.48,
-          "change_percentage": -1.41,
+          "current_price": 34.8,
+          "change_percentage": -0.51,
           "xq_symbol": "SH600031",
           "xq_url": "https://xueqiu.com/S/SH600031",
           "amarket": true
@@ -79,8 +79,8 @@
           "name": "中信证券",
           "code": "600030",
           "percent": 3.32,
-          "current_price": 30.01,
-          "change_percentage": 0,
+          "current_price": 29.18,
+          "change_percentage": -0.75,
           "xq_symbol": "SH600030",
           "xq_url": "https://xueqiu.com/S/SH600030",
           "amarket": true
@@ -89,8 +89,8 @@
           "name": "顺鑫农业",
           "code": "000860",
           "percent": 3.32,
-          "current_price": 64.72,
-          "change_percentage": 3.39,
+          "current_price": 74.88,
+          "change_percentage": 3.23,
           "xq_symbol": "SZ000860",
           "xq_url": "https://xueqiu.com/S/SZ000860",
           "amarket": true
@@ -99,8 +99,8 @@
           "name": "五粮液",
           "code": "000858",
           "percent": 2.93,
-          "current_price": 272,
-          "change_percentage": 0.65,
+          "current_price": 298.05,
+          "change_percentage": 2.12,
           "xq_symbol": "SZ000858",
           "xq_url": "https://xueqiu.com/S/SZ000858",
           "amarket": true
@@ -163,19 +163,19 @@
       {
         "name": "丁玥",
         "resume": "    丁玥女士,学历:金融工程硕士研究生。相关业务资格:证券投资基金从业资格。从业经历:2009年7月至2015年7月,任职于中国国际金融有限公司,担任研究部副总经理,2015年7月加入鑫元基金担信用研究主管,2016年7月担任研究部总监,2018年6月担任权益投研部总监兼首席权益投资官。2016年7月26日起担任鑫元聚鑫收益增强债券型证券投资基金(原鑫元半年定期开放债券型证券投资基金)的基金经理,2017年9月4日起担任鑫元鑫趋势灵活配置混合型证券投资基金的基金经理,2017年12月14日起担任鑫元欣享灵活配置混合型证券投资基金的基金经理,2018年1月23日起担任鑫元价值精选灵活配置混合型证券投资基金的基金经理,2018年5月31日至2019年6月11日担任鑫元行业轮动灵活配置混合型发起式证券投资基金的基金经理,2018年11月14日起担任鑫元核心资产股票型发起式证券投资基金的基金经理;同时兼任基金投资决策委员会委员。",
-        "work_year": "11",
+        "work_year": "12",
         "achievement_list": [
           {
             "fund_code": "006194",
             "fundsname": "鑫元核心资产股票C",
             "post_date": "2018-11-14",
-            "cp_rate": 48.45
+            "cp_rate": 54.38
           },
           {
             "fund_code": "006193",
             "fundsname": "鑫元核心资产股票A",
             "post_date": "2018-11-14",
-            "cp_rate": 50.05
+            "cp_rate": 56.12
           },
           {
             "fund_code": "005950",
@@ -208,13 +208,13 @@
             "fund_code": "005494",
             "fundsname": "鑫元价值精选C",
             "post_date": "2018-01-23",
-            "cp_rate": 13.24
+            "cp_rate": 18.96
           },
           {
             "fund_code": "005493",
             "fundsname": "鑫元价值精选A",
             "post_date": "2018-01-23",
-            "cp_rate": 14.85
+            "cp_rate": 20.69
           },
           {
             "fund_code": "005262",
@@ -234,13 +234,13 @@
             "fund_code": "004948",
             "fundsname": "鑫元鑫趋势灵活配置混合C",
             "post_date": "2017-09-04",
-            "cp_rate": 36.2002
+            "cp_rate": 43.0926
           },
           {
             "fund_code": "004944",
             "fundsname": "鑫元鑫趋势灵活配置混合A",
             "post_date": "2017-09-04",
-            "cp_rate": 38.3939
+            "cp_rate": 45.4255
           },
           {
             "fund_code": "000897",
@@ -266,13 +266,13 @@
             "fund_code": "006193",
             "fundsname": "鑫元核心资产股票A",
             "post_date": "2020-09-14",
-            "cp_rate": 4.3899
+            "cp_rate": 8.6128
           },
           {
             "fund_code": "006194",
             "fundsname": "鑫元核心资产股票C",
             "post_date": "2020-09-14",
-            "cp_rate": 4.1974
+            "cp_rate": 8.3597
           }
         ]
       }

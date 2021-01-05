@@ -16,8 +16,8 @@
           "name": "智飞生物",
           "code": "300122",
           "percent": 8.49,
-          "current_price": 139.38,
-          "change_percentage": -0.39,
+          "current_price": 143.22,
+          "change_percentage": -3.17,
           "xq_symbol": "SZ300122",
           "xq_url": "https://xueqiu.com/S/SZ300122",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "大参林",
           "code": "603233",
           "percent": 8.01,
-          "current_price": 87.64,
-          "change_percentage": 0.62,
+          "current_price": 76.99,
+          "change_percentage": -1.74,
           "xq_symbol": "SH603233",
           "xq_url": "https://xueqiu.com/S/SH603233",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "华兰生物",
           "code": "002007",
           "percent": 7.93,
-          "current_price": 43.73,
-          "change_percentage": -3.19,
+          "current_price": 41.85,
+          "change_percentage": -0.92,
           "xq_symbol": "SZ002007",
           "xq_url": "https://xueqiu.com/S/SZ002007",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "健帆生物",
           "code": "300529",
           "percent": 7.85,
-          "current_price": 68.76,
-          "change_percentage": -0.28,
+          "current_price": 72.45,
+          "change_percentage": 6.83,
           "xq_symbol": "SZ300529",
           "xq_url": "https://xueqiu.com/S/SZ300529",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "泰格医药",
           "code": "300347",
           "percent": 6.77,
-          "current_price": 135.45,
-          "change_percentage": 1.84,
+          "current_price": 166.82,
+          "change_percentage": 3.22,
           "xq_symbol": "SZ300347",
           "xq_url": "https://xueqiu.com/S/SZ300347",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "万泰生物",
           "code": "603392",
           "percent": 5.82,
-          "current_price": 182.4,
-          "change_percentage": -3.08,
+          "current_price": 221,
+          "change_percentage": 9.66,
           "xq_symbol": "SH603392",
           "xq_url": "https://xueqiu.com/S/SH603392",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "英科医疗",
           "code": "300677",
           "percent": 5.5,
-          "current_price": 141,
-          "change_percentage": 1.49,
+          "current_price": 162.26,
+          "change_percentage": -3.5,
           "xq_symbol": "SZ300677",
           "xq_url": "https://xueqiu.com/S/SZ300677",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "迪安诊断",
           "code": "300244",
           "percent": 4.81,
-          "current_price": 36.34,
-          "change_percentage": -0.03,
+          "current_price": 34.3,
+          "change_percentage": 0.06,
           "xq_symbol": "SZ300244",
           "xq_url": "https://xueqiu.com/S/SZ300244",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "药明康德",
           "code": "603259",
           "percent": 4.63,
-          "current_price": 110.9,
-          "change_percentage": -0.12,
+          "current_price": 137.11,
+          "change_percentage": 1.77,
           "xq_symbol": "SH603259",
           "xq_url": "https://xueqiu.com/S/SH603259",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "华大基因",
           "code": "300676",
           "percent": 4.15,
-          "current_price": 131.83,
-          "change_percentage": 0.94,
+          "current_price": 127.59,
+          "change_percentage": -0.75,
           "xq_symbol": "SZ300676",
           "xq_url": "https://xueqiu.com/S/SZ300676",
           "amarket": true
@@ -195,25 +195,25 @@
       {
         "name": "李佳存",
         "resume": "    李佳存先生,经济学硕士。2008年7月硕士毕业后即加入广发基金管理有限公司,任研究部研究员,一直从事医药行业研究工作,并于2011年3月起升任研究部总经理助理;\n    2014年2月加入招商基金管理有限公司,曾任研究部研究员,现任招商医药健康产业股票型证券投资基金基金经理(管理时间:2015年1月30日至今)、招商体育文化休闲股票型证券投资基金基金经理(管理时间:2016年11月4日至今)、招商创新增长混合型证券投资基金基金经理(管理时间:2020年6月17日至今)。",
-        "work_year": "12",
+        "work_year": "13",
         "achievement_list": [
           {
             "fund_code": "009360",
             "fundsname": "招商创新增长混合A",
             "post_date": "2020-06-17",
-            "cp_rate": 5.07
+            "cp_rate": 11.62
           },
           {
             "fund_code": "009361",
             "fundsname": "招商创新增长混合C",
             "post_date": "2020-06-17",
-            "cp_rate": 4.67
+            "cp_rate": 11.14
           },
           {
             "fund_code": "001628",
             "fundsname": "招商体育文化休闲股票基金",
             "post_date": "2016-11-04",
-            "cp_rate": 60.3365
+            "cp_rate": 71.274
           },
           {
             "fund_code": "002628",
@@ -240,7 +240,7 @@
             "fund_code": "000960",
             "fundsname": "招商医药健康产业股票",
             "post_date": "2015-01-30",
-            "cp_rate": 193.4
+            "cp_rate": 206.1
           }
         ]
       }

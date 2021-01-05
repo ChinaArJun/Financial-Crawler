@@ -15,8 +15,8 @@
           "name": "中国中免",
           "code": "601888",
           "percent": 5.53,
-          "current_price": 208.03,
-          "change_percentage": 0.13,
+          "current_price": 292.25,
+          "change_percentage": 3.47,
           "xq_symbol": "SH601888",
           "xq_url": "https://xueqiu.com/S/SH601888",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 5.08,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 4.63,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "智飞生物",
           "code": "300122",
           "percent": 4.12,
-          "current_price": 139.38,
-          "change_percentage": -0.39,
+          "current_price": 143.22,
+          "change_percentage": -3.17,
           "xq_symbol": "SZ300122",
           "xq_url": "https://xueqiu.com/S/SZ300122",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "泸州老窖",
           "code": "000568",
           "percent": 4.09,
-          "current_price": 191.85,
-          "change_percentage": 0.56,
+          "current_price": 240.85,
+          "change_percentage": 6.5,
           "xq_symbol": "SZ000568",
           "xq_url": "https://xueqiu.com/S/SZ000568",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "通威股份",
           "code": "600438",
           "percent": 3.72,
-          "current_price": 29.2,
-          "change_percentage": -1.85,
+          "current_price": 41.65,
+          "change_percentage": 8.35,
           "xq_symbol": "SH600438",
           "xq_url": "https://xueqiu.com/S/SH600438",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "福斯特",
           "code": "603806",
           "percent": 3.68,
-          "current_price": 73.08,
-          "change_percentage": 2.21,
+          "current_price": 90.74,
+          "change_percentage": 6.25,
           "xq_symbol": "SH603806",
           "xq_url": "https://xueqiu.com/S/SH603806",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "石头科技",
           "code": "688169",
           "percent": 3.58,
-          "current_price": 921.36,
-          "change_percentage": 1.98,
+          "current_price": 978.04,
+          "change_percentage": -5.59,
           "xq_symbol": "SH688169",
           "xq_url": "https://xueqiu.com/S/SH688169",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "恩捷股份",
           "code": "002812",
           "percent": 3.52,
-          "current_price": 108,
-          "change_percentage": 0.88,
+          "current_price": 155,
+          "change_percentage": 9.32,
           "xq_symbol": "SZ002812",
           "xq_url": "https://xueqiu.com/S/SZ002812",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "五粮液",
           "code": "000858",
           "percent": 3.3,
-          "current_price": 272,
-          "change_percentage": 0.65,
+          "current_price": 298.05,
+          "change_percentage": 2.12,
           "xq_symbol": "SZ000858",
           "xq_url": "https://xueqiu.com/S/SZ000858",
           "amarket": true
@@ -178,25 +178,25 @@
         "name": "陶灿",
         "resume": "    陶灿先生,硕士,权益投资部总经理助理兼研究部首席策略官。2007年7月加入建信基金管理有限责任公司,历任研究员、基金经理助理、基金经理、资深基金经理、权益投资部总经理助理兼研究部首席策略官。2011年7月11日至2016年4月22日任建信优化配置混合型证券投资基金的基金经理;2014年5月14日起任建信改革红利股票型证券投资基金的基金经理;2016年2月23日起任建信现代服务业股票型证券投资基金的基金经理;2017年2月9日起任建信回报灵活配置混合型证券投资基金的基金经理;2017年3月22日起任建信恒久价值混合型证券投资基金的基金经理;2017年10月27日起任建信安心保本二号混合型证券投资基金的基金经理,该基金于2017年11月4日起转型为建信鑫利灵活配置混合型证券投资基金,陶灿继续担任该基金的基金经理。",
         "college": "北京大学",
-        "work_year": "13",
+        "work_year": "14",
         "achievement_list": [
           {
             "fund_code": "009147",
             "fundsname": "建信新能源行业股票",
             "post_date": "2020-06-17",
-            "cp_rate": 41.41
+            "cp_rate": 72.86
           },
           {
             "fund_code": "008177",
             "fundsname": "建信高股息主题股票",
             "post_date": "2020-01-21",
-            "cp_rate": 48.76
+            "cp_rate": 74.15
           },
           {
             "fund_code": "001858",
             "fundsname": "建信鑫利灵活配置混合",
             "post_date": "2017-11-04",
-            "cp_rate": 86.6538
+            "cp_rate": 116.6345
           },
           {
             "fund_code": "001858",
@@ -208,7 +208,7 @@
             "fund_code": "530001",
             "fundsname": "建信恒久价值混合",
             "post_date": "2017-03-22",
-            "cp_rate": 77.7216
+            "cp_rate": 107.6929
           },
           {
             "fund_code": "001253",
@@ -221,13 +221,13 @@
             "fund_code": "001781",
             "fundsname": "建信现代服务业股票",
             "post_date": "2016-02-23",
-            "cp_rate": 85.6
+            "cp_rate": 112.7
           },
           {
             "fund_code": "000592",
             "fundsname": "建信改革红利股票",
             "post_date": "2014-05-14",
-            "cp_rate": 330.9
+            "cp_rate": 393.6
           },
           {
             "fund_code": "530005",
@@ -245,8 +245,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

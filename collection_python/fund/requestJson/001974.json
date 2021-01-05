@@ -15,8 +15,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 5.24,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "华泰证券",
           "code": "601688",
           "percent": 2.88,
-          "current_price": 19.14,
-          "change_percentage": -0.31,
+          "current_price": 18.04,
+          "change_percentage": 0.17,
           "xq_symbol": "SH601688",
           "xq_url": "https://xueqiu.com/S/SH601688",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "国泰君安",
           "code": "601211",
           "percent": 2.74,
-          "current_price": 18.44,
-          "change_percentage": -0.38,
+          "current_price": 17.61,
+          "change_percentage": 0.46,
           "xq_symbol": "SH601211",
           "xq_url": "https://xueqiu.com/S/SH601211",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "上海银行",
           "code": "601229",
           "percent": 2.73,
-          "current_price": 8.07,
-          "change_percentage": 0.37,
+          "current_price": 7.78,
+          "change_percentage": -0.77,
           "xq_symbol": "SH601229",
           "xq_url": "https://xueqiu.com/S/SH601229",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "江苏银行",
           "code": "600919",
           "percent": 2.55,
-          "current_price": 5.93,
-          "change_percentage": -2.31,
+          "current_price": 5.43,
+          "change_percentage": -0.55,
           "xq_symbol": "SH600919",
           "xq_url": "https://xueqiu.com/S/SH600919",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "华菱钢铁",
           "code": "000932",
           "percent": 2.54,
-          "current_price": 5.12,
-          "change_percentage": -0.78,
+          "current_price": 4.79,
+          "change_percentage": 0.21,
           "xq_symbol": "SZ000932",
           "xq_url": "https://xueqiu.com/S/SZ000932",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "中国中冶",
           "code": "601618",
           "percent": 2.49,
-          "current_price": 2.68,
-          "change_percentage": -0.37,
+          "current_price": 2.79,
+          "change_percentage": 2.2,
           "xq_symbol": "SH601618",
           "xq_url": "https://xueqiu.com/S/SH601618",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "伊利股份",
           "code": "600887",
           "percent": 2.45,
-          "current_price": 40.68,
-          "change_percentage": 1.24,
+          "current_price": 47.36,
+          "change_percentage": 6.74,
           "xq_symbol": "SH600887",
           "xq_url": "https://xueqiu.com/S/SH600887",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "中国联通",
           "code": "600050",
           "percent": 2.26,
-          "current_price": 4.79,
-          "change_percentage": 0.21,
+          "current_price": 4.33,
+          "change_percentage": -2.91,
           "xq_symbol": "SH600050",
           "xq_url": "https://xueqiu.com/S/SH600050",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "新城控股",
           "code": "601155",
           "percent": 2.2,
-          "current_price": 35.19,
-          "change_percentage": -0.26,
+          "current_price": 33.59,
+          "change_percentage": -3.56,
           "xq_symbol": "SH601155",
           "xq_url": "https://xueqiu.com/S/SH601155",
           "amarket": true
@@ -177,37 +177,37 @@
       {
         "name": "黎海威",
         "resume": "    黎海威先生,经济学硕士,CFA。曾担任美国穆迪KMV公司研究员,美国贝莱德集团(原巴克莱国际投资管理有限公司)基金经理、主动股票部副总裁,香港海通国际资产管理有限公司(海通国际投资管理有限公司)量化总监。2012年8月加入景顺长城基金管理有限公司,担任量化及ETF投资部投资总监,现担任公司副总经理兼量化及指数投资部总监兼量化及指数投资部基金经理;自2013年10月起担任量化及指数投资部基金经理。具有17年海内外证券、基金行业从业经验。",
-        "work_year": "17",
+        "work_year": "18",
         "achievement_list": [
           {
             "fund_code": "009992",
             "fundsname": "景顺长城量化成长演化混合",
             "post_date": "2020-11-18",
-            "cp_rate": 1.62
+            "cp_rate": 5.84
           },
           {
             "fund_code": "008072",
             "fundsname": "景顺长城创业板综指增强",
             "post_date": "2020-05-25",
-            "cp_rate": 26.9354
+            "cp_rate": 31.5243
           },
           {
             "fund_code": "008851",
             "fundsname": "景顺长城量化对冲策略三个月定开灵活配置",
             "post_date": "2020-02-27",
-            "cp_rate": 0.21
+            "cp_rate": 1.45
           },
           {
             "fund_code": "006106",
             "fundsname": "景顺长城量化港股通股票",
             "post_date": "2019-06-19",
-            "cp_rate": -3.16
+            "cp_rate": -1.09
           },
           {
             "fund_code": "006682",
             "fundsname": "景顺长城中证500指数增强",
             "post_date": "2019-03-25",
-            "cp_rate": 32.41
+            "cp_rate": 33.48
           },
           {
             "fund_code": "006201",
@@ -227,13 +227,13 @@
             "fund_code": "005457",
             "fundsname": "景顺长城量化小盘股票",
             "post_date": "2018-02-06",
-            "cp_rate": 39.1
+            "cp_rate": 39.13
           },
           {
             "fund_code": "005258",
             "fundsname": "景顺长城量化平衡混合",
             "post_date": "2017-12-27",
-            "cp_rate": 39.89
+            "cp_rate": 45.33
           },
           {
             "fund_code": "000979",
@@ -253,7 +253,7 @@
             "fund_code": "001974",
             "fundsname": "景顺长城量化新动力股票",
             "post_date": "2016-07-13",
-            "cp_rate": 119.1
+            "cp_rate": 130.9
           },
           {
             "fund_code": "262001",
@@ -266,13 +266,13 @@
             "fund_code": "000978",
             "fundsname": "景顺长城量化精选股票",
             "post_date": "2015-02-04",
-            "cp_rate": 68.9336
+            "cp_rate": 69.7787
           },
           {
             "fund_code": "000311",
             "fundsname": "景顺长城沪深300指数",
             "post_date": "2013-10-29",
-            "cp_rate": 217.04
+            "cp_rate": 229.04
           }
         ]
       }

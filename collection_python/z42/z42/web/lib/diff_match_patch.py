@@ -917,7 +917,7 @@ class diff_match_patch:
 
     def diff_cleanupMerge(self, diffs):
         """Reorder and merge like edit sections.  Merge equalities.
-    Any edit section can move as long as it doesn't cross an equality.
+    Any edit Process&Threading can move as long as it doesn't cross an equality.
 
     Args:
       diffs: Array of diff tuples.

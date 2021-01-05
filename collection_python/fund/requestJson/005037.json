@@ -15,8 +15,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 7.05,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "通威股份",
           "code": "600438",
           "percent": 6.2,
-          "current_price": 29.2,
-          "change_percentage": -1.85,
+          "current_price": 41.65,
+          "change_percentage": 8.35,
           "xq_symbol": "SH600438",
           "xq_url": "https://xueqiu.com/S/SH600438",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 6.01,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "亿纬锂能",
           "code": "300014",
           "percent": 4.43,
-          "current_price": 63.71,
-          "change_percentage": 4.17,
+          "current_price": 93.49,
+          "change_percentage": 14.71,
           "xq_symbol": "SZ300014",
           "xq_url": "https://xueqiu.com/S/SZ300014",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "先导智能",
           "code": "300450",
           "percent": 2.9,
-          "current_price": 67.6,
-          "change_percentage": 0.6,
+          "current_price": 87.5,
+          "change_percentage": 4.18,
           "xq_symbol": "SZ300450",
           "xq_url": "https://xueqiu.com/S/SZ300450",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "中材科技",
           "code": "002080",
           "percent": 2.9,
-          "current_price": 19.29,
-          "change_percentage": 0,
+          "current_price": 24.75,
+          "change_percentage": 2.36,
           "xq_symbol": "SZ002080",
           "xq_url": "https://xueqiu.com/S/SZ002080",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "新宙邦",
           "code": "300037",
           "percent": 2.8,
-          "current_price": 99.89,
-          "change_percentage": 12.22,
+          "current_price": 106.5,
+          "change_percentage": 5.03,
           "xq_symbol": "SZ300037",
           "xq_url": "https://xueqiu.com/S/SZ300037",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "璞泰来",
           "code": "603659",
           "percent": 2.65,
-          "current_price": 111.38,
-          "change_percentage": 5.71,
+          "current_price": 123.63,
+          "change_percentage": 10,
           "xq_symbol": "SH603659",
           "xq_url": "https://xueqiu.com/S/SH603659",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "赣锋锂业",
           "code": "002460",
           "percent": 2.49,
-          "current_price": 82.24,
-          "change_percentage": 3.06,
+          "current_price": 111.32,
+          "change_percentage": 10,
           "xq_symbol": "SZ002460",
           "xq_url": "https://xueqiu.com/S/SZ002460",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "林洋能源",
           "code": "601222",
           "percent": 2.36,
-          "current_price": 7.26,
-          "change_percentage": -0.27,
+          "current_price": 8.71,
+          "change_percentage": 9.97,
           "xq_symbol": "SH601222",
           "xq_url": "https://xueqiu.com/S/SH601222",
           "amarket": true
@@ -182,19 +182,19 @@
             "fund_code": "005235",
             "fundsname": "银华食品饮料量化股票发起式A",
             "post_date": "2020-10-29",
-            "cp_rate": 4.997
+            "cp_rate": 15.2707
           },
           {
             "fund_code": "005236",
             "fundsname": "银华食品饮料量化股票发起式C",
             "post_date": "2020-10-29",
-            "cp_rate": 4.9536
+            "cp_rate": 15.193
           },
           {
             "fund_code": "159822",
             "fundsname": "银华标普中国新经济(QDII-ETF)",
             "post_date": "2020-09-29",
-            "cp_rate": 3.15
+            "cp_rate": 6.51
           },
           {
             "fund_code": "005515",
@@ -298,31 +298,31 @@
             "fund_code": "183001",
             "fundsname": "银华全球优选(QDII-FOF)",
             "post_date": "2018-03-07",
-            "cp_rate": 8.2601
+            "cp_rate": 8.6116
           },
           {
             "fund_code": "005037",
             "fundsname": "银华新能源新材料量化优选股票A",
             "post_date": "2018-03-07",
-            "cp_rate": 45.8948
+            "cp_rate": 71.3735
           },
           {
             "fund_code": "005038",
             "fundsname": "银华新能源新材料量化优选股票C",
             "post_date": "2018-03-07",
-            "cp_rate": 44.1699
+            "cp_rate": 69.2885
           },
           {
             "fund_code": "005035",
             "fundsname": "银华信息科技量化优选股票A",
             "post_date": "2018-03-07",
-            "cp_rate": 42.1658
+            "cp_rate": 42.4072
           },
           {
             "fund_code": "005036",
             "fundsname": "银华信息科技量化优选股票C",
             "post_date": "2018-03-07",
-            "cp_rate": 42.2258
+            "cp_rate": 42.433
           },
           {
             "fund_code": "005239",
@@ -342,7 +342,7 @@
             "fund_code": "161815",
             "fundsname": "银华抗通胀主题(QDII-FOF-LOF)",
             "post_date": "2017-12-25",
-            "cp_rate": -8.7983
+            "cp_rate": -5.794
           }
         ]
       }

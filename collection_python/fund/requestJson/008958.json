@@ -15,8 +15,8 @@
           "name": "五粮液",
           "code": "000858",
           "percent": 9.51,
-          "current_price": 272,
-          "change_percentage": 0.65,
+          "current_price": 298.05,
+          "change_percentage": 2.12,
           "xq_symbol": "SZ000858",
           "xq_url": "https://xueqiu.com/S/SZ000858",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 9.4,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "星宇股份",
           "code": "601799",
           "percent": 6.3,
-          "current_price": 186.12,
-          "change_percentage": -2.43,
+          "current_price": 198.32,
+          "change_percentage": -1.09,
           "xq_symbol": "SH601799",
           "xq_url": "https://xueqiu.com/S/SH601799",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "海大集团",
           "code": "002311",
           "percent": 5.99,
-          "current_price": 61,
-          "change_percentage": 0,
+          "current_price": 68.43,
+          "change_percentage": 4.47,
           "xq_symbol": "SZ002311",
           "xq_url": "https://xueqiu.com/S/SZ002311",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 5.34,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "山西汾酒",
           "code": "600809",
           "percent": 5.22,
-          "current_price": 265.1,
-          "change_percentage": 1.54,
+          "current_price": 373.63,
+          "change_percentage": -0.44,
           "xq_symbol": "SH600809",
           "xq_url": "https://xueqiu.com/S/SH600809",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 5.19,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "广联达",
           "code": "002410",
           "percent": 4.78,
-          "current_price": 70.77,
-          "change_percentage": 2.08,
+          "current_price": 80.53,
+          "change_percentage": 2.27,
           "xq_symbol": "SZ002410",
           "xq_url": "https://xueqiu.com/S/SZ002410",
           "amarket": true
@@ -103,8 +103,8 @@
           "name": "古井贡酒",
           "code": "000596",
           "percent": 4.65,
-          "current_price": 229.01,
-          "change_percentage": 0.04,
+          "current_price": 279.66,
+          "change_percentage": 2.82,
           "xq_symbol": "SZ000596",
           "xq_url": "https://xueqiu.com/S/SZ000596",
           "amarket": true
@@ -176,37 +176,37 @@
             "fund_code": "006604",
             "fundsname": "嘉实消费精选股票A",
             "post_date": "2020-07-22",
-            "cp_rate": 21.5552
+            "cp_rate": 38.0082
           },
           {
             "fund_code": "006605",
             "fundsname": "嘉实消费精选股票C",
             "post_date": "2020-07-22",
-            "cp_rate": 21.3279
+            "cp_rate": 37.704
           },
           {
             "fund_code": "008958",
             "fundsname": "嘉实回报精选股票",
             "post_date": "2020-03-06",
-            "cp_rate": 30.497
+            "cp_rate": 48.0652
           },
           {
             "fund_code": "070006",
             "fundsname": "嘉实服务增值行业混合",
             "post_date": "2019-11-19",
-            "cp_rate": 47.5608
+            "cp_rate": 65.9598
           },
           {
             "fund_code": "070032",
             "fundsname": "嘉实优化红利混合",
             "post_date": "2018-10-11",
-            "cp_rate": 117.6229
+            "cp_rate": 143.3339
           },
           {
             "fund_code": "070018",
             "fundsname": "嘉实回报混合",
             "post_date": "2015-03-12",
-            "cp_rate": 177.7968
+            "cp_rate": 209.391
           }
         ]
       }

@@ -24,8 +24,8 @@
           "name": "吉祥航空",
           "code": "603885",
           "percent": 9.2,
-          "current_price": 11.66,
-          "change_percentage": -0.43,
+          "current_price": 11.16,
+          "change_percentage": -1.85,
           "xq_symbol": "SH603885",
           "xq_url": "https://xueqiu.com/S/SH603885",
           "amarket": true
@@ -42,8 +42,8 @@
           "name": "韵达股份",
           "code": "002120",
           "percent": 7.99,
-          "current_price": 18.07,
-          "change_percentage": 0.22,
+          "current_price": 15.84,
+          "change_percentage": 0.89,
           "xq_symbol": "SZ002120",
           "xq_url": "https://xueqiu.com/S/SZ002120",
           "amarket": true
@@ -52,8 +52,8 @@
           "name": "春秋航空",
           "code": "601021",
           "percent": 6.49,
-          "current_price": 51.71,
-          "change_percentage": 0.23,
+          "current_price": 57.28,
+          "change_percentage": 3.34,
           "xq_symbol": "SH601021",
           "xq_url": "https://xueqiu.com/S/SH601021",
           "amarket": true
@@ -70,8 +70,8 @@
           "name": "国投电力",
           "code": "600886",
           "percent": 4.17,
-          "current_price": 9.19,
-          "change_percentage": 0.33,
+          "current_price": 8.73,
+          "change_percentage": 1.04,
           "xq_symbol": "SH600886",
           "xq_url": "https://xueqiu.com/S/SH600886",
           "amarket": true
@@ -80,8 +80,8 @@
           "name": "新奥股份",
           "code": "600803",
           "percent": 4.15,
-          "current_price": 14.16,
-          "change_percentage": -0.14,
+          "current_price": 13.52,
+          "change_percentage": -0.52,
           "xq_symbol": "SH600803",
           "xq_url": "https://xueqiu.com/S/SH600803",
           "amarket": true
@@ -90,8 +90,8 @@
           "name": "隆平高科",
           "code": "000998",
           "percent": 3.69,
-          "current_price": 17.78,
-          "change_percentage": -1.93,
+          "current_price": 20.7,
+          "change_percentage": 4.49,
           "xq_symbol": "SZ000998",
           "xq_url": "https://xueqiu.com/S/SZ000998",
           "amarket": true
@@ -175,37 +175,37 @@
       {
         "name": "肖觅",
         "resume": "    肖觅先生,管理学硕士,11年证券从业经历,具有基金从业资格。2009年7月加入嘉实基金管理有限公司任职于研究部,先后任钢铁行业、交通运输行业研究员等职位。2018年3月9日至2019年12月24日任嘉实惠泽灵活配置混合型证券投资基金(LOF)基金经理。\n    2016年12月29日至今任嘉实物流产业股票型证券投资基金基金经理、2020年4月15日至今任嘉实基础产业优选股票型证券投资基金基金经理、2020年6月5日至今任嘉实周期优选混合型证券投资基金基金经理。",
-        "work_year": "11",
+        "work_year": "12",
         "achievement_list": [
           {
             "fund_code": "005660",
             "fundsname": "嘉实资源精选股票A",
             "post_date": "2020-07-21",
-            "cp_rate": 25.2983
+            "cp_rate": 40.2487
           },
           {
             "fund_code": "005661",
             "fundsname": "嘉实资源精选股票C",
             "post_date": "2020-07-21",
-            "cp_rate": 25.0696
+            "cp_rate": 39.943
           },
           {
             "fund_code": "070027",
             "fundsname": "嘉实周期优选混合",
             "post_date": "2020-06-05",
-            "cp_rate": 28.2037
+            "cp_rate": 30.4219
           },
           {
             "fund_code": "009126",
             "fundsname": "嘉实基础产业优选股票A",
             "post_date": "2020-04-15",
-            "cp_rate": 23.07
+            "cp_rate": 23.8
           },
           {
             "fund_code": "009127",
             "fundsname": "嘉实基础产业优选股票C",
             "post_date": "2020-04-15",
-            "cp_rate": 22.68
+            "cp_rate": 23.37
           },
           {
             "fund_code": "160722",
@@ -225,13 +225,13 @@
             "fund_code": "003298",
             "fundsname": "嘉实物流产业股票A",
             "post_date": "2016-12-29",
-            "cp_rate": 104.3
+            "cp_rate": 106.1
           },
           {
             "fund_code": "003299",
             "fundsname": "嘉实物流产业股票C",
             "post_date": "2016-12-29",
-            "cp_rate": 102.3
+            "cp_rate": 104
           }
         ]
       }

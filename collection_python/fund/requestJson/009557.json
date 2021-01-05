@@ -16,8 +16,8 @@
           "name": "迈瑞医疗",
           "code": "300760",
           "percent": 5.64,
-          "current_price": 351.9,
-          "change_percentage": 1.82,
+          "current_price": 433.88,
+          "change_percentage": 1.85,
           "xq_symbol": "SZ300760",
           "xq_url": "https://xueqiu.com/S/SZ300760",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "东方财富",
           "code": "300059",
           "percent": 3.44,
-          "current_price": 28.05,
-          "change_percentage": 1.08,
+          "current_price": 32.2,
+          "change_percentage": 3.87,
           "xq_symbol": "SZ300059",
           "xq_url": "https://xueqiu.com/S/SZ300059",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "迈为股份",
           "code": "300751",
           "percent": 3.26,
-          "current_price": 529,
-          "change_percentage": 0.03,
+          "current_price": 667.89,
+          "change_percentage": -1.35,
           "xq_symbol": "SZ300751",
           "xq_url": "https://xueqiu.com/S/SZ300751",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "蓝思科技",
           "code": "300433",
           "percent": 3.01,
-          "current_price": 33.15,
-          "change_percentage": -0.93,
+          "current_price": 30.9,
+          "change_percentage": 0.95,
           "xq_symbol": "SZ300433",
           "xq_url": "https://xueqiu.com/S/SZ300433",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "泰格医药",
           "code": "300347",
           "percent": 2.93,
-          "current_price": 135.45,
-          "change_percentage": 1.84,
+          "current_price": 166.82,
+          "change_percentage": 3.22,
           "xq_symbol": "SZ300347",
           "xq_url": "https://xueqiu.com/S/SZ300347",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "中科创达",
           "code": "300496",
           "percent": 2.69,
-          "current_price": 98.5,
-          "change_percentage": 0.92,
+          "current_price": 120.78,
+          "change_percentage": 3.23,
           "xq_symbol": "SZ300496",
           "xq_url": "https://xueqiu.com/S/SZ300496",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "圣邦股份",
           "code": "300661",
           "percent": 2.64,
-          "current_price": 291.81,
-          "change_percentage": -1.48,
+          "current_price": 284.6,
+          "change_percentage": 7.88,
           "xq_symbol": "SZ300661",
           "xq_url": "https://xueqiu.com/S/SZ300661",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "金雷股份",
           "code": "300443",
           "percent": 2.55,
-          "current_price": 32.66,
-          "change_percentage": 0.49,
+          "current_price": 37,
+          "change_percentage": 11.21,
           "xq_symbol": "SZ300443",
           "xq_url": "https://xueqiu.com/S/SZ300443",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "卓胜微",
           "code": "300782",
           "percent": 2.5,
-          "current_price": 544.82,
-          "change_percentage": 2.06,
+          "current_price": 614.9,
+          "change_percentage": 7.78,
           "xq_symbol": "SZ300782",
           "xq_url": "https://xueqiu.com/S/SZ300782",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "汇川技术",
           "code": "300124",
           "percent": 2.41,
-          "current_price": 85.58,
-          "change_percentage": 1.04,
+          "current_price": 95.59,
+          "change_percentage": 2.45,
           "xq_symbol": "SZ300124",
           "xq_url": "https://xueqiu.com/S/SZ300124",
           "amarket": true
@@ -182,44 +182,44 @@
     "manager_list": [
       {
         "name": "俞诚",
-        "resume": "    俞诚先生,经济学学士。2009年起从事金融相关工作,2009年08月加入申万菱信基金管理有限公司,曾任产品与金融工程总部金融工程师、数量研究员,申万菱信中证申万电子行业投资指数分级证券投资基金、申万菱信中证申万传媒行业投资指数分级证券投资基金、申万菱信中证申万医药生物指数分级证券投资基金、申万菱信沪深300价值指数证券投资基金、申万菱信深证成指分级证券投资基金、申万菱信中证申万证券行业指数分级证券投资基金、申万菱信中证环保产业指数分级证券投资基金、申万菱信中证军工指数分级证券投资基金、申万菱信价值优享混合型证券投资基金、申万菱信中小板指数证券投资基金(LOF)基金经理,现任申万菱信中证500指数增强型证券投资基金、申万菱信量化驱动混合型证券投资基金、申万菱信量化小盘股票型证券投资基金(LOF)、申万菱信价值优利混合型证券投资基金基金经理。",
-        "work_year": "11",
+        "resume": "    俞诚先生,经济学学士。2009年起从事金融相关工作,2009年08月加入申万菱信基金管理有限公司,曾任产品与金融工程总部金融工程师、数量研究员,申万菱信中证申万电子行业投资指数分级证券投资基金、申万菱信中证申万传媒行业投资指数分级证券投资基金、申万菱信中证申万医药生物指数分级证券投资基金、申万菱信沪深300价值指数证券投资基金、申万菱信深证成指分级证券投资基金、申万菱信中证申万证券行业指数分级证券投资基金、申万菱信中证环保产业指数分级证券投资基金、申万菱信中证军工指数分级证券投资基金、申万菱信价值优享混合型证券投资基金、申万菱信中小板指数证券投资基金(LOF)基金经理,现任申万菱信中证500指数增强型证券投资基金、申万菱信量化驱动混合型证券投资基金、申万菱信量化小盘股票型证券投资基金(LOF)、申万菱信价值优利混合型证券投资基金基金经理、申万菱信创业板量化精选股票型证券投资基金基金经理。",
+        "work_year": "12",
         "achievement_list": [
           {
             "fund_code": "010505",
             "fundsname": "申万菱信创业板量化精选股票C",
             "post_date": "2020-10-29",
-            "cp_rate": -1.12
+            "cp_rate": -0.08
           },
           {
             "fund_code": "009557",
             "fundsname": "申万菱信创业板量化精选股票A",
             "post_date": "2020-06-29",
-            "cp_rate": 3.91
+            "cp_rate": 5.02
           },
           {
             "fund_code": "004951",
             "fundsname": "申万菱信价值优利混合",
             "post_date": "2020-04-15",
-            "cp_rate": 42.3732
+            "cp_rate": 47.9682
           },
           {
             "fund_code": "163110",
             "fundsname": "申万菱信量化小盘股票(LOF)",
             "post_date": "2020-04-15",
-            "cp_rate": 29.1628
+            "cp_rate": 31.0197
           },
           {
             "fund_code": "005418",
             "fundsname": "申万菱信量化驱动混合",
             "post_date": "2019-09-28",
-            "cp_rate": 67.5164
+            "cp_rate": 71.9352
           },
           {
             "fund_code": "007795",
             "fundsname": "申万菱信中证500指数增强C",
             "post_date": "2019-08-08",
-            "cp_rate": 69.68
+            "cp_rate": 71.45
           },
           {
             "fund_code": "007799",
@@ -239,7 +239,7 @@
             "fund_code": "002510",
             "fundsname": "申万菱信中证500指数增强A",
             "post_date": "2016-04-21",
-            "cp_rate": 58.45
+            "cp_rate": 60.13
           },
           {
             "fund_code": "150284",

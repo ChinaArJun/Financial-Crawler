@@ -16,8 +16,8 @@
           "name": "京东方A",
           "code": "000725",
           "percent": 4.15,
-          "current_price": 5.25,
-          "change_percentage": -0.57,
+          "current_price": 5.92,
+          "change_percentage": -1.33,
           "xq_symbol": "SZ000725",
           "xq_url": "https://xueqiu.com/S/SZ000725",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "神州数码",
           "code": "000034",
           "percent": 3.12,
-          "current_price": 23.58,
-          "change_percentage": -2,
+          "current_price": 21.85,
+          "change_percentage": 1.82,
           "xq_symbol": "SZ000034",
           "xq_url": "https://xueqiu.com/S/SZ000034",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "创世纪",
           "code": "300083",
           "percent": 3.11,
-          "current_price": 9.49,
-          "change_percentage": 0.11,
+          "current_price": 11.7,
+          "change_percentage": -0.68,
           "xq_symbol": "SZ300083",
           "xq_url": "https://xueqiu.com/S/SZ300083",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "韦尔股份",
           "code": "603501",
           "percent": 2.88,
-          "current_price": 218,
-          "change_percentage": 0.53,
+          "current_price": 230.05,
+          "change_percentage": -0.45,
           "xq_symbol": "SH603501",
           "xq_url": "https://xueqiu.com/S/SH603501",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "欣旺达",
           "code": "300207",
           "percent": 2.83,
-          "current_price": 29.45,
-          "change_percentage": 7.05,
+          "current_price": 31.74,
+          "change_percentage": 3.35,
           "xq_symbol": "SZ300207",
           "xq_url": "https://xueqiu.com/S/SZ300207",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "汇顶科技",
           "code": "603160",
           "percent": 2.41,
-          "current_price": 162.26,
-          "change_percentage": -1.73,
+          "current_price": 155.56,
+          "change_percentage": 0.01,
           "xq_symbol": "SH603160",
           "xq_url": "https://xueqiu.com/S/SH603160",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "歌尔股份",
           "code": "002241",
           "percent": 2.39,
-          "current_price": 37.16,
-          "change_percentage": -2.24,
+          "current_price": 36.74,
+          "change_percentage": -1.55,
           "xq_symbol": "SZ002241",
           "xq_url": "https://xueqiu.com/S/SZ002241",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "新雷能",
           "code": "300593",
           "percent": 2.06,
-          "current_price": 26.76,
-          "change_percentage": 8.21,
+          "current_price": 32.14,
+          "change_percentage": 6.88,
           "xq_symbol": "SZ300593",
           "xq_url": "https://xueqiu.com/S/SZ300593",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "顺络电子",
           "code": "002138",
           "percent": 1.97,
-          "current_price": 27.35,
-          "change_percentage": -0.73,
+          "current_price": 25.18,
+          "change_percentage": 2.69,
           "xq_symbol": "SZ002138",
           "xq_url": "https://xueqiu.com/S/SZ002138",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "信维通信",
           "code": "300136",
           "percent": 1.96,
-          "current_price": 44.67,
-          "change_percentage": -1.33,
+          "current_price": 36.17,
+          "change_percentage": 0.81,
           "xq_symbol": "SZ300136",
           "xq_url": "https://xueqiu.com/S/SZ300136",
           "amarket": true
@@ -212,55 +212,55 @@
         "name": "冯明远",
         "resume": "    冯明远,信达澳银精华灵活配置混合型证券投资基金的基金经理、新能源产业股票基金、先进智造股票基 2017年12月27日 - 9年 浙江大学工学硕士。2010年9月,任平安证券综合研究所研究员,2014年1月加入信达澳银基金公司,任研究咨询部研究员,信达澳银领先增长混金、核心科技混合型基金的基金经理 合基金及信达澳银转型创新股票基金基金经理助理、信达澳银新能源产业股票基金基金经理(2016年10月19日起至今)、信达澳银精华灵活配置混合基金基金经理(2017年12月27日起至今)、信达澳银先进智造股票基金基金经理(2019年1月17日起至今)、信达澳银核心科技混合基金基金经理(2019年8月14日至今)。",
         "college": "浙江大学",
-        "work_year": "10",
+        "work_year": "11",
         "achievement_list": [
           {
             "fund_code": "010363",
             "fundsname": "信达澳银匠心臻选两年持有期混合",
             "post_date": "2020-10-30",
-            "cp_rate": 3.19
+            "cp_rate": 10.37
           },
           {
             "fund_code": "009511",
             "fundsname": "信达澳银研究优选混合",
             "post_date": "2020-06-22",
-            "cp_rate": 1.8
+            "cp_rate": 3.89
           },
           {
             "fund_code": "009437",
             "fundsname": "信达澳银科技创新一年定开混合A",
             "post_date": "2020-05-29",
-            "cp_rate": 5.86
+            "cp_rate": 9.28
           },
           {
             "fund_code": "009438",
             "fundsname": "信达澳银科技创新一年定开混合C",
             "post_date": "2020-05-29",
-            "cp_rate": 5.81
+            "cp_rate": 9.21
           },
           {
             "fund_code": "007484",
             "fundsname": "信达澳银核心科技混合",
             "post_date": "2019-08-14",
-            "cp_rate": 74.34
+            "cp_rate": 81.22
           },
           {
             "fund_code": "006257",
             "fundsname": "信达澳银先进智造股票",
             "post_date": "2019-01-17",
-            "cp_rate": 118.82
+            "cp_rate": 126.24
           },
           {
             "fund_code": "610002",
             "fundsname": "信达澳银精华配置混合",
             "post_date": "2017-12-26",
-            "cp_rate": 101.809
+            "cp_rate": 109.409
           },
           {
             "fund_code": "001410",
             "fundsname": "信达澳银新能源产业股票",
             "post_date": "2016-10-19",
-            "cp_rate": 236.766
+            "cp_rate": 248.9702
           }
         ]
       }

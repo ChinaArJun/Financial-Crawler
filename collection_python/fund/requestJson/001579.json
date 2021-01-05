@@ -16,8 +16,8 @@
           "name": "通威股份",
           "code": "600438",
           "percent": 4.68,
-          "current_price": 29.2,
-          "change_percentage": -1.85,
+          "current_price": 41.65,
+          "change_percentage": 8.35,
           "xq_symbol": "SH600438",
           "xq_url": "https://xueqiu.com/S/SH600438",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "双汇发展",
           "code": "000895",
           "percent": 4.67,
-          "current_price": 48.4,
-          "change_percentage": 1.4,
+          "current_price": 48.01,
+          "change_percentage": 2.28,
           "xq_symbol": "SZ000895",
           "xq_url": "https://xueqiu.com/S/SZ000895",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "新希望",
           "code": "000876",
           "percent": 4.36,
-          "current_price": 26.59,
-          "change_percentage": -1.3,
+          "current_price": 24.64,
+          "change_percentage": 10,
           "xq_symbol": "SZ000876",
           "xq_url": "https://xueqiu.com/S/SZ000876",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "牧原股份",
           "code": "002714",
           "percent": 4.25,
-          "current_price": 78.22,
-          "change_percentage": -0.7,
+          "current_price": 84.81,
+          "change_percentage": 10,
           "xq_symbol": "SZ002714",
           "xq_url": "https://xueqiu.com/S/SZ002714",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 4.15,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "海大集团",
           "code": "002311",
           "percent": 3.56,
-          "current_price": 61,
-          "change_percentage": 0,
+          "current_price": 68.43,
+          "change_percentage": 4.47,
           "xq_symbol": "SZ002311",
           "xq_url": "https://xueqiu.com/S/SZ002311",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "海天味业",
           "code": "603288",
           "percent": 3.29,
-          "current_price": 183.5,
-          "change_percentage": 0.84,
+          "current_price": 200.52,
+          "change_percentage": -0.01,
           "xq_symbol": "SH603288",
           "xq_url": "https://xueqiu.com/S/SH603288",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "华鲁恒升",
           "code": "600426",
           "percent": 3.17,
-          "current_price": 34.94,
-          "change_percentage": 1.28,
+          "current_price": 37.01,
+          "change_percentage": -0.78,
           "xq_symbol": "SH600426",
           "xq_url": "https://xueqiu.com/S/SH600426",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "联化科技",
           "code": "002250",
           "percent": 3.07,
-          "current_price": 24.42,
-          "change_percentage": -0.45,
+          "current_price": 23.7,
+          "change_percentage": -1.21,
           "xq_symbol": "SZ002250",
           "xq_url": "https://xueqiu.com/S/SZ002250",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "顺鑫农业",
           "code": "000860",
           "percent": 3.05,
-          "current_price": 64.72,
-          "change_percentage": 3.39,
+          "current_price": 74.88,
+          "change_percentage": 3.23,
           "xq_symbol": "SZ000860",
           "xq_url": "https://xueqiu.com/S/SZ000860",
           "amarket": true
@@ -199,31 +199,31 @@
       {
         "name": "程洲",
         "resume": "    程洲,硕士研究生,CFA,20年证券基金从业经历。曾任职于申银万国证券研究所。2004年4月加盟国泰基金管理有限公司,历任高级策略分析师、基金经理助理,2008年4月至2014年3月任国泰金马稳健回报证券投资基金的基金经理,2009年12月至2012年12月任金泰证券投资基金的基金经理,2010年2月至2011年12月任国泰估值优势可分离交易股票型证券投资基金的基金经理,2012年12月至2017年1月任国泰金泰平衡混合型证券投资基金(由金泰证券投资基金转型而来)的基金经理,2013年12月起兼任国泰聚信价值优势灵活配置混合型证券投资基金的基金经理,2015年1月起兼任国泰金牛创新成长混合型证券投资基金(原国泰金牛创新成长股票型证券投资基金)的基金经理,2017年3月至2020年7月任国泰民丰回报定期开放灵活配置混合型证券投资基金的基金经理,2017年6月起兼任国泰大农业股票型证券投资基金的基金经理,2017年11月起兼任国泰聚优价值灵活配置混合型证券投资基金的基金经理,2018年3月起兼任国泰聚利价值定期开放灵活配置混合型证券投资基金的基金经理,2019年5月至2020年7月任国泰鑫策略价值灵活配置混合型证券投资基金的基金经理,2019年11月起兼任国泰鑫睿混合型证券投资基金的基金经理,2020年1月起兼任国泰鑫利一年持有期混合型证券投资基金的基金经理,2020年5月起兼任国泰大制造两年持有期混合型证券投资基金的基金经理。",
-        "work_year": "20",
+        "work_year": "21",
         "achievement_list": [
           {
             "fund_code": "008415",
             "fundsname": "国泰大制造两年持有期混合",
             "post_date": "2020-05-29",
-            "cp_rate": 16.27
+            "cp_rate": 18.25
           },
           {
             "fund_code": "008667",
             "fundsname": "国泰鑫利一年持有期混合C",
             "post_date": "2020-01-21",
-            "cp_rate": 6.05
+            "cp_rate": 6.77
           },
           {
             "fund_code": "008666",
             "fundsname": "国泰鑫利一年持有期混合A",
             "post_date": "2020-01-21",
-            "cp_rate": 6.61
+            "cp_rate": 7.37
           },
           {
             "fund_code": "007835",
             "fundsname": "国泰鑫睿混合",
             "post_date": "2019-11-13",
-            "cp_rate": 78.11
+            "cp_rate": 73.79
           },
           {
             "fund_code": "002197",
@@ -236,25 +236,25 @@
             "fund_code": "005746",
             "fundsname": "国泰聚利价值定期开放灵活配置混合",
             "post_date": "2018-03-27",
-            "cp_rate": 27.52
+            "cp_rate": 27.85
           },
           {
             "fund_code": "005244",
             "fundsname": "国泰聚优价值灵活配置混合A",
             "post_date": "2017-11-15",
-            "cp_rate": 74.56
+            "cp_rate": 70.43
           },
           {
             "fund_code": "005245",
             "fundsname": "国泰聚优价值灵活配置混合C",
             "post_date": "2017-11-15",
-            "cp_rate": 71.88
+            "cp_rate": 67.76
           },
           {
             "fund_code": "001579",
             "fundsname": "国泰大农业股票",
             "post_date": "2017-06-15",
-            "cp_rate": 150.2
+            "cp_rate": 153.9
           },
           {
             "fund_code": "003955",
@@ -274,19 +274,19 @@
             "fund_code": "020010",
             "fundsname": "国泰金牛创新成长混合",
             "post_date": "2015-01-26",
-            "cp_rate": 158.0785
+            "cp_rate": 158.7207
           },
           {
             "fund_code": "000363",
             "fundsname": "国泰聚信价值优势灵活配置混合C",
             "post_date": "2013-12-17",
-            "cp_rate": 383.42
+            "cp_rate": 381.03
           },
           {
             "fund_code": "000362",
             "fundsname": "国泰聚信价值优势灵活配置混合A",
             "post_date": "2013-12-17",
-            "cp_rate": 381.54
+            "cp_rate": 379.34
           },
           {
             "fund_code": "519020",

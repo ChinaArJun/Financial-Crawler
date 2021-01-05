@@ -16,8 +16,8 @@
           "name": "杭州银行",
           "code": "600926",
           "percent": 3.09,
-          "current_price": 14.32,
-          "change_percentage": 0.07,
+          "current_price": 14.02,
+          "change_percentage": -6.03,
           "xq_symbol": "SH600926",
           "xq_url": "https://xueqiu.com/S/SH600926",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "万科A",
           "code": "000002",
           "percent": 2.94,
-          "current_price": 29.18,
-          "change_percentage": -0.78,
+          "current_price": 27.78,
+          "change_percentage": -3.21,
           "xq_symbol": "SZ000002",
           "xq_url": "https://xueqiu.com/S/SZ000002",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "宁沪高速",
           "code": "600377",
           "percent": 2.77,
-          "current_price": 9.52,
-          "change_percentage": -0.42,
+          "current_price": 9.13,
+          "change_percentage": -0.87,
           "xq_symbol": "SH600377",
           "xq_url": "https://xueqiu.com/S/SH600377",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "新华保险",
           "code": "601336",
           "percent": 2.65,
-          "current_price": 62.1,
-          "change_percentage": 0.23,
+          "current_price": 56.49,
+          "change_percentage": -2.55,
           "xq_symbol": "SH601336",
           "xq_url": "https://xueqiu.com/S/SH601336",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "陕西煤业",
           "code": "601225",
           "percent": 2.53,
-          "current_price": 9.91,
-          "change_percentage": 0,
+          "current_price": 9.59,
+          "change_percentage": 2.68,
           "xq_symbol": "SH601225",
           "xq_url": "https://xueqiu.com/S/SH601225",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "国投电力",
           "code": "600886",
           "percent": 2.45,
-          "current_price": 9.19,
-          "change_percentage": 0.33,
+          "current_price": 8.73,
+          "change_percentage": 1.04,
           "xq_symbol": "SH600886",
           "xq_url": "https://xueqiu.com/S/SH600886",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 2.3,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 2.28,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "隆基股份",
           "code": "601012",
           "percent": 2.26,
-          "current_price": 72.54,
-          "change_percentage": 1.14,
+          "current_price": 100.1,
+          "change_percentage": 8.57,
           "xq_symbol": "SH601012",
           "xq_url": "https://xueqiu.com/S/SH601012",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "东方雨虹",
           "code": "002271",
           "percent": 2.09,
-          "current_price": 35.92,
-          "change_percentage": 0.25,
+          "current_price": 39.48,
+          "change_percentage": 1.75,
           "xq_symbol": "SZ002271",
           "xq_url": "https://xueqiu.com/S/SZ002271",
           "amarket": true
@@ -186,9 +186,9 @@
     "manager_list": [
       {
         "name": "乔春",
-        "resume": "    乔春先生,中南大学环境工程专业工学学士、南开大学金融学硕士,2010年进入长城基金管理有限公司,曾任研究部行业研究员,长城安心回报混合型证券投资基金基金经理助理,2014年9月16日至2017年7月担任久嘉证券投资基金基金经理。2015年4月至2017年8月任长城环保主题灵活配置混合型证券投资基金基金经理。2017年3月至2017年8月任长城双动力混合型证券投资基金基金经理。2017年7月至2017年8月担任长城久嘉创新成长灵活配置混合型证券投资基金基金经理。2017年9月加入金鹰基金管理有限公司,担任基金经理助理。2019年4月起任金鹰科技创新股票型证券投资基金基金经理。",
+        "resume": "    乔春先生,中南大学环境工程专业工学学士、南开大学金融学硕士,2010年进入长城基金管理有限公司,曾任研究部行业研究员,长城安心回报混合型证券投资基金基金经理助理,2014年9月16日至2017年7月担任久嘉证券投资基金基金经理。2015年4月至2017年8月任长城环保主题灵活配置混合型证券投资基金基金经理。2017年3月至2017年8月任长城双动力混合型证券投资基金基金经理。2017年7月至2017年8月担任长城久嘉创新成长灵活配置混合型证券投资基金基金经理。2017年9月加入金鹰基金管理有限公司,担任基金经理助理。2019年4月起任金鹰科技创新股票型证券投资基金基金经理,2020年4月起任金鹰量化精选股票型证券投资基金(LOF)基金经理。",
         "college": "南开大学",
-        "work_year": "10",
+        "work_year": "11",
         "achievement_list": [
           {
             "fund_code": "150088",
@@ -204,13 +204,13 @@
             "fund_code": "162107",
             "fundsname": "金鹰量化精选股票(LOF)",
             "post_date": "2020-04-28",
-            "cp_rate": 22.9511
+            "cp_rate": 31.7339
           },
           {
             "fund_code": "001167",
             "fundsname": "金鹰科技创新股票",
             "post_date": "2019-04-17",
-            "cp_rate": 60.4839
+            "cp_rate": 79.8387
           },
           {
             "fund_code": "004666",

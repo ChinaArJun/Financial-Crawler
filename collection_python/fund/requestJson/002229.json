@@ -16,8 +16,8 @@
           "name": "七一二",
           "code": "603712",
           "percent": 5.23,
-          "current_price": 37.75,
-          "change_percentage": 0.51,
+          "current_price": 43.45,
+          "change_percentage": 4.32,
           "xq_symbol": "SH603712",
           "xq_url": "https://xueqiu.com/S/SH603712",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "新宝股份",
           "code": "002705",
           "percent": 5.11,
-          "current_price": 41.98,
-          "change_percentage": 0.19,
+          "current_price": 43.73,
+          "change_percentage": 3.5,
           "xq_symbol": "SZ002705",
           "xq_url": "https://xueqiu.com/S/SZ002705",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "中航高科",
           "code": "600862",
           "percent": 4.82,
-          "current_price": 25.12,
-          "change_percentage": -1.49,
+          "current_price": 31.76,
+          "change_percentage": 5.51,
           "xq_symbol": "SH600862",
           "xq_url": "https://xueqiu.com/S/SH600862",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 4.59,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "宁德时代",
           "code": "300750",
           "percent": 3.86,
-          "current_price": 266.03,
-          "change_percentage": 1.75,
+          "current_price": 404.1,
+          "change_percentage": 15.09,
           "xq_symbol": "SZ300750",
           "xq_url": "https://xueqiu.com/S/SZ300750",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "TCL科技",
           "code": "000100",
           "percent": 3.73,
-          "current_price": 7.16,
-          "change_percentage": 1.42,
+          "current_price": 7.18,
+          "change_percentage": 1.41,
           "xq_symbol": "SZ000100",
           "xq_url": "https://xueqiu.com/S/SZ000100",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "吉比特",
           "code": "603444",
           "percent": 3.67,
-          "current_price": 410.3,
-          "change_percentage": 2.32,
+          "current_price": 437.99,
+          "change_percentage": 2.81,
           "xq_symbol": "SH603444",
           "xq_url": "https://xueqiu.com/S/SH603444",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "三花智控",
           "code": "002050",
           "percent": 3.53,
-          "current_price": 24.3,
-          "change_percentage": 2.84,
+          "current_price": 27.12,
+          "change_percentage": 10.02,
           "xq_symbol": "SZ002050",
           "xq_url": "https://xueqiu.com/S/SZ002050",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "广联达",
           "code": "002410",
           "percent": 3.09,
-          "current_price": 70.77,
-          "change_percentage": 2.08,
+          "current_price": 80.53,
+          "change_percentage": 2.27,
           "xq_symbol": "SZ002410",
           "xq_url": "https://xueqiu.com/S/SZ002410",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "京东方A",
           "code": "000725",
           "percent": 2.94,
-          "current_price": 5.25,
-          "change_percentage": -0.57,
+          "current_price": 5.92,
+          "change_percentage": -1.33,
           "xq_symbol": "SZ000725",
           "xq_url": "https://xueqiu.com/S/SZ000725",
           "amarket": true
@@ -200,37 +200,43 @@
         "name": "张帆",
         "resume": "    张帆先生,北京大学理学硕士。曾任华创证券研究部TMT行业分析师,中信证券研究部高级副总裁、电子行业首席分析师等。 2015年11月加入华夏基金管理有限公司,曾任股票投资部基金经理助理等,现任股票投资部总监,华夏经济转型股票型证券投资基金基金经理(2017年1月6日起任职)、华夏科技成长股票型证券投资基金基金经理(2019年3月5日起任职)、华夏科技创新混合型证券投资基金基金经理(2019年5月6日起任职)。",
         "college": "北京大学",
-        "work_year": "10",
+        "work_year": "11",
         "achievement_list": [
           {
             "fund_code": "010305",
             "fundsname": "华夏创新驱动混合A",
             "post_date": "2020-10-27",
-            "cp_rate": -0.71
+            "cp_rate": 1.43
           },
           {
             "fund_code": "010306",
             "fundsname": "华夏创新驱动混合C",
             "post_date": "2020-10-27",
-            "cp_rate": -0.78
+            "cp_rate": 1.31
           },
           {
             "fund_code": "007349",
             "fundsname": "华夏科技创新混合A",
             "post_date": "2019-05-06",
-            "cp_rate": 113.31
+            "cp_rate": 139.97
+          },
+          {
+            "fund_code": "007350",
+            "fundsname": "华夏科技创新混合C",
+            "post_date": "2019-05-06",
+            "cp_rate": 11.0057
           },
           {
             "fund_code": "006868",
             "fundsname": "华夏科技成长股票",
             "post_date": "2019-03-05",
-            "cp_rate": 80.73
+            "cp_rate": 97.98
           },
           {
             "fund_code": "002229",
             "fundsname": "华夏经济转型股票",
             "post_date": "2017-01-06",
-            "cp_rate": 130.5696
+            "cp_rate": 148.5986
           }
         ]
       }

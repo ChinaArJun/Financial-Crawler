@@ -16,8 +16,8 @@
           "name": "杭氧股份",
           "code": "002430",
           "percent": 11.17,
-          "current_price": 27.38,
-          "change_percentage": 1.71,
+          "current_price": 28.8,
+          "change_percentage": -1,
           "xq_symbol": "SZ002430",
           "xq_url": "https://xueqiu.com/S/SZ002430",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "歌尔股份",
           "code": "002241",
           "percent": 9.66,
-          "current_price": 37.16,
-          "change_percentage": -2.24,
+          "current_price": 36.74,
+          "change_percentage": -1.55,
           "xq_symbol": "SZ002241",
           "xq_url": "https://xueqiu.com/S/SZ002241",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "东方财富",
           "code": "300059",
           "percent": 6.8,
-          "current_price": 28.05,
-          "change_percentage": 1.08,
+          "current_price": 32.2,
+          "change_percentage": 3.87,
           "xq_symbol": "SZ300059",
           "xq_url": "https://xueqiu.com/S/SZ300059",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "领益智造",
           "code": "002600",
           "percent": 6.53,
-          "current_price": 14.36,
-          "change_percentage": 0,
+          "current_price": 11.77,
+          "change_percentage": -1.83,
           "xq_symbol": "SZ002600",
           "xq_url": "https://xueqiu.com/S/SZ002600",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "当升科技",
           "code": "300073",
           "percent": 6.04,
-          "current_price": 52.55,
-          "change_percentage": 7.86,
+          "current_price": 68.94,
+          "change_percentage": 6.31,
           "xq_symbol": "SZ300073",
           "xq_url": "https://xueqiu.com/S/SZ300073",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "阳光电源",
           "code": "300274",
           "percent": 4.87,
-          "current_price": 51.88,
-          "change_percentage": 6.31,
+          "current_price": 78.19,
+          "change_percentage": 8.18,
           "xq_symbol": "SZ300274",
           "xq_url": "https://xueqiu.com/S/SZ300274",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "双汇发展",
           "code": "000895",
           "percent": 4.69,
-          "current_price": 48.4,
-          "change_percentage": 1.4,
+          "current_price": 48.01,
+          "change_percentage": 2.28,
           "xq_symbol": "SZ000895",
           "xq_url": "https://xueqiu.com/S/SZ000895",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "航天发展",
           "code": "000547",
           "percent": 4.69,
-          "current_price": 22.8,
-          "change_percentage": 0.31,
+          "current_price": 29.88,
+          "change_percentage": 8.65,
           "xq_symbol": "SZ000547",
           "xq_url": "https://xueqiu.com/S/SZ000547",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "航天电器",
           "code": "002025",
           "percent": 4.21,
-          "current_price": 53.01,
-          "change_percentage": 0.7,
+          "current_price": 71.1,
+          "change_percentage": 9.08,
           "xq_symbol": "SZ002025",
           "xq_url": "https://xueqiu.com/S/SZ002025",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "ST抚钢",
           "code": "600399",
           "percent": 3.9,
-          "current_price": 12.05,
-          "change_percentage": -1.15,
+          "current_price": 15.65,
+          "change_percentage": 5.03,
           "xq_symbol": "SH600399",
           "xq_url": "https://xueqiu.com/S/SH600399",
           "amarket": true
@@ -187,7 +187,7 @@
       {
         "name": "宋炳珅",
         "resume": "    宋炳珅先生,15年证券从业经验;曾任中信建投证券有限公司研究员;2007年加入工银瑞信,现任权益投资总监。2012年2月14日至今,担任工银瑞信添颐债券型证券投资基金基金经理;2013年1月18日至今,担任工银双利债券基金基金经理;2013年1月28日至2014年12月5日,担任工银瑞信60天理财债券型基金基金经理;2014年1月20日至今,担任工银瑞信红利混合型证券投资基金基金经理;2014年1月20日至2017年5月27日,担任工银瑞信核心价值混合型证券投资基金基金经理;2014年10月23日至今,担任工银瑞信研究精选股票型基金基金经理;2014年11月18日至今,担任工银医疗保健行业股票型基金基金经理;2015年2月16日至2017年12月22日,担任工银战略转型主题股票基金基金经理;2017年4月12日至今,担任工银瑞信中国制造2025股票型证券投资基金基金经理。",
-        "work_year": "16",
+        "work_year": "17",
         "achievement_list": [
           {
             "fund_code": "002386",
@@ -221,7 +221,7 @@
             "fund_code": "000803",
             "fundsname": "工银瑞信研究精选股票",
             "post_date": "2014-10-23",
-            "cp_rate": 190.6
+            "cp_rate": 213.1
           },
           {
             "fund_code": "481001",
@@ -255,13 +255,13 @@
             "fund_code": "485011",
             "fundsname": "工银瑞信双利债券B",
             "post_date": "2013-01-18",
-            "cp_rate": 82.8838
+            "cp_rate": 84.6939
           },
           {
             "fund_code": "485111",
             "fundsname": "工银瑞信双利债券A",
             "post_date": "2013-01-18",
-            "cp_rate": 88.7346
+            "cp_rate": 90.5536
           },
           {
             "fund_code": "485014",

@@ -15,8 +15,8 @@
           "name": "顺丰控股",
           "code": "002352",
           "percent": 5.88,
-          "current_price": 80.21,
-          "change_percentage": -1.88,
+          "current_price": 90.48,
+          "change_percentage": 2.55,
           "xq_symbol": "SZ002352",
           "xq_url": "https://xueqiu.com/S/SZ002352",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "石头科技",
           "code": "688169",
           "percent": 5.28,
-          "current_price": 921.36,
-          "change_percentage": 1.98,
+          "current_price": 978.04,
+          "change_percentage": -5.59,
           "xq_symbol": "SH688169",
           "xq_url": "https://xueqiu.com/S/SH688169",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "欣旺达",
           "code": "300207",
           "percent": 4.97,
-          "current_price": 29.45,
-          "change_percentage": 7.05,
+          "current_price": 31.74,
+          "change_percentage": 3.35,
           "xq_symbol": "SZ300207",
           "xq_url": "https://xueqiu.com/S/SZ300207",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "长安汽车",
           "code": "000625",
           "percent": 4.51,
-          "current_price": 25.2,
-          "change_percentage": 5.7,
+          "current_price": 21.75,
+          "change_percentage": -0.59,
           "xq_symbol": "SZ000625",
           "xq_url": "https://xueqiu.com/S/SZ000625",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "视源股份",
           "code": "002841",
           "percent": 4.41,
-          "current_price": 110.83,
-          "change_percentage": 1.03,
+          "current_price": 114.49,
+          "change_percentage": -0.47,
           "xq_symbol": "SZ002841",
           "xq_url": "https://xueqiu.com/S/SZ002841",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "豆神教育",
           "code": "300010",
           "percent": 4.05,
-          "current_price": 11.92,
-          "change_percentage": -0.83,
+          "current_price": 9.62,
+          "change_percentage": -1.43,
           "xq_symbol": "SZ300010",
           "xq_url": "https://xueqiu.com/S/SZ300010",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "晶晨股份",
           "code": "688099",
           "percent": 3.82,
-          "current_price": 71.4,
-          "change_percentage": 1.42,
+          "current_price": 75.14,
+          "change_percentage": -4.56,
           "xq_symbol": "SH688099",
           "xq_url": "https://xueqiu.com/S/SH688099",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "每日互动",
           "code": "300766",
           "percent": 3.8,
-          "current_price": 26.44,
-          "change_percentage": -1.67,
+          "current_price": 17.25,
+          "change_percentage": 4.61,
           "xq_symbol": "SZ300766",
           "xq_url": "https://xueqiu.com/S/SZ300766",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "航发动力",
           "code": "600893",
           "percent": 3.74,
-          "current_price": 46.99,
-          "change_percentage": -1.49,
+          "current_price": 65.29,
+          "change_percentage": 10.01,
           "xq_symbol": "SH600893",
           "xq_url": "https://xueqiu.com/S/SH600893",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "浙江鼎力",
           "code": "603338",
           "percent": 3.32,
-          "current_price": 103.96,
-          "change_percentage": -2.04,
+          "current_price": 103.13,
+          "change_percentage": 1.92,
           "xq_symbol": "SH603338",
           "xq_url": "https://xueqiu.com/S/SH603338",
           "amarket": true
@@ -181,37 +181,37 @@
       {
         "name": "杨锐文",
         "resume": "    杨锐文先生,工学硕士、理学硕士。曾担任上海常春藤衍生投资公司高级分析师。2010年11月加入景顺长城基金管理有限公司,担任研究部研究员,自2014年10月起担任股票投资部基金经理,现任股票投资部投资副总监兼基金经理。具有9年证券、基金行业从业经验。",
-        "work_year": "10",
+        "work_year": "11",
         "achievement_list": [
           {
             "fund_code": "010004",
             "fundsname": "景顺长城电子信息产业股票C",
             "post_date": "2020-09-09",
-            "cp_rate": 6.24
+            "cp_rate": 10.49
           },
           {
             "fund_code": "010003",
             "fundsname": "景顺长城电子信息产业股票A",
             "post_date": "2020-09-09",
-            "cp_rate": 6.34
+            "cp_rate": 10.63
           },
           {
             "fund_code": "260111",
             "fundsname": "景顺长城公司治理混合",
             "post_date": "2020-07-25",
-            "cp_rate": 22.4117
+            "cp_rate": 29.2236
           },
           {
             "fund_code": "009376",
             "fundsname": "景顺长城成长领航混合",
             "post_date": "2020-05-28",
-            "cp_rate": 18.66
+            "cp_rate": 24.65
           },
           {
             "fund_code": "006435",
             "fundsname": "景顺长城创新成长混合",
             "post_date": "2019-10-17",
-            "cp_rate": 68.9
+            "cp_rate": 79.68
           },
           {
             "fund_code": "003505",
@@ -238,7 +238,7 @@
             "fund_code": "001975",
             "fundsname": "景顺长城环保优势股票",
             "post_date": "2016-03-15",
-            "cp_rate": 216.7
+            "cp_rate": 235.7
           },
           {
             "fund_code": "162607",
@@ -258,7 +258,7 @@
             "fund_code": "260101",
             "fundsname": "景顺长城优选混合",
             "post_date": "2014-10-25",
-            "cp_rate": 246.361
+            "cp_rate": 264.9398
           }
         ]
       }

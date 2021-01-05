@@ -16,8 +16,8 @@
           "name": "五粮液",
           "code": "000858",
           "percent": 10.03,
-          "current_price": 272,
-          "change_percentage": 0.65,
+          "current_price": 298.05,
+          "change_percentage": 2.12,
           "xq_symbol": "SZ000858",
           "xq_url": "https://xueqiu.com/S/SZ000858",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 9.98,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "中国中免",
           "code": "601888",
           "percent": 7.91,
-          "current_price": 208.03,
-          "change_percentage": 0.13,
+          "current_price": 292.25,
+          "change_percentage": 3.47,
           "xq_symbol": "SH601888",
           "xq_url": "https://xueqiu.com/S/SH601888",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "牧原股份",
           "code": "002714",
           "percent": 7.38,
-          "current_price": 78.22,
-          "change_percentage": -0.7,
+          "current_price": 84.81,
+          "change_percentage": 10,
           "xq_symbol": "SZ002714",
           "xq_url": "https://xueqiu.com/S/SZ002714",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "山西汾酒",
           "code": "600809",
           "percent": 7.11,
-          "current_price": 265.1,
-          "change_percentage": 1.54,
+          "current_price": 373.63,
+          "change_percentage": -0.44,
           "xq_symbol": "SH600809",
           "xq_url": "https://xueqiu.com/S/SH600809",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "新希望",
           "code": "000876",
           "percent": 7.05,
-          "current_price": 26.59,
-          "change_percentage": -1.3,
+          "current_price": 24.64,
+          "change_percentage": 10,
           "xq_symbol": "SZ000876",
           "xq_url": "https://xueqiu.com/S/SZ000876",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "大博医疗",
           "code": "002901",
           "percent": 6.18,
-          "current_price": 72.78,
-          "change_percentage": -0.56,
+          "current_price": 75.16,
+          "change_percentage": 1.94,
           "xq_symbol": "SZ002901",
           "xq_url": "https://xueqiu.com/S/SZ002901",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "泸州老窖",
           "code": "000568",
           "percent": 5.6,
-          "current_price": 191.85,
-          "change_percentage": 0.56,
+          "current_price": 240.85,
+          "change_percentage": 6.5,
           "xq_symbol": "SZ000568",
           "xq_url": "https://xueqiu.com/S/SZ000568",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "海天味业",
           "code": "603288",
           "percent": 4.62,
-          "current_price": 183.5,
-          "change_percentage": 0.84,
+          "current_price": 200.52,
+          "change_percentage": -0.01,
           "xq_symbol": "SH603288",
           "xq_url": "https://xueqiu.com/S/SH603288",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "海鸥住工",
           "code": "002084",
           "percent": 4.05,
-          "current_price": 8.25,
-          "change_percentage": -1.08,
+          "current_price": 6.77,
+          "change_percentage": -3.84,
           "xq_symbol": "SZ002084",
           "xq_url": "https://xueqiu.com/S/SZ002084",
           "amarket": true
@@ -192,13 +192,13 @@
             "fund_code": "003190",
             "fundsname": "创金合信消费主题股票A",
             "post_date": "2019-05-30",
-            "cp_rate": 76.6796
+            "cp_rate": 99.6885
           },
           {
             "fund_code": "003191",
             "fundsname": "创金合信消费主题股票C",
             "post_date": "2019-05-30",
-            "cp_rate": 74.0355
+            "cp_rate": 96.6099
           }
         ]
       }

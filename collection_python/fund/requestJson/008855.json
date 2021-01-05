@@ -16,8 +16,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 7.54,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -34,8 +34,8 @@
           "name": "三一重工",
           "code": "600031",
           "percent": 4.96,
-          "current_price": 31.48,
-          "change_percentage": -1.41,
+          "current_price": 34.8,
+          "change_percentage": -0.51,
           "xq_symbol": "SH600031",
           "xq_url": "https://xueqiu.com/S/SH600031",
           "amarket": true
@@ -44,8 +44,8 @@
           "name": "美的集团",
           "code": "000333",
           "percent": 3.96,
-          "current_price": 86.7,
-          "change_percentage": -1.54,
+          "current_price": 99.01,
+          "change_percentage": 0.58,
           "xq_symbol": "SZ000333",
           "xq_url": "https://xueqiu.com/S/SZ000333",
           "amarket": true
@@ -54,8 +54,8 @@
           "name": "东方雨虹",
           "code": "002271",
           "percent": 3.41,
-          "current_price": 35.92,
-          "change_percentage": 0.25,
+          "current_price": 39.48,
+          "change_percentage": 1.75,
           "xq_symbol": "SZ002271",
           "xq_url": "https://xueqiu.com/S/SZ002271",
           "amarket": true
@@ -64,8 +64,8 @@
           "name": "长春高新",
           "code": "000661",
           "percent": 3.24,
-          "current_price": 388,
-          "change_percentage": 0.19,
+          "current_price": 473.45,
+          "change_percentage": 5.47,
           "xq_symbol": "SZ000661",
           "xq_url": "https://xueqiu.com/S/SZ000661",
           "amarket": true
@@ -74,8 +74,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 3.23,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -84,8 +84,8 @@
           "name": "恒瑞医药",
           "code": "600276",
           "percent": 3.05,
-          "current_price": 90.07,
-          "change_percentage": 0.21,
+          "current_price": 111.2,
+          "change_percentage": -0.23,
           "xq_symbol": "SH600276",
           "xq_url": "https://xueqiu.com/S/SH600276",
           "amarket": true
@@ -102,8 +102,8 @@
           "name": "五粮液",
           "code": "000858",
           "percent": 2.87,
-          "current_price": 272,
-          "change_percentage": 0.65,
+          "current_price": 298.05,
+          "change_percentage": 2.12,
           "xq_symbol": "SZ000858",
           "xq_url": "https://xueqiu.com/S/SZ000858",
           "amarket": true
@@ -185,55 +185,55 @@
         "name": "骆帅",
         "resume": "    骆帅先生,清华大学管理科学与工程专业硕士,具有基金从业资格,2009年7月加入南方基金,担任研究部研究员、高级研究员;2014年3月31日至2015年5月28日,任南方成份、南方安心基金经理助理;2015年6月19日至2019年1月25日,任南方价值基金经理;2015年5月28日至2020年2月7日,任南方高端装备基金经理;2018年8月10日至2020年5月15日,任南方共享经济混合基金经理;2015年6月19日至今,任南方成长基金经理;2016年12月28日至今,任南方绩优基金经理;2019年9月18日至今,任南方智锐混合基金经理;2020年2月21日至今,任南方内需增长两年股票基金经理;2020年8月13日至今,兼任投资经理。",
         "college": "清华大学",
-        "work_year": "11",
+        "work_year": "12",
         "achievement_list": [
           {
             "fund_code": "010063",
             "fundsname": "南方行业精选一年持有期混合C",
             "post_date": "2020-10-27",
-            "cp_rate": -0.1
+            "cp_rate": 4.74
           },
           {
             "fund_code": "010062",
             "fundsname": "南方行业精选一年持有期混合A",
             "post_date": "2020-10-27",
-            "cp_rate": -0.04
+            "cp_rate": 4.85
           },
           {
             "fund_code": "009930",
             "fundsname": "南方创新驱动混合C",
             "post_date": "2020-08-28",
-            "cp_rate": 2.23
+            "cp_rate": 8.39
           },
           {
             "fund_code": "009929",
             "fundsname": "南方创新驱动混合A",
             "post_date": "2020-08-28",
-            "cp_rate": 2.4
+            "cp_rate": 8.61
           },
           {
             "fund_code": "008855",
             "fundsname": "南方内需增长两年股票C",
             "post_date": "2020-02-21",
-            "cp_rate": 35.09
+            "cp_rate": 44.74
           },
           {
             "fund_code": "008854",
             "fundsname": "南方内需增长两年股票A",
             "post_date": "2020-02-21",
-            "cp_rate": 35.73
+            "cp_rate": 45.49
           },
           {
             "fund_code": "007734",
             "fundsname": "南方智锐混合C",
             "post_date": "2019-09-18",
-            "cp_rate": 61.01
+            "cp_rate": 73.68
           },
           {
             "fund_code": "007733",
             "fundsname": "南方智锐混合A",
             "post_date": "2019-09-18",
-            "cp_rate": 62.2
+            "cp_rate": 75.03
           },
           {
             "fund_code": "006539",
@@ -246,7 +246,7 @@
             "fund_code": "006540",
             "fundsname": "南方绩优成长混合C",
             "post_date": "2018-11-13",
-            "cp_rate": 98.4574
+            "cp_rate": 113.7903
           },
           {
             "fund_code": "005769",
@@ -266,13 +266,13 @@
             "fund_code": "005206",
             "fundsname": "南方优选成长混合C",
             "post_date": "2017-12-01",
-            "cp_rate": 80.8424
+            "cp_rate": 92.1426
           },
           {
             "fund_code": "202003",
             "fundsname": "南方绩优成长混合A",
             "post_date": "2016-12-28",
-            "cp_rate": 109.9247
+            "cp_rate": 126.272
           },
           {
             "fund_code": "960020",
@@ -285,7 +285,7 @@
             "fund_code": "202023",
             "fundsname": "南方优选成长混合A",
             "post_date": "2015-06-19",
-            "cp_rate": 121.3359
+            "cp_rate": 135.3196
           },
           {
             "fund_code": "202011",
@@ -310,8 +310,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

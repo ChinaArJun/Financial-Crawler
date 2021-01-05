@@ -16,8 +16,8 @@
           "name": "广联达",
           "code": "002410",
           "percent": 8.17,
-          "current_price": 70.77,
-          "change_percentage": 2.08,
+          "current_price": 80.53,
+          "change_percentage": 2.27,
           "xq_symbol": "SZ002410",
           "xq_url": "https://xueqiu.com/S/SZ002410",
           "amarket": true
@@ -26,8 +26,8 @@
           "name": "昂利康",
           "code": "002940",
           "percent": 8.15,
-          "current_price": 45.44,
-          "change_percentage": -0.85,
+          "current_price": 41.35,
+          "change_percentage": -0.02,
           "xq_symbol": "SZ002940",
           "xq_url": "https://xueqiu.com/S/SZ002940",
           "amarket": true
@@ -36,8 +36,8 @@
           "name": "立讯精密",
           "code": "002475",
           "percent": 7.26,
-          "current_price": 52.55,
-          "change_percentage": -0.42,
+          "current_price": 54.07,
+          "change_percentage": -3.65,
           "xq_symbol": "SZ002475",
           "xq_url": "https://xueqiu.com/S/SZ002475",
           "amarket": true
@@ -46,8 +46,8 @@
           "name": "歌尔股份",
           "code": "002241",
           "percent": 7.16,
-          "current_price": 37.16,
-          "change_percentage": -2.24,
+          "current_price": 36.74,
+          "change_percentage": -1.55,
           "xq_symbol": "SZ002241",
           "xq_url": "https://xueqiu.com/S/SZ002241",
           "amarket": true
@@ -56,8 +56,8 @@
           "name": "深信服",
           "code": "300454",
           "percent": 5.85,
-          "current_price": 217.55,
-          "change_percentage": 3.2,
+          "current_price": 266,
+          "change_percentage": 7.25,
           "xq_symbol": "SZ300454",
           "xq_url": "https://xueqiu.com/S/SZ300454",
           "amarket": true
@@ -66,8 +66,8 @@
           "name": "汇川技术",
           "code": "300124",
           "percent": 4.33,
-          "current_price": 85.58,
-          "change_percentage": 1.04,
+          "current_price": 95.59,
+          "change_percentage": 2.45,
           "xq_symbol": "SZ300124",
           "xq_url": "https://xueqiu.com/S/SZ300124",
           "amarket": true
@@ -76,8 +76,8 @@
           "name": "恒生电子",
           "code": "600570",
           "percent": 4.29,
-          "current_price": 98.15,
-          "change_percentage": 1.31,
+          "current_price": 106.17,
+          "change_percentage": 1.21,
           "xq_symbol": "SH600570",
           "xq_url": "https://xueqiu.com/S/SH600570",
           "amarket": true
@@ -86,8 +86,8 @@
           "name": "东方财富",
           "code": "300059",
           "percent": 4.02,
-          "current_price": 28.05,
-          "change_percentage": 1.08,
+          "current_price": 32.2,
+          "change_percentage": 3.87,
           "xq_symbol": "SZ300059",
           "xq_url": "https://xueqiu.com/S/SZ300059",
           "amarket": true
@@ -96,8 +96,8 @@
           "name": "卫宁健康",
           "code": "300253",
           "percent": 3.89,
-          "current_price": 17.31,
-          "change_percentage": 1.82,
+          "current_price": 17.29,
+          "change_percentage": -1.2,
           "xq_symbol": "SZ300253",
           "xq_url": "https://xueqiu.com/S/SZ300253",
           "amarket": true
@@ -106,8 +106,8 @@
           "name": "用友网络",
           "code": "600588",
           "percent": 3.82,
-          "current_price": 46.29,
-          "change_percentage": 0.67,
+          "current_price": 45.71,
+          "change_percentage": 4.19,
           "xq_symbol": "SH600588",
           "xq_url": "https://xueqiu.com/S/SH600588",
           "amarket": true
@@ -189,7 +189,7 @@
             "fund_code": "519935",
             "fundsname": "长信创新驱动股票",
             "post_date": "2019-12-12",
-            "cp_rate": 40.5622
+            "cp_rate": 49.5582
           }
         ]
       }

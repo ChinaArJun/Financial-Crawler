@@ -15,8 +15,8 @@
           "name": "通策医疗",
           "code": "600763",
           "percent": 9.6,
-          "current_price": 233.45,
-          "change_percentage": 0.45,
+          "current_price": 268,
+          "change_percentage": -3.08,
           "xq_symbol": "SH600763",
           "xq_url": "https://xueqiu.com/S/SH600763",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "爱尔眼科",
           "code": "300015",
           "percent": 9.41,
-          "current_price": 66.63,
-          "change_percentage": -0.25,
+          "current_price": 68.22,
+          "change_percentage": -8.91,
           "xq_symbol": "SZ300015",
           "xq_url": "https://xueqiu.com/S/SZ300015",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "泰格医药",
           "code": "300347",
           "percent": 9.36,
-          "current_price": 135.45,
-          "change_percentage": 1.84,
+          "current_price": 166.82,
+          "change_percentage": 3.22,
           "xq_symbol": "SZ300347",
           "xq_url": "https://xueqiu.com/S/SZ300347",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 9.21,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "五粮液",
           "code": "000858",
           "percent": 9.12,
-          "current_price": 272,
-          "change_percentage": 0.65,
+          "current_price": 298.05,
+          "change_percentage": 2.12,
           "xq_symbol": "SZ000858",
           "xq_url": "https://xueqiu.com/S/SZ000858",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "招商积余",
           "code": "001914",
           "percent": 8.88,
-          "current_price": 24.03,
-          "change_percentage": -1.48,
+          "current_price": 20.65,
+          "change_percentage": -4.09,
           "xq_symbol": "SZ001914",
           "xq_url": "https://xueqiu.com/S/SZ001914",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "中公教育",
           "code": "002607",
           "percent": 7.57,
-          "current_price": 37,
-          "change_percentage": -1.04,
+          "current_price": 34.2,
+          "change_percentage": -2.65,
           "xq_symbol": "SZ002607",
           "xq_url": "https://xueqiu.com/S/SZ002607",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "豆神教育",
           "code": "300010",
           "percent": 6.52,
-          "current_price": 11.92,
-          "change_percentage": -0.83,
+          "current_price": 9.62,
+          "change_percentage": -1.43,
           "xq_symbol": "SZ300010",
           "xq_url": "https://xueqiu.com/S/SZ300010",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "恒瑞医药",
           "code": "600276",
           "percent": 5.96,
-          "current_price": 90.07,
-          "change_percentage": 0.21,
+          "current_price": 111.2,
+          "change_percentage": -0.23,
           "xq_symbol": "SH600276",
           "xq_url": "https://xueqiu.com/S/SH600276",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "特锐德",
           "code": "300001",
           "percent": 4.79,
-          "current_price": 25.6,
-          "change_percentage": -1.61,
+          "current_price": 31.27,
+          "change_percentage": 6.51,
           "xq_symbol": "SZ300001",
           "xq_url": "https://xueqiu.com/S/SZ300001",
           "amarket": true
@@ -162,55 +162,67 @@
         "name": "周谧",
         "resume": "    周谧先生,中国人民大学应用数学硕士。2008 年 9 月起历任中再资产管理股份有限公司金融工程研究员、平安证券有限责任公司高级策略分析师、国金创新投资有限公司量化投资经理、深圳铸成投资有限公司投资部副总监、财富证券有限责任公司投资经理、金信基金管理公司投资人员。2018 年 3 月起任金信转型创新成长灵活配置混合型发起式证券投资基金基金经理。2019 年 8 月起任金信量化精选灵活配置混合型发起式证券投资基金基金经理。2020 年 5 月起任金信稳健策略灵活配置混合型发起式证券投资基金。",
         "college": "中国人民大学",
-        "work_year": "12",
+        "work_year": "13",
         "achievement_list": [
           {
-            "fund_code": "006692",
-            "fundsname": "金信消费升级股票A",
-            "post_date": "2020-10-15",
-            "cp_rate": 5.3873
+            "fund_code": "005118",
+            "fundsname": "金信价值精选混合C",
+            "post_date": "2020-12-11",
+            "cp_rate": 5.9545
+          },
+          {
+            "fund_code": "005117",
+            "fundsname": "金信价值精选混合A",
+            "post_date": "2020-12-11",
+            "cp_rate": 5.9666
           },
           {
             "fund_code": "006693",
             "fundsname": "金信消费升级股票C",
             "post_date": "2020-10-15",
-            "cp_rate": 5.2695
+            "cp_rate": 16.8504
           },
           {
-            "fund_code": "005412",
-            "fundsname": "金信民长混合A",
-            "post_date": "2020-05-21",
-            "cp_rate": 19.95
+            "fund_code": "006692",
+            "fundsname": "金信消费升级股票A",
+            "post_date": "2020-10-15",
+            "cp_rate": 17.0407
           },
           {
             "fund_code": "005413",
             "fundsname": "金信民长混合C",
             "post_date": "2020-05-21",
-            "cp_rate": 14.08
+            "cp_rate": 34.68
+          },
+          {
+            "fund_code": "005412",
+            "fundsname": "金信民长混合A",
+            "post_date": "2020-05-21",
+            "cp_rate": 41.63
           },
           {
             "fund_code": "009317",
             "fundsname": "金信核心竞争力混合",
             "post_date": "2020-05-19",
-            "cp_rate": 80.2983
+            "cp_rate": 90.571
           },
           {
             "fund_code": "007872",
             "fundsname": "金信稳健策略混合",
             "post_date": "2020-05-06",
-            "cp_rate": 29.9455
+            "cp_rate": 35.8029
           },
           {
             "fund_code": "002862",
             "fundsname": "金信量化精选灵活配置混合",
             "post_date": "2019-08-06",
-            "cp_rate": 91.6159
+            "cp_rate": 116.6159
           },
           {
             "fund_code": "002810",
             "fundsname": "金信转型创新成长灵活配置混合",
             "post_date": "2018-03-05",
-            "cp_rate": 46.1394
+            "cp_rate": 64.4068
           }
         ]
       }

@@ -15,8 +15,8 @@
           "name": "赣锋锂业",
           "code": "002460",
           "percent": 8.11,
-          "current_price": 82.24,
-          "change_percentage": 3.06,
+          "current_price": 111.32,
+          "change_percentage": 10,
           "xq_symbol": "SZ002460",
           "xq_url": "https://xueqiu.com/S/SZ002460",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "贵州茅台",
           "code": "600519",
           "percent": 4.38,
-          "current_price": 1850,
-          "change_percentage": 2.07,
+          "current_price": 1997,
+          "change_percentage": -0.05,
           "xq_symbol": "SH600519",
           "xq_url": "https://xueqiu.com/S/SH600519",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "通威股份",
           "code": "600438",
           "percent": 4.27,
-          "current_price": 29.2,
-          "change_percentage": -1.85,
+          "current_price": 41.65,
+          "change_percentage": 8.35,
           "xq_symbol": "SH600438",
           "xq_url": "https://xueqiu.com/S/SH600438",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "招商银行",
           "code": "600036",
           "percent": 4.19,
-          "current_price": 44.26,
-          "change_percentage": -0.36,
+          "current_price": 43.17,
+          "change_percentage": -1.77,
           "xq_symbol": "SH600036",
           "xq_url": "https://xueqiu.com/S/SH600036",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "龙蟒佰利",
           "code": "002601",
           "percent": 4.08,
-          "current_price": 31.77,
-          "change_percentage": 2.22,
+          "current_price": 32.23,
+          "change_percentage": 4.74,
           "xq_symbol": "SZ002601",
           "xq_url": "https://xueqiu.com/S/SZ002601",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "中信证券",
           "code": "600030",
           "percent": 3.69,
-          "current_price": 30.01,
-          "change_percentage": 0,
+          "current_price": 29.18,
+          "change_percentage": -0.75,
           "xq_symbol": "SH600030",
           "xq_url": "https://xueqiu.com/S/SH600030",
           "amarket": true
@@ -75,7 +75,7 @@
           "name": "华域汽车",
           "code": "600741",
           "percent": 3.63,
-          "current_price": 30.5,
+          "current_price": 29.31,
           "change_percentage": 1.7,
           "xq_symbol": "SH600741",
           "xq_url": "https://xueqiu.com/S/SH600741",
@@ -85,8 +85,8 @@
           "name": "中国平安",
           "code": "601318",
           "percent": 3.4,
-          "current_price": 88.05,
-          "change_percentage": -2.58,
+          "current_price": 85.18,
+          "change_percentage": -2.07,
           "xq_symbol": "SH601318",
           "xq_url": "https://xueqiu.com/S/SH601318",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "兴业银行",
           "code": "601166",
           "percent": 3.36,
-          "current_price": 20.26,
-          "change_percentage": -1.17,
+          "current_price": 19.65,
+          "change_percentage": -5.85,
           "xq_symbol": "SH601166",
           "xq_url": "https://xueqiu.com/S/SH601166",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "美的集团",
           "code": "000333",
           "percent": 3.18,
-          "current_price": 86.7,
-          "change_percentage": -1.54,
+          "current_price": 99.01,
+          "change_percentage": 0.58,
           "xq_symbol": "SZ000333",
           "xq_url": "https://xueqiu.com/S/SZ000333",
           "amarket": true
@@ -184,25 +184,25 @@
             "fund_code": "007137",
             "fundsname": "鹏扬元合量化大盘优选股票A",
             "post_date": "2020-06-09",
-            "cp_rate": 35.9935
+            "cp_rate": 46.8986
           },
           {
             "fund_code": "007138",
             "fundsname": "鹏扬元合量化大盘优选股票C",
             "post_date": "2020-06-09",
-            "cp_rate": 35.4631
+            "cp_rate": 46.2485
           },
           {
             "fund_code": "007593",
             "fundsname": "鹏扬中证500质量成长指数A",
             "post_date": "2019-08-29",
-            "cp_rate": 50.28
+            "cp_rate": 48.73
           },
           {
             "fund_code": "007594",
             "fundsname": "鹏扬中证500质量成长指数C",
             "post_date": "2019-08-29",
-            "cp_rate": 49.31
+            "cp_rate": 47.74
           }
         ]
       }
@@ -213,8 +213,8 @@
       "buy_query_date": 1,
       "sale_confirm_date": 1,
       "sale_query_date": 3,
-      "all_buy_days": 2,
-      "all_sale_days": 4
+      "all_sale_days": 4,
+      "all_buy_days": 2
     }
   },
   "result_code": 0

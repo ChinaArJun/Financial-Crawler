@@ -15,8 +15,8 @@
           "name": "信维通信",
           "code": "300136",
           "percent": 5.73,
-          "current_price": 44.67,
-          "change_percentage": -1.33,
+          "current_price": 36.17,
+          "change_percentage": 0.81,
           "xq_symbol": "SZ300136",
           "xq_url": "https://xueqiu.com/S/SZ300136",
           "amarket": true
@@ -25,8 +25,8 @@
           "name": "良信股份",
           "code": "002706",
           "percent": 4.98,
-          "current_price": 25.8,
-          "change_percentage": 0.74,
+          "current_price": 29.79,
+          "change_percentage": -2.77,
           "xq_symbol": "SZ002706",
           "xq_url": "https://xueqiu.com/S/SZ002706",
           "amarket": true
@@ -35,8 +35,8 @@
           "name": "晶盛机电",
           "code": "300316",
           "percent": 4.51,
-          "current_price": 29.1,
-          "change_percentage": -2.51,
+          "current_price": 32.3,
+          "change_percentage": 7.38,
           "xq_symbol": "SZ300316",
           "xq_url": "https://xueqiu.com/S/SZ300316",
           "amarket": true
@@ -45,8 +45,8 @@
           "name": "欣旺达",
           "code": "300207",
           "percent": 4.38,
-          "current_price": 29.45,
-          "change_percentage": 7.05,
+          "current_price": 31.74,
+          "change_percentage": 3.35,
           "xq_symbol": "SZ300207",
           "xq_url": "https://xueqiu.com/S/SZ300207",
           "amarket": true
@@ -55,8 +55,8 @@
           "name": "玲珑轮胎",
           "code": "601966",
           "percent": 3.54,
-          "current_price": 33.4,
-          "change_percentage": -2.34,
+          "current_price": 38.68,
+          "change_percentage": 9.98,
           "xq_symbol": "SH601966",
           "xq_url": "https://xueqiu.com/S/SH601966",
           "amarket": true
@@ -65,8 +65,8 @@
           "name": "三环集团",
           "code": "300408",
           "percent": 3.5,
-          "current_price": 34.98,
-          "change_percentage": 1.75,
+          "current_price": 37.01,
+          "change_percentage": -0.64,
           "xq_symbol": "SZ300408",
           "xq_url": "https://xueqiu.com/S/SZ300408",
           "amarket": true
@@ -75,8 +75,8 @@
           "name": "麦格米特",
           "code": "002851",
           "percent": 3.43,
-          "current_price": 37.96,
-          "change_percentage": 2.13,
+          "current_price": 35.9,
+          "change_percentage": 5.4,
           "xq_symbol": "SZ002851",
           "xq_url": "https://xueqiu.com/S/SZ002851",
           "amarket": true
@@ -85,8 +85,8 @@
           "name": "明阳智能",
           "code": "601615",
           "percent": 3.42,
-          "current_price": 17.21,
-          "change_percentage": -0.81,
+          "current_price": 20,
+          "change_percentage": 5.37,
           "xq_symbol": "SH601615",
           "xq_url": "https://xueqiu.com/S/SH601615",
           "amarket": true
@@ -95,8 +95,8 @@
           "name": "宏发股份",
           "code": "600885",
           "percent": 3.33,
-          "current_price": 50.51,
-          "change_percentage": 0.3,
+          "current_price": 58.27,
+          "change_percentage": 7.47,
           "xq_symbol": "SH600885",
           "xq_url": "https://xueqiu.com/S/SH600885",
           "amarket": true
@@ -105,8 +105,8 @@
           "name": "卫星石化",
           "code": "002648",
           "percent": 3.28,
-          "current_price": 25.3,
-          "change_percentage": -0.67,
+          "current_price": 26,
+          "change_percentage": -0.46,
           "xq_symbol": "SZ002648",
           "xq_url": "https://xueqiu.com/S/SZ002648",
           "amarket": true
@@ -177,79 +177,79 @@
       {
         "name": "张琦",
         "resume": "    张琦,金融学硕士,2005年1月至2015年5月任职中银基金管理有限公司,先后担任行业研究员、基金经理助理和基金经理等。2015年6月加入国寿安保基金管理有限公司,现任国寿安保基金管理有限公司股票投资总监、股票投资部总监,2015年9月起任国寿安保智慧生活股票型证券投资基金基金经理,2015年12月起任国寿安保成长优选股票型证券投资基金基金经理,2016年2月至2017年11月任国寿安保核心产业灵活配置混合型证券投资基金基金经理,2016年9月至2017年11月任国寿安保强国智造灵活配置混合型证券投资基金基金经理,2017年10月起任国寿安保目标策略灵活配置混合型发起式证券投资基金基金经理,2017年11月起任国寿安保健康科学混合型证券投资基金基金经理,2018年2月起任国寿安保消费新蓝海灵活配置混合型证券投资基金基金经理,2018年4月起任国寿安保华兴灵活配置混合型证券投资基金基金经理。",
-        "work_year": "15",
+        "work_year": "16",
         "achievement_list": [
           {
             "fund_code": "009501",
             "fundsname": "国寿安保高股息混合C",
             "post_date": "2020-09-27",
-            "cp_rate": 1.8698
+            "cp_rate": 0.12
           },
           {
             "fund_code": "009500",
             "fundsname": "国寿安保高股息混合A",
             "post_date": "2020-09-27",
-            "cp_rate": 1.9298
+            "cp_rate": 0.2
           },
           {
             "fund_code": "501097",
             "fundsname": "国寿安保科创3年封闭混合",
             "post_date": "2020-03-26",
-            "cp_rate": 15.76
+            "cp_rate": 21.42
           },
           {
             "fund_code": "008083",
             "fundsname": "国寿安保研究精选混合C",
             "post_date": "2019-12-30",
-            "cp_rate": 40.95
+            "cp_rate": 41.78
           },
           {
             "fund_code": "008082",
             "fundsname": "国寿安保研究精选混合A",
             "post_date": "2019-12-30",
-            "cp_rate": 41.34
+            "cp_rate": 42.21
           },
           {
             "fund_code": "007074",
             "fundsname": "国寿安保新蓝筹混合",
             "post_date": "2019-05-29",
-            "cp_rate": 43.12
+            "cp_rate": 47.66
           },
           {
             "fund_code": "005683",
             "fundsname": "国寿安保华兴灵活配置混合",
             "post_date": "2018-04-28",
-            "cp_rate": 100.29
+            "cp_rate": 112.9013
           },
           {
             "fund_code": "005175",
             "fundsname": "国寿安保消费新蓝海混合",
             "post_date": "2018-02-11",
-            "cp_rate": 76.3695
+            "cp_rate": 83.0668
           },
           {
             "fund_code": "005044",
             "fundsname": "国寿安保健康科学混合C",
             "post_date": "2017-11-01",
-            "cp_rate": 64.11
+            "cp_rate": 74.4
           },
           {
             "fund_code": "005043",
             "fundsname": "国寿安保健康科学混合A",
             "post_date": "2017-11-01",
-            "cp_rate": 65.98
+            "cp_rate": 76.42
           },
           {
             "fund_code": "004819",
             "fundsname": "国寿安保目标策略混合发起C",
             "post_date": "2017-10-24",
-            "cp_rate": 12.63
+            "cp_rate": 12.74
           },
           {
             "fund_code": "004818",
             "fundsname": "国寿安保目标策略混合发起A",
             "post_date": "2017-10-24",
-            "cp_rate": 13.21
+            "cp_rate": 13.32
           },
           {
             "fund_code": "003131",
@@ -269,13 +269,13 @@
             "fund_code": "001521",
             "fundsname": "国寿安保成长优选股票",
             "post_date": "2015-12-11",
-            "cp_rate": 77.46
+            "cp_rate": 77.89
           },
           {
             "fund_code": "001672",
             "fundsname": "国寿安保智慧生活股票",
             "post_date": "2015-09-23",
-            "cp_rate": 105.7758
+            "cp_rate": 110.7608
           },
           {
             "fund_code": "000591",
@@ -350,37 +350,37 @@
             "fund_code": "004406",
             "fundsname": "国寿安保稳寿混合C",
             "post_date": "2019-08-09",
-            "cp_rate": 21.7968
+            "cp_rate": 23.8954
           },
           {
             "fund_code": "004405",
             "fundsname": "国寿安保稳寿混合A",
             "post_date": "2019-08-09",
-            "cp_rate": 22.0211
+            "cp_rate": 24.1158
           },
           {
             "fund_code": "004757",
             "fundsname": "国寿安保稳吉混合C",
             "post_date": "2019-08-09",
-            "cp_rate": 21.2017
+            "cp_rate": 22.7387
           },
           {
             "fund_code": "004756",
             "fundsname": "国寿安保稳吉混合A",
             "post_date": "2019-08-09",
-            "cp_rate": 21.3449
+            "cp_rate": 22.8888
           },
           {
             "fund_code": "007074",
             "fundsname": "国寿安保新蓝筹混合",
             "post_date": "2019-05-29",
-            "cp_rate": 43.12
+            "cp_rate": 47.66
           },
           {
             "fund_code": "001521",
             "fundsname": "国寿安保成长优选股票",
             "post_date": "2018-04-04",
-            "cp_rate": 44.1592
+            "cp_rate": 44.5085
           }
         ]
       }
