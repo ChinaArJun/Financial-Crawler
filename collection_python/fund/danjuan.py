@@ -152,27 +152,31 @@ CREATE TABLE `danjuan_fund` (
 
 
 def save_mysql(fund_code, fund_name, managers, enddate, detail_json, type):
-    query = db.insert(Table).values(
-        fund_name=fund_name,
-        fund_code=fund_code,
-        managers=managers,
-        enddate=enddate,
-        detail_json=detail_json,
-        type=type,
-    )
-    err = Connection.execute(query)
-    print("insert:", err.is_insert)
 
-    if err.is_insert != True:
-        err = Connection.execute(db.update(Table).values(
+    try:
+        query = db.insert(Table).values(
             fund_name=fund_name,
             fund_code=fund_code,
             managers=managers,
             enddate=enddate,
             detail_json=detail_json,
             type=type,
-        ))
+        )
+        err = Connection.execute(query)
+        print("insert:", err.is_insert)
+    except:
+        query = db.update(Table).values(
+            fund_code=fund_code,
+            fund_name=fund_name,
+            managers=managers,
+            enddate=enddate,
+            detail_json=detail_json,
+            type=type,
+        ).where(Table.columns.fund_code == fund_code)
+        err = Connection.execute(query)
         print("update:", err.is_insert)
+
+
 
 
 def request_and_save(fund_code, fund_name, type):
@@ -226,45 +230,45 @@ def get_danke_all_funds(type = 1):
     items = []
     codes = []  # [ (code, name) ]
 
-    # with open("./all_funds_%s.json"%type) as f:
-    #     res = json.load(f)
-    #     if len(res) > 0:
-    #         for item in res:
-    #             fund_code = item["fd_code"]
-    #             fund_name = item['fd_name']
-    #             codes.append((fund_code, fund_name))
-    #             items.append(item)
-    #         currentItems = []
-    #         return codes
+    with open("./all_funds_%s.json"%type) as f:
+        res = json.load(f)
+        if len(res) > 0:
+            for item in res:
+                fund_code = item["fd_code"]
+                fund_name = item['fd_name']
+                codes.append((fund_code, fund_name))
+                items.append(item)
+            currentItems = []
+            return codes
 
 
-    while len(currentItems) != 0:
-        resp = requests.get(
-            "https://danjuanfunds.com/djapi/v3/filter/fund?type=%s&order_by=1m&size=100&page=%s"%(type,page),
-            headers={
-                "Accept": "application/json; charset=utf-8",
-                "Accept-Language": "zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7",
-                "Connection": "keep-alive",
-                "Origin": "https://danjuanfunds.com/rank/performance",
-                "Referer": "https://danjuanfunds.com/rank/performance",
-                "Sec-Fetch-Dest": "empty",
-                "Sec-Fetch-Mode": "cors",
-                "Sec-Fetch-Site": "same-site",
-                "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"},
-            cookies={
-
-            },  # TODO 用浏览器查询请求，改成你自己的 uncurl requests 代码，注意你的 cookie 不要随便泄露出去
-        )
-        print(resp.text)
-
-        res = json.loads(resp.text)
-        for item in res['data']['items']:
-            fund_code = item["fd_code"]
-            fund_name = item['fd_name']
-            codes.append((fund_code, fund_name))
-            items.append(item)
-        currentItems = res['data']['items']
-        page+=1
+    # while len(currentItems) != 0:
+    #     resp = requests.get(
+    #         "https://danjuanfunds.com/djapi/v3/filter/fund?type=%s&order_by=1m&size=100&page=%s"%(type,page),
+    #         headers={
+    #             "Accept": "application/json; charset=utf-8",
+    #             "Accept-Language": "zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7",
+    #             "Connection": "keep-alive",
+    #             "Origin": "https://danjuanfunds.com/rank/performance",
+    #             "Referer": "https://danjuanfunds.com/rank/performance",
+    #             "Sec-Fetch-Dest": "empty",
+    #             "Sec-Fetch-Mode": "cors",
+    #             "Sec-Fetch-Site": "same-site",
+    #             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"},
+    #         cookies={
+    #
+    #         },  # TODO 用浏览器查询请求，改成你自己的 uncurl requests 代码，注意你的 cookie 不要随便泄露出去
+    #     )
+    #     print(resp.text)
+    #
+    #     res = json.loads(resp.text)
+    #     for item in res['data']['items']:
+    #         fund_code = item["fd_code"]
+    #         fund_name = item['fd_name']
+    #         codes.append((fund_code, fund_name))
+    #         items.append(item)
+    #     currentItems = res['data']['items']
+    #     page+=1
     with open("all_funds_%s.json"%type, "w") as f:
         json.dump(items, f, indent=2, ensure_ascii=False)
     return codes
@@ -274,7 +278,12 @@ def crawl_all_my_funds_to_mysql(type):
     __import__('pprint').pprint(funds)
 
     for fund_code, fund_name in funds:
-        request_and_save(fund_code, fund_name, type)
+        query = db.select(Table).where("fund_code = ?",fund_code)
+        res = Connection.execute('select * from students where id=7')
+        rows = res.fetchall()
+        if len(rows) <= 0:
+            request_and_save(fund_code, fund_name, type)
+
         # time.sleep(random.randint(5, 10))  # 注意慢一点，随机 sleep 防止命中反作弊
 
 
